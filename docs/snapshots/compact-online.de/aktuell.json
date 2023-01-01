@@ -1,0 +1,311 @@
+{
+  "timestamp": "2023-01-01T14:10:09",
+  "url": "https://www.compact-online.de/compact-aktuell/",
+  "response": {
+    "status": 200
+  },
+  "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+      "id": "jquery-core-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "id": "jquery-migrate-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/uploads/712/354/public/assets/js/839.js?ver=1.39.1",
+      "id": "advanced-ads-advanced-js-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.9.2",
+      "id": "font-awesome-4-shim-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/wp-gdpr-compliance/Assets/js/front.min.js?ver=1665243744",
+      "id": "wpgdprc-front-js-js",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.googletagmanager.com/gtag/js?id=AW-804991562",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/lazyload.js?ver=9.0.0",
+      "id": "smartmag-lazyload-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/news-ticker-widget-for-elementor/assets/js/ticker.js?ver=1.0",
+      "id": "ticker-script-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=4.7.70",
+      "id": "dlm-xhr-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+      "id": "jquery-ui-core-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=6.1.1",
+      "id": "qi-addons-for-elementor-script-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/ga-germanized/assets/js/cookieconsent.js?ver=3.1.1",
+      "id": "cookieconsent-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/ga-germanized/assets/js/gaoptout.js?ver=1.6.2",
+      "id": "google-analytics-germanized-gaoptout-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/jquery.mfp-lightbox.js?ver=9.0.0",
+      "id": "magnific-popup-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.js?ver=9.0.0",
+      "id": "theia-sticky-sidebar-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/theme.js?ver=9.0.0",
+      "id": "smartmag-theme-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.1.1",
+      "id": "remote_sdk-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.9.2",
+      "id": "elementor-webpack-runtime-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.9.2",
+      "id": "elementor-frontend-modules-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+      "id": "elementor-waypoints-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6",
+      "id": "swiper-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.9.2",
+      "id": "share-link-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0",
+      "id": "elementor-dialog-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.9.2",
+      "id": "elementor-frontend-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9",
+      "id": "regenerator-runtime-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+      "id": "wp-polyfill-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5",
+      "id": "wp-hooks-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae",
+      "id": "wp-i18n-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=6.1.1",
+      "id": "qi-addons-for-elementor-elementor-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.9.2",
+      "id": "preloaded-modules-js",
+      "text": null
+    }
+  ],
+  "articles": [
+    {
+      "title": "Unser Geschenk für Sie: „Das Große Erwachen“",
+      "teaser": "Der Transhumanismus ist auf dem Vormarsch. Doch noch ist es Zeit, den Globalisten Einhalt zu…"
+    },
+    {
+      "title": "Wahnsinn: Sprachkritiker wählen „Freiheit” zur Floskel des Jahres 2022!",
+      "teaser": "Jetzt haben selbsternannte Sprachkritiker sogar dem Wort „Freiheit” einen Negativ-Preis verliehen: Der Begriff werde missbraucht……"
+    },
+    {
+      "title": "Taz-Reisen 2023: Nur für Geimpfte!",
+      "teaser": "Diese Meldung ist eine Übernahme vom COMPACT-Kanal auf Telegram: Folgt uns dort für Nachrichten und…"
+    },
+    {
+      "title": "EU und NATO geeint wie lange nicht",
+      "teaser": "Zitat des Tages: „Die Europäische Union und die Nato stehen nicht gespalten da, wie in…"
+    },
+    {
+      "title": "Benedikt XVI und der Machtkampf im Vatikan",
+      "teaser": "Joseph Ratzinger. emeritierter Papst Benedikt XVI. ist heute verstorben. Aus diesem Anlass würdigt COMPACT erneut…"
+    },
+    {
+      "title": "COMPACT wünscht einen guten Rutsch!",
+      "teaser": "Liebe Leser, Freunde und Unterstützer, die Redaktion von COMPACT wünscht Ihnen einen guten Rutsch und…"
+    },
+    {
+      "title": "O-Ton Putin: Verhängnis der UdSSR",
+      "teaser": "100 Jahre Sowjetunion. In einer Rede beschreibt der russische Präsident Wladimir Putin die Entstehung der…"
+    },
+    {
+      "title": "Demokratie? Freiheit? Deutsche skeptisch",
+      "teaser": "Mit großer Sorge blicken die Deutschen auf das anstehende Jahr 2023: Ukraine-Krise, steigende Preise, Energiealarm!…"
+    },
+    {
+      "title": "Lügenpresse: „Spiegel“ erfand totes Flüchtlingsmädchen",
+      "teaser": "Vier Jahre nach dem Auffliegen des Relotius-Skandals muss der Spiegel wieder eine Fälschung einräumen. In…"
+    },
+    {
+      "title": "Lang: Grüne werden die neue Wirtschaftspartei",
+      "teaser": "Zitat des Tages: „Ökonomische Debatten stünden heute im Zentrum progressiver Debatten – ,während man sich…"
+    },
+    {
+      "title": "USA vs China: Endspiel um die Weltherrschaft",
+      "teaser": "Während es bei Corona noch so aussah, als ob die Eliten in Washington und Peking…"
+    },
+    {
+      "title": "Natürlich: Montgomery verdient an mRNA-Impfungen",
+      "teaser": "Frank Ulrich Montgomery, Chef des Weltärztebundes, erklärte vor wenigen Tagen, dass es tatsächlich eine „Tyrannei…"
+    },
+    {
+      "title": "Basisch oder sauer? Die richtige Mischung macht’s!",
+      "teaser": "Vegetarisch, vegan und jetzt basisch? Ist ein neuer Ernährungstrend im Anmarsch? Unsere Ernährung ist mitentscheidend…"
+    },
+    {
+      "title": "Schlechte Bilanz: Kein deutscher Konzern unter Top 100",
+      "teaser": "Unter den größten 100 börsennotierten Unternehmen der Welt befindet sich kein einziges deutsches Unternehmen mehr.…"
+    },
+    {
+      "title": "Das letzte Gefecht",
+      "teaser": "Globale Eliten haben der Spezies Menschen den Krieg erklärt. Projekte zu seiner Ablösung laufen auf…"
+    },
+    {
+      "title": "England: Wirbel um COMPACT-Heft mit Wagenknecht",
+      "teaser": "Internationales Aufsehen erregt das COMPACT-Magazin mit der Dezember-Ausgabe „Wagenknecht ¬Die beste Kanzlerin“. The Guardian berichtet…"
+    },
+    {
+      "title": "Apotheken leer, Tafeln hoch frequentiert",
+      "teaser": "Zitat des Tages: „Die Tafeln sind voll, die Apotheken sind leer. Das Deutschland der Ampel.”…"
+    },
+    {
+      "title": "2023: Gewinnt der Widerstand?",
+      "teaser": "Was sind die Perspektiven des Widerstandes 2023? Aufbauen können wir auf das, was 2022 erreicht…"
+    },
+    {
+      "title": "Rekordkälte in USA und Asien: Klima-Irre widerlegt",
+      "teaser": "Fast 100 Kältetote wurden in den vergangenen Tagen aus Japan und den Vereinigten Staaten gemeldet.…"
+    },
+    {
+      "title": "2023: Platzt dann endlich der Kragen?",
+      "teaser": "„Aufstand gegen die Inflation“ ist ein Beitrag von COMPACT-Herausgeber Jürgen Elsässer überschrieben. Wie realistisch ist…"
+    },
+    {
+      "title": "Schuldkult: Britische Verbrechen auf deutschen Schultern",
+      "teaser": "Übernimmt Deutschland am Ende nun auch noch die Verantwortung für britischen, portugiesischen und arabischen Sklavenhandel?…"
+    },
+    {
+      "title": "Unzensierte „Putin-Versteherin“: Ärger für Chefredakteur",
+      "teaser": "Der Chefredakteur einer Tageszeitung hat Ärger, weil er „Putin-Versteherin“ Krone-Schmalz ausreden ließ. Was darf man…"
+    },
+    {
+      "title": "Robert Habeck wird scheitern",
+      "teaser": "Zitat des Tages: „Experten sicher: Habecks Ökostrom-Plan scheitert. Der Ausbau der Windkraft stockt, es fehlen…"
+    },
+    {
+      "title": "2023/24: Vorsicht, Enteignung!",
+      "teaser": "Vorsicht, Enteignung – 2023/24 wird es ernst. Ein entsprechendes Gesetz, das dem Staat umfassende Zugriffsmöglichkeiten…"
+    },
+    {
+      "title": "Ukraine: Die Amtskirchen als Kriegstreiber",
+      "teaser": "In Deutschland sprechen sich Vertreter der Amtskirchen für Waffenlieferungen gegen Russland aus. Damit ist ein…"
+    },
+    {
+      "title": "Furcht vor dem Volk? CDU in Angst um Reichstag",
+      "teaser": "Die CDU fürchtet sich vor Reichsbürgern und will den Bundestag zur Festung ausbauen. Oder ist…"
+    },
+    {
+      "title": "Schweden: Klare Worte bei der Weihnachtsansprache",
+      "teaser": "Normalerweise sind Weihnachtsansprachen ein belangloses und oftmals ärgerliches Gesäusel etablierter Politiker. In Schweden wurde hier…"
+    },
+    {
+      "title": "Dunkle Vorahnungen: Wird 2023 noch schlimmer?",
+      "teaser": "Zum Jahreswechsel sind die meisten Deutschen in Sorge. Kein Wunder! Die Politik lässt uns im…"
+    },
+    {
+      "title": "Russland will Nord Stream reparieren",
+      "teaser": "Zitat des Tages: „Ende September zerstören mehrere Detonationen die beiden Nord-Stream-Röhren am Boden der Ostsee.…"
+    },
+    {
+      "title": "2023 – Droht der direkte Krieg NATO gegen Russland?",
+      "teaser": "2023 – Droht der direkte Krieg NATO gegen Russland? Es gibt besorgniserregende Anzeichen, dass der…"
+    }
+  ]
+}
