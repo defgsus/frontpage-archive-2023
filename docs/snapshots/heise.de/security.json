@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-02T08:15:50",
+  "timestamp": "2023-01-02T09:12:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix ADC und Gateway",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Tausende-Citrix-Server-sind-noch-verwundbar-7445281.html"
+    },
+    {
       "title": "Synology",
       "url": "https://www.heise.de/news/Synology-warnt-vor-kritischer-Luecke-in-VPN-Plus-Server-7444783.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-Sicherheitsluecken-im-Passwortmanager-Passwordstate-kombinieren-7442334.html"
     },
     {
-      "title": "AV-Software von Norton",
-      "url": "https://www.heise.de/news/Wichtige-Sicherheitsupdates-fuer-Avira-Security-AVG-Antivirus-Co-7441040.html"
+      "title": "Jetzt patchen! Tausende Citrix-Server sind noch verwundbar",
+      "teaser": "Angreifer nutzen derzeit kritische Lücken in Citrix ADC und Gateway aus. Trotz verfügbarer Sicherheitspatches sind viele Instanzen noch nicht gepatcht.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Tausende-Citrix-Server-sind-noch-verwundbar-7445281.html"
     },
     {
       "title": "Rund 230 Millionen Deezer-Datensätze zu Have I been pwned hinzugefügt",
@@ -147,11 +152,6 @@
       "title": "Wichtige Sicherheitsupdates für Avira Security, AVG Antivirus & Co.",
       "teaser": "Norton hat in seinem Portfolio von Anti-Viren-Software mehrere Sicherheitslücken geschlossen. Angreifer könnten sich höhere Nutzerrechte verschaffen.",
       "url": "https://www.heise.de/news/Wichtige-Sicherheitsupdates-fuer-Avira-Security-AVG-Antivirus-Co-7441040.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer könnten Synology-Router kompromittieren",
-      "teaser": "Aktuelle Versionen von Synology Router Manager schließen mehrere Sicherheitslücken. Der Hersteller stuft den Schweregrad als kritisch ein.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-Synology-Router-kompromittieren-7440888.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
