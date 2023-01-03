@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-03T11:10:27",
+  "timestamp": "2023-01-03T12:25:05",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -49,14 +49,28 @@
     },
     {
       "type": null,
-      "src": "https://live0.zeit.de/zon-er/zon-er-231122.js",
+      "src": "https://live0.zeit.de/zon-er/zon-er-230103-hp.js",
       "id": "er-javascript",
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Z+ Wenn Monster unter dem Bett wohnen",
+      "title": "Z+ Dreimal Dreikönigskuchen",
+      "teaser": "Zum Dreikönigstag gibt es traditionell Kuchen, in dem sich eine Bohne versteckt – die Finderin ist Königin für einen Tag. Hier kommen drei Rezepte von simpel bis schwer.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-12/dreikoenigskuchen-blaetterteig-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/dreikoenigskuchen-blaetterteig-rezept-wochenmarkt-teaserbild/wide__822x462",
+      "image_title": "Dreikönigskuchen: Dreimal Dreikönigskuchen"
+    },
+    {
+      "title": "Z+ Sinnkrise: Was hilft bei einer Quarterlife-Crisis?",
+      "teaser": "Mit 25 beginnt man zu arbeiten, wird erwachsen. Das und die unsichere Weltlage können einen aus der Bahn werfen – es sei denn, man stellt die richtigen Fragen.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/01/quarterlife-crisis-sinnkrise-lebensabschnitt-hilfe",
+      "image_url": "https://img.zeit.de/zeit-magazin/2021-06/tara-christopeit-paartherapeutin/wide__822x462",
+      "image_title": "Sinnkrise: Was hilft bei einer Quarterlife-Crisis?"
+    },
+    {
+      "title": "Z+ Selbstvertrauen bei Kindern: Wenn Monster unter dem Bett wohnen",
       "teaser": "Kinder ängstigen sich vor vielen Dingen. Doch es gibt Gründe, warum manche schreckhafter sind, und Möglichkeiten, ihnen mehr Selbstvertrauen zu geben.",
       "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/selbstvertrauen-kinder-angst-selbstbewusstsein-staerken-eltern",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-12/angst-kinder/wide__822x462",
@@ -70,30 +84,16 @@
       "image_title": "Winter: Die Kippen schmecken im Winter besser"
     },
     {
-      "title": "Z+ Altersunterschied: \"Trennt er sich wirklich?\"",
-      "teaser": "Mit Anfang 30 lernt sie einen Mann kennen – 21 Jahre älter und verheiratet. Was passiert, wenn man der Liebe trotzdem eine Chance gibt.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/01/altersunterschied-beziehung-familie-liebe-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/altersunterschied-beziehung-familie-liebe-bild/wide__822x462",
-      "image_title": "Altersunterschied: \"Trennt er sich wirklich?\""
-    },
-    {
-      "title": "Z+ Chinesische Nudeln mit Chiliöl: Im Nudelhimmel",
-      "teaser": "Wenige Zutaten, einfache Zubereitung: So muss ein Nudelgericht sein. Wenn es trotzdem wunderbar komplex schmeckt, kann es nur eins sein: Streetfood aus China.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/chinesische-nudeln-knoblauch-chili-streetfood",
-      "image_url": "https://img.zeit.de/2022-12/chinesische-nudeln-knoblauch-chili/wide__822x462",
-      "image_title": "Chinesische Nudeln mit Chiliöl: Im Nudelhimmel"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Biker-Mode: Abgefahren",
-      "url": "https://www.zeit.de/zeit-magazin/2023/01/biker-mode-kollektionen-stil",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/biker-mode-kollektionen-stil-bild/tile__315x394",
-      "image_title": "Biker-Mode: Abgefahren"
+      "title": "Z+ Altersunterschied: \"Trennt er sich wirklich?\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/01/altersunterschied-beziehung-familie-liebe-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/altersunterschied-beziehung-familie-liebe-bild/tile__315x394",
+      "image_title": "Altersunterschied: \"Trennt er sich wirklich?\""
     },
     {
       "title": "Der Apfel braucht inzwischen selbst einen Doktor",
@@ -120,6 +120,13 @@
       "image_title": "Lebensmittelhändler: Früchte der Liebe"
     },
     {
+      "title": "Z+ Biker-Mode: Abgefahren",
+      "teaser": "Es gibt absolut keinen rationalen Grund, Motorrad zu fahren, außer dem Motorradfahren selbst. Trotzdem ist es jetzt auch in der Mode angekommen.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/01/biker-mode-kollektionen-stil",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/biker-mode-kollektionen-stil-bild/wide__822x462",
+      "image_title": "Biker-Mode: Abgefahren"
+    },
+    {
       "title": "Z+ Harald Martenstein: Abhärtung für die Seele",
       "teaser": "An britischen Universitäten bekommen Bücher Triggerwarnungen. Unser Autor hält nicht viel von einer solchen Zensur. Er findet, von Zombiefilmen könnte man viel lernen.",
       "url": "https://www.zeit.de/zeit-magazin/2023/01/harald-martenstein-trigger-warnung-hochschulen",
@@ -134,11 +141,11 @@
       "image_title": "Tod des Kindes: Heilt es nie?"
     },
     {
-      "title": "Z+ Altwerden: Eine letzte Runde noch!",
-      "teaser": "In Deutschland sind 22 Millionen Menschen mindestens sechzig Jahre alt, mehr als jeder Vierte. So auch unser Kolumnist. Gelassen hat ihn das Alter aber nicht gemacht.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/01/altwerden-generationen-schuld-harald-martenstein",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/01/mit-70-hat-man-noch-traeume-bild-1/wide__822x462",
-      "image_title": "Altwerden: Eine letzte Runde noch!"
+      "title": "Z+ Geschwisterrollen: Kann ich irgendwann mal die Große sein?",
+      "teaser": "Unsere Autorin war als Jüngste lauter und rebellischer als ihre Schwester. Wie entstehen solche Rollen und wie prägen sie uns? Und wodurch wird man sie wieder los?",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2022-11/familie-geschwister-rollen-kinder-charakter",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-11/familie-geschwister-bild/wide__822x462",
+      "image_title": "Geschwisterrollen: Kann ich irgendwann mal die Große sein?"
     },
     {
       "title": "Z+ Dünne Frauen und Bodyshaming: Ferndiagnose Anorexie",
@@ -197,11 +204,10 @@
       "image_title": "Afghanistan: Ein Teppich voller Hass"
     },
     {
-      "title": "Z+ Timon Karl Kaleyta : Die Ehe hat einen Knacks",
-      "teaser": "Der Autor Timon Karl Kaleyta macht oft wertvolle Gegenstände seiner Frau kaputt. Ein Lehrstück über die Wahrheit – und ein angeknackstes Jahr, das zu Ende gehen soll.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/timon-karl-kaleyta-schriftsteller-vaeter-unzulaenglichkeiten-beziehung",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-12/fail-timon/wide__822x462",
-      "image_title": "Timon Karl Kaleyta : Die Ehe hat einen Knacks"
+      "title": "Z+ Chinesische Nudeln mit Chiliöl: Im Nudelhimmel",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/chinesische-nudeln-knoblauch-chili-streetfood",
+      "image_url": "https://img.zeit.de/2022-12/chinesische-nudeln-knoblauch-chili/tile__315x394",
+      "image_title": "Chinesische Nudeln mit Chiliöl: Im Nudelhimmel"
     },
     {
       "title": "Z+ Kartoffel-Bohnen-Rüben-Eintopf: Neues Jahr, neue Suppe",
@@ -234,6 +240,12 @@
       "image_title": "Onlineshops für Wein: World Wide Weinhandel"
     },
     {
+      "title": "Z+ Timon Karl Kaleyta : Die Ehe hat einen Knacks",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/timon-karl-kaleyta-schriftsteller-vaeter-unzulaenglichkeiten-beziehung",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-12/fail-timon/tile__315x394",
+      "image_title": "Timon Karl Kaleyta : Die Ehe hat einen Knacks"
+    },
+    {
       "title": "Z+ Ernährung von Kindern: Hilfe, das Kind mag kein gesundes Essen!",
       "url": "https://www.zeit.de/zeit-magazin/2022/53/kinder-ernaehrung-gesundes-essen",
       "image_url": "https://img.zeit.de/zeit-magazin/2021-06/herbert-renz-polster-kinderarzt/tile__315x394",
@@ -250,18 +262,6 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/geschwister-verhaeltnis-rolle-vergleiche",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-12/erziehung-geschwister-streit-bild/tile__315x394",
       "image_title": "Geschwister: Hört auf! Alle beide!"
-    },
-    {
-      "title": "Z+ Raunächte: Dämonen im Dunkeln",
-      "url": "https://www.zeit.de/zeit-magazin/2022/53/raunaechte-zwoelf-naechte-mythologie-winterzeit-jenseits",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/raunaechte-zwoelf-naechte-mythologie-winterzeit-8/tile__315x394",
-      "image_title": "Raunächte: Dämonen im Dunkeln"
-    },
-    {
-      "title": "Z+ Akademikereltern und Ausbildungsberufe: \"Du kannst ja hinterher immer noch studieren\"",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/akademikereltern-ausbildungsberuf-handwerk-lehre-kinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-12/studium-ausbildung/tile__315x394",
-      "image_title": "Akademikereltern und Ausbildungsberufe: \"Du kannst ja hinterher immer noch studieren\""
     },
     {
       "title": "Z+ Geschwister: Hört auf! Alle beide!",
@@ -300,10 +300,24 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/mutterschaft-braeuche-mama-erschoepfung-raunaechte"
     },
     {
+      "title": "Z+ Raunächte: Dämonen im Dunkeln",
+      "teaser": "Rund um den Jahreswechsel liegen die sogenannten Raunächte, die mancherorts mythisch aufgeladen sind. Für die bayrische Fotografin Elena Helfrecht sind sie Inspiration.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/53/raunaechte-zwoelf-naechte-mythologie-winterzeit-jenseits",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/raunaechte-zwoelf-naechte-mythologie-winterzeit-8/square__460x460",
+      "image_title": "Raunächte: Dämonen im Dunkeln"
+    },
+    {
+      "title": "Z+ Akademikereltern und Ausbildungsberufe: \"Du kannst ja hinterher immer noch studieren\"",
+      "teaser": "Akademikereltern geben sich gerne aufgeschlossen gegenüber Handwerk und Lehre. Doch damit belügen sie nicht nur sich selbst, sondern auch ihre Kinder.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/akademikereltern-ausbildungsberuf-handwerk-lehre-kinder",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-12/studium-ausbildung/wide__822x462",
+      "image_title": "Akademikereltern und Ausbildungsberufe: \"Du kannst ja hinterher immer noch studieren\""
+    },
+    {
       "title": "Z+ Raclette-Brunch: Raclette + Brunch = Braclette!",
       "teaser": "Halt, stellen Sie das Raclettegerät noch nicht zurück in den Schrank! Diese Frühstückspfännchen sind perfekt für die Tage zwischen den Jahren. Und alle anderen.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-12/raclette-brunch-braclette-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/raclette-brunch-braclette-rezept-wochenmarkt-teaserbild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/raclette-brunch-braclette-rezept-wochenmarkt-teaserbild/wide__822x462",
       "image_title": "Raclette-Brunch: Raclette + Brunch = Braclette!"
     },
     {
@@ -322,16 +336,14 @@
     },
     {
       "title": "Z+ Essen und Familie: Was ich beim Kochen über meinen persischen Vater lernte",
-      "teaser": "Als er aus dem Iran nach Deutschland kam, aß er Fast Food. Später begann der Vater unserer Autorin, Gerichte aus der Heimat zu kochen. Welch Glück für sie.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-12/essen-familie-kochen-rezepte-persisch-vater",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/essen-familie-kochen-rezepte-persisch-vater-tochter/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/essen-familie-kochen-rezepte-persisch-vater-tochter/tile__315x394",
       "image_title": "Essen und Familie: Was ich beim Kochen über meinen persischen Vater lernte"
     },
     {
       "title": "Z+ Saurer Limetteneintopf mit süßem Safran-Reis : Eintopf auf Persisch",
-      "teaser": "Essen schmeckt besser, wenn man sich beim Kochen Zeit lässt – das gilt auch für Gheime, einen sauren Lamm-Limetten-Eintopf, zu dem süßer Safran-Reis serviert wird.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2022-12/saurer-limetteneintopf-persisch-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/saurer-limetteneintopf-persisch-rezept/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2022-12/saurer-limetteneintopf-persisch-rezept/tile__315x394",
       "image_title": "Saurer Limetteneintopf mit süßem Safran-Reis : Eintopf auf Persisch"
     },
     {
@@ -339,18 +351,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2022-12/tischmuelleimer-party-ode-an-ein-ding",
       "image_url": "https://img.zeit.de/zeit-magazin/2022-12/wochenende52-ode-an-ein-ding-abfalleimer/tile__315x394",
       "image_title": "Tischmülleimer: Reinen Tisch machen"
-    },
-    {
-      "title": "Z+ Eltern: Verzeihen als Superkraft",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2022-12/verzeihen-eltern-kraenkungen-entschuldigung",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2022-12/verzeihen-eltern-kraenkungen-entschuldigung-bild/tile__315x394",
-      "image_title": "Eltern: Verzeihen als Superkraft"
-    },
-    {
-      "title": "Z+ Neue Beziehung: \"Dass Sex die Liebe vertiefen kann, ist für mich eine neue Erfahrung\"",
-      "url": "https://www.zeit.de/zeit-magazin/2022-12/neue-beziehung-familie-kuscheln-die-sextagebuecher",
-      "image_url": "https://img.zeit.de/zeit-magazin/2022-12/neue-beziehung-familie-kuscheln-die-sextagebuecher-bild/tile__315x394",
-      "image_title": "Neue Beziehung: \"Dass Sex die Liebe vertiefen kann, ist für mich eine neue Erfahrung\""
     },
     {
       "title": "Z+ Bedürfnisse: Wie bringe ich meinen Mann dazu, mich ganz neu zu verführen?",
