@@ -1,10 +1,22 @@
 {
-  "timestamp": "2023-01-04T18:15:38",
+  "timestamp": "2023-01-04T19:12:00",
   "url": "https://www.bild.de/news/inland/news-inland/home-15665814.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.asadcdn.com/adlib/pages/bild.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
@@ -62,10 +74,22 @@
   ],
   "articles": [
     {
-      "title": "Sechs Kinder gab sie bereits weg : Horror-Mutter versteckte totes Baby im Eisfach",
+      "title": "Neue Pläne für das Kaufhaus in der Innenstadt : Möbel-Milliardär rettet Chemnitzer Glaspalast",
+      "url": "https://www.bild.de/bild-plus/regional/chemnitz/chemnitz-news/kaufhof-moebel-milliardaer-kurt-krieger-rettet-glaspalast-in-chemnitz-82446104.bild.html",
+      "image_url": "https://images.bild.de/63b5bddb261468542f739574/3f561cdb22e31b16a0e3b0c1db3a734c,ae394ec9?w=656",
+      "image_title": "Kaufhof: Möbel-Milliardär Kurt Krieger rettet Glaspalast in Chemnitz"
+    },
+    {
+      "title": "Sechs Kinder gab sie bereits weg : Horror-Mutter versteckte Babyleiche im Eisfach",
       "url": "https://www.bild.de/regional/leipzig/leipzig-news/mordprozess-in-leipzig-horror-mutter-versteckte-babyleiche-in-eisfach-82443068.bild.html",
-      "image_url": "https://images.bild.de/63b57e9944ba1d51e3dedf9f/06948ff6dd10556f8f8c41ed89a4ff4e,d85b09c1?w=656",
+      "image_url": "https://images.bild.de/63b57e9944ba1d51e3dedf9f/cb7c4405fb45a62172c28014d9dd32bc,d85b09c1?w=320",
       "image_title": "Mordprozess in Leipzig: Horror-Mutter versteckte Babyleiche in Eisfach"
+    },
+    {
+      "title": "Millionen-Verluste : Sparkasse Zwickau beurlaubt Chef",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/sachsen-sparkasse-zwickau-beurlaubt-chef-82446228.bild.html",
+      "image_url": "https://images.bild.de/63b5c41c854d854f2406b71b/2c4b83878804145b69f086ee45b5122f,ca95aa48?w=320",
+      "image_title": "Sachsen: Sparkasse Zwickau beurlaubt Chef"
     },
     {
       "title": "6 Aus 49 : Die Lottozahlen am Mittwoch",
@@ -80,13 +104,19 @@
       "image_title": "Ankläger sicher! Hussein M. ist der Doppelmörder von Elmshorn: Mit 38 Stichen metzelte er die Freundinnen nieder"
     },
     {
-      "title": "Polizisten als Lebensretter geehrt : Der Moment, als das Baby wieder atmete",
+      "title": "Polizisten in Stralsund für Lebensrettung geehrt : Der Moment, als das Baby wieder atmete",
       "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/helden-polizisten-der-moment-als-das-baby-wieder-atmete-82442628.bild.html",
-      "image_url": "https://images.bild.de/63b57734854d854f2406b68e/421a7a3dafdf1035af280ea9eb88443d,e6bda3b?w=320",
       "image_title": "Helden-Polizisten: Der Moment, als das Baby wieder atmete"
     },
     {
+      "title": "Böse Blondine stahl 1 Million : Jetzt klaute er 135 000 Euro aus derselben Firma",
+      "teaser": "Als Mirnesa eine Million Euro mitnahm, muss er gedacht haben: Was die kann, kann ich auch!",
+      "url": "https://www.bild.de/bild-plus/regional/stuttgart/stuttgart-aktuell/boese-blondine-kam-mit-1-million-davon-jetzt-klaute-er-135000-euro-82431748.bild.html",
+      "image_title": "Böse Blondine kam mit 1 Million davon: Jetzt klaute er 135 000 Euro"
+    },
+    {
       "title": "Frontalcrash auf der A4 : Geisterfahrerin (82) rast in Audi - zwei Tote",
+      "teaser": "Auf der A4 in Sachsen raste am Mittwoch eine Geisterfahrerin (82) in den Gegenverkehr.",
       "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-auf-der-a4-in-sachsen-geisterfahrerin-82-rast-in-audi-zwei-tote-82439772.bild.html",
       "image_title": "Unfall auf Autobahn 4 bei Meerane (Landkreis Zwickau): Zwei Tote nach Geisterfahrt"
     },
@@ -191,18 +221,6 @@
       "teaser": "Er würde gerne reisen, spazieren oder ins Kino gehen, sagt Rainer Winkler.",
       "url": "https://www.bild.de/bild-plus/news/inland/news-inland/drachenlord-spricht-in-bild-der-meistgehasste-mann-des-internets-82425564.bild.html",
       "image_title": "„Drachenlord“ spricht in BILD: Der meistgehasste Mann des Internets"
-    },
-    {
-      "title": "Jurist greift das Diesel-Fahrverbot an : Auf diesen Anwalt hoffen Münchens Auto-Fahrer",
-      "teaser": "München – Er brachte schon das Diesel-Fahrverbot in Berlin zu Fall. Und plant jetzt dasselbe in München! Diesel-Anwalt Claus-Peter Martens (62)!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/er-greift-diesel-fahrverbot-an-auf-diesen-anwalt-hoffen-muenchens-auto-fahrer-82330122.bild.html",
-      "image_title": "Er greift Diesel-Fahrverbot an: Auf diesen Anwalt hoffen Münchens Auto-Fahrer"
-    },
-    {
-      "title": "Jonah sollte als Schnitzel enden : Mops adoptiert Glücksschwein aus dem Müll",
-      "teaser": "Ganz vertraut schnuffelt Ferkel Jonah (12 Tage) an der Wange von Mopshündin Maya (5).",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/jonah-sollte-schnitzel-werden-mops-adoptiert-gluecksschwein-aus-dem-muell-82424416.bild.html",
-      "image_title": "Jonah sollte Schnitzel werden: Mops adoptiert Glücksschwein aus dem Müll"
     },
     {
       "title": "Klima-Protest immer dreister : Die Baustellen-Masche im Video",
