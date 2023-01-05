@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-05T09:12:28",
+  "timestamp": "2023-01-05T10:13:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Kernel-Luecken-bedrohen-Android-7449147.html"
+    },
+    {
+      "title": "Soho-Software",
+      "url": "https://www.heise.de/news/Soho-fixt-Datenbank-Luecke-in-Password-Manager-Pro-und-Zugriffskontroll-Software-7449108.html"
+    },
+    {
       "title": "Exchange Server",
       "url": "https://www.heise.de/news/Jetzt-patchen-Noch-60-000-Exchange-Server-fuer-ProxyNotShell-Attacken-anfaellig-7448029.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Trend-Micros-Sicherheitsloesung-Maximum-Security-benoetigt-einen-Sicherheitspatch-7446553.html"
     },
     {
-      "title": "Citrix ADC und Gateway",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Tausende-Citrix-Server-sind-noch-verwundbar-7445281.html"
+      "title": "Soho fixt Datenbank-Lücke in Password Manager Pro und Zugriffskontroll-Software",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für die ManageEngine-Produkte Access Manager Plus, PAM360 und Password Manager Pro.",
+      "url": "https://www.heise.de/news/Soho-fixt-Datenbank-Luecke-in-Password-Manager-Pro-und-Zugriffskontroll-Software-7449108.html"
     },
     {
-      "title": "Synology",
-      "url": "https://www.heise.de/news/Synology-warnt-vor-kritischer-Luecke-in-VPN-Plus-Server-7444783.html"
+      "title": "Verbesserter iCloud-Datenschutz: Apple behält Nachschlüssel für Metadaten",
+      "teaser": "Bestimmte Infos, darunter Dateinamen, Dateiformate, Apps im Backup oder Dateigrößen sind für Apple auch bei aktivierter Advanced Data Protection zugänglich.",
+      "url": "https://www.heise.de/news/Verbesserter-iCloud-Datenschutz-Apple-behaelt-Nachschluessel-fuer-Metadaten-7447975.html",
+      "image_title": "iCloud"
     },
     {
       "title": "iX-Tagesworkshop: Azure Active Directory gegen Angriffe absichern",
@@ -68,6 +79,11 @@
       "title": "Jetzt patchen! Noch 60.000 Exchange-Server für ProxyNotShell-Attacken anfällig",
       "teaser": "Sicherheitsforscher warnen vor verwundbaren Exchange-Servern. 30.000 davon sind in Europa – der Großteil in Deutschland. Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Noch-60-000-Exchange-Server-fuer-ProxyNotShell-Attacken-anfaellig-7448029.html"
+    },
+    {
+      "title": "Geöffnet und weggefahren: Sicherheitsforscher knacken Autos von Kia, Honda & Co.",
+      "teaser": "Angreifer könnten über Schwachstellen in APIs und Webportalen auf persönliche Daten von Autobesitzern zugreifen und sogar Motoren starten.",
+      "url": "https://www.heise.de/news/Geoeffnet-und-weggefahren-Sicherheitsforscher-knacken-Autos-von-Kia-Honda-Co-7447668.html"
     },
     {
       "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern",
@@ -140,21 +156,6 @@
       "title": "EarSpy-Lauschangriff auf Smartphones: Forschern gelingt Abhören aus der Ferne",
       "teaser": "In Mobiltelefone integrierte Ohrlautsprecher werden immer leistungsstärker. Dies hat den Nachteil, dass die verursachten Mini-Vibrationen verräterischer sind.",
       "url": "https://www.heise.de/news/EarSpy-Angriff-Neue-Smartphone-Lautsprecher-vereinfachen-Abhoeren-aus-der-Ferne-7444910.html"
-    },
-    {
-      "title": "Synology warnt vor kritischer Lücke in VPN-Plus-Server",
-      "teaser": "Wer Synology-Router als VPN-Server einsetzt, muss die Software zügig aktualisieren. Eine kritische Sicherheitslücke ermöglicht Angreifern sonst Codeschmuggel.",
-      "url": "https://www.heise.de/news/Synology-warnt-vor-kritischer-Luecke-in-VPN-Plus-Server-7444783.html"
-    },
-    {
-      "title": "Jetzt patchen: Netgear schließt hochriskante Lücke in mehreren Routern",
-      "teaser": "Netgear empfiehlt ein dringendes Sicherheitsupdate für mehrere seiner Router-Modelle. Betroffen sind von der Lücke auch Modelle der Nighthawk-Reihe.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Netgear-veroeffentlicht-kritisches-Update-fuer-mehrere-Router-7444672.html"
-    },
-    {
-      "title": "\"Dystopische Technologie\": Startup hackt und manipuliert Überwachungskameras",
-      "teaser": "Die israelische Firma Toka ermöglicht es laut einem Bericht, auf vernetzte Videokameras zuzugreifen und Übertragungen live oder im Nachgang zu verändern.",
-      "url": "https://www.heise.de/news/Dystopische-Technologie-Startup-hackt-und-manipuliert-Ueberwachungskameras-7444676.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
