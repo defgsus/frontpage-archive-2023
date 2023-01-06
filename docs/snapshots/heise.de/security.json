@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-06T15:13:02",
+  "timestamp": "2023-01-06T16:17:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -46,6 +46,12 @@
     {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Kritische-Kernel-Luecken-bedrohen-Android-7449147.html"
+    },
+    {
+      "title": "Rust: bis zu 2500 Projekte durch Bibliothek Hyper für DoS verwundbar",
+      "teaser": "Enthält die to_bytes-Funktion von Hyper keine Längenbeschränkung, so lassen sich schnell DoS-Attacken ausführen. Abhilfe schafft die offizielle Doku.",
+      "url": "https://www.heise.de/news/Rust-bis-zu-2500-Projekte-durch-Bibliothek-Hyper-fuer-DoS-verwundbar-7451019.html",
+      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "Gratis-Entschlüsselungstool für die Ransomware MegaCortex veröffentlicht",
@@ -148,11 +154,6 @@
       "teaser": "Lernen Sie mit vielen Praxisbespielen, wie Sie Windows 10 und 11 (Pro und Enterprise) in Ihrem Unternehmen sicher betreiben. Mit 10 % Frühbucherrabatt bis 17.1.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-7445740.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Konferenzmesse secIT 2023: Wenn der Deepfake zweimal klingelt",
-      "teaser": "Auf der secIT 2023 in Hannover gibt es nicht nur die volle Packung IT-Security-Wissen, sondern auch Unterhaltung mit Mehrwert.",
-      "url": "https://www.heise.de/news/Konferenzmesse-secIT-2023-Wenn-der-Deepfake-zweimal-klingelt-7446745.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
