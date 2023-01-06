@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-06T10:13:02",
+  "timestamp": "2023-01-06T11:10:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.28cbf1d0d591c294aa0a",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.a0ce693cbccf03abf3b6",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "ThinkPad X13s",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-Mehrere-Attacken-auf-Leonovo-ThinkPad-X13s-moeglich-7450558.html"
+    },
     {
       "title": "IBM Tivoli Monitoring",
       "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennten-Systeme-mit-IBM-Tivoli-Monitoring-uebernehmen-7449768.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Kritische-Kernel-Luecken-bedrohen-Android-7449147.html"
     },
     {
-      "title": "Zoho-Software",
-      "url": "https://www.heise.de/news/Soho-fixt-Datenbank-Luecke-in-Password-Manager-Pro-und-Zugriffskontroll-Software-7449108.html"
+      "title": "BIOS-Sicherheitsupdates: Mehrere Attacken auf Leonovo ThinkPad X13s möglich",
+      "teaser": "Der Computerhersteller Lenovo hat mehrere Sicherheitslücken im Notebook ThinkPad X13s geschlossen.",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-Mehrere-Attacken-auf-Leonovo-ThinkPad-X13s-moeglich-7450558.html"
     },
     {
       "title": "Beim Cloud-Anbieter Rackspace hat die Play-Ransomware zugeschlagen",
@@ -148,12 +153,6 @@
       "title": "Schadcode auf PyPI: Supply-Chain-Angriff auf PyTorch Nightly Builds",
       "teaser": "Wer kürzlich PyTorch-nightly unter Linux via pip installiert hat, erhielt Schadcode. Das PyTorch-Team hat Gegenmaßnahmen eingeleitet.",
       "url": "https://www.heise.de/news/Schadcode-auf-PyPI-Supply-Chain-Angriff-auf-PyTorch-Nightly-Builds-7447195.html"
-    },
-    {
-      "title": "Sicherheitsforscher hat Googles Smart Speaker belauscht",
-      "teaser": "Angreifer hätten mit vergleichsweise wenig Aufwand Opfer mit einem smarten Lautsprecher von Google belauschen können.",
-      "url": "https://www.heise.de/news/Sicherheitsforscher-hat-Googles-Smart-Speaker-belauscht-7446725.html",
-      "image_title": "2 Smart-Speaker mit G-Symbol (Google)"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
