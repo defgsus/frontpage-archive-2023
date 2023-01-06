@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-06T14:11:26",
+  "timestamp": "2023-01-06T15:13:11",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -56,23 +56,30 @@
   ],
   "articles": [
     {
+      "title": "Verkehrswende: Bahn- und Radverbände kritisieren Fokus aufs Auto bei Mobilitätsgipfel",
+      "teaser": "Die Verkehrswende ist laut mehrerer Verbände offenbar \"noch nicht im Kanzleramt angekommen\". Zum Mobilitätsgipfel sei fast ausschließlich die Automobilbranche geladen.",
+      "url": "https://www.zeit.de/mobilitaet/2023-01/verkehrswende-mobilitaetsgipfel-olaf-scholz-kritik-pro-schiene",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-01/mobilitaetsgipfel-kritik-fahrradclub-pro-schiene-olaf-scholz-bild/cinema__980x420"
+    },
+    {
       "title": "Bundesnetzagentur: Gasverbrauch in Deutschland stark gesunken",
       "teaser": "Im vergangenen Jahr wurde in Deutschland 14 Prozent weniger Erdgas verbraucht als in den Jahren zuvor. Norwegen löste Russland als wichtigsten Gaslieferanten ab.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/bundesnetzagentur-erdgas-verbrauch-gesunken",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/bundesnetzagentur-erdgas-verbrauch-gesunken-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/bundesnetzagentur-erdgas-verbrauch-gesunken-bild/wide__822x462",
+      "image_title": "Bundesnetzagentur: Gasverbrauch in Deutschland stark gesunken"
     },
     {
       "title": "Statistisches Bundesamt: Industrie verzeichnet deutlich weniger Aufträge",
       "teaser": "Das verarbeitende Gewerbe hat im November 2022 einen Auftragseinbruch erlitten. Gründe dafür sind die gesunkene Nachfrage aus dem Ausland und ausbleibende Großaufträge.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/statistisches-bundesamt-industrie-auftraege-rueckgang-november",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/statistisches-bundesamt-industrie-auftraege-rueckgang-november-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/statistisches-bundesamt-industrie-auftraege-rueckgang-november-bild/cinema__980x420",
       "image_title": "Statistisches Bundesamt: Industrie verzeichnet deutlich weniger Aufträge"
     },
     {
       "title": "Inflation: Deutsche Einzelhändler erzielen Rekordumsatz",
       "teaser": "Wegen der stark steigenden Preise hat der deutsche Einzelhandel 8,2 Prozent mehr eingenommen als noch im Vorjahr. Inflationsbereinigt sank der Umsatz hingegen leicht.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/inflation-einzelhandel-umsatz-rekord",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/einzelhandel-mit-rekordumsatz-2022-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/einzelhandel-mit-rekordumsatz-2022-bild/wide__822x462",
       "image_title": "Inflation: Deutsche Einzelhändler erzielen Rekordumsatz"
     },
     {
@@ -81,13 +88,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-01/lebensversicherung-geldanlage-bafin-zinsen",
       "image_url": "https://img.zeit.de/gesellschaft/ausland/2023-01/lebensversicherung-auszahlungen-bild/wide__822x462",
       "image_title": "Altersvorsorge: BaFin sieht Chancen für steigende Überschüsse bei Lebensversicherern"
-    },
-    {
-      "title": "Internetkonzern: Amazon will mehr als 18.000 Mitarbeiter entlassen",
-      "teaser": "Es ist der größte Stellenabbau in der Geschichte des Unternehmens – und er fällt größer aus als bisher angekündigt. Betroffen sind nun auch Mitarbeiter in Europa.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/amazon-stellenabbau-18-000-angestellte",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-01/amazon-stellenabbau-18-000-mitarbeiter/wide__822x462",
-      "image_title": "Internetkonzern: Amazon will mehr als 18.000 Mitarbeiter entlassen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gasversorgung: Wohin mit all dem Gas?",
@@ -195,6 +195,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Internetkonzern: Amazon will mehr als 18.000 Mitarbeiter entlassen",
+      "teaser": "Es ist der größte Stellenabbau in der Geschichte des Unternehmens – und er fällt größer aus als bisher angekündigt. Betroffen sind nun auch Mitarbeiter in Europa.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/amazon-stellenabbau-18-000-angestellte",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-01/amazon-stellenabbau-18-000-mitarbeiter/wide__822x462",
+      "image_title": "Internetkonzern: Amazon will mehr als 18.000 Mitarbeiter entlassen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Gasversorgung: Wohin mit all dem Gas?",
       "teaser": "Die Lage am Gasmarkt und in den Speichern hat sich überraschend entspannt. So sehr, dass die Bundesregierung sogar Gas verkaufen lässt.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/gasversorgung-gaspreis-speicherstaende-bundesnetzagentur",
@@ -202,18 +209,18 @@
       "image_title": "Gasversorgung: Wohin mit all dem Gas?"
     },
     {
-      "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
-      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
-      "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
-      "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
-    },
-    {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
       "teaser": "Der Arbeitgebermarkt hat sich zum Arbeitnehmermarkt gewandelt. Um möglichen Bewerber:innen Orientierung zu bieten, haben sich Arbeitgebersiegel auf dem Markt etabliert.",
       "url": "https://www.zeit.de/angebote/most-wanted-employer-2022/index",
       "image_url": "https://img.zeit.de/angebote/most-wanted-employer-2022/teaserbild-unsplash/wide__822x462",
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
+    },
+    {
+      "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
+      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
+      "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
+      "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
     },
     {
       "title": "Energieversorgung: Habeck einigt sich mit Norwegen auf Energie-Partnerschaft",
@@ -226,14 +233,14 @@
       "title": "Statistisches Bundesamt: Deutsche Exporte erneut gesunken",
       "teaser": "Wegen der geringeren Nachfrage aus der EU, den USA und China gab es im November weniger deutsche Exporte. Im Vergleich zum Vorjahr zeigt sich jedoch ein Plus.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/deutschland-exporte-gesunken-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/deutschland-exporte-gesunken-statistisches-bundesamt-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/deutschland-exporte-gesunken-statistisches-bundesamt-bild/cinema__980x420",
       "image_title": "Statistisches Bundesamt: Deutsche Exporte erneut gesunken"
     },
     {
       "title": "Energiekrise: Zahl der Energieberatungen um 100.000 gestiegen",
       "teaser": "Wegen hoher Kosten haben 2022 deutlich mehr Menschen eine Energieberatung bei den Verbraucherzentralen in Anspruch genommen als im Vorjahr. Zeitweise waren Termine knapp.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/energiekrise-energieberatung-verbraucherzentrale-anstieg",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/energiekrise-energieberatung-verbraucherzentrale-anstieg-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/energiekrise-energieberatung-verbraucherzentrale-anstieg-bild/wide__822x462",
       "image_title": "Energiekrise: Zahl der Energieberatungen um 100.000 gestiegen"
     },
     {
@@ -256,13 +263,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/tesla-auslieferungen-viertes-quartal-rekord",
       "image_url": "https://img.zeit.de/wirtschaft/2023-01/tesla-auslieferungen-viertes-quartal-rekord-bild/wide__822x462",
       "image_title": "Elektromobilität: Tesla bleibt trotz Rekords hinter Erwartungen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Unternehmer Martin Herrenknecht: \"Die Deutschen sind Angsthasen\"",
-      "teaser": "Mit 80 hat Martin Herrenknecht seinen Filius Martin-Devid in den Vorstand seiner Erfolgsfirma geholt. Ans Aufhören denkt er nicht. Ein Gespräch mit Vater und Sohn.",
-      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2022/04/martin-herrenknecht-unternehmer-familie-wladimir-putin",
-      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2022/04/die-deutschen-sind-angsthasen-bild-1/wide__822x462",
-      "image_title": "Unternehmer Martin Herrenknecht: \"Die Deutschen sind Angsthasen\""
     },
     {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
@@ -293,11 +293,11 @@
       "image_title": "Finanzmarkt 2023: Ist es mit den breit gestreuten ETF nun vorbei?"
     },
     {
-      "title": "WirtschaftsWocheRiedls Dax-Radar: Das Comeback der Europa-Börsen",
-      "teaser": "Während Apple, Microsoft und Tesla abstürzen, drehen in Europa immer mehr Aktien nach oben. Für die Börsen ist es ein gutes Zeichen, wenn dabei neue Favoriten im Mittelpunkt stehen.",
-      "url": "https://www.wiwo.de/finanzen/boerse/riedls-dax-radar-das-comeback-der-europa-boersen/28908586.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/comeback-europa-aktien-get2/28908874/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Riedls Dax-Radar: Das Comeback der Europa-Börsen"
+      "title": "WirtschaftsWocheKrisen, Wohlstand, Chancen: Die Verzichtsromantik der Wohlhabenden ist zynisch",
+      "teaser": "„Weniger ist mehr“ gilt als modern, aber Wohlstand war nie nur die Anhäufung zusätzlicher Produkte. Linke Wachstumskritik bei weiter steigendem Sozialkonsum passen nicht zusammen, schreibt Linda Teuteberg im Gastbeitrag.",
+      "url": "https://www.wiwo.de/politik/deutschland/krisen-wohlstand-chancen-die-verzichtsromantik-der-wohlhabenden-ist-zynisch/28907888.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0103216717h/28908088/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Krisen, Wohlstand, Chancen: Die Verzichtsromantik der Wohlhabenden ist zynisch"
     },
     {
       "title": "WirtschaftsWocheRüstung: So groß – oder besser klein – waren die Schäden an den Puma-Panzern wirklich",
