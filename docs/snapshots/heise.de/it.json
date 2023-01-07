@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-07T09:10:51",
+  "timestamp": "2023-01-07T10:11:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Rust: bis zu 2500 Projekte durch Bibliothek Hyper für DoS verwundbar",
+      "teaser": "Enthält die to_bytes-Funktion von Hyper keine Längenbeschränkung, so lassen sich schnell DoS-Attacken ausführen. Abhilfe schafft die offizielle Doku.",
+      "url": "https://www.heise.de/news/Rust-bis-zu-2500-Projekte-durch-Bibliothek-Hyper-fuer-DoS-verwundbar-7451019.html",
+      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
+    },
+    {
       "title": "Desktop-CPUs Core i-13000: Intel haucht \"Alder Lake\" neues Leben ein",
       "teaser": "Eine ganze Palette weiterer Core-i-13000-CPUs kommt in den Handel. Ein Highlight ist der Core i5-13400(F) mit nunmehr zehn Rechenkernen.",
       "url": "https://www.heise.de/news/Intel-Core-i-13000-Das-zweite-Leben-fuer-Alder-Lake-7446977.html",
@@ -36,11 +42,6 @@
       "teaser": "Kriminelle Partner von Lockbit haben eine kanadische Kinderklinik angegriffen und deren IT lahmgelegt. Die Cybergang hat sich jetzt entschuldigt.",
       "url": "https://www.heise.de/news/Cybergang-Lockbit-entschuldigt-sich-fuer-Angriff-auf-Kinderkrankenhaus-7445304.html",
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
-    },
-    {
-      "title": "Synology warnt vor kritischer Lücke in VPN-Plus-Server",
-      "teaser": "Wer Synology-Router als VPN-Server einsetzt, muss die Software zügig aktualisieren. Eine kritische Sicherheitslücke ermöglicht Angreifern sonst Codeschmuggel.",
-      "url": "https://www.heise.de/news/Synology-warnt-vor-kritischer-Luecke-in-VPN-Plus-Server-7444783.html"
     },
     {
       "title": "5G-Router im Test: WLAN zum Mitnehmen",
@@ -79,12 +80,6 @@
       "title": "c't 3003: Gebrauchte Thin-Clients im Test",
       "teaser": "Thin-Client statt Raspberry Pi: Klein-PCs sind für viele Aufgaben besser geeignet. c't 3003 hat gebrauchte Thin-Clients ab 30 Euro getestet.",
       "url": "https://www.heise.de/news/c-t-3003-Gebrauchte-Thin-Clients-im-Test-7451493.html"
-    },
-    {
-      "title": "Rust: bis zu 2500 Projekte durch Bibliothek Hyper für DoS verwundbar",
-      "teaser": "Enthält die to_bytes-Funktion von Hyper keine Längenbeschränkung, so lassen sich schnell DoS-Attacken ausführen. Abhilfe schafft die offizielle Doku.",
-      "url": "https://www.heise.de/news/Rust-bis-zu-2500-Projekte-durch-Bibliothek-Hyper-fuer-DoS-verwundbar-7451019.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "Developer Snapshots: Programmierer-News in ein, zwei Sätzen",
@@ -133,6 +128,11 @@
       "title": "BIOS-Sicherheitsupdates: Mehrere Attacken auf Leonovo ThinkPad X13s möglich",
       "teaser": "Der Computerhersteller Lenovo hat mehrere Sicherheitslücken im Notebook ThinkPad X13s geschlossen.",
       "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-Mehrere-Attacken-auf-Leonovo-ThinkPad-X13s-moeglich-7450558.html"
+    },
+    {
+      "title": "Beim Cloud-Anbieter Rackspace hat die Play-Ransomware zugeschlagen",
+      "teaser": "Rackspace hat seine forensischen Untersuchungen zur Cyberattacke abgeschlossen. Es gab Zugriffe auf Daten von wenigen Kunden.",
+      "url": "https://www.heise.de/news/Beim-Cloud-Anbieter-Rackspace-hat-die-Play-Ransomware-zugeschlagen-7450344.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
