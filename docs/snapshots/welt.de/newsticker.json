@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-07T08:14:35",
+  "timestamp": "2023-01-07T09:10:55",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Gesetzentwurf"
+    },
     {
       "title": "Wirtschaft",
       "url": "https://www.welt.de/wirtschaft/",
@@ -37,11 +42,6 @@
       "title": "Panorama",
       "url": "https://www.welt.de/vermischtes/",
       "topic": "Sechs Jahre alt"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Silvester-Krawalle"
     },
     {
       "title": "Alles auf Aktien",
@@ -71,6 +71,12 @@
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Eine natürliche Rivalität in dem Moment, wo Deutschland seine Interessen formuliert“",
+      "url": "https://www.welt.de/politik/ausland/video243076383/Jacques-Schuster-zur-Rivalitaet-zwischen-Frankreich-und-Deutschland.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Scholz gegen Macron"
     },
     {
       "title": "Hamburger Initiative will Gendern abschaffen",
@@ -108,12 +114,6 @@
       "url": "https://www.welt.de/politik/deutschland/video243061937/Klima-Aktivisten-stoeren-Dreikoenigstreffen-FDP-Chef-Lindner-reagiert-entspannt.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "„Nehmt viel Kleber!“"
-    },
-    {
-      "title": "„Diese Waffenruhe ist nichts anderes als eine Farce“",
-      "url": "https://www.welt.de/politik/ausland/video243054547/Krieg-in-der-Ukraine-Kreml-verkuendet-Waffenruhe.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Christoph Wanner"
     }
   ]
 }
