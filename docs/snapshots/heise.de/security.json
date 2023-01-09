@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-09T15:18:30",
+  "timestamp": "2023-01-09T16:22:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "MatrixSSL",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-MatrixSSL-ermoeglicht-Codeschmuggel-7453087.html"
+    },
+    {
       "title": "ThinkPad X13s",
       "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-Mehrere-Attacken-auf-Leonovo-ThinkPad-X13s-moeglich-7450558.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Fortinet-stopft-Schadcode-Luecken-in-Netzwerk-Produkten-7449288.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Kritische-Kernel-Luecken-bedrohen-Android-7449147.html"
+      "title": "BaFin warnt vor \"Godfather\"-Banking-Trojaner",
+      "teaser": "Die BaFin warnt vor einem Banking-Trojaner, der Android-Geräte angreift. Die \"Godfather\" genannte Malware kann 400 internationale Finanzinstitutionen ausspähen.",
+      "url": "https://www.heise.de/news/BaFin-warnt-vor-Godfather-Banking-Trojaner-7453238.html"
+    },
+    {
+      "title": "Kritische Sicherheitslücke in MatrixSSL ermöglicht Codeschmuggel",
+      "teaser": "In der IoT-Bibliothek MatrixSSL haben IT-Forscher eine als kritisch eingestufte Sicherheitslücke entdeckt. Angreifer könnten dadurch Code einschleusen.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-MatrixSSL-ermoeglicht-Codeschmuggel-7453087.html"
     },
     {
       "title": "Cloudspeicher Amazon S3 verschlüsselt Daten nun standardmäßig",
@@ -142,17 +152,6 @@
       "teaser": "Bestimmte Infos, darunter Dateinamen, Dateiformate, Apps im Backup oder Dateigrößen sind für Apple auch bei aktivierter Advanced Data Protection zugänglich.",
       "url": "https://www.heise.de/news/Verbesserter-iCloud-Datenschutz-Apple-behaelt-Nachschluessel-fuer-Metadaten-7447975.html",
       "image_title": "iCloud"
-    },
-    {
-      "title": "iX-Tagesworkshop: Azure Active Directory gegen Angriffe absichern",
-      "teaser": "In diesem Online-Workshop lernen Sie, wie Sie Ihr Azure Active Directory mitsamt Azure-Diensten härten und effektiv gegen Angriffe absichern. Rabatt bis 18.1.",
-      "url": "https://www.heise.de/news/iX-Tagesworkshop-Azure-Active-Directory-gegen-Angriffe-absichern-7445770.html",
-      "image_title": "iX-Workshop Azure Active Directory gegen Angriffe absichern"
-    },
-    {
-      "title": "Nur noch eine Woche Zeit: Support-Ende von Windows 8.1",
-      "teaser": "Die letzten Stunden für Windows 8.1 haben geschlagen. In nicht einmal einer Woche stellt Microsoft die Unterstützung für Windows 8.1 endgültig ein.",
-      "url": "https://www.heise.de/news/Nur-noch-eine-Woche-Zeit-Support-Ende-von-Windows-8-1-7448516.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
