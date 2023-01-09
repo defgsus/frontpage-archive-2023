@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-09T20:13:59",
+  "timestamp": "2023-01-09T21:11:42",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
-      "title": "Aufruhr in Brasilien: USA haben noch keinen Auslieferungsantrag für Bolsonaro erhalten",
-      "teaser": "Jair Bolsonaro wird vorgeworfen, Angriffe auf Regierungsgebäude in Brasilien provoziert zu haben. Er ist in den USA – dort ging bisher kein Antrag auf Auslieferung ein.",
+      "title": "Ukraine-Überblick: Nato und EU wollen enger kooperieren, Debatte um Panzerlieferungen",
+      "teaser": "EU und die Nato-Staaten wollen koordinierter gegen gemeinsame Bedrohungen vorgehen. Großbritannien und Polen erwägen, der Ukraine weitere Panzer zu liefern. Der Tag 108 Kommentare",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-nato-eu-kampfpanzer-leopard",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-nato-eu-kampfpanzer-leopard-challenger/cinema__980x420"
+    },
+    {
+      "title": "Brasilien: 1.500 Bolsonaro-Anhänger in Brasília festgenommen",
+      "teaser": "In Brasilien geht die Polizei nach den Angriffen auf Regierungsgebäude gegen Unterstützer des Ex-Präsidenten vor. 1.500 sind in Gewahrsam, Protestcamps wurden aufgelöst.",
       "url": "https://www.zeit.de/politik/ausland/2023-01/brasilien-brasilia-auslieferung-jair-bolsonaro-usa-florida",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/brasilien-brasilia-auslieferung-jair-bolsonaro-usa/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/brasilien-brasilia-auslieferung-jair-bolsonaro-usa-florida-bild/wide__822x462",
+      "image_title": "Brasilien: 1.500 Bolsonaro-Anhänger in Brasília festgenommen"
     },
     {
       "title": "Corona in China: Einreise erstmals ohne Quarantäne",
@@ -67,13 +74,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-01/china-corona-quarantaene-ende-hongkong-shenzhen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-01/fdp-besuch-taiwan-johannes-vogel-china-teaser/wide__822x462",
       "image_title": "Corona in China: Einreise erstmals ohne Quarantäne"
-    },
-    {
-      "title": "Liveblog: Ukraine-News: Ukraine meldet heftige Attacken auf Soledar",
-      "teaser": "Bachmut und Soledar in der Ostukraine stehen offenbar unter schwerem russischem Beschuss. Iran nach US-Einschätzung an der Schwelle zu Kriegsverbrechen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-soledar/wide__822x462",
-      "image_title": "Ukraine-News: Ukraine meldet heftige Attacken auf Soledar"
     },
     {
       "title": "Castrop-Rauxel: Was über den Antiterroreinsatz im Ruhrgebiet bekannt ist",
@@ -168,18 +168,18 @@
       "image_title": "Panzerlieferung an die Ukraine: Panzer ist nicht gleich Panzer"
     },
     {
+      "title": "Liveblog: Ukraine-News: Ukraine meldet heftige Attacken auf Soledar",
+      "teaser": "Bachmut und Soledar in der Ostukraine stehen offenbar unter schwerem russischem Beschuss. Iran nach US-Einschätzung an der Schwelle zu Kriegsverbrechen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-soledar/cinema__980x420",
+      "image_title": "Ukraine-News: Ukraine meldet heftige Attacken auf Soledar"
+    },
+    {
       "title": "Die Grünen : Zurück zu den Wurzeln",
       "teaser": "Im vergangenen Jahr mussten die Grünen viele Zugeständnisse machen. 2023 soll nun zum Jahr des Klimaschutzes werden. In der Ampel dürfte das für neue Konflikte sorgen.",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/die-gruenen-2023-vorstandsklausur-klimaschutz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/gruene-vorstandsklausur/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/gruene-vorstandsklausur/wide__822x462",
       "image_title": "Die Grünen : Zurück zu den Wurzeln"
-    },
-    {
-      "title": "Ukraine-Überblick: Nato und EU wollen enger kooperieren, Debatte um Panzerlieferungen",
-      "teaser": "EU und die Nato-Staaten wollen koordinierter gegen gemeinsame Bedrohungen vorgehen. Großbritannien und Polen erwägen, der Ukraine weitere Panzer zu liefern. Der Tag",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-nato-eu-kampfpanzer-leopard",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-nato-eu-kampfpanzer-leopard-challenger/wide__822x462",
-      "image_title": "Ukraine-Überblick: Nato und EU wollen enger kooperieren, Debatte um Panzerlieferungen"
     },
     {
       "title": "Hilfstransporte: UN-Sicherheitsrat verlängert humanitären Hilfsmechanismus für Syrien",
@@ -211,7 +211,7 @@
     },
     {
       "title": "Verfassungsklage: AfD drängt auf Wiederholung der gesamten Bundestagswahl in Berlin",
-      "teaser": "Die AfD im Bundestag will in Karlsruhe erreichen, dass die Bundestagswahl in Berlin nicht nur teilweise wiederholt wird. Auch die Unionsfraktion reichte Beschwerde ein. 209 Kommentare",
+      "teaser": "Die AfD im Bundestag will in Karlsruhe erreichen, dass die Bundestagswahl in Berlin nicht nur teilweise wiederholt wird. Auch die Unionsfraktion reichte Beschwerde ein. 221 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/afd-bundestagswahl-berlin-wiederholung-bundesverfassungsgericht",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-01/berlin-wahlwiederholung-wahlkampf-afd-bvg/cinema__980x420",
       "image_title": "Verfassungsklage: AfD drängt auf Wiederholung der gesamten Bundestagswahl in Berlin"
