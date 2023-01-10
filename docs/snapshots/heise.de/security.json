@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-10T13:21:34",
+  "timestamp": "2023-01-10T14:14:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-behandelt-vier-kritische-Schwachstellen-7454402.html"
+    },
+    {
       "title": "JsonWebToken-Bibliothek",
       "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html"
     },
@@ -44,17 +48,13 @@
       "url": "https://www.heise.de/news/Meeting-Client-Zoom-unter-Android-macOS-und-Windows-angreifbar-7453606.html"
     },
     {
-      "title": "Securepoint UTM",
-      "url": "https://www.heise.de/news/Securepoint-UTM-Hotfix-schliesst-kritische-Sicherheitsluecke-7453560.html"
+      "title": "Patchday: SAP behandelt vier kritische Schwachstellen",
+      "teaser": "SAP liefert Updates zum Beheben von teils kritischen Sicherheitslücken in den Produkten des Herstellers. IT-Verantwortliche sollten sie rasch installieren.",
+      "url": "https://www.heise.de/news/Patchday-SAP-behandelt-vier-kritische-Schwachstellen-7454402.html",
+      "image_title": "Patchday SAP"
     },
     {
-      "title": "Schadcode-Lücke in JsonWebToken-Bibliothek bedroht 22.000 Software-Projekte",
-      "teaser": "Aufgrund einer Sicherheitslücke in einer weitverbreiteten Bibliothek sind Open-Source-Projekte von unter anderem IBM und Microsoft verwundbar.",
-      "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Open-Source-Editor Visual Studio Code: Fake Extensions lassen sich leicht tarnen",
+      "title": "Sourcecode-Editor Visual Studio Code: Fake Extensions lassen sich leicht tarnen",
       "teaser": "Sicherheitsforscher haben eine als Prettier getarnte Erweiterung im Marktplatz veröffentlicht, die es auf gut 1000 Downloads innerhalb von 48 Stunden brachte.",
       "url": "https://www.heise.de/news/Open-Source-Editor-Visual-Studio-Code-Fake-Extensions-lassen-sich-leicht-tarnen-7453534.html"
     },
@@ -63,6 +63,11 @@
       "teaser": "Supply-Chain-Attacken möglich: Angreifer könnten auf Lenovo ThinkPads und Microsoft Surface den Schutzmechanismus Secure Boot umgehen.",
       "url": "https://www.heise.de/news/UEFI-Sicherheitsluecken-bedrohen-ARM-Geraete-wie-Microsoft-Surface-7454141.html",
       "image_title": "Security Alert"
+    },
+    {
+      "title": "Zeit, Tschüss zu sagen: Windows 7, 8.1 und Server 2008/R2 ab heute altes Eisen",
+      "teaser": "Microsoft beendet den erweiterten Support für Windows 7 SP1, Windows 8.1 und für Windows Server 2008/R2 ESU. Heute kommen die letzten Updates dafür heraus.",
+      "url": "https://www.heise.de/news/Zeit-Tschuess-zu-sagen-Windows-7-8-1-und-Server-2008-R2-ab-heute-altes-Eisen-7453953.html"
     },
     {
       "title": "Hersteller gehackt: Digitale Nummernschilder verraten Standort der Fahrzeuge",
@@ -147,11 +152,6 @@
       "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennten-Systeme-mit-IBM-Tivoli-Monitoring-uebernehmen-7449768.html"
     },
     {
-      "title": "Nach Boxcryptor-Übernahme durch Dropbox: Umzug-Details für Nutzer",
-      "teaser": "Dropbox hat die Augsburger Firma hinter Boxcryptor übernommen. Bisherige Kunden müssen ihre Daten und Schlüssel sichern.",
-      "url": "https://www.heise.de/news/Nach-Boxcrypter-Uebernahme-durch-Dropbox-Umzug-Details-fuer-Nutzer-7449528.html"
-    },
-    {
       "title": "Zero Trust – die Sicherheitsarchitektur",
       "teaser": "Das Webinar erklärt grundlegende Zero-Trust-Konzepte: Welche Rolle nehmen konkrete Maßnahmen wie Mikrosegmentierung, Conditional Access, TLS-Verschlüsselung darin ein und welche relevanten Produktkategorien ergeben sich daraus? Optimieren Sie Ihre eigene IT-Infrastruktur.",
       "url": "https://webinare.heise.de/zero-trust/?wt_mc=intern.academy.security.web_zero_trust.teaser.link.link"
@@ -173,6 +173,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-BSI-Affaere-Boehmermann-und-Faeser-saegen-an-Schoenbohms-Stuhl-7295281.html"
     },
     {
+      "title": "Re: Desinfect 2022 Problem mit einer Intel Dual Band Wireless-AC-7265 NIC",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2022-Problem-mit-einer-Intel-Dual-Band-Wireless-AC-7265-NIC/posting-42122007/show/"
+    },
+    {
       "title": "Re: Kein Internet unter Desinfect / Bootproblem bei \"5.19\"",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Internet-unter-Desinfect-Bootproblem-bei-5-19/posting-42120996/show/"
@@ -181,11 +186,6 @@
       "title": "Re: WithSecure funktioniert weiterhin nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-funktioniert-weiterhin-nicht/posting-42118245/show/"
-    },
-    {
-      "title": "Desinfec't startet den Light Display Manager nicht",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfec-t-startet-den-Light-Display-Manager-nicht/posting-42117771/show/"
     }
   ]
 }
