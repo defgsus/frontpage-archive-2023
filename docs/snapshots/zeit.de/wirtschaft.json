@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-10T12:24:38",
+  "timestamp": "2023-01-10T13:21:47",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -56,23 +56,30 @@
   ],
   "articles": [
     {
+      "title": "Energiekrise: Prognose rechnet mit hohem Gasspeicher-Füllstand am Ende des Winters",
+      "teaser": "Die deutschen Gasspeicher könnten nach Einschätzung der Branche Ende April zu 65 Prozent gefüllt sein. Voraussetzung sei aber ein \"normaler\" Temperaturverlauf.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/gasspeicher-prognose-winter-ende",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/gasspeicher-prognose-winter-ende-bild/cinema__980x420"
+    },
+    {
       "title": "Energiekonzern: Uniper-Chef Klaus-Dieter Maubach tritt zurück",
       "teaser": "Nach der Verstaatlichung von Uniper verlassen mehrere Topmanager den Energiekonzern. Der Aufsichtsrat kündigt eine Neubesetzung der gesamten Unternehmensführung an.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/uniper-chef-klaus-dieter-maubach-ruecktritt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/uniper-chef-klaus-dieter-maubach-ruecktritt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/uniper-chef-klaus-dieter-maubach-ruecktritt-bild/wide__822x462",
+      "image_title": "Energiekonzern: Uniper-Chef Klaus-Dieter Maubach tritt zurück"
     },
     {
       "title": "Bilanz 2022: Naturkatastrophen sorgen für Schäden in Höhe von 270 Milliarden Dollar",
       "teaser": "Hurrikan Ian war 2022 nach Angaben des Rückversicherers Munich Re die mit Abstand teuerste Naturkatastrophe. Hohe Schäden gab es auch nach Fluten und Waldbränden.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/naturkatastrophen-schaden-bilanz-rueckversicherer-munich-re",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/naturkatastrophen-klimawandel-schaeden-weltweit-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/naturkatastrophen-klimawandel-schaeden-weltweit-bild/cinema__980x420",
       "image_title": "Bilanz 2022: Naturkatastrophen sorgen für Schäden in Höhe von 270 Milliarden Dollar"
     },
     {
       "title": "Energiewende: Zeit, dass sich was dreht",
       "teaser": "2022 hat Deutschland die Ausbauziele für Windräder und Solaranlagen erfüllt. Ab diesem Jahr dürfte das deutlich schwieriger werden.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/energiewende-deutschland-solarenergie-windraeder-ausbau",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/energiewende-deutschland-solarenergie-windraeder/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/energiewende-deutschland-solarenergie-windraeder/wide__822x462",
       "image_title": "Energiewende: Zeit, dass sich was dreht"
     },
     {
@@ -81,13 +88,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-01/wohnungsbau-preise-baupreise-wohnungen-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-01/baupreise-wohnungsbau-steigen-bild/wide__822x462",
       "image_title": "Statistisches Bundesamt: Baupreise für Wohngebäude um fast 17 Prozent gestiegen"
-    },
-    {
-      "title": "Großbritannien: Weltraummission scheitert vor Erreichen der Erdumlaufbahn",
-      "teaser": "Bei dem geplanten Satellitenstart der \"Cosmic Girl\" ist es zu Problemen gekommen. Es war die erste Rakete, die von britischem Boden aus ins All gebracht werden sollte.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/grossbritannien-traegerrakete-cosmic-girl-richard-branson",
-      "image_url": "https://img.zeit.de/wissen/2023-01/virgin-orbit-cosmic-girl-staellitenstart-flugzeug-bild/wide__822x462",
-      "image_title": "Großbritannien: Weltraummission scheitert vor Erreichen der Erdumlaufbahn"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gasversorgung: Wohin mit all dem Gas?",
@@ -195,6 +195,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Großbritannien: Weltraummission scheitert vor Erreichen der Erdumlaufbahn",
+      "teaser": "Bei dem geplanten Satellitenstart der \"Cosmic Girl\" ist es zu Problemen gekommen. Es war die erste Rakete, die von britischem Boden aus ins All gebracht werden sollte.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/grossbritannien-traegerrakete-cosmic-girl-richard-branson",
+      "image_url": "https://img.zeit.de/wissen/2023-01/virgin-orbit-cosmic-girl-staellitenstart-flugzeug-bild/wide__822x462",
+      "image_title": "Großbritannien: Weltraummission scheitert vor Erreichen der Erdumlaufbahn"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bitcoin in El Salvador: Der Diktator hat sich verzockt",
       "teaser": "Der exzentrische Präsident Nayib Bukele hat Bitcoin zum offiziellen Zahlungsmittel von El Salvador gemacht. Dann verlor die Digitalwährung an Wert. Wie geht es dem Land?",
       "url": "https://www.zeit.de/2023/02/bitcoin-el-salvador-waehrung-kurs",
@@ -202,18 +209,18 @@
       "image_title": "Bitcoin in El Salvador: Der Diktator hat sich verzockt"
     },
     {
-      "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
-      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
-      "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
-      "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
-    },
-    {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
       "teaser": "Der Arbeitgebermarkt hat sich zum Arbeitnehmermarkt gewandelt. Um möglichen Bewerber:innen Orientierung zu bieten, haben sich Arbeitgebersiegel auf dem Markt etabliert.",
       "url": "https://www.zeit.de/angebote/most-wanted-employer-2022/index",
       "image_url": "https://img.zeit.de/angebote/most-wanted-employer-2022/teaserbild-unsplash/wide__822x462",
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
+    },
+    {
+      "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
+      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
+      "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
+      "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
     },
     {
       "title": "Wirtschaftspodcast \"Ist das eine Blase?\": Kannibalen auf Rädern",
@@ -226,22 +233,15 @@
       "title": "Impfstoffproduktion: Pharmaindustrie erwartet nach Corona-Pandemie sinkende Umsätze",
       "teaser": "Die gesteigerte Impfstoffproduktion während der Corona-Pandemie hat der Pharmaindustrie Auftrieb verschafft. Nun stellt sich die Branche auf Umsatzverluste ein.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/pharmaindustrie-deutschland-produktion-verlust-impfstoffe",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/pharmabranche-impfstoffboom-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/pharmabranche-impfstoffboom-bild/cinema__980x420",
       "image_title": "Impfstoffproduktion: Pharmaindustrie erwartet nach Corona-Pandemie sinkende Umsätze"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Riester-Rente oder ETFs: Besser nicht kündigen!",
       "teaser": "Mit 56 Jahren noch aus einem alten Riester-Vertrag aussteigen und stattdessen ETFs kaufen: Unser Autor erklärt, ob das eine gute Idee ist.",
       "url": "https://www.zeit.de/2023/02/riester-rente-etf-sparplan-geldanlage",
-      "image_url": "https://img.zeit.de/2023/02/lohnt-sich-mit-56-jahren-noch-ein-ausstieg-aus-einem-riester-vertrag-und-der-einstieg-in-etfs-fragt--bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/02/lohnt-sich-mit-56-jahren-noch-ein-ausstieg-aus-einem-riester-vertrag-und-der-einstieg-in-etfs-fragt--bild-1/wide__822x462",
       "image_title": "Riester-Rente oder ETFs: Besser nicht kündigen!"
-    },
-    {
-      "title": "US-Arbeitsmarkt: Rauf mit den Löhnen, nieder mit den Monopolen",
-      "teaser": "Die US-Kartellbehörde will künftig Wettbewerbsklauseln in Arbeitsverträgen verbieten. Der Plan: Wenn mehr Arbeiter zur Konkurrenz wechseln dürfen, steigen die Löhne.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/usa-ftc-loehne-kartell-niedriglohnsektor-monopol",
-      "image_url": "https://img.zeit.de/politik/2023-01/usa-ftc-loehne-kartell-niedriglohnsektor-monopol-bild/wide__822x462",
-      "image_title": "US-Arbeitsmarkt: Rauf mit den Löhnen, nieder mit den Monopolen"
     },
     {
       "title": "China: Milliardär Jack Ma gibt Kontrolle über Finanzkonzern ab",
@@ -293,11 +293,11 @@
       "image_title": "FTX: Das sollten Sie zum Krypto-Crash wissen"
     },
     {
-      "title": "WirtschaftsWocheNikola-Chef Lohscheller: „Wir sind der Konkurrenz zwei Jahre voraus“",
+      "title": "WirtschaftsWocheNikola-Chef Lohscheller: „Die Fahrer sind happy, weil sie die tuckernden Diesel los sind“",
       "teaser": "Das Start-up Nikola wollte mit Elektro- und Wasserstoff-Lkw angreifen. Heute droht dem Gründer Gefängnis, weil er die Aktionäre täuschte. Nimmt auch sein Nachfolger, Ex-Opel-Chef Michael Lohscheller, den Mund zu voll?",
-      "url": "https://www.wiwo.de/unternehmen/auto/nikola-chef-lohscheller-wir-sind-der-konkurrenz-zwei-jahre-voraus/28913142.html?wt_mc=zeitparkett",
+      "url": "https://www.wiwo.de/unternehmen/auto/nikola-chef-lohscheller-die-fahrer-sind-happy-weil-sie-die-tuckernden-diesel-los-sind/28913142.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/lohscheller-nikola-iv-imago-rtr/28913798/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Nikola-Chef Lohscheller: „Wir sind der Konkurrenz zwei Jahre voraus“"
+      "image_title": "Nikola-Chef Lohscheller: „Die Fahrer sind happy, weil sie die tuckernden Diesel los sind“"
     },
     {
       "title": "WirtschaftsWocheFlexible Modelle: So managen Sie die hybride Arbeitswelt",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-10T12:24:29",
+  "timestamp": "2023-01-10T13:21:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "JsonWebToken-Bibliothek",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html"
+    },
+    {
       "title": "UEFI-Firmware ARM-Geräte",
       "url": "https://www.heise.de/news/UEFI-Sicherheitsluecken-bedrohen-ARM-Geraete-wie-Microsoft-Surface-7454141.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Securepoint-UTM-Hotfix-schliesst-kritische-Sicherheitsluecke-7453560.html"
     },
     {
-      "title": "MatrixSSL",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-MatrixSSL-ermoeglicht-Codeschmuggel-7453087.html"
+      "title": "Schadcode-Lücke in JsonWebToken-Bibliothek bedroht 22.000 Software-Projekte",
+      "teaser": "Aufgrund einer Sicherheitslücke in einer weitverbreiteten Bibliothek sind Open-Source-Projekte von unter anderem IBM und Microsoft verwundbar.",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
+    },
+    {
+      "title": "Open-Source-Editor Visual Studio Code: Fake Extensions lassen sich leicht tarnen",
+      "teaser": "Sicherheitsforscher haben eine als Prettier getarnte Erweiterung im Marktplatz veröffentlicht, die es auf gut 1000 Downloads innerhalb von 48 Stunden brachte.",
+      "url": "https://www.heise.de/news/Open-Source-Editor-Visual-Studio-Code-Fake-Extensions-lassen-sich-leicht-tarnen-7453534.html"
     },
     {
       "title": "UEFI-Sicherheitslücken bedrohen ARM-Geräte wie Microsoft Surface",
@@ -139,17 +150,6 @@
       "title": "Nach Boxcryptor-Übernahme durch Dropbox: Umzug-Details für Nutzer",
       "teaser": "Dropbox hat die Augsburger Firma hinter Boxcryptor übernommen. Bisherige Kunden müssen ihre Daten und Schlüssel sichern.",
       "url": "https://www.heise.de/news/Nach-Boxcrypter-Uebernahme-durch-Dropbox-Umzug-Details-fuer-Nutzer-7449528.html"
-    },
-    {
-      "title": "Hochschule für Angewandte Wissenschaften Hamburg hart von Cyberattacke getroffen",
-      "teaser": "Nach einem IT-Angriff auf die HAW Hamburg hakt es im Betrieb. So mussten etwa Abgabefristen für Studenten verlängert werden.",
-      "url": "https://www.heise.de/news/Hochschule-fuer-Angewandte-Wissenschaften-Hamburg-hart-von-Cyberattacke-getroffen-7449611.html"
-    },
-    {
-      "title": "Fortinet stopft Schadcode-Lücken in Netzwerk-Produkten",
-      "teaser": "Angreifer könnten unberechtigt unter anderem auf FortiManager zugreifen. Sicherheitsupdates stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/Fortinet-stopft-Schadcode-Luecken-in-Netzwerk-Produkten-7449288.html",
-      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
