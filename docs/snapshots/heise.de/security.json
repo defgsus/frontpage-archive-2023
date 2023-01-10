@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-10T08:16:05",
+  "timestamp": "2023-01-10T09:12:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Meeting-Client-Zoom-unter-Android-macOS-und-Windows-angreifbar-7453606.html"
+    },
+    {
+      "title": "Securepoint UTM",
+      "url": "https://www.heise.de/news/Securepoint-UTM-Hotfix-schliesst-kritische-Sicherheitsluecke-7453560.html"
+    },
+    {
       "title": "MatrixSSL",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-MatrixSSL-ermoeglicht-Codeschmuggel-7453087.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-Mehrere-Attacken-auf-Leonovo-ThinkPad-X13s-moeglich-7450558.html"
     },
     {
-      "title": "IBM Tivoli Monitoring",
-      "url": "https://www.heise.de/news/Sicherheitspatch-Angreifer-koennten-Systeme-mit-IBM-Tivoli-Monitoring-uebernehmen-7449768.html"
+      "title": "Meeting-Client Zoom unter Android, macOS und Windows angreifbar",
+      "teaser": "Nach erfolgreichen Attacken auf Zoom Rooms könnten sich Angreifer etwa unter macOS Root-Rechte verschaffen. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Meeting-Client-Zoom-unter-Android-macOS-und-Windows-angreifbar-7453606.html"
     },
     {
-      "title": "Fortinet",
-      "url": "https://www.heise.de/news/Fortinet-stopft-Schadcode-Luecken-in-Netzwerk-Produkten-7449288.html"
+      "title": "Securepoint UTM: Hotfix schließt kritische Sicherheitslücke",
+      "teaser": "In den Securepoint UTM klafft eine kritische Sicherheitslücke. Das Unternehmen hat einen Hotfix bereitgestellt, der die Schwachstelle abdichtet.",
+      "url": "https://www.heise.de/news/Securepoint-UTM-Hotfix-schliesst-kritische-Sicherheitsluecke-7453560.html"
     },
     {
       "title": "Kritische Sicherheitslücke in MatrixSSL ermöglicht Codeschmuggel",
@@ -141,17 +151,6 @@
       "teaser": "Google stellt gegen mögliche Attacken abgesicherte Android-Versionen 10, 11, 12, 12L und 13 zum Download bereit. Angreifer können sich Nutzerrechte verschaffen.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Kernel-Luecken-bedrohen-Android-7449147.html",
       "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "Zoho fixt Datenbank-Lücke in Password Manager Pro und Zugriffskontroll-Software",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für die ManageEngine-Produkte Access Manager Plus, PAM360 und Password Manager Pro.",
-      "url": "https://www.heise.de/news/Soho-fixt-Datenbank-Luecke-in-Password-Manager-Pro-und-Zugriffskontroll-Software-7449108.html"
-    },
-    {
-      "title": "Verbesserter iCloud-Datenschutz: Apple behält Nachschlüssel für Metadaten",
-      "teaser": "Bestimmte Infos, darunter Dateinamen, Dateiformate, Apps im Backup oder Dateigrößen sind für Apple auch bei aktivierter Advanced Data Protection zugänglich.",
-      "url": "https://www.heise.de/news/Verbesserter-iCloud-Datenschutz-Apple-behaelt-Nachschluessel-fuer-Metadaten-7447975.html",
-      "image_title": "iCloud"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
