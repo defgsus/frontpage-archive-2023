@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-10T11:11:07",
+  "timestamp": "2023-01-10T12:24:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "UEFI-Firmware ARM-Geräte",
+      "url": "https://www.heise.de/news/UEFI-Sicherheitsluecken-bedrohen-ARM-Geraete-wie-Microsoft-Surface-7454141.html"
+    },
+    {
       "title": "Zoom",
       "url": "https://www.heise.de/news/Meeting-Client-Zoom-unter-Android-macOS-und-Windows-angreifbar-7453606.html"
     },
@@ -44,14 +48,10 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-MatrixSSL-ermoeglicht-Codeschmuggel-7453087.html"
     },
     {
-      "title": "ThinkPad X13s",
-      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-Mehrere-Attacken-auf-Leonovo-ThinkPad-X13s-moeglich-7450558.html"
-    },
-    {
-      "title": "l+f: 2FA-Codes führen zu Leistenbruch bei Dieben",
-      "teaser": "Ein Bastler nutzt einen Commodore SX-64, um sich sicher bei Facebook & Co. anzumelden.",
-      "url": "https://www.heise.de/news/l-f-2FA-Codes-fuehren-zu-Leistenbruch-bei-Dieben-7454002.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
+      "title": "UEFI-Sicherheitslücken bedrohen ARM-Geräte wie Microsoft Surface",
+      "teaser": "Supply-Chain-Attacken möglich: Angreifer könnten auf Lenovo ThinkPads und Microsoft Surface den Schutzmechanismus Secure Boot umgehen.",
+      "url": "https://www.heise.de/news/UEFI-Sicherheitsluecken-bedrohen-ARM-Geraete-wie-Microsoft-Surface-7454141.html",
+      "image_title": "Security Alert"
     },
     {
       "title": "Hersteller gehackt: Digitale Nummernschilder verraten Standort der Fahrzeuge",
@@ -67,6 +67,11 @@
       "title": "Securepoint UTM: Hotfix schließt kritische Sicherheitslücke",
       "teaser": "In den Securepoint UTM klafft eine kritische Sicherheitslücke. Das Unternehmen hat einen Hotfix bereitgestellt, der die Schwachstelle abdichtet.",
       "url": "https://www.heise.de/news/Securepoint-UTM-Hotfix-schliesst-kritische-Sicherheitsluecke-7453560.html"
+    },
+    {
+      "title": "BaFin warnt vor \"Godfather\"-Banking-Trojaner",
+      "teaser": "Die BaFin warnt vor einem Banking-Trojaner, der Android-Geräte angreift. Die \"Godfather\" genannte Malware kann 400 internationale Finanzinstitutionen ausspähen.",
+      "url": "https://www.heise.de/news/BaFin-warnt-vor-Godfather-Banking-Trojaner-7453238.html"
     },
     {
       "title": "Kritische Sicherheitslücke in MatrixSSL ermöglicht Codeschmuggel",
@@ -147,12 +152,6 @@
       "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
-      "title": "Datenleck: Datenbank mit 235 Millionen Twitter-Konten kursiert",
-      "teaser": "Nachdem im Dezember eine Datenbank mit rund 400 Millionen Twitter-Datensätzen zum Verkauf stand, kursiert jetzt eine Version mit 235 Millionen Datensätzen.",
-      "url": "https://www.heise.de/news/Datenleck-Datenbank-mit-235-Millionen-Twitter-Konten-kursiert-7449391.html",
-      "image_title": "Aufmacher Twitter-Datenleck"
-    },
-    {
       "title": "Zero Trust – die Sicherheitsarchitektur",
       "teaser": "Das Webinar erklärt grundlegende Zero-Trust-Konzepte: Welche Rolle nehmen konkrete Maßnahmen wie Mikrosegmentierung, Conditional Access, TLS-Verschlüsselung darin ein und welche relevanten Produktkategorien ergeben sich daraus? Optimieren Sie Ihre eigene IT-Infrastruktur.",
       "url": "https://webinare.heise.de/zero-trust/?wt_mc=intern.academy.security.web_zero_trust.teaser.link.link"
@@ -174,6 +173,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-BSI-Affaere-Boehmermann-und-Faeser-saegen-an-Schoenbohms-Stuhl-7295281.html"
     },
     {
+      "title": "Re: Kein Internet unter Desinfect / Bootproblem bei \"5.19\"",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Internet-unter-Desinfect-Bootproblem-bei-5-19/posting-42120996/show/"
+    },
+    {
       "title": "Re: WithSecure funktioniert weiterhin nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-funktioniert-weiterhin-nicht/posting-42118245/show/"
@@ -182,11 +186,6 @@
       "title": "Desinfec't startet den Light Display Manager nicht",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfec-t-startet-den-Light-Display-Manager-nicht/posting-42117771/show/"
-    },
-    {
-      "title": "Re: ESET Lizenz abgelaufen? (und anderes)",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Lizenz-abgelaufen-und-anderes/posting-42117220/show/"
     }
   ]
 }
