@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-11T12:24:09",
+  "timestamp": "2023-01-11T13:22:38",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.52f6a01ef99a2a18d9b9",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.e70f41005abdc37e9990",
       "id": null,
       "text": null
     }
@@ -56,7 +56,37 @@
       "image_title": ","
     },
     {
-      "title": "Fahrradhersteller Prophete: Insolvenz durch Cyber-Angriff",
+      "title": "Technisches Problem: Tausende Flugzeuge müssen in den USA am Boden bleiben",
+      "teaser": "Weil ein wichtiges System zur Weitergabe von kritischen Informationen ausgefallen ist, kommt es aktuell zu massiven Verspätungen an US-Flughäfen",
+      "url": "https://www.heise.de/news/Technisches-Problem-Tausende-Flugzeuge-muessen-in-den-USA-am-Boden-bleiben-7455899.html"
+    },
+    {
+      "title": "Programmiersprache: Crystal 1.7 führt neue Engine für reguläre Ausdrücke ein",
+      "teaser": "Mit Verbesserungen, Bugfixes und der neuen Library PCRE2 für die Regex-Klasse startet die Programmiersprache Crystal 1.7 in das Jahr 2023.",
+      "url": "https://www.heise.de/news/Programmiersprache-Crystal-1-7-fuehrt-neue-Engine-fuer-regulaere-Ausdruecke-ein-7455814.html"
+    },
+    {
+      "title": "Exploit-Code gesichtet: Attacken auf IT-Monitoring-Tool Cacti möglich",
+      "teaser": "Angreifer könnten an einer kritischen Sicherheitslücke in Cacti ansetzen und Schadcode auf Servern ausführen.",
+      "url": "https://www.heise.de/news/Exploit-Code-gesichtet-Attacken-auf-IT-Monitoring-Tool-Cacti-moeglich-7455833.html"
+    },
+    {
+      "title": "Experiment ohne Einwilligung: Menschen suchen Hilfe – und landen bei einer KI",
+      "teaser": "Koko, eine Gesundheits-App, hat Menschen mit psychischen Problemen Antworten von ChatGPT präsentiert und sie darüber nicht informiert. Dafür hagelt es Kritik.",
+      "url": "https://www.heise.de/news/Experiment-ohne-Einwilligung-Menschen-suchen-Hilfe-und-landen-bei-einer-KI-7455475.html"
+    },
+    {
+      "title": "Xing stellt Gruppen und Events-Seite ein: Fokus liegt auf Jobvermittlung",
+      "teaser": "\"Unternehmen bewerben sich um Talente\" – diesem Wandel auf dem Arbeitsmarkt schuldet Xing die Einstellung der Gruppen und der Xing-Events.",
+      "url": "https://www.heise.de/news/Xing-stellt-Gruppen-und-Events-Seite-ein-Fokus-liegt-auf-Jobvermittlung-7455581.html"
+    },
+    {
+      "title": "AMD Ryzen 7000: Die effizienten Prozessoren sind jetzt verfügbar",
+      "teaser": "Deutsche Händler führen die drei neuen AM5-Prozessoren Ryzen 9 7900, Ryzen 7 7700 und Ryzen 5 7600. Los geht es ab knapp 260 Euro.",
+      "url": "https://www.heise.de/news/AMD-Ryzen-7000-65-Watt-CPUs-jetzt-verfuegbar-7455664.html"
+    },
+    {
+      "title": "Fahrradhersteller: Prophete nach Cyber-Angriff in Insolvenz gerutscht",
       "teaser": "Der Insolvenzverwalter beim Fahrradhersteller Prophete hat als Ursache für die Insolvenz einen Cyber-Angriff ausgemacht, der einen Betriebsstillstand auslöste.",
       "url": "https://www.heise.de/news/Fahrradhersteller-Prophete-Insolvenz-durch-Cyber-Angriff-7455650.html"
     },
@@ -102,40 +132,6 @@
       "teaser": "Elektromotoren drehten sich schon vor 190 Jahren. Heute hat man eher die Qual der Wahl, für ein Antriebsproblem den passenden Motor zu finden. Ein Überblick.",
       "url": "https://www.heise.de/ratgeber/Einblick-in-die-Welt-der-Motoren-und-Antriebe-7450850.html",
       "image_title": ","
-    },
-    {
-      "title": "Patchday: Schadcode-Attacken auf Adobe InCopy und InDesign möglich",
-      "teaser": "Die Entwickler von Adobe haben in mehreren Anwendungen gefährliche Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-InCopy-und-InDesign-moeglich-7455222.html"
-    },
-    {
-      "title": "25 Router im IPv6-Test: Wo Fritzbox & Co. noch immer patzen",
-      "teaser": "Das IPv6 ist inzwischen essenziell. Doch manche Router scheitern schon daran, Internet per IPv6 bereitzustellen. Wir haben 25 Geräte in vier Szenarien erprobt.",
-      "url": "https://www.heise.de/tests/25-Router-im-IPv6-Test-Wo-Fritzbox-Co-noch-immer-patzen-7449159.html",
-      "image_title": ","
-    },
-    {
-      "title": "Studie: Russische Twitter-Trolle 2016 ohne Einfluss auf Trump-Wahl",
-      "teaser": "Vor der Wahl Donald Trumps zum US-Präsidenten gab es aus Russland Versuche, für ihn Einfluss zu nehmen. Auf Twitter hatte das keine messbaren Folgen.",
-      "url": "https://www.heise.de/news/US-Praesidentschaftswahl-2016-Russische-Twitter-Kampagne-ohne-messbaren-Einfluss-7455062.html"
-    },
-    {
-      "title": "Webbrowser: 17 Sicherheitslücken in Google Chrome gestopft",
-      "teaser": "Das erste Update des Jahres hievt den Webbrowser Chrome auf Stand 109. Die Entwickler schließen darin 17 Schwachstellen, von denen einige hochriskant sind.",
-      "url": "https://www.heise.de/news/Webbrowser-17-Sicherheitsluecken-in-Google-Chrome-gestopft-7455130.html",
-      "image_title": "Google Chrome Update"
-    },
-    {
-      "title": "Fünf Solar-Generatoren im Test: Steckdose to Go für iPhone, Mac & Co.",
-      "teaser": "Stellen Sie sich vor, der Strom fällt aus – und nicht nur Ihre Apple-Geräte stehen still. Ein Solar-Generator kann hier Abhilfe schaffen. Unser Test.",
-      "url": "https://www.heise.de/tests/Fuenf-Solar-Generatoren-im-Test-Steckdose-to-Go-fuer-iPhone-Co-7450149.html",
-      "image_title": ", Dan Race, stock.adobe.com"
-    },
-    {
-      "title": "iX-Workshop Sicher in die Public Cloud: Azure & Co. effektiv absichern",
-      "teaser": "Lernen Sie, wie Sie Cloud-Umgebungen wie Microsoft Azure sicher und zudem möglichst datenschutzkonform einsetzen. Mit 10% Frühbücherrabatt bis 23.1.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sicher-in-die-Public-Cloud-Azure-Co-effektiv-absichern-7454262.html",
-      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
