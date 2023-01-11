@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-11T11:10:35",
+  "timestamp": "2023-01-11T12:24:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -46,6 +46,11 @@
     {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-behandelt-vier-kritische-Schwachstellen-7454402.html"
+    },
+    {
+      "title": "Fahrradhersteller Prophete: Insolvenz durch Cyber-Angriff",
+      "teaser": "Der Insolvenzverwalter beim Fahrradhersteller Prophete hat als Ursache für die Insolvenz einen Cyber-Angriff ausgemacht, der einen Betriebsstillstand auslöste.",
+      "url": "https://www.heise.de/news/Fahrradhersteller-Prophete-Insolvenz-durch-Cyber-Angriff-7455650.html"
     },
     {
       "title": "DDoS-Angriffe: Webseiten dänischer Zentralbank und von Privatbanken lahmgelegt",
@@ -147,12 +152,6 @@
       "title": "LKA warnt vor gefälschten Domain-Rechnungen",
       "teaser": "Derzeit trudeln zahlreiche gefälschte Rechnungen ein, die Domain-Registrierungskosten für 2023/2024 geltend machen wollen. Davor warnt das LKA Niedersachsen.",
       "url": "https://www.heise.de/news/LKA-warnt-vor-gefaelschten-Domain-Rechnungen-7452393.html"
-    },
-    {
-      "title": "Rust: bis zu 2500 Projekte durch Bibliothek Hyper für DoS verwundbar",
-      "teaser": "Enthält die to_bytes-Funktion von Hyper keine Längenbeschränkung, so lassen sich schnell DoS-Attacken ausführen. Abhilfe schafft die offizielle Doku.",
-      "url": "https://www.heise.de/news/Rust-bis-zu-2500-Projekte-durch-Bibliothek-Hyper-fuer-DoS-verwundbar-7451019.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
