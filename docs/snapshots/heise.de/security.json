@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-11T09:14:41",
+  "timestamp": "2023-01-11T10:16:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-verschaffen-sich-unter-Windows-System-Rechte-7455122.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-InCopy-und-InDesign-moeglich-7455222.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-SAP-behandelt-vier-kritische-Schwachstellen-7454402.html"
     },
     {
-      "title": "JsonWebToken-Bibliothek",
-      "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html"
-    },
-    {
-      "title": "Patchday: Schadcode-Attacken auf Adobe InCopy und InDesign möglich",
-      "teaser": "Die Entwickler von Adobe haben in mehreren Anwendungen gefährliche Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-InCopy-und-InDesign-moeglich-7455222.html"
+      "title": "Cyber-Angriffe auf Webseiten der dänischen Zentralbank und von Privatbanken",
+      "teaser": "Cyberkriminelle haben Zugriffe auf die Webseiten der dänischen Zentralbank sowie auf sieben Privatbanken mit DDoS-Attacken lahmgelegt.",
+      "url": "https://www.heise.de/news/Cyber-Angriffe-auf-Webseiten-der-daenischen-Zentralbank-und-von-Privatbanken-7455330.html"
     },
     {
       "title": "Webbrowser: 17 Sicherheitslücken in Google Chrome gestopft",
@@ -76,6 +76,12 @@
       "image_title": "Patchday SAP"
     },
     {
+      "title": "Schadcode-Lücke in JsonWebToken-Bibliothek bedroht 22.000 Software-Projekte",
+      "teaser": "Aufgrund einer Sicherheitslücke in einer weitverbreiteten Bibliothek sind Open-Source-Projekte von unter anderem IBM und Microsoft verwundbar.",
+      "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
+    },
+    {
       "title": "Sourcecode-Editor Visual Studio Code: Fake Extensions lassen sich leicht tarnen",
       "teaser": "Sicherheitsforscher haben eine als Prettier getarnte Erweiterung im Marktplatz veröffentlicht, die es auf gut 1000 Downloads innerhalb von 48 Stunden brachte.",
       "url": "https://www.heise.de/news/Open-Source-Editor-Visual-Studio-Code-Fake-Extensions-lassen-sich-leicht-tarnen-7453534.html"
@@ -85,6 +91,12 @@
       "teaser": "Supply-Chain-Attacken möglich: Angreifer könnten auf Lenovo ThinkPads und Microsoft Surface den Schutzmechanismus Secure Boot umgehen.",
       "url": "https://www.heise.de/news/UEFI-Sicherheitsluecken-bedrohen-ARM-Geraete-wie-Microsoft-Surface-7454141.html",
       "image_title": "Security Alert"
+    },
+    {
+      "title": "l+f: 2FA-Codes führen zu Leistenbruch bei Dieben",
+      "teaser": "Ein Bastler nutzt einen Commodore SX-64, um sich sicher bei Facebook & Co. anzumelden.",
+      "url": "https://www.heise.de/news/l-f-2FA-Codes-fuehren-zu-Leistenbruch-bei-Dieben-7454002.html",
+      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
       "title": "Zeit, Tschüss zu sagen: Windows 7, 8.1 und Server 2008/R2 ab heute altes Eisen",
@@ -141,17 +153,6 @@
       "teaser": "Enthält die to_bytes-Funktion von Hyper keine Längenbeschränkung, so lassen sich schnell DoS-Attacken ausführen. Abhilfe schafft die offizielle Doku.",
       "url": "https://www.heise.de/news/Rust-bis-zu-2500-Projekte-durch-Bibliothek-Hyper-fuer-DoS-verwundbar-7451019.html",
       "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
-    },
-    {
-      "title": "Sicherheitsvorfall: CircleCI-Nutzer müssen jetzt Passwörter ändern",
-      "teaser": "Nach einem Sicherheitsvorfall appelliert CircleCI an Developer und Kunden, Passwörter, Schlüssel und andere geheime Daten auf der CI-Plattform zu aktualisieren.",
-      "url": "https://www.heise.de/news/Sicherheitsvorfall-CircleCI-Nutzer-muessen-jetzt-Passwoerter-aendern-7450984.html",
-      "image_title": "Sicherheitsvorfall: CircleCI-Nutzer müssen jetzt Passwörter ändern"
-    },
-    {
-      "title": "Gratis-Entschlüsselungstool für die Ransomware MegaCortex veröffentlicht",
-      "teaser": "Opfer des Erpressungstrojaners MegaCortex können mithilfe eines Tools, ohne Lösegeld zu zahlen, wieder auf ihre Daten zugreifen.",
-      "url": "https://www.heise.de/news/Gratis-Entschluesselungstool-fuer-die-Ransomware-MegaCortex-veroeffentlicht-7450843.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
