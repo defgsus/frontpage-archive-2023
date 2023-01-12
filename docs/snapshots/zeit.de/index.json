@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-12T15:20:08",
+  "timestamp": "2023-01-12T16:32:29",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.072d7a43.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.c4e1a3c8.mjs",
       "id": null,
       "text": null
@@ -86,15 +92,19 @@
   ],
   "articles": [
     {
+      "title": "Danke, dass Sie ZEIT ONLINE nutzen.",
+      "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
+    },
+    {
       "title": "Wohnungsmangel: Bauen senkt die Mieten nicht",
-      "teaser": "Die deutsche Politik hängt seit Jahren einem ideologisch geprägten Irrglauben an. Dadurch konnte die Wohnungsnot weiter wachsen. Höchste Zeit für einen Neustart.",
+      "teaser": "Die deutsche Politik hängt seit Jahren einem Irrglauben an, dadurch konnte die Wohnungsnot weiterwachsen. Höchste Zeit für einen Neustart.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/wohnungsmangel-wohnungsbauziel-bundesregierung-wohnungsmarkt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-01/wohnungsmangel-wohnungsbauziel-bundesregierung/cinema__980x420",
       "image_title": "wohnungsmangel-wohnungsbauziel-bundesregierung"
     },
     {
       "title": "Liveblog: Lützerath: Polizei rechnet nicht mit baldigem Ende der Räumung",
-      "teaser": "In Lützerath wurden etliche Hütten und Baumhäuser abgerissen. Trotz der Fortschritte geht die Polizei nicht von einem zeitnahen Ende des Einsatzes aus. Das Liveblog",
+      "teaser": "In Lützerath sind etliche Hütten und Baumhäuser abgerissen worden. Trotz der Fortschritte geht die Polizei nicht von einem schnellen Ende des Einsatzes aus. Das Liveblog",
       "url": "https://www.zeit.de/gesellschaft/2023-01/luetzerath-raeumung-polizei-live",
       "image_url": "https://img.zeit.de/gesellschaft/2023-01/luetzerath-raeumung-polizei-live-bild-9/wide__822x462",
       "image_title": "Lützerath: Polizei rechnet nicht mit baldigem Ende der Räumung"
@@ -107,18 +117,25 @@
       "image_title": "Besetzung von Lützerath: Was denken Sie über den Konflikt um Lützerath?"
     },
     {
-      "title": "Räumung von Lützerath: Protest in Sturm und Schlamm",
-      "teaser": "In Lützerath hat die Polizei die Räumung bei schlechtem Wetter fortgesetzt. Aktivisten wurden aus Höfen gebracht, andere verschanzten sich in Baumhäusern. Die Bilder",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/luetzerath-raeumung-klimaaktivismus-polizei-fs-2",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-01/luetzerath-raeumung-klimaaktivismus-polizei-fs-teaser/wide__822x462",
-      "image_title": "Räumung von Lützerath: Protest in Sturm und Schlamm"
-    },
-    {
-      "title": "Lützerath: \"Ich hab' 'ne Uniform an, also bin ich politisch neutral\"",
+      "title": "Lützerath: \"Ich hab 'ne Uniform an, also bin ich politisch neutral\"",
       "teaser": "In Lützerath wehren sich Aktivisten gegen den Einsatz der Polizei. Szenen aus dem weitgehend friedlichen Protestcamp",
       "url": "https://www.zeit.de/video/2023-01/6318554074112/luetzerath-ich-hab-ne-uniform-an-also-bin-ich-politisch-neutral",
-      "image_url": "https://img.zeit.de/politik/2023-01/luetze-video/cinema__980x420",
-      "image_title": "Lützerath: \"Ich hab' 'ne Uniform an, also bin ich politisch neutral\""
+      "image_url": "https://img.zeit.de/politik/2023-01/luetze-video/wide__822x462",
+      "image_title": "Lützerath: \"Ich hab 'ne Uniform an, also bin ich politisch neutral\""
+    },
+    {
+      "title": "Jeff Beck: Der Saitensänger",
+      "teaser": "Jeff Beck war ein Superstar für alle Gitarrenliebhaber, er wies gleich mehreren Genres den Weg. Nun ist der einzigartige Einzelgänger gestorben. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/musik/2023-01/jeff-beck-britische-rock-legende-gitarrist-tod-grammy-preistraeger",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-01/jeff-beck-britische-rock-legende-gitarrist-tod-grammy-preistraeger-bild1/cinema__980x420",
+      "image_title": "Jeff Beck: Der Saitensänger"
+    },
+    {
+      "title": "US-Präsident: Berater bestätigt Fund weiterer Geheimdokumente bei Joe Biden",
+      "teaser": "Der Fund vertraulicher Dokumente in seinen Privaträumen bringt US-Präsident Joe Biden unter Druck. Nun wurde eine \"kleine Anzahl\" zusätzlicher Unterlagen entdeckt.",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/joe-biden-weitere-geheimdokumente-fund-bestaetigt",
+      "image_url": "https://img.zeit.de/politik/2023-01/jjoe-biden-weitere-geheimdokumente-fund-bestaetigt-bild/wide__822x462",
+      "image_title": "US-Präsident: Berater bestätigt Fund weiterer Geheimdokumente bei Joe Biden"
     },
     {
       "title": "Liveblog: Ukraine-News: Duma-Abgeordneter ruft zu gezieltem Angriff auf Annalena Baerbock auf",
@@ -142,6 +159,13 @@
       "image_title": "Leopard-Kampfpanzer: Habeck will polnische Panzerlieferungen an Ukraine nicht verhindern"
     },
     {
+      "title": "\"FCK 2020 – Zweieinhalb Jahre mit Scooter\": Deutschlands traurigster Raver",
+      "teaser": "\"FCK 2020\" will zeigen, wie Scooter nach Corona in ihre Wahnsinnsnormalität zurückkehren. Tatsächlich dokumentiert der Film die Auflösung der Band, ohne es zu merken.",
+      "url": "https://www.zeit.de/kultur/film/2023-01/fck-2020-zweieinhalb-jahre-mit-scooter-dokumentation",
+      "image_url": "https://img.zeit.de/kultur/film/2023-01/fck-2020-zweieinhalb-jahre-mit-scooter-dokumentation-bild1/cinema__980x420",
+      "image_title": "\"FCK 2020 – Zweieinhalb Jahre mit Scooter\": Deutschlands traurigster Raver"
+    },
+    {
       "title": "Alexej Nawalny: Unterstützer und Ärzte in Sorge um russischen Oppositionspolitiker",
       "teaser": "Der inhaftierte Alexej Nawalny soll unter Fieber, Schüttelfrost und Husten leiden. Laut seinem Anwalt wird ihm Hilfe verwehrt. Einem Gerichtstermin blieb er fern.",
       "url": "https://www.zeit.de/politik/ausland/2023-01/alexej-nawalny-krank-gesundheitszustand-sorge",
@@ -149,11 +173,52 @@
       "image_title": "Alexej Nawalny: Unterstützer und Ärzte in Sorge um russischen Oppositionspolitiker"
     },
     {
-      "title": "\"FCK 2020 – Zweieinhalb Jahre mit Scooter\": Deutschlands traurigster Raver",
-      "teaser": "\"FCK 2020\" will zeigen, wie Scooter nach Corona in ihre Wahnsinnsnormalität zurückkehren. Tatsächlich dokumentiert der Film die Auflösung der Band, ohne es zu merken.",
-      "url": "https://www.zeit.de/kultur/film/2023-01/fck-2020-zweieinhalb-jahre-mit-scooter-dokumentation",
-      "image_url": "https://img.zeit.de/kultur/film/2023-01/fck-2020-zweieinhalb-jahre-mit-scooter-dokumentation-bild1/cinema__980x420",
-      "image_title": "\"FCK 2020 – Zweieinhalb Jahre mit Scooter\": Deutschlands traurigster Raver"
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Großstädte: Die Stadtflucht",
+      "teaser": "Lange Zeit zogen die Menschen innerhalb Deutschlands in die Städte. Doch Daten zeigen, dass sich der Trend gedreht hat: Die Großstädte beginnen zu schrumpfen.",
+      "url": "https://www.zeit.de/gesellschaft/2023-01/deutsche-grossstaedte-bevoelkerungsentwicklung-zuzuege-wegzuege",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/deutsche-grossstaedte-bevoelkerungsentwicklung-zuzuege-wegzuege-teaserbild/wide__822x462",
+      "image_title": "Deutsche Großstädte: Die Stadtflucht"
+    },
+    {
+      "title": "Wahlwiederholung: Falscher Stimmzettel für Berliner Abgeordnetenhauswahl gedruckt",
+      "teaser": "Fehler bei Wiederholungswahl: Für Neukölln wurde bei den Erststimmen ein FDP-Kandidat angegeben, der aus Berlin weggezogen ist. Bereits abgegebene Stimmen sind ungültig.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-01/berlin-wiederholungswahl-stimmzettel-fehler",
+      "image_url": "https://img.zeit.de/politik/2023-01/berlin-abgeordnetenhauswahl-stimmzettel-bild/wide__822x462",
+      "image_title": "Wahlwiederholung: Falscher Stimmzettel für Berliner Abgeordnetenhauswahl gedruckt"
+    },
+    {
+      "title": "Dossier : Haben Maschinen eine Seele?",
+      "teaser": "Ein Computerprogramm führt plötzlich tiefsinnige Gespräche. Es behauptet, Freude, Vertrauen und Angst zu kennen wie ein Mensch. Manche glauben ihm",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/03/packshot-23-3-1000x620.jpg/imagegroup/original__1000x620"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Myriam Boulos: \"Schaut her, wir haben Körper, wir mögen Sex!\"",
+      "teaser": "Die Fotografin Myriam Boulos spricht mit Frauen über ihre sexuellen Fantasien. Ihr Fotoprojekt zeigt, wie das Patriarchat intimste Gedanken und Sehnsüchte formt.",
+      "url": "https://www.zeit.de/zett/liebe-sex/2022-12/myriam-boulos-fotografin-frauen-koerper-sex-fantasien",
+      "image_url": "https://img.zeit.de/zett/liebe-sex/2022-12/myriam-boulos-fotografin-frauen-koerper-sex-16/wide__822x462",
+      "image_title": "Myriam Boulos: \"Schaut her, wir haben Körper, wir mögen Sex!\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Beziehung: Wie geht man als Paar damit um, wenn man unterschiedliche Gemüter hat?",
+      "teaser": "Sie ist eine Grüblerin, er Optimist. Das führt zu Konflikten. Der Paartherapeut Wolfgang Schmidbauer erklärt, warum Gegensätze gut sind und wie man sie besser aushält.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/16/beziehung-partner-unterschiedlichkeit-akzeptanz",
+      "image_url": "https://img.zeit.de/zeit-magazin/2021-05/paartherapeut-wolfgang-schmidbauer-bild/wide__822x462",
+      "image_title": "Beziehung: Wie geht man als Paar damit um, wenn man unterschiedliche Gemüter hat?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Depression : Ihr zweites Gesicht",
+      "teaser": "Lange denken Linda und Ella, sie hätten nur eine schlechte Phase. Sie gehen zur Arbeit, schaffen ihren Alltag. Doch der Kampf tobt im Inneren: Depressionen.",
+      "url": "https://www.zeit.de/zett/politik/2021-08/depression-psyche-psychologie-krankheit-alltag-arbeit",
+      "image_url": "https://img.zeit.de/zett/2021-08/zett-depression-bild/wide__822x462",
+      "image_title": "Depression : Ihr zweites Gesicht"
+    },
+    {
+      "title": "Tatjana Patitz: So schön, um wahr zu sein",
+      "teaser": "Tatjana Patitz gehörte in den Neunzigerjahren zu den größten Supermodels. Sie verkörperte eine Schönheit, der stets ein magischer Überschuss innewohnte. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/2023-01/tatjana-patitz-supermodel-tot-nachruf",
+      "image_url": "https://img.zeit.de/kultur/2023-01/tatjana-patitz-supermodel-tot-nachruf-bild/wide__822x462",
+      "image_title": "Tatjana Patitz: So schön, um wahr zu sein"
     },
     {
       "title": "OpenAI: Der Geldgenerator",
@@ -168,82 +233,6 @@
       "url": "https://www.zeit.de/wissen/2023-01/seltene-erden-schweden-vorkommen-kiruna",
       "image_url": "https://img.zeit.de/wissen/2023-01/schweden-seltene-erden-vorkommen-kiruna-bild/wide__822x462",
       "image_title": "Seltene Erden: Europas größtes Vorkommen seltener Erden in Schweden entdeckt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Deutsche Großstädte: Die Stadtflucht",
-      "teaser": "Lange Zeit zogen die Menschen innerhalb Deutschlands in die Städte. Doch Daten zeigen, dass sich der Trend gedreht hat: Die Großstädte beginnen zu schrumpfen.",
-      "url": "https://www.zeit.de/gesellschaft/2023-01/deutsche-grossstaedte-bevoelkerungsentwicklung-zuzuege-wegzuege",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/deutsche-grossstaedte-bevoelkerungsentwicklung-zuzuege-wegzuege-teaserbild/cinema__980x420",
-      "image_title": "Deutsche Großstädte: Die Stadtflucht"
-    },
-    {
-      "title": "Tatjana Patitz: So schön, um wahr zu sein",
-      "teaser": "Tatjana Patitz gehörte in den Neunzigerjahren zu den größten Supermodels. Sie verkörperte eine Schönheit, der stets ein magischer Überschuss innewohnte. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/2023-01/tatjana-patitz-supermodel-tot-nachruf",
-      "image_url": "https://img.zeit.de/kultur/2023-01/tatjana-patitz-supermodel-tot-nachruf-bild/wide__822x462",
-      "image_title": "Tatjana Patitz: So schön, um wahr zu sein"
-    },
-    {
-      "title": "Dossier : Haben Maschinen eine Seele?",
-      "teaser": "Ein Computerprogramm führt plötzlich tiefsinnige Gespräche. Es behauptet, Freude, Vertrauen und Angst zu kennen wie ein Mensch. Manche glauben ihm",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2023/03/packshot-23-3-1000x620.jpg/imagegroup/original__1000x620"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); ADHS bei Erwachsenen : Das muss doch ADHS sein",
-      "teaser": "Ungeduldig, depressiv, aufbrausend: ADHS hat viele Symptome, die auf viele Menschen zutreffen. Nur eine Diagnose bringt Erlösung – auch, wenn sie anders ist als erwartet.",
-      "url": "https://www.zeit.de/arbeit/2022-11/adhs-psychologie-psychotherapie-diagnose",
-      "image_url": "https://img.zeit.de/arbeit/2022-11/adhs-psychologie-psychotherapie-diagnose-duo/wide__822x462",
-      "image_title": "ADHS bei Erwachsenen : Das muss doch ADHS sein"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tagesschau\": Basta-Journalismus",
-      "teaser": "Die \"Tagesschau\" ist eine sehr schlechte Sendung, sie passt nicht mehr in die Welt, über die sie informieren will. Sie müsste deshalb zum Beispiel viel länger dauern.",
-      "url": "https://www.zeit.de/2023/02/tagesschau-ard-journalismus-kritik",
-      "image_url": "https://img.zeit.de/2023/02/hae-warum-bild-1/wide__822x462",
-      "image_title": "\"Tagesschau\": Basta-Journalismus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dienstfahrräder: Was man beim Dienstrad falsch machen kann",
-      "teaser": "Dienstrad statt Dienstwagen: Inzwischen unterstützen viele Arbeitgeber das Fahrradleasing. Für wen lohnt sich das? Und welche Fehler sollte man vermeiden?",
-      "url": "https://www.zeit.de/2021/45/dienstfahrraeder-leasing-kostenuebernahme-arbeitgeber-tipps",
-      "image_url": "https://img.zeit.de/mobilitaet/2021-09/fahrrad-boom-e-bike-verkehrswende-umwelt-nachhaltigkeit-canyon-bild/wide__822x462",
-      "image_title": "Dienstfahrräder: Was man beim Dienstrad falsch machen kann"
-    },
-    {
-      "title": "Großbritannien: Wartezeit auf Rettungswagen in England so lange wie nie",
-      "teaser": "Die Gesundheitsversorgung in Großbritannien steckt in der Krise. Im Durchschnitt mussten Notfallpatienten im Dezember eineinhalb Stunden auf einen Krankenwagen warten.",
-      "url": "https://www.zeit.de/gesellschaft/2023-01/nhs-krise-grossbritannien-rettungswagen-wartezeiten",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/grossbritannien-gesundheitsdienst-rettungswagen-bild/wide__822x462",
-      "image_title": "Großbritannien: Wartezeit auf Rettungswagen in England so lange wie nie"
-    },
-    {
-      "title": "Inflation in Frankreich: Politik mit dem heiligen Baguette",
-      "teaser": "2,50 Euro statt 95 Cent? Das Baguette wird in Frankreich teuer. Für Emmanuel Macron ist das ein Problem: Seine Regierung fürchtet ein Erstarken der Gelbwesten.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/inflation-frankreich-preis-baguette-energiekosten",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/inflation-frankreich-preis-baguette-2/wide__822x462",
-      "image_title": "Inflation in Frankreich: Politik mit dem heiligen Baguette"
-    },
-    {
-      "title": "Verbraucherpreise: Inflationsrate in den USA fällt im Dezember auf 6,5 Prozent",
-      "teaser": "In den USA wächst die Hoffnungen, dass die Inflation abebbt: Zum sechsten Mal ist sie zurückgegangen. Grund sind auch niedrigere Treibstoffpreise.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/usa-inflation-rueckgang",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/usa-inflation-bild/wide__822x462",
-      "image_title": "Verbraucherpreise: Inflationsrate in den USA fällt im Dezember auf 6,5 Prozent"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Big-Wave-Surfen • Das Beste aus Z+ : Der Tod in der Welle",
-      "teaser": "Der Surfer Marcio Freire starb in den Riesenwellen von Nazaré. Profis verwundert, dass es nicht schon eher zu einem Unglück kam. Das Problem: Respektlosigkeit",
-      "url": "https://www.zeit.de/sport/2023-01/big-wave-todesfall-marcio-freire-sebastian-steudtner",
-      "image_url": "https://img.zeit.de/sport/2023-01/big-wave-nazare/wide__822x462",
-      "image_title": "Big-Wave-Surfen • Das Beste aus Z+ : Der Tod in der Welle"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Handwerk • Das Beste aus Z+: \"Ich habe meine Männer da herausgeholt, es war zu erniedrigend\"",
-      "teaser": "Überall fehlen Handwerker. Kein Wunder, sagt Bauleiter Hendrik Pape, sie werden schlecht behandelt. Lieber bleiben sie in ihrer Heimat, als in Deutschland zu arbeiten.",
-      "url": "https://www.zeit.de/arbeit/2022-11/handwerk-vorurteile-bauleitung-fachkraeftemangel",
-      "image_url": "https://img.zeit.de/arbeit/2022-11/handwerk-vorurteile-bauleitung/wide__822x462",
-      "image_title": "Handwerk • Das Beste aus Z+: \"Ich habe meine Männer da herausgeholt, es war zu erniedrigend\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kritk an Friedrich Merz: Gesellschaftsbild von gestern",
@@ -266,8 +255,8 @@
       "url": "https://www.zeit.de/gesellschaft/2023-01/deutsche-grossstaedte-bevoelkerungsentwicklung-zuzuege-wegzuege"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Inneres Kind: \"Wichtig ist, dass man sich nicht mit dem inneren Kind gleichmacht\"",
-      "url": "https://www.zeit.de/campus/2023-01/inneres-kind-psychologie-social-media"
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, Antwortet der Rechner",
+      "url": "https://www.zeit.de/2023/03/ki-leben-chatbot-gefuehle-bewusstsein-blake-lemoine"
     },
     {
       "title": "Krieg gegen die Ukraine: SPD für diplomatische Initiative gegenüber Russland",
@@ -316,23 +305,23 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-01/leopard-2-ukraine-kampfpanzer-deutschland-eu"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Inneres Kind: \"Wichtig ist, dass man sich nicht mit dem inneren Kind gleichmacht\"",
-      "url": "https://www.zeit.de/campus/2023-01/inneres-kind-psychologie-social-media"
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, Antwortet der Rechner",
+      "url": "https://www.zeit.de/2023/03/ki-leben-chatbot-gefuehle-bewusstsein-blake-lemoine"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kritk an Friedrich Merz: Gesellschaftsbild von gestern",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/friedrich-merz-silvesterkrawalle-markus-lanz-cdu-chef-migration"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Getränke für den \"Dry January\": Schmeckt auch ohne Schwips",
+      "title": "Z+ (abopflichtiger Inhalt); Getränke für den Dry January: Schmeckt auch ohne Schwips",
       "teaser": "Mit Wasser und Saftschorle durch den Dry January? Solcher Verzicht ist unnötig und langweilig, deshalb: elf alkoholfreie Getränke, die man wirklich genießen kann.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/dry-january-getraenke-alkoholfrei-tipps",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-01/dry-january-getraenke-alkoholfrei-tipps-foto/cinema__980x420",
-      "image_title": "Getränke für den \"Dry January\": Schmeckt auch ohne Schwips"
+      "image_title": "Getränke für den Dry January: Schmeckt auch ohne Schwips"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Panzerlieferungen an die Ukraine: Haben Sie Angst vor Wladimir Putins Reaktion?",
-      "teaser": "Die Bundesregierung hat sich entschlossen, leichte Panzer an die Ukraine zu liefern. Befürchten die Befürworter, dass Deutschland damit Kriegspartei wird?",
+      "teaser": "Die Bundesregierung hat sich entschlossen, leichte Panzer an die Ukraine zu liefern. Befürchten die Befürworter nicht, dass Deutschland damit Kriegspartei wird?",
       "url": "https://www.zeit.de/politik/2023-01/ukraine-panzer-lieferungen-bundesregierung-kriegspartei",
       "image_url": "https://img.zeit.de/2023/03/haben-sie-gar-keine-angst-vor-putins-reaktion-bild-1/wide__822x462",
       "image_title": "Panzerlieferungen an die Ukraine: Haben Sie Angst vor Wladimir Putins Reaktion?"
@@ -389,11 +378,10 @@
       "image_title": "Raclette: Was uns Raclette über das gute Leben lehrt"
     },
     {
-      "title": "Altersarmut: Jeder dritte Vollzeitbeschäftigte wird Rente unter 1.200 Euro erhalten",
-      "teaser": "Die gesetzliche Altersvorsorge könne den Lebensstandard vieler Rentner nicht mehr sichern, kritisiert Dietmar Bartsch. Der Chef der Linksfraktion fordert eine Reform.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-01/rente-altersvorsorge-reform-dietmar-bartsch-linke",
-      "image_url": "https://img.zeit.de/politik/2023-01/rente-altersvorsorge-reform-dietmar-bartsch-linke-bild/wide__822x462",
-      "image_title": "Altersarmut: Jeder dritte Vollzeitbeschäftigte wird Rente unter 1.200 Euro erhalten"
+      "title": "Berlin",
+      "url": "https://www.zeit.de/thema/berlin",
+      "image_url": "https://img.zeit.de/kultur/2021-09/berlin-thema-skyline/wide__822x462",
+      "image_title": "Berlin"
     },
     {
       "title": "Worträtsel: Wortiger",
@@ -403,25 +391,25 @@
       "image_title": "Worträtsel: Wortiger"
     },
     {
+      "title": "Großbritannien: Wartezeit auf Rettungswagen in England so lange wie nie",
+      "teaser": "Die Gesundheitsversorgung in Großbritannien steckt in der Krise. Im Durchschnitt mussten Notfallpatienten im Dezember eineinhalb Stunden auf einen Krankenwagen warten.",
+      "url": "https://www.zeit.de/gesellschaft/2023-01/nhs-krise-grossbritannien-rettungswagen-wartezeiten",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/grossbritannien-gesundheitsdienst-rettungswagen-bild/cinema__980x420",
+      "image_title": "Großbritannien: Wartezeit auf Rettungswagen in England so lange wie nie"
+    },
+    {
+      "title": "Räumung von Lützerath: Protest in Sturm und Schlamm",
+      "teaser": "In Lützerath hat die Polizei die Räumung bei schlechtem Wetter fortgesetzt. Aktivisten wurden aus Höfen gebracht, andere verschanzten sich in Baumhäusern. Die Bilder",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/luetzerath-raeumung-klimaaktivismus-polizei-fs-2",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-01/luetzerath-raeumung-klimaaktivismus-polizei-fs-teaser/wide__822x462",
+      "image_title": "Räumung von Lützerath: Protest in Sturm und Schlamm"
+    },
+    {
       "title": "\"Spare\": Bereits 1,4 Millionen Exemplare von Prinz Harrys Memoiren verkauft",
-      "teaser": "Die Autobiografie von Prinz Harry legt laut Verlag einen Rekordstart hin. Kein anderes Sachbuch bei Penguin Random House wurde am Veröffentlichungstag so oft verkauft. 260 Kommentare",
+      "teaser": "Die Autobiografie von Prinz Harry legt laut Verlag einen Rekordstart hin. Kein anderes Sachbuch bei Penguin Random House wurde am Veröffentlichungstag so oft verkauft.",
       "url": "https://www.zeit.de/gesellschaft/2023-01/grossbritannien-prinz-harry-verkaufsstart-autobiografie-spare",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/grossbritannien-prinz-harry-verkaufsstart-autobiografie-spare-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/grossbritannien-prinz-harry-verkaufsstart-autobiografie-spare-bild/wide__822x462",
       "image_title": "\"Spare\": Bereits 1,4 Millionen Exemplare von Prinz Harrys Memoiren verkauft"
-    },
-    {
-      "title": "Porky von Deichkind: \"Für mein Feeling habe ich ausgesorgt\"",
-      "teaser": "Im Wochenendpodcast erzählt Porky von Deichkind, dass er Spaghetti mit Schokolade kocht und beim Onlinedarts entspannt – und macht dann, was er am liebsten tut: Er rappt.",
-      "url": "https://www.zeit.de/gesellschaft/2023-01/porky-deichkind-sebastian-duerre-wochenende-tipps-podcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/und-was-machst-du-am-wochenende-proky-von-deichkind-bildergruppe/wide__822x462",
-      "image_title": "Porky von Deichkind: \"Für mein Feeling habe ich ausgesorgt\""
-    },
-    {
-      "title": "Britischer Rassismus: Da bin ich aber ins Fettnäpfchen getreten!",
-      "teaser": "Rassismus wird in Großbritannien oft verharmlost, das zeigt nicht nur der Fall von Harry und Meghan. Die britische Monarchie muss dringend die Kolonialzeit aufarbeiten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/britischer-rassismus-prinz-harry-koenigshaus-5vor8",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-01/britischer-rassismus-prinz-harry-koenigshaus-5vor8-bild/wide__822x462",
-      "image_title": "Britischer Rassismus: Da bin ich aber ins Fettnäpfchen getreten!"
     },
     {
       "title": "AnzeigeSo viel verdienen Lehrkräfte tatsächlich",
@@ -431,8 +419,15 @@
       "image_title": "So viel verdienen Lehrkräfte tatsächlich"
     },
     {
+      "title": "Verbraucherpreise: Inflationsrate in den USA fällt im Dezember auf 6,5 Prozent",
+      "teaser": "In den USA wächst die Hoffnung, dass die Inflation abebbt: Zum sechsten Mal ist sie zurückgegangen. Grund sind auch niedrigere Treibstoffpreise.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/usa-inflation-rueckgang",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/usa-inflation-bild/cinema__980x420",
+      "image_title": "Verbraucherpreise: Inflationsrate in den USA fällt im Dezember auf 6,5 Prozent"
+    },
+    {
       "title": "Razzia: Bundesweite Hausdurchsuchungen wegen Ermittlungen gegen Russen",
-      "teaser": ". 102 Kommentare",
+      "teaser": ".",
       "url": "https://www.zeit.de/wirtschaft/2022-09/oligarch-alischer-usmanow-russland-razzia-tegernsee-steuerhinterziehung"
     },
     {
@@ -443,25 +438,18 @@
       "image_title": "Staatshilfe: Deutschland bei Krisenhilfe für Unternehmen EU-weit vorn"
     },
     {
-      "title": "FTX: Das sollten Sie zum Krypto-Crash wissen",
-      "teaser": "FTX, eine der größten Börsen für digitale Währungen, ist pleite. Gründer Sam Bankman-Fried wird in den USA der Prozess gemacht. Die wichtigsten Antworten zu dem Fall",
-      "url": "https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin-bild/wide__822x462",
-      "image_title": "FTX: Das sollten Sie zum Krypto-Crash wissen"
+      "title": "WirtschaftsWocheSteuersparmodell: So bringt die Abfindung steuergünstig mehr Rente",
+      "teaser": "Unser Leser will aus steuerlichen Gründen eine Abfindung für Renten-Zusatzbeiträge nutzen. Unklar ist ihm, ob der Arbeitgeber das Geld einzahlen muss oder er selbst das machen kann. Der WiWo Coach gibt Rat.",
+      "url": "https://www.wiwo.de/my/finanzen/steuern-recht/steuersparmodell-so-bringt-die-abfindung-steuerguenstig-mehr-rente/28904438.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/coach_2023_03-steuern-dpa/28917094/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Steuersparmodell: So bringt die Abfindung steuergünstig mehr Rente"
     },
     {
       "title": "WirtschaftsWocheSaugroboter spähen aus: Die schlimmsten Befürchtungen werden wahr",
       "teaser": "Roombas können mehr als nur staubsaugen – mitunter nehmen sie Fotos ihrer Nutzer auf. Kompromittierende Fotos gelangten ins Internet. Das kann sogar die Übernahme des Roomba-Herstellers iRobot durch Amazon gefährden.",
       "url": "https://www.wiwo.de/unternehmen/it/saugroboter-spaehen-aus-die-schlimmsten-befuerchtungen-werden-wahr/28916696.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/saugroboter-100-pro-imago-life-2-96332511-highres/28916944/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/saugroboter-100-pro-imago-life-2-96332511-highres/28916944/4-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Saugroboter spähen aus: Die schlimmsten Befürchtungen werden wahr"
-    },
-    {
-      "title": "WirtschaftsWocheImmobilien: Die sechs Todsünden des Mietmarkts",
-      "teaser": "Die deutsche Wohnungspolitik droht zu scheitern, die Neubauziele der Politik liegen in weiter Ferne. Besserung ist aus mehreren Gründen nicht in Sicht.",
-      "url": "https://www.wiwo.de/my/finanzen/immobilien/immobilien-die-sechs-todsuenden-des-mietmarkts/28907318.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0059925439h/28918774/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Immobilien: Die sechs Todsünden des Mietmarkts"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Antidepressiva und Sexualität: Leider keinen Bock mehr",
@@ -471,18 +459,18 @@
       "image_title": "Antidepressiva und Sexualität: Leider keinen Bock mehr"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Myriam Boulos: \"Schaut her, wir haben Körper, wir mögen Sex!\"",
-      "teaser": "Die Fotografin Myriam Boulos spricht mit Frauen über ihre sexuellen Fantasien. Ihr Fotoprojekt zeigt, wie das Patriarchat intimste Gedanken und Sehnsüchte formt.",
-      "url": "https://www.zeit.de/zett/liebe-sex/2022-12/myriam-boulos-fotografin-frauen-koerper-sex-fantasien",
-      "image_url": "https://img.zeit.de/zett/liebe-sex/2022-12/myriam-boulos-fotografin-frauen-koerper-sex-16/wide__822x462",
-      "image_title": "Myriam Boulos: \"Schaut her, wir haben Körper, wir mögen Sex!\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Silvesternacht in Berlin: Es ist 2023 und wieder sind die Ausländer schuld",
       "teaser": "An Silvester kam es zu Angriffen auf Einsatzkräfte. Auch in Neukölln. Und klar: Schon geht's wieder um Migration. Dabei ließe sich die Debatte auch ohne Rassismus führen.",
       "url": "https://www.zeit.de/zett/politik/2023-01/silvesternacht-berlin-angriffe-einsatzkraefte-rassismus",
       "image_url": "https://img.zeit.de/zett/politik/2023-01/silvesternacht-berlin-angriffe-einsatzkraefte-rassismus-polizei/wide__822x462",
       "image_title": "Silvesternacht in Berlin: Es ist 2023 und wieder sind die Ausländer schuld"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Trennung: \"Ich merkte: Ich kann ihm sexuell nicht das geben, was er möchte\"",
+      "teaser": "Sie waren schwer verliebt – doch taten ihren Partnern nicht gut. Über Menschen, die sich getrennt haben, weil der andere ohne sie ein besseres Leben führen kann.",
+      "url": "https://www.zeit.de/zett/liebe-sex/2022-12/trennung-entscheidung-partnerschaft-beziehung",
+      "image_url": "https://img.zeit.de/zett/2022-12/zett-trennung-entscheidung-partnerschaft-beziehung/wide__822x462",
+      "image_title": "Trennung: \"Ich merkte: Ich kann ihm sexuell nicht das geben, was er möchte\""
     },
     {
       "title": "Daniel Barenboim: In der Musik verschwinden",
@@ -506,31 +494,38 @@
       "image_title": "Deutsches Model : Tatjana Patitz ist tot"
     },
     {
-      "title": "Waffenlieferungen: Polen will Leopard-Panzer an die Ukraine liefern",
-      "teaser": "Präsident Andrzej Duda hat in Lwiw erklärt, er wolle Kampfpanzer westlicher Bauart in die Ukraine liefern. Derzeit halten die schweren Kämpfe in der Region Bachmut an.",
-      "url": "https://www.zeit.de/video/2023-01/6318551179112/waffenlieferungen-polen-will-leopard-panzer-an-die-ukraine-liefern",
-      "image_url": "https://img.zeit.de/video/2023-01/6318551179112-still/cinema__980x420",
-      "image_title": "Waffenlieferungen: Polen will Leopard-Panzer an die Ukraine liefern"
-    },
-    {
       "title": "Leopard-Panzer: Robert Habeck will polnische Panzerlieferung an die Ukraine nicht verhindern",
       "teaser": "Bundeswirtschaftsminister Habeck erklärt, Deutschland solle \"sich nicht in den Weg stellen\", wenn andere Länder die Ukraine unterstützen wollten.",
       "url": "https://www.zeit.de/video/2023-01/6318553606112/leopard-panzer-robert-habeck-will-polnische-panzerlieferung-an-die-ukraine-nicht-verhindern",
-      "image_url": "https://img.zeit.de/video/2023-01/6318553606112-still/wide__822x462",
+      "image_url": "https://img.zeit.de/video/2023-01/6318553606112-still/cinema__980x420",
       "image_title": "Leopard-Panzer: Robert Habeck will polnische Panzerlieferung an die Ukraine nicht verhindern"
     },
     {
-      "title": "Claudia Kemfert: \"Die Kohle unter Lützerath wird nicht gebraucht\"",
-      "teaser": "Seit Mittwoch räumt die Polizei das Dorf Lützerath. DIW-Ökonomin Claudia Kemfert ist der Ansicht, der Abriss hätte trotz des erhöhten Kohlebedarfs umgangen werden können.",
-      "url": "https://www.zeit.de/video/2023-01/6318522388112/claudia-kemfert-die-kohle-unter-luetzerath-wird-nicht-gebraucht",
-      "image_url": "https://img.zeit.de/video/2023-01/6318522388112-still/wide__822x462",
-      "image_title": "Claudia Kemfert: \"Die Kohle unter Lützerath wird nicht gebraucht\""
+      "title": "Waffenlieferungen: Polen will Leopard-Panzer an die Ukraine liefern",
+      "teaser": "Präsident Andrzej Duda hat in Lwiw erklärt, er wolle Kampfpanzer westlicher Bauart in die Ukraine liefern. Derzeit halten die schweren Kämpfe in der Region Bachmut an.",
+      "url": "https://www.zeit.de/video/2023-01/6318551179112/waffenlieferungen-polen-will-leopard-panzer-an-die-ukraine-liefern",
+      "image_url": "https://img.zeit.de/video/2023-01/6318551179112-still/wide__822x462",
+      "image_title": "Waffenlieferungen: Polen will Leopard-Panzer an die Ukraine liefern"
+    },
+    {
+      "title": "Peru: Proteste gegen die Regierung halten an",
+      "teaser": "In Cusco kam es zu Zusammenstößen zwischen Protestierenden und der Polizei. Auslöser ist die Absetzung und Inhaftierung des umstrittenen Präsidenten Pedro Castillo.",
+      "url": "https://www.zeit.de/video/2023-01/6318545420112/peru-proteste-gegen-die-regierung-halten-an",
+      "image_url": "https://img.zeit.de/video/2023-01/6318545420112-still/wide__822x462",
+      "image_title": "Peru: Proteste gegen die Regierung halten an"
+    },
+    {
+      "title": "Emissionen: Bulgarien verschiebt Kohleausstieg auf 2038",
+      "teaser": "Eigentlich wäre Bulgarien 2026 aus der Kohle ausgestiegen. Nach Demonstrationen von Befürwortern der Kohleindustrie hat das Parlament den Ausstieg nun aber verschoben.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-01/bulgarien-ausstieg-kohle-aufschiebung-emissionen",
+      "image_url": "https://img.zeit.de/politik/2023-01/bulgarien-kohlekraftwerke-bild/cinema__980x420",
+      "image_title": "Emissionen: Bulgarien verschiebt Kohleausstieg auf 2038"
     },
     {
       "title": "COP28: Ölkonzernchef wird Präsident der nächsten UN-Klimakonferenz",
       "teaser": "Die Vereinigten Arabischen Emirate haben den Chef des staatlichen Ölkonzerns zum Präsidenten der COP28 ernannt. Umweltschützer kritisierten die Entscheidung.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai-bild-3/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai-bild-3/wide__822x462",
       "image_title": "COP28: Ölkonzernchef wird Präsident der nächsten UN-Klimakonferenz"
     },
     {
@@ -539,13 +534,6 @@
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/ozonloch-regeneration-un-bericht-fckw",
       "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/ozonloch-regeneration-un-bericht/wide__822x462",
       "image_title": "Ozonloch: Drei Millimeter zum Schutz des Planeten"
-    },
-    {
-      "title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?",
-      "teaser": "Naturverlust und Klimakrise zeigen, unser Wirtschaftssystem frisst seine eigenen Grundlagen. Wie kann es doch zur Lösung beitragen?",
-      "url": "https://www.zeit.de/wissen/2023-01/kapitalismus-klimakrise-umwelt-zerstoerung-krisenpodcast",
-      "image_url": "https://img.zeit.de/politik/2022-10/auch-das-noch-podcast-teaserbild/wide__822x462__B4FF94",
-      "image_title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?"
     },
     {
       "title": "VerlagsangebotIn drei Wochen zur besseren Führungskraft",
@@ -613,24 +601,24 @@
     },
     {
       "title": "Fachkräftemangel: DIHK geht von zwei Millionen vakanten Arbeitsplätzen aus",
-      "teaser": "Laut Industrie- und Handelskammer entgehen Deutschland Milliarden an Wertschöpfungspotenzial. Fast die Hälfte der befragten Unternehmen hat Probleme, Stellen zu besetzen. 167 Kommentare",
+      "teaser": "Laut Industrie- und Handelskammer entgehen Deutschland Milliarden an Wertschöpfungspotenzial. Fast die Hälfte der befragten Unternehmen hat Probleme, Stellen zu besetzen. 176 Kommentare",
       "url": "https://www.zeit.de/arbeit/2023-01/dihk-fachkraefte-mangel-industrie-bau-fachkraeftereport",
       "image_url": "https://img.zeit.de/arbeit/2023-01/dihk-fachkraefte-mangel/cinema__980x420",
       "image_title": "Fachkräftemangel: DIHK geht von zwei Millionen vakanten Arbeitsplätzen aus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Feminismus: Notfalls halt ohne die Männer",
-      "teaser": "Mehr als die Hälfte der indischen Frauen verdient kein Geld, sondern macht die Sorgearbeit. Die Ökonomin Shrayana Bhattacharya hat sich vorgenommen, das zu verändern.",
-      "url": "https://www.zeit.de/2023/02/feminismus-indien-patriarchat-shrayana-bhattacharya",
-      "image_url": "https://img.zeit.de/2023/02/wie-besiegen-frauen-weltweit-das-patriarchat-bild-1/wide__822x462",
-      "image_title": "Feminismus: Notfalls halt ohne die Männer"
+      "title": "Z+ (abopflichtiger Inhalt); Ski-Tourismus: \"Wir müssen niedrige Preise bieten, damit überhaupt jemand kommt\"",
+      "teaser": "Hohe Temperaturen und nur noch Kunstschnee: Der Skispringer und Hotelier Jens Weißflog befürchtet, dass sein Geschäft in Sachsen bald endet. Kein Schnee, keine Gäste.",
+      "url": "https://www.zeit.de/2023/03/ski-tourismus-temperaturen-jens-weissflog",
+      "image_url": "https://img.zeit.de/2023/03/ski-tourismus-temperaturen-jens-weissflog-teaserbild/wide__822x462",
+      "image_title": "Ski-Tourismus: \"Wir müssen niedrige Preise bieten, damit überhaupt jemand kommt\""
     },
     {
-      "title": "Landesarbeitsgericht Schleswig-Holstein: Arbeitnehmer müssen in ihrer Freizeit keine dienstlichen SMS lesen",
-      "teaser": "Angestellte müssen einem Gerichtsurteil zufolge in ihrer Freizeit nicht für den Arbeitgeber erreichbar sein. Geklagt hatte ein Notfallsanitäter.",
-      "url": "https://www.zeit.de/arbeit/2023-01/landesarbeitsgericht-sms-arbeitnehmer-freizeit",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/arbeitnehmer-muessen-in-ihrer-freizeit-keine-dienstlichen-sms-lesen-bild/wide__822x462",
-      "image_title": "Landesarbeitsgericht Schleswig-Holstein: Arbeitnehmer müssen in ihrer Freizeit keine dienstlichen SMS lesen"
+      "title": "Z+ (abopflichtiger Inhalt); Handwerk • Das Beste aus Z+: \"Ich habe meine Männer da herausgeholt, es war zu erniedrigend\"",
+      "teaser": "Überall fehlen Handwerker. Kein Wunder, sagt Bauleiter Hendrik Pape, sie werden schlecht behandelt. Lieber bleiben sie in ihrer Heimat, als in Deutschland zu arbeiten.",
+      "url": "https://www.zeit.de/arbeit/2022-11/handwerk-vorurteile-bauleitung-fachkraeftemangel",
+      "image_url": "https://img.zeit.de/arbeit/2022-11/handwerk-vorurteile-bauleitung/wide__822x462",
+      "image_title": "Handwerk • Das Beste aus Z+: \"Ich habe meine Männer da herausgeholt, es war zu erniedrigend\""
     },
     {
       "title": "Verlagsangebot: Englischquiz – Wie gut kennen Sie die Stadt, die niemals schläft?",
@@ -668,11 +656,11 @@
       "image_title": "Inneres Kind: \"Wichtig ist, dass man sich nicht mit dem inneren Kind gleichmacht\""
     },
     {
-      "title": "Verlagsangebot Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kulturpass 2023: 200 Euro für den Club",
@@ -696,11 +684,11 @@
       "image_title": "Taxonomien von Tieren: Mönche sind Menschen, Menschen lügen und sie fasten nicht gern"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Eltern-Kind-Beziehung: \"Vätergehirne müssen den Vorsprung erst aufholen\"",
-      "teaser": "Ziehen Kleinkinder die Mutter vor, heißt es oft: Das ist biologisch bedingt. Stimmt das? Die Neurobiologin Nicole Strüber erklärt, wie Väter die Bindung zum Kind stärken.",
-      "url": "https://www.zeit.de/entdecken/2023-01/eltern-kind-beziehung-vaeter-bindung",
-      "image_url": "https://img.zeit.de/entdecken/2023-01/eltern-kind-beziehung-vaeter-bindung-vater-2/wide__822x462",
-      "image_title": "Eltern-Kind-Beziehung: \"Vätergehirne müssen den Vorsprung erst aufholen\""
+      "title": "Z+ (abopflichtiger Inhalt); JVA Kassel: Lebenslänglich grün?",
+      "teaser": "In der JVA Kassel I treffen sich einmal pro Woche Schwerverbrecher, um über ihre Lieblingspartei zu sprechen. Dabei geht es respektvoller zu als in jeder Talkshowdebatte.",
+      "url": "https://www.zeit.de/2023/03/jva-kassel-politische-gespraeche-robert-habeck",
+      "image_url": "https://img.zeit.de/2023/03/lebenslaenglich-gruen-bild-1/wide__822x462",
+      "image_title": "JVA Kassel: Lebenslänglich grün?"
     },
     {
       "title": "AnzeigeUnsere neuen Reisen sind da!",
@@ -815,36 +803,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Postsendungen: Tierische Organe verschickt: Staatsanwaltschaft ermittelt",
-      "url": "https://www.zeit.de/news/2023-01/12/tierische-organe-verschickt-staatsanwaltschaft-ermittelt"
+      "title": "Wissenschaft: Außergewöhnlich große Blüte in Bernstein",
+      "url": "https://www.zeit.de/news/2023-01/12/aussergewoehnlich-grosse-bluete-in-bernstein"
     },
     {
-      "title": "Einheiten-Code: Sachsen führt Kennzeichnungspflicht für Polizisten ein",
-      "url": "https://www.zeit.de/news/2023-01/12/sachsen-fuehrt-kennzeichnungspflicht-fuer-polizisten-ein"
+      "title": "Hauptverkehrsstraßen: Gesundheitsgefahren durch Straßenlärm für Zehntausende",
+      "url": "https://www.zeit.de/news/2023-01/12/gesundheitsgefahren-durch-strassenlaerm-fuer-zehntausende"
     },
     {
-      "title": "Aachener Verwaltungsgericht : Gericht: Verlegung von Lützerath-Mahnwachen wohl zulässig",
-      "url": "https://www.zeit.de/news/2023-01/12/gericht-verlegung-von-luetzerath-mahnwachen-wohl-zulaessig"
+      "title": "Justiz: Nach Eilantrag: Einsatz in Fechenheimer Wald ausgesetzt",
+      "url": "https://www.zeit.de/news/2023-01/12/nach-eilantrag-einsatz-in-fechenheimer-wald-ausgesetzt"
     },
     {
-      "title": "Eintracht Frankfurt: Torwart Trapp zu Vertragsverhandlungen: «Gute Gespräche»",
-      "url": "https://www.zeit.de/news/2023-01/12/torwart-trapp-zu-vertragsverhandlungen-gute-gespraeche"
+      "title": "Überholmanöver: Senior überschlägt sich mit Auto: Acht Wagen beschädigt",
+      "url": "https://www.zeit.de/news/2023-01/12/senior-ueberschlaegt-sich-mit-auto-acht-wagen-beschaedigt"
     },
     {
-      "title": "Verkehr: Gesperrte A7 in Südniedersachsen: Weitere Freigaben geplant",
-      "url": "https://www.zeit.de/news/2023-01/12/gesperrte-a7-in-suedniedersachsen-weitere-freigaben-geplant"
+      "title": "Energie: Lützerath: Luisa Neubauer von Polizei weggetragen",
+      "url": "https://www.zeit.de/news/2023-01/12/luetzerath-luisa-neubauer-von-polizei-weggetragen"
     },
     {
-      "title": "Bundesliga: DFB-Urteil: Eintracht muss 146.000 Euro Strafe zahlen",
-      "url": "https://www.zeit.de/news/2023-01/12/dfb-urteil-eintracht-muss-146-000-euro-strafe-zahlen"
+      "title": "Verkehr: Teilfreigaben auf A7 geplant: Pflanzenfett auf Fahrbahn",
+      "url": "https://www.zeit.de/news/2023-01/12/teilfreigaben-auf-a7-geplant-pflanzenfett-auf-fahrbahn"
     },
     {
-      "title": "Unternehmen: Mehr als 500 Start-ups in Berlin gegründet",
-      "url": "https://www.zeit.de/news/2023-01/12/mehr-als-500-start-ups-in-berlin-gegruendet"
+      "title": "München: Angeklagter: Ermordete Witwe wurde von Bande bedroht",
+      "url": "https://www.zeit.de/news/2023-01/12/angeklagter-ermordete-witwe-wurde-von-bande-bedroht"
     },
     {
-      "title": "Trainingslager: Shuranov wieder erfolgreich: 1. FC Nürnberg gewinnt Test",
-      "url": "https://www.zeit.de/news/2023-01/12/shuranov-wieder-erfolgreich-1-fc-nuernberg-gewinnt-test"
+      "title": "Wirtschaftssenatorin: Leonhard nennt Elbschlick-Vereinbarung ersten Schritt",
+      "url": "https://www.zeit.de/news/2023-01/12/leonhard-nennt-elbschlick-vereinbarung-ersten-schritt"
     }
   ]
 }
