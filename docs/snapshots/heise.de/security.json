@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-12T11:14:41",
+  "timestamp": "2023-01-12T12:26:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "SugarCRM",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Sicherheitsluecke-in-SugarCRM-wird-ausgenutzt-7456805.html"
+    },
+    {
+      "title": "Cisco VPN-Router",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-End-of-Life-Router-von-Cisco-7456480.html"
+    },
+    {
       "title": "Cacti",
       "url": "https://www.heise.de/news/Exploit-Code-gesichtet-Attacken-auf-IT-Monitoring-Tool-Cacti-moeglich-7455833.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-verschaffen-sich-unter-Windows-System-Rechte-7455122.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-InCopy-und-InDesign-moeglich-7455222.html"
+      "title": "Jetzt aktualisieren! Sicherheitslücke in SugarCRM wird ausgenutzt",
+      "teaser": "Cyberkriminelle missbrauchen eine Sicherheitslücke in SugarCRM, um verwundbaren Systemen etwa Krypto-Mining-Software unterzujubeln. Hotfixes stehen bereit.",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Sicherheitsluecke-in-SugarCRM-wird-ausgenutzt-7456805.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-17-Sicherheitsluecken-in-Google-Chrome-gestopft-7455130.html"
+      "title": "Kritische Sicherheitslücke bedroht End-of-Life-Router von Cisco",
+      "teaser": "Der Netzwerkausrüster Cisco hat wichtige Sicherheitsupdates für etwa verschiedene Router, IP-Telefone und Webex veröffentlicht.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-End-of-Life-Router-von-Cisco-7456480.html"
     },
     {
       "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
@@ -144,16 +154,6 @@
       "title": "Securepoint UTM: Hotfix schließt kritische Sicherheitslücke",
       "teaser": "In den Securepoint UTM klafft eine kritische Sicherheitslücke. Das Unternehmen hat einen Hotfix bereitgestellt, der die Schwachstelle abdichtet.",
       "url": "https://www.heise.de/news/Securepoint-UTM-Hotfix-schliesst-kritische-Sicherheitsluecke-7453560.html"
-    },
-    {
-      "title": "BaFin warnt vor \"Godfather\"-Banking-Trojaner",
-      "teaser": "Die BaFin warnt vor einem Banking-Trojaner, der Android-Geräte angreift. Die \"Godfather\" genannte Malware kann 400 internationale Finanzinstitutionen ausspähen.",
-      "url": "https://www.heise.de/news/BaFin-warnt-vor-Godfather-Banking-Trojaner-7453238.html"
-    },
-    {
-      "title": "Kritische Sicherheitslücke in MatrixSSL ermöglicht Codeschmuggel",
-      "teaser": "In der IoT-Bibliothek MatrixSSL haben IT-Forscher eine als kritisch eingestufte Sicherheitslücke entdeckt. Angreifer könnten dadurch Code einschleusen.",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-MatrixSSL-ermoeglicht-Codeschmuggel-7453087.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
