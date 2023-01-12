@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-12T12:26:43",
+  "timestamp": "2023-01-12T13:26:24",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
+      "title": "Seltene Erden: Europas größtes Vorkommen seltener Erden in Schweden entdeckt",
+      "teaser": "Seltene Erden werden für die Produktion von Smartphones und Elektroautos gebraucht – meist stammen sie aus China. Im Norden Schwedens wurden nun tausende Tonnen gefunden.",
+      "url": "https://www.zeit.de/wissen/2023-01/seltene-erden-schweden-vorkommen-kiruna",
+      "image_url": "https://img.zeit.de/wissen/2023-01/schweden-seltene-erden-vorkommen-kiruna-bild/cinema__980x420"
+    },
+    {
       "title": "COP28: Ölkonzernchef wird Präsident der nächsten UN-Klimakonferenz",
       "teaser": "Die Vereinigten Arabischen Emirate haben den Chef des staatlichen Ölkonzerns zum Präsidenten der COP28 ernannt. Umweltschützer kritisierten die Entscheidung.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai-bild-3/cinema__980x420"
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai-bild-3/wide__822x462",
+      "image_title": "COP28: Ölkonzernchef wird Präsident der nächsten UN-Klimakonferenz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ozonloch: Drei Millimeter zum Schutz des Planeten",
@@ -69,13 +76,6 @@
       "image_title": "Ozonloch: Drei Millimeter zum Schutz des Planeten"
     },
     {
-      "title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?",
-      "teaser": "Naturverlust und Klimakrise zeigen, unser Wirtschaftssystem frisst seine eigenen Grundlagen. Wie kann es doch zur Lösung beitragen?",
-      "url": "https://www.zeit.de/wissen/2023-01/kapitalismus-klimakrise-umwelt-zerstoerung-krisenpodcast",
-      "image_url": "https://img.zeit.de/politik/2022-10/auch-das-noch-podcast-teaserbild/wide__822x462__B4FF94",
-      "image_title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?"
-    },
-    {
       "title": "Walschutz: Wie man einen Wal rettet",
       "teaser": "Auf den Ozeanen wird es immer enger. Jedes Jahr sterben Wale, weil Frachter sie rammen. Zwei Forscherinnen in Kalifornien verhindern das – mit Echtzeitdaten und per App.",
       "url": "https://www.zeit.de/wissen/2022-12/walschutz-rettung-schiffsverkehr-kollision-ozeane",
@@ -83,11 +83,11 @@
       "image_title": "Walschutz: Wie man einen Wal rettet"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Stadtgrün: Man muss das Schöne ökologisch denken und das Ökologische schön",
-      "teaser": "Kühlen, Feinstaub filtern und Städte wieder lebenswert machen – Gewächse aus der Prärie können Betonwüsten blühen lassen, sagt der Landschaftsarchitekt Cassian Schmidt.",
-      "url": "https://www.zeit.de/2023/02/stadtgruen-pflanzen-klimawandel-cassian-schmidt",
-      "image_url": "https://img.zeit.de/2023/02/wie-wird-die-stadt-lebenswert-bild-1/wide__822x462",
-      "image_title": "Stadtgrün: Man muss das Schöne ökologisch denken und das Ökologische schön"
+      "title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?",
+      "teaser": "Naturverlust und Klimakrise zeigen, unser Wirtschaftssystem frisst seine eigenen Grundlagen. Wie kann es doch zur Lösung beitragen?",
+      "url": "https://www.zeit.de/wissen/2023-01/kapitalismus-klimakrise-umwelt-zerstoerung-krisenpodcast",
+      "image_url": "https://img.zeit.de/politik/2022-10/auch-das-noch-podcast-teaserbild/wide__822x462__B4FF94",
+      "image_title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?"
     },
     {
       "title": "Bedrohte Tierarten: Fünf Arten, denen es besser geht, als Sie denken",
@@ -104,6 +104,13 @@
       "image_title": "Kernfusion: Der Traum ist immer eine Generation entfernt"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Stadtgrün: Man muss das Schöne ökologisch denken und das Ökologische schön",
+      "teaser": "Kühlen, Feinstaub filtern und Städte wieder lebenswert machen – Gewächse aus der Prärie können Betonwüsten blühen lassen, sagt der Landschaftsarchitekt Cassian Schmidt.",
+      "url": "https://www.zeit.de/2023/02/stadtgruen-pflanzen-klimawandel-cassian-schmidt",
+      "image_url": "https://img.zeit.de/2023/02/wie-wird-die-stadt-lebenswert-bild-1/wide__822x462",
+      "image_title": "Stadtgrün: Man muss das Schöne ökologisch denken und das Ökologische schön"
+    },
+    {
       "title": "Klimawandel: Konzentration von Treibhausgasen steigt weiter an",
       "teaser": "Die Konzentrationen von CO₂ und Methan in der Atmosphäre haben 2022 neue Höchstwerte erreicht. Sie sind dem Copernicus-Programm zufolge die Haupttreiber des Klimawandels.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/treibhausgase-atmosphaere-copernicus-klimawandel",
@@ -114,22 +121,15 @@
       "title": "\"Anfänge\": Zurück in die Steinzeit",
       "teaser": "Unsere Vorfahren waren nicht arm und einfach. Der Archäologe David Wrengow stößt in seiner Forschung immer wieder auf Widersprüche – aus denen wir lernen können.",
       "url": "https://www.zeit.de/2023/02/anfaenge-david-wengrow-david-graeber-steinzeit",
-      "image_url": "https://img.zeit.de/2023/02/was-koennen-wir-von-der-steinzeit-lernen-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/02/was-koennen-wir-von-der-steinzeit-lernen-bild-1/cinema__980x420",
       "image_title": "\"Anfänge\": Zurück in die Steinzeit"
     },
     {
       "title": "Studie aus Großbritannien: Nachwachsende Regenwälder senken Ausstoß von Kohlenstoff nicht",
-      "teaser": "Nachwachsende Tropenwälder setzen nach einer Rodung noch für lange Zeit mehr Kohlenstoff frei, als sie binden. Das haben Forschende in Malaysia herausgefunden. 253 Kommentare",
+      "teaser": "Nachwachsende Tropenwälder setzen nach einer Rodung noch für lange Zeit mehr Kohlenstoff frei, als sie binden. Das haben Forschende in Malaysia herausgefunden.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/regenwald-nachwachsen-studie-kohlenstoff-malaysia",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/regenwald-nachwachsen-studie-kohlenstoff-malaysia-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/regenwald-nachwachsen-studie-kohlenstoff-malaysia-bild-2/wide__822x462",
       "image_title": "Studie aus Großbritannien: Nachwachsende Regenwälder senken Ausstoß von Kohlenstoff nicht"
-    },
-    {
-      "title": "Astronomie: Forscher entdecken acht extrem heiße Sterne",
-      "teaser": "Auf dem heißesten Himmelskörper herrscht eine Oberflächentemperatur von über 180.000 Grad. Die Weiße Zwerge genannten Sterne sind etwa so groß wie die Erde.",
-      "url": "https://www.zeit.de/wissen/2023-01/astronomie-suedafrika-heisse-sterne-salt-tuebingen-forscher",
-      "image_url": "https://img.zeit.de/wissen/2023-01/astronomie-suedafrika-heisse-sterne-salt-tuebingen-forscher-bild-2/wide__822x462",
-      "image_title": "Astronomie: Forscher entdecken acht extrem heiße Sterne"
     },
     {
       "title": "Weltraumschrott: Unser Müll im All",
@@ -146,6 +146,13 @@
       "image_title": "Best of Podcasts – \"Auch das noch?\": Wie viele Autos verträgt Deutschland? Und wie viele braucht es?"
     },
     {
+      "title": "Astronomie: Forscher entdecken acht extrem heiße Sterne",
+      "teaser": "Auf dem heißesten Himmelskörper herrscht eine Oberflächentemperatur von über 180.000 Grad. Die Weiße Zwerge genannten Sterne sind etwa so groß wie die Erde.",
+      "url": "https://www.zeit.de/wissen/2023-01/astronomie-suedafrika-heisse-sterne-salt-tuebingen-forscher",
+      "image_url": "https://img.zeit.de/wissen/2023-01/astronomie-suedafrika-heisse-sterne-salt-tuebingen-forscher-bild-2/wide__822x462",
+      "image_title": "Astronomie: Forscher entdecken acht extrem heiße Sterne"
+    },
+    {
       "title": "Großbritannien: Weltraummission scheitert vor Erreichen der Erdumlaufbahn",
       "teaser": "Bei dem geplanten Satellitenstart der \"Cosmic Girl\" ist es zu Problemen gekommen. Es war die erste Rakete, die von britischem Boden aus ins All gebracht werden sollte.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/grossbritannien-traegerrakete-cosmic-girl-richard-branson",
@@ -156,22 +163,15 @@
       "title": "Erderwärmung: Forscher rechnen mit Erholung der Ozonschicht bis 2066",
       "teaser": "Das Ozonloch wird immer kleiner – und könnte in vier Jahrzehnten nicht mehr existieren. Doch Wissenschaftler warnen bereits vor einem anderen Risiko.",
       "url": "https://www.zeit.de/wissen/2023-01/ozonschicht-erholung-weltwetterorganisation-un-antarktis",
-      "image_url": "https://img.zeit.de/wissen/2023-01/ozonschicht-erholung-weltwetterorganisation-un-arktis/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/2023-01/ozonschicht-erholung-weltwetterorganisation-un-arktis/cinema__980x420",
       "image_title": "Erderwärmung: Forscher rechnen mit Erholung der Ozonschicht bis 2066"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Raj Chetty: Wer aufsteigen will, braucht Kontakt zur reichen Klasse",
       "teaser": "Dass jeder es vom Tellerwäscher zum Millionär bringen könne, stimme nicht mehr, sagt der Harvard-Ökonom Raj Chetty. Seine Datenanalysen sorgen für mehr Chancengleichheit.",
       "url": "https://www.zeit.de/2023/02/raj-chetty-datenanalyse-sozialwissenschaft-usa",
-      "image_url": "https://img.zeit.de/2023/02/woran-haengen-die-chancen-von-menschen-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/02/woran-haengen-die-chancen-von-menschen-bild-1/wide__822x462",
       "image_title": "Raj Chetty: Wer aufsteigen will, braucht Kontakt zur reichen Klasse"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnbedürfnisse: Die Gesetze des glücklichen Wohnens",
-      "teaser": "Licht im Wohnzimmer hilft der Gesundheit, manche Farben machen froh und der beste Platz fürs Bett ist weitab der Tür. 20 wenig bekannte Tipps für die Zeit zu Hause",
-      "url": "https://www.zeit.de/zeit-wissen/2023/01/wohnbeduerfnisse-zuhause-zusammenziehen-wohnungsmarkt-tageslicht",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/die-gesetze-des-gluecklichen-wohnens-ii-bild-1/wide__822x462",
-      "image_title": "Wohnbedürfnisse: Die Gesetze des glücklichen Wohnens"
     },
     {
       "title": "Corona-Zahlen weltweit: Coronavirus in Europa und der Welt – alle Zahlen im Überblick",
@@ -188,10 +188,17 @@
       "image_title": "Corona-Impfungen in Deutschland: So viele Menschen wurden bereits geimpft"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wohnbedürfnisse: Die Gesetze des glücklichen Wohnens",
+      "teaser": "Licht im Wohnzimmer hilft der Gesundheit, manche Farben machen froh und der beste Platz fürs Bett ist weitab der Tür. 20 wenig bekannte Tipps für die Zeit zu Hause",
+      "url": "https://www.zeit.de/zeit-wissen/2023/01/wohnbeduerfnisse-zuhause-zusammenziehen-wohnungsmarkt-tageslicht",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/die-gesetze-des-gluecklichen-wohnens-ii-bild-1/cinema__980x420",
+      "image_title": "Wohnbedürfnisse: Die Gesetze des glücklichen Wohnens"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wahrscheinlichkeit: Vielleicht würfelt Gott doch",
       "teaser": "Albert Einstein war kein Freund des Zufalls und versuchte viele Jahre, die Quantenmechanik zu widerlegen – vergeblich. Warum eine Welt ohne Zufall undenkbar wäre.",
       "url": "https://www.zeit.de/zeit-wissen/2023/01/zufall-wahrscheinlichkeiten-quantenmechanik-forschung-weltbild",
-      "image_url": "https://img.zeit.de/wissen/2023-01/zufall-wahrscheinlichkeiten-quantenmechanik-forschung-weltbild-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-01/zufall-wahrscheinlichkeiten-quantenmechanik-forschung-weltbild-bild/wide__822x462",
       "image_title": "Wahrscheinlichkeit: Vielleicht würfelt Gott doch"
     },
     {
@@ -205,14 +212,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Patrice Lumumba: Afrikas kurze Hoffnung",
       "teaser": "1960 wird der Kongo unabhängig, Premier Lumumba wird mit einer großen Rede zum politischen Star – und zur Gefahr für Länder des Westens. Sieben Monate später ist er tot.",
       "url": "https://www.zeit.de/2023/02/patrice-lumumba-kongo-unabhaengigkeit-mord",
-      "image_url": "https://img.zeit.de/2023/02/afrikas-kurze-hoffnung-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/02/afrikas-kurze-hoffnung-bild-1/cinema__980x420",
       "image_title": "Patrice Lumumba: Afrikas kurze Hoffnung"
     },
     {
       "title": "Australien: Städte im Westen nach Hochwasser von Außenwelt abgeschnitten",
       "teaser": "Starke Regenfälle hatten in Westaustralien zu Hochwassern geführt. Ministerpräsident Anthony Albanese spricht von \"verheerenden Auswirkungen\" auf abgelegene Orte.",
       "url": "https://www.zeit.de/wissen/2023-01/australien-hochwasser-westaustralien-regen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/hochwasser-australien/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/hochwasser-australien/wide__822x462",
       "image_title": "Australien: Städte im Westen nach Hochwasser von Außenwelt abgeschnitten"
     },
     {
@@ -221,13 +228,6 @@
       "url": "https://www.zeit.de/2023/02/rosi-braidotti-posthumanismus-philosophie",
       "image_url": "https://img.zeit.de/2023/02/koennen-wir-im-einklang-mit-der-natur-leben-bild-1/wide__822x462",
       "image_title": "Rosi Braidotti: Kann der Mensch im Einklang mit der Natur leben?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Amazonas: Der Dalai Laima aus dem Regenwald",
-      "teaser": "Ein Schamane bereist die Welt, um den Blick der Menschen auf seine Heimat zu verändern. Wie wir von Davi Kopenawa Yanomami lernen können, uns nicht selbst zu zerstören.",
-      "url": "https://www.zeit.de/2023/02/amazonas-regenwald-umweltschutz-davi-kopenawa-yanomami",
-      "image_url": "https://img.zeit.de/2023/02/koennen-wir-lernen-die-welt-neu-zu-sehen-bild-1/wide__822x462",
-      "image_title": "Amazonas: Der Dalai Laima aus dem Regenwald"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ozonloch: Drei Millimeter zum Schutz des Planeten",
@@ -308,25 +308,25 @@
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/klimawandel-gletscher-schmelzen-studie-erderwaermung"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Amazonas: Der Dalai Laima aus dem Regenwald",
+      "teaser": "Ein Schamane bereist die Welt, um den Blick der Menschen auf seine Heimat zu verändern. Wie wir von Davi Kopenawa Yanomami lernen können, uns nicht selbst zu zerstören.",
+      "url": "https://www.zeit.de/2023/02/amazonas-regenwald-umweltschutz-davi-kopenawa-yanomami",
+      "image_url": "https://img.zeit.de/2023/02/koennen-wir-lernen-die-welt-neu-zu-sehen-bild-1/wide__822x462",
+      "image_title": "Amazonas: Der Dalai Laima aus dem Regenwald"
+    },
+    {
       "title": "Astronomische Ereignisse: Das Jahr der Rakete",
       "teaser": "2023 sind einige Flüge ins All geplant – darunter der von Elon Musks Riesenrakete Starship und Indiens zweiter Anlauf zum Mond. Eine Vorschau auf das Raumfahrtjahr",
       "url": "https://www.zeit.de/2023/02/astronomische-ereignisse-weltall-raumfahrt-termine",
-      "image_url": "https://img.zeit.de/2023/02/astro-jahr-infografik/astronomische-ereignisse-weltall-raumfahrt-termine-infografik-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/02/astro-jahr-infografik/astronomische-ereignisse-weltall-raumfahrt-termine-infografik-teaserbild/cinema__980x420",
       "image_title": "Astronomische Ereignisse: Das Jahr der Rakete"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Neurotechnologie: Werden Mensch und Computer bald eins?",
       "teaser": "An der Charité bewegen sich Gelähmte dank elektromagnetischer Signale. Wie sich mit einem Computer Bewegungen anregen und Gedanken auslesen lassen.",
       "url": "https://www.zeit.de/2023/02/neurotechnologie-forschung-charite-surjo-soekadar",
-      "image_url": "https://img.zeit.de/2023/02/es-ist-spooky-was-surjo-soekadar-da-macht-wenn-er-mir-ein-schwarzes-kaestchen-an-den-kopf-haelt-und--bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/02/es-ist-spooky-was-surjo-soekadar-da-macht-wenn-er-mir-ein-schwarzes-kaestchen-an-den-kopf-haelt-und--bild-1/wide__822x462",
       "image_title": "Neurotechnologie: Werden Mensch und Computer bald eins?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Esther Perel: Wie romantisch muss Liebe sein?",
-      "teaser": "Ihr wurde vorgeworfen, die Ehe zu zerstören und Untreue salonfähig zu machen: dabei rettet die Therapeutin Esther Perel Partnerschaften, indem sie Illusionen zerstört.",
-      "url": "https://www.zeit.de/2023/02/esther-perel-ehe-monogamie-erotik-therapie",
-      "image_url": "https://img.zeit.de/2023/02/wie-romantisch-muss-liebe-sein-bild-1/wide__822x462",
-      "image_title": "Esther Perel: Wie romantisch muss Liebe sein?"
     },
     {
       "title": "Geschichtspodcast \"Wie war das noch mal?\": Der Mythos mit dem roten Bart",
@@ -336,18 +336,18 @@
       "image_title": "Geschichtspodcast \"Wie war das noch mal?\": Der Mythos mit dem roten Bart"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Esther Perel: Wie romantisch muss Liebe sein?",
+      "teaser": "Ihr wurde vorgeworfen, die Ehe zu zerstören und Untreue salonfähig zu machen: dabei rettet die Therapeutin Esther Perel Partnerschaften, indem sie Illusionen zerstört.",
+      "url": "https://www.zeit.de/2023/02/esther-perel-ehe-monogamie-erotik-therapie",
+      "image_url": "https://img.zeit.de/2023/02/wie-romantisch-muss-liebe-sein-bild-1/wide__822x462",
+      "image_title": "Esther Perel: Wie romantisch muss Liebe sein?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Vertrauen: Wie gewinnt man verlorenes Vertrauen zurück?",
       "teaser": "Es ist schnell zerstört und nur mit Geduld zu reparieren: Aber Vertrauen kann man lernen, wenn beide an sich arbeiten. Sich diese Fragen zu stellen, hilft dabei.",
       "url": "https://www.zeit.de/2023/01/vertrauen-freundschaft-beziehung-psychologie",
       "image_url": "https://img.zeit.de/2023/01/vertrauen-freundschaft-beziehung-psychologie-teaser/wide__822x462",
       "image_title": "Vertrauen: Wie gewinnt man verlorenes Vertrauen zurück?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sorgen: Fürchten Sie sich nicht",
-      "teaser": "Wenn sich das Leben anfühlt wie ein Betonklotz, kann man das aushalten – oder etwas dagegen tun. Sieben Tipps für mehr Superkräfte gegen Sorgen.",
-      "url": "https://www.zeit.de/zeit-wissen/2023/01/sorgen-umgang-bewusstsein-selbstvertrauen-tipps",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/sorgen-umgang-bewusstsein-selbstvertrauen-tipps-teaser/wide__822x462",
-      "image_title": "Sorgen: Fürchten Sie sich nicht"
     },
     {
       "title": "Klimawandel: Fast jeder zweite Gletscher könnte bis zum Jahr 2100 schmelzen",
@@ -455,18 +455,18 @@
       "image_title": "Grab von Königin Editha: Die verloren geglaubte Königin"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sorgen: Fürchten Sie sich nicht",
+      "teaser": "Wenn sich das Leben anfühlt wie ein Betonklotz, kann man das aushalten – oder etwas dagegen tun. Sieben Tipps für mehr Superkräfte gegen Sorgen.",
+      "url": "https://www.zeit.de/zeit-wissen/2023/01/sorgen-umgang-bewusstsein-selbstvertrauen-tipps",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/sorgen-umgang-bewusstsein-selbstvertrauen-tipps-teaser/wide__822x462",
+      "image_title": "Sorgen: Fürchten Sie sich nicht"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Astronaut Marco Sieber: Von der Schweiz zum Mond",
       "teaser": "Fünf Astronauten werden ab März von der Esa ausgebildet, darunter der Schweizer Marco Sieber. Warum die Wahl den Arzt überraschte und wohin er gerne fliegen würde.",
       "url": "https://www.zeit.de/2023/01/astronaut-marco-sieber-esa-schweiz",
       "image_url": "https://img.zeit.de/2023/01/1-marco-alain-sieber-bild-1/wide__822x462",
       "image_title": "Astronaut Marco Sieber: Von der Schweiz zum Mond"
-    },
-    {
-      "title": "Wetter: Meteorologen messen Höchsttemperaturen an Silvester",
-      "teaser": "Sommerwetter zum Jahreswechsel: Der Deutsche Wetterdienst misst die höchsten Temperaturen seit 1971 für den letzten Tag des Jahres.",
-      "url": "https://www.zeit.de/wissen/umwelt/2022-12/rekordtemperaturen-silvester-dwd-21-grad-bayern-baden-wuerttemberg",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2022-12/rekordtemperaturen-silvester-dwd-21-grad-bayern-baden-wuerttemberg-bild/wide__822x462",
-      "image_title": "Wetter: Meteorologen messen Höchsttemperaturen an Silvester"
     },
     {
       "title": "Sprachtest: Wie gut ist Ihr Französisch?",
@@ -476,11 +476,11 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
     },
     {
-      "title": "Eine Sekunde im Körper: Drei, zwei, eins ...",
-      "teaser": "Von einer Sekunde auf die andere wird an Silvester aus dem alten Jahr das neue. Was passiert in dieser Zeiteinheit eigentlich im Körper? Ein Überblick in Grafiken",
-      "url": "https://www.zeit.de/2023/01/eine-sekunde-im-koerper-nervenzellen-gehirn-blutkoerperchen-sauerstoff",
-      "image_url": "https://img.zeit.de/2023/01/silvester-infografik/eine-sekunde-im-koerper-nervenzellen-gehirn-blutkoerperchen-sauerstoff-teaserbild/wide__822x462",
-      "image_title": "Eine Sekunde im Körper: Drei, zwei, eins ..."
+      "title": "Wetter: Meteorologen messen Höchsttemperaturen an Silvester",
+      "teaser": "Sommerwetter zum Jahreswechsel: Der Deutsche Wetterdienst misst die höchsten Temperaturen seit 1971 für den letzten Tag des Jahres.",
+      "url": "https://www.zeit.de/wissen/umwelt/2022-12/rekordtemperaturen-silvester-dwd-21-grad-bayern-baden-wuerttemberg",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2022-12/rekordtemperaturen-silvester-dwd-21-grad-bayern-baden-wuerttemberg-bild/wide__822x462",
+      "image_title": "Wetter: Meteorologen messen Höchsttemperaturen an Silvester"
     },
     {
       "title": "Corona-Regeln: Wissing plädiert für Ende der Maskenpflicht in Fernzügen im Februar",
