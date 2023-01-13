@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-13T04:15:43",
+  "timestamp": "2023-01-13T05:11:55",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
+      "title": "Aberglaube: Hilfe, es ist Freitag der 13.!",
+      "teaser": "Aberglaube hat keine wissenschaftliche Grundlage, aber verdammt viele Fans. Warum Menschen sich davor fürchten – und wie man dem Glück tatsächlich auf die Sprünge hilft.",
+      "url": "https://www.zeit.de/wissen/2023-01/aberglaube-freitag-der-13-unglueckstag-glueck-lernen",
+      "image_url": "https://img.zeit.de/wissen/2023-01/aberglaube-freitag-der-13-unglueckstag-katze/cinema__980x420"
+    },
+    {
       "title": "Weltraumteleskop: James-Webb-Teleskop bestätigt Existenz von Exoplanet",
       "teaser": "Das Weltraumteleskop James Webb hat seinen ersten Exoplaneten entdeckt. LHS 475 habe fast denselben Durchmesser wie die Erde und liege etwa 41 Lichtjahre entfernt.",
       "url": "https://www.zeit.de/wissen/2023-01/james-webb-weltraum-teleskop-exoplanet",
-      "image_url": "https://img.zeit.de/wissen/2023-01/james-webb-weltraumteleskops-exoplanet-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wissen/2023-01/james-webb-weltraumteleskops-exoplanet-bild/wide__822x462",
+      "image_title": "Weltraumteleskop: James-Webb-Teleskop bestätigt Existenz von Exoplanet"
     },
     {
       "title": "Evolution: Wie Kolibris den Schwirrflug lernten",
@@ -69,13 +76,6 @@
       "image_title": "Evolution: Wie Kolibris den Schwirrflug lernten"
     },
     {
-      "title": "Erderwärmung: Wie ExxonMobil die Menschheit über den Klimawandel belog",
-      "teaser": "Warum handelt die Welt nicht in der Klimakrise? Wohl auch, weil riesige Konzerne wie ExxonMobil ihn über Jahre gezielt vertuschten – obwohl sie genau wussten, was kommt.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-01/erderwaermung-exxon-mobil-klimawandel-wissenschaft",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/erderwaermung-exxon-mobil-klimawandel/wide__822x462",
-      "image_title": "Erderwärmung: Wie ExxonMobil die Menschheit über den Klimawandel belog"
-    },
-    {
       "title": "Walschutz: Wie man einen Wal rettet",
       "teaser": "Auf den Ozeanen wird es immer enger. Jedes Jahr sterben Wale, weil Frachter sie rammen. Zwei Forscherinnen in Kalifornien verhindern das – mit Echtzeitdaten und per App.",
       "url": "https://www.zeit.de/wissen/2022-12/walschutz-rettung-schiffsverkehr-kollision-ozeane",
@@ -83,11 +83,11 @@
       "image_title": "Walschutz: Wie man einen Wal rettet"
     },
     {
-      "title": "Emissionen: Bulgarien verschiebt Kohleausstieg auf 2038",
-      "teaser": "Eigentlich wäre Bulgarien 2026 aus der Kohle ausgestiegen. Nach Demonstrationen von Befürwortern der Kohleindustrie hat das Parlament den Ausstieg nun aber verschoben.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-01/bulgarien-ausstieg-kohle-aufschiebung-emissionen",
-      "image_url": "https://img.zeit.de/politik/2023-01/bulgarien-kohlekraftwerke-bild/wide__822x462",
-      "image_title": "Emissionen: Bulgarien verschiebt Kohleausstieg auf 2038"
+      "title": "Erderwärmung: Wie ExxonMobil die Menschheit über den Klimawandel belog",
+      "teaser": "Warum handelt die Welt nicht in der Klimakrise? Wohl auch, weil riesige Konzerne wie ExxonMobil ihn über Jahre gezielt vertuschten – obwohl sie genau wussten, was kommt.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-01/erderwaermung-exxon-mobil-klimawandel-wissenschaft",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/erderwaermung-exxon-mobil-klimawandel/wide__822x462",
+      "image_title": "Erderwärmung: Wie ExxonMobil die Menschheit über den Klimawandel belog"
     },
     {
       "title": "Bedrohte Tierarten: Fünf Arten, denen es besser geht, als Sie denken",
@@ -104,6 +104,13 @@
       "image_title": "Kernfusion: Der Traum ist immer eine Generation entfernt"
     },
     {
+      "title": "Emissionen: Bulgarien verschiebt Kohleausstieg auf 2038",
+      "teaser": "Eigentlich wäre Bulgarien 2026 aus der Kohle ausgestiegen. Nach Demonstrationen von Befürwortern der Kohleindustrie hat das Parlament den Ausstieg nun aber verschoben.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-01/bulgarien-ausstieg-kohle-aufschiebung-emissionen",
+      "image_url": "https://img.zeit.de/politik/2023-01/bulgarien-kohlekraftwerke-bild/wide__822x462",
+      "image_title": "Emissionen: Bulgarien verschiebt Kohleausstieg auf 2038"
+    },
+    {
       "title": "Seltene Erden: Europas größtes Vorkommen seltener Erden in Schweden entdeckt",
       "teaser": "Seltene Erden werden für die Produktion von Smartphones und Elektroautos gebraucht – meist stammen sie aus China. Im Norden Schwedens wurden nun Tausende Tonnen gefunden.",
       "url": "https://www.zeit.de/wissen/2023-01/seltene-erden-schweden-vorkommen-kiruna",
@@ -114,22 +121,15 @@
       "title": "COP28: Ölkonzernchef wird Präsident der nächsten UN-Klimakonferenz",
       "teaser": "Die Vereinigten Arabischen Emirate haben den Chef des staatlichen Ölkonzerns zum Präsidenten der COP28 ernannt. Umweltschützer kritisierten die Entscheidung.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai-bild-3/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/cop28-sultan-ahmed-al-dschaber-dubai-bild-3/cinema__980x420",
       "image_title": "COP28: Ölkonzernchef wird Präsident der nächsten UN-Klimakonferenz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ozonloch: Drei Millimeter zum Schutz des Planeten",
       "teaser": "Die gute Nachricht: Das Ozonloch schließt sich. Doch durch die Klimakrise und großtechnische Spielereien in der Erdatmosphäre ist der Erfolg schon wieder gefährdet.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-01/ozonloch-regeneration-un-bericht-fckw",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/ozonloch-regeneration-un-bericht/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/ozonloch-regeneration-un-bericht/wide__822x462",
       "image_title": "Ozonloch: Drei Millimeter zum Schutz des Planeten"
-    },
-    {
-      "title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?",
-      "teaser": "Naturverlust und Klimakrise zeigen, unser Wirtschaftssystem frisst seine eigenen Grundlagen. Wie kann es doch zur Lösung beitragen?",
-      "url": "https://www.zeit.de/wissen/2023-01/kapitalismus-klimakrise-umwelt-zerstoerung-krisenpodcast",
-      "image_url": "https://img.zeit.de/politik/2022-10/auch-das-noch-podcast-teaserbild/wide__822x462__B4FF94",
-      "image_title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?"
     },
     {
       "title": "Weltraumschrott: Unser Müll im All",
@@ -139,11 +139,11 @@
       "image_title": "Weltraumschrott: Unser Müll im All"
     },
     {
-      "title": "Best of Podcasts – \"Auch das noch?\": Wie viele Autos verträgt Deutschland? Und wie viele braucht es?",
-      "teaser": "48 Millionen Pkw gibt es allein in Deutschland, und es werden immer mehr. Mit dem Soziologen Andreas Knie besprechen wir Rezepte für eine gelungene Verkehrswende.",
-      "url": "https://www.zeit.de/wissen/2022-12/andreas-knie-verkehrswende-krisenpodcast",
-      "image_url": "https://img.zeit.de/2022-12/krisenpodcast-stau-bild/square-padded",
-      "image_title": "Best of Podcasts – \"Auch das noch?\": Wie viele Autos verträgt Deutschland? Und wie viele braucht es?"
+      "title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?",
+      "teaser": "Naturverlust und Klimakrise zeigen, unser Wirtschaftssystem frisst seine eigenen Grundlagen. Wie kann es doch zur Lösung beitragen?",
+      "url": "https://www.zeit.de/wissen/2023-01/kapitalismus-klimakrise-umwelt-zerstoerung-krisenpodcast",
+      "image_url": "https://img.zeit.de/politik/2022-10/auch-das-noch-podcast-teaserbild/square-padded__B4FF94",
+      "image_title": "Krisenpodcast \"Auch das noch?\": Ist der Kapitalismus die Krise?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stadtgrün: Man muss das Schöne ökologisch denken und das Ökologische schön",
@@ -441,11 +441,11 @@
       "image_title": "Klimawandel: ExxonMobil weist Berichte über eigene Klimaforschung zurück"
     },
     {
-      "title": "Aktivismus: Guter Protest braucht keinen Kartoffelbrei",
-      "teaser": "Wir brauchen zivilen Ungehorsam, unbedingt! Aber wer Kunstwerke beschmutzt oder ohne Maske Bahn fährt, verwechselt Protest mit Dummheit.",
-      "url": "https://www.zeit.de/politik/deutschland/2022-11/aktivismus-letzte-generation-querdenker-protest-kritik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2022-11/klimaprotest-2/wide__822x462",
-      "image_title": "Aktivismus: Guter Protest braucht keinen Kartoffelbrei"
+      "title": "UN-Klimakonferenz: Der Ölmagnat, der uns retten soll",
+      "teaser": "Der nächste Weltklimagipfel findet in Dubai statt. Und wird ein fossiles Festspiel werden: Sein Präsident ist CEO eines Ölkonzerns. Viel absurder geht es nicht mehr.",
+      "url": "https://www.zeit.de/green/2023-01/un-klimakonferenz-cop28-dubai-oelkonzern-chef-adnoc",
+      "image_url": "https://img.zeit.de/green/2023-01/un-klimakonferenz-cop28-dubai-oelkonzern-chef/wide__822x462",
+      "image_title": "UN-Klimakonferenz: Der Ölmagnat, der uns retten soll"
     },
     {
       "title": "Raumfahrt: Letzter Apollo-7-Astronaut Walter Cunningham gestorben",
@@ -484,7 +484,7 @@
     },
     {
       "title": "Coronavirus: Drosten bezeichnet Äußerung zum Pandemieende als Missverständnis",
-      "teaser": "Das Ende einer Pandemie lasse sich nicht vorab ankündigen, sagt der Virologe Christian Drosten. Seine Äußerung in einem Interview sei falsch ausgelegt worden. 123 Kommentare",
+      "teaser": "Das Ende einer Pandemie lasse sich nicht vorab ankündigen, sagt der Virologe Christian Drosten. Seine Äußerung in einem Interview sei falsch ausgelegt worden. 128 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-01/coronavirus-christian-drosten-interview",
       "image_url": "https://img.zeit.de/politik/2023-01/christian-drosten-deutschland-corona-bild/cinema__980x420",
       "image_title": "Coronavirus: Drosten bezeichnet Äußerung zum Pandemieende als Missverständnis"
