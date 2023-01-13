@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-13T18:14:40",
+  "timestamp": "2023-01-13T19:09:31",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -14,6 +14,11 @@
   ],
   "articles": [
     {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "topic": "Handball-WM"
+    },
+    {
       "title": "Moskau meldet Einnahme von Soledar – Kiew dementiert",
       "url": "https://www.welt.de/politik/ausland/article243182709/Ukraine-News-Moskau-beansprucht-Kontrolle-ueber-Soledar-Kiew-dementiert.html",
       "topic": "Ukraine-Krieg"
@@ -27,11 +32,6 @@
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
       "topic": "Berlin"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Zum 2. Februar"
     },
     {
       "title": "Deutschland",
@@ -68,9 +68,15 @@
       "author": "Robin Alexander"
     },
     {
-      "title": "Jetzt live im Fernsehen",
-      "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
+      "title": "Aktuelle Nachrichten",
+      "url": "https://www.welt.de/politik/deutschland/video243203595/WELT-Aktuelle-Nachrichten.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "Klima-Entwicklung – „Da kommt der zweite Irrtum der Lützerather ins Spiel“",
+      "url": "https://www.welt.de/politik/deutschland/video243191535/Professor-Joachim-Weimann-Klima-Entwicklung-Da-kommt-der-zweite-Irrtum-der-Luetzerather-ins-Spiel.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Professor Joachim Weimann"
     },
     {
       "title": "„Das sagt sehr viel mehr über die Jury aus als über das Wort an sich“",
