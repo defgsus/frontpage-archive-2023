@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-13T09:13:36",
+  "timestamp": "2023-01-13T10:14:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Junos OS",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerkgeraete-mit-Junos-OS-via-DoS-Attacke-lahmlegen-7458133.html"
+    },
+    {
       "title": "SugarCRM",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Sicherheitsluecke-in-SugarCRM-wird-ausgenutzt-7456805.html"
     },
@@ -44,8 +48,19 @@
       "url": "https://www.heise.de/news/Exploit-Code-gesichtet-Attacken-auf-IT-Monitoring-Tool-Cacti-moeglich-7455833.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-verschaffen-sich-unter-Windows-System-Rechte-7455122.html"
+      "title": "Angreifer könnten Netzwerkgeräte mit Junos OS via DoS-Attacke lahmlegen",
+      "teaser": "Juniper hat unter anderem kritische Lücken im Netzwerkbetriebssystem Junos OS geschlossen. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerkgeraete-mit-Junos-OS-via-DoS-Attacke-lahmlegen-7458133.html"
+    },
+    {
+      "title": "Red Hat ergänzt Malware-Erkennungsdienst für RHEL",
+      "teaser": "Im Rahmen von Red Hat Insights ergänzt das Unternehmen nun einen Malware-Erkennungs-Dienst. Der ist für RHEL 8 und 9 verfügbar.",
+      "url": "https://www.heise.de/news/Red-Hat-ergaenzt-Malware-Erkennungsdienst-fuer-RHEL-7458189.html"
+    },
+    {
+      "title": "90 Tage Zeit: Erweiterter Support für Exchange Server 2013 endet",
+      "teaser": "Das endgültige Aus für Exchange Server 2013 mit erweitertem Support nähert sich. In rund drei Monaten versiegen die Updates und auch die Unterstützung.",
+      "url": "https://www.heise.de/news/90-Tage-Zeit-Erweiterter-Support-fuer-Exchange-Server-2013-endet-7458063.html"
     },
     {
       "title": "Chefetage als Einfallstor: CXOs dreimal so häufig Phishing-Opfer wie Angestellte",
@@ -138,23 +153,6 @@
       "teaser": "Aufgrund einer Sicherheitslücke in einer weitverbreiteten Bibliothek sind Open-Source-Projekte von unter anderem IBM und Microsoft verwundbar.",
       "url": "https://www.heise.de/news/Schadcode-Luecke-in-JsonWebToken-Bibliothek-bedroht-22-000-Software-Projekte-7454385.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Sourcecode-Editor Visual Studio Code: Fake Extensions lassen sich leicht tarnen",
-      "teaser": "Sicherheitsforscher haben eine als Prettier getarnte Erweiterung im Marktplatz veröffentlicht, die es auf gut 1000 Downloads innerhalb von 48 Stunden brachte.",
-      "url": "https://www.heise.de/news/Open-Source-Editor-Visual-Studio-Code-Fake-Extensions-lassen-sich-leicht-tarnen-7453534.html"
-    },
-    {
-      "title": "UEFI-Sicherheitslücken bedrohen ARM-Geräte wie Microsoft Surface",
-      "teaser": "Supply-Chain-Attacken möglich: Angreifer könnten auf Lenovo ThinkPads und Microsoft Surface den Schutzmechanismus Secure Boot umgehen.",
-      "url": "https://www.heise.de/news/UEFI-Sicherheitsluecken-bedrohen-ARM-Geraete-wie-Microsoft-Surface-7454141.html",
-      "image_title": "Security Alert"
-    },
-    {
-      "title": "l+f: 2FA-Codes führen zu Leistenbruch bei Dieben",
-      "teaser": "Ein Bastler nutzt einen Commodore SX-64, um sich sicher bei Facebook & Co. anzumelden.",
-      "url": "https://www.heise.de/news/l-f-2FA-Codes-fuehren-zu-Leistenbruch-bei-Dieben-7454002.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
