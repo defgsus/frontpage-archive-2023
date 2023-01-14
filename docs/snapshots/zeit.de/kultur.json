@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-14T16:14:56",
+  "timestamp": "2023-01-14T17:10:16",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -56,10 +56,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Maxim Biller: Deutschlandlied",
+      "teaser": "\"Ich bin ein deutscher Schriftsteller\", sagt unser Autor: Warum er es nicht mehr hören kann, wenn man ihn einen jüdischen Schriftsteller nennt.",
+      "url": "https://www.zeit.de/2023/03/juedische-identitaet-schriftsteller-prag-buch",
+      "image_url": "https://img.zeit.de/2023/03/juedische-identitaet-teaser/cinema__980x420"
+    },
+    {
       "title": "Jahreszeiten: Der Januar möchte einen Drink",
       "teaser": "Keinem Monat im Jahr wird derart übel mitgespielt wie dem Januar, mit guten Vorsätzen vor allem und schlechtem Wetter. So viel Trübsinniges hat niemand verdient.",
       "url": "https://www.zeit.de/kultur/2023-01/januar-vorsaetze-reinigung-pflichtverteidigung",
-      "image_url": "https://img.zeit.de/kultur/2023-01/wochenende03-januar-vorsaetze-reinigung-pflichtverteidigung/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2023-01/wochenende03-januar-vorsaetze-reinigung-pflichtverteidigung/wide__822x462",
+      "image_title": "Jahreszeiten: Der Januar möchte einen Drink"
     },
     {
       "title": "Anne Will: Die Super Nanny",
@@ -67,13 +74,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ende-talkshow-jahresende-einstellung",
       "image_url": "https://img.zeit.de/kultur/film/2023-01/anne-will-ende-talkshow-jahresende-einstellung-bild-2/wide__822x462",
       "image_title": "Anne Will: Die Super Nanny"
-    },
-    {
-      "title": "Lisa Marie Presley: Königstochter, Königsgattin",
-      "teaser": "Mit dem Tod von Lisa Marie Presley endet auch die tragische Geschichte von einem der ersten Popstarkinder, das zur öffentlichen Person wurde. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/musik/2023-01/lisa-marie-presley-tod-elvis-presley",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-01/lisa-marie-presley-tod-elvis-presley-2/wide__822x462",
-      "image_title": "Lisa Marie Presley: Königstochter, Königsgattin"
     },
     {
       "title": "\"FCK 2020 – Zweieinhalb Jahre mit Scooter\": Deutschlands traurigster Raver",
@@ -112,8 +112,8 @@
       "url": "https://www.zeit.de/kultur/2023-01/lisa-marie-presley-gestorben-elvis-tochter"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Besetzung von Lützerath: Lützi bleibt peinlich",
-      "url": "https://www.zeit.de/kultur/2023-01/luetzerath-besetzung-klimaaktivisten-klimaproteste-garzweiler-politik"
+      "title": "Z+ (abopflichtiger Inhalt); Christine Lambrecht: Schrödingers Politikerin",
+      "url": "https://www.zeit.de/kultur/2023-01/christine-lambrecht-silvestervideo-kritik-medien"
     },
     {
       "title": "Sprachkritik: \"Klimaterroristen\" zum Unwort des Jahres 2022 gekürt",
@@ -124,12 +124,12 @@
       "url": "https://www.zeit.de/kultur/2023-01/tatjana-patitz-ist-tot"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Christine Lambrecht: Schrödingers Politikerin",
-      "url": "https://www.zeit.de/kultur/2023-01/christine-lambrecht-silvestervideo-kritik-medien"
+      "title": "Peter Brooks: \"Wir erleben eine sinnlose Aufwertung von Narrativen\"",
+      "url": "https://www.zeit.de/kultur/2023-01/peter-brooks-geschichten-narrative-aufwertung"
     },
     {
-      "title": "ARD-Talkshow: Talksendung \"Anne Will\" wird zum Jahresende eingestellt",
-      "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ard-talkshow-jahresende"
+      "title": "Anne Will: Die Super Nanny",
+      "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ende-talkshow-jahresende-einstellung"
     },
     {
       "title": "\"FCK 2020 – Zweieinhalb Jahre mit Scooter\": Deutschlands traurigster Raver",
@@ -148,12 +148,12 @@
       "url": "https://www.zeit.de/kultur/2023-01/wladimir-putin-neujahrsansprache-russland-krieg"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Besetzung von Lützerath: Lützi bleibt peinlich",
-      "url": "https://www.zeit.de/kultur/2023-01/luetzerath-besetzung-klimaaktivisten-klimaproteste-garzweiler-politik"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Christine Lambrecht: Schrödingers Politikerin",
       "url": "https://www.zeit.de/kultur/2023-01/christine-lambrecht-silvestervideo-kritik-medien"
+    },
+    {
+      "title": "Peter Brooks: \"Wir erleben eine sinnlose Aufwertung von Narrativen\"",
+      "url": "https://www.zeit.de/kultur/2023-01/peter-brooks-geschichten-narrative-aufwertung"
     },
     {
       "title": "Unwort des Jahres 2022: Klimaterroristen, das sind wir doch alle",
@@ -164,8 +164,8 @@
       "url": "https://www.zeit.de/gesellschaft/2023-01/sprachkritik-klimaterroristen-unwort-des-jahres"
     },
     {
-      "title": "ARD-Talkshow: Talksendung \"Anne Will\" wird zum Jahresende eingestellt",
-      "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ard-talkshow-jahresende"
+      "title": "Anne Will: Die Super Nanny",
+      "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ende-talkshow-jahresende-einstellung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Jahresrückblick: Die besten TV-Serien des Jahres – und die schlechtesten",
@@ -182,11 +182,11 @@
       "image_title": "Redefreiheit: Schluss mit der Selbstzensur!"
     },
     {
-      "title": "ARD-Talkshow: Talksendung \"Anne Will\" wird zum Jahresende eingestellt",
-      "teaser": "Nach 16 Jahren ist Schluss: Die Journalistin Anne Will wird ihre Sendung nur bis zum Ende dieses Jahres fortführen. Über eine Nachfolge für das Format gibt es Gespräche.",
-      "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ard-talkshow-jahresende",
-      "image_url": "https://img.zeit.de/kultur/2023-01/anne-will-ard-talkshow-jahresende-bild/wide__822x462",
-      "image_title": "ARD-Talkshow: Talksendung \"Anne Will\" wird zum Jahresende eingestellt"
+      "title": "Lisa Marie Presley: Königstochter, Königsgattin",
+      "teaser": "Mit dem Tod von Lisa Marie Presley endet auch die tragische Geschichte von einem der ersten Popstarkinder, das zur öffentlichen Person wurde. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/musik/2023-01/lisa-marie-presley-tod-elvis-presley",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-01/lisa-marie-presley-tod-elvis-presley-2/wide__822x462",
+      "image_title": "Lisa Marie Presley: Königstochter, Königsgattin"
     },
     {
       "title": "Anzeige: Ein einfaches Leben. Alles andere als leicht.",
@@ -196,11 +196,11 @@
       "image_title": "Ullstein Buchverlage: Ein einfaches Leben. Alles andere als leicht."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Wolfgang Murnberger: \"Die Österreicher können ja nichts so richtig ernst nehmen\"",
-      "teaser": "Der Regisseur Wolfgang Murnberger hat Krimis von Wolf Haas verfilmt und Wiener \"Tatorte\" gedreht. Kann er erklären, was den Reiz österreichischer Verbrechen ausmacht?",
-      "url": "https://www.zeit.de/2023/03/wolfgang-murnberger-regisseur-oesterreich-verbrechen",
-      "image_url": "https://img.zeit.de/2023/03/da-brauchen-wir-den-mord-bild-1/wide__822x462",
-      "image_title": "Wolfgang Murnberger: \"Die Österreicher können ja nichts so richtig ernst nehmen\""
+      "title": "ARD-Talkshow: Talksendung \"Anne Will\" wird zum Jahresende eingestellt",
+      "teaser": "Nach 16 Jahren ist Schluss: Die Journalistin Anne Will wird ihre Sendung nur bis zum Ende dieses Jahres fortführen. Über eine Nachfolge für das Format gibt es Gespräche.",
+      "url": "https://www.zeit.de/kultur/film/2023-01/anne-will-ard-talkshow-jahresende",
+      "image_url": "https://img.zeit.de/kultur/2023-01/anne-will-ard-talkshow-jahresende-bild/wide__822x462",
+      "image_title": "ARD-Talkshow: Talksendung \"Anne Will\" wird zum Jahresende eingestellt"
     },
     {
       "title": "Belle and Sebastian: Einer Band geht es zu gut",
@@ -217,6 +217,13 @@
       "image_title": "Bret Easton Ellis: Rein in die Schusslinie"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wolfgang Murnberger: \"Die Österreicher können ja nichts so richtig ernst nehmen\"",
+      "teaser": "Der Regisseur Wolfgang Murnberger hat Krimis von Wolf Haas verfilmt und Wiener \"Tatorte\" gedreht. Kann er erklären, was den Reiz österreichischer Verbrechen ausmacht?",
+      "url": "https://www.zeit.de/2023/03/wolfgang-murnberger-regisseur-oesterreich-verbrechen",
+      "image_url": "https://img.zeit.de/2023/03/da-brauchen-wir-den-mord-bild-1/wide__822x462",
+      "image_title": "Wolfgang Murnberger: \"Die Österreicher können ja nichts so richtig ernst nehmen\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Break Point\": Mehr Rivalitäten, bitte",
       "teaser": "Die Tennis-Doku \"Break Point\" begleitet aufstrebende Profis bei ihrem Weg in die Weltspitze. Was ihr und dem Sport fehlt, ist ein echter Antagonist.",
       "url": "https://www.zeit.de/2023/03/break-point-tennis-serie-netflix",
@@ -227,14 +234,14 @@
       "title": "Tochter von Elvis Presley: Lisa Marie Presley ist tot",
       "teaser": "Die Sängerin Lisa Marie Presley ist im Alter von 54 Jahren gestorben. Sie war das einzige Kind des Rock'n'Roll-Sängers und Schauspielers Elvis Presley.",
       "url": "https://www.zeit.de/kultur/2023-01/lisa-marie-presley-gestorben-elvis-tochter",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-01/lisa-marie-presley-gestorben-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-01/lisa-marie-presley-gestorben-bild/cinema__980x420",
       "image_title": "Tochter von Elvis Presley: Lisa Marie Presley ist tot"
     },
     {
       "title": "Odessa: Ohne Licht keine Kultur, ohne Kultur kein Leben",
       "teaser": "Odessa, die Stadt am Meer, die Stadt der Kultur, hat im Ukraine-Krieg ihr Licht verloren. Den Strom, sagt einer dort, bräuchten nun die Verwundeten in den Krankenhäusern.",
       "url": "https://www.zeit.de/2023/03/odessa-krieg-ukraine-nacht-dunkelheit",
-      "image_url": "https://img.zeit.de/2023/03/odessa-krieg-ukraine-nacht-dunkelheit-zarin-katharina-ii/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/03/odessa-krieg-ukraine-nacht-dunkelheit-zarin-katharina-ii/wide__822x462",
       "image_title": "Odessa: Ohne Licht keine Kultur, ohne Kultur kein Leben"
     },
     {
@@ -248,14 +255,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Holy Spider\": Die perverse Selbstermächtigung des Killers",
       "teaser": "Der Regisseur Ali Abassi hat mit \"Holy Spider\" einen Kinofilm über einen iranischen Frauenmörder gedreht. Der Film ist allzu fasziniert von der Psyche des Täters.",
       "url": "https://www.zeit.de/2023/03/holy-spider-iran-ali-abassi-film",
-      "image_url": "https://img.zeit.de/2023/03/ein-lockvogel-fuer-den-killer-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/03/ein-lockvogel-fuer-den-killer-bild-1/cinema__980x420",
       "image_title": "\"Holy Spider\": Die perverse Selbstermächtigung des Killers"
     },
     {
       "title": "Deutsches Model : Tatjana Patitz ist tot",
       "teaser": "In den Neunzigerjahren zählte sie neben Claudia Schiffer, Naomi Campbell und Linda Evangelista zu den Topmodels. Nun ist Tatjana Patitz im Alter von 56 Jahren gestorben.",
       "url": "https://www.zeit.de/kultur/2023-01/tatjana-patitz-ist-tot",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/model-tatjana-patitz-tot-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/model-tatjana-patitz-tot-bild/wide__822x462",
       "image_title": "Deutsches Model : Tatjana Patitz ist tot"
     },
     {
@@ -264,13 +271,6 @@
       "url": "https://www.zeit.de/kultur/musik/2023-01/musik-jeff-beck-gitarrist-gestorben",
       "image_url": "https://img.zeit.de/kultur/musik/2023-01/musik-jeff-beck-gitarrist/wide__822x462",
       "image_title": "Musik: Rockgitarrist Jeff Beck gestorben"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Maxim Biller: Deutschlandlied",
-      "teaser": "\"Ich bin ein deutscher Schriftsteller\", sagt unser Autor: Warum er es nicht mehr hören kann, wenn man ihn einen jüdischen Schriftsteller nennt.",
-      "url": "https://www.zeit.de/2023/03/juedische-identitaet-schriftsteller-prag-buch",
-      "image_url": "https://img.zeit.de/2023/03/juedische-identitaet-teaser/wide__822x462",
-      "image_title": "Maxim Biller: Deutschlandlied"
     },
     {
       "title": "Verfolgung von Journalisten: Es ist seltsam, sein Foto auf einem Steckbrief zu betrachten",
