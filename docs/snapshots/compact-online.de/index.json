@@ -1,9 +1,437 @@
 {
-  "timestamp": "2023-01-16T08:16:10",
+  "timestamp": "2023-01-16T09:12:27",
   "url": "https://www.compact-online.de/",
   "response": {
     "status": 200
   },
-  "scripts": [],
-  "articles": []
+  "scripts": [
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/jquery.min.js?ver=3.6.1",
+      "id": "jquery-core-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2",
+      "id": "jquery-migrate-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/uploads/712/354/public/assets/js/839.js?ver=1.39.1",
+      "id": "advanced-ads-advanced-js-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.10.0",
+      "id": "font-awesome-4-shim-js",
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.googletagmanager.com/gtag/js?id=UA-38558642-1",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.googletagmanager.com/gtag/js?id=AW-804991562",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/lazyload.js?ver=9.0.0",
+      "id": "smartmag-lazyload-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/news-ticker-widget-for-elementor/assets/js/ticker.js?ver=1.0",
+      "id": "ticker-script-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/download-monitor/assets/js/dlm-xhr.min.js?ver=4.7.72",
+      "id": "dlm-xhr-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2",
+      "id": "jquery-ui-core-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=6.1.1",
+      "id": "qi-addons-for-elementor-script-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/ga-germanized/assets/js/cookieconsent.js?ver=3.1.1",
+      "id": "cookieconsent-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/ga-germanized/assets/js/gaoptout.js?ver=1.6.2",
+      "id": "google-analytics-germanized-gaoptout-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/jquery.mfp-lightbox.js?ver=9.0.0",
+      "id": "magnific-popup-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/jquery.sticky-sidebar.js?ver=9.0.0",
+      "id": "theia-sticky-sidebar-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/themes/smart-mag/js/theme.js?ver=9.0.0",
+      "id": "smartmag-theme-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.onesignal.com/sdks/OneSignalSDK.js?ver=6.1.1",
+      "id": "remote_sdk-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6",
+      "id": "swiper-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/assets/plugins/fslightbox/fslightbox.min.js?ver=6.1.1",
+      "id": "fslightbox-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/isotope.pkgd.min.js?ver=6.1.1",
+      "id": "isotope-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/inc/masonry/assets/js/plugins/packery-mode.pkgd.min.js?ver=6.1.1",
+      "id": "packery-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.10.0",
+      "id": "elementor-webpack-runtime-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.10.0",
+      "id": "elementor-frontend-modules-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2",
+      "id": "elementor-waypoints-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.10.0",
+      "id": "share-link-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0",
+      "id": "elementor-dialog-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.10.0",
+      "id": "elementor-frontend-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9",
+      "id": "regenerator-runtime-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0",
+      "id": "wp-polyfill-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5",
+      "id": "wp-hooks-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae",
+      "id": "wp-i18n-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=6.1.1",
+      "id": "qi-addons-for-elementor-elementor-js",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://www.compact-online.de/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.10.0",
+      "id": "preloaded-modules-js",
+      "text": null
+    }
+  ],
+  "articles": [
+    {
+      "title": "Ostafrika: Die Deutschen als Befreier",
+      "teaser": "Deutschland soll in Sack und Asche gehen. Auch wegen unserer früheren Kolonien. Dabei zeigt gerade…"
+    },
+    {
+      "title": "Lützerath: Greta mault über „Polizeigewalt“",
+      "teaser": "Mollis, Steine und angespitzte Baumpfähle? Kein Thema für Greta. Die Klima-Ikone, die laut ihrer Mutter…"
+    },
+    {
+      "title": "Klingbeil – der Anti-Sachsen-Hetzer",
+      "teaser": "Mit einem „Sorry“ will er jetzt davonkommen. Dabei waren die Fake News, die SPD-Chef Klingbeil…"
+    },
+    {
+      "title": "Grüne Heuchler",
+      "teaser": "Zitat des Tages: „Viele Parteimitglieder der Grünen hadern mit der Entscheidung, Lützerath abzubaggern. Auch mehrere…"
+    },
+    {
+      "title": "Vergesslich? So bleibt Ihr Gedächtnis länger fit!",
+      "teaser": "Mitten im Satz müssen Sie abbrechen. Oder, wie war nochmal die Telefonnummer? Die, Ihres besten…"
+    },
+    {
+      "title": "Lambrecht tritt zurück – wegen Silvester-Video",
+      "teaser": "Wie u.a. der Spiegel und die Bild berichten, will die Bundesverteidigungsministerin Christine Lambrecht (SPD) offenbar…"
+    },
+    {
+      "title": "Deutsche Kolonien: Unsere neue Geschichtsausgabe",
+      "teaser": "Muss die deutsche Kolonialgeschichte umgeschrieben werden? Wir meinen: Ja! Und fangen gleich damit an. Unsere…"
+    },
+    {
+      "title": "Patitz und Presley – Das plötzliche Sterben der Ü50",
+      "teaser": "Plötzliche Sterbefälle von Ü50-Promis haben in den letzten Tagen weltweit für Verstörung und teilweise für…"
+    },
+    {
+      "title": "Lützerath: Greta mault über „Polizeigewalt“ Von Daniell Pföhringer14. Januar 202332",
+      "teaser": "Mollis, Steine und angespitzte Baumpfähle? Kein Thema für Greta. Die Klima-Ikone, die laut ihrer Mutter…"
+    },
+    {
+      "title": "Grüne Heuchler Von COMPACT-Magazin14. Januar 202320",
+      "teaser": "Zitat des Tages: „Viele Parteimitglieder der Grünen hadern mit der Entscheidung, Lützerath abzubaggern. Auch mehrere…"
+    },
+    {
+      "title": "Klima-Terroristen: Jetzt wollen sie Pferde aufspießen! Von Daniell Pföhringer13. Januar 202337",
+      "teaser": "Von wegen Unwort: Klima-Terroristen ist genau der richtige Ausdruck für die Irren von Lützerath. Wie…"
+    },
+    {
+      "title": "Fahrgenuss statt AutofrustCOMPACT+ Von Marc Dassen14. Januar 2023",
+      "teaser": "No risk, no fun – Motto eines Lebensgefühls, das im Aussterben begriffen scheint. In naher…"
+    },
+    {
+      "title": "Fack ju, Gender!COMPACT+ Von COMPACT-Magazin13. Januar 2023",
+      "teaser": "Männlein und Weiblein – das ist doch Conchita-Wurst-egal! Heute gibt es Dutzende von Geschlechtern, und…"
+    },
+    {
+      "title": "Hartlages BRD-Sprech _ Die HierlebendenCOMPACT+ Von Gast Autor12. Januar 2023",
+      "teaser": "Niemand wird Angela Merkel für eine große Rhetorikerin oder Stilistin halten. Ihre Reden sind ein…"
+    },
+    {
+      "title": "Klingbeil – der Anti-Sachsen-Hetzer Von Sven Eggers14. Januar 20231",
+      "teaser": "Mit einem „Sorry“ will er jetzt davonkommen. Dabei waren die Fake News, die SPD-Chef Klingbeil…"
+    },
+    {
+      "title": "Lambrecht tritt zurück – wegen Silvester-Video Von Valentina Schacht14. Januar 202340",
+      "teaser": "Wie u.a. der Spiegel und die Bild berichten, will die Bundesverteidigungsministerin Christine Lambrecht (SPD) offenbar…"
+    },
+    {
+      "title": "Emilia Fester: Grün und bi im Bundestag Von Gast Autor13. Januar 202327",
+      "teaser": "Mit 24 Jahren ist Emilia Fester die jüngste Abgeordnete im Bundestag. Dort erlebt Milla, so…"
+    },
+    {
+      "title": "Hartlages BRD-Sprech _ Die HierlebendenCOMPACT+ Von Gast Autor12. Januar 2023",
+      "teaser": "Niemand wird Angela Merkel für eine große Rhetorikerin oder Stilistin halten. Ihre Reden sind ein…"
+    },
+    {
+      "title": "Leos für Kiew: Zieht uns jetzt Polen in den Krieg? Von Sven Reuth12. Januar 202327",
+      "teaser": "Warschau will deutsche Leopard-Panzer an die Ukraine liefern – die deutsche Regierung soll offenbar gar…"
+    },
+    {
+      "title": "Laute Nazi-Rufe? Klingbeil dreht durch Von Sven Eggers11. Januar 202353",
+      "teaser": "Wurde in Sachsen unter „lauten Sieg-Heil-Rufen“ Silvester gefeiert? SPD-Chef Lars Klingbeil behauptet das. Die Polizei…"
+    },
+    {
+      "title": "Unfassbar: Steuergelder für Antifa-Kampfsport Von Sven Eggers11. Januar 202319",
+      "teaser": "Linksextreme Kampfsportler, gefördert mit Steuermitteln? Klingt absurd, ist aber bittere Realität, wie nun eine Anfrage…"
+    },
+    {
+      "title": "Deutschland im Krieg Von COMPACT-Magazin11. Januar 202336",
+      "teaser": "Zitat des Tages: „Alles in allem: Am 6. Januar ist Deutschland in den russisch-ukrainischen Krieg…"
+    },
+    {
+      "title": "George Soros: Die schützende Hand über Hunter Biden",
+      "teaser": "Die Affäre um Hunter Biden und seine Notebook-Daten hatte das…"
+    },
+    {
+      "title": "„Washington Post“ zu Nord Stream-Sabotage: Russland war es nicht",
+      "teaser": "Die Washington Post ist mit die renommierteste US-Zeitung. Jetzt gibt…"
+    },
+    {
+      "title": "Sex-Skandal um Prinz Andrew: Neue Erkenntnisse",
+      "teaser": "Noch immer gibt es viele Fragezeichen im Fall Epstein. Dazu…"
+    },
+    {
+      "title": "Nord Stream: Mitwisser bei der Bundeswehr",
+      "teaser": "Die Aufklärungsarbeit von COMPACT zum Thema Nord Stream wirkt: Auf…"
+    },
+    {
+      "title": "Sechs Jahre Amri-Attentat: Horror und linker Spott",
+      "teaser": "Auch sechs Jahre nach dem Attentat auf den Weihnachtsmarkt auf…"
+    },
+    {
+      "title": "Über 100.000 Zuschauer – jetzt reagieren Politiker",
+      "teaser": "In den ersten 24 Stunden sahen sich schon über 100.000…"
+    },
+    {
+      "title": "Wisnewski enthüllt: Die Trauma-FabrikCOMPACT+",
+      "teaser": "Vorabdruck: Gerhard Wisnewski Jahrbuch 2023 „verheimlicht, vertuscht, vergessen“ (aus der…"
+    },
+    {
+      "title": "Elon Musk: Jetzt knöpft er sich Fauci und Biden vor",
+      "teaser": "Einen solchen Empörungssturm hat Elon Musk wohl noch nie ausgelöst.…"
+    },
+    {
+      "title": "Ostafrika: Die Deutschen als Befreier Von Gast Autor14. Januar 2023",
+      "teaser": "Deutschland soll in Sack und Asche gehen. Auch wegen unserer früheren Kolonien. Dabei zeigt gerade…"
+    },
+    {
+      "title": "Deutsche Kolonien: Unsere neue Geschichtsausgabe Von Daniell Pföhringer13. Januar 2023",
+      "teaser": "Muss die deutsche Kolonialgeschichte umgeschrieben werden? Wir meinen: Ja! Und fangen gleich damit an. Unsere…"
+    },
+    {
+      "title": "Was Gulag und Holocaust miteinander zu tun haben",
+      "teaser": "Vor 100 Jahren wurde der Historiker Ernst Nolte geboren. Seine Forschungen über den Zusammenhang zwischen…"
+    },
+    {
+      "title": "Immer noch ein besetztes LandCOMPACT+",
+      "teaser": "Vom Fortdauern des Besatzungsrechts. Kein souveräner Staat: Die Bundesrepublik entstand 1949 als Protektorat der Siegermächte,…"
+    },
+    {
+      "title": "Bromberger Blutsonntag: Polnische Bartholomäusnacht",
+      "teaser": "Deutsche Täter, polnische Opfer? So einfach, wie es die Regierung in Warschau als Grundlage ihrer…"
+    },
+    {
+      "title": "Vorsicht, Enteignung!COMPACT+",
+      "teaser": "Vorabdruck von Jürgen Elsässers Editorial aus der Januarausgabe von COMPACT-Magazin. Inflation ist Enteignung, aber darum…"
+    },
+    {
+      "title": "„Mordzentrale Ramstein“: COMPACT sucht Filmförderer Von Jürgen Elsässer12. Januar 202318",
+      "teaser": "Nach unserem Erfolgsfilm „Tatort Nord Stream“ (950.000 Zuschauer) planen wir mit „Mordzentrale Ramstein“ eine weitere…"
+    },
+    {
+      "title": "Unser Cover des Jahres 2022: Wagenknecht Von Daniell Pföhringer12. Januar 20236",
+      "teaser": "Unsere Youtube-Abonnenten und -Zuschauer haben entschieden: Ihr COMPACT-Lieblingstitelbild 2022 ist das der Dezember-Ausgabe mit Sahra…"
+    },
+    {
+      "title": "Bilanz 2022: Immer mehr Angriffe auf COMPACT Von Jürgen Elsässer9. Januar 202320",
+      "teaser": "Hilfs-Appell des Chefredakteurs: Im Jahr 2022 hat COMPACT große Erfolge erzielt – und genau deshalb…"
+    },
+    {
+      "title": "COMPACT-TV braucht IHRE Unterstützung! Von COMPACT-TV9. Januar 20236",
+      "teaser": "Um Ihnen auch in Zukunft unsere Sendungen kostenlos zur Verfügung stellen zu können, bitten wir…"
+    },
+    {
+      "title": "Trotz Schummelei: Wisnewski-Jahrbuch in Bestseller-Liste Von Daniell Pföhringer9. Januar 20236",
+      "teaser": "Gerhard Wisnewskis Jahrbuch „Verheimlicht – Vertuscht – Vergessen 2023“ ist kurz nach Erscheinen in die…"
+    },
+    {
+      "title": "Schwedisches Blatt: „COMPACT träumt von Querfront“ Von COMPACT-Magazin6. Januar 202319",
+      "teaser": "COMPACT sorgt mit der Ausgabe „Wagenknecht – Die beste Kanzlerin“ weiter für Aufsehen. Auch international…"
+    },
+    {
+      "title": "NUR NOCH HEUTE: Unser Geschenk für Sie – „Das Große Erwachen“ Von COMPACT-Magazin2. Januar 202330",
+      "teaser": "Nur noch heute bis Mitternacht – unser Geschenk für Sie: „Das Große Erwachen“. Der Transhumanismus…"
+    },
+    {
+      "title": "COMPACT weckt LeipzigCOMPACT+ Von COMPACT-Magazin19. Dezember 2022",
+      "teaser": "Vorabdruck aus der Januarausgabe von COMPACT-Magazin. Das war ein Riesenerfolg für Freie Sachsen, Thüringer Patrioten…"
+    },
+    {
+      "title": "Davos 2023: Worum es geht – und wer dabei ist Von Sven Reuth13. Januar 20233",
+      "teaser": "Klima-Panikmache ist ideal, um eine Weltdiktatur zu erreichten – das scheint das inoffizielle Motto des…"
+    },
+    {
+      "title": "Feuer wird mit Öl gelöscht Von COMPACT-Magazin1. Januar 202319",
+      "teaser": "Inflationsschub 2023: Die sogenannten Rettungspakete blähen die Nachfrage auf, während das Warenangebot schrumpft. Dann erfasst…"
+    },
+    {
+      "title": "Benedikt XVI und der Machtkampf im Vatikan Von Jürgen Elsässer31. Dezember 202213",
+      "teaser": "Joseph Ratzinger. emeritierter Papst Benedikt XVI. ist heute verstorben. Aus diesem Anlass würdigt COMPACT erneut…"
+    },
+    {
+      "title": "Das letzte Gefecht Von COMPACT-Magazin30. Dezember 20226",
+      "teaser": "Globale Eliten haben der Spezies Menschen den Krieg erklärt. Projekte zu seiner Ablösung laufen auf…"
+    },
+    {
+      "title": "Krieg der ElitenCOMPACT+ Von Paul Klemm18. Dezember 2022",
+      "teaser": "Elon Musk gegen den Rest. Vorabdruck aus der Januarausgabe von COMPACT-Magazin. Mit seiner Offensive für…"
+    },
+    {
+      "title": "Zu viel Wahrheit: Häme gegen Krisen-Warner Von Daniell Pföhringer15. Dezember 20226",
+      "teaser": "Wirtschaftsexperten wie Dirk Müller, Markus Krall und Max Otte warnen seit Jahren vor dem großen…"
+    },
+    {
+      "title": "Fahrgenuss statt AutofrustCOMPACT+ Von Marc Dassen14. Januar 2023",
+      "teaser": "No risk, no fun – Motto eines Lebensgefühls, das im Aussterben begriffen scheint. In naher Zukunft sollen selbstfahrende Autos den…"
+    },
+    {
+      "title": "Elsässers Autobiografie als Video – gratis! Von Jürgen Elsässer13. Januar 202313",
+      "teaser": "Preis ansonsten 19,99 Euro – ab 20. Januar kostenlos für alle Mitglieder des COMPACT-Clubs! Am 20. Januar ist mein 66.…"
+    },
+    {
+      "title": "Fack ju, Gender!COMPACT+ Von COMPACT-Magazin13. Januar 2023",
+      "teaser": "Männlein und Weiblein – das ist doch Conchita-Wurst-egal! Heute gibt es Dutzende von Geschlechtern, und jeder darf sich beliebig eines…"
+    },
+    {
+      "title": "Warum Antioxidantien so wichtig für die Gesundheit sind! Von Matthias Lehmann13. Januar 2023",
+      "teaser": "In Gesundheits-Texten wird man recht schnell auf den Begriff Antioxidantien stoßen. Mit im Gepäck sind meist Radikalenfänger und oxidativer Stress.…"
+    },
+    {
+      "title": "Patitz und Presley – Das plötzliche Sterben der Ü50",
+      "teaser": "Plötzliche Sterbefälle von Ü50-Promis haben in den letzten Tagen weltweit für Verstörung und teilweise für…"
+    },
+    {
+      "title": "„Maskenpflicht hat ausgedient“",
+      "teaser": "Zitat des Tages: „Die Maskenpflicht hat ausgedient. In Geschäften, Kneipen, Flugzeugen ist sie nur noch…"
+    },
+    {
+      "title": "Endlich: RKI-Chef Wieler tritt ab",
+      "teaser": "Na, also! Es gibt doch noch gute Nachrichten: Lothar Wieler tritt als Präsident des Robert-Koch-Instituts…"
+    }
+  ]
 }
