@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-16T11:10:28",
+  "timestamp": "2023-01-16T12:24:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.f4754bbe91719db4619c",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.bf3215eeb62ebf2a538b",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "NortonLifeLock",
+      "url": "https://www.heise.de/news/NortonLifeLock-Hersteller-warnt-vor-potenziell-geknackten-Passwortmanagern-7459886.html"
+    },
     {
       "title": "Cacti",
       "url": "https://www.heise.de/news/Jetzt-patchen-Viele-Cacti-Server-oeffentlich-erreichbar-und-verwundbar-7459904.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-kritische-Luecke-in-Control-Web-Panel-7458440.html"
     },
     {
-      "title": "Junos OS",
-      "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerkgeraete-mit-Junos-OS-via-DoS-Attacke-lahmlegen-7458133.html"
+      "title": "Betrugsmasche: Whatsapp-Enkeltrick noch immer aktuell",
+      "teaser": "Die Betrugsmasche, bei der die Kriminellen sich als Angehörige ausgeben, deren Telefonnummer sich geändert habe, ebbt nicht ab. Sie beginnt inzwischen per SMS.",
+      "url": "https://www.heise.de/news/Betrugsmasche-Whatsapp-Enkeltrick-noch-immer-aktuell-7460196.html"
+    },
+    {
+      "title": "NortonLifeLock: Hersteller warnt vor potenziell geknackten Passwortmanagern",
+      "teaser": "Angreifer haben Nutzer-Passwort-Kombinationen durchgetestet und dabei Zugriff auf Norton-Konten erhalten. Das gefährdet Daten des Passwortmanagers.",
+      "url": "https://www.heise.de/news/NortonLifeLock-Hersteller-warnt-vor-potenziell-geknackten-Passwortmanagern-7459886.html",
+      "image_title": "Passwort"
     },
     {
       "title": "Jetzt patchen! Viele Cacti-Server öffentlich erreichbar und verwundbar",
@@ -141,16 +152,6 @@
       "title": "Exploit-Code gesichtet: Attacken auf IT-Monitoring-Tool Cacti möglich",
       "teaser": "Angreifer könnten an einer kritischen Sicherheitslücke in Cacti ansetzen und Schadcode auf Servern ausführen.",
       "url": "https://www.heise.de/news/Exploit-Code-gesichtet-Attacken-auf-IT-Monitoring-Tool-Cacti-moeglich-7455833.html"
-    },
-    {
-      "title": "Fahrradhersteller: Prophete nach Cyber-Angriff in Insolvenz gerutscht",
-      "teaser": "Der Insolvenzverwalter beim Fahrradhersteller Prophete hat als Ursache für die Insolvenz einen Cyber-Angriff ausgemacht, der einen Betriebsstillstand auslöste.",
-      "url": "https://www.heise.de/news/Fahrradhersteller-Prophete-Insolvenz-durch-Cyber-Angriff-7455650.html"
-    },
-    {
-      "title": "DDoS-Angriffe: Webseiten dänischer Zentralbank und von Privatbanken lahmgelegt",
-      "teaser": "Cyberkriminelle haben Zugriffe auf die Webseiten der dänischen Zentralbank sowie auf sieben Privatbanken mit DDoS-Attacken lahmgelegt.",
-      "url": "https://www.heise.de/news/Cyber-Angriffe-auf-Webseiten-der-daenischen-Zentralbank-und-von-Privatbanken-7455330.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
