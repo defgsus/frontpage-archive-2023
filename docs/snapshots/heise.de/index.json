@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-16T05:11:22",
+  "timestamp": "2023-01-16T06:16:07",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,11 +32,6 @@
   ],
   "articles": [
     {
-      "title": "Missing LinkDeutschland fehlt politischer Wille für Natur- und Artenschutz",
-      "teaser": "Das Umweltministerium verspricht, mehr gegen Artensterben und Naturzerstörung zu tun. Bisher liegt Deutschland bei der Einhaltung erklärter Ziele weit zurück.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Deutschland-fehlt-politischer-Wille-fuer-Natur-und-Artenschutz-7456706.html"
-    },
-    {
       "title": "Ohne menschliche PilotenAirbus testet Passagierglugzeug mit autonomer Landung",
       "teaser": "Mit DragonFly hat Airbus ein System vorgestellt, das in Notfällen autonom ohne menschlichen Piloten einen nahen Flughafen ansteuern und landen können soll.",
       "url": "https://www.heise.de/news/Roboter-Pilot-Airbus-testet-autonome-Notlandung-von-Passagierflugzeugen-7459425.html"
@@ -46,6 +41,11 @@
       "teaser": "Das IPv6 ist inzwischen essenziell. Doch manche Router scheitern schon daran, Internet per IPv6 bereitzustellen. Wir haben 25 Geräte in vier Szenarien erprobt.",
       "url": "https://www.heise.de/tests/25-Router-im-IPv6-Test-Wo-Fritzbox-Co-noch-immer-patzen-7449159.html",
       "image_title": ","
+    },
+    {
+      "title": "Missing LinkDeutschland fehlt politischer Wille für Natur- und Artenschutz",
+      "teaser": "Das Umweltministerium verspricht, mehr gegen Artensterben und Naturzerstörung zu tun. Bisher liegt Deutschland bei der Einhaltung erklärter Ziele weit zurück.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Deutschland-fehlt-politischer-Wille-fuer-Natur-und-Artenschutz-7456706.html"
     },
     {
       "title": "HololensMicrosoft muss Kampfbrille für US-Militär überarbeiten – Auftrag gestoppt",
@@ -146,16 +146,35 @@
       "url": "https://www.heise.de/hintergrund/Gehaelter-2022-So-viel-kann-man-in-der-IT-Branche-in-Deutschland-verdienen-7370706.html"
     },
     {
+      "title": "Montag: Google gegen Internet-Haftungsumkehr, Airbus testet autonome Flugzeuge",
+      "url": "https://www.heise.de/news/Montag-Google-gegen-Internet-Haftungsumkehr-Airbus-testet-autonome-Flugzeuge-7459651.html",
+      "image_title": "Frau tippt auf Handy"
+    },
+    {
+      "title": "Interview: Wie ChatGPT die Lehre verändert",
+      "url": "https://www.heise.de/news/Interview-Wie-ChatGPT-die-Lehre-veraendert-7451975.html",
+      "image_title": "Künstliche Intelligenz als Hilfswissenschaftler: KI revolutioniert die Forschung"
+    },
+    {
       "title": "ChatGPT-Fail: Wie man einen analogen Film in die Digitalkamera einlegt und mehr",
       "url": "https://www.heise.de/hintergrund/ChatGPT-Fail-Wie-man-einen-analogen-Film-in-die-Digitalkamera-einlegt-und-mehr-7459468.html"
     },
     {
-      "title": "KI-Regulierung ist zu wichtig, um sie dem Digitalminister zu überlassen",
-      "url": "https://www.heise.de/meinung/KI-Regulierung-ist-zu-wichtig-um-sie-dem-Digitalminister-zu-ueberlassen-7457287.html"
+      "title": "Radiosender kämpfen mit Fakeprofilen im Netz",
+      "teaser": "Seit Wochen kursieren falsche Profile von Radiosendern oder deren besonders bekannten Stimmen im Netz. Einzelne fallen auf damit verbundene Betrugsmaschen rein.",
+      "url": "https://www.heise.de/news/Radiosender-kaempfen-mit-Fakeprofilen-im-Netz-7459663.html"
     },
     {
-      "title": "Roboterjournalismus: Dutzende Artikel bei US-Newsportal von KI verfasst",
-      "url": "https://www.heise.de/news/Roboterjournalismus-Dutzende-Artikel-bei-US-Newsportal-von-KI-verfasst-7456674.html"
+      "title": "Interview: Wie ChatGPT die Lehre verändert",
+      "teaser": "Wenn KI-Systeme wie GPT-3 und ChatGPT ganze Studienarbeiten in Sekunden verfassen, muss die Lehre Begriffe wie \"Bildung\" und \"Leistung\" neu definieren.",
+      "url": "https://www.heise.de/news/Interview-Wie-ChatGPT-die-Lehre-veraendert-7451975.html",
+      "image_title": "Künstliche Intelligenz als Hilfswissenschaftler: KI revolutioniert die Forschung"
+    },
+    {
+      "title": "Montag: Google gegen Internet-Haftungsumkehr, Airbus testet autonome Flugzeuge",
+      "teaser": "Google für bisherige Internet-Haftung + Passagierflugzeug ohne Piloten + Cyberangriff auf taiwanische Fluglinie + Hololens-Auftragsstopp + ChatGPT-Kuriositäten",
+      "url": "https://www.heise.de/news/Montag-Google-gegen-Internet-Haftungsumkehr-Airbus-testet-autonome-Flugzeuge-7459651.html",
+      "image_title": "Frau tippt auf Handy"
     },
     {
       "title": "Taiwanische Fluglinie untersucht möglichen Hacker-Angriff auf Passagierdaten",
@@ -185,21 +204,6 @@
       "image_title": "Apple TV 4K mit HomePod mini."
     },
     {
-      "title": "Notfall-Windows: Das Windows-Konto \"Administrator\" reaktivieren",
-      "teaser": "Ihr Nutzerkonto ist defekt und die Administratorrechte dahin? Mit einem speziellen Administrator-Konto erhalten Sie wieder Zugang. Wir zeigen, wie es geht.",
-      "url": "https://www.heise.de/ratgeber/Notfall-Windows-Das-Windows-Konto-Administrator-reaktivieren-7454531.html"
-    },
-    {
-      "title": "Twitter: Sperren von Drittanbieter-Apps \"sind beabsichtigt\"",
-      "teaser": "Die bereits aktive Sperre von Drittanbieter-Apps für Twitter sei einem Twitter-Mitarbeiter zufolge beabsichtigt. Die Gründe sind weiterhin unklar.",
-      "url": "https://www.heise.de/news/Twitter-Sperre-von-Drittanbieter-Apps-sind-beabsichtigt-7459500.html"
-    },
-    {
-      "title": "Schwarz-Weiß-Filmentwicklung: Die Vorbereitung in der Dunkelkammer",
-      "teaser": "In Teil 2 unserer Serie über analoge Filme und Filmentwicklung, geht es in die Dunkelkammer: Was benötigt man eigentlich, um Schwarz-Weiß-Filme zu entwickeln?",
-      "url": "https://www.heise.de/hintergrund/Schwarz-Weiss-Filmentwicklung-Die-Vorbereitung-in-der-Dunkelkammer-7458807.html"
-    },
-    {
       "title": "ElektroautoVolvo XC40 Recharge im Test: Einmotorig ist die bessere Wahl",
       "url": "https://www.heise.de/tests/Elektroauto-Volvo-XC40-Recharge-im-Test-Einmotorig-ist-die-bessere-Wahl-7370670.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
       "image_title": "Volvo XC40"
@@ -217,6 +221,21 @@
       "title": "heise+ Jahresabo-Angebot",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Notfall-Windows: Das Windows-Konto \"Administrator\" reaktivieren",
+      "teaser": "Ihr Nutzerkonto ist defekt und die Administratorrechte dahin? Mit einem speziellen Administrator-Konto erhalten Sie wieder Zugang. Wir zeigen, wie es geht.",
+      "url": "https://www.heise.de/ratgeber/Notfall-Windows-Das-Windows-Konto-Administrator-reaktivieren-7454531.html"
+    },
+    {
+      "title": "Twitter: Sperren von Drittanbieter-Apps \"sind beabsichtigt\"",
+      "teaser": "Die bereits aktive Sperre von Drittanbieter-Apps für Twitter sei einem Twitter-Mitarbeiter zufolge beabsichtigt. Die Gründe sind weiterhin unklar.",
+      "url": "https://www.heise.de/news/Twitter-Sperre-von-Drittanbieter-Apps-sind-beabsichtigt-7459500.html"
+    },
+    {
+      "title": "Schwarz-Weiß-Filmentwicklung: Die Vorbereitung in der Dunkelkammer",
+      "teaser": "In Teil 2 unserer Serie über analoge Filme und Filmentwicklung, geht es in die Dunkelkammer: Was benötigt man eigentlich, um Schwarz-Weiß-Filme zu entwickeln?",
+      "url": "https://www.heise.de/hintergrund/Schwarz-Weiss-Filmentwicklung-Die-Vorbereitung-in-der-Dunkelkammer-7458807.html"
     },
     {
       "title": "CO₂ unterirdisch speichern: CDU-Fraktionschef Redmann fordert Ausbau",
@@ -272,6 +291,11 @@
       "image_title": "Social,Network,And,City."
     },
     {
+      "title": "Mit Staging wasserdichte Websites entwickeln",
+      "teaser": "Wer aufwändige Websites gestalten oder größere Änderungen bei Webprojekten durchführen muss, sollte sich eine Kopie der Live-Umgebung einrichten. Mit einer solchen Staging-Site lässt sich der Web-Auftritt uneingeschränkt auf Herz und Nieren testen - bevor er für Kunden und Anwender endgültig freigeschaltet wird.",
+      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/web-dev/-hosting/beitrag/mit-staging-wasserdichte-websites-entwickeln-4465/?source=hbsad"
+    },
+    {
       "title": "LG: Rückruf einiger 86-Zoll-TVs wegen Kippgefahr",
       "teaser": "In Nordamerika, Kanada und Mexiko ruft LG mehrere OLED-TVs mit einer Diagonalen von 86 Zoll zurück, weil die Geräte umkippen können.",
       "url": "https://www.heise.de/news/LG-Rueckruf-einiger-86-Zoll-TVs-wegen-Kippgefahr-7459353.html"
@@ -285,11 +309,6 @@
       "title": "Google und Section 230: US-Gerichtsurteil könnte \"Internet auf den Kopf stellen\"",
       "teaser": "Der Supreme Court verhandelt über elementare US-Haftungsprivilegien für soziale Netzwerke. Google mahnt, diese zu erhalten, sonst drohe weitgehende Zensur.",
       "url": "https://www.heise.de/news/Google-und-Section-230-US-Gerichtsurteil-koennte-Internet-auf-den-Kopf-stellen-7459343.html"
-    },
-    {
-      "title": "Wie schütze ich meine Webanwendungen vor „bösen“ Bots?",
-      "teaser": "Bots können im Internet nützliche Dienste erfüllen. Sie können aber auch benutzt werden, um Schaden anzurichten, etwa indem sie gezielt Webanwendungen oder direkt APIs angreifen. Wir erklären Ihnen im Live-Webcast am 26.1., welche Gefahren drohen und wie Sie sich davor schützen können - mit Live-Demo!",
-      "url": "https://business-services.heise.de/security/bedrohungen-schwachstellen/beitrag/wie-schuetze-ich-meine-webanwendungen-vor-boesen-bots-inkl-live-demo-4466/?source=hbsad-ersatz"
     },
     {
       "title": "Zum Ende von Stadia: Google will Bluetooth im Spiele-Controller aktivieren",
@@ -328,21 +347,6 @@
       "title": "c’t Fotografie: Fotozubehör für Smartphones",
       "teaser": "Smartphone-Kameras sind leistungsstark und haben Kompaktkameras verdrängt. Mit dem richtigen Zubehör lassen sich die Alltagsbegleiter aber noch besser machen.",
       "url": "https://www.heise.de/news/c-t-Fotografie-Fotozubehoer-fuer-Smartphones-7455925.html"
-    },
-    {
-      "title": "Kommentar: eHealth bereitet in Deutschland immer Schmerzen – auch ohne Grund",
-      "teaser": "Seit kurzem müssen Betriebe elektronische Krankmeldungen verarbeiten. Endlich ein einfach nur erfolgreiches eHealth-Projekt? Zu schön, um wahr zu sein.",
-      "url": "https://www.heise.de/meinung/Kommentar-E-Health-bereitet-in-Deutschland-immer-Schmerzen-auch-ohne-Grund-7459081.html"
-    },
-    {
-      "title": "Frauen in der Tech-Branche | c’t uplink 46.6",
-      "teaser": "Diverse Teams sind erfolgreicher und dennoch gibt es in der Tech-Branche viel zu wenige Frauen. Der c’t uplink ergründet das Missverhältnis.",
-      "url": "https://www.heise.de/news/Frauen-in-der-Tech-Branche-c-t-uplink-46-6-7446004.html"
-    },
-    {
-      "title": "Schnäppchen: Bei welchen externen HDDs & SSDs das TByte unter 20 Euro kostet",
-      "teaser": "SSDs, HDDs oder große USB-Sticks: Externen Speicher gibt es in vielen Ausführungen. Wir zeigen, wo man den meisten Speicher für sein Geld bekommt.",
-      "url": "https://www.techstage.de/ratgeber/speicherschnaeppchen-bei-welchen-externe-festplatten-und-ssds-das-tbyte-unter-20-euro/wrnc6c3?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Paukenschlag: VDE fordert vereinfachte Regeln für Balkonkraftwerke",
