@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-16T07:11:43",
+  "timestamp": "2023-01-16T08:16:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Edge",
+      "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-hochriskante-Luecken-7459742.html"
+    },
+    {
       "title": "Control Web Panel/CentOS Web Panel",
       "url": "https://www.heise.de/news/Cyber-Attacken-auf-kritische-Luecke-in-Control-Web-Panel-7458440.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Sicherheitsluecke-in-SugarCRM-wird-ausgenutzt-7456805.html"
     },
     {
-      "title": "Cisco VPN-Router",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-bedroht-End-of-Life-Router-von-Cisco-7456480.html"
-    },
-    {
-      "title": "Windows: Verschwundene Start-Menüs und Taskbars sorgen für Verwirrung",
-      "teaser": "Windows-Anwender beschweren sich über verschwundene Funktionen. Anscheinend löscht Defender nach einem Update LNK-Dateien. Microsoft \"untersucht das Problem\".",
-      "url": "https://www.heise.de/news/Windows-Verschwundene-Start-Menues-und-Taskbars-sorgen-fuer-Verwirrung-7459051.html"
+      "title": "Webbrowser: Microsoft Edge-Update schließt hochriskante Lücken",
+      "teaser": "Microsoft hat in einem Update des Webbrowsers Edge Sicherheitslücken aus dem Chromium-Projekt abgedichtet. Sie schließt auch weitere hochriskante Lücken.",
+      "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-hochriskante-Luecken-7459742.html"
     },
     {
       "title": "Cyber-Attacken auf kritische Lücke in Control Web Panel",
@@ -86,6 +86,11 @@
       "title": "Wenn der Postmann gar nicht klingelt: Cyber-Angriff bei britischer Royal Mail",
       "teaser": "Der britische Post- und Logistikdienstleister Royal Mail ist Opfer eines Cyber-Angriffs geworden. Das stört dessen internationalen Post- und Warenverkehr.",
       "url": "https://www.heise.de/news/Wenn-der-Postmann-gar-nicht-klingelt-Cyber-Angriff-bei-britischer-Royal-Mail-7457130.html"
+    },
+    {
+      "title": "Fahrradbauer Prophete: Erste Details zum Cyber-Angriff",
+      "teaser": "Die Insolvenz der Prophete-Gruppe wurde schlussendlich durch einen Cyber-Angriff ausgelöst. Dies bestätigt der Insolvenzverwalter und nennt einige Details.",
+      "url": "https://www.heise.de/news/Fahrradbauer-Prophete-Erste-Details-zum-Cyber-Angriff-7457031.html"
     },
     {
       "title": "Jetzt aktualisieren! Sicherheitslücke in SugarCRM wird ausgenutzt",
@@ -145,11 +150,6 @@
       "teaser": "Das erste Update des Jahres hievt den Webbrowser Chrome auf Stand 109. Die Entwickler schließen darin 17 Schwachstellen, von denen einige hochriskant sind.",
       "url": "https://www.heise.de/news/Webbrowser-17-Sicherheitsluecken-in-Google-Chrome-gestopft-7455130.html",
       "image_title": "Google Chrome Update"
-    },
-    {
-      "title": "Schweizer Forscher: Threema hatte mehrere Schwachstellen",
-      "teaser": "Der Messenger Threema habe jahrelang eine veraltete Verschlüsselungstechnologie verwendet, sagen Forscher in der Schweiz.",
-      "url": "https://www.heise.de/news/Schweizer-Forscher-Threema-hatte-mehrere-Schwachstellen-7455113.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
