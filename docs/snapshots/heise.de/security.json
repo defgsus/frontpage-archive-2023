@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-16T09:12:39",
+  "timestamp": "2023-01-16T10:13:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d9c5bf858b0082d7f27d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.777b6b10ecce030ff872",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Cacti",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Viele-Cacti-Server-oeffentlich-erreichbar-und-verwundbar-7459904.html"
+    },
     {
       "title": "Microsoft Edge",
       "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-hochriskante-Luecken-7459742.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerkgeraete-mit-Junos-OS-via-DoS-Attacke-lahmlegen-7458133.html"
     },
     {
-      "title": "SugarCRM",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Sicherheitsluecke-in-SugarCRM-wird-ausgenutzt-7456805.html"
+      "title": "Jetzt patchen! Viele Cacti-Server öffentlich erreichbar und verwundbar",
+      "teaser": "Sicherheitsforscher stoßen auf tausende über das Internet erreichbare Server mit dem IT-Monitoring-Tool Cacti. Zahlreiche Instanzen wurden noch nicht gepatcht.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Viele-Cacti-Server-oeffentlich-erreichbar-und-verwundbar-7459904.html"
     },
     {
       "title": "Neuer iX-Workshop: Microsoft 365 Tenants sicher konfigurieren",
@@ -146,11 +151,6 @@
       "title": "DDoS-Angriffe: Webseiten dänischer Zentralbank und von Privatbanken lahmgelegt",
       "teaser": "Cyberkriminelle haben Zugriffe auf die Webseiten der dänischen Zentralbank sowie auf sieben Privatbanken mit DDoS-Attacken lahmgelegt.",
       "url": "https://www.heise.de/news/Cyber-Angriffe-auf-Webseiten-der-daenischen-Zentralbank-und-von-Privatbanken-7455330.html"
-    },
-    {
-      "title": "Patchday: Angreifer verschaffen sich unter Windows System-Rechte",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für unter anderem Exchange Server, Office und Windows veröffentlicht.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-verschaffen-sich-unter-Windows-System-Rechte-7455122.html"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
