@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-18T13:19:06",
+  "timestamp": "2023-01-18T14:11:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "MSI Motherboards",
+      "url": "https://www.heise.de/news/MSI-Motherboards-sollen-trotz-aktivem-Secure-Boot-manipulierte-Systeme-starten-7462913.html"
+    },
+    {
       "title": "Patchday Oracle",
       "url": "https://www.heise.de/news/Patchday-Sicherheitsluecken-in-ueber-100-Oracle-Produkten-7462438.html"
     },
@@ -44,10 +48,6 @@
       "url": "https://www.heise.de/news/Webbrowser-Firefox-109-bringt-Sicherheitsupdates-und-Manifest-V3-7462293.html"
     },
     {
-      "title": "InHand Networks InRouter",
-      "url": "https://www.heise.de/news/Industrie-Router-von-InHand-Angreifer-koennten-Geraete-in-der-Cloud-uebernehmen-7461724.html"
-    },
-    {
       "title": "Patchday: Sicherheitslücken in über 100 Oracle-Produkten",
       "teaser": "Das erste Oracle Critical Patch Update des Jahres 2023 liefert Beschreibungen und Updates für Sicherheitslücken in mehr als 100 Produkten des Unternehmens.",
       "url": "https://www.heise.de/news/Patchday-Sicherheitsluecken-in-ueber-100-Oracle-Produkten-7462438.html"
@@ -56,6 +56,11 @@
       "title": "Versionsverwaltung: Git schließt zwei kritische Lücken in Version 2.39",
       "teaser": "Sicherheitsforscher haben Lücken in Git entdeckt, durch die beliebiger Code ausgeführt werden konnte. Patches stehen bereit, Nutzer sollten umgehend updaten.",
       "url": "https://www.heise.de/news/Versionsverwaltung-Git-schliesst-zwei-kritische-Luecken-in-Version-2-39-7462680.html"
+    },
+    {
+      "title": "Jetzt patchen! Tausende Firewalls von Sophos angreifbar",
+      "teaser": "Sicherheitsforscher haben das Internet auf verwundbare Sophos-Firewalls gescannt und sind fündig geworden. Sicherheitspatches gibt es seit Dezember 2022.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Tausende-Firewalls-von-Sophos-angreifbar-7462565.html"
     },
     {
       "title": "Manifest V3 als Standard: Firefox 109 mit Sicherheitsupdates",
@@ -149,12 +154,6 @@
       "title": "Webbrowser: Microsoft Edge-Update schließt hochriskante Lücken",
       "teaser": "Microsoft hat in einem Update des Webbrowsers Edge Sicherheitslücken aus dem Chromium-Projekt abgedichtet. Sie schließt auch weitere hochriskante Lücken.",
       "url": "https://www.heise.de/news/Webbrowser-Microsoft-Edge-Update-schliesst-hochriskante-Luecken-7459742.html"
-    },
-    {
-      "title": "Europol hebt Kryptobetrüger-Netzwerk aus: Auch viele deutsche Opfer",
-      "teaser": "Europol hat eine Betrügerbande ausgehoben, die über Callcenter und Social Media Opfer zur Investition in angebliches Kryptogeld verleitete.",
-      "url": "https://www.heise.de/news/Viele-deutsche-Opfer-Europol-nimmt-Netzwerk-aus-Kryptobetruegern-hoch-7459173.html",
-      "image_title": "New,York,,Ny,,Usa,-,May,11,,2022:,An,Illustration"
     },
     {
       "title": "Zero Trust – die Sicherheitsarchitektur",
