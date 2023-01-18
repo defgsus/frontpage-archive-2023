@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-18T12:23:27",
+  "timestamp": "2023-01-18T13:19:05",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.b33a99e8.mjs",
       "id": null,
       "text": null
@@ -74,12 +80,6 @@
     {
       "type": "module",
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
       "id": null,
       "text": null
     }
@@ -90,10 +90,31 @@
       "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
     },
     {
+      "title": "Norwegen: Was wir über den desertierten Ex-Wagner-Söldner wissen",
+      "teaser": "Andrej Medwedew soll im Donbass für die Gruppe Wagner gekämpft haben. Bei Skrøytnes floh er über die russisch-norwegische Grenze. Wer ist der Mann?",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/wagner-soeldner-andrej-medwedew-norwegen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/andrej-medwedew-faq-bild/cinema__1000x428"
+    },
+    {
+      "title": "Liveblog: Ukraine-News: Britische Geheimdienste sehen Versorgung von Bachmut gefährdet",
+      "teaser": "Die russische Einnahme von Soledar erschwert der Ukraine die Versorgung ihrer Soldaten. Beobachter rechnen mit einer neuen Mobilisierungswelle in Russland. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-bild-37/cinema__980x420",
+      "image_title": "Ukraine-News: Britische Geheimdienste sehen Versorgung von Bachmut gefährdet"
+    },
+    {
+      "title": "Ukraine: Ukrainischer Innenminister bei Hubschrauberabsturz nahe Kiew getötet",
+      "teaser": "Nahe Kiew ist ein Helikopter mit der Leitung des ukrainischen Innenministeriums an Bord abgestürzt. 18 Menschen starben. Präsident Selenskyj sprach von einer \"Tragödie\".",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/ukrainischer-innenminister-bei-hubschrauberabsturz-nahe-kiew-getoetet",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-bild-35/cinema__980x420",
+      "image_title": "Ukraine: Ukrainischer Innenminister bei Hubschrauberabsturz nahe Kiew getötet"
+    },
+    {
       "title": "Kohleausstieg: RWE will offenbar auch nach 2030 Kohle verfeuern",
       "teaser": "Der Energiekonzern plant mit einer Reserve von rund 50 Millionen Tonnen Braunkohle für seine Kraftwerke. Der vorgezogene Kohleausstieg wäre damit nutzlos.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/rwe-kohleausstieg-2030-braunkohle-foerderung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/rwe-kohleausstieg-2030-braunkohle-foerderung-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/rwe-kohleausstieg-2030-braunkohle-foerderung-bild/wide__822x462",
+      "image_title": "Kohleausstieg: RWE will offenbar auch nach 2030 Kohle verfeuern"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klimabewegung: Am Kipppunkt",
@@ -101,20 +122,6 @@
       "url": "https://www.zeit.de/2023/04/luetzerath-protest-klimaaktivisten-gruene",
       "image_url": "https://img.zeit.de/2023/04/luetzerath-protest-klimaaktivisten-gruene-teaser/wide__822x462",
       "image_title": "Klimabewegung: Am Kipppunkt"
-    },
-    {
-      "title": "Ukraine: Ukrainischer Innenminister bei Hubschrauberabsturz nahe Kiew getötet",
-      "teaser": "Nahe Kiew ist ein Helikopter mit der Leitung des ukrainischen Innenministeriums an Bord abgestürzt. 18 Menschen starben. Präsident Selenskyj sprach von einer \"Tragödie\".",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/ukrainischer-innenminister-bei-hubschrauberabsturz-nahe-kiew-getoetet",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-bild-35/wide__822x462",
-      "image_title": "Ukraine: Ukrainischer Innenminister bei Hubschrauberabsturz nahe Kiew getötet"
-    },
-    {
-      "title": "Liveblog: Ukraine-News: Britische Geheimdienste sehen Versorgung von Bachmut gefährdet",
-      "teaser": "Die russische Einnahme von Soledar erschwert der Ukraine die Versorgung ihrer Soldaten. Beobachter rechnen mit einer neuen Mobilisierungswelle in Russland. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-bild-37/wide__822x462",
-      "image_title": "Ukraine-News: Britische Geheimdienste sehen Versorgung von Bachmut gefährdet"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); IT-Sicherheit an Hochschulen: Wenn Hacker Noten ändern können",
@@ -138,6 +145,27 @@
       "image_title": "Florian Teichtmeister: Schuld und Unschuldsvermutung"
     },
     {
+      "title": "Kino: Bekannte Castingdirektorin Simone Bär ist tot",
+      "teaser": "Sie besetzte die Serie \"Babylon Berlin\" und arbeitete mit Regisseuren wie Quentin Tarantino und Christian Petzold zusammen. Jetzt ist Simone Bär mit 57 Jahren gestorben.",
+      "url": "https://www.zeit.de/kultur/film/2023-01/castingdirektorin-simone-baer-tot",
+      "image_url": "https://img.zeit.de/kultur/film/2023-01/simone-baer-tot-bild/wide__822x462",
+      "image_title": "Kino: Bekannte Castingdirektorin Simone Bär ist tot"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Babylon – Rausch der Ekstase\": Früher war mehr Party",
+      "teaser": "Der Regisseur Damien Chazelle, der in \"La La Land\" Hollywood besingen ließ, trauert in seinem neuen Film \"Babylon\" der alten Traumfabrik nach. Ach, schöne Stummfilmzeit!",
+      "url": "https://www.zeit.de/2023/04/babylon-rausch-ekstase-hollywood-damien-chazelle",
+      "image_url": "https://img.zeit.de/2023/04/frueher-war-mehr-party-bild-1/cinema__980x420",
+      "image_title": "\"Babylon – Rausch der Ekstase\": Früher war mehr Party"
+    },
+    {
+      "title": "Automobilbranche: Autoverkäufe in der EU sinken auf tiefsten Stand seit knapp 30 Jahren",
+      "teaser": "Trotz zuletzt starker Verkaufszahlen: 2022 wurden in der EU so wenige Pkw zugelassen wie seit 1993 nicht mehr. Und die Aussichten für die Industrie sind wenig besser.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/pkw-neuzulassungen-eu-autobranche-europa",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-01/pkw-neuzulassungen-eu-autobranche-europa-bild/wide__822x462",
+      "image_title": "Automobilbranche: Autoverkäufe in der EU sinken auf tiefsten Stand seit knapp 30 Jahren"
+    },
+    {
       "title": "US-Repräsentantenhaus: Republikaner wollen rechte Abgeordnete in Kontrollausschuss schicken",
       "teaser": "Dem Kontrollausschuss des US-Repräsentantenhauses sollen künftig Hardliner der Republikaner angehören. Einen der Posten soll Marjorie Taylor Greene bekommen.",
       "url": "https://www.zeit.de/politik/ausland/2023-01/usa-repraesentantenhaus-kontrollausschuss-rechte-abgeordnete-marjorie-taylor-greene",
@@ -157,13 +185,6 @@
       "url": "https://www.zeit.de/gesellschaft/2023-01/bundesanwaltschaft-anklage-schuesse-polizisten-boxberg-baden-wuerttemberg",
       "image_url": "https://img.zeit.de/gesellschaft/2023-01/bundesanwaltschaft-anklage-schuesse-polizisten-boxberg-baden-wuerttemberg-bild/wide__822x462",
       "image_title": "Boxberg: Bundesanwalt erhebt Anklage gegen mutmaßlichen Reichsbürger"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dresdner Juwelendiebstahl: Noch eine Nase Koks",
-      "teaser": "Drei von vier Angeklagten im Prozess um den Juwelendiebstahl im Grünen Gewölbe haben Geständnisse abgelegt. Wo der noch vermisste Teil der Beute ist, sagten sie nicht.",
-      "url": "https://www.zeit.de/2023/04/dresden-juwelendiebstahl-gruenes-gewoelbe-gestaendnis",
-      "image_url": "https://img.zeit.de/2023/04/dresden-juwelendiebstahl-gruenes-gewoelbe-teaser/cinema__980x420",
-      "image_title": "Dresdner Juwelendiebstahl: Noch eine Nase Koks"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wahlrechtsreform: Wer heute nicht im Bundestag säße",
@@ -201,17 +222,17 @@
       "image_title": "Römische Pastavariationen: Einfach, großartig"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Filme und Serien: Willkommen im Biedermeier-Multiversum",
-      "teaser": "Marvel, \"Star Wars\" oder \"Die Ringe der Macht\": Filme und Serien werden immer epischer. Warum kommen einem diese fantastischen Welten dennoch leer und unbedeutend vor?",
-      "url": "https://www.zeit.de/kultur/film/2023-01/film-serien-blockbuster-worldbuilding-geschichten",
-      "image_url": "https://img.zeit.de/kultur/film/2023-01/multiversen-essay-dr-strange/wide__822x462",
-      "image_title": "Filme und Serien: Willkommen im Biedermeier-Multiversum"
+      "title": "Z+ (abopflichtiger Inhalt); Dresdner Juwelendiebstahl: Noch eine Nase Koks",
+      "teaser": "Drei von vier Angeklagten im Prozess um den Juwelendiebstahl im Grünen Gewölbe haben Geständnisse abgelegt. Wo der noch vermisste Teil der Beute ist, sagten sie nicht.",
+      "url": "https://www.zeit.de/2023/04/dresden-juwelendiebstahl-gruenes-gewoelbe-gestaendnis",
+      "image_url": "https://img.zeit.de/2023/04/dresden-juwelendiebstahl-gruenes-gewoelbe-teaser/wide__822x462",
+      "image_title": "Dresdner Juwelendiebstahl: Noch eine Nase Koks"
     },
     {
       "title": "Corona in China: Gestern Null-Covid, heute Null-Vorsicht",
       "teaser": "Chinas Führung sucht ein Narrativ für das jähe Ende von Null-Covid. Die Propaganda setzt auf Bewährtes: Optimismus ausstrahlen, Fehler verschweigen, Sündenböcke finden.",
       "url": "https://www.zeit.de/politik/ausland/2023-01/corona-china-null-covid-politik-kehrtwende-kommunikation-propaganda",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/hangzhou/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-01/corona-china-null-covid-politik-kehrtwende-kommunikation-propaganda-bild/cinema__980x420",
       "image_title": "Corona in China: Gestern Null-Covid, heute Null-Vorsicht"
     },
     {
@@ -306,10 +327,17 @@
       "url": "https://www.zeit.de/gesellschaft/schule/2023-01/deutsches-schulbarometer-schulen-personalmangel-robert-bosch-stiftung"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Filme und Serien: Willkommen im Biedermeier-Multiversum",
+      "teaser": "Marvel, \"Star Wars\" oder \"Die Ringe der Macht\": Filme und Serien werden immer epischer. Warum kommen einem diese fantastischen Welten dennoch leer und unbedeutend vor?",
+      "url": "https://www.zeit.de/kultur/film/2023-01/film-serien-blockbuster-worldbuilding-geschichten",
+      "image_url": "https://img.zeit.de/kultur/film/2023-01/multiversen-essay-dr-strange/cinema__980x420",
+      "image_title": "Filme und Serien: Willkommen im Biedermeier-Multiversum"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Römisch-deutsche Dynastien: Die Macht der Familie",
       "teaser": "Weil den römisch-deutschen Kaisern oft ein männlicher Nachkomme fehlt, wird das Reich zur Wahlmonarchie. Trotzdem bleibt die Krone in der Hand einiger weniger Dynastien.",
       "url": "https://www.zeit.de/zeit-geschichte/2022/06/roemisch-deutsche-dynastien-erfolge-herrschaftsfamilien",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2022/06/roemisch-deutsche-dynastien-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2022/06/roemisch-deutsche-dynastien-teaser/wide__822x462",
       "image_title": "Römisch-deutsche Dynastien: Die Macht der Familie"
     },
     {
@@ -318,13 +346,6 @@
       "url": "https://www.zeit.de/arbeit/2023-01/remote-arbeiten-ausland-wohnung",
       "image_url": "https://img.zeit.de/arbeit/2023-01/workation/wide__822x462",
       "image_title": "Remote arbeiten: \"Auf Teneriffa muss ich nicht heizen\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hamburg-Eimsbüttel: Die Spur der Steine",
-      "teaser": "In Hamburg stehen neuerdings lauter graue Betonklötze herum. Ohne Erklärung, einfach so. Was steckt dahinter?",
-      "url": "https://www.zeit.de/hamburg/2023-01/hamburg-eimsbuettel-kay-becker-meilensteine-landschaftsachse",
-      "image_url": "https://img.zeit.de/hamburg/2023-01/park/wide__822x462",
-      "image_title": "Hamburg-Eimsbüttel: Die Spur der Steine"
     },
     {
       "title": "Verlagsangebot: Diese zehn Klassiker der Weltliteratur sollten Sie gelesen haben",
@@ -406,11 +427,11 @@
       "image_title": "SOS-Kinderdörfer: 160 Hinweise auf Gewalt und Missbrauch in SOS-Kinderdörfern"
     },
     {
-      "title": "AnzeigePersonalnot: Lehrer können Schüler nicht mehr ausreichend unterstützen",
-      "teaser": "In vielen Schulen ist das bereits jetzt der Fall – das und vieles mehr offenbaren die Ergebnisse des Deutschen Schulbarometers der Robert Bosch Stiftung.",
-      "url": "https://deutsches-schulportal.de/bildungswesen/herausforderungen-schulleitung-umfrage-deutsches-schulbarometer-november-2022/?=dis.int.tc.zeitde.Bildungswesen.zeitde.bild_text_teaser_startseite.Bildungswesen.x&utm_medium=dis&utm_source=zeitde_tc_int&utm_campaign=Bildungswesen&utm_content=zeitde_bild_text_teaser_startseite_Bildungswesen_x",
-      "image_url": "https://img.zeit.de/angebote/Links/das-deutsche-schulportal/bilder-2023/ddsp-januar-2023-2-homepage/wide__822x462",
-      "image_title": "Personalnot: Lehrer können Schüler nicht mehr ausreichend unterstützen"
+      "title": "AnzeigeKommunizieren Sie so, dass sie auch wirklich gehört werden",
+      "teaser": "Mit dem kostenlosen E-Mail-Kurs »Wirkungsvoll kommunizieren« von der ZEIT Akademie starten Sie drei Wochen lang jeden Montag mit einem kurzen Impuls in die Woche.",
+      "url": "https://www.zeitakademie.de/e-mail-kurs-kommunikation?utm_source=zon&utm_medium=zon&utm_campaign=emailkurs_kommunikation&utm_content=gehoert-werden",
+      "image_url": "https://img.zeit.de/angebote/Links/Bilder/akademie/bilder-2022/zak-kommunikation-3/wide__822x462",
+      "image_title": "Kommunizieren Sie so, dass sie auch wirklich gehört werden"
     },
     {
       "title": "Intel in Magdeburg: \"Eine Chipfabrik mit diesen Strompreisen ist nicht wettbewerbsfähig\"",
@@ -512,7 +533,7 @@
     },
     {
       "title": "Foodwatch: Nutztiere leiden auf Biohöfen ebenso wie in konventionellen Betrieben",
-      "teaser": "Ob Maststall oder Biohof ist nicht entscheidend, wenn es um die Gesundheit der Tiere geht. Verbraucherschützer halten das geplante Tierwohllabel deshalb für irreführend. 245 Kommentare",
+      "teaser": "Ob Maststall oder Biohof ist nicht entscheidend, wenn es um die Gesundheit der Tiere geht. Verbraucherschützer halten das geplante Tierwohllabel deshalb für irreführend. 250 Kommentare",
       "url": "https://www.zeit.de/wissen/2023-01/nutztiere-biohoefe-foodwatch-tierschutz",
       "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/nutztiere-bio-hoefe-konventionelle-betriebe/cinema__980x420",
       "image_title": "Foodwatch: Nutztiere leiden auf Biohöfen ebenso wie in konventionellen Betrieben"
@@ -575,10 +596,17 @@
       "image_title": "Verarbeitung der Geburt: Wenn Väter die Geburt ihres Kindes als Trauma erleben"
     },
     {
+      "title": "Davos 2023: Facebook will Sperre für Donald Trump offenbar aufheben",
+      "teaser": "Für zwei Jahre hatten Facebook und Instagram die Accounts von Ex-Präsident Donald Trump gesperrt. Nun könnte er womöglich bald auf die Plattformen zurückkehren.",
+      "url": "https://www.zeit.de/digital/internet/2023-01/facebook-instagram-sperre-donald-trump-davos",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/usa-donald-trump-facebook-bild/cinema__980x420",
+      "image_title": "Davos 2023: Facebook will Sperre für Donald Trump offenbar aufheben"
+    },
+    {
       "title": "Social Media: Sind die sozialen Medien noch zu retten?",
       "teaser": "Intransparent, willkürlich, machtzentriert: Soziale Medien wie Facebook und Twitter bringen viele Probleme. Kann man die lösen? Ja! Drei Experten erklären, wie.",
       "url": "https://www.zeit.de/digital/internet/2023-01/social-media-algorithmen-transparenz-gefahren",
-      "image_url": "https://img.zeit.de/digital/internet/2023-01/social-media-algorithmen-transparenz-gefahren-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/digital/internet/2023-01/social-media-algorithmen-transparenz-gefahren-bild/wide__822x462",
       "image_title": "Social Media: Sind die sozialen Medien noch zu retten?"
     },
     {
@@ -587,13 +615,6 @@
       "url": "https://www.zeit.de/digital/2023-01/microsoft-chatgpt-ki-software-cloud",
       "image_url": "https://img.zeit.de/digital/2023-01/microsoft-chatgpt-ki-software-cloud-bild-2/wide__822x462",
       "image_title": "KI-Chatbot: Microsoft will ChatGPT in seine Cloud-Dienste übernehmen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Übersetzer DeepL: Wirklich besser als Google?",
-      "teaser": "Das deutsche Start-up DeepL hatte die richtigen Daten zur richtigen Zeit. Seit Kurzem ist der KI-Übersetzer eine Milliarde Euro wert. Doch die Konkurrenz holt auf.",
-      "url": "https://www.zeit.de/digital/2023-01/deepl-uebersetzer-google-translate-ki",
-      "image_url": "https://img.zeit.de/digital/2023-01/deepl-uebersetzer-google/wide__822x462",
-      "image_title": "Übersetzer DeepL: Wirklich besser als Google?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Andy Engel: Erkrankt, geheilt, tätowiert",
@@ -652,11 +673,11 @@
       "image_title": "Wolodymyr Selenskyj: \"Habt keine Angst, nach vorne zu schreiten\""
     },
     {
-      "title": "Verlagsangebot Welcher Studiengang passt zu mir?",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.bildtext.allein.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=campus-verlagsteaser&amp;utm_content=sit_bildtext_allein_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-gruppe/wide__350x197__desktop",
-      "image_title": "Welcher Studiengang passt zu mir?"
+      "title": "Verlagsangebot Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vape: Schmeckt nach Raspberry Watermelon, ist gefährlich",
@@ -687,11 +708,11 @@
       "image_title": "Tierhaltung: Der Zoo der Zukunft"
     },
     {
-      "title": "AnzeigeKulturexpeditionen mit ZEIT REISEN",
-      "teaser": "Kommen Sie mit nach Europa, Südamerika und rund um die halbe Welt. Ungewöhnliche Themen, weit gespanntes Wissen und großartige ZEIT-Ideen erwartet Sie. Hier entdecken!",
-      "url": "https://zeitreisen.zeit.de/das-grosse-abenteuer-zeit-kulturexpeditionen/?utm_medium=display&utm_source=zeit_online&utm_campaign=rotation_kulturexpeditionen_blog&utm_content=rotation_kulturexpeditionen_blog",
-      "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2023/ecuador-quito-nacht-c-ammit-jack-shutterstock-77660701-standardlizenz-1160x656/wide__822x462",
-      "image_title": "Kulturexpeditionen mit ZEIT REISEN"
+      "title": "AnzeigeReiseinspiration mit dem ZEIT REISEN-Newsletter",
+      "teaser": "Entdecken Sie die großartigen Orte der Welt auf inspirierenden ZEIT-Reisen. Mit dem unserem Reise-Newsletter lernen Sie unsere Ziele kennen! Jetzt kostenlos bestellen!",
+      "url": "https://zeitreisen.zeit.de/newsletter/?utm_medium=display&utm_source=zeit_online&utm_campaign=rotation_bestellung-newsletter&utm_content=rotation_bestellung-newsletter",
+      "image_url": "https://img.zeit.de/angebote/Links/bilder-zeit-reisen/bilder-2022/nl-registrierung/wide__822x462",
+      "image_title": "Reiseinspiration mit dem ZEIT REISEN-Newsletter"
     },
     {
       "title": "Fahrradbranche: Das Ende des Fahrradbooms?",
@@ -715,18 +736,18 @@
       "image_title": "Frankreich: Bürger von Paris dürfen über E-Scooter-Verbot abstimmen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Hamburg-Eimsbüttel: Die Spur der Steine",
+      "teaser": "In Hamburg stehen neuerdings lauter graue Betonklötze herum. Ohne Erklärung, einfach so. Was steckt dahinter?",
+      "url": "https://www.zeit.de/hamburg/2023-01/hamburg-eimsbuettel-kay-becker-meilensteine-landschaftsachse",
+      "image_url": "https://img.zeit.de/hamburg/2023-01/park/wide__822x462",
+      "image_title": "Hamburg-Eimsbüttel: Die Spur der Steine"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Stefan Hensel: \"Wir diskutieren nicht mit Leuten, die uns als Schweine darstellen\"",
       "teaser": "Hamburgs Antisemitismusbeauftragter hält die Gastprofessuren zweier ruangrupa-Mitglieder an der Hochschule für bildende Künste für untragbar. Im Interview sagt er, warum.",
       "url": "https://www.zeit.de/hamburg/2023-01/stefan-hensel-antisemitismus-ruangrupa-kunst",
       "image_url": "https://img.zeit.de/hamburg/2023-01/stefan-hensel-antisemitismus-ruangrupa-kunst-portrait/wide__822x462",
       "image_title": "Stefan Hensel: \"Wir diskutieren nicht mit Leuten, die uns als Schweine darstellen\""
-    },
-    {
-      "title": "Z+ (registrierungspflichtiger Inhalt); Lila Valadan: Die höchste Form der Verknüpfung",
-      "teaser": "Lila Valadan ist im Iran aufgewachsen und wollte Chemie studieren, doch dann stand ein Hamburger Teppichhändler vor ihr. Heute ist sie als Designerin weltberühmt.",
-      "url": "https://www.zeit.de/2023/01/lila-valadan-hamburg-teppich-design",
-      "image_url": "https://img.zeit.de/2023/01/die-hoechste-form-der-verknuepfung-bild-1/wide__822x462",
-      "image_title": "Lila Valadan: Die höchste Form der Verknüpfung"
     },
     {
       "title": "Handball-WM: Deutsche Handballer schlagen Algerien deutlich",
@@ -799,36 +820,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Migrationspolitik: Initiativen fordern Verbesserungen bei Ausländerbehörden",
-      "url": "https://www.zeit.de/news/2023-01/18/initiativen-fordern-verbesserungen-bei-auslaenderbehoerden"
+      "title": "Unternehmen: Firmen können Energie-Härtefallhilfen ab Februar beantragen",
+      "url": "https://www.zeit.de/news/2023-01/18/firmen-koennen-energie-haertefallhilfen-ab-februar-beantragen"
     },
     {
-      "title": "Wirtschaft: Nächstes VW-Batteriezellwerk: Produktion in Spanien ab 2026",
-      "url": "https://www.zeit.de/news/2023-01/18/naechstes-vw-batteriezellwerk-produktion-in-spanien-ab-2026"
+      "title": "Australien: Beutelmarder auf Tour - 2800 Kilometer in einer Kürbiskiste",
+      "url": "https://www.zeit.de/news/2023-01/18/beutelmarder-auf-tour-2800-kilometer-in-einer-kuerbiskiste"
     },
     {
-      "title": "Einzelhandel: Galeria: Mehrere Interessenten für Warenhausfilialen",
-      "url": "https://www.zeit.de/news/2023-01/18/galeria-mehrere-interessenten-fuer-warenhausfilialen"
+      "title": "Wirtschaft: Krombacher steigert Bierabsatz: Schweppes gewinnt hinzu",
+      "url": "https://www.zeit.de/news/2023-01/18/krombacher-steigert-bierabsatz-schweppes-gewinnt-hinzu"
     },
     {
-      "title": "Ministerpräsident: Söder: Wahlziel der CSU ist stabile Regierung",
-      "url": "https://www.zeit.de/news/2023-01/18/soeder-wahlziel-der-csu-ist-stabile-regierung"
+      "title": "Zweites Pandemiejahr: Statistik: Covid-19 war 2021 häufigste Todesursache",
+      "url": "https://www.zeit.de/news/2023-01/18/statistik-covid-19-war-2021-haeufigste-todesursache"
     },
     {
-      "title": "Verkehr: Stadt Augsburg lässt Carsharing-Fahrzeuge kostenlos parken",
-      "url": "https://www.zeit.de/news/2023-01/18/stadt-augsburg-laesst-carsharing-fahrzeuge-kostenlos-parken"
+      "title": "Industie und Handel: Werkbank: IHK-Regionalmonitor vergleicht Kommunen",
+      "url": "https://www.zeit.de/news/2023-01/18/werkbank-ihk-regionalmonitor-vergleicht-kommunen"
     },
     {
-      "title": "Landkreis Leipzig: 63-jähriger Radfahrer stirbt bei Unfall in Wurzen",
-      "url": "https://www.zeit.de/news/2023-01/18/63-jaehriger-radfahrer-stirbt-bei-unfall-in-wurzen"
+      "title": "Biberach: Unfall an Kreuzung: Fußgänger lebensgefährlich verletzt",
+      "url": "https://www.zeit.de/news/2023-01/18/unfall-an-kreuzung-fussgaenger-lebensgefaehrlich-verletzt"
     },
     {
-      "title": "Landtag: Findungsgruppe der CDU legt Vorschlag für Vorsitz vor",
-      "url": "https://www.zeit.de/news/2023-01/18/findungsgruppe-der-cdu-legt-vorschlag-fuer-vorsitz-vor"
+      "title": "Photovoltaik: Grüne beklagen zu zögerlichen Ausbau von Solarstrom in MV",
+      "url": "https://www.zeit.de/news/2023-01/18/gruene-beklagen-zu-zoegerlichen-ausbau-von-solarstrom-in-mv"
     },
     {
-      "title": "Verkehr: Geblitzte haben Anspruch auf Einsicht in Wartungsnachweise",
-      "url": "https://www.zeit.de/news/2023-01/18/geblitzte-haben-anspruch-auf-einsicht-in-wartungsnachweise"
+      "title": "Immobilienbesitz: Städte- und Gemeindetag fürchtet Streit bei Grundsteuer",
+      "url": "https://www.zeit.de/news/2023-01/18/staedte-und-gemeindetag-fuerchtet-streit-bei-grundsteuer"
     }
   ]
 }
