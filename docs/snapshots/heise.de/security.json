@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-18T11:10:12",
+  "timestamp": "2023-01-18T12:23:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Patchday Oracle",
+      "url": "https://www.heise.de/news/Patchday-Sicherheitsluecken-in-ueber-100-Oracle-Produkten-7462438.html"
+    },
+    {
+      "title": "Sophos Firewalls",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Tausende-Firewalls-von-Sophos-angreifbar-7462565.html"
+    },
+    {
       "title": "Firefox",
       "url": "https://www.heise.de/news/Webbrowser-Firefox-109-bringt-Sicherheitsupdates-und-Manifest-V3-7462293.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Industrie-Router-von-InHand-Angreifer-koennten-Geraete-in-der-Cloud-uebernehmen-7461724.html"
     },
     {
-      "title": "Zoho ManageEngine",
-      "url": "https://www.heise.de/news/Attacken-auf-kritische-Luecke-in-ManageEngine-Produkte-von-Zoho-bald-moeglich-7461118.html"
+      "title": "Patchday: Sicherheitslücken in über 100 Oracle-Produkten",
+      "teaser": "Das erste Oracle Critical Patch Update des Jahres 2023 liefert Beschreibungen und Updates für Sicherheitslücken in mehr als 100 Produkten des Unternehmens.",
+      "url": "https://www.heise.de/news/Patchday-Sicherheitsluecken-in-ueber-100-Oracle-Produkten-7462438.html"
     },
     {
-      "title": "NortonLifeLock",
-      "url": "https://www.heise.de/news/NortonLifeLock-Hersteller-warnt-vor-potenziell-geknackten-Passwortmanagern-7459886.html"
+      "title": "Versionsverwaltung: Git schließt zwei kritische Lücken in Version 2.39",
+      "teaser": "Sicherheitsforscher haben Lücken in Git entdeckt, durch die beliebiger Code ausgeführt werden konnte. Patches stehen bereit, Nutzer sollten umgehend updaten.",
+      "url": "https://www.heise.de/news/Versionsverwaltung-Git-schliesst-zwei-kritische-Luecken-in-Version-2-39-7462680.html"
     },
     {
       "title": "Manifest V3 als Standard: Firefox 109 mit Sicherheitsupdates",
@@ -68,6 +78,11 @@
       "teaser": "Die Daten aus dem Cyber-Angriff auf die Uni Duisburg-Essen wurden im Darknet veröffentlicht. Derweil hat die Uni Innsbruck eine Attacke am Wochenende abgewehrt.",
       "url": "https://www.heise.de/news/Ransomware-Daten-von-Uni-Duisburg-Essen-im-Darknet-Uni-Innsbruck-attackiert-7461603.html",
       "image_title": "Netzwerk, Globus, Vernetzung"
+    },
+    {
+      "title": "Sicherheitsforscher lassen KI GPT-3 überzeugende Phishing-Mails schreiben",
+      "teaser": "Wie viele andere Werkzeuge können Kriminelle auch künstliche Intelligenz missbrauchen. Forscher demonstrieren das nun am Sprachverarbeitungsmodell GPT-3.",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-lassen-KI-GPT-3-ueberzeugende-Phishing-Mails-schreiben-7461383.html"
     },
     {
       "title": "iX-Workshop: Sichere Unternehmens-IT mit Zero Trust (jetzt noch mit 10% Rabatt)",
@@ -142,21 +157,6 @@
       "image_title": "New,York,,Ny,,Usa,-,May,11,,2022:,An,Illustration"
     },
     {
-      "title": "Windows: Verschwundene Start-Menüs und Taskbars sorgen für Verwirrung",
-      "teaser": "Windows-Anwender beschweren sich über verschwundene Funktionen. Defender löschte nach einem Update LNK-Dateien. Microsoft stellt ein Korrekturskript bereit.",
-      "url": "https://www.heise.de/news/Windows-Verschwundene-Start-Menues-und-Taskbars-sorgen-fuer-Verwirrung-7459051.html"
-    },
-    {
-      "title": "Cyber-Attacken auf kritische Lücke in Control Web Panel",
-      "teaser": "Cyberkriminelle greifen eine kritische Sicherheitslücke in CWP (Control Web Panel, ehemals CentOS Web Panel) an. Sie kompromittieren die verwundbaren Systeme.",
-      "url": "https://www.heise.de/news/Cyber-Attacken-auf-kritische-Luecke-in-Control-Web-Panel-7458440.html"
-    },
-    {
-      "title": "Die Webinar-Serie von Heise: Ethical Hacking für Admins 2023",
-      "teaser": "In fünf Online-Trainings, vom 23. Februar bis 30. März, lernen Interessierte das Handwerk des Penetration Testers – jetzt zum aktualisierten Webinar anmelden.",
-      "url": "https://www.heise.de/news/Die-Webinar-Serie-von-Heise-Ethical-Hacking-fuer-Admins-2023-7449308.html"
-    },
-    {
       "title": "Zero Trust – die Sicherheitsarchitektur",
       "teaser": "Das Webinar erklärt grundlegende Zero-Trust-Konzepte: Welche Rolle nehmen konkrete Maßnahmen wie Mikrosegmentierung, Conditional Access, TLS-Verschlüsselung darin ein und welche relevanten Produktkategorien ergeben sich daraus? Optimieren Sie Ihre eigene IT-Infrastruktur.",
       "url": "https://webinare.heise.de/zero-trust/?wt_mc=intern.academy.security.web_zero_trust.teaser.link.link"
@@ -180,7 +180,7 @@
     {
       "title": "Re: Bildschrimauflösung bei Intel UHD 770",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Bildschrimaufloesung-bei-Intel-UHD-770/posting-42157058/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Bildschrimaufloesung-bei-Intel-UHD-770/posting-42157637/show/"
     },
     {
       "title": "Re: ESET Update hängt sich auf",
