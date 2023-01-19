@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-19T15:13:54",
+  "timestamp": "2023-01-19T16:17:03",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
       "id": null,
       "text": null
@@ -84,17 +90,11 @@
       "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
     },
     {
-      "title": "Jacinda Ardern: Schneller als der Burnout",
-      "teaser": "Jacinda Ardern tritt als neuseeländische Regierungschefin zurück, weil sie keine Energie mehr hat. Alle Überarbeiteten sollten sich an ihr ein Vorbild nehmen.",
-      "url": "https://www.zeit.de/arbeit/2023-01/jacinda-arder-neuseeland-premierministerin-ruecktritt",
-      "image_url": "https://img.zeit.de/arbeit/2023-01/jacinda-arder-neuseeland-premierministerin-ruecktritt-bild/cinema__980x420"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Bürgerdialog in Illerkirchberg: \"Ich verstehe alle Kinder, die Angst haben\"",
-      "teaser": "In Illerkirchberg sollte ein Bürgerdialog den Mord an der 14-jährigen Ece S. aufarbeiten. Im Saal bricht sich der Hass Bahn. Doch dann erhebt sich der Vater des Mädchens.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/illerkirchberg-mord-buergerdialog-ece-s-vater",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-01/illerkirchberg-buergerdiolog/wide__822x462",
-      "image_title": "Bürgerdialog in Illerkirchberg: \"Ich verstehe alle Kinder, die Angst haben\""
+      "title": "Z+ (abopflichtiger Inhalt); Boris Pistorius: Er spricht schon wie der Kanzler",
+      "teaser": "Der neue Verteidigungsminister Pistorius überzeugt gleich an seinem ersten Tag mit Fachwissen. Bei den Waffenlieferungen deutet sich ein möglicher Kompromiss an.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-01/boris-pistorius-verteidigungsminister-leopard-kampfpanzer-lieferung-ukraine",
+      "image_url": "https://img.zeit.de/politik/2023-01/boris-pistorius-verteidigungsminister-bild/cinema__980x420",
+      "image_title": "boris-pistorius-verteidigungsminister-bild"
     },
     {
       "title": "Liveblog: Ukraine-News: EU-Parlament fordert Sondertribunal für russische Kriegsverbrechen",
@@ -111,32 +111,46 @@
       "image_title": "Krim: Russland warnt USA und Ukraine vor Änderung der Krim-Strategie"
     },
     {
+      "title": "Nachrichtenpodcast: Keine Schonfrist für den neuen Verteidigungsminister",
+      "teaser": "Kurz nach seiner Vereidigung hat Boris Pistorius seinen US-Amtskollegen Austin empfangen – dabei ging es auch um weitere Militärhilfen für die Und: Streik in Frankreich",
+      "url": "https://www.zeit.de/politik/2023-01/boris-pistorius-verteidigungsminister-ramstein-treffen-2023-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Keine Schonfrist für den neuen Verteidigungsminister"
+    },
+    {
+      "title": "Klimaaktivismus: Die neue Mitte",
+      "teaser": "Ist die Klimabewegung tatsächlich an einem toten Punkt? Im Gegenteil. Die Proteste von Lützerath haben Bürgerlichkeit und zivilen Ungehorsam zusammengebracht.",
+      "url": "https://www.zeit.de/gesellschaft/2023-01/klimaaktivismus-luetzerath-greta-thunberg-luisa-neubauer-klimabewegung",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/klimaaktivismus-luetzerath-greta-thunberg/cinema__980x420",
+      "image_title": "Klimaaktivismus: Die neue Mitte"
+    },
+    {
+      "title": "Jacinda Ardern: Schneller als der Burnout",
+      "teaser": "Jacinda Ardern tritt als neuseeländische Regierungschefin zurück, weil sie keine Energie mehr hat. Führungskräfte sollten sich an ihr ein Vorbild nehmen.",
+      "url": "https://www.zeit.de/arbeit/2023-01/jacinda-arder-neuseeland-premierministerin-ruecktritt",
+      "image_url": "https://img.zeit.de/arbeit/2023-01/jacinda-arder-neuseeland-premierministerin-ruecktritt-bild/wide__822x462",
+      "image_title": "Jacinda Ardern: Schneller als der Burnout"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Norbert Elgert: \"Das haben wir in Deutschland gewaltig übertrieben!\"",
       "teaser": "Norbert Elgert gilt als erfolgreichster Jugendtrainer des Landes. Er erklärt, was im Nachwuchsfußball schiefläuft und den Unterschied zwischen Trainer und Coach.",
       "url": "https://www.zeit.de/sport/2023-01/norbert-elgert-nachwuchsfussball-trainer-schalke",
-      "image_url": "https://img.zeit.de/sport/2023-01/elgert-interview-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2023-01/elgert-interview-2/wide__822x462",
       "image_title": "Norbert Elgert: \"Das haben wir in Deutschland gewaltig übertrieben!\""
     },
     {
-      "title": "Europäische Zentralbank: Christine Lagarde sieht Inflation weiter als \"viel zu hoch\"",
-      "teaser": "Trotz des leichten Rückgangs der Inflation spricht sich die EZB-Präsidentin erneut für weitere Zinserhöhungen aus. Die Notenbank müsse weiter \"auf Kurs\" bleiben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/inflation-europaeische-zentralbank-ezb-christine-lagarde-davos",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/inflation-europaeische-zentralbank-ezb-christine-lagarde-bild/wide__822x462",
-      "image_title": "Europäische Zentralbank: Christine Lagarde sieht Inflation weiter als \"viel zu hoch\""
+      "title": "Deutsche Post: Verdi ruft zu bundesweiten Streiks in Brief- und Paketzentren auf",
+      "teaser": "Verdi und die Deutsche Post haben sich auch in der zweiten Tarifrunde nicht geeinigt. Arbeitnehmer sollen nun in ganz Deutschland ihre Arbeit niederlegen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/deutsche-post-streik-verdi",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/deutsche-post-streik-verdi-bild/wide__822x462",
+      "image_title": "Deutsche Post: Verdi ruft zu bundesweiten Streiks in Brief- und Paketzentren auf"
     },
     {
-      "title": "Familienministerium: Konzept zur Kindergrundsicherung steht",
-      "teaser": "Die neue Kindergrundsicherung soll Kindergeld, Bürgergeld und Kinderzuschlag zusammenfassen. Erstmals ausgezahlt wird sie frühestens 2025.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/konzept-kindergrundsicherung-familienministerium",
-      "image_url": "https://img.zeit.de/gesellschaft/familie/2023-01/konzept-kindergrundsicherung-familienministerium-bild/wide__822x462",
-      "image_title": "Familienministerium: Konzept zur Kindergrundsicherung steht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Techbranche • Das Beste aus Z+: \"Gerade ist ein guter Moment für Massenentlassungen\"",
-      "teaser": "Erst Twitter, dann Meta, jetzt auch Microsoft: Warum kündigen Techkonzerne Tausenden Mitarbeitenden? Ein Investor erklärt, weshalb selbst profitable Firmen entlassen.",
-      "url": "https://www.zeit.de/arbeit/2022-11/tech-branche-entlassungen-meta-amazon",
-      "image_url": "https://img.zeit.de/arbeit/2022-11/amazon/wide__822x462",
-      "image_title": "Techbranche • Das Beste aus Z+: \"Gerade ist ein guter Moment für Massenentlassungen\""
+      "title": "Corona: Long-Covid-Betroffene demonstrieren für bessere Versorgung",
+      "teaser": "400 Feldbetten vor dem Berliner Reichstag: Menschen mit Long-Covid-Beschwerden rufen zu breiterer Anerkennung ihrer Erkrankung auf und fordern mehr Forschung.",
+      "url": "https://www.zeit.de/gesundheit/2023-01/long-covid-feldbetten-reichstag-demonstration",
+      "image_url": "https://img.zeit.de/gesundheit/2023-01/long-covid-versorgung-reichstag-bild/wide__822x462",
+      "image_title": "Corona: Long-Covid-Betroffene demonstrieren für bessere Versorgung"
     },
     {
       "title": "Wirtschaft : Der Klima-Betrug",
@@ -145,25 +159,32 @@
       "image_url": "https://img.zeit.de/2022/packshot-23-4-1000x620.jpg/imagegroup/original__1000x620"
     },
     {
-      "title": "Jesiden: Bundestag stuft IS-Verbrechen an Jesiden als Völkermord ein",
-      "teaser": "Im Irak und Syrien tötete der IS Tausende Jesiden und versklavte Frauen und Mädchen. Der Bundestag stimmte nun einstimmig für die Anerkennung der Taten als Genozid.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-01/bundestag-anerkennung-voelkermord-jesiden",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/bundestag-anerkennung-voelkermord-jesiden-bild/wide__822x462",
-      "image_title": "Jesiden: Bundestag stuft IS-Verbrechen an Jesiden als Völkermord ein"
+      "title": "Kolonialismus: Staub und Seele",
+      "teaser": "Wann bekommt Afrika die von Europäern geraubten Skelette und Schädel seiner Ahnen zurück? Die Körper der Verstorbenen sind für die Kultur des Kontinents unverzichtbar.",
+      "url": "https://www.zeit.de/2023/04/kolonialismus-afrika-europa-skelette-raub",
+      "image_url": "https://img.zeit.de/kultur/2023-01/kolonialismus-afrika-europa-skelette/wide__822x462",
+      "image_title": "Kolonialismus: Staub und Seele"
     },
     {
-      "title": "\"Mercy\" von John Cale: Ein Eisbär kommt ins Schwitzen",
-      "teaser": "John Cale ist 80 Jahre alt und blickt nach vorn. Das neue Soloalbum des einstigen Mitglieds von The Velvet Underground prognostiziert den Menschen eine düstere Zukunft.",
-      "url": "https://www.zeit.de/kultur/musik/2023-01/john-cale-mercy-musikalbum-rezension",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-01/john-cale-mercy-musikalbum-rezension-bild/cinema__980x420",
-      "image_title": "\"Mercy\" von John Cale: Ein Eisbär kommt ins Schwitzen"
+      "title": "Z+ (abopflichtiger Inhalt); Altersunterschied: Verliebt oder Daddy-Issues?",
+      "teaser": "Die Paartherapeutin Tara Christopeit erklärt, warum sich junge Frauen in ältere Männer verlieben. Und warum die Vorurteile über den \"Age Gap\" unterkomplex sind.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/43/altersunterschied-beziehung-liebe-rollenbilder",
+      "image_url": "https://img.zeit.de/zeit-magazin/2021-06/tara-christopeit-paartherapeutin/wide__822x462",
+      "image_title": "Altersunterschied: Verliebt oder Daddy-Issues?"
     },
     {
-      "title": "Proteste: Iran schränkt Internetzugang ein",
-      "teaser": "Die iranische Regierung will Internetsperren verhängen – angeblich wegen der Sorge vor Betrug bei Prüfungen. Verschiedene Organisationen riefen zu neuen Protesten auf.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/iran-internet-gesperrt-proteste",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/iran-internet-gesperrt-proteste-bild/wide__822x462",
-      "image_title": "Proteste: Iran schränkt Internetzugang ein"
+      "title": "Z+ (abopflichtiger Inhalt); \"Tagesschau\": Basta-Journalismus",
+      "teaser": "Die \"Tagesschau\" ist eine sehr schlechte Sendung, sie passt nicht mehr in die Welt, über die sie informieren will. Sie müsste deshalb zum Beispiel viel länger dauern.",
+      "url": "https://www.zeit.de/2023/02/tagesschau-ard-journalismus-kritik",
+      "image_url": "https://img.zeit.de/2023/02/hae-warum-bild-1/wide__822x462",
+      "image_title": "\"Tagesschau\": Basta-Journalismus"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Älterwerden : 60 ist der Kipppunkt",
+      "teaser": "Alt werden wollen alle, alt sein kaum einer. Aber es hilft nichts: Derzeit stehen viele Deutsche kurz vor dem 60. Geburtstag. Experten erklären, was im Körper passiert.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/45/aelterwerden-biologie-physiologie-genetik-leistungsfaehigkeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022/45/alter-was-geht-bild-1/wide__822x462",
+      "image_title": "Älterwerden : 60 ist der Kipppunkt"
     },
     {
       "title": "Islamische Republik : Wie Staat und Religion im Iran miteinander verwoben sind",
@@ -173,32 +194,18 @@
       "image_title": "Islamische Republik : Wie Staat und Religion im Iran miteinander verwoben sind"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Römische Pastavariationen: Einfach, großartig",
-      "teaser": "Das Herz der römischen Küche sind vier Pastagerichte. Eins ergibt sich aus dem anderen, trotzdem schmecken sie sehr verschieden – und alle Zutaten kommen aus dem Vorrat.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/roemische-pasta-variationen-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-01/roemische-pasta-variationen-rezept-wochenmarkt-teaser/wide__822x462",
-      "image_title": "Römische Pastavariationen: Einfach, großartig"
+      "title": "Proteste: Iran schränkt Internetzugang ein",
+      "teaser": "Die iranische Regierung will Internetsperren verhängen – angeblich wegen der Sorge vor Betrug bei Prüfungen. Verschiedene Organisationen riefen zu neuen Protesten auf.",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/iran-internet-gesperrt-proteste",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/iran-internet-gesperrt-proteste-bild/wide__822x462",
+      "image_title": "Proteste: Iran schränkt Internetzugang ein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bodyshaming: Ein Bild von einem Mann",
-      "teaser": "Fußballer, Superhelden, Social Media: Auch Jungen haben ein Körperideal vor Augen, das unerreichbar ist. Doch in der Debatte um Bodyshaming geht es fast nur um Mädchen.",
-      "url": "https://www.zeit.de/zeit-magazin/2023-01/bodyshaming-koerperbild-maenner-muskeln-social-media",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-01/koerperbild-maenner-jungen-muskeln-social-media/wide__822x462",
-      "image_title": "Bodyshaming: Ein Bild von einem Mann"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Diät: Hilft Intervallfasten wirklich beim Abnehmen?",
-      "teaser": "Nur zwischen 8 und 16 Uhr etwas essen – und danach nicht mehr. Bringt das mehr als gewöhnliche Diäten? Eine aktuelle Studie liefert dazu eine eindeutige Antwort.",
-      "url": "https://www.zeit.de/2022/20/intervallfasten-diaet-abnehmen-gewicht",
-      "image_url": "https://img.zeit.de/2022/20/intervallfasten-diaet/wide__822x462",
-      "image_title": "Diät: Hilft Intervallfasten wirklich beim Abnehmen?"
-    },
-    {
-      "title": "Anne Will: Über ein Merkelium hinweg",
-      "teaser": "Anne Will verabschiedet sich Ende des Jahres mit ihrer Talkshow. Laut einer Umfrage werden 75 Prozent der Deutschen sie nicht vermissen. Unser Autor wird es schon.",
-      "url": "https://www.zeit.de/2023/04/anne-will-ard-talkshow-ende-meinungsumfrage",
-      "image_url": "https://img.zeit.de/kultur/film/2023-01/anne-will-ard-talkshow-ende-meinungsumfrage-teaserfoto/wide__822x462",
-      "image_title": "Anne Will: Über ein Merkelium hinweg"
+      "title": "Ende der Maskenpflicht: Jetzt bloß nicht die Nerven verlieren",
+      "teaser": "Der Kellner im ICE fordert die Fahrgäste noch einmal mit geradezu militärischer Härte zur Mundnasenbedeckung auf. Ein letzter Gruß an die Maskenpflicht im Fernverkehr",
+      "url": "https://www.zeit.de/2023/04/maskenpflicht-ende-fernverkehr-deutsche-bahn",
+      "image_url": "https://img.zeit.de/2023-01/maskenpflicht-ende-fernverkehr-deutsche-bahn-bild/wide__822x462",
+      "image_title": "Ende der Maskenpflicht: Jetzt bloß nicht die Nerven verlieren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wahlrechtsreform • Das Beste aus Z+: Wer heute nicht im Bundestag säße",
@@ -215,11 +222,11 @@
       "image_title": "CO2 Certificates: Phantom Offsets and Carbon Deceit"
     },
     {
-      "title": "Papiertheater: Sherlock Holmes aus Papier und Fantasie",
-      "teaser": "Auf 40 mal 30 Zentimetern und nur mit den Händen spielen Sieglinde Haase und ihr Mann Theater. Wie es wirklich ist, ein Papiertheater zu leiten.",
-      "url": "https://www.zeit.de/2023/04/papiertheater-unterhaltung-geschichte",
-      "image_url": "https://img.zeit.de/2023/04/theater-papier-teaser/wide__822x462",
-      "image_title": "Papiertheater: Sherlock Holmes aus Papier und Fantasie"
+      "title": "\"Mercy\" von John Cale: Ein Eisbär kommt ins Schwitzen",
+      "teaser": "John Cale ist 80 Jahre alt und blickt nach vorn. Das neue Soloalbum des einstigen Mitglieds von The Velvet Underground prognostiziert den Menschen eine düstere Zukunft.",
+      "url": "https://www.zeit.de/kultur/musik/2023-01/john-cale-mercy-musikalbum-rezension",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-01/john-cale-mercy-musikalbum-rezension-bild/wide__822x462",
+      "image_title": "\"Mercy\" von John Cale: Ein Eisbär kommt ins Schwitzen"
     },
     {
       "title": "Mond-Neujahr 2023: Neujahrsgrüße aus den Küchen Asiens",
@@ -237,8 +244,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-01/kampfpanzer-leopard-2-lieferungen-olaf-scholz"
     },
     {
-      "title": "Neuseeland: Premierministerin Jacinda Ardern tritt überraschend zurück",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/jacinda-ardern-neuseeland-premierministerin-ruecktritt"
+      "title": "Krim: Russland warnt USA und Ukraine vor Änderung der Krim-Strategie",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/usa-ukraine-angriffe-krim-new-york-times"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); CO2-Zertifikate • Das Beste aus Z+: Der große Klima-Betrug",
@@ -295,8 +302,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-01/waffenlieferungen-ukraine-leopard-panzer-laender"
     },
     {
-      "title": "Neuseeland: Premierministerin Jacinda Ardern tritt überraschend zurück",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/jacinda-ardern-neuseeland-premierministerin-ruecktritt"
+      "title": "Krim: Russland warnt USA und Ukraine vor Änderung der Krim-Strategie",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/usa-ukraine-angriffe-krim-new-york-times"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wahlrechtsreform • Das Beste aus Z+: Wer heute nicht im Bundestag säße",
@@ -307,10 +314,17 @@
       "url": "https://www.zeit.de/wirtschaft/2023-01/olaf-scholz-wef-davos-ukraine-standort-deutschland"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bürgerdialog in Illerkirchberg: \"Ich verstehe alle Kinder, die Angst haben\"",
+      "teaser": "In Illerkirchberg sollte ein Bürgerdialog den Mord an der 14-jährigen Ece S. aufarbeiten. Im Saal bricht sich der Hass Bahn. Doch dann erhebt sich der Vater des Mädchens.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/illerkirchberg-mord-buergerdialog-ece-s-vater",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-01/illerkirchberg-buergerdiolog/cinema__980x420",
+      "image_title": "Bürgerdialog in Illerkirchberg: \"Ich verstehe alle Kinder, die Angst haben\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Skifahren: Nichts macht den Kopf so frei wie Skifahren",
       "teaser": "Die ersten Ski gab es vor Tausenden Jahren – wer heute Skiurlaub macht, muss sich oft rechtfertigen. Über die Schönheit einer Sportart, die besonders glücklich macht",
       "url": "https://www.zeit.de/zeit-wissen/2023/01/skifahren-psychologie-gluecksgefuehle-flow-urlaub",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/blick-zurueck-ohne-zorn-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/blick-zurueck-ohne-zorn-bild-1/wide__822x462",
       "image_title": "Skifahren: Nichts macht den Kopf so frei wie Skifahren"
     },
     {
@@ -319,13 +333,6 @@
       "url": "https://www.zeit.de/digital/2023-01/chatgpt-kuenstliche-intelligenz-arbeit-alltag-tipps",
       "image_url": "https://img.zeit.de/digital/2023-01/chatgpt-kuenstliche-intelligenz-arbeit-alltag-tipps-bild/wide__822x462",
       "image_title": "ChatGPT: So macht künstliche Intelligenz auch Ihr Leben besser"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nachkriegszeit in Hamburg: Beschimpft und eingepfercht",
-      "teaser": "53.000 Geflüchtete aus den deutschen Ostgebieten nahm Hamburg nach dem Zweiten Weltkrieg auf. Willkommen waren die wenigsten.",
-      "url": "https://www.zeit.de/2023/01/nachkriegszeit-hamburg-gefluechtete-ostgebiete",
-      "image_url": "https://img.zeit.de/2023/01/53-000-bild-1/wide__822x462",
-      "image_title": "Nachkriegszeit in Hamburg: Beschimpft und eingepfercht"
     },
     {
       "title": "Verlagsangebot: Diese zehn Klassiker der Weltliteratur sollten Sie gelesen haben",
@@ -372,22 +379,22 @@
       "image_title": "Dreikönigskuchen: Dreimal Dreikönigskuchen"
     },
     {
+      "title": "Jesiden: Bundestag stuft IS-Verbrechen an Jesiden als Völkermord ein",
+      "teaser": "Im Irak und Syrien tötete der IS Tausende Jesiden und versklavte Frauen und Mädchen. Der Bundestag stimmte nun einstimmig für die Anerkennung der Taten als Genozid.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-01/bundestag-anerkennung-voelkermord-jesiden",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/bundestag-anerkennung-voelkermord-jesiden-bild/cinema__980x420",
+      "image_title": "Jesiden: Bundestag stuft IS-Verbrechen an Jesiden als Völkermord ein"
+    },
+    {
       "title": "Neuer Verteidigungsminister: Boris Pistorius will die Bundeswehr schnell stärken",
       "teaser": "\"Es geht um Abschreckung, Wirksamkeit und Einsatzfähigkeit\", sagte der Minister vor dem Treffen mit seinem US-Amtskollegen. Zu Panzerlieferungen äußerte er sich nicht.",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/boris-pistorius-lloyd-austin-panzer-leopard",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/lloyd-austin-boris-pistorius-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/lloyd-austin-boris-pistorius-bild/wide__822x462",
       "image_title": "Neuer Verteidigungsminister: Boris Pistorius will die Bundeswehr schnell stärken"
     },
     {
-      "title": "Russland: Russischer Geheimdienst meldet Festnahme von US-Bürger wegen Spionage",
-      "teaser": "Der FSB hat einen US-Bürger festgesetzt, der brisante Informationen gesammelt haben soll. Kritiker werfen Russland vor, den Mann als Verhandlungsmasse nutzen zu wollen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/russland-geheimdienst-us-buerger-spionage-festgenommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/russischer-geheimdienst-fsb-bild/wide__822x462",
-      "image_title": "Russland: Russischer Geheimdienst meldet Festnahme von US-Bürger wegen Spionage"
-    },
-    {
       "title": "Statistisches Bundesamt: Zuwanderung aus Ukraine sorgt für Rekordbevölkerung in Deutschland",
-      "teaser": "So viele Menschen lebten noch nie in Deutschland: Ende 2022 zählte das Statistische Bundesamt hierzulande 84,3 Millionen Menschen. Grund dafür ist die starke Zuwanderung. 299 Kommentare",
+      "teaser": "So viele Menschen lebten noch nie in Deutschland: Ende 2022 zählte das Statistische Bundesamt hierzulande 84,3 Millionen Menschen. Grund dafür ist die starke Zuwanderung. 297 Kommentare",
       "url": "https://www.zeit.de/gesellschaft/2023-01/bevoelkerrung-deutschland-hoechststand-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/gesellschaft/2023-01/bevoelkerrung-deutschland-hoechststand-statistisches-bundesamt-bild/cinema__980x420",
       "image_title": "Statistisches Bundesamt: Zuwanderung aus Ukraine sorgt für Rekordbevölkerung in Deutschland"
@@ -407,31 +414,31 @@
       "image_title": "Diandra Donecker: \"Samstag ist wie der Sprung in eine Sahnetorte\""
     },
     {
+      "title": "Europäische Zentralbank: Christine Lagarde sieht Inflation weiter als \"viel zu hoch\"",
+      "teaser": "Trotz des leichten Rückgangs der Inflation spricht sich die EZB-Präsidentin erneut für weitere Zinserhöhungen aus. Die Notenbank müsse weiter \"auf Kurs\" bleiben.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/inflation-europaeische-zentralbank-ezb-christine-lagarde-davos",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/inflation-europaeische-zentralbank-ezb-christine-lagarde-bild/cinema__980x420",
+      "image_title": "Europäische Zentralbank: Christine Lagarde sieht Inflation weiter als \"viel zu hoch\""
+    },
+    {
+      "title": "Familienministerium: Konzept zur Kindergrundsicherung steht",
+      "teaser": "Die neue Kindergrundsicherung soll Kindergeld, Bürgergeld und Kinderzuschlag zusammenfassen. Erstmals ausgezahlt wird sie frühestens 2025.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/konzept-kindergrundsicherung-familienministerium",
+      "image_url": "https://img.zeit.de/gesellschaft/familie/2023-01/konzept-kindergrundsicherung-familienministerium-bild/wide__822x462",
+      "image_title": "Familienministerium: Konzept zur Kindergrundsicherung steht"
+    },
+    {
       "title": "Emmanuel Macron: Hunderttausende zu Antirentenreform-Demos in Frankreich erwartet",
       "teaser": "Schulen sind geschlossen, Busse und Bahnen fahren nicht: In Frankreich streiken sie gegen die Pläne von Emmanuel Macron. Gewerkschafter sehen \"einen starken Protesttag\".",
       "url": "https://www.zeit.de/politik/ausland/2023-01/frankreich-protest-rentenreform",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/streik-frankreich-rentenreform-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/streik-frankreich-rentenreform-bild/wide__822x462",
       "image_title": "Emmanuel Macron: Hunderttausende zu Antirentenreform-Demos in Frankreich erwartet"
-    },
-    {
-      "title": "Tierhaltung: Das versteht kein Schwein",
-      "teaser": "Bundesagrarminister Cem Özdemir plant eine neue Kennzeichnungspflicht für Fleisch. Dabei wird noch ein Siegel mehr auf der Packung dem Tierwohl kaum helfen.",
-      "url": "https://www.zeit.de/2023/04/tierhaltung-fleisch-tierwohl-cem-oezdemir",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/tierhaltung-fleisch-tierwohl-cem-oezdemir-schweine/wide__822x462",
-      "image_title": "Tierhaltung: Das versteht kein Schwein"
-    },
-    {
-      "title": "Immobilienkauf: Wohneigentum auch für Gutverdiener seltener bezahlbar",
-      "teaser": "Ein höheres Einkommen führt nicht mehr automatisch zum Kauf einer Immobilie. Die Kosten sind vielerorts einfach zu hoch. Dies ist auch für Mieter keine gute Nachricht.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/wohneigentum-nicht-bezahlbar-gutverdiener",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/wohneigentum-auch-fuer-gutverdiener-seltener-bezahlbar-bild/wide__822x462",
-      "image_title": "Immobilienkauf: Wohneigentum auch für Gutverdiener seltener bezahlbar"
     },
     {
       "title": "WirtschaftsWocheBöhme Fruchtkaramellen: „Das habe ich bei noch keinem anderen Konsumprodukt so erlebt“",
       "teaser": "Quadratische Kaubonbons sind ein Klassiker im Supermarkt – und beliebtes Wurfmaterial im Karneval. Bei Twitter witzeln Nutzer über das unverwüstliche Design. Und selbst der Chef des Herstellers steht vor einem Rätsel.",
       "url": "https://www.wiwo.de/unternehmen/handel/boehme-fruchtkaramellen-das-habe-ich-bei-noch-keinem-anderen-konsumprodukt-so-erlebt/28933382.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/fruchtkaramellen/28933872/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/boehme-bonbons/28934160/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Böhme Fruchtkaramellen: „Das habe ich bei noch keinem anderen Konsumprodukt so erlebt“"
     },
     {
@@ -463,11 +470,11 @@
       "image_title": "BDSM und Trauma: \"Durch BDSM öffnet sich ein Denkfreiraum\""
     },
     {
-      "title": "Kolonialismus: Staub und Seele",
-      "teaser": "Wann bekommt Afrika die von Europäern geraubten Skelette und Schädel seiner Ahnen zurück? Die Körper der Verstorbenen sind für die Kultur des Kontinents unverzichtbar.",
-      "url": "https://www.zeit.de/2023/04/kolonialismus-afrika-europa-skelette-raub",
-      "image_url": "https://img.zeit.de/kultur/2023-01/kolonialismus-afrika-europa-skelette/cinema__980x420",
-      "image_title": "Kolonialismus: Staub und Seele"
+      "title": "Anne Will: Über ein Merkelium hinweg",
+      "teaser": "Anne Will verabschiedet sich Ende des Jahres mit ihrer Talkshow. Laut einer Umfrage werden 75 Prozent der Deutschen sie nicht vermissen. Unser Autor wird es schon.",
+      "url": "https://www.zeit.de/2023/04/anne-will-ard-talkshow-ende-meinungsumfrage",
+      "image_url": "https://img.zeit.de/kultur/film/2023-01/anne-will-ard-talkshow-ende-meinungsumfrage-teaserfoto/cinema__980x420",
+      "image_title": "Anne Will: Über ein Merkelium hinweg"
     },
     {
       "title": "Solothurner Filmtage: Diese beschissenen Steine",
@@ -484,18 +491,11 @@
       "image_title": "\"Shotgun Wedding\": Schaumweinparty im Grindhouse-Kino"
     },
     {
-      "title": "Bundesverteidigungsminister: Boris Pistorius im Amt vereidigt",
-      "teaser": "Bundespräsident Frank-Walter Steinmeier hat Christine Lambrecht entlassen und Boris Pistorius seine Ernennungsurkunde zum neuen Bundesverteidigungsminister überreicht.",
-      "url": "https://www.zeit.de/video/2023-01/6318894675112/bundesverteidigungsminister-boris-pistorius-im-amt-vereidigt",
-      "image_url": "https://img.zeit.de/video/2023-01/6318894675112-still/cinema__980x420",
-      "image_title": "Bundesverteidigungsminister: Boris Pistorius im Amt vereidigt"
-    },
-    {
-      "title": "Neuseeland: \"Ich bin immer noch ein Mensch\" – Jacinda Ardern tritt zurück",
-      "teaser": "Die Premierministerin Neuseelands hat überraschend ihren Rücktritt angekündigt. Sie habe keine Kraft mehr, das Land weiter zu führen, begründet Ardern ihre Entscheidung.",
-      "url": "https://www.zeit.de/video/2023-01/6318891960112/neuseeland-ich-bin-immer-noch-ein-mensch-jacinda-ardern-tritt-zurueck",
-      "image_url": "https://img.zeit.de/video/2023-01/6318891960112-still/wide__822x462",
-      "image_title": "Neuseeland: \"Ich bin immer noch ein Mensch\" – Jacinda Ardern tritt zurück"
+      "title": "Verteidigungsminister: Boris Pistorius bekräftigt Unterstützung der Ukraine",
+      "teaser": "Deutschland stehe geschlossen mit den USA \"im Kampf für die Freiheit und Souveränität der Ukraine\", sagt der Verteidigungsminister. Deutsche Waffen würden sich bewähren.",
+      "url": "https://www.zeit.de/video/2023-01/6318897818112/verteidigungsminister-boris-pistorius-bekraeftigt-unterstuetzung-der-ukraine",
+      "image_url": "https://img.zeit.de/video/2023-01/6318897818112-still/cinema__980x420",
+      "image_title": "Verteidigungsminister: Boris Pistorius bekräftigt Unterstützung der Ukraine"
     },
     {
       "title": "Panzerlieferungen: Olaf Scholz knüpft Lieferung von Leopard-Panzern an US-Zusage für Abrams-Panzer",
@@ -503,6 +503,13 @@
       "url": "https://www.zeit.de/video/2023-01/6318890186112/panzerlieferungen-olaf-scholz-knuepft-lieferung-von-leopard-panzern-an-us-zusage-fuer-abrams-panzer",
       "image_url": "https://img.zeit.de/video/2023-01/6318890186112-still/wide__822x462",
       "image_title": "Panzerlieferungen: Olaf Scholz knüpft Lieferung von Leopard-Panzern an US-Zusage für Abrams-Panzer"
+    },
+    {
+      "title": "Israel: Innenminister Arie Deri darf nicht im Amt bleiben",
+      "teaser": "Das hat Israels Oberstes Gericht entschieden, da Deri unter anderem wegen Korruption und Untreue vorbestraft ist. Oppositionsführer Yair Lapid fordert seine Entlassung.",
+      "url": "https://www.zeit.de/video/2023-01/6318897502112/israel-innenminister-arie-deri-darf-nicht-im-amt-bleiben",
+      "image_url": "https://img.zeit.de/video/2023-01/6318897502112-still/wide__822x462",
+      "image_title": "Israel: Innenminister Arie Deri darf nicht im Amt bleiben"
     },
     {
       "title": "Negative Emissionen: \"Wir könnten längst viel mehr CO₂ aus der Atmosphäre holen\"",
@@ -646,11 +653,11 @@
       "image_title": "Wolodymyr Selenskyj: \"Habt keine Angst, nach vorne zu schreiten\""
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vape: Schmeckt nach Raspberry Watermelon, ist gefährlich",
@@ -660,25 +667,25 @@
       "image_title": "Vape: Schmeckt nach Raspberry Watermelon, ist gefährlich"
     },
     {
-      "title": "Lützerath: Ein Spektakel vor entblößter Erde",
+      "title": "Z+ (abopflichtiger Inhalt); Lützerath: Ein Spektakel vor entblößter Erde",
       "teaser": "Lakshmi Thevasagayam ist das Gesicht des Kampfs um Lützerath. Als Sprecherin ist es auch ihre Aufgabe, junge Menschen dazu zu bringen, Polizei und Bagger zu blockieren.",
       "url": "https://www.zeit.de/campus/2023-01/luetzerath-klimaaktivismus-protest-bilder-oeffentlichkeit",
       "image_url": "https://img.zeit.de/campus/2023-01/luetzerath-klimaaktivismus-protest-bilder-oeffentlichkeit-bild-3/wide__822x462",
       "image_title": "Lützerath: Ein Spektakel vor entblößter Erde"
     },
     {
+      "title": "Papiertheater: Sherlock Holmes aus Papier und Fantasie",
+      "teaser": "Auf 40 mal 30 Zentimetern und nur mit den Händen spielen Sieglinde Haase und ihr Mann Theater. Wie es wirklich ist, ein Papiertheater zu leiten.",
+      "url": "https://www.zeit.de/2023/04/papiertheater-unterhaltung-geschichte",
+      "image_url": "https://img.zeit.de/2023/04/theater-papier-teaser/cinema__980x420",
+      "image_title": "Papiertheater: Sherlock Holmes aus Papier und Fantasie"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Shintoismus: Geisterjagd durch Tokio",
       "teaser": "Alles lebt, sagt der Shintoismus, auch das Neonlicht. Die Suche nach der Seele in den Dingen eröffnet eine neue Sicht auf Tokio. Dort können sogar Sobanudeln fliegen.",
       "url": "https://www.zeit.de/2023/03/shintoismus-japan-tokio-seele",
-      "image_url": "https://img.zeit.de/2023/03/shintoismus-japan-tokio-seele-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/03/shintoismus-japan-tokio-seele-teaserbild/wide__822x462",
       "image_title": "Shintoismus: Geisterjagd durch Tokio"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Tierhaltung: Der Zoo der Zukunft",
-      "teaser": "Zoos stehen immer stärker in der Kritik, manche fordern sogar die Abschaffung. Doch es gibt Orte, an denen Tiere gern zu leben scheinen. Ist das wirklich möglich?",
-      "url": "https://www.zeit.de/entdecken/2023-01/zoo-tierhaltung-zukunft-tierschutz-aktivismus",
-      "image_url": "https://img.zeit.de/entdecken/2023-01/zoo-tierhaltung-zukunft-erdmaennchen/wide__822x462",
-      "image_title": "Tierhaltung: Der Zoo der Zukunft"
     },
     {
       "title": "AnzeigeReiseinspiration mit dem ZEIT REISEN-Newsletter",
@@ -689,7 +696,7 @@
     },
     {
       "title": "Deutschlandticket: CDU kritisiert Verschleppung von 49-Euro-Ticket",
-      "teaser": "Ursprünglich hätte das 49-Euro-Ticket Anfang des Jahres starten sollen – doch die Bundesregierung kommt bei der Planung nur langsam voran. Die CDU übt Kritik. 115 Kommentare",
+      "teaser": "Ursprünglich hätte das 49-Euro-Ticket Anfang des Jahres starten sollen – doch die Bundesregierung kommt bei der Planung nur langsam voran. Die CDU übt Kritik. 120 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/49-euro-ticket-cdu-verschleppung-bundesregierung",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-01/49-euro-ticket-cdu-verschleppung-bundesregierung-bild/cinema__980x420",
       "image_title": "Deutschlandticket: CDU kritisiert Verschleppung von 49-Euro-Ticket"
@@ -793,36 +800,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Sommer-Nachfolger: Omlin erhält in Gladbach einen Vertrag bis 2027",
-      "url": "https://www.zeit.de/news/2023-01/19/omlin-erhaelt-in-gladbach-einen-vertrag-bis-2027"
+      "title": "Innenministerium: Mehr Hilfe für Polizisten bei psychischer Belastung",
+      "url": "https://www.zeit.de/news/2023-01/19/mehr-hilfe-fuer-polizisten-bei-psychischer-belastung"
     },
     {
-      "title": "Special Olympics: Krajewski hofft auf Treiberwirkung der Weltspiele",
-      "url": "https://www.zeit.de/news/2023-01/19/krajewski-hofft-auf-treiberwirkung-der-weltspiele"
+      "title": "Film: Alec Baldwin soll nach Todesschuss bei Western-Dreh angeklagt werden",
+      "url": "https://www.zeit.de/news/2023-01/19/alec-baldwin-soll-nach-todesschuss-bei-western-dreh-angeklagt-werden"
     },
     {
-      "title": "Unfall: Lastwagen droht Abhang an Autobahn 9 hinunterzustürzen",
-      "url": "https://www.zeit.de/news/2023-01/19/lastwagen-droht-abhang-an-autobahn-9-hinunterzustuerzen"
+      "title": "Netzwerk: Sachsen ist Mitglied der europäischen Solarallianz",
+      "url": "https://www.zeit.de/news/2023-01/19/sachsen-ist-mitglied-der-europaeischen-solarallianz"
     },
     {
-      "title": "Tarifverhandlungen: Inflationsausgleich: DGB will deutlich mehr Lohn",
-      "url": "https://www.zeit.de/news/2023-01/19/inflationsausgleich-dgb-will-deutlich-mehr-lohn"
+      "title": "Dienstleistungen: Gewerkschaft Verdi kündigt bundesweite Poststreiks an",
+      "url": "https://www.zeit.de/news/2023-01/19/gewerkschaft-verdi-kuendigt-bundesweite-poststreiks-an"
     },
     {
-      "title": "Bundesliga: Werder-Verteidiger Pieper fit für Köln-Spiel",
-      "url": "https://www.zeit.de/news/2023-01/19/werder-verteidiger-pieper-fit-fuer-koeln-spiel"
+      "title": "Preissteigerungen: Studie: Hohe Preise belasten Autobesitzer in Deutschland",
+      "url": "https://www.zeit.de/news/2023-01/19/studie-hohe-preise-belasten-autobesitzer-in-deutschland"
     },
     {
-      "title": "Bundesliga: Perfekt: Torwart Sommer bekommt Bayern-Vertrag bis 2025",
-      "url": "https://www.zeit.de/news/2023-01/19/perfekt-torwart-sommer-bekommt-bayern-vertrag-bis-2025"
+      "title": "Emsland: Dreijähriger über Stunden im Bus vergessen",
+      "url": "https://www.zeit.de/news/2023-01/19/dreijaehriger-ueber-stunden-im-bus-vergessen"
     },
     {
-      "title": "Kaufhauskonzern: Galeria soll in ein paar Jahren profitabel sein",
-      "url": "https://www.zeit.de/news/2023-01/19/galeria-soll-in-ein-paar-jahren-profitabel-sein"
+      "title": "Braunkohletagebau: Letztes Gebäude in Lützerath abgerissen",
+      "url": "https://www.zeit.de/news/2023-01/19/letztes-gebaeude-in-luetzerath-abgerissen"
     },
     {
-      "title": "Bundesliga: Verpflichtung perfekt: Sommer bekommt Vertrag bis 2025",
-      "url": "https://www.zeit.de/news/2023-01/19/verpflichtung-perfekt-sommer-bekommt-vertrag-bis-2025"
+      "title": "Landkreis Schwandorf: Unbekannte stehlen Fahrräder im Wert von 100.000 Euro",
+      "url": "https://www.zeit.de/news/2023-01/19/unbekannte-stehlen-fahrraeder-im-wert-von-100-000-euro"
     }
   ]
 }
