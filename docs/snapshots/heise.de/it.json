@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-19T14:12:14",
+  "timestamp": "2023-01-19T15:13:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,13 +13,13 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.9469005fab861e86d2e6",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.51403e8e12b73156913d",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.549a749a9be3df22dc99",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.073447aed68f32839812",
       "id": null,
       "text": null
     }
@@ -43,6 +43,37 @@
       "image_title": "AMDs Radeon RX 7900 XTX"
     },
     {
+      "title": "Metaverse: Warum Unternehmen Digitale Zwillinge absichern sollten",
+      "teaser": "Interaktion im Metaverse erzeugt personalisierte Daten. Die digitalen Zwillinge der Kunden, die daraus entstehen, sind ein attraktives Ziel für Angreifer.",
+      "url": "https://www.heise.de/hintergrund/Metaverse-Warum-Unternehmen-Digitale-Zwillinge-absichern-sollten-7460310.html"
+    },
+    {
+      "title": "Digitaler Zwilling: Entwicklung vom 3-D-Stadtmodell zur Metaverse City",
+      "teaser": "Der deutsche Staat investiert Millionen in 3-D-Modelle von Städten. Das reicht von der Gebäudeplanung bis zu Simulationen der Ausbreitung von Lärm.",
+      "url": "https://www.heise.de/hintergrund/Digitaler-Zwilling-Entwicklung-vom-3-D-Stadtmodell-zur-Metaverse-City-7459718.html"
+    },
+    {
+      "title": "Ethereum: Deutlich weniger Stromverbrauch nach Umstieg auf Proof-of-Stake",
+      "teaser": "Seitdem bei der Kryptowährung Ethereum kein rechenintensives Mining mehr betrieben werden muss, verbraucht das Netzwerk auch deutlich weniger Strom.",
+      "url": "https://www.heise.de/news/Ethereum-Deutlich-weniger-Stromverbrauch-nach-Umstieg-auf-Proof-of-Stake-7464273.html"
+    },
+    {
+      "title": "JavaScript-Runtime bun 0.5 ist mit npm Workspaces kompatibel",
+      "teaser": "Das neue Minor Release kann erstmals npm Workspaces verwenden, beschleunigt die Buffer-Implementierung und arbeitet weiterhin an der Stabilität.",
+      "url": "https://www.heise.de/news/JavaScript-Runtime-bun-0-5-ist-mit-npm-Workspaces-kompatibel-7464265.html",
+      "image_title": "Woman,Working,At,Home,Office,Hand,On,Keyboard,Close,Up"
+    },
+    {
+      "title": "Metaverse erklärt: Das steckt dahinter",
+      "teaser": "Metaverse ist mehr als bloß ein Buzzword. Dahinter stehen konkrete Konzepte und Techniken, die in den nächsten Jahren das Internet prägen werden. Ein Überblick.",
+      "url": "https://www.heise.de/hintergrund/Metaverse-erklaert-Das-steckt-dahinter-7454488.html"
+    },
+    {
+      "title": "Havarie: Cyber-Angriff auf Flottenmanagement-System trifft 1000 Schiffe",
+      "teaser": "Die IT-Infrastruktur hinter der Flottenverwaltungssoftware Shipmanager von DNV wurde von einem Ransomware-Angriff getroffen. 1000 Schiffe sind davon betroffen.",
+      "url": "https://www.heise.de/news/Cyber-Angriff-auf-Flottenmanagement-System-trifft-1000-Schiffe-7464281.html"
+    },
+    {
       "title": "Huawei Watch D mit Blutdruckmessung im Test",
       "teaser": "Die Watch D hat eine kleine Pumpe eingebaut und kann den Blutdruck am Handgelenk messen. Sie kann auch ein EKG schreiben. Der Haken an der Uhr: die Software.",
       "url": "https://www.heise.de/tests/Huawei-Watch-D-mit-Blutdruckmessung-im-Test-7452407.html",
@@ -52,11 +83,6 @@
       "title": "Python für Java-Devs: Containerklassen erklärt",
       "teaser": "Containerklassen wie Listen und Dictionaries sind in Python integriert und wegen ihrer einfachen Syntax besser lesbar und verständlicher als in Java.",
       "url": "https://www.heise.de/ratgeber/Python-fuer-Java-Devs-Containerklassen-erklaert-7462698.html"
-    },
-    {
-      "title": "Cyber-Angriff auf Flottenmanagement-System trifft 1000 Schiffe",
-      "teaser": "Die IT-Infrastruktur hinter der Flottenverwaltungssoftware Shipmanager von DNV wurde von einem Ransomware-Angriff getroffen. 1000 Schiffe sind davon betroffen.",
-      "url": "https://www.heise.de/news/Cyber-Angriff-auf-Flottenmanagement-System-trifft-1000-Schiffe-7464281.html"
     },
     {
       "title": "Studie: Deep-Learning-Modell \"Sybil\" soll bei Lungenkrebsfrüherkennung helfen",
@@ -105,35 +131,6 @@
       "title": "Dell: Viele neue Server mit Intels neuem Xeon, Single Socket aber immer mit Epyc",
       "teaser": "Auch Dell setzt auf Intels vierte Xeon-SP-Generation und bringt viele neue Server mit dem Prozessor auf den Markt – Ausnahme sind die Single-Socket-Systeme.",
       "url": "https://www.heise.de/news/Dell-Viele-neue-Server-mit-Intels-neuem-Xeon-Single-Socket-aber-immer-mit-Epyc-7463213.html"
-    },
-    {
-      "title": "Neu in .NET 7 [2]: Zeilenumbrüche in Interpolationsausdrücken in C# 11.0",
-      "teaser": "Die in geschweiften Klammern gefassten Zeichenketten-Interpolationsausdrücke dürfen neuerdings Kommentare und Zeilenumbrüche enthalten.",
-      "url": "https://www.heise.de/blog/Neu-in-NET-7-2-Zeilenumbrueche-in-Interpolationsausdruecken-in-C-11-0-7463645.html",
-      "image_title": "Black,And,White,Crossword,Puzzle,That,Needs,To,Be,Solved"
-    },
-    {
-      "title": "CAMM: Neuer Speicherstandard für Notebooks ab 2024 startklar",
-      "teaser": "Speicher- und Notebook-Hersteller einigen sich auf eine neue Modulform für Mobilgeräte. Schon 2023 soll die CAMM-Spezifikation finalisiert werden.",
-      "url": "https://www.heise.de/news/CAMM-Neuer-Speicherstandard-fuer-Notebooks-ab-2024-startklar-7463832.html",
-      "image_title": "CAMM im Vergleich zu SO-DIMM"
-    },
-    {
-      "title": "Bereits im Gespräch: Donald Trumps Rückehr zu Facebook und Instagram",
-      "teaser": "Trump könnte bald seine Konten bei Facebook und Instagram zurückbekommen. Sein Wahlkampfteam sei in Gesprächen dazu. Meta kündigte \"rasche\" Entscheidung an.",
-      "url": "https://www.heise.de/news/Bereits-im-Gespraech-Donald-Trumps-Rueckehr-zu-Facebook-und-Instagram-7463674.html",
-      "image_title": "Donald Trump an Schreibtisch"
-    },
-    {
-      "title": "Mehr Smart-Home-Geräte von Apple: iPad-artiger Controller, neues Apple TV",
-      "teaser": "Apple will sein Angebot an HomeKit-fähigen Produkten offenbar erweitern. Dazu gehört offenbar eine ganz neue Gerätekategorie.",
-      "url": "https://www.heise.de/news/Mehr-Smart-Home-Geraete-von-Apple-iPad-artiger-Controller-neues-Apple-TV-7463699.html"
-    },
-    {
-      "title": "software-architektur.tv: Extreme Programming (XP) – eine Retrospektive",
-      "teaser": "heise Developer präsentiert Eberhard Wolffs Videocast. In dieser Folge wirft er einen kritischen Blick auf den radikalen Ansatz des Extreme Programming.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Extreme-Programming-XP-eine-Retrospektive-7463192.html",
-      "image_title": "SATOUR-TV-Podcast: Extreme Programming (XP) – eine Retrospektive"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
