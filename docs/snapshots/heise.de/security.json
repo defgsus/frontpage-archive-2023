@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-20T09:12:24",
+  "timestamp": "2023-01-20T10:13:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco Unified Communications Manager",
+      "url": "https://www.heise.de/news/Cisco-Hochriskantes-Sicherheitsleck-in-Unified-Communications-Manager-7465203.html"
+    },
+    {
       "title": "MSI Motherboards",
       "url": "https://www.heise.de/news/MSI-Motherboards-sollen-trotz-aktivem-Secure-Boot-manipulierte-Systeme-starten-7462913.html"
     },
@@ -44,16 +48,12 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Tausende-Firewalls-von-Sophos-angreifbar-7462565.html"
     },
     {
-      "title": "Firefox",
-      "url": "https://www.heise.de/news/Webbrowser-Firefox-109-bringt-Sicherheitsupdates-und-Manifest-V3-7462293.html"
+      "title": "Cisco: Hochriskantes Sicherheitsleck in Unified Communications Manager",
+      "teaser": "In der Unified Communications Manager-Software von Cisco klafft eine Sicherheitslücke mit hohem Risiko. Der Hersteller stellt Updates zum Schließen bereit.",
+      "url": "https://www.heise.de/news/Cisco-Hochriskantes-Sicherheitsleck-in-Unified-Communications-Manager-7465203.html"
     },
     {
-      "title": "Zusatztermin: Active Directory – Angriffe verstehen und verhindern",
-      "teaser": "Das heise-Security-Webinar zu Schwachstellen und Sicherheitskonzepten des Active Directory war ausgebucht. Deshalb gibt es am 8. Februar einen neuen Termin.",
-      "url": "https://www.heise.de/news/Zusatztermin-Active-Directory-Angriffe-verstehen-und-verhindern-7464375.html"
-    },
-    {
-      "title": "Erneut Cyber-Angriff auf T-Mobile US - rund 37 Millionen Kunden betroffen",
+      "title": "37 Millionen Kunden von Cyber-Angriff auf T-Mobile US betroffen",
       "teaser": "Die US-Tochter der deutschen Telekom ist Opfer einer weiteren Hacker-Attacke geworden. Es seien aber keine hochsensiblen Kundendaten erbeutet worden.",
       "url": "https://www.heise.de/news/Erneut-Cyber-Angriff-auf-T-Mobile-US-rund-37-Millionen-Kunden-betroffen-7464911.html",
       "image_title": "Logo der deutschen Telekom"
@@ -83,6 +83,11 @@
       "teaser": "Mit iOS 16.3 kommt ein breiterer Rollout von Apples Ende-zu-Ende-Verschlüsselung für die iCloud. Auch Deutschland ist mit dabei. Doch was ist mit Metadaten?",
       "url": "https://www.heise.de/news/Erweiterter-iCloud-Datenschutz-ab-kommender-Woche-in-Deutschland-7463387.html",
       "image_title": "iCloud"
+    },
+    {
+      "title": "Am Mittwoch: Das heise-Security-Webinar zu Zero Trust",
+      "teaser": "Das Webinar entlarvt leere Werbeversprechen und zeigt, wie und wo der Zero-Trust-Ansatz wirklich helfen kann, die Sicherheit der Firmen-IT zu verbessern.",
+      "url": "https://www.heise.de/news/Am-Mittwoch-Das-heise-Security-Webinar-zu-Zero-Trust-7462714.html"
     },
     {
       "title": "Hochriskante Sicherheitslücken in Qt \"nur ein Bug\"",
@@ -148,11 +153,6 @@
       "image_title": "iX-Workshop: Sichere Unternehmens-IT mit Zero Trust"
     },
     {
-      "title": "Attacken auf kritische Lücke in ManageEngine-Produkte von Zoho bald möglich",
-      "teaser": "Angreifer könnten ManageEngine-Produkte wie Access Manager Plus und Password Manager Pro mit Schadcode attackieren.",
-      "url": "https://www.heise.de/news/Attacken-auf-kritische-Luecke-in-ManageEngine-Produkte-von-Zoho-bald-moeglich-7461118.html"
-    },
-    {
       "title": "Zero Trust – die Sicherheitsarchitektur",
       "teaser": "Das Webinar erklärt grundlegende Zero-Trust-Konzepte: Welche Rolle nehmen konkrete Maßnahmen wie Mikrosegmentierung, Conditional Access, TLS-Verschlüsselung darin ein und welche relevanten Produktkategorien ergeben sich daraus? Optimieren Sie Ihre eigene IT-Infrastruktur.",
       "url": "https://webinare.heise.de/zero-trust/?wt_mc=intern.academy.security.web_zero_trust.teaser.link.link"
@@ -176,7 +176,7 @@
     {
       "title": "Re: ESET Update hängt sich auf",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Update-haengt-sich-auf/posting-42166053/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Update-haengt-sich-auf/posting-42166426/show/"
     },
     {
       "title": "ESET: \"Starting odscan...\" <- Feierabend",
