@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-20T07:11:24",
+  "timestamp": "2023-01-20T08:16:13",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
       "id": null,
       "text": null
@@ -84,67 +90,66 @@
       "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
     },
     {
-      "title": "Richard Barrons: \"Deutschland muss sich jetzt entscheiden, auf welcher Seite es steht\"",
-      "teaser": "Der britische Ex-General Richard Barrons sagt, die Bundesregierung könnte einen Wendepunkt im Krieg in der Ukraine herbeiführen. Die Zeit sei allerdings knapp.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/richard-barrons-ex-general-panzer-lieferung-ukraine-krieg",
-      "image_url": "https://img.zeit.de/2023-01/richard-barrons-ex-general-panzer-lieferung-ukraine-krieg-bild/cinema__1000x428",
-      "image_title": "richard-barrons-ex-general-panzer-lieferung-ukraine-krieg-bild"
-    },
-    {
-      "title": "Ukraine-Überblick: USA kündigen großes Militärpaket an, Ukraine hofft auf Ramstein",
-      "teaser": "Das Pentagon sagt Waffen im Wert von 2,5 Milliarden Dollar zu. Boris Pistorius sieht Abrams-Panzer nicht als Bedingung für Leopard-Lieferungen. Die Nacht",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-ramstein-panzer-militaerpaket-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-ramstein-panzer-militaerpaket-usa-bild/cinema__980x420",
-      "image_title": "Ukraine-Überblick: USA kündigen großes Militärpaket an, Ukraine hofft auf Ramstein"
-    },
-    {
-      "title": "Liveblog: Ukraine-News: CIA-Direktor traf Selenskyj, EVP-Chef drängt zu Waffenallianz",
-      "teaser": "William Burns sprach in Kiew auch mit Geheimdienstlern der Ukraine. Manfred Weber drängt vor Ramstein zu mehr Waffenlieferungen aus europäischer Herstellung. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-liveblog-cia-wolodymyr-selenskyj-waffen-manfred-weber/cinema__980x420",
-      "image_title": "Ukraine-News: CIA-Direktor traf Selenskyj, EVP-Chef drängt zu Waffenallianz"
-    },
-    {
       "title": "Russische Armee: Ohne Rücksicht auf Verluste",
       "teaser": "Die russische Armee kämpft um Einfluss und Ansehen in der Heimat. Die private Konkurrenz Wagner feiert ihre Söldner derweil als Helden an der Front.",
       "url": "https://www.zeit.de/politik/ausland/2023-01/russland-armee-offensive-wagner-5vor8",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/russland-armee-z/wide__822x462",
-      "image_title": "Russische Armee: Ohne Rücksicht auf Verluste"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/russland-armee-z/cinema__980x420"
     },
     {
-      "title": "Nachrichtenpodcast: Russische Propaganda: \"Heldentod\" soll zum Kämpfen motivieren",
-      "teaser": "Militärisch läuft es für Russland in der Ukraine nicht gut – werden nun weitere Männer mobilisiert? Außerdem im Newspodcast: Wie ist die aktuelle Lage in Bergkarabach?",
-      "url": "https://www.zeit.de/politik/2023-01/ukraine-krieg-russland-mobilmachung-bergkarabach-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Russische Propaganda: \"Heldentod\" soll zum Kämpfen motivieren"
+      "title": "Politikpodcast: \"Wo ein Wille ist, ist ein Panzer\"",
+      "teaser": "Deutschland hat einen neuen Verteidigungsminister, aber ein klarer außenpolitischer Kurs fehlt. Über unsere Rolle in der Welt – und wie sie sich verändern müsste.",
+      "url": "https://www.zeit.de/politik/2023-01/deutsche-aussenpolitik-panzer-lieferung-ukraine-russland-politikpodcast",
+      "image_url": "https://img.zeit.de/politik/2023-01/deutsche-aussenpolitik-panzer-lieferung-scholz-2/wide__822x462",
+      "image_title": "Politikpodcast: \"Wo ein Wille ist, ist ein Panzer\""
+    },
+    {
+      "title": "Leopard-Debatte: Ukraine hofft auf Panzersignal aus Ramstein",
+      "teaser": "Am US-Stützpunkt Ramstein treffen sich heute die Verteidigungsminister der Ukraine-Kontaktgruppe. Die Lieferung deutscher Kampfpanzer scheint nicht mehr ausgeschlossen.",
+      "url": "https://www.zeit.de/politik/2023-01/ramstein-treffen-ukraine-panzer",
+      "image_url": "https://img.zeit.de/politik/2023-01/boris-pistorius-bild/wide__822x462",
+      "image_title": "Leopard-Debatte: Ukraine hofft auf Panzersignal aus Ramstein"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Richard Barrons: \"Deutschland muss sich jetzt entscheiden, auf welcher Seite es steht\"",
+      "teaser": "Der britische Ex-General Richard Barrons sagt, die Bundesregierung könnte einen Wendepunkt im Krieg in der Ukraine herbeiführen. Die Zeit sei allerdings knapp.",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/richard-barrons-ex-general-panzer-lieferung-ukraine-krieg",
+      "image_url": "https://img.zeit.de/2023-01/richard-barrons-ex-general-panzer-lieferung-ukraine-krieg-bild/wide__822x462",
+      "image_title": "Richard Barrons: \"Deutschland muss sich jetzt entscheiden, auf welcher Seite es steht\""
+    },
+    {
+      "title": "Liveblog: Ukraine-News: Svenja Schulze kündigt in Odessa weitere Aufbauhilfe an",
+      "teaser": "Für den Wiederaufbau der Infrastruktur soll die Ukraine weitere 52 Millionen Euro aus Deutschland bekommen. CIA-Direktor Burns traf Selenskyj in Kiew. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/2023-01/ukraine-krieg-russland-newsblog-live-bild/wide__822x462",
+      "image_title": "Ukraine-News: Svenja Schulze kündigt in Odessa weitere Aufbauhilfe an"
+    },
+    {
+      "title": "Grüne Woche: \"Die Politik kann nicht sagen: Liebe Verbraucher, rettet mal die Welt\"",
+      "teaser": "Weniger Nutztiere, mehr Tierwohl und vernässte Moore: Die Landwirtschaft muss sich grundlegend verändern – für Klima und Artenschutz. Nur wie? Zwei Experten diskutieren.",
+      "url": "https://www.zeit.de/wissen/2023-01/landwirtschaft-innovation-gruene-woche-berlin-klimaschutz-artenschutz",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-01/landwirtschaft-innovation-gruene-woche-berlin-klimaschutz/cinema__980x420",
+      "image_title": "Grüne Woche: \"Die Politik kann nicht sagen: Liebe Verbraucher, rettet mal die Welt\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Solaranlage auf dem Balkon: Balkonien muss vor Gericht",
       "teaser": "Minisolaranlagen sollen die Energiewende voranbringen, doch manche finden sie hässlich und klagen dagegen. Ein Konstanzer will nun Rechtsgeschichte schreiben",
       "url": "https://www.zeit.de/green/2023-01/solaranlage-balkon-konstanz-landesgericht-eigentuemer",
-      "image_url": "https://img.zeit.de/green/2023-01/solaranlage-balkon-konstanz-landesgericht-eigentuemer-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/green/2023-01/solaranlage-balkon-konstanz-landesgericht-eigentuemer-bild/wide__822x462",
       "image_title": "Solaranlage auf dem Balkon: Balkonien muss vor Gericht"
     },
     {
-      "title": "Long Covid: \"Wir hören Sie, wir sehen Ihr Anliegen\"",
-      "teaser": "Das chronische Erschöpfungssyndrom ME/CFS zerstört das Leben Hunderttausender. Ein Auslöser: Corona. Nun verspricht der Bundestag Hilfe – über alle Parteigrenzen hinweg.",
-      "url": "https://www.zeit.de/gesundheit/2023-01/long-covid-me-cfs-bundestag-protestaktion-feldbetten",
-      "image_url": "https://img.zeit.de/gesundheit/2023-01/long-covid-me-cfs-bundestag-protestaktion-feldbetten-bild/wide__822x462",
-      "image_title": "Long Covid: \"Wir hören Sie, wir sehen Ihr Anliegen\""
+      "title": "Inflation: Mieterbund beklagt starke Zunahme von Indexmieten",
+      "teaser": "Ein Drittel der neuen Mietverträge sei an die Inflation gekoppelt, schätzt der Mieterbund – in Berlin deutlich mehr. Der Verein fordert ein Verbot von Indexmieten.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/inflation-mieterbund-indexmiete-zunahme-wohnungsnot",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/inflation-mieterbund-indexmiete-zunahme-wohnungsnot-bild/wide__822x462",
+      "image_title": "Inflation: Mieterbund beklagt starke Zunahme von Indexmieten"
     },
     {
-      "title": "Wahlrechtsreform: Union will Zahl der Wahlkreise auf 270 senken",
-      "teaser": "Die Ampel-Koalition will die Überhangmandate abschaffen, um den Bundestag zu verkleinern. Die Union fordert stattdessen, die Zahl der Wahlkreise deutlich zu reduzieren.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-01/wahlrechtsreform-union-ampel-wahlkreise-anzahl-bundestag",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/wahlrechtsreform-union-ampel-wahlkreise/wide__822x462",
-      "image_title": "Wahlrechtsreform: Union will Zahl der Wahlkreise auf 270 senken"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wahlrechtsreform: Wer heute nicht im Bundestag säße",
-      "teaser": "Die Ampel möchte das Parlament verkleinern. Wir zeigen, wer es mit den neuen Regeln 2021 nicht in den Bundestag geschafft hätte – und welche Wahlkreise verwaist wären.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-01/wahlrechtsreform-bundestagswahl-2021-ueberhangmandate-interaktiv",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/teaserbild-wahlrechtsreform-bundestagswahl-2021-ueberhangmandate-interaktiv/wide__822x462",
-      "image_title": "Wahlrechtsreform: Wer heute nicht im Bundestag säße"
+      "title": "Deutsche Post: Ver.di bestreikt Brief- und Paketzentren",
+      "teaser": "Kunden der Deutschen Post könnten ihre Päckchen und Briefe später bekommen als sonst: Im Tarifstreit legen bundesweit Beschäftigte des Unternehmens die Arbeit nieder.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/deutsche-post-streiks-gewerkschaft-verdi",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/warnstreiks-bei-der-post-bild/wide__822x462",
+      "image_title": "Deutsche Post: Ver.di bestreikt Brief- und Paketzentren"
     },
     {
       "title": "Wirtschaft : Der Klima-Betrug",
@@ -153,53 +158,32 @@
       "image_url": "https://img.zeit.de/2022/packshot-23-4-1000x620.jpg/imagegroup/original__1000x620"
     },
     {
-      "title": "Crosby, Stills & Nash: US-Rocksänger David Crosby ist tot",
-      "teaser": "Der Gitarrist, Sänger und Songwriter war Mitbegründer von The Byrds. Er wurde zwei Mal in die Rock and Roll Hall of Fame aufgenommen. Er starb im Alter von 81 Jahren.",
-      "url": "https://www.zeit.de/kultur/musik/2023-01/david-crosby-tot-saenger-gitarist-byrds",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-01/david-crosby-tot-saenger-gitarist-byrds-bild/wide__822x462",
-      "image_title": "Crosby, Stills & Nash: US-Rocksänger David Crosby ist tot"
+      "title": "Tennis: Andy Murray nennt Spielplan der Australian Open eine \"Farce\"",
+      "teaser": "Sein Match gewann er vier Uhr nachts – eine Unzeit auch für Zuschauer, Schiedsrichter, Ballkinder. Alternativlos, kontert der Turnierchef und verweist auf TV-Verträge.",
+      "url": "https://www.zeit.de/sport/2023-01/australian-open-andy-murray-craig-tiley-spielplan-kritik",
+      "image_url": "https://img.zeit.de/sport/2023-01/andy-murray-bild-3/wide__822x462",
+      "image_title": "Tennis: Andy Murray nennt Spielplan der Australian Open eine \"Farce\""
     },
     {
-      "title": "Inflation: Mieterbund beklagt starke Zunahme von Indexmieten",
-      "teaser": "Ein Drittel der neuen Mietverträge sei an die Inflation gekoppelt, schätzt der Mieterbund – in Berlin deutlich mehr. Der Verein fordert ein Verbot von Indexmieten.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/inflation-mieterbund-indexmiete-zunahme-wohnungsnot",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/inflation-mieterbund-indexmiete/wide__822x462",
-      "image_title": "Inflation: Mieterbund beklagt starke Zunahme von Indexmieten"
+      "title": "Z+ (abopflichtiger Inhalt); Dinosaurier: Riesenschädel, nichts dahinter? Von wegen!",
+      "teaser": "Lange hat man sich Tyrannosaurus rex als recht dummes Tier vorgestellt. Doch eine Neurowissenschaftlerin sagt nun: Dinosaurier waren womöglich so schlau wie Affen.",
+      "url": "https://www.zeit.de/2023/04/dinosaurier-tyrannosaurus-rex-intelligenz-neurowissenschaft-palaeontologie",
+      "image_url": "https://img.zeit.de/2023/04/dinosaurier-tyrannosaurus-rex-intelligenz-neurowissenschaft-palaeontologie-teaser/cinema__980x420",
+      "image_title": "Dinosaurier: Riesenschädel, nichts dahinter? Von wegen!"
     },
     {
       "title": "Hahnenkamm-Rennen: Ein Wunder, dass alle überlebten",
       "teaser": "Die Streif in Kitzbühel ist die beeindruckendste Abfahrtstrecke der Welt. Und die gefährlichste. Über das Verhältnis zwischen Spektakel und Sicherheit.",
       "url": "https://www.zeit.de/sport/2023-01/streif-hahnenkamm-rennen-kitzbuehel-gefaehrlich",
-      "image_url": "https://img.zeit.de/sport/2023-01/streif-hahnenkamm/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2023-01/streif-hahnenkamm/wide__822x462",
       "image_title": "Hahnenkamm-Rennen: Ein Wunder, dass alle überlebten"
     },
     {
-      "title": "Lima: Erneut Zusammenstöße zwischen Polizei und Demonstrierenden in Peru",
-      "teaser": "In Lima haben Tausende für die Absetzung von Präsidentin Dina Boluarte demonstriert. 12.000 Polizisten waren im Einsatz, die Beamten setzten Tränengas ein.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/lima-peru-zusammenstoesse-polizei-demonstranten-ruecktritt-praesidentin",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/lima-peru-zusammenstoesse-polizei-demonstranten-ruecktritt-praesidentin-bild/wide__822x462",
-      "image_title": "Lima: Erneut Zusammenstöße zwischen Polizei und Demonstrierenden in Peru"
-    },
-    {
-      "title": "Iran: EU könnte Revolutionsgarden wohl nicht einfach auf Terrorliste setzen",
-      "teaser": "Das EU-Parlament forderte per Resolution, die Revolutionsgarden im Iran als Terrororganisation einzustufen. Der Auswärtige Dienst der EU bezweifelt, ob das möglich ist.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/iran-eu-revolutionsgarden-terrorliste-eu-parlament",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/iran-eu-revolutionsgarden-terrorliste/wide__822x462",
-      "image_title": "Iran: EU könnte Revolutionsgarden wohl nicht einfach auf Terrorliste setzen"
-    },
-    {
-      "title": "Christopher Wray: FBI-Chef besorgt über Chinas KI-Programm",
-      "teaser": "Der FBI-Direktor fürchtet, China könnte künstliche Intelligenz für Hackerangriffe und Unterdrückung von Dissidenten nutzen. Er wirft dem Land Datendiebstahl vor.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/christopher-wray-fbi-chef-china-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/christopher-wray-fbi-chef-china/wide__822x462",
-      "image_title": "Christopher Wray: FBI-Chef besorgt über Chinas KI-Programm"
-    },
-    {
-      "title": "T-Mobile US: Cyberangriff auf Telekom-Tochter in den USA",
-      "teaser": "Hacker verschafften sich offenbar Zugriff auf Daten von 37 Millionen Kunden. Dem US-Mobilfunkanbieter zufolge sind aber keine hochsensiblen Informationen erbeutet worden.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/t-mobile-us-telekom-tochter-hacker-cyber-attacke",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-01/t-mobile-us-telekom-tochter-hacker-cyber-attacke-bild/wide__822x462",
-      "image_title": "T-Mobile US: Cyberangriff auf Telekom-Tochter in den USA"
+      "title": "DFB: Rudi Völler wird neuer Direktor der Fußballnationalmannschaft",
+      "teaser": "Der Nachfolger für Oliver Bierhoff ist gefunden: Rudi Völler soll künftig die DFB-Auswahl managen. Im Februar beginnt der 62-Jährige in seiner neuen Position.",
+      "url": "https://www.zeit.de/sport/2023-01/rudi-voeller-dfb-nationalmannschaft-oliver-bierhoff",
+      "image_url": "https://img.zeit.de/sport/2023-01/rudi-voeller-dfb-nationalmannschaft-oliver-bierhoff-bild/wide__822x462",
+      "image_title": "DFB: Rudi Völler wird neuer Direktor der Fußballnationalmannschaft"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schlaflosigkeit: Was wirklich beim Schlafen hilft",
@@ -223,25 +207,25 @@
       "image_title": "Legalisierung von Cannabis: \"Man ist nicht mehr derselbe\""
     },
     {
-      "title": "CO₂-Handel: \"Es gibt niemanden, der das System unabhängig überwacht\"",
-      "teaser": "Nach Recherchen der ZEIT sind viele CO₂-Zertifikate wertlos. Der Atmosfair-Chef Dietrich Brockhagen erklärt, warum Kompensation trotzdem eine Lösung sein kann.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/co2-handel-emissionen-kompensieren-zertifikate-atmosfair-dietrich-brockhagen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/co2-handel-zertifikate-atmosfair-2/wide__822x462",
-      "image_title": "CO₂-Handel: \"Es gibt niemanden, der das System unabhängig überwacht\""
+      "title": "Long Covid: \"Wir hören Sie, wir sehen Ihr Anliegen\"",
+      "teaser": "Das chronische Erschöpfungssyndrom ME/CFS zerstört das Leben Hunderttausender. Ein Auslöser: Corona. Nun verspricht der Bundestag Hilfe – über alle Parteigrenzen hinweg.",
+      "url": "https://www.zeit.de/gesundheit/2023-01/long-covid-me-cfs-bundestag-protestaktion-feldbetten",
+      "image_url": "https://img.zeit.de/gesundheit/2023-01/long-covid-me-cfs-bundestag-protestaktion-feldbetten-bild/wide__822x462",
+      "image_title": "Long Covid: \"Wir hören Sie, wir sehen Ihr Anliegen\""
     },
     {
-      "title": "DFB: Rudi Völler wird neuer Direktor der Fußballnationalmannschaft",
-      "teaser": "Der Nachfolger für Oliver Bierhoff ist gefunden: Rudi Völler soll künftig die DFB-Auswahl managen. Im Februar beginnt der 62-Jährige in seiner neuen Position.",
-      "url": "https://www.zeit.de/sport/2023-01/rudi-voeller-dfb-nationalmannschaft-oliver-bierhoff",
-      "image_url": "https://img.zeit.de/sport/2023-01/rudi-voeller-direktor-fussball-nationalmannschaft-bild-2/wide__822x462",
-      "image_title": "DFB: Rudi Völler wird neuer Direktor der Fußballnationalmannschaft"
+      "title": "Internationale Grüne Woche: Immer mehr Menschen haben einen Jagdschein",
+      "teaser": "Die einen wollen frisches Wildfleisch, den anderen geht es um Arten- und Naturschutz: Die Zahl der Jäger in Deutschland steigt. Unter ihnen sind zunehmend Frauen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/jagdschein-zahl-jaeger-gestiegen",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-01/jagdschein-zahl-jaeger/wide__822x462",
+      "image_title": "Internationale Grüne Woche: Immer mehr Menschen haben einen Jagdschein"
     },
     {
-      "title": "Handball-WM: Deutsche Handballer gewinnen deutlich gegen Argentinien",
-      "teaser": "Die Erfolgsserie bei der Handball-WM setzt sich fort: Im ersten Spiel der Hauptrunde gewann die DHB-Auswahl deutlich gegen Argentinien. Nächster Gegner: die Niederlande.",
-      "url": "https://www.zeit.de/sport/2023-01/handball-wm-deuschland-argentinien-hauptrunde",
-      "image_url": "https://img.zeit.de/sport/2023-01/handball-wm-deutschland-argentinien-bild/wide__822x462",
-      "image_title": "Handball-WM: Deutsche Handballer gewinnen deutlich gegen Argentinien"
+      "title": "ADAC: Experten fordern Anpassung der Promillegrenze für E-Scooter-Fahrer",
+      "teaser": "Wer alkoholisiert mit einem E-Scooter fährt, wird bestraft wie Autofahrer. Einige Experten fänden eine Anlehnung an den Grenzwert für Fahrradfahrer passender.",
+      "url": "https://www.zeit.de/mobilitaet/2023-01/e-scooter-promillegrenze-adac-verkehrsgerichtstag",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-01/promillegrenze-fuer-e-scooter-fahrer-bild/wide__822x462",
+      "image_title": "ADAC: Experten fordern Anpassung der Promillegrenze für E-Scooter-Fahrer"
     },
     {
       "title": "Flüssigerdgas: Drittes LNG-Terminal in Brunsbüttel erwartet",
@@ -251,6 +235,13 @@
       "image_title": "Flüssigerdgas: Drittes LNG-Terminal in Brunsbüttel erwartet"
     },
     {
+      "title": "Streaming: Netflix gewinnt viele neue Kunden",
+      "teaser": "Der Streaminganbieter litt unter schwindenden Userzahlen. Dann lief diese ganz bestimmte Doku – und rettet Netflix das Geschäftsjahr. Gründer Hastings zieht sich zurück.",
+      "url": "https://www.zeit.de/digital/2023-01/streaming-netflix-harry-meghan-wednesday",
+      "image_url": "https://img.zeit.de/kultur/2023-01/netflix-bild/wide__822x462",
+      "image_title": "Streaming: Netflix gewinnt viele neue Kunden"
+    },
+    {
       "title": "Diandra Donecker: \"Samstag ist wie der Sprung in eine Sahnetorte\"",
       "teaser": "Im Wochenendpodcast verrät Kunsthändlerin Diandra Donecker die Geheimnisse des Kunstmarkts und einer perfekten Spaghetti Bolognese.",
       "url": "https://www.zeit.de/gesellschaft/2023-01/diandra-donecker-kunstmarkt-wochenende-tipps-podcast",
@@ -258,18 +249,11 @@
       "image_title": "Diandra Donecker: \"Samstag ist wie der Sprung in eine Sahnetorte\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Impostor-Syndrom: Vom Gefühl, ein Blender zu sein",
-      "teaser": "Menschen, die am Impostor-Syndrom leiden, haben das Gefühl, sich ihren Erfolg nur ermogelt zu haben. Und stellen sich ständig die Frage: Wann fliege ich auf?",
-      "url": "https://www.zeit.de/2023/04/impostor-syndrom-hochstapler-beruf-selbstzweifel",
-      "image_url": "https://img.zeit.de/2023/04/dieser-text-ist-schrott-bild-1/wide__822x462",
-      "image_title": "Impostor-Syndrom: Vom Gefühl, ein Blender zu sein"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verhütung für den Mann: \"Spermien sind sehr primitive Zellen\"",
-      "teaser": "Eine neue Studie beschreibt eine Möglichkeit, Spermien an der Befruchtung von Eizellen zu hindern. Wird Verhütung Männersache?",
-      "url": "https://www.zeit.de/2023/04/verhuetung-mann-hormonpille-spermien",
-      "image_url": "https://img.zeit.de/gesundheit/2023-01/verhuetung-mann-hormonpille-spermien-teaser/wide__822x462",
-      "image_title": "Verhütung für den Mann: \"Spermien sind sehr primitive Zellen\""
+      "title": "Crosby, Stills & Nash: US-Rocksänger David Crosby ist tot",
+      "teaser": "Der Gitarrist, Sänger und Songwriter war Mitbegründer von The Byrds. Er wurde zwei Mal in die Rock and Roll Hall of Fame aufgenommen. Er starb im Alter von 81 Jahren.",
+      "url": "https://www.zeit.de/kultur/musik/2023-01/david-crosby-tot-saenger-gitarist-byrds",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-01/david-crosby-tot-saenger-gitarist-byrds-bild/wide__822x462",
+      "image_title": "Crosby, Stills & Nash: US-Rocksänger David Crosby ist tot"
     },
     {
       "title": "Krim: Russland warnt USA und Ukraine vor Änderung der Krim-Strategie",
@@ -415,18 +399,18 @@
       "image_title": "Dreikönigskuchen: Dreimal Dreikönigskuchen"
     },
     {
-      "title": "Beratungen in Ramstein: USA \"dankbar\" für Deutschlands Ukraine-Hilfe",
-      "teaser": "Vor dem Treffen auf dem Luftwaffenstützpunkt Ramstein kündigen die USA ihre zweitgrößte Waffenlieferung an. Aus dem Nationalen Sicherheitsrat kommt Lob für Deutschland.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/ramstein-treffen-ukraine-john-kirby-panzer-waffen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ramstein-treffen-ukraine/cinema__980x420",
-      "image_title": "Beratungen in Ramstein: USA \"dankbar\" für Deutschlands Ukraine-Hilfe"
+      "title": "Lima: Erneut Zusammenstöße zwischen Polizei und Demonstrierenden in Peru",
+      "teaser": "In Lima haben Tausende für die Absetzung von Präsidentin Dina Boluarte demonstriert. 12.000 Polizisten waren im Einsatz, die Beamten setzten Tränengas ein.",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/lima-peru-zusammenstoesse-polizei-demonstranten-ruecktritt-praesidentin",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/lima-peru-zusammenstoesse-polizei-demonstranten-ruecktritt-praesidentin-bild/cinema__980x420",
+      "image_title": "Lima: Erneut Zusammenstöße zwischen Polizei und Demonstrierenden in Peru"
     },
     {
-      "title": "USA: Joe Biden spielt Bedeutung von Aktenfunden herunter",
-      "teaser": "Bei den vertraulichen Papieren handele es sich um \"eine Handvoll Dokumente, die am falschen Ort abgelegt wurden\", sagt Biden. Er wolle das Thema schnell klären.",
-      "url": "https://www.zeit.de/politik/ausland/2023-01/joe-biden-vertrauliche-dokumente-funde-garage-buero",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-01/joe-biden-vertrauliche-dokumente-kalifornien/wide__822x462",
-      "image_title": "USA: Joe Biden spielt Bedeutung von Aktenfunden herunter"
+      "title": "Ukraine-Überblick: USA kündigen großes Militärpaket an, Ukraine hofft auf Ramstein",
+      "teaser": "Das Pentagon sagt Waffen im Wert von 2,5 Milliarden Dollar zu. Boris Pistorius sieht Abrams-Panzer nicht als Bedingung für Leopard-Lieferungen. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-ramstein-panzer-militaerpaket-usa",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-ueberblick-ramstein-panzer-militaerpaket-usa-bild/wide__822x462",
+      "image_title": "Ukraine-Überblick: USA kündigen großes Militärpaket an, Ukraine hofft auf Ramstein"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Rainer Maria Woelki : Fangt mich, wenn ihr könnt!",
@@ -450,29 +434,29 @@
       "image_title": "Klimaaktivismus: Die neue Mitte"
     },
     {
+      "title": "T-Mobile US: Cyberangriff auf Telekom-Tochter in den USA",
+      "teaser": "Hacker verschafften sich offenbar Zugriff auf Daten von 37 Millionen Kunden. Dem US-Mobilfunkanbieter zufolge sind aber keine hochsensiblen Informationen erbeutet worden.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-01/t-mobile-us-telekom-tochter-hacker-cyber-attacke",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-01/t-mobile-us-telekom-tochter-hacker-cyber-attacke-bild/cinema__980x420",
+      "image_title": "T-Mobile US: Cyberangriff auf Telekom-Tochter in den USA"
+    },
+    {
+      "title": "CO₂-Handel: \"Es gibt niemanden, der das System unabhängig überwacht\"",
+      "teaser": "Nach Recherchen der ZEIT sind viele CO₂-Zertifikate wertlos. Der Atmosfair-Chef Dietrich Brockhagen erklärt, warum Kompensation trotzdem eine Lösung sein kann.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/co2-handel-emissionen-kompensieren-zertifikate-atmosfair-dietrich-brockhagen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/co2-handel-zertifikate-atmosfair-2/wide__822x462",
+      "image_title": "CO₂-Handel: \"Es gibt niemanden, der das System unabhängig überwacht\""
+    },
+    {
       "title": "Wirecard: Nichts zu lachen",
       "teaser": "Wie gelang es Wirecard, die Wirtschaftsprüfer zu linken? Kronzeuge Oliver Bellenhaus schildert Einzelheiten – und der Richter wundert sich, dass niemand früher eingriff.",
       "url": "https://www.zeit.de/wirtschaft/2023-01/wirecard-prozess-muenchen-ey-kronzeuge-oliver-bellenhaus",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/wirecard-oliver-bellenhaus-wirtschaftspruefer-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/wirecard-oliver-bellenhaus-wirtschaftspruefer-bild/wide__822x462",
       "image_title": "Wirecard: Nichts zu lachen"
     },
     {
-      "title": "Europäische Zentralbank: Christine Lagarde sieht Inflation weiter als \"viel zu hoch\"",
-      "teaser": "Trotz des leichten Rückgangs der Inflation spricht sich die EZB-Präsidentin erneut für weitere Zinserhöhungen aus. Die Notenbank müsse weiter \"auf Kurs\" bleiben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/inflation-europaeische-zentralbank-ezb-christine-lagarde-davos",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-01/inflation-europaeische-zentralbank-ezb-christine-lagarde-bild/wide__822x462",
-      "image_title": "Europäische Zentralbank: Christine Lagarde sieht Inflation weiter als \"viel zu hoch\""
-    },
-    {
-      "title": "Familienministerium: Konzept zur Kindergrundsicherung steht",
-      "teaser": "Die neue Kindergrundsicherung soll Kindergeld, Bürgergeld und Kinderzuschlag zusammenfassen. Erstmals ausgezahlt wird sie frühestens 2025.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/konzept-kindergrundsicherung-familienministerium",
-      "image_url": "https://img.zeit.de/gesellschaft/familie/2023-01/konzept-kindergrundsicherung-familienministerium-bild/wide__822x462",
-      "image_title": "Familienministerium: Konzept zur Kindergrundsicherung steht"
-    },
-    {
       "title": "WirtschaftsWocheVor Nato-Treffen in Ramstein: Mit dem Leopard-Panzer beginnt Phase 3 des Kriegs",
-      "teaser": "Am Freitag kommen die Nato-Partner in Ramstein zusammen, um über die Entsendung von Kampfpanzern in die Ukraine zu beraten. Vieles bleibt unklar – auch, wie der nächste Schritt nach dem Leopard 2 aussehen wird.",
+      "teaser": "Am Freitag kommen die Nato-Partner in Ramstein zusammen, um über die Entsendung von Kampfpanzern in die Ukraine zu beraten. Vieles ist noch unklar – auch, wie der nächste Schritt nach dem Leopard 2 aussehen wird.",
       "url": "https://www.wiwo.de/politik/deutschland/vor-nato-treffen-in-ramstein-mit-dem-leopard-panzer-beginnt-phase-3-des-kriegs/28933870.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/leopard-rammstein-gruppe-42020385-dpa/28933682/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Vor Nato-Treffen in Ramstein: Mit dem Leopard-Panzer beginnt Phase 3 des Kriegs"
@@ -633,10 +617,17 @@
       "image_title": "Jobabbau: Microsoft streicht 10.000 Stellen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Impostor-Syndrom: Vom Gefühl, ein Blender zu sein",
+      "teaser": "Menschen, die am Impostor-Syndrom leiden, haben das Gefühl, sich ihren Erfolg nur ermogelt zu haben. Und stellen sich ständig die Frage: Wann fliege ich auf?",
+      "url": "https://www.zeit.de/2023/04/impostor-syndrom-hochstapler-beruf-selbstzweifel",
+      "image_url": "https://img.zeit.de/2023/04/dieser-text-ist-schrott-bild-1/cinema__980x420",
+      "image_title": "Impostor-Syndrom: Vom Gefühl, ein Blender zu sein"
+    },
+    {
       "title": "Coronavirus: Corona-Maßnahmen am Arbeitsplatz sollen im Februar enden",
       "teaser": "Bundesarbeitsminister Hubertus Heil hält die bisherige Schutzverordnung nicht mehr für notwendig. In der Bevölkerung gebe es dann eine ausreichende Immunität.",
       "url": "https://www.zeit.de/arbeit/2023-01/coronavirus-arbeitsplatz-spd-hubertus-heil-arbeitsschutzverordnung",
-      "image_url": "https://img.zeit.de/arbeit/2023-01/coronavirus-arbeitsplatz-hubertus-heil-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/arbeit/2023-01/coronavirus-arbeitsplatz-hubertus-heil-bild/wide__822x462",
       "image_title": "Coronavirus: Corona-Maßnahmen am Arbeitsplatz sollen im Februar enden"
     },
     {
@@ -645,13 +636,6 @@
       "url": "https://www.zeit.de/arbeit/2023-01/jacinda-arder-neuseeland-premierministerin-ruecktritt",
       "image_url": "https://img.zeit.de/arbeit/2023-01/jacinda-arder-neuseeland-premierministerin-ruecktritt-bild/wide__822x462",
       "image_title": "Jacinda Ardern: Schneller als der Burn-out"
-    },
-    {
-      "title": "Statistisches Bundesamt: Immer mehr ältere Menschen arbeiten noch",
-      "teaser": "Die Deutschen sind nach Angaben des Statistischen Bundesamts länger erwerbstätig als früher. Besonders Menschen mit höherer Qualifikation arbeiten auch im höheren Alter.",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/arbeiten-rente-alter-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-01/erwerbsleben-alter-bild/wide__822x462",
-      "image_title": "Statistisches Bundesamt: Immer mehr ältere Menschen arbeiten noch"
     },
     {
       "title": "Verlagsangebot: Englischquiz – Wie gut kennen Sie die Stadt, die niemals schläft?",
@@ -731,17 +715,10 @@
       "image_title": "Reiseinspiration mit dem ZEIT REISEN-Newsletter"
     },
     {
-      "title": "ADAC: Experten fordern Anpassung der Promillegrenze für E-Scooter-Fahrer",
-      "teaser": "Wer alkoholisiert mit einem E-Scooter fährt, wird bestraft wie Autofahrer. Einige Experten fänden eine Anlehnung an den Grenzwert für Fahrräder passender.",
-      "url": "https://www.zeit.de/mobilitaet/2023-01/e-scooter-promillegrenze-adac-verkehrsgerichtstag",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-01/promillegrenze-fuer-e-scooter-fahrer-bild/cinema__980x420",
-      "image_title": "ADAC: Experten fordern Anpassung der Promillegrenze für E-Scooter-Fahrer"
-    },
-    {
       "title": "Ende der Maskenpflicht: Jetzt bloß nicht die Nerven verlieren",
       "teaser": "Der Kellner im ICE fordert die Fahrgäste noch einmal mit geradezu militärischer Härte zur Mundnasenbedeckung auf. Ein letzter Gruß an die Maskenpflicht im Fernverkehr",
       "url": "https://www.zeit.de/2023/04/maskenpflicht-ende-fernverkehr-deutsche-bahn",
-      "image_url": "https://img.zeit.de/2023-01/maskenpflicht-ende-fernverkehr-deutsche-bahn-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023-01/maskenpflicht-ende-fernverkehr-deutsche-bahn-bild/cinema__980x420",
       "image_title": "Ende der Maskenpflicht: Jetzt bloß nicht die Nerven verlieren"
     },
     {
@@ -750,6 +727,13 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-01/49-euro-ticket-cdu-verschleppung-bundesregierung",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-01/49-euro-ticket-cdu-verschleppung-bundesregierung-bild/wide__822x462",
       "image_title": "Deutschlandticket: CDU kritisiert Verschleppung von 49-Euro-Ticket"
+    },
+    {
+      "title": "Automobilbranche: Autoverkäufe in der EU sinken auf tiefsten Stand seit knapp 30 Jahren",
+      "teaser": "Trotz zuletzt starker Verkaufszahlen: 2022 wurden in der EU so wenige Pkw zugelassen wie seit 1993 nicht mehr. Und die Aussichten für die Industrie sind kaum besser.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/pkw-neuzulassungen-eu-autobranche-europa",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-01/pkw-neuzulassungen-eu-autobranche-europa-bild/wide__822x462",
+      "image_title": "Automobilbranche: Autoverkäufe in der EU sinken auf tiefsten Stand seit knapp 30 Jahren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburg-Eimsbüttel: Die Spur der Steine",
@@ -766,11 +750,11 @@
       "image_title": "Stefan Hensel: \"Wir diskutieren nicht mit Leuten, die uns als Schweine darstellen\""
     },
     {
-      "title": "Tennis: Andy Murray nennt Spielplan der Australian Open eine \"Farce\"",
-      "teaser": "Sein Match gewann er vier Uhr nachts – eine Unzeit auch für Zuschauer, Schiedsrichter, Ballkinder. Alternativlos, kontert der Turnierchef und verweist auf TV-Verträge.",
-      "url": "https://www.zeit.de/sport/2023-01/australian-open-andy-murray-craig-tiley-spielplan-kritik",
-      "image_url": "https://img.zeit.de/sport/2023-01/andy-murray-bild-3/cinema__980x420",
-      "image_title": "Tennis: Andy Murray nennt Spielplan der Australian Open eine \"Farce\""
+      "title": "Handball-WM: Deutsche Handballer gewinnen deutlich gegen Argentinien",
+      "teaser": "Die Erfolgsserie bei der Handball-WM setzt sich fort: Im ersten Spiel der Hauptrunde gewann die DHB-Auswahl deutlich gegen Argentinien. Nächster Gegner: die Niederlande.",
+      "url": "https://www.zeit.de/sport/2023-01/handball-wm-deuschland-argentinien-hauptrunde",
+      "image_url": "https://img.zeit.de/sport/2023-01/handball-wm-deutschland-argentinien-bild/cinema__980x420",
+      "image_title": "Handball-WM: Deutsche Handballer gewinnen deutlich gegen Argentinien"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Norbert Elgert: \"Das haben wir in Deutschland gewaltig übertrieben!\"",
@@ -836,36 +820,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Vorpommern-Rügen: 87-Jährige missbraucht und beraubt: Prozessstart im Februar",
-      "url": "https://www.zeit.de/news/2023-01/20/87-jaehrige-missbraucht-und-beraubt-prozessstart-im-februar"
+      "title": "Linke-Politiker: Pellmann: Regierung für hohe Spritpreise verantwortlich",
+      "url": "https://www.zeit.de/news/2023-01/20/pellmann-regierung-fuer-hohe-spritpreise-verantwortlich"
     },
     {
-      "title": "Handball-WM: Nach Argentinien-Gala: DHB-Team bereit für Niederlande",
-      "url": "https://www.zeit.de/news/2023-01/20/nach-argentinien-gala-dhb-team-bereit-fuer-niederlande"
+      "title": "Tarifkonflikt: Verdi bestreikt Brief- und Paketzentren der Post",
+      "url": "https://www.zeit.de/news/2023-01/20/verdi-bestreikt-brief-und-paketzentren-der-post"
     },
     {
-      "title": "Region Hannover: Rauch in Lokomotive führt zu Ausfällen und Verspätungen",
-      "url": "https://www.zeit.de/news/2023-01/20/rauch-in-lokomotive-fuehrt-zu-ausfaellen-und-verspaetungen"
+      "title": "Autokonzern: Mercedes-Beschäftigte erhalten bis zu 7300 Euro Prämie",
+      "url": "https://www.zeit.de/news/2023-01/20/mercedes-beschaeftigte-erhalten-bis-zu-7300-euro-praemie"
     },
     {
-      "title": "Arbeitsniederlegungen: Verdi ruft Post-Zusteller zu Warnstreiks auf",
-      "url": "https://www.zeit.de/news/2023-01/20/verdi-ruft-post-zusteller-zu-warnstreiks-auf"
+      "title": "Verkehrskontrolle: Offene Haftbefehle: Polizei erwischt Gesuchte",
+      "url": "https://www.zeit.de/news/2023-01/20/offene-haftbefehle-polizei-erwischt-gesuchte"
     },
     {
-      "title": "Flüchtlinge: Wenn Asylbewerber monatelang obdachlos sind",
-      "url": "https://www.zeit.de/news/2023-01/20/wenn-asylbewerber-monatelang-obdachlos-sind"
+      "title": "Landeskriminalamt: Durchsuchungen wegen Abrechnungsbetrug im Gesundheitswesen",
+      "url": "https://www.zeit.de/news/2023-01/20/durchsuchungen-wegen-abrechnungsbetrug-im-gesundheitswesen"
     },
     {
-      "title": "Tarifstreit: Postbeschäftige im Saarland zum Warnstreik aufgerufen",
-      "url": "https://www.zeit.de/news/2023-01/20/postbeschaeftige-im-saarland-zum-warnstreik-aufgerufen"
+      "title": "Berlin-Gesundbrunnen: Autofahrer flüchtet vor Kontrolle und verursacht Unfall",
+      "url": "https://www.zeit.de/news/2023-01/20/autofahrer-fluechtet-vor-kontrolle-und-verursacht-unfall"
     },
     {
-      "title": "Unglück: Nach Sturz in Betonrohr: Toter Junge in Vietnam geborgen",
-      "url": "https://www.zeit.de/news/2023-01/20/nach-sturz-in-betonrohr-toter-junge-in-vietnam-geborgen"
+      "title": "Schwäbisch Hall: Stark betrunkener Autofahrer flüchtet zu Fuß durch Wald",
+      "url": "https://www.zeit.de/news/2023-01/20/stark-betrunkener-autofahrer-fluechtet-zu-fuss-durch-wald"
     },
     {
-      "title": "Fußball: PR-Spektakel in Saudi-Arabien: Ronaldo trotz 4:5 glücklich",
-      "url": "https://www.zeit.de/news/2023-01/20/pr-spektakel-in-saudi-arabien-ronaldo-trotz-4-5-gluecklich"
+      "title": "Ermittlungen: Kabeldiebstahl: Keine Züge zwischen Halle und Bitterfeld",
+      "url": "https://www.zeit.de/news/2023-01/20/kabeldiebstahl-keine-zuege-zwischen-halle-und-bitterfeld"
     }
   ]
 }
