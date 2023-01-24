@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-24T08:15:32",
+  "timestamp": "2023-01-24T09:11:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.0a4c54d53843601a4bdf",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ad47cd5dbce874e7bf83",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Symantec Endpoint Protection",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Symantec-Endpoint-Protection-als-Sprungbrett-fuer-Angreifer-7468961.html"
+    },
     {
       "title": "Wireshark",
       "url": "https://www.heise.de/news/Mehrere-DoS-Luecken-im-Netzwerkanalysetool-Wireshark-geschlossen-7468113.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Anmeldung-bei-ManageEngine-ServiceDesk-Plus-MSP-mit-beliebigem-Passwort-moeglich-7467650.html"
     },
     {
-      "title": "Cisco Unified Communications Manager",
-      "url": "https://www.heise.de/news/Cisco-Hochriskantes-Sicherheitsleck-in-Unified-Communications-Manager-7465203.html"
+      "title": "Sicherheitsupdate: Symantec Endpoint Protection als Sprungbrett für Angreifer",
+      "teaser": "Aufgrund einer Schwachstelle könnten Angreifer Windows-PCs mit Sicherheitssoftware von Symantec attackieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Symantec-Endpoint-Protection-als-Sprungbrett-fuer-Angreifer-7468961.html"
     },
     {
       "title": "Identitätsdiebstahl: Erste Hilfe bei Onlinebetrug unter Ihrem Namen",
@@ -148,12 +153,6 @@
       "url": "https://www.heise.de/news/Zusatztermin-Active-Directory-Angriffe-verstehen-und-verhindern-7464375.html"
     },
     {
-      "title": "Paypal: Datenleck nach Zugangsdaten-Durchtesten von Angreifern",
-      "teaser": "Paypal hat ein Datenleck bei der Generalstaatsanwaltschaft von Maine gemeldet. Angreifer hätten Zugangsdaten durchgetestet und Zugriff auf Konten erhalten.",
-      "url": "https://www.heise.de/news/Paypal-Datenleck-nach-Zugangsdaten-Durchtesten-von-Angreifern-7464993.html",
-      "image_title": "PayPal-Schild"
-    },
-    {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
       "teaser": "Phishing-Mails sind (leider) ein täglicher Begleiter. Doch gerade zu besonderen Anlässen steigt der Versand exponentiell. Darauf müssen Sie achten.",
       "url": "https://www.heise.de/ratgeber/Ratgeber-Bad-Cyber-Santa-geht-auf-Phishing-Tour-7396598.html",
@@ -170,6 +169,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-BSI-Affaere-Boehmermann-und-Faeser-saegen-an-Schoenbohms-Stuhl-7295281.html"
     },
     {
+      "title": "Desinfect - Viren/Trojaner entfernen - Wie ?",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect-Viren-Trojaner-entfernen-Wie/posting-42181593/show/"
+    },
+    {
       "title": "Re: Desinfect auf USB-Stick scheitert: Konnte erzeugte Partitionen nicht finden",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-auf-USB-Stick-scheitert-Konnte-erzeugte-Partitionen-nicht-finden/posting-42175607/show/"
@@ -178,11 +182,6 @@
       "title": "CobaltStrike : STEAM und/oder EPIC dran Schuld ?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/CobaltStrike-STEAM-und-oder-EPIC-dran-Schuld/posting-42172074/show/"
-    },
-    {
-      "title": "Re: ESET Update hängt sich auf",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Update-haengt-sich-auf/posting-42166426/show/"
     }
   ]
 }
