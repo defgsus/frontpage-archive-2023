@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-24T14:11:09",
+  "timestamp": "2023-01-24T15:12:18",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.4bac0929.mjs",
       "id": null,
       "text": null
@@ -74,12 +80,6 @@
     {
       "type": "module",
       "src": "https://interactive.zeit.de/g/corona/dashboard.0801daa38cc9ac01efbb.cached.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
       "id": null,
       "text": null
     }
@@ -104,8 +104,10 @@
     },
     {
       "title": "Liveblog: Ukraine-News: Bund will Leopard-Antrag \"mit gebotener Dringlichkeit\" prüfen",
-      "teaser": "Im Fall des Antrags aus Warschau über die Lieferung von Kampanzern will die Bundesregierung zügig entscheiden. Selenskyj entlässt fünf Gouverneure. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live"
+      "teaser": "Im Fall des Antrags aus Warschau über die Lieferung von Kampfpanzern will die Bundesregierung zügig entscheiden. Selenskyj entlässt fünf Gouverneure. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/ukraine-krieg-russland-newsblog-live-bild-46/wide__822x462",
+      "image_title": "Ukraine-News: Bund will Leopard-Antrag \"mit gebotener Dringlichkeit\" prüfen"
     },
     {
       "title": "Margot Wallström: \"Wenn man so ein Amt antritt, will man sich ja auch profilieren\"",
@@ -115,11 +117,11 @@
       "image_title": "Margot Wallström: \"Wenn man so ein Amt antritt, will man sich ja auch profilieren\""
     },
     {
-      "title": "Früherer Verfassungsschutzpräsident: CDU-Generalsekretär fordert Hans-Georg Maaßen zu Parteiaustritt auf",
-      "teaser": "Hans-Georg Maaßen kritisiert einen angeblichen\"eliminatorischen Rassismus gegen Weiße\". Mario Czaja ruft ihn zum Austritt auf, CDU-Politiker fordern seinen Ausschluss.",
+      "title": "Früherer Verfassungsschutzpräsident: CDU prüft Parteiausschluss von Hans-Georg Maaßen",
+      "teaser": "Hans-Georg Maaßen kritisiert einen angeblichen \"eliminatorischen Rassismus gegen Weiße\". Der Generalsekretär lässt Konsequenzen prüfen – unter anderem einen Ausschluss.",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/hans-georg-maassen-mario-czaja-parteiaustritt",
       "image_url": "https://img.zeit.de/politik/ausland/2023-01/hans-georg-maassen-parteiaustritt/wide__822x462",
-      "image_title": "Früherer Verfassungsschutzpräsident: CDU-Generalsekretär fordert Hans-Georg Maaßen zu Parteiaustritt auf"
+      "image_title": "Früherer Verfassungsschutzpräsident: CDU prüft Parteiausschluss von Hans-Georg Maaßen"
     },
     {
       "title": "Bundesverfassungsgericht: Was das Urteil zur Parteienfinanzierung bedeutet",
@@ -129,11 +131,11 @@
       "image_title": "Bundesverfassungsgericht: Was das Urteil zur Parteienfinanzierung bedeutet"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Regelschmerzen: \"Ein Gesetz wird 2.000 Jahre Stigmatisierung nicht aufheben\"",
-      "teaser": "Freie Tage für Personen mit starken Menstruationsbeschwerden – davon rät die Soziologin Sophie Bauer ab. Die Maßnahme würde vielen Frauen eher schaden.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-01/regelschmerzen-menstruation-freie-tage-frauen-feminismus",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-01/regelschmerzen-menstruation-freie-tage-frauen-feminismus-bild/wide__822x462",
-      "image_title": "Regelschmerzen: \"Ein Gesetz wird 2.000 Jahre Stigmatisierung nicht aufheben\""
+      "title": "Wahlwiederholung in Berlin: OSZE schickt nun doch keine Wahlbeobachter nach Berlin",
+      "teaser": "Am 12. Februar wird die Abgeordnetenhauswahl wiederholt – nun doch ohne internationale Wahlbeobachter. Man habe \"großes Vertrauen\" in die Fähigkeit der Behörden, hieß es.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-01/wahlwiederholung-berlin-osze-beobachter",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-01/wahl-berlin-beobachter/wide__822x462",
+      "image_title": "Wahlwiederholung in Berlin: OSZE schickt nun doch keine Wahlbeobachter nach Berlin"
     },
     {
       "title": "Wirtschaft : Der Klima-Betrug",
@@ -142,18 +144,18 @@
       "image_url": "https://img.zeit.de/2022/packshot-23-4-1000x620.jpg/imagegroup/original__1000x620"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sucht nach Nasenspray • Das Beste aus Z+: Immer der Nase nach",
-      "teaser": "Seit Jahren nimmt unser Autor täglich Nasenspray – und sorgt sich: Kann ich überhaupt noch damit aufhören? Und wenn ja, wie? Ein Selbstversuch mit erstaunlichem Ausgang",
-      "url": "https://www.zeit.de/gesundheit/2023-01/sucht-nasenspray-medikament-abhaengigkeit-ueberwinden-selbstversuch",
-      "image_url": "https://img.zeit.de/gesundheit/2023-01/sucht-nasenspray-medikament-abhaengigkeit-ueberwinden/wide__822x462",
-      "image_title": "Sucht nach Nasenspray • Das Beste aus Z+: Immer der Nase nach"
+      "title": "Bundesbauministerium: Neubauförderung soll ab März wieder starten",
+      "teaser": "Die alten Förderprogramme hatte die Bundesregierung wegen zu vieler Anträge gestoppt. Jetzt bekommen Bauherren wieder Geld vom Staat – wenn sie hohe Standards einhalten.",
+      "url": "https://www.zeit.de/wirtschaft/2023-01/neubaufoerderung-bauen-foerderprogramm-bundesbauministerium",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-01/neubaufoerderung-bauindustrie-bauherr/wide__822x462",
+      "image_title": "Bundesbauministerium: Neubauförderung soll ab März wieder starten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Qualität von Pasta: Das Geheimnis der guten Nudel",
-      "teaser": "Die Zutaten sind immer nur Hartweizengrieß und Wasser, trotzdem unterscheiden sich Pastasorten im Preis, in der Konsistenz und vor allem im Geschmack. Wie kann das sein?",
-      "url": "https://www.zeit.de/zeit-wissen/2023/01/pasta-qualitaet-erkennen-nudeln-billigsorten-hartweizen",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/pasta-qualitaet-erkennen-nudeln-billigsorten-hartweizen-teaser/cinema__980x420",
-      "image_title": "Qualität von Pasta: Das Geheimnis der guten Nudel"
+      "title": "Academy Awards 2023: \"Im Westen nichts Neues\" für neun Oscars nominiert",
+      "teaser": "Das Antikriegsdrama \"Im Westen nichts Neues\" zählt zu den Topfavoriten der diesjährigen Oscars. Der deutsche Beitrag ist unter anderem als Bester Film nominiert.",
+      "url": "https://www.zeit.de/kultur/film/2023-01/oscar-nominierungen-academy-awards-2023",
+      "image_url": "https://img.zeit.de/kultur/film/2023-01/oscar-nominierung-im-westen-nichts-neues/wide__822x462",
+      "image_title": "Academy Awards 2023: \"Im Westen nichts Neues\" für neun Oscars nominiert"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bayreuth: Vater, Mutter, Mord",
@@ -161,6 +163,13 @@
       "url": "https://www.zeit.de/gesellschaft/2023-01/bayreuth-doppelmord-mistelbach-justiz-urteil",
       "image_url": "https://img.zeit.de/gesellschaft/2023-01/bayreuth-doppelmord-mistelbach-justiz/wide__822x462",
       "image_title": "Bayreuth: Vater, Mutter, Mord"
+    },
+    {
+      "title": "Kriminalpodcast: Bringt unsere Mädchen zurück!",
+      "teaser": "Islamisten verschleppen in Nigeria Tausende junger Frauen und Mädchen. Doch manchmal gelingt einigen die Flucht.",
+      "url": "https://www.zeit.de/wissen/2023-01/nigeria-entfuehrung-boko-haram-frauen-verbrechen-podcast",
+      "image_url": "https://img.zeit.de/wissen/2023-01/nigeria-enfuehrung-islamismus-frauen-verbrechen-podcast-bild/cinema__980x420",
+      "image_title": "Kriminalpodcast: Bringt unsere Mädchen zurück!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Exporte nach Russland: Der Krieg wütet, das Geschäft läuft",
@@ -191,11 +200,39 @@
       "image_title": "Atemwegsinfekte: Ärzte bekommen vorübergehend mehr Geld für Kinderbehandlungen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Regelschmerzen: \"Ein Gesetz wird 2.000 Jahre Stigmatisierung nicht aufheben\"",
+      "teaser": "Freie Tage für Personen mit starken Menstruationsbeschwerden – davon rät die Soziologin Sophie Bauer ab. Die Maßnahme würde vielen Frauen eher schaden.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-01/regelschmerzen-menstruation-freie-tage-frauen-feminismus",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-01/regelschmerzen-menstruation-freie-tage-frauen-feminismus-bild/wide__822x462",
+      "image_title": "Regelschmerzen: \"Ein Gesetz wird 2.000 Jahre Stigmatisierung nicht aufheben\""
+    },
+    {
+      "title": "Stammgäste: Das Tollste am Restaurant sind die Gäste!",
+      "teaser": "Manche sieht man zwar lieber gehen als kommen. Aber wenn Stammgästin, Koch und Kellner Zutrauen zueinander gefasst haben, kann das eine Beziehung fürs Leben werden.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/stammgaeste-restaurant-gastronomie-beruf-herzlichkeit",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2020-09/restaurantkritiker-tulus-lotrek-restaurant-ilona-scholl-portrait/wide__822x462",
+      "image_title": "Stammgäste: Das Tollste am Restaurant sind die Gäste!"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Qualität von Pasta: Das Geheimnis der guten Nudel",
+      "teaser": "Die Zutaten sind immer nur Hartweizengrieß und Wasser, trotzdem unterscheiden sich Pastasorten im Preis, in der Konsistenz und vor allem im Geschmack. Wie kann das sein?",
+      "url": "https://www.zeit.de/zeit-wissen/2023/01/pasta-qualitaet-erkennen-nudeln-billigsorten-hartweizen",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/pasta-qualitaet-erkennen-nudeln-billigsorten-hartweizen-teaser/cinema__980x420",
+      "image_title": "Qualität von Pasta: Das Geheimnis der guten Nudel"
+    },
+    {
       "title": "Rice and Shine: Die ultimative Elternfolge",
       "teaser": "Zum Ende haben wir unsere Eltern alles gefragt: Warum sie Vietnam verlassen haben, wie es im Ostblock war, wie sie nach Bayern kamen und ob sie noch an Rückkehr denken.",
       "url": "https://www.zeit.de/gesellschaft/2023-01/vietnam-ostblock-vertragsarbeiter-migration-rice-and-shine-podcast",
       "image_url": "https://img.zeit.de/gesellschaft/2023-01/vietnam-ostblock-vertragsarbeiter-migration-rice-and-shine/wide__822x462",
       "image_title": "Rice and Shine: Die ultimative Elternfolge"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Vier Schwestern\" von Ernst Strouhal: Hinausgeschleudert in die Welt",
+      "teaser": "Vier Schwestern, eine ist die Mutter: Der Kulturwissenschaftler Ernst Strouhal erzählt in einem neuen Buch die Vertreibung seiner Familie aus Wien während der Nazizeit.",
+      "url": "https://www.zeit.de/2023/04/vier-schwestern-fernes-wien-fremde-welt-ernst-strouhal",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-01/vier-schwestern-fernes-wien-fremde-welt-ernst-strouhal-teaser/wide__822x462",
+      "image_title": "\"Vier Schwestern\" von Ernst Strouhal: Hinausgeschleudert in die Welt"
     },
     {
       "title": "Cern-Institut: Streit um Nennung russischer Institute blockiert Veröffentlichungen",
@@ -225,8 +262,8 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/maximilian-s-prozess-shiny-flakes-candylove-leipzig"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kenneth Rogoff: \"China hat es komplett übertrieben\"",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/kenneth-rogoff-china-wachstum-chipindustrie"
+      "title": "Z+ (abopflichtiger Inhalt); Beziehung: \"Wenn er bei ihr war, fehlte er mir\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/04/beziehung-zweite-chance-zweifel-liebe"
     },
     {
       "title": "Krieg gegen die Ukraine: Polen beantragt Genehmigung für Leopard-Lieferung",
@@ -275,8 +312,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-01/cdu-migration-integration-friedrich-merz-markus-lanz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kenneth Rogoff: \"China hat es komplett übertrieben\"",
-      "url": "https://www.zeit.de/wirtschaft/2023-01/kenneth-rogoff-china-wachstum-chipindustrie"
+      "title": "Z+ (abopflichtiger Inhalt); Beziehung: \"Wenn er bei ihr war, fehlte er mir\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/04/beziehung-zweite-chance-zweifel-liebe"
     },
     {
       "title": "CDU und Migration: Eine Tonalität, die verstört",
@@ -349,7 +386,7 @@
     },
     {
       "title": "Urteil zur Parteienfinanzierung: Parteien haben für mögliche Rückzahlungen vorgesorgt",
-      "teaser": "In seinem Urteil zur Parteienfinanzierung lässt das Bundesverfassungsgericht offen, ob Gelder zurückerstattet werden müssen. Laut Experten ist das nicht zwingend nötig.",
+      "teaser": "In seinem Urteil zur Parteienfinanzierung lässt das Bundesverfassungsgericht offen, ob Geld zurückerstattet werden muss. Laut Experten ist das nicht zwingend nötig.",
       "url": "https://www.zeit.de/politik/deutschland/2023-01/parteienfinanzierung-bundesverfassungsgericht-reaktionen-parteien-experten",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-01/reaktionen-parteienfinanzierung-bundesverfassungsgericht-bild/cinema__980x420",
       "image_title": "Urteil zur Parteienfinanzierung: Parteien haben für mögliche Rückzahlungen vorgesorgt"
@@ -363,7 +400,7 @@
     },
     {
       "title": "DLRG: Anteil der Nichtschwimmer unter Kindern deutlich gestiegen",
-      "teaser": "Innerhalb von fünf Jahren hat sich der Anteil an Grundschülern, der nicht schwimmen kann, verdoppelt. Laut DLRG sind 20 Prozent aller Kinder betroffen. 132 Kommentare",
+      "teaser": "Innerhalb von fünf Jahren hat sich der Anteil an Grundschülern, der nicht schwimmen kann, verdoppelt. Laut DLRG sind 20 Prozent aller Kinder betroffen. 149 Kommentare",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-01/kinder-schwimmen-nichtschwimmer-verdoppelt-dlrg",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-01/kinder-schwimmen-nichtschwimmer-verdoppelt-dlrg-bild/cinema__980x420",
       "image_title": "DLRG: Anteil der Nichtschwimmer unter Kindern deutlich gestiegen"
@@ -439,15 +476,10 @@
       "image_title": "BDSM und Trauma: \"Durch BDSM öffnet sich ein Denkfreiraum\""
     },
     {
-      "title": "Academy Awards 2023: \"Im Westen nichts Neues\" für neun Oscars nominiert",
-      "teaser": "Das deutsche Anti-Kriegs-Drama zählt bei den Oscar-Verleihungen 2023 zu den Top-Favoriten. Der Film ist in acht Kategorien nominiert, darunter als \"Bester Film\".",
-      "url": "https://www.zeit.de/kultur/film/2023-01/oscar-nominierungen-academy-awards-2023"
-    },
-    {
       "title": "\"Wo die Fremde beginnt\" von Elisabeth Wellershaus: Ein paar Stunden in Malabo",
       "teaser": "Der Vater unserer Autorin stammt aus Äquatorialguinea, ihre einzige Reise dorthin endete am Airport. Danach sah sie ihre Wahlheimat Berlin mit neuen Augen. Ein Buchauszug",
       "url": "https://www.zeit.de/kultur/literatur/2023-01/wo-die-fremde-beginnt-elisabeth-wellershaus-buchauszug",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-01/wo-die-fremde-beginnt-elisabeth-wellershaus-buchauszug-teaserfoto-neu/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-01/wo-die-fremde-beginnt-elisabeth-wellershaus-buchauszug-teaserfoto-neu/cinema__980x420",
       "image_title": "\"Wo die Fremde beginnt\" von Elisabeth Wellershaus: Ein paar Stunden in Malabo"
     },
     {
@@ -458,6 +490,13 @@
       "image_title": "rbb-Affäre: Arbeitsgericht prüft Rechtmäßigkeit von Direktorinnenkündigung"
     },
     {
+      "title": "\"Die wilden Neunziger\": Spaghettiträger mit Soße",
+      "teaser": "Eltern und deren Kinder will die Sitcom-Fortsetzung \"Die wilden Neunziger\" vor dem Fernseher vereinen. Beide können hier beobachten, wie eine schlechte TV-Serie aussieht.",
+      "url": "https://www.zeit.de/kultur/film/2023-01/die-wilden-neunziger-netflix-serie",
+      "image_url": "https://img.zeit.de/kultur/film/2023-01/die-wilden-neunziger-netflix-serie-bild/wide__822x462",
+      "image_title": "\"Die wilden Neunziger\": Spaghettiträger mit Soße"
+    },
+    {
       "title": "Holocaustgedenken: \"Menschen, Menschen haben das getan\"",
       "teaser": "Margot Friedländer überlebte das KZ Theresienstadt. Mit uns redete sie über ihre Geschichte und sprach eindrückliche Mahnungen aus. Ein Video aus dem Archiv",
       "url": "https://www.zeit.de/video/2019-10/6094047080001/holocaustgedenken-menschen-menschen-haben-das-getan",
@@ -465,11 +504,11 @@
       "image_title": "Holocaustgedenken: \"Menschen, Menschen haben das getan\""
     },
     {
-      "title": "Prozess in New York: Ex-Minister aus Mexiko soll Millionen von „El Chapo“ angenommen haben",
-      "teaser": "Genaro Garcia Luna leitete die mexikanische Bundespolizei und war Minister für innere Sicherheit. Im Amt soll er Bestechungsgelder eines Drogenkartells kassiert haben.",
+      "title": "Prozess in New York: Ex-Minister aus Mexiko soll Millionen von El Chapo angenommen haben",
+      "teaser": "Genaro García Luna leitete die mexikanische Bundespolizei und war Minister für innere Sicherheit. Im Amt soll er Bestechungsgelder eines Drogenkartells kassiert haben.",
       "url": "https://www.zeit.de/video/2023-01/6319172869112/prozess-in-new-york-ex-minister-aus-mexiko-soll-millionen-von-el-chapo-angenommen-haben",
       "image_url": "https://img.zeit.de/video/2023-01/6319172869112-still/wide__822x462",
-      "image_title": "Prozess in New York: Ex-Minister aus Mexiko soll Millionen von „El Chapo“ angenommen haben"
+      "image_title": "Prozess in New York: Ex-Minister aus Mexiko soll Millionen von El Chapo angenommen haben"
     },
     {
       "title": "Mordprozess in München: Krankenpfleger soll zwei Patienten getötet haben",
@@ -523,7 +562,7 @@
     },
     {
       "title": "Pandemie: Krankenhausgesellschaft fordert Ende der Maskenpflicht in Kliniken",
-      "teaser": "Mit dem Ende der kostenlosen Corona-Tests soll nach Ansicht des DKG-Vorsitzenden auch die Maskenpflicht auslaufen. Es sei Zeit, \"zur Normalität zurückzukehren\". 167 Kommentare",
+      "teaser": "Mit dem Ende der kostenlosen Corona-Tests soll nach Ansicht des DKG-Vorsitzenden auch die Maskenpflicht auslaufen. Es sei Zeit, \"zur Normalität zurückzukehren\". 173 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-01/pandemie-krankenhaeuser-kliniken-maskenpflicht-isolation",
       "image_url": "https://img.zeit.de/gesundheit/2023-01/pandemie-krankenhaeuser-kliniken-maskenpflicht-isolation-bild/cinema__980x420",
       "image_title": "Pandemie: Krankenhausgesellschaft fordert Ende der Maskenpflicht in Kliniken"
@@ -663,7 +702,7 @@
     },
     {
       "title": "Umweltbundesamt: Tempolimit auf Autobahnen würde mehr CO₂ einsparen als erwartet",
-      "teaser": "Bundesverkehrsminister Volker Wissing hält ein Tempolimit auf deutschen Autobahnen weiterhin für unnötig. Dabei würde dieses viele Emissionen einsparen. 1.257 Kommentare",
+      "teaser": "Bundesverkehrsminister Volker Wissing hält ein Tempolimit auf deutschen Autobahnen weiterhin für unnötig. Dabei würde dieses viele Emissionen einsparen. 1.265 Kommentare",
       "url": "https://www.zeit.de/mobilitaet/2023-01/tempolimit-autobahn-co2-einsparung",
       "image_url": "https://img.zeit.de/mobilitaet/2023-01/tempolimit-autobahn-co2/cinema__980x420",
       "image_title": "Umweltbundesamt: Tempolimit auf Autobahnen würde mehr CO₂ einsparen als erwartet"
@@ -767,36 +806,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Energie: Bayern erhöht Förderungen für Wasserstoff-Projekte",
-      "url": "https://www.zeit.de/news/2023-01/24/bayern-erhoeht-foerderungen-fuer-wasserstoff-projekte"
+      "title": "Terrorismus: Kommission soll Olympia-Anschlag von 1972 aufarbeiten",
+      "url": "https://www.zeit.de/news/2023-01/24/kommission-soll-olympia-anschlag-von-1972-aufarbeiten"
     },
     {
-      "title": "Bundesliga: Wirtz vor Startelf-Comeback: «Er ist wieder voll fit»",
-      "url": "https://www.zeit.de/news/2023-01/24/wirtz-vor-startelf-comeback-er-ist-wieder-voll-fit"
+      "title": "Pflegeeinrichtungen: Wohn- und Pflegeheimbetreiber Convivo beantragt Insolvenz",
+      "url": "https://www.zeit.de/news/2023-01/24/wohn-und-pflegeheimbetreiber-convivo-beantragt-insolvenz"
     },
     {
-      "title": "Bundesliga: Glasner: Frankfurt kein Bayern-Jäger",
-      "url": "https://www.zeit.de/news/2023-01/24/glasner-frankfurt-kein-bayern-jaeger"
+      "title": "Bürgermeisterin: Giffey: Berlin ist Vorreiter beim Wohngeld",
+      "url": "https://www.zeit.de/news/2023-01/24/giffey-berlin-ist-vorreiter-beim-wohngeld"
     },
     {
-      "title": "Immobilien: Land schafft Abgabefrist für Grundsteuererklärung nicht",
-      "url": "https://www.zeit.de/news/2023-01/24/land-schafft-abgabefrist-fuer-grundsteuererklaerung-nicht"
+      "title": "Virus: Drei neue Geflügelpest-Fälle bei Wildvögeln in Brandenburg",
+      "url": "https://www.zeit.de/news/2023-01/24/drei-neue-gefluegelpest-faelle-bei-wildvoegeln-in-brandenburg"
     },
     {
-      "title": "Frankfurt am Main: Streit in der S-Bahn: Mann tritt Glastür kaputt",
-      "url": "https://www.zeit.de/news/2023-01/24/streit-in-der-s-bahn-mann-tritt-glastuer-kaputt"
+      "title": "Finanzen: Kaum Auswirkungen von Urteil zu Parteienfinanzierung",
+      "url": "https://www.zeit.de/news/2023-01/24/kaum-auswirkungen-von-urteil-zu-parteienfinanzierung"
     },
     {
-      "title": "Ministerpräsident: Wüst hofft bei Altschuldenproblem weiter auf den Bund",
-      "url": "https://www.zeit.de/news/2023-01/24/wuest-hofft-bei-altschuldenproblem-weiter-auf-den-bund"
+      "title": "Regisseur : Edward Berger: «Ich bin ein bisschen überwältigt»",
+      "url": "https://www.zeit.de/news/2023-01/24/edward-berger-ich-bin-ein-bisschen-ueberwaeltigt"
     },
     {
-      "title": "Bundesliga: Vor Spiel in Dortmund: Neuer Stürmer für Mainz im Anflug",
-      "url": "https://www.zeit.de/news/2023-01/24/vor-spiel-in-dortmund-neuer-stuermer-fuer-mainz-im-anflug"
+      "title": "Royal Baby im Sommer : Prinzessin Eugenie erwartet zweites Kind",
+      "url": "https://www.zeit.de/news/2023-01/24/prinzessin-eugenie-erwartet-zweites-kind"
     },
     {
-      "title": "Bundesliga: BVB-Coach Terzic sieht Spekulationen um Reus gelassen",
-      "url": "https://www.zeit.de/news/2023-01/24/bvb-coach-terzic-sieht-spekulationen-um-reus-gelassen"
+      "title": "CDU-Chef : Merz: Äußerungen von Maaßen inakzeptabel",
+      "url": "https://www.zeit.de/news/2023-01/24/merz-aeusserungen-von-maassen-inakzeptabel"
     }
   ]
 }
