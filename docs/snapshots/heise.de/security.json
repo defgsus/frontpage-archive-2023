@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-25T07:19:21",
+  "timestamp": "2023-01-25T10:13:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware vRealize Log",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Logging-Tool-VMware-vRealize-Log-geschlossen-7470157.html"
+    },
+    {
       "title": "Samsung Galaxy App Store",
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-Galaxy-App-Store-gefaehrden-Samsung-Android-Smartphones-7469328.html"
     },
@@ -44,14 +48,15 @@
       "url": "https://www.heise.de/news/Mehrere-DoS-Luecken-im-Netzwerkanalysetool-Wireshark-geschlossen-7468113.html"
     },
     {
-      "title": "GTA V",
-      "url": "https://www.heise.de/news/Unter-Attacke-Sicherheitsleck-in-GTA-V-ermoeglicht-Codeschmuggel-7467685.html"
+      "title": "Kritische Schadcode-Lücken in Logging-Tool VMware vRealize Log geschlossen",
+      "teaser": "Netzwerk-Admins sollten ihre Systeme mit VMware vRealize Log auf den aktuellen Stand bringen, um Angreifer auszusperren.",
+      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Logging-Tool-VMware-vRealize-Log-geschlossen-7470157.html"
     },
     {
-      "title": "IT-Sicherheit: Jede fünfte Stelle im Bund unbesetzt",
-      "teaser": "IT-Sicherheitsfachleute sind begehrt, viele Unternehmen suchen Experten. Auch im Bund bleiben derartige Stellen unbesetzt. Mit steigender Tendenz.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-Jede-fuenfte-Stelle-im-Bund-unbesetzt-7470066.html",
-      "image_title": "Jobs, Arbeitsplätze, Tastatur, Start-up"
+      "title": "iX-Workshop: Anforderungen für den KRITIS-Betrieb umsetzen",
+      "teaser": "Konkrete Starthilfe für KRITIS-Betreiber: Lernen Sie, wie Sie die Vorgaben des IT-Sicherheitsgesetzes des BSI umsetzen. Zwei Tage, online, 10% Rabatt bis 8.2.",
+      "url": "https://www.heise.de/news/iX-Workshop-Anforderungen-fuer-den-KRITIS-Betrieb-umsetzen-7468190.html",
+      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
       "title": "Stadt Potsdam ist schon wieder offline",
@@ -60,15 +65,14 @@
       "image_title": "Frauenhand zeigt auf \"No Internet\"-Symbol"
     },
     {
-      "title": "Cyber-Angriff: IT der TU Freiberg weitreichend lahmgelegt",
-      "teaser": "Ein Cyber-Angriff auf die IT der TU Freiberg in Sachsen führt zu weitreichenden Einschränkungen. Zum Wochenende hat die Uni die Internetverbindungen gekappt.",
-      "url": "https://www.heise.de/news/Cyber-Angriff-IT-der-TU-Freiberg-weitreichend-lahmgelegt-7469937.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
       "title": "Mailchimp-Einbruch: Kunden der Kunden des Mailing-Dienstleisters betroffen",
       "teaser": "Der Einbruch beim Mailing-Dienstanbieters Mailchimp betrifft auch viele Endkunden. Erste Mailchimp-Kunden wie Statista oder WooCommerce schicken Warnungen.",
       "url": "https://www.heise.de/news/Mailchimp-Einbruch-Kunden-der-Kunden-des-Mailing-Dienstleisters-betroffen-7469489.html"
+    },
+    {
+      "title": "Sicherheitslücken im Galaxy App Store gefährden Samsung-Android-Smartphones",
+      "teaser": "Angreifer könnten beliebige Apps aus Samsungs App Store installieren und URL-Filter umgehen. Ein Sicherheitsupdate ist verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-im-Galaxy-App-Store-gefaehrden-Samsung-Android-Smartphones-7469328.html"
     },
     {
       "title": "Sicherheitsupdate: Symantec Endpoint Protection als Sprungbrett für Angreifer",
@@ -85,6 +89,12 @@
       "title": "iOS 16.3 und macOS 13.2: Ende-zu-Ende-Verschlüsselung für iCloud verfügbar",
       "teaser": "Update-Reigen bei Apple: Der Hersteller liefert neue Betriebssystemversionen für iPhones, Macs & Co. Der Fokus liegt auf Sicherheit und Fehlerkorrekturen.",
       "url": "https://www.heise.de/news/iOS-16-3-und-macOS-13-2-Ende-zu-Ende-Verschluesselung-fuer-iCloud-verfuegbar-7468644.html"
+    },
+    {
+      "title": "Bitmarck: Datenleck bei IT-Dienstleister der Krankenkassen",
+      "teaser": "Der insbesondere für deutsche Krankenversicherungen aktive IT-Dienstleister Bitmarck hat ein Datenleck. Cyberkriminellen gelang der Abzug von Jira-Daten.",
+      "url": "https://www.heise.de/news/Cyber-Vorfall-Datenleck-bei-GKV-IT-Dienstleister-Bitmarck-7468476.html",
+      "image_title": "Medicine,Doctor,Working,Digital,Tablet,For,Medical,Record,Of,Patient"
     },
     {
       "title": "Mehrere DoS-Lücken im Netzwerkanalysetool Wireshark geschlossen",
@@ -142,17 +152,6 @@
       "title": "Studie: Ransomware-Gauner machten 2022 40 Prozent weniger Umsatz",
       "teaser": "Auch wenn Erpressungstrojaner nach wie vor Hochkonjunktur haben: Laut einer Studie verdienten Cyberkriminelle 2022 damit deutlich weniger als noch im Vorjahr.",
       "url": "https://www.heise.de/news/Studie-Ransomware-Gauner-machten-2022-40-Prozent-weniger-Umsatz-7466300.html"
-    },
-    {
-      "title": "Cybercrime: Was ist da an unseren Unis los? – 5 Thesen",
-      "teaser": "Jürgen Schmidt, Leiter von heise Security, versucht sich an Erklärungen zu den gehäuften Sicherheitsvorfällen an deutschen Universitäten.",
-      "url": "https://www.heise.de/hintergrund/Cybercrime-was-ist-da-an-unseren-Unis-los-7465557.html"
-    },
-    {
-      "title": "l+f: Online-Gangster rangeln sich um riesiges Drogengeschäft",
-      "teaser": "Wenn ein Online-Schwarzmarkt hochgenommen wird, freut sich die Konkurrenz. Manchmal ist die Freude aber auch schnell wieder vorbei.",
-      "url": "https://www.heise.de/news/l-f-Online-Gangster-rangeln-sich-um-riesiges-Drogengeschaeft-7465708.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
