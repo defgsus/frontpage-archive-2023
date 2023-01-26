@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-26T12:25:12",
+  "timestamp": "2023-01-26T13:20:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "BIND",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-BIND-Angreifer-koennten-DNS-Server-mit-Anfragen-ueberfluten-7471773.html"
+    },
+    {
       "title": "Realtek Wireless-SoCs",
       "url": "https://www.heise.de/news/Massive-Supply-Chain-Attacke-auf-Router-von-Asus-D-Link-Co-beobachtet-7471324.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Neuere-Lexmark-Drucker-ermoeglichen-Codeschmuggel-7470640.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Sechs-Sicherheitsluecken-in-Google-Chrome-abgedichtet-7470171.html"
+      "title": "Sicherheitsupdate BIND: Angreifer könnten DNS-Server mit Anfragen überfluten",
+      "teaser": "Die Entwickler haben in der DNS-Software auf Open-Source-Basis BIND drei DoS-Lücken geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-BIND-Angreifer-koennten-DNS-Server-mit-Anfragen-ueberfluten-7471773.html"
+    },
+    {
+      "title": "Staatstrojaner: Hackerbehörde Zitis interessiert sich für Spyware Predator",
+      "teaser": "Die Bundesregierung hat Kontakte der Zitis mit dem Konsortium Intellexa für den Erwerb der Spähsoftware Predator eingeräumt. Türöffner soll Schmidbauer sein.",
+      "url": "https://www.heise.de/news/Staatstrojaner-Hackerbehoerde-Zitis-interessiert-sich-fuer-Spyware-Predator-7471731.html"
     },
     {
       "title": "Microsoft schiebt Excel-Add-ins aus dem Netz den Riegel vor",
@@ -145,17 +155,6 @@
       "title": "iOS 16.3 und macOS 13.2: Ende-zu-Ende-Verschlüsselung für iCloud verfügbar",
       "teaser": "Update-Reigen bei Apple: Der Hersteller liefert neue Betriebssystemversionen für iPhones, Macs & Co. Der Fokus liegt auf Sicherheit und Fehlerkorrekturen.",
       "url": "https://www.heise.de/news/iOS-16-3-und-macOS-13-2-Ende-zu-Ende-Verschluesselung-fuer-iCloud-verfuegbar-7468644.html"
-    },
-    {
-      "title": "Bitmarck: Datenleck bei IT-Dienstleister der Krankenkassen",
-      "teaser": "Der insbesondere für deutsche Krankenversicherungen aktive IT-Dienstleister Bitmarck hat ein Datenleck. Cyberkriminellen gelang der Abzug von Jira-Daten.",
-      "url": "https://www.heise.de/news/Cyber-Vorfall-Datenleck-bei-GKV-IT-Dienstleister-Bitmarck-7468476.html",
-      "image_title": "Medicine,Doctor,Working,Digital,Tablet,For,Medical,Record,Of,Patient"
-    },
-    {
-      "title": "Mehrere DoS-Lücken im Netzwerkanalysetool Wireshark geschlossen",
-      "teaser": "Wireshark 4.0.3 bringt einige Sicherheitsupdates mit, um Systeme vor möglichen Attacken zu schützen.",
-      "url": "https://www.heise.de/news/Mehrere-DoS-Luecken-im-Netzwerkanalysetool-Wireshark-geschlossen-7468113.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
