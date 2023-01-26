@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-26T09:11:56",
+  "timestamp": "2023-01-26T10:13:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Realtek Wireless-SoCs",
+      "url": "https://www.heise.de/news/Massive-Supply-Chain-Attacke-auf-Router-von-Asus-D-Link-Co-beobachtet-7471324.html"
+    },
+    {
+      "title": "Wordpress-Plug-in Learnpress",
+      "url": "https://www.heise.de/news/Wordpress-Plug-in-Kritische-Luecke-in-Learnpress-auf-75-000-Webseiten-7471283.html"
+    },
+    {
       "title": "Lexmark-Drucker",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Neuere-Lexmark-Drucker-ermoeglichen-Codeschmuggel-7470640.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Webbrowser-Sechs-Sicherheitsluecken-in-Google-Chrome-abgedichtet-7470171.html"
     },
     {
-      "title": "VMware vRealize Log",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Logging-Tool-VMware-vRealize-Log-geschlossen-7470157.html"
+      "title": "Massive Supply-Chain-Attacke auf Router von Asus, D-Link & Co. beobachtet",
+      "teaser": "Angreifer haben derzeit weltweit eine kritische Schwachstelle in Wireless-SoCs von Realtek im Visier. In Deutschland soll es Millionen Attacken gegeben haben.",
+      "url": "https://www.heise.de/news/Massive-Supply-Chain-Attacke-auf-Router-von-Asus-D-Link-Co-beobachtet-7471324.html"
     },
     {
-      "title": "Samsung Galaxy App Store",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-im-Galaxy-App-Store-gefaehrden-Samsung-Android-Smartphones-7469328.html"
+      "title": "Wordpress-Plug-in: Kritische Lücke in Learnpress auf 75.000 Webseiten",
+      "teaser": "Das Wordpress-Plug-in Learnpress kommt auf über 100.000 Webseiten zum Einsatz. Mangels installierter Updates sind 75.000 davon für Kompromittierung anfällig.",
+      "url": "https://www.heise.de/news/Wordpress-Plug-in-Kritische-Luecke-in-Learnpress-auf-75-000-Webseiten-7471283.html"
     },
     {
       "title": "DHL warnt vor Phishing-SMS",
@@ -146,16 +156,6 @@
       "url": "https://www.heise.de/news/Cyberkriminelle-verschaffen-sich-Zugang-zu-Sky-Kundenkonten-7468078.html"
     },
     {
-      "title": "UEFI Secure Boot: MSI stellt Bequemlichkeit vor Sicherheit – oder doch nicht?",
-      "teaser": "Der Computerhardware-Hersteller bestätigt eine unsichere Standard-Konfiguration vom Schutzmechanismus Secure Boot – und rudert zurück.",
-      "url": "https://www.heise.de/news/UEFI-Secure-Boot-MSI-stellt-Bequemlichkeit-vor-Sicherheit-oder-doch-nicht-7467903.html"
-    },
-    {
-      "title": "Die Webinar-Serie von Heise: Ethical Hacking für Admins 2023",
-      "teaser": "In fünf Online-Trainings, vom 23. Februar bis 30. März, lernen Interessierte das Handwerk des Penetration Testers – jetzt zum aktualisierten Webinar anmelden.",
-      "url": "https://www.heise.de/news/Die-Webinar-Serie-von-Heise-Ethical-Hacking-fuer-Admins-2023-7463726.html"
-    },
-    {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
       "teaser": "Phishing-Mails sind (leider) ein täglicher Begleiter. Doch gerade zu besonderen Anlässen steigt der Versand exponentiell. Darauf müssen Sie achten.",
       "url": "https://www.heise.de/ratgeber/Ratgeber-Bad-Cyber-Santa-geht-auf-Phishing-Tour-7396598.html",
@@ -172,6 +172,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-BSI-Affaere-Boehmermann-und-Faeser-saegen-an-Schoenbohms-Stuhl-7295281.html"
     },
     {
+      "title": "Re: ESET Update hängt sich auf",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Update-haengt-sich-auf/posting-42193751/show/"
+    },
+    {
       "title": "Desinfect - Viren/Trojaner entfernen - Wie ?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect-Viren-Trojaner-entfernen-Wie/posting-42181593/show/"
@@ -180,11 +185,6 @@
       "title": "Re: Desinfect auf USB-Stick scheitert: Konnte erzeugte Partitionen nicht finden",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-auf-USB-Stick-scheitert-Konnte-erzeugte-Partitionen-nicht-finden/posting-42175607/show/"
-    },
-    {
-      "title": "CobaltStrike : STEAM und/oder EPIC dran Schuld ?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/CobaltStrike-STEAM-und-oder-EPIC-dran-Schuld/posting-42172074/show/"
     }
   ]
 }
