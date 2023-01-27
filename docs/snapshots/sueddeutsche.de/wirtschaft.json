@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-27T14:11:22",
+  "timestamp": "2023-01-27T15:12:43",
   "url": "https://www.sueddeutsche.de/wirtschaft",
   "response": {
     "status": 200
@@ -86,17 +86,18 @@
   ],
   "articles": [
     {
+      "title": "Die Letzte ihrer Art",
+      "teaser": "Mit der \"747\" revolutionierte Boeing das Fliegen. Der Jumbo machte Reisen in ferne Länder für viele bezahlbar. Gefühlt schrumpfte so die Erde zusammen. Jetzt wird der letzte Jet ausgeliefert. Was kommt danach?",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/boeing-747-letzte-auslieferung-airbus-reisen-e772159/",
+      "author": "Jens Flottau",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5740625/1000x420",
+      "image_title": "22BFT192-01-PhotosBy-PaulWeatherman"
+    },
+    {
       "title": "Keine Ermittlungen gegen Lindner",
       "teaser": "Wegen einer Grußbotschaft und eines Immobilienkredits bei der gleichen Bank stand der Finanzminister in der Kritik. Nun erklärt die Berliner Staatsanwaltschaft: Sie sieht keinen Anfangsverdacht, dass der FDP-Chef sich strafbar verhalten hätte.",
       "url": "https://www.sueddeutsche.de/wirtschaft/lindner-immobilienkredit-staatsanwaltschaft-1.5740422",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5723166/1000x420"
-    },
-    {
-      "title": "Unternehmen stellen wieder ein",
-      "teaser": "Gerade in der Industrie gibt es neue Jobchancen, aber auch bei Dienstleistern. Der deutsche Arbeitsmarkt überwindet damit die Folgen von Corona- und Energiekrise.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/jobs-industire-it-1.5740392",
-      "author": "Alexander Hagelüken",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5740393/208x156"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5723166/208x156"
     },
     {
       "title": "Mehr über Finanzen",
@@ -106,9 +107,17 @@
       "image_title": "Geldmagazin"
     },
     {
+      "title": "Unternehmen stellen wieder ein",
+      "teaser": "Gerade in der Industrie gibt es neue Jobchancen, aber auch bei Dienstleistern. Der deutsche Arbeitsmarkt überwindet damit die Folgen von Corona- und Energiekrise.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/jobs-industire-it-1.5740392",
+      "author": "Alexander Hagelüken",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5740393/208x156"
+    },
+    {
       "title": "Lufthansa erwägt Umzug nach München",
-      "teaser": "Seit fast 70 Jahren befindet sich der rechtliche Sitz der Fluggesellschaft in Köln. Nun wirbt die bayerische Staatsregierung um den Konzern. Die Verwaltung bleibt aber in Frankfurt.",
+      "teaser": "Seit fast 70 Jahren befindet sich der rechtliche Sitz der Fluggesellschaft in Köln. Angeblich wirbt die bayerische Staatsregierung um den Konzern. Die Verwaltung bleibt aber in Frankfurt.",
       "url": "https://www.sueddeutsche.de/wirtschaft/lufthansa-muenchen-1.5740351",
+      "author": "Jens Flottau und Andreas Glas, Frankfurt",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5740352/208x156"
     },
     {
@@ -153,18 +162,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5739787/208x156"
     },
     {
-      "title": "Wenn's um Macht geht, Sparkasse",
-      "teaser": "Warum die Posse um den neuen Cheflobbyisten der Sparkassen beweist, dass die kommunalen Institute im Gestern verhaftet sind.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/sparkassen-dsgv-kommentar-1.5739903",
-      "author": "Kommentar von Meike Schreiber, Frankfurt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5739904/290x163"
-    },
-    {
       "title": "SZ Geld",
       "teaser": "Jeden Donnerstagmorgen im Postfach: Wertvolle Ratschläge und Leseempfehlungen für Ihre Finanzen, Ideen für Geldanlagen und die Altersvorsorge. Kostenlos anmelden.",
       "url": "https://www.sueddeutsche.de/geld/newsletter-geld-geldanlage-finanzen-1.5249970?intsrc=artikel&intcp=mteaser&intmdm=geld",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5257980/208x156",
       "image_title": "TeaserM_400x300-Geld@2x"
+    },
+    {
+      "title": "Wenn's um Macht geht, Sparkasse",
+      "teaser": "Warum die Posse um den neuen Cheflobbyisten der Sparkassen beweist, dass die kommunalen Institute im Gestern verhaftet sind.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/sparkassen-dsgv-kommentar-1.5739903",
+      "author": "Kommentar von Meike Schreiber, Frankfurt",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5739904/290x163"
     },
     {
       "title": "Sind Briefe künftig länger unterwegs?",
@@ -227,13 +236,6 @@
       "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/energiepreise-strom-gas-wechsel-e126138/",
       "author": "Andreas Jalsovec, Illustration: Stefan Dimitrov",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5739063/208x156"
-    },
-    {
-      "title": "Richter zieht Wirecard-Prozess durch",
-      "teaser": "Die Verteidiger von Ex-Konzernboss Markus Braun fühlen sich von der Masse an Akten überfordert. Das Gericht will das nicht gelten lassen - und verteilt deutliche Spitzen in Richtung von Brauns Anwälten.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/wirecard-prozess-muenchen-1.5739164",
-      "author": "Johannes Bauer und Stephan Radomsky, München",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5739174/208x156"
     }
   ]
 }
