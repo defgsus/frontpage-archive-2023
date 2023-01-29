@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-29T06:14:10",
+  "timestamp": "2023-01-29T07:10:19",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -80,6 +80,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.2cbab9e9595506d8c529.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -176,26 +182,26 @@
   ],
   "articles": [
     {
-      "title": "Die Nacht in der Ukraine : Selenskyj bestraft Russlands Kriegshelfer",
-      "url": "https://www.faz.net/aktuell/politik/ausland/selenskyj-bestraft-russlands-kriegshelfer-18637900.html",
+      "title": "Lage in der Ukraine : Selenskyj bestraft Russlands Kriegshelfer",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-selenskyj-bestraft-russlands-kriegshelfer-18637900.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Wolodymyr Selenskyj hat Sanktionen gegen 185 Unternehmen und Personen in Kraft gesetzt, die Russlands Angriffskrieg unterstützen."
     },
     {
-      "title": "Ukraine-Liveblog : Scholz warnt vor \"Überbietungswettbewerb\" in Kampfjetdebatte",
-      "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-scholz-warnt-vor-ueberbietungswettbewerb-in-kampfjetdebatte-18495964.html"
+      "title": "Ukraine-Liveblog : Scholz warnt vor „Überbietungswettbewerb“ in Kampfjetdebatte",
+      "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-scholz-spricht-ueber-kampfjets-fuer-die-ukraine-18495964.html"
+    },
+    {
+      "title": "Chaos in der Hauptstadt : Die Berliner verlieren die Lust am ÖPNV",
+      "url": "https://www.faz.net/aktuell/wirtschaft/verkehrschaos-in-berlin-keine-lust-auf-oepnv-18624541.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Mindestens bis zum Sommer verkehrt die U2 zum Alexanderplatz nur noch im Pendelverkehr."
     },
     {
       "title": "Atomstreit : Teheran will Drohnenangriff auf iranische Militäranlage abgewehrt haben",
       "url": "https://www.faz.net/aktuell/politik/ausland/teheran-drohnenangriff-auf-iranische-militaeranlage-abgewehrt-18637855.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ebrahim Raisi, Präsident des Iran, sprach Anfang Januar bei einer Feier für den durch eine Drohne getöteten General der Revolutionsgarden, Soleimani."
-    },
-    {
-      "title": "30 Jahre EU-Binnenmarkt : Groß gefeiert, nichts dahinter",
-      "url": "https://www.faz.net/aktuell/wirtschaft/30-jahre-binnenmarkt-gross-gefeiert-nichts-dahinter-18631913.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Unterschiedliche Blicke auf den Binnenmarkt: EU Wettbewerbskommissarin Margrethe Vestager und EU-Binnenmarktkommissar Thierry Breton"
     },
     {
       "title": "Grüne gegen FDP : Es geht um mehr als nur die Autobahn",
@@ -258,6 +264,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "30 Jahre EU-Binnenmarkt : Groß gefeiert, nichts dahinter",
+      "url": "https://www.faz.net/aktuell/wirtschaft/30-jahre-binnenmarkt-gross-gefeiert-nichts-dahinter-18631913.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Unterschiedliche Blicke auf den Binnenmarkt: EU Wettbewerbskommissarin Margrethe Vestager und EU-Binnenmarktkommissar Thierry Breton"
+    },
+    {
       "title": "Nach 0:2 gegen Union : Hertha trennt sich von Fredi Bobic",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/nach-0-2-gegen-union-hertha-trennt-sich-von-fredi-bobic-18637709.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -268,12 +280,6 @@
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-1-gegen-bayern-eintracht-nimmt-einen-punkt-aus-muenchen-mit-18634574.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Bayern um Thomas Müller (rechts) suchen weiter nach dem Flow vom Beginn der Saison."
-    },
-    {
-      "title": "„German Professional School“ : Wie Thüringen Azubis aus dem Ausland anlocken will",
-      "url": "https://www.faz.net/aktuell/politik/inland/wie-thueringen-azubis-aus-dem-ausland-anlocken-will-18606789.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Werden sie eine Lehre in Deutschland beginnen? Unterricht in einer Sprachlernklasse mit ukrainischen Schülern"
     },
     {
       "title": "USA : Trump startet seinen Präsidentschafts-Wahlkampf",
@@ -298,18 +304,6 @@
       "image_title": "Kein Zutritt: ein Frankfurter Altenheim im November 2020"
     },
     {
-      "title": "Eintracht in der Einzelkritik : Der Künstler Götze mit der unberechenbaren Note",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-in-der-einzelkritik-der-kuenstler-mario-goetze-18637679.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Tänzchen gefällig? Joshua Kimmich (links) und Mario Götze im Duell."
-    },
-    {
-      "title": "Erwin-Blumenthal-Ausstellung : Die Dunkelkammer als Wunderkammer",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/das-juedische-museum-in-paris-stellt-erwin-blumenthal-aus-18634877/erwin-blumenfelds-foto-fuer-18634876.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Erwin Blumenfelds Foto für eine Werbekampagne des Juweliers Boucheron von 1939"
-    },
-    {
       "title": "Kampfpanzer für die Ukraine : Leoparden auf dem Sprung",
       "url": "https://www.faz.net/aktuell/kampfpanzer-fuer-die-ukraine-leoparden-auf-dem-sprung-18633897.html",
       "image_url": "https://www.faz.net/img/leer.gif"
@@ -327,12 +321,36 @@
       "image_title": "BASF-Anlage in Ludwigsburg: Auf seine Beteiligung an Wintershall Dea musste der Chemiekonzern 5,4 Milliarden Euro abschreiben. (Symbolfoto)"
     },
     {
-      "title": "Hans-Georg Maaßen : CDU braucht Mut für ein Ausschlussverfahren",
-      "url": "https://www.faz.net/aktuell/politik/inland/warum-die-cdu-hans-georg-maassen-rauswerfen-sollte-18634729.html"
+      "title": "Tag 16 im Dschungelcamp : Harmoniedelta im Halbfinale",
+      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/tag-16-im-dschungelcamp-harmoniedelta-im-halbfinale-18637920.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Lucas Cordalis und Cosimo Citiolo traten an Tag 16 der RTL-Show «Ich bin ein Star - Holt mich hier raus!» zur Dschungelprüfung \"Creek der Sterne\" an."
     },
     {
-      "title": "Theaterpremiere in Amsterdam : Eine junge Seele wird zerstört",
-      "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/ivo-van-hove-adaptiert-marieke-lucas-rijnevelds-mein-kleines-prachttier-fuers-theater-18635309.html"
+      "title": "Erwin-Blumenthal-Ausstellung : Die Dunkelkammer als Wunderkammer",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/das-juedische-museum-in-paris-stellt-erwin-blumenthal-aus-18634877/erwin-blumenfelds-foto-fuer-18634876.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Erwin Blumenfelds Foto für eine Werbekampagne des Juweliers Boucheron von 1939"
+    },
+    {
+      "title": "Eintracht in der Einzelkritik : Der Künstler Götze mit der unberechenbaren Note",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-in-der-einzelkritik-der-kuenstler-mario-goetze-18637679.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ein Tänzchen gefällig? Joshua Kimmich (links) und Mario Götze im Duell."
+    },
+    {
+      "title": "Unions 2:0 bei Hertha BSC : Ein Berliner Derby der etwas anderen Art",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/union-berlin-besiegt-hertha-bsc-in-bundesliga-derby-in-berlin-18634572.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Union Berlins Danilho Doekhi (rechts) gelingt kurz vor der Pause der Führungstreffer im Stadtderby gegen Hertha BSC."
+    },
+    {
+      "title": "„German Professional School“ : Wie Thüringen Azubis aus dem Ausland anlocken will",
+      "url": "https://www.faz.net/aktuell/politik/inland/wie-thueringen-azubis-aus-dem-ausland-anlocken-will-18606789.html"
+    },
+    {
+      "title": "Hans-Georg Maaßen : CDU braucht Mut für ein Ausschlussverfahren",
+      "url": "https://www.faz.net/aktuell/politik/inland/warum-die-cdu-hans-georg-maassen-rauswerfen-sollte-18634729.html"
     },
     {
       "title": "Immobilienbesitzer : Wie die GmbH zur Steuerfalle wird",
@@ -381,8 +399,8 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/tesla-und-viessmann-machen-gegenvorschlaege-zur-stromrationierungen-18634924.html"
     },
     {
-      "title": "Ampel-Koalition : Engstirnige Grüne",
-      "url": "https://www.faz.net/aktuell/wirtschaft/engstirnige-gruene-18635655.html"
+      "title": "Fall Tyre Nichols : Proteste gegen Polizeigewalt in Amerika",
+      "url": "https://www.faz.net/aktuell/politik/videos-von-toedlichem-polizeieinsatz-in-den-usa-veroeffentlicht-18636624.html"
     },
     {
       "title": "Hans-Georg Maaßen : CDU braucht Mut für ein Ausschlussverfahren",
@@ -413,16 +431,16 @@
       "image_title": "Nicht zu halten: Niklas Füllkrug trifft zweimal gegen Wolfsburg."
     },
     {
-      "title": "Unions 2:0 bei Hertha BSC : Ein Berliner Derby der etwas anderen Art",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/union-berlin-besiegt-hertha-bsc-in-bundesliga-derby-in-berlin-18634572.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Union Berlins Danilho Doekhi (rechts) gelingt kurz vor der Pause der Führungstreffer im Stadtderby gegen Hertha BSC."
-    },
-    {
       "title": "Erfolg in Hinterzarten : Skispringerin Katharina Althaus gewinnt zweiten Heim-Weltcup",
       "url": "https://www.faz.net/aktuell/sport/wintersport/skispringen-katharina-althaus-gewinnt-in-hinterzarten-18637684.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Skispringerin Althaus, die auf diesem Foto in Villach zu sehen ist, dominiert den Weltcup in Hinterzarten."
+    },
+    {
+      "title": "3:1 gegen Augsburg : Freiburg mischt munter oben mit",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/sc-freiburg-besiegt-fc-augsburg-in-fussball-bundesliga-18634568.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Freiburger freuen sich mit Torschütze Gregoritsch, der vorher in Augsburg spielte."
     },
     {
       "title": "Korruptionsskandal in Vietnam : Der Rücktritt des Präsidenten stellt die Stabilität infrage",
