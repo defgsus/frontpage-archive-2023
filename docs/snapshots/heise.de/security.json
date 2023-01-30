@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-30T13:22:06",
+  "timestamp": "2023-01-30T14:11:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap",
+      "url": "https://www.heise.de/news/Qnap-NAS-Kritische-Sicherheitsluecke-ermoeglicht-Unterjubeln-von-Schadcode-7475288.html"
+    },
+    {
       "title": "VMware vRealize Log",
       "url": "https://www.heise.de/news/Jetzt-patchen-Sicherheitsforscher-kombinieren-Luecken-in-VMware-vRealize-Log-7474931.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Massive-Supply-Chain-Attacke-auf-Router-von-Asus-D-Link-Co-beobachtet-7471324.html"
     },
     {
-      "title": "Wordpress-Plug-in Learnpress",
-      "url": "https://www.heise.de/news/Wordpress-Plug-in-Kritische-Luecke-in-Learnpress-auf-75-000-Webseiten-7471283.html"
+      "title": "Qnap-NAS: Kritische Sicherheitslücke ermöglicht Unterjubeln von Schadcode",
+      "teaser": "In Qnap-Netzwerkgeräten mit QTS- und QuTS-hero-Betriebssystem könnten Angreifer Schadcode einschleusen und ausführen. Updates schließen die kritische Lücke.",
+      "url": "https://www.heise.de/news/Qnap-NAS-Kritische-Sicherheitsluecke-ermoeglicht-Unterjubeln-von-Schadcode-7475288.html"
     },
     {
       "title": "Anonymisierendes Linux: Tails 5.9 korrigiert viele Fehler",
@@ -149,11 +154,6 @@
       "title": "Webbrowser: Sechs Sicherheitslücken in Google Chrome abgedichtet",
       "teaser": "Google hat Aktualisierungen des Webbrowsers Chrome veröffentlicht. Die korrigieren sechs sicherheitsrelevante Fehler. Zwei davon gelten als hochriskant.",
       "url": "https://www.heise.de/news/Webbrowser-Sechs-Sicherheitsluecken-in-Google-Chrome-abgedichtet-7470171.html"
-    },
-    {
-      "title": "Kritische Schadcode-Lücken in Logging-Tool VMware vRealize Log geschlossen",
-      "teaser": "Netzwerk-Admins sollten ihre Systeme mit VMware vRealize Log auf den aktuellen Stand bringen, um Angreifer auszusperren.",
-      "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Logging-Tool-VMware-vRealize-Log-geschlossen-7470157.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
