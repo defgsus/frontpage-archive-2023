@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-30T10:13:26",
+  "timestamp": "2023-01-30T11:10:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.51403e8e12b73156913d",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.4b5858db7188f1c975aa",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "VMware vRealize Log",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Sicherheitsforscher-kombinieren-Luecken-in-VMware-vRealize-Log-7474931.html"
+    },
     {
       "title": "BIND",
       "url": "https://www.heise.de/news/Sicherheitsupdate-BIND-Angreifer-koennten-DNS-Server-mit-Anfragen-ueberfluten-7471773.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Wordpress-Plug-in-Kritische-Luecke-in-Learnpress-auf-75-000-Webseiten-7471283.html"
     },
     {
-      "title": "Lexmark-Drucker",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-Neuere-Lexmark-Drucker-ermoeglichen-Codeschmuggel-7470640.html"
+      "title": "Jetzt patchen! Sicherheitsforscher kombinieren Lücken in VMware vRealize Log",
+      "teaser": "Angreifer könnten zeitnah vRealize Log von VMware ins Visier nehmen und Schadcode mit Root-Rechten ausführen. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Sicherheitsforscher-kombinieren-Luecken-in-VMware-vRealize-Log-7474931.html"
     },
     {
       "title": "Anonymisierendes Linux: Tails 5.9 korrigiert viele Fehler",
@@ -148,12 +153,6 @@
       "title": "Kritische Schadcode-Lücken in Logging-Tool VMware vRealize Log geschlossen",
       "teaser": "Netzwerk-Admins sollten ihre Systeme mit VMware vRealize Log auf den aktuellen Stand bringen, um Angreifer auszusperren.",
       "url": "https://www.heise.de/news/Kritische-Schadcode-Luecken-in-Logging-Tool-VMware-vRealize-Log-geschlossen-7470157.html"
-    },
-    {
-      "title": "iX-Workshop: Anforderungen für den KRITIS-Betrieb umsetzen",
-      "teaser": "Konkrete Starthilfe für KRITIS-Betreiber: Lernen Sie, wie Sie die Vorgaben des IT-Sicherheitsgesetzes des BSI umsetzen. Zwei Tage, online, 10% Rabatt bis 8.2.",
-      "url": "https://www.heise.de/news/iX-Workshop-Anforderungen-fuer-den-KRITIS-Betrieb-umsetzen-7468190.html",
-      "image_title": "iX-Workshop: KRITIS-Anforderungen in der Praxis"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
