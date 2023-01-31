@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-01-31T19:09:52",
+  "timestamp": "2023-01-31T20:12:48",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "topic": "DFB-Pokal"
+    },
     {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -37,11 +42,6 @@
       "title": "Medien",
       "url": "https://www.welt.de/kultur/medien/",
       "topic": "WDR verteidigt Klamroth"
-    },
-    {
-      "title": "Panorama",
-      "url": "https://www.welt.de/vermischtes/",
-      "topic": "Berlin"
     },
     {
       "title": "Aha!",
