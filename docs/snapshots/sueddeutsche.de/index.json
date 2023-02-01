@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-01T17:11:22",
+  "timestamp": "2023-02-01T18:15:13",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,12 +78,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -128,11 +122,11 @@
   ],
   "articles": [
     {
-      "title": "Ein Land im Streik",
-      "teaser": "Im heftigsten Tarifkampf seit einem Jahrzehnt legen Hunderttausende Briten ihre Arbeit nieder. Sie demonstrieren für höhere Löhne, bessere Arbeitsbedingungen und das Recht, auch künftig streiken zu dürfen.",
-      "url": "https://www.sueddeutsche.de/politik/streik-grossbritannien-lehrer-1.5743408",
-      "author": "Miriam Dahlinger",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743409/1000x420"
+      "title": "Wie der Westen Munition für Kiew zusammenkratzt",
+      "teaser": "An der Front kommt es momentan vor allem auf großkalibrige Geschütze an. Doch die Vorräte der Ukraine und ihrer Verbündeten gehen zur Neige. Und jetzt?",
+      "url": "https://www.sueddeutsche.de/politik/krieg-in-der-ukraine-munition-artillerie-1.5743374",
+      "author": "Sebastian Gierke",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743376/1000x420"
     },
     {
       "title": "Das Risiko von Kampfjets ist derzeit unkalkulierbar",
@@ -142,10 +136,44 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.2605316/290x163"
     },
     {
-      "title": "FBI durchsucht Anwesen von US-Präsident Joe Biden",
-      "teaser": "Es gehe um den Verbleib möglicher Geheimdokumente, so ein Anwalt. Die Untersuchung habe die \"volle Unterstützung\" des Präsidenten.",
-      "url": "https://www.sueddeutsche.de/politik/geheimdokumente-fbi-durchsucht-anwesen-von-us-praesident-joe-biden-1.5743441",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743452/208x156"
+      "title": "Ermittler im Strandhaus des Präsidenten",
+      "teaser": "Eigentlich sollte die Durchsuchung des Anwesens von US-Präsident dezent vonstatten gehen. Doch nun wurde sie publik. Joe Biden zeigt sich kooperativ.",
+      "url": "https://www.sueddeutsche.de/politik/joe-biden-strandhaus-ermittlungen-1.5743591",
+      "author": "Peter Burghardt, Washington",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743592/208x156"
+    },
+    {
+      "title": "Ein Land im Streik",
+      "teaser": "Im heftigsten Tarifkampf seit einem Jahrzehnt legen Hunderttausende Briten ihre Arbeit nieder. Sie demonstrieren für höhere Löhne, bessere Arbeitsbedingungen und das Recht, auch künftig streiken zu dürfen.",
+      "url": "https://www.sueddeutsche.de/politik/streik-grossbritannien-lehrer-1.5743408",
+      "author": "Miriam Dahlinger",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743409/600x337"
+    },
+    {
+      "title": "Apple kauft Filetgrundstück in München für eine Viertelmilliarde Euro",
+      "teaser": "Der US-Konzern will seine Expansion in der Stadt vorantreiben. Mit dem Deal erzielt der Freistaat Bayern einen Kaufpreis, der deutlich über dem Marktwert liegt.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-apple-freistaat-grundstueck-seidlstrasse-verkauf-1.5743485",
+      "author": "Sebastian Krass",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5561591/600x337"
+    },
+    {
+      "title": "Heftige Kritik an Behörden nach Messerattacke im Zug",
+      "teaser": "Die Vorgeschichte der tödlichen Messerattacke im Zug nach Brokstedt, bei der zwei Jugendliche starben, zeigt eklatantes behördliches Versagen: Wichtige Informationen zwischen Kiel und Hamburg wurden nicht weitergegeben.",
+      "url": "https://www.sueddeutsche.de/politik/messerattacke-zug-tote-verletzte-behoerden-versagen-1.5743576",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743577/208x156"
+    },
+    {
+      "title": "Masken-Millionärin Tandler kassierte auch Corona-Hilfe",
+      "teaser": "Neue Vorwürfe der Staatsanwaltschaft: Die Unternehmerin hat 9000 Euro erhalten, als die lukrativen Maskendeals bereits liefen.",
+      "url": "https://www.sueddeutsche.de/bayern/andrea-tandler-maskendeals-corona-hilfe-haft-betrug-1.5743383",
+      "author": "Klaus Ott",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5738858/600x337"
+    },
+    {
+      "title": "\"Die industrielle Revolution kehrt ins Saarland zurück\"",
+      "teaser": "In Ensdorf entsteht eine neue Chipfabrik mit mehr als 600 Beschäftigten, auf dem Gelände eines alten Kohlekraftwerks. Da kommt sogar der Kanzler vorbei.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/chip-saarland-halbleiterindustrie-wirtschaftsfoederung-1.5743468",
+      "author": "Caspar Busse und Gianna Niewel"
     },
     {
       "title": "Butterpreis schmiert ab",
@@ -159,41 +187,21 @@
       "teaser": "Lässt sich das 1,5-Grad-Ziel noch erreichen? Das hängt laut einem Hamburger Forscherteam vor allem von zehn gesellschaftlichen Faktoren ab - und da sieht es nicht überall gut aus.",
       "url": "https://www.sueddeutsche.de/wissen/klimawandel-fridays-for-future-kipppunkte-klimaschutz-1.5743205",
       "author": "Christopher Schrader",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743206/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743206/208x156"
     },
     {
-      "title": "\"Die industrielle Revolution kehrt ins Saarland zurück\"",
-      "teaser": "In Ensdorf entsteht eine neue Chipfabrik mit mehr als 600 Beschäftigten, auf dem Gelände eines alten Kohlekraftwerks. Da kommt sogar der Kanzler vorbei.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/chip-saarland-halbleiterindustrie-wirtschaftsfoederung-1.5743468",
-      "author": "Caspar Busse und Gianna Niewel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743469/600x337"
+      "title": "Leider nicht lustig",
+      "teaser": "Die Fernsehjournalistin Anja Reschke ist eine sehr gute Moderatorin, sehr präsent, sehr eloquent. Aber ihrem neuen Format hilft auch das nicht.",
+      "url": "https://www.sueddeutsche.de/medien/reschke-fernsehen-ndr-1.5743166",
+      "author": "Cornelius Pollmer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743458/600x337"
     },
     {
-      "title": "Masken-Millionärin Tandler kassierte auch Corona-Hilfe",
-      "teaser": "Neue Vorwürfe der Staatsanwaltschaft: Die Unternehmerin hat 9000 Euro erhalten, als die lukrativen Maskendeals bereits liefen.",
-      "url": "https://www.sueddeutsche.de/bayern/andrea-tandler-maskendeals-corona-hilfe-haft-betrug-1.5743383",
-      "author": "Klaus Ott",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5738858/208x156"
-    },
-    {
-      "title": "Der Mann ohne Zukunft tritt ab",
-      "teaser": "Andreas Scheuer gibt seinen Bezirksvorsitz in Niederbayern auf. CSU-Chef Söder dürfte über diesen Schritt erleichtert sein.",
-      "url": "https://www.sueddeutsche.de/bayern/niederbayern-csu-bezirksvorsitz-scheuer-soeder-1.5742963",
-      "author": "Andreas Glas",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5188165/208x156"
-    },
-    {
-      "title": "Bußgelder für Jérôme Boateng und Hasan Salihamidžić",
-      "teaser": "Der ehemalige Spieler des FC Bayern München und der Sportvorstand müssen sich am selben Tag vor dem Amtsgericht verantworten. Beide wegen zu schnellen Fahrens - und einer wurde auch noch mit Handy am Ohr ertappt.",
-      "url": "https://www.sueddeutsche.de/muenchen/fc-bayern-jerome-boateng-hasan-salihamidzic-bussgeld-gericht-1.5743185",
-      "author": "Susi Wimmer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743186/208x156"
-    },
-    {
-      "title": "Tom Brady tritt erneut zurück",
-      "teaser": "Der Quarterback der Tampa Bay Buccaneers verkündet seinen Abschied vom Sport - diesmal sei er \"endgültig\", sagt der 45-Jährige. Er hatte es sich schon einmal anders überlegt.",
-      "url": "https://www.sueddeutsche.de/sport/tom-brady-ruecktritt-nfl-tampa-bay-buccaneers-1.5743340",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743341/600x337"
+      "title": "Chelsea shoppt ohne Grenzen",
+      "teaser": "Der 121-Millionen-Transfer von Enzo Fernández ist der Schlusspunkt einer beispiellosen Kaufoffensive des FC Chelsea. Ist das Vorgehen des neuen Eigentürmers Todd Boehly Wahnsinn - oder vielleicht sogar ein Modell mit Zukunft?",
+      "url": "https://www.sueddeutsche.de/sport/chelsea-enzo-fernandez-transfer-rekord-1.5743556",
+      "author": "Sven Haist, London",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5742941/600x337"
     },
     {
       "title": "Sparen, bis es selbst die Schwaben schmerzt",
@@ -211,12 +219,6 @@
       "image_title": "Sabitzer FC Bayern"
     },
     {
-      "title": "497 Mal mussten Münchens Extremistenjäger eingreifen",
-      "teaser": "Zehn Staatsanwältinnen und Staatsanwälte deckten im vergangenen Jahr militante Netzwerke auf und verfolgten antisemitische Straftaten. Welche Fälle bei den Spezialisten auf dem Tisch landeten.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-terror-ermittler-bilanz-2022-zet-1.5743410",
-      "author": "Martin Bernstein"
-    },
-    {
       "title": "Einer Volkspartei unwürdig",
       "teaser": "Wochenlang stehen die Vorwürfe gegen den mittlerweile zurückgetretenen Generalsekretär Taşdelen unaufgeklärt im Raum. Dann legt die SPD einen kümmerlichen Bericht vor, der deutlich macht: In diesem Fall gibt es nur Verlierer.",
       "url": "https://www.sueddeutsche.de/bayern/arif-tasdelen-bayern-spd-kommission-vorwuerfe-ruecktritt-landtagswahl-1.5743189",
@@ -224,18 +226,25 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5743256/290x163"
     },
     {
-      "title": "Das Geheimnis der Mumifizierung",
-      "teaser": "Ein erhaltener Körper galt den Ägyptern als Voraussetzung für das Leben nach dem Tod. Nun verrät ein glücklicher Fund, welche Zutaten die Einbalsamierer einst wirklich verwendeten, um aus Leichnamen Mumien zu machen.",
-      "url": "https://www.sueddeutsche.de/wissen/aegypten-mumifizierung-sakkara-chemie-1.5741838",
-      "author": "Jakob Wetzel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5741843/208x156"
+      "title": "Der verschollene Sektenführer",
+      "teaser": "David Miscavige ist unauffindbar - zumindest für jene, die dem Scientology-Chef eine Klage wegen Kindesmissbrauchs überreichen wollen. Und auch der bekannteste Vertreter der Sekte schweigt.",
+      "url": "https://www.sueddeutsche.de/panorama/scientology-sekte-david-miscavige-tom-cruise-1.5743222",
+      "author": "Jürgen Schmieder, Los Angeles",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743547/600x337"
     },
     {
-      "title": "Die Blutgräfin",
-      "teaser": "Eine Frau, die andere Frauen tötet, um in ihrem Blut zu baden: Wie viel Wahrheit steckt in den Legenden um Gräfin Báthory?",
-      "url": "https://www.sueddeutsche.de/leben/serienmoerderin-blutgraefin-bathory-1.5739683",
-      "author": "Florian Welle",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5739684/600x337"
+      "title": "Aufgewacht im Kulturkampf",
+      "teaser": "Ein kleines Café in Connecticut erzürnt Konservative mit seinem Namen. Dabei hatte \"Woke Breakfast & Coffee\" gar keine politischen Hintergedanken.",
+      "url": "https://www.sueddeutsche.de/politik/wokeness-woke-coffee-cafe-connecticut-1.5743221",
+      "author": "Kathrin Werner",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743529/208x156"
+    },
+    {
+      "title": "\"Mein Schamgefühl ist auf dem Stand eines Zwölfjährigen\"",
+      "teaser": "Christian Ulmen und Fahri Yardım über pubertäre Abenteuer, Kindererziehung, Vaterschaft und die finale Staffel ihrer Serie \"Jerks\".",
+      "url": "https://www.sueddeutsche.de/medien/christian-ulmen-fahri-yard-m-interview-jerks-1.5742971",
+      "author": "Interview von David Steinitz",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5742973/600x337"
     },
     {
       "title": "Russlands Freunde im Süden",
@@ -259,17 +268,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5743525/208x156"
     },
     {
-      "title": "Strom wird 30 Prozent günstiger",
-      "teaser": "Wer Energie über die Münchner Stadtwerke bezieht, zahlt vom 1. April an zehn Cent weniger pro Kilowattstunde. Rechnet man die bundesweite Strompreisbremse hinzu, sinkt der Preis noch deutlicher.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-swm-strompreis-senkung-1.5743404",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743405/208x156"
+      "title": "Tausende fingierte Corona-Tests für ein Luxusleben",
+      "teaser": "Weil ein junges Paar aus Geretsried bei der Kassenärztlichen Vereinigung falsch abgerechnet hat, verurteilt es das Amtsgericht München zu mehrjährigen Haftstrafen.",
+      "url": "https://www.sueddeutsche.de/muenchen/corona-test-betrug-prozess-muenchen-geretsried-1.5743472",
+      "author": "Andreas Salch, München/Geretsried",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5567742/208x156"
     },
     {
-      "title": "Die Tendenz geht zur Generalsanierung",
-      "teaser": "Der Münchner Stadtrat hebt das Vergabeverfahren für die Gasteig-Modernisierung auf, weil sich kein Investor gefunden hat. Die Verwaltung soll im nächsten halben Jahr alle Optionen noch einmal prüfen.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-gasteig-sanierung-investor-streit-stadtrat-1.5743393",
-      "author": "Anna Hoben",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743394/208x156"
+      "title": "497 Mal mussten Münchens Extremistenjäger eingreifen",
+      "teaser": "Zehn Staatsanwältinnen und Staatsanwälte deckten im vergangenen Jahr militante Netzwerke auf und verfolgten antisemitische Straftaten. Welche Fälle bei den Spezialisten auf dem Tisch landeten.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-terror-ermittler-bilanz-2022-zet-1.5743410",
+      "author": "Martin Bernstein",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743413/208x156"
     },
     {
       "title": "Für wen das Dieselverbot gilt",
@@ -277,13 +287,6 @@
       "url": "https://www.sueddeutsche.de/muenchen/diesel-fahrverbot-muenchen-karte-verkehr-umweltzone-1-februar-1.5741717",
       "author": "Andreas Schubert",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5741718/208x156"
-    },
-    {
-      "title": "Apple kauft Filetgrundstück in München für eine Viertelmilliarde Euro",
-      "teaser": "Der US-Konzern will seine Expansion in der Stadt vorantreiben. Mit dem Deal erzielt der Freistaat Bayern einen Kaufpreis, der deutlich über dem Marktwert liegt.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-apple-freistaat-grundstueck-seidlstrasse-verkauf-1.5743485",
-      "author": "Sebastian Krass",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5561591/208x156"
     },
     {
       "title": "Die Crux der schwarzen Aluschindeln",
@@ -300,23 +303,31 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5741669/208x156"
     },
     {
+      "title": "Das Tor zum Glockenbachviertel",
+      "teaser": "Das 55 Eleven ist aus der Maxvorstadt in die Blumenstraße gezogen. Der Name und die charakteristischen Merkmale sind geblieben - nur im Eigenverständnis hat sich etwas geändert.",
+      "url": "https://www.sueddeutsche.de/muenchen/muenchen-bar-55eleven-blumenstrasse-neueroeffnung-1.5739876",
+      "author": "Linus Freymark",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5739879/208x156"
+    },
+    {
+      "title": "Warnung vor starken Schneefällen in Teilen Bayerns",
+      "teaser": "Laut Deutschem Wetterdienst soll es an den Alpen und im Bayerischen Wald viel schneien. Auch sonst bleibt es eher ungemütlich im Freistaat.",
+      "url": "https://www.sueddeutsche.de/bayern/wetter-bayern-schnee-alpen-bayerischer-wald-wetterdienst-1.5743581",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743584/208x156"
+    },
+    {
+      "title": "\"Ich dachte an dem Tag, dass ich sterben werde\"",
+      "teaser": "Ihre Familie will eine 16-Jährige töten, weil sie als Jesidin einen muslimischen Freund hat. Im Esszimmer diskutieren Vater und Brüder, wie man ihr am besten das Leben nimmt. Vor Gericht kommen diese und weitere Grausamkeiten ans Licht.",
+      "url": "https://www.sueddeutsche.de/bayern/jesiden-tochter-vater-bruder-mord-augsburg-1.5743377",
+      "author": "Florian Fuchs, Augsburg",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743396/208x156"
+    },
+    {
       "title": "Im Fall Taşdelen bleiben mehr Fragen als Antworten",
       "teaser": "Die Aufklärungskommission der Bayern-SPD hält nach dem Rücktritt des Generalsekretärs keine weiteren Maßnahmen für \"erforderlich\". Was ihm genau vorgeworfen wurde? Steht nicht im Bericht.",
       "url": "https://www.sueddeutsche.de/bayern/tasdelen-spd-vorwuerfe-jusos-ruecktritt-bayern-1.5743487",
       "author": "Andreas Glas, Olaf Przybilla und Lisa Schnell",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5635256/208x156"
-    },
-    {
-      "title": "Unbekannte zünden Zelt für ukrainische Flüchtlinge an",
-      "teaser": "Bei der Brandstiftung im Landkreis Dingolfing-Landau kommt niemand zu Schaden, weil die Unterkunft noch leer steht.",
-      "url": "https://www.sueddeutsche.de/bayern/marklkofen-dingolfing-landau-brand-fluechtlinge-zelt-unterkunft-1.5743567",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5684838/208x156"
-    },
-    {
-      "title": "Doppelmord von Mistelbach: Verurteilte legen Revision ein",
-      "teaser": "Das damalige Pärchen soll wegen des zweifachen Mordes im Januar 2022 lange ins Gefängnis. Die Strafe des Gerichts will es nicht akzeptieren.",
-      "url": "https://www.sueddeutsche.de/bayern/mistelbach-doppelmord-revision-prozess-bayreuth-1.5743139",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743165/208x156"
     },
     {
       "title": "Die CSU erlebt ihr Coming-out",
@@ -339,13 +350,6 @@
       "author": "Carim Soliman"
     },
     {
-      "title": "Wo ist David Miscavige?",
-      "teaser": "Der Scientology-Chef ist unauffindbar - zumindest für jene, die ihm eine Klage wegen Kindesmissbrauchs überreichen wollen. Und auch Tom Cruise sagt nichts zu den Vorwürfen.",
-      "url": "https://www.sueddeutsche.de/panorama/scientology-sekte-david-miscavige-tom-cruise-1.5743222",
-      "author": "Jürgen Schmieder, Los Angeles",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743547/208x156"
-    },
-    {
       "title": "\"Selten so ein gutes Phantombild gesehen\"",
       "teaser": "In Schwäbisch Hall ist ein mutmaßlicher Serienmörder verhaftet worden, der es offenbar auf ältere Menschen abgesehen hatte. Die Polizei erklärt, wie sie auf seine Spur kam.",
       "url": "https://www.sueddeutsche.de/panorama/schwaebisch-hall-mutmasslicher-serienmoerder-polizei-verhaftung-phantombild-1.5743483",
@@ -357,6 +361,13 @@
       "teaser": "Die Schauspielerin freut sich darauf, natürlich zu altern, Ashton Kutcher fühlte sich einst als Versager und Marianne und Michael schicken lieber die Jugend vor.",
       "url": "https://www.sueddeutsche.de/panorama/pamela-anderson-alter-ashton-kutcher-demi-moore-marianne-michael-1.5743131",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5743134/208x156"
+    },
+    {
+      "title": "1587 Zeichen in Bestlage",
+      "teaser": "Ein Pariser Immobilienmakler preist eine Wohnung mit \"gefühlt 16 Quadratmetern\" an. Von ihm lässt sich einiges lernen - auch für diesen sehr gepflegten Text mit wunderschönem Panorama-Blick.",
+      "url": "https://www.sueddeutsche.de/panorama/paris-immobilienmarkt-wohnung-makler-anzeige-gefuehlte-quadratmeter-1.5743234",
+      "author": "Moritz Geier",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743284/208x156"
     },
     {
       "title": "Sinnsuche ohne Kontaktlinsen",
@@ -442,6 +453,12 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5743462/208x156"
     },
     {
+      "title": "Tom Brady tritt erneut zurück",
+      "teaser": "Der Quarterback der Tampa Bay Buccaneers verkündet seinen Abschied vom Sport - diesmal sei er \"endgültig\", sagt der 45-Jährige. Er hatte es sich schon einmal anders überlegt.",
+      "url": "https://www.sueddeutsche.de/sport/tom-brady-ruecktritt-nfl-tampa-bay-buccaneers-1.5743340",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743341/208x156"
+    },
+    {
       "title": "Miese Stimmung plagt PSG",
       "teaser": "Paris Saint-Germain schwächelt vor dem Champions-League-Kracher gegen Bayern: Im Januar gelingt in vier Ligaspielen nur ein Sieg, die Personaldecke ist dünn, die Atmosphäre schlecht - Transfers scheitern in letzter Sekunde.",
       "url": "https://www.sueddeutsche.de/sport/psg-fc-bayern-champions-league-stimmung-1.5742693",
@@ -457,11 +474,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5742790/208x156"
     },
     {
-      "title": "Und jetzt bitte Großes",
-      "teaser": "Yann Sommer, Daley Blind und nun João Cancelo: Der FC Bayern hat auf alle Ausfälle des Winters reagiert und seinen Kader womöglich gar verbessert. Für Julian Nagelsmann und die Mannschaft erhöht das den Erfolgsdruck.",
-      "url": "https://www.sueddeutsche.de/sport/fc-bayern-joao-cancelo-salihamidzic-transfer-erfolgsdruck-1.5742717",
-      "author": "Sebastian Fischer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5742758/208x156"
+      "title": "Das Geheimnis der Mumifizierung",
+      "teaser": "Ein erhaltener Körper galt den Ägyptern als Voraussetzung für das Leben nach dem Tod. Nun verrät ein glücklicher Fund, welche Zutaten die Einbalsamierer einst wirklich verwendeten, um aus Leichnamen Mumien zu machen.",
+      "url": "https://www.sueddeutsche.de/wissen/aegypten-mumifizierung-sakkara-chemie-1.5741838",
+      "author": "Jakob Wetzel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5741843/208x156"
     },
     {
       "title": "\"Die Suchtrupps haben buchstäblich die Nadel im Heuhaufen gefunden\"",
@@ -469,13 +486,6 @@
       "url": "https://www.sueddeutsche.de/wissen/australien-radioaktiv-kapsel-1.5743018",
       "author": "Corinna Melville",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5743009/208x156"
-    },
-    {
-      "title": "Je kleiner, desto aggressiver",
-      "teaser": "Und je größer der Hund ist, desto gutmütiger ist er? Was Studien über das Klischee sagen und wie sich die Streitlust der Tiere wieder abbauen lässt.",
-      "url": "https://www.sueddeutsche.de/wissen/hunde-aggressiv-klein-1.5742582",
-      "author": "Hannah Wagner",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5742584/208x156"
     },
     {
       "title": "Lothar Wieler wird Sprecher am Hasso-Plattner-Institut",
