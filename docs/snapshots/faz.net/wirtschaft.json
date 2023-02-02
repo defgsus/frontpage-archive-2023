@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-02T15:12:34",
+  "timestamp": "2023-02-02T16:16:40",
   "url": "https://www.faz.net/aktuell/wirtschaft/",
   "response": {
     "status": 200
@@ -170,6 +170,12 @@
   ],
   "articles": [
     {
+      "title": "Vor der Legalisierung : Branche für „Reinheitsgebot“ bei Cannabis",
+      "url": "https://www.faz.net/aktuell/wirtschaft/branche-fuer-reinheitsgebot-bei-cannabis-legalisierung-noch-offen-18648961.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Cannabispflanze im Gewächshaus"
+    },
+    {
       "title": "Musikindustrie : Universal, Tidal und die Suche nach einem neuen Streaming-Modell",
       "url": "https://www.faz.net/aktuell/wirtschaft/unterwegs-mit-der-band-provinz-der-erste-grosse-festival-sommer-18348849.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -180,12 +186,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/wohnungsbau-unter-18-euro-kalt-pro-quadratmeter-geht-nichts-mehr-18646697.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Bauen ist nicht billig – vor allem nicht in Berlin."
-    },
-    {
-      "title": "Erstmal in Amerika : ChatGPT bekommt Bezahlversion mit Abo-Modell",
-      "url": "https://www.faz.net/aktuell/wirtschaft/chatgpt-bekommt-bezahlversion-mit-abo-modell-18648588.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Gefragt: Die Macher von ChatGPT haben noch mehr vor."
     },
     {
       "title": "Inflation und Zinsen : Vorsicht vor geldpolitischen Irrtümern",
@@ -250,6 +250,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Erstmal in Amerika : ChatGPT bekommt Bezahlversion mit Abo-Modell",
+      "url": "https://www.faz.net/aktuell/wirtschaft/chatgpt-bekommt-bezahlversion-mit-abo-modell-18648588.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Gefragt: Die Macher von ChatGPT haben noch mehr vor."
+    },
+    {
       "title": "Briefmarken selbst kaufen : Wenn die Post-Filiale dem Automaten weicht",
       "url": "https://www.faz.net/aktuell/wirtschaft/deutsche-post-kuenftig-mehr-automaten-und-weniger-filialen-18647968.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -275,17 +281,11 @@
     },
     {
       "title": "Füllstand 78,6 Prozent : Nächstes Ziel für die Gasspeicher ist erreicht",
-      "url": "https://www.faz.net/aktuell/wirtschaft/gasspeicher-ziel-fuer-den-fuellstand-zu-monatsbeginn-ist-erreicht-18648088.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Aufgefüllt: Blick auf eine technische Anlage zur Kühlung von Erdgas auf dem Gelände des Erdgasspeichers Rehden."
+      "url": "https://www.faz.net/aktuell/wirtschaft/gasspeicher-ziel-fuer-den-fuellstand-zu-monatsbeginn-ist-erreicht-18648088.html"
     },
     {
       "title": "Unabhängigkeit von Asien : Megachipfabrik an der Saar",
       "url": "https://www.faz.net/aktuell/wirtschaft/scholz-besuch-zf-und-wolfspeed-bauen-megachipfabrik-an-der-saar-18646678.html"
-    },
-    {
-      "title": "Neue Staatshilfen : So konterte Brüssel das Multimilliarden-Hilfspaket der Amerikaner",
-      "url": "https://www.faz.net/aktuell/wirtschaft/so-konterte-bruessel-das-multimilliarden-hilfspaket-der-amerikaner-18646932.html"
     },
     {
       "title": "Erbschaftsteuer-Reform : Worauf es bei der Erbschaftsteuer jetzt ankommt",
@@ -294,16 +294,16 @@
       "image_title": "Besonders teuer und begrenzt: Immobilien auf Sylt"
     },
     {
-      "title": "Oatly und Beyond Meat : War’s das mit dem Veggie-Boom?",
-      "url": "https://www.faz.net/aktuell/wirtschaft/oatly-und-beyond-meat-verkauf-von-vegetarischen-produkten-stagniert-18634988.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Höchste Zeit, sich auch von der aufgekratzten Veggie-Begeisterung der vergangenen Jahre zu verabschieden."
-    },
-    {
       "title": "Künstliche Intelligenz : Der erste Kontakt",
       "url": "https://www.faz.net/aktuell/wirtschaft/digitec/der-erste-kontakt-chatgpt-ist-erst-der-anfang-18639100.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die in der KI gerade so angesagten künstlichen neuronalen Netze orientieren sich an unserer Vorstellung vom Gehirn."
+    },
+    {
+      "title": "Oatly und Beyond Meat : War’s das mit dem Veggie-Boom?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/oatly-und-beyond-meat-verkauf-von-vegetarischen-produkten-stagniert-18634988.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Höchste Zeit, sich auch von der aufgekratzten Veggie-Begeisterung der vergangenen Jahre zu verabschieden."
     },
     {
       "title": "Wohnung kaufen : An diesen Orten sinken die Immobilienpreise",
@@ -318,32 +318,28 @@
       "image_title": "Spielende Kinder - weil Betreuungsangebote fehlen, arbeiten viele Frauen nicht."
     },
     {
-      "title": "Fachkräftemangel : Warum Millionen Deutsche dem Arbeitsmarkt fernbleiben",
-      "url": "https://www.faz.net/aktuell/wirtschaft/fachkraeftemangel-die-kinderbetreuung-als-haupthindernis-18635105.html",
+      "title": "Industrie versus Kanzler : Unter 18 Euro Kaltmiete geht nichts mehr",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnungsbau-unter-18-euro-kalt-pro-quadratmeter-geht-nichts-mehr-18646697.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Spielende Kinder - weil Betreuungsangebote fehlen, arbeiten viele Frauen nicht."
+      "image_title": "Bauen ist nicht billig – vor allem nicht in Berlin."
     },
     {
-      "title": "Urteil gegen Zuwanderer : Ein Dönerimbiss ist kein Spezialitätenrestaurant",
-      "url": "https://www.faz.net/aktuell/wirtschaft/urteil-aus-berlin-doener-imbiss-ist-kein-spezialitaetenrestaurant-18646040.html",
+      "title": "Industrie versus Kanzler : Unter 18 Euro Kaltmiete geht nichts mehr",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnungsbau-unter-18-euro-kalt-pro-quadratmeter-geht-nichts-mehr-18646697.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Spezialität vielleicht, aber kein Restaurant. Ein Gericht bestätigt, dass es kein Visum gibt, wenn eine Stelle in einem Dönerimbiss versprochen ist."
+      "image_title": "Bauen ist nicht billig – vor allem nicht in Berlin."
     },
     {
       "title": "IT-Fortschritt : Was Sie jetzt über Computerchips wissen müssen",
       "url": "https://www.faz.net/aktuell/wirtschaft/digitec/computerchips-was-sie-ueber-halbleiter-jetzt-wissen-muessen-18638853.html"
     },
     {
-      "title": "Industrie versus Kanzler : Unter 18 Euro Kaltmiete geht nichts mehr",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnungsbau-unter-18-euro-kalt-pro-quadratmeter-geht-nichts-mehr-18646697.html"
+      "title": "Fachkräftemangel : Warum Millionen Deutsche dem Arbeitsmarkt fernbleiben",
+      "url": "https://www.faz.net/aktuell/wirtschaft/fachkraeftemangel-die-kinderbetreuung-als-haupthindernis-18635105.html"
     },
     {
-      "title": "Industrie versus Kanzler : Unter 18 Euro Kaltmiete geht nichts mehr",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnungsbau-unter-18-euro-kalt-pro-quadratmeter-geht-nichts-mehr-18646697.html"
-    },
-    {
-      "title": "Unabhängigkeit von Asien : Megachipfabrik an der Saar",
-      "url": "https://www.faz.net/aktuell/wirtschaft/scholz-besuch-zf-und-wolfspeed-bauen-megachipfabrik-an-der-saar-18646678.html"
+      "title": "Urteil gegen Zuwanderer : Ein Dönerimbiss ist kein Spezialitätenrestaurant",
+      "url": "https://www.faz.net/aktuell/wirtschaft/urteil-aus-berlin-doener-imbiss-ist-kein-spezialitaetenrestaurant-18646040.html"
     },
     {
       "title": "Unabhängigkeit von Asien : Megachipfabrik an der Saar",
@@ -354,8 +350,12 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/scholz-besuch-zf-und-wolfspeed-bauen-megachipfabrik-an-der-saar-18646678.html"
     },
     {
-      "title": "Digital bezahlen : Darum kommt Apples Kreditkarte nicht nach Europa",
-      "url": "https://www.faz.net/aktuell/wirtschaft/digitec/darum-kommt-apples-kreditkarte-nicht-nach-europa-18644358.html"
+      "title": "Unabhängigkeit von Asien : Megachipfabrik an der Saar",
+      "url": "https://www.faz.net/aktuell/wirtschaft/scholz-besuch-zf-und-wolfspeed-bauen-megachipfabrik-an-der-saar-18646678.html"
+    },
+    {
+      "title": "Ungewöhnlich Wohnen : Wohnen geht auch anders",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/ungewoehnlich-wohnen-so-lebt-man-im-hausboot-oder-baumhaus-18633704.html"
     },
     {
       "title": "Ungewöhnlich Wohnen : Wohnen geht auch anders",
@@ -366,8 +366,8 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/ritualisierter-armuts-diskurs-18641353.html"
     },
     {
-      "title": "Ungewöhnlich Wohnen : Wohnen geht auch anders",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/ungewoehnlich-wohnen-so-lebt-man-im-hausboot-oder-baumhaus-18633704.html"
+      "title": "Digital bezahlen : Darum kommt Apples Kreditkarte nicht nach Europa",
+      "url": "https://www.faz.net/aktuell/wirtschaft/digitec/darum-kommt-apples-kreditkarte-nicht-nach-europa-18644358.html"
     },
     {
       "title": "Diskussion über Aktienrente : Christian Lindner und die Spitzensteuersatzzahler",
@@ -419,7 +419,7 @@
       "image_title": "Mit VR-Technologie im Metaverse: Meta gewinnt Kartellstreit."
     },
     {
-      "title": "Kryptofonds : Die besten Krypto-Fonds im Januar",
+      "title": "Geldanlage : Die besten Kryptofonds im Januar",
       "url": "https://www.faz.net/aktuell/wirtschaft/kryptofonds-die-besten-im-januar-18646865.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Bitcoin hat sich im Januar von rund 16 500 Dollar auf aktuell rund 23 000 Dollar erholt – ein Plus von fast 40 Prozent."
@@ -430,16 +430,22 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Neue Staatshilfen : So konterte Brüssel das Multimilliarden-Hilfspaket der Amerikaner",
+      "url": "https://www.faz.net/aktuell/wirtschaft/so-konterte-bruessel-das-multimilliarden-hilfspaket-der-amerikaner-18646932.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "EU-Kommissionspräsidentin Ursula von der Leyen vor dem Europa-Parlament in Brüssel."
+    },
+    {
       "title": "Meta : Facebook-Konzern verdient mehr als gedacht – Aktienkurs steigt um 18 Prozent",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/facebook-mutterkonzern-meta-macht-wieder-etwas-hoffnung-18647524.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Vorstandschef Mark Zuckerberg will bei Meta die Kosten reduzieren."
     },
     {
-      "title": "EU antwortet auf Amerikas Plan : Der Wettlauf um Subventionen beginnt",
-      "url": "https://www.faz.net/aktuell/wirtschaft/eu-gegen-amerika-der-subventionswettlauf-beginnt-18646468.html",
+      "title": "Österreichs Firmen in Not : Personalnot ohne Ende",
+      "url": "https://www.faz.net/aktuell/wirtschaft/oesterreichs-firmen-in-not-personalnot-ohne-ende-18648953.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ursula von der Leyen stellt den Green Industrial Plan in Brüssel vor."
+      "image_title": "Auch Gastronomen fehlen oft Mitarbeiter."
     },
     {
       "title": "Chefwechsel bei Condor : Wieder ein Fall für den erfolgreichen Strategen",
@@ -458,12 +464,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/gautam-adani-verliert-milliarden-und-sagt-aktienverkauf-ab-18647782.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Der indische Milliardär Gautam Adani setzt sich mit den Vorwürfen in seinen Unternehmen auseinander."
-    },
-    {
-      "title": "Chefs auf Zeit : Berater steigen ins Geschäft für Interimsmanager ein",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/berater-und-interimsmanager-heidrick-struggles-uebernimmt-atreus-18646335.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wer übernimmt kurzfristig den vakanten Chefposten? Auch als Interimsmanager kommen meist nur erfahrene Führungskräfte in Frage."
     },
     {
       "title": "Ungewöhnlich Wohnen : Wohnen geht auch anders",
@@ -616,6 +616,12 @@
       "image_title": "Uniper betreibt auch das Kohlekraftwerk Scholven in Gelsenkirchen."
     },
     {
+      "title": "EU antwortet auf Amerikas Plan : Der Wettlauf um Subventionen beginnt",
+      "url": "https://www.faz.net/aktuell/wirtschaft/eu-gegen-amerika-der-subventionswettlauf-beginnt-18646468.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ursula von der Leyen stellt den Green Industrial Plan in Brüssel vor."
+    },
+    {
       "title": "Bericht der Netzagentur : Stromversorgung auch bei früherem Kohleausstieg sicher",
       "url": "https://www.faz.net/aktuell/wirtschaft/netzagentur-haelt-stromversorgung-fuer-sicher-auch-bei-frueherem-kohleausstieg-18645322.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -626,12 +632,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/streit-um-geplantes-gewerbeareal-an-a-66-bei-hofheim-diedenbergen-18644332.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Bedrohter Feldhamster: Nach Ansicht von Naturschützer muss erst untersucht werden, ob auf dem Baugebiet fürs Gewerbegebiet seltene Tierarten vorkommen."
-    },
-    {
-      "title": "Öl- und Pellethilfen : „Berlin hat seine Hausaufgaben schnell gemacht“",
-      "url": "https://www.faz.net/aktuell/wirtschaft/pellethilfen-land-berlin-will-am-schnellsten-sein-18643920.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Fahrer eines Gabelstaplers belädt im Berliner Depot der Hans Engelke Energie OHG einen Tanklaster mit Pellets."
     },
     {
       "title": ": Halbleiter aus der EU: Vom Kohlekraftwerk zur Chipfabrik",
