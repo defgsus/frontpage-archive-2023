@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-02T10:13:31",
+  "timestamp": "2023-02-02T11:10:30",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.4bac0929.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
       "id": null,
       "text": null
@@ -84,13 +90,6 @@
       "image_url": "https://img.zeit.de/2023/06/gegen-den-spuk-im-kopf-bild-1/cinema__980x420"
     },
     {
-      "title": "Bundeswehr: Niemand braucht die Wehrpflicht",
-      "teaser": "Die Bundeswehr wird nicht besser durch die unsinnige Kasernierung aller Schulabgänger. Nachwuchs muss sie anders gewinnen – und vor allem vernünftig ausgerüstet werden.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-02/bundeswehr-wehrpflicht-wiedereinfuehrung-nachwuchs-aufruestung-fdp",
-      "image_url": "https://img.zeit.de/politik/2023-02/bundeswehr-wehrpflicht-wiedereinfuehrung-nachwuchs-bild/wide__822x462",
-      "image_title": "Bundeswehr: Niemand braucht die Wehrpflicht"
-    },
-    {
       "title": "Liveblog: Ukraine-News: Ursula von der Leyen in Kiew eingetroffen",
       "teaser": "Beim Besuch der EU-Kommissionspräsidentin soll es auch um den Beitritt der Ukraine zur Union gehen. Ukrainische Armee erwartet neuen russischen Großangriff. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
@@ -105,25 +104,46 @@
       "image_title": "Ukraine-Karte aktuell: Russische Truppen rücken in Vororten von Bachmut vor"
     },
     {
+      "title": "Korruptionsskandal: EU-Parlament hebt Immunität von weiteren zwei Abgeordneten auf",
+      "teaser": "Das Europaparlament ermöglicht strafrechtliche Ermittlungen gegen die Sozialdemokraten Marc Tarabella und Andrea Cozzolino. Sie sollen Vergünstigungen angenommen haben.",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/korruption-europaparlament-immunitaet-marc-tarabella-andrea-cozzolino",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/korruption-eu-parlament-immunitaet-marc-tarabella-andrea-cozzolino/wide__822x462",
+      "image_title": "Korruptionsskandal: EU-Parlament hebt Immunität von weiteren zwei Abgeordneten auf"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsches Cannabis-Start-up: Der Millionen-Dealer",
+      "teaser": "Heimlich Drogen verkaufen? Das hat Constantin von der Groeben nicht nötig. Seine Firma baut in Sachsen Cannabis an. Jetzt hofft er auf die Legalisierung der Pflanze.",
+      "url": "https://www.zeit.de/arbeit/2022-12/deutsches-cannabis-start-up-demecan-medizin-legalisierung",
+      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2022/04/probieren-verboten-bild-5/cinema__980x420",
+      "image_title": "Deutsches Cannabis-Start-up: Der Millionen-Dealer"
+    },
+    {
+      "title": "Streik in Großbritannien: Trillerpfeifen in Downing Street",
+      "teaser": "Lehrerinnen, Busfahrer, selbst Mitarbeiter der Regierung: Der gigantische Streik in Großbritannien wird zur Machtprobe mit einem Premier, der keinesfalls nachgeben will.",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/grossbritannien-streik-inflation-lohnerhoehung",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/grossbritannien-streik-inflation-lohnerhoehung-bild/wide__822x462",
+      "image_title": "Streik in Großbritannien: Trillerpfeifen in Downing Street"
+    },
+    {
+      "title": "Energie: Gasspeicher zu über drei Vierteln gefüllt",
+      "teaser": "Mit 78,6 Prozent Füllstand sind die deutschen Gasspeicher fast doppelt so voll wie gesetzlich vorgeschrieben. Besonders der milde Winter hat dazu beigetragen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-02/energie-gasspeicher-drei-viertel-gefuellt",
+      "image_url": "https://img.zeit.de/wirtschaft/ausland/2023-02/energie-gasspeicher-drei-viertel-gefuellt-bild/wide__822x462",
+      "image_title": "Energie: Gasspeicher zu über drei Vierteln gefüllt"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Hausverwaltung: Die einzige Gemeinsamkeit ist die Hausnummer",
       "teaser": "Sich mit anderen Menschen Wohneigentum zu teilen, ist ein Sozialexperiment. Verwalter können das Chaos ordnen, sind aber immer schwerer zu finden. Ist die Lösung digital?",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-01/hausverwaltung-immobilie-wohnungseigentuemergesellschaften-fachkraeftemangel",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-02/hausverwaltung-immobilie-wohnungseigentuemergesellschaften-fachkraeftemangel-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-02/hausverwaltung-immobilie-wohnungseigentuemergesellschaften-fachkraeftemangel-bild/wide__822x462",
       "image_title": "Hausverwaltung: Die einzige Gemeinsamkeit ist die Hausnummer"
     },
     {
-      "title": "Pazifik: USA erweitern Militärpräsenz auf den Philippinen",
-      "teaser": "Bisher nutzten die USA fünf Militärbasen auf den Philippinen, künftig werden es neun sein. China verurteilte die Ausweitung der US-Präsenz als \"egoistische Agenda\".",
-      "url": "https://www.zeit.de/politik/ausland/2023-02/pazifik-usa-militaer-philippinen-china",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-02/pazifik-usa-militaer-philippinen-china-bild/wide__822x462",
-      "image_title": "Pazifik: USA erweitern Militärpräsenz auf den Philippinen"
-    },
-    {
-      "title": "Cyberangriffe: Nordkorea spioniert offenbar gezielt Forschungsinstitute aus",
-      "teaser": "Eine IT-Sicherheitsfirma hat nach eigenen Angaben eine Spionagekampagne aus Nordkorea aufgedeckt. Die Angreifer hatten einen Fehler gemacht und ihre Adresse preisgegeben.",
-      "url": "https://www.zeit.de/digital/2023-02/cyberangriff-nordkorea-forschungseinrichtung-lazarus-group",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-02/it-spionagekampagne-hacker-lazarus-nordkorea-bild/wide__822x462",
-      "image_title": "Cyberangriffe: Nordkorea spioniert offenbar gezielt Forschungsinstitute aus"
+      "title": "Anschlag in Israel: \"Das ist in meinem Blut\"",
+      "teaser": "Ein besonders schwerer Anschlag erschüttert Israel. Wie blicken drei junge Palästinenserinnen auf den mörderischen Konflikt? Unser Autor hat ihnen zugehört.",
+      "url": "https://www.zeit.de/2023/06/israel-anschlag-synagoge-palaestinenser-bevoelkerung",
+      "image_url": "https://img.zeit.de/2023/06/das-ist-in-meinem-blut-bild-1/cinema__980x420",
+      "image_title": "Anschlag in Israel: \"Das ist in meinem Blut\""
     },
     {
       "title": "Wissen : Was hilft wirklich gegen Depressionen?",
@@ -132,60 +152,32 @@
       "image_url": "https://img.zeit.de/2023/06/packshot-23-06-1000x620.png/imagegroup/original__1000x620"
     },
     {
-      "title": "Mercosur-Abkommen: Der Vertrag, den keiner unterschreiben will",
-      "teaser": "Die Südamerika-Reise des Kanzlers wirft eine alte Frage neu auf: Ist es anständig, einen Handelsvertrag zwischen EU und Mercosur-Zollunion zu schließen?",
-      "url": "https://www.zeit.de/2023/06/mercosur-abkommen-olaf-scholz-suedamerika",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-02/mercosur-abkommen-olaf-scholz-suedamerika-reise/wide__822x462",
-      "image_title": "Mercosur-Abkommen: Der Vertrag, den keiner unterschreiben will"
+      "title": "Isfahan: Iran macht Israel für Drohnenattacke auf Rüstungsfirma verantwortlich",
+      "teaser": "Eine militärische Werkstätte in Isfahan wurde mit Drohnen attackiert. Der Iran erhebt nach dem Angriff Vorwürfe gegen Israel – und droht mit Vergeltung.",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/iran-drohne-angriff-isfahan-israel",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/iran-drohne-angriff-isfahan-israel-bild/wide__822x462",
+      "image_title": "Isfahan: Iran macht Israel für Drohnenattacke auf Rüstungsfirma verantwortlich"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Die Wiederkehr\" von Patrick Bahners: Der Gegner steht rechts",
-      "teaser": "Die AfD wird dieser Tage zehn Jahre alt. Patrick Bahners analysiert in seinem neuen Buch minutiös und rücksichtslos den Aufstieg der Partei – und wer daran schuld ist.",
-      "url": "https://www.zeit.de/2023/06/die-wiederkehr-patrick-bahners-buch-afd",
-      "image_url": "https://img.zeit.de/2023/06/die-wiederkehr-patrick-bahners-buch-afd-bild/cinema__980x420",
-      "image_title": "\"Die Wiederkehr\" von Patrick Bahners: Der Gegner steht rechts"
+      "title": "Z+ (abopflichtiger Inhalt); Situationship: \"Es gehört ganz schön viel Mut dazu, sich zu verlieben\"",
+      "teaser": "Die eine Person will was Festes, die andere möchte sich lieber noch nicht öffentlich bekennen. Hält die Liebe das Leiden aus, das solch ein Schwebezustand verursacht?",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-01/situationship-beziehung-freundschaft-dating-sicherheit",
+      "image_url": "https://img.zeit.de/zeit-magazin/2021-06/tara-christopeit-paartherapeutin/wide__822x462",
+      "image_title": "Situationship: \"Es gehört ganz schön viel Mut dazu, sich zu verlieben\""
     },
     {
-      "title": "OpenAI: ChatGPT bekommt Premiumversion mit Abomodell",
-      "teaser": "Zahlende Kunden werden künftig auch bei hoher Auslastung auf den Chatbot ChatGPT zugreifen können. Sie erhalten auch als Erste Zugang zu Neuerungen und Verbesserungen.",
-      "url": "https://www.zeit.de/digital/internet/2023-02/ki-chatgpt-premium-openai",
-      "image_url": "https://img.zeit.de/digital/2023-02/ki-chatgpt-premium-openai-bild/wide__822x462",
-      "image_title": "OpenAI: ChatGPT bekommt Premiumversion mit Abomodell"
+      "title": "Z+ (abopflichtiger Inhalt); Kalorien: Goodbye, Kalorien!",
+      "teaser": "Kalorien sind die wahrscheinlich größte Lüge, wenn es um Lebensmittel geht. Unser Autor hat sich auf ihre Spuren begeben und gefragt: Wie werden wir sie wieder los?",
+      "url": "https://www.zeit.de/zeit-wissen/2023/01/kilokalorien-lebensmittel-ernaehrungsforschung-stoffwechsel-fettverbrennung",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/kilokalorien-lebensmittel-ernaehrungsforschung-stoffwechsel-fettverbrennung-teaser/wide__822x462",
+      "image_title": "Kalorien: Goodbye, Kalorien!"
     },
     {
-      "title": "Statistisches Bundesamt: Zahl stationärer Krebsbehandlungen sinkt während der Pandemie deutlich",
-      "teaser": "Während der Pandemie wurden weniger Menschen wegen eines Krebsleidens stationär versorgt. Viele \"planbare Behandlungen\" wurden laut Statistischem Bundesamt verschoben.",
-      "url": "https://www.zeit.de/gesundheit/2023-02/krebs-krankenhaus-aufenthalt-weltkrebstag-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/gesundheit/2023-02/krebs-krankenhaus-aufenthalt-weltkrebstag/wide__822x462",
-      "image_title": "Statistisches Bundesamt: Zahl stationärer Krebsbehandlungen sinkt während der Pandemie deutlich"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Lehrerin: \"Im Monatsdurchschnitt gebe ich rund 800 Euro für Reisen aus\"",
-      "teaser": "Lena, 58, verdient als Lehrerin 6.448 Euro brutto im Monat. Miete zahlt sie keine, doch sie gibt viel Geld für Reisen und Restaurants aus. Sie spart nur wenig.",
-      "url": "https://www.zeit.de/arbeit/2023-01/lehrerin-reisen-geld-sparen-gehalt-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2023-01/lehrerin-reisen-geld-sparen-gehalt-kontoauszug-bild/wide__822x462",
-      "image_title": "Lehrerin: \"Im Monatsdurchschnitt gebe ich rund 800 Euro für Reisen aus\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mobbing: \"Hilflosigkeit ist der Stoff, aus dem Depressionen entstehen können\"",
-      "teaser": "Wie prägend ist Mobbing fürs Leben? Die Psychologieprofessorin Mechthild Schäfer erklärt, welche Langzeitfolgen Mobbing haben kann und wie man sich davon befreit.",
-      "url": "https://www.zeit.de/zett/2023-01/mobbing-folgen-depressionen-mechthild-schaefer",
-      "image_url": "https://img.zeit.de/zett/2023-01/mobbing-folgen-depressionen-mechthild-schaefer-mann/wide__822x462",
-      "image_title": "Mobbing: \"Hilflosigkeit ist der Stoff, aus dem Depressionen entstehen können\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gesundheit am Arbeitsplatz: Was tun, wenn der Job krank macht?",
-      "teaser": "Der Rücken schmerzt, der Magen auch, die Panik kommt – und das alles nur wegen eines Jobs. Expertinnen erklären, was man tun sollte, wenn die Arbeit einem schadet.",
-      "url": "https://www.zeit.de/arbeit/2022-07/arbeitsplatz-gesundheit-stress-motivation-faq",
-      "image_url": "https://img.zeit.de/arbeit/2022-07/arbeitsplatz-gesundheit-stress-motivation-faq-bild/wide__822x462",
-      "image_title": "Gesundheit am Arbeitsplatz: Was tun, wenn der Job krank macht?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Spielweisen von Kindern: Was fasziniert kleine Jungen so an Fahrzeugen?",
-      "teaser": "Eine Puppe für Mädchen, ein Auto für Jungs – warum eigentlich? Die Wahl der Lieblingsspielzeuge ist nicht nur Folge kultureller Prägung, auch Biologie spielt eine Rolle.",
-      "url": "https://www.zeit.de/zeit-wissen/2023/01/kinder-spielweisen-studie-biologie-gesellschaft",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/2-was-fasziniert-kleine-jungen-so-an-fahrzeugen-bild-1/cinema__980x420",
-      "image_title": "Spielweisen von Kindern: Was fasziniert kleine Jungen so an Fahrzeugen?"
+      "title": "Z+ (abopflichtiger Inhalt); Kommunikationsdesignerin: \"Mein Vater muss mir immer wieder helfen\"",
+      "teaser": "Nina, 42, entwirft Flyer und Webseiten für Unternehmen und verdient unter 400 Euro im Monat. Nur weil sie ein Haus geerbt hat und unterstützt wird, kommt sie zurecht.",
+      "url": "https://www.zeit.de/arbeit/2023-01/kommunikationsdesignerin-selbststaendigkeit-einkommen-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2023-01/kommunikationsdesignerin-selbststaendigkeit-einkommen/wide__822x462",
+      "image_title": "Kommunikationsdesignerin: \"Mein Vater muss mir immer wieder helfen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Reschke Fernsehen\": Allein im stillen Studio",
@@ -195,11 +187,32 @@
       "image_title": "\"Reschke Fernsehen\": Allein im stillen Studio"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Tom Brady: Er war noch gut, aber nicht mehr der Beste",
-      "teaser": "Tom Brady verkündet zum zweiten Mal sein Karriereende. Dafür gibt es viele Gründe – und irgendwie war's auch Zeit. In seinem neuen Job verdient er noch mal mehr.",
-      "url": "https://www.zeit.de/sport/2023-02/tom-brady-american-football-nfl-rente",
-      "image_url": "https://img.zeit.de/sport/2023-02/tom-brady-american-football-nfl-rente-bild/wide__822x462",
-      "image_title": "Tom Brady: Er war noch gut, aber nicht mehr der Beste"
+      "title": "Suppenrezepte: An die Löffel, fertig, los!",
+      "teaser": "Suppentöpfe sind dafür da, um ausgelöffelt zu werden. Vor allem, wenn es wieder so bitterkalt ist wie gerade. Die zehn besten Suppenrezepte aus dem \"Wochenmarkt\".",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/suppenrezepte-rezeptideen-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2021-03/muschel-kabeljau-chowder-fischsuppe-meeresfruechte/cinema__980x420",
+      "image_title": "Suppenrezepte: An die Löffel, fertig, los!"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Spielweisen von Kindern: Was fasziniert kleine Jungen so an Fahrzeugen?",
+      "teaser": "Eine Puppe für Mädchen, ein Auto für Jungs – warum eigentlich? Die Wahl der Lieblingsspielzeuge ist nicht nur Folge kultureller Prägung, auch Biologie spielt eine Rolle.",
+      "url": "https://www.zeit.de/zeit-wissen/2023/01/kinder-spielweisen-studie-biologie-gesellschaft",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/01/2-was-fasziniert-kleine-jungen-so-an-fahrzeugen-bild-1/wide__822x462",
+      "image_title": "Spielweisen von Kindern: Was fasziniert kleine Jungen so an Fahrzeugen?"
+    },
+    {
+      "title": "Cyberangriffe: Nordkorea spioniert offenbar gezielt Forschungsinstitute aus",
+      "teaser": "Eine IT-Sicherheitsfirma hat nach eigenen Angaben eine Spionagekampagne aus Nordkorea aufgedeckt. Die Angreifer hatten einen Fehler gemacht und ihre Adresse preisgegeben.",
+      "url": "https://www.zeit.de/digital/2023-02/cyberangriff-nordkorea-forschungseinrichtung-lazarus-group",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-02/it-spionagekampagne-hacker-lazarus-nordkorea-bild/wide__822x462",
+      "image_title": "Cyberangriffe: Nordkorea spioniert offenbar gezielt Forschungsinstitute aus"
+    },
+    {
+      "title": "Pazifik: USA erweitern Militärpräsenz auf den Philippinen",
+      "teaser": "Bisher nutzten die USA fünf Militärbasen auf den Philippinen, künftig werden es neun sein. China verurteilte die Ausweitung der US-Präsenz als \"egoistische Agenda\".",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/pazifik-usa-militaer-philippinen-china",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/pazifik-usa-militaer-philippinen-china-bild/wide__822x462",
+      "image_title": "Pazifik: USA erweitern Militärpräsenz auf den Philippinen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erfolgsdruck • Das Beste aus Z+: \"Ich muss nicht der Beste sein und bin es auch nicht\"",
@@ -287,10 +300,17 @@
       "url": "https://www.zeit.de/mobilitaet/2023-02/maskenpflicht-ende-oeffentliche-verkehrsmittel-corona-schutzmassnahme-karl-lauterbach"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Tom Brady: Er war noch gut, aber nicht mehr der Beste",
+      "teaser": "Tom Brady verkündet zum zweiten Mal sein Karriereende. Dafür gibt es viele Gründe – und irgendwie war's auch Zeit. In seinem neuen Job verdient er noch mal mehr.",
+      "url": "https://www.zeit.de/sport/2023-02/tom-brady-american-football-nfl-rente",
+      "image_url": "https://img.zeit.de/sport/2023-02/tom-brady-american-football-nfl-rente-bild/cinema__980x420",
+      "image_title": "Tom Brady: Er war noch gut, aber nicht mehr der Beste"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Langweilig sein: Unsere besten Tage waren langweilig",
       "teaser": "Die Leben der Anderen wirken immer so viel aufregender als das eigene. Aber ist man deshalb langweilig? Vielleicht sind Abenteuer nicht unbedingt der beste Maßstab dafür.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-01/langweilig-interessant-persoenlichkeit-vergleich-psychologie",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-01/langweilig-interessant-persoenlichkeit-vergleich-psychologie-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-01/langweilig-interessant-persoenlichkeit-vergleich-psychologie-bild/wide__822x462",
       "image_title": "Langweilig sein: Unsere besten Tage waren langweilig"
     },
     {
@@ -299,13 +319,6 @@
       "url": "https://www.zeit.de/wissen/2023-02/australien-radioaktive-kapsel-fund-ueberblick",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-02/radioaktive-kapsel-australien/wide__822x462",
       "image_title": "Australien: Wie man eine winzige Kapsel auf 1.400 Kilometern Highway wiederfindet"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Spitalbetten in der Schweiz: Geht doch!",
-      "teaser": "In der Schweiz sind Hunderte, vermutlich Tausende von Spitalbetten geschlossen. Die Patienten merken davon allerdings kaum etwas. Wie kann das sein?",
-      "url": "https://www.zeit.de/2023/06/schweiz-spitalbetten-krankenhaus-pflege-personalknappheit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/06/schweiz-spitalbetten-krankenhaus-pflege/wide__822x462",
-      "image_title": "Spitalbetten in der Schweiz: Geht doch!"
     },
     {
       "title": "Verlagsangebot: Diese zehn Klassiker der Weltliteratur sollten Sie gelesen haben",
@@ -359,11 +372,11 @@
       "image_title": "Waffenlieferungen: Panzer für die Ukraine"
     },
     {
-      "title": "Krieg gegen die Ukraine: Russland stürzt in Demokratieindex ab",
-      "teaser": "Nirgendwo ist die Demokratie 2022 so stark zurückgedrängt worden wie in Russland. Der Krieg beschleunige die Entwicklung hin zu einer Diktatur, heißt es in einem Bericht.",
-      "url": "https://www.zeit.de/politik/ausland/2023-02/krieg-russland-ukraine-demokratie-index-diktatur",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-02/krieg-russland-ukraine-demokratie-index-diktatur-bild/wide__822x462",
-      "image_title": "Krieg gegen die Ukraine: Russland stürzt in Demokratieindex ab"
+      "title": "Bundeswehr: Niemand braucht die Wehrpflicht",
+      "teaser": "Die Bundeswehr wird nicht besser durch die unsinnige Kasernierung aller Schulabgänger. Nachwuchs muss sie anders gewinnen – und vor allem vernünftig ausgerüstet werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-02/bundeswehr-wehrpflicht-wiedereinfuehrung-nachwuchs-aufruestung-fdp",
+      "image_url": "https://img.zeit.de/politik/2023-02/bundeswehr-wehrpflicht-wiedereinfuehrung-nachwuchs-bild/wide__822x462",
+      "image_title": "Bundeswehr: Niemand braucht die Wehrpflicht"
     },
     {
       "title": "Katholische Kirche: Proteste bei Trauermesse für Kardinal George Pell",
@@ -408,18 +421,18 @@
       "image_title": "Australien: Verlorene radioaktive Kapsel wiedergefunden"
     },
     {
+      "title": "WirtschaftsWoche„Wie in einer Zitronenpresse“: Was ein klammer Bürgermeister von der 10-Prozent-Tarifforderung hält",
+      "teaser": "Den Tarifstreit mit hohen Lohnforderungen für Angestellte im öffentlichen Dienst verfolgen Kommunen mit Sorge. Eine Lohnerhöhung von über zehn Prozent? Für überschuldete Städte wie Remscheid wohl kaum zu bezahlen.",
+      "url": "https://www.wiwo.de/politik/deutschland/wie-in-einer-zitronenpresse-was-ein-klammer-buergermeister-von-der-10-prozent-tarifforderung-haelt/28957364.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100_pro_imago_life-2-80619778-highres/28959542/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "„Wie in einer Zitronenpresse“: Was ein klammer Bürgermeister von der 10-Prozent-Tarifforderung hält"
+    },
+    {
       "title": "WirtschaftsWocheDrei Jahre Brexit: Um Mitternacht jährte sich der real vollzogene Brexit das dritte Mal – Zeit für ein Fazit!",
       "teaser": "Premier Rishi Sunak preist die Vorzüge des Brexit an, der Internationale Währungsfonds prophezeit dem Land am selben Tag eine schwere Rezession. Wie steht es wirklich um Großbritannien? Zeit für eine Bilanz.",
       "url": "https://www.wiwo.de/politik/europa/drei-jahre-brexit-um-mitternacht-jaehrte-sich-der-real-vollzogene-brexit-das-dritte-mal-zeit-fuer-ein-fazit/28954914.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/3-jahre-vollzogener-brexit-london-100-pro-imago-life-2-200697398-highres/28954886/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Drei Jahre Brexit: Um Mitternacht jährte sich der real vollzogene Brexit das dritte Mal – Zeit für ein Fazit!"
-    },
-    {
-      "title": "WirtschaftsWocheFed-Entscheid: Leitzinsen steigen – Rezession rückt näher",
-      "teaser": "Die US-Notenbank Fed erhöht erneut den Leitzins und deutet eine weitere Straffung der Geldpolitik an. Damit steigen die Rezessionsrisiken. Der politische Druck auf die Fed dürfte wachsen.",
-      "url": "https://www.wiwo.de/politik/konjunktur/fed-entscheid-leitzinsen-steigen-rezession-rueckt-naeher/28957752.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/u-s-federal-reserve-chair-powell-holds-news-conference-after-fed-announced-quarter-point-interest-rate-hike-in-washington/28958966/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Fed-Entscheid: Leitzinsen steigen – Rezession rückt näher"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klassenunterschiede in Beziehungen: \"Akademikerkinder planen sogar, wie und wann sie Gefühle äußern\"",
@@ -443,10 +456,17 @@
       "image_title": "Seenotretter: Ich wollte Menschen retten, jetzt warte ich auf mein Urteil"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Die Wiederkehr\" von Patrick Bahners: Der Gegner steht rechts",
+      "teaser": "Die AfD wird dieser Tage zehn Jahre alt. Patrick Bahners analysiert in seinem neuen Buch minutiös und rücksichtslos den Aufstieg der Partei – und wer daran schuld ist.",
+      "url": "https://www.zeit.de/2023/06/die-wiederkehr-patrick-bahners-buch-afd",
+      "image_url": "https://img.zeit.de/2023/06/die-wiederkehr-patrick-bahners-buch-afd-bild/cinema__980x420",
+      "image_title": "\"Die Wiederkehr\" von Patrick Bahners: Der Gegner steht rechts"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Paris: Neko unterm TGV",
       "teaser": "Im Pariser Gare Montparnasse sprang ein Kater unter einen stehenden Hochgeschwindigkeitszug. Der fuhr dann trotzdem los. Und nun diskutiert Frankreich über Tierrechte.",
       "url": "https://www.zeit.de/2023/06/paris-neko-kater-ueberfahren-tierrechte",
-      "image_url": "https://img.zeit.de/2023/06/paris-neko-kater-ueberfahren-tierrechte-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/06/paris-neko-kater-ueberfahren-tierrechte-bild/wide__822x462",
       "image_title": "Paris: Neko unterm TGV"
     },
     {
@@ -455,13 +475,6 @@
       "url": "https://www.zeit.de/kultur/2023-01/expressionismus-ernst-ludwig-kirchner-kunstpodcast",
       "image_url": "https://img.zeit.de/kultur/2023-01/ernst-ludwig-kirchner/wide__822x462",
       "image_title": "Kunstpodcast: Ernst Ludwig Kirchner – vom Leben gezeichnet"
-    },
-    {
-      "title": "Claire Keegan: Idylle gab's hier nie",
-      "teaser": "Ergreifend und voll von Hoffnung: Claire Keegans \"Das dritte Licht\" ist das Porträt eines sozial prekären, politisch aufgewühlten Landes.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-02/claire-keegan-das-dritte-licht",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-02/claire-keegan/wide__822x462",
-      "image_title": "Claire Keegan: Idylle gab's hier nie"
     },
     {
       "title": "Geheimdokumente: FBI durchsucht Joe Bidens Strandhaus",
@@ -528,10 +541,17 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/edition-wondrak-neu.jpg/wide__822x462"
     },
     {
+      "title": "Statistisches Bundesamt: Zahl stationärer Krebsbehandlungen sinkt während der Pandemie deutlich",
+      "teaser": "Während der Pandemie wurden weniger Menschen wegen eines Krebsleidens stationär versorgt. Viele \"planbare Behandlungen\" wurden laut Statistischem Bundesamt verschoben.",
+      "url": "https://www.zeit.de/gesundheit/2023-02/krebs-krankenhaus-aufenthalt-weltkrebstag-statistisches-bundesamt",
+      "image_url": "https://img.zeit.de/gesundheit/2023-02/krebs-krankenhaus-aufenthalt-weltkrebstag/cinema__980x420",
+      "image_title": "Statistisches Bundesamt: Zahl stationärer Krebsbehandlungen sinkt während der Pandemie deutlich"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Medikament • Das Beste aus Z+ : Ist BC 007 das Wundermittel gegen Long Covid?",
       "teaser": "BC 007 gilt vielen Menschen als große Hoffnung, die schwer an Long Covid erkrankt sind. Zurecht? Der Hype um das Mittel ist jedenfalls selbst den Entwicklern nicht recht.",
       "url": "https://www.zeit.de/gesundheit/2023-01/bc-007-medikament-long-covid-behandlung",
-      "image_url": "https://img.zeit.de/gesundheit/2023-01/medikament-long-covid-bc007-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2023-01/medikament-long-covid-bc007-bild/wide__822x462",
       "image_title": "Medikament • Das Beste aus Z+ : Ist BC 007 das Wundermittel gegen Long Covid?"
     },
     {
@@ -542,17 +562,17 @@
       "image_title": "Gesundheitsversorgung: Zahl der Apotheken in Deutschland auf Rekordtief"
     },
     {
-      "title": "Corona-Pandemie: Österreich schafft Ende Juni alle Corona-Maßnahmen ab",
-      "teaser": "Erst fällt die Maskenpflicht in Heimen, ab Ende Juni sind alle Corona-Maßnahmen in Österreich Geschichte. Infektionen mit Sars-CoV-2 sind dann nicht mehr meldepflichtig.",
-      "url": "https://www.zeit.de/gesundheit/2023-02/corona-massnahmen-oesterreich-ende-maskenpflicht-krankenhaus",
-      "image_url": "https://img.zeit.de/gesundheit/2023-02/corona-massnahmen-oesterreich-ende-maskenpflicht-krankenhaus-bild-2/wide__822x462",
-      "image_title": "Corona-Pandemie: Österreich schafft Ende Juni alle Corona-Maßnahmen ab"
+      "title": "OpenAI: ChatGPT bekommt Premiumversion mit Abomodell",
+      "teaser": "Zahlende Kunden werden künftig auch bei hoher Auslastung auf den Chatbot ChatGPT zugreifen können. Sie erhalten auch als Erste Zugang zu Neuerungen und Verbesserungen.",
+      "url": "https://www.zeit.de/digital/internet/2023-02/ki-chatgpt-premium-openai",
+      "image_url": "https://img.zeit.de/digital/2023-02/ki-chatgpt-premium-openai-bild/cinema__980x420",
+      "image_title": "OpenAI: ChatGPT bekommt Premiumversion mit Abomodell"
     },
     {
       "title": "Techbranche: Facebook-Konzern Meta übertrifft die Erwartungen trotz Umsatzrückgangs",
       "teaser": "Im vierten Quartal liefen die Geschäfte für Meta besser als von Experten erwartet. Obwohl der Umsatz sank, stieg der Aktienkurs – auch wegen Einsparbemühungen.",
       "url": "https://www.zeit.de/digital/2023-02/facebook-konzern-meta-boersengang-2012-verluste",
-      "image_url": "https://img.zeit.de/digital/2023-02/meta-logo-dublin/cinema__980x420",
+      "image_url": "https://img.zeit.de/digital/2023-02/meta-logo-dublin/wide__822x462",
       "image_title": "Techbranche: Facebook-Konzern Meta übertrifft die Erwartungen trotz Umsatzrückgangs"
     },
     {
@@ -561,13 +581,6 @@
       "url": "https://www.zeit.de/digital/mobil/2023-02/samsung-galaxy-unpacked-smartphones-galaxy-s23-ultra-launch",
       "image_url": "https://img.zeit.de/digital/mobil/2023-02/samsung-galaxy-unpacked-smartphones-galaxy-bild/wide__822x462",
       "image_title": "Samsung Galaxy Unpacked: Viel Kamera und wenig Neues"
-    },
-    {
-      "title": "Künstliche Intelligenz: Neues Programm der ChatGPT-Erfinder soll KI-Texte erkennen können",
-      "teaser": "Mit ChatGPT können Texte erstellt werden, die wie von Menschen geschrieben sind. Nun arbeiten deren Erfinder an einem Programm, das unerwünschte Folgen ausgleichen soll.",
-      "url": "https://www.zeit.de/digital/internet/2023-02/chatgtp-erfinder-programm-schummeln-schularbeiten-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/digital/internet/2023-02/ki-chatgpt-chatbot-kuenstliche-intelligenz/wide__822x462",
-      "image_title": "Künstliche Intelligenz: Neues Programm der ChatGPT-Erfinder soll KI-Texte erkennen können"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fachkräftemangel: Von Indien in den Schwarzwald",
@@ -626,11 +639,11 @@
       "image_title": "Julia Rohrer über Persönlichkeitsentwicklung: \"Geschwister tragen nicht die Schuld für alles, was schiefgeht\""
     },
     {
-      "title": "Verlagsangebot Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Hochbett: Eine Lüge mit sehr langen Beinen",
@@ -773,36 +786,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Landesverband: Grüne stellen Anzeige wegen Fake-Plakaten",
-      "url": "https://www.zeit.de/news/2023-02/02/gruene-stellen-anzeige-wegen-fake-plakaten"
+      "title": "Handball: Melsungens Trainer hört als Ägyptens Nationalcoach auf",
+      "url": "https://www.zeit.de/news/2023-02/02/melsungens-trainer-hoert-als-aegyptens-nationalcoach-auf"
     },
     {
-      "title": "ADAC: 2022 weniger Staus als vor Corona in Berlin und Brandenburg",
-      "url": "https://www.zeit.de/news/2023-02/02/2022-weniger-staus-als-vor-corona-in-berlin-und-brandenburg"
+      "title": "Wintersport: Ex-Biathlet Lesser: «Froh, dass ich nicht mehr am Start bin»",
+      "url": "https://www.zeit.de/news/2023-02/02/ex-biathlet-lesser-froh-dass-ich-nicht-mehr-am-start-bin"
     },
     {
-      "title": "Kultur: Ophüls-Festvial: Weniger Besucher, MOP aber zufrieden",
-      "url": "https://www.zeit.de/news/2023-02/02/ophuels-festvial-weniger-besucher-mop-aber-zufrieden"
+      "title": "Verwaltung: Berliner Verwaltungsgericht erledigte 2022 mehr Verfahren",
+      "url": "https://www.zeit.de/news/2023-02/02/berliner-verwaltungsgericht-erledigte-2022-mehr-verfahren"
     },
     {
-      "title": "Basketball-Bundesliga: MBC-Korbjäger Clyburn vor Comeback",
-      "url": "https://www.zeit.de/news/2023-02/02/mbc-korbjaeger-clyburn-vor-comeback"
+      "title": "Energie: Goldschmidt: Von Reform der Netzentgelte profitieren alle",
+      "url": "https://www.zeit.de/news/2023-02/02/goldschmidt-von-reform-der-netzentgelte-profitieren-alle"
     },
     {
-      "title": "Glücksspiel: Spiel 77: Tipper gewinnt über zwei Millionen Euro",
-      "url": "https://www.zeit.de/news/2023-02/02/spiel-77-tipper-gewinnt-ueber-zwei-millionen-euro"
+      "title": "Höxter: Auto landet auf Bahngleisen: Fahrerin leicht verletzt",
+      "url": "https://www.zeit.de/news/2023-02/02/auto-landet-auf-bahngleisen-fahrerin-leicht-verletzt"
     },
     {
-      "title": "Fußball: Turbine Potsdams Rettungsmission: Auftakt gegen die Bayern",
-      "url": "https://www.zeit.de/news/2023-02/02/turbine-potsdams-rettungsmission-auftakt-gegen-die-bayern"
+      "title": "Neu-Ulm: Defekter Holzofen setzt Doppelhaus in Brand",
+      "url": "https://www.zeit.de/news/2023-02/02/defekter-holzofen-setzt-doppelhaus-in-brand"
     },
     {
-      "title": "Skispringen: Nach Sturm und Corona: Party kehrt nach Willingen zurück",
-      "url": "https://www.zeit.de/news/2023-02/02/nach-sturm-und-corona-party-kehrt-nach-willingen-zurueck"
+      "title": "Kostendruck: IG BAU warnt vor Zunahme von Schwarzarbeit und Lohndumping",
+      "url": "https://www.zeit.de/news/2023-02/02/ig-bau-warnt-vor-zunahme-von-schwarzarbeit-und-lohndumping"
     },
     {
-      "title": "Justizsenatorin: Kreck: Pauschales Kopftuchverbot wird es nicht mehr geben",
-      "url": "https://www.zeit.de/news/2023-02/02/kreck-pauschales-kopftuchverbot-wird-es-nicht-mehr-geben"
+      "title": "Krankheiten: Vogelgrippe im Harz nachgewiesen: Keine Stallpflicht",
+      "url": "https://www.zeit.de/news/2023-02/02/vogelgrippe-im-harz-nachgewiesen-keine-stallpflicht"
     }
   ]
 }

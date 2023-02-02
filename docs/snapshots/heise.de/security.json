@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-02T10:13:31",
+  "timestamp": "2023-02-02T11:10:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "BIOS-Lücken Dell",
+      "url": "https://www.heise.de/news/Dell-schliesst-Schadcode-Schlupfloch-im-BIOS-mehrerer-PC-Modelle-7480313.html"
+    },
+    {
       "title": "Qnap",
       "url": "https://www.heise.de/news/Qnap-NAS-Kritische-Sicherheitsluecke-ermoeglicht-Unterjubeln-von-Schadcode-7475288.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-BIND-Angreifer-koennten-DNS-Server-mit-Anfragen-ueberfluten-7471773.html"
     },
     {
-      "title": "Realtek Wireless-SoCs",
-      "url": "https://www.heise.de/news/Massive-Supply-Chain-Attacke-auf-Router-von-Asus-D-Link-Co-beobachtet-7471324.html"
+      "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+      "teaser": "Durch die Analyse aktueller Angriffstechniken die Anfälligkeit der eigenen IT und die Effektivität von Schutzmaßnahmen besser bewerten lernen. Noch Plätze frei.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cybersicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-7476703.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
+    },
+    {
+      "title": "Dell schließt Schadcode-Schlupfloch im BIOS mehrerer PC-Modelle",
+      "teaser": "Stimmen die Voraussetzungen, könnten Angreifer eigenen Code auf unter anderem Alienware- und Inspiron-Computern von Dell ausführen.",
+      "url": "https://www.heise.de/news/Dell-schliesst-Schadcode-Schlupfloch-im-BIOS-mehrerer-PC-Modelle-7480313.html"
     },
     {
       "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
@@ -144,16 +155,6 @@
       "teaser": "Wo sind denn all die IT-Fachkräfte? Im Darknet.",
       "url": "https://www.heise.de/news/l-f-Auf-der-dunklen-Seite-des-Internets-verdient-man-20-000-US-Dollar-im-Monat-7475988.html",
       "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
-    },
-    {
-      "title": "Zertifikate bei GitHub gestohlen: Editor Atom und GitHub Desktop betroffen",
-      "teaser": "GitHub hat abgegriffene Code-Signing-Zertifikate widerrufen, womit einige Versionen von GitHub Desktop für Mac und vom Sourcecode-Editor Atom ungültig werden.",
-      "url": "https://www.heise.de/news/Zertifikate-bei-GitHub-gestohlen-Editor-Atom-und-GitHub-Desktop-betroffen-7475882.html"
-    },
-    {
-      "title": "Phishing-Warnung: Angeblich Disney+-Konto gesperrt",
-      "teaser": "Die Verbraucherzentralen warnen, dass Phisher es derzeit auf Daten von Disney+-Abonnenten abgesehen haben. Die Mails behaupten, das Konto würde gesperrt.",
-      "url": "https://www.heise.de/news/Phishing-Warnung-Angeblich-Disney-Konto-gesperrt-7475845.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
