@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-02T13:20:32",
+  "timestamp": "2023-02-02T14:11:00",
   "url": "https://www.welt.de",
   "response": {
     "status": 200
@@ -7,15 +7,23 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://www.welt.de/assets/section/section.app.78a69103.js",
+      "src": "https://www.welt.de/assets/section/section.app.3e30e389.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Ausland",
-      "url": "https://www.welt.de/politik/ausland/",
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243564421/5402505177-ci102l-w1024/Farbanschlag-auf-das-Parteibuero-der-Gruenen-in-Bremen.jpg",
+      "image_title": "Bremen, 9. November 2022: Parole „Lützerath verteidigen“ auf der Fassade des Grünen-Büros",
+      "topic": "Politisch motivierte Straftaten",
+      "author": "Frederik Schindler"
+    },
+    {
+      "title": "Moldau fordert Entmilitarisierung von Transnistrien",
+      "url": "https://www.welt.de/politik/ausland/plus243560859/Russische-Bedrohung-Moldau-fordert-Entmilitarisierung-von-Transnistrien.html",
       "image_url": "https://img.welt.de/img/incoming/mobile243564503/3292507117-ci102l-w1024/Independence-Day-for-Transnistria.jpg",
       "image_title": "Soldaten der Separatistenrepublik Transnistrien bei einer Parade im Jahr 2013",
       "topic": "Russische Bedrohung",
@@ -45,13 +53,6 @@
       "author": "Klaus Wittmann"
     },
     {
-      "title": "„Wagner-Söldner, die nicht kämpfen wollten, wurden hingerichtet“",
-      "url": "https://www.welt.de/politik/ausland/video243560101/Ex-Kommandeur-packt-aus-Wagner-Soeldner-die-nicht-kaempfen-wollen-werden-hingerichtet.html",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile243562415/1552501637-ci102l-w1024/Bildschirmfoto-2023-02-02-um-11-23-08-png.jpg",
-      "topic": "Ex-Kommandeur packt aus",
-      "author": "1 Min"
-    },
-    {
       "title": "Ukrainische Soldaten beginnen Flugabwehr-Ausbildung in Deutschland",
       "url": "https://www.welt.de/politik/ausland/video243517301/Jetzt-live-im-TV-Ukrainische-Soldaten-beginnen-Flugabwehr-Ausbildung-in-Deutschland.html",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile243563027/0932501047-ci102l-w1024/70-ukrainische-Soldaten-fuer-Flugabwehr-Ausbildung-in-Deutschland.jpg",
@@ -73,6 +74,13 @@
       "author": "Daniel Eckert"
     },
     {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Die Europäische Zentralbank in Frankfurt",
+      "topic": "Europäische Zentralbank"
+    },
+    {
       "title": "Panorama",
       "url": "https://www.welt.de/vermischtes/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -80,19 +88,20 @@
       "topic": "Klimaaktivisten"
     },
     {
-      "title": "„Erschreckend, wie schnell Positionen über Bord geworfen werden“",
-      "url": "https://www.welt.de/wissenschaft/plus243561427/Atomkraft-Erschreckend-wie-schnell-Positionen-ueber-Bord-geworfen-werden.html",
+      "title": "USA planen das Comeback des fliegenden „Seemonsters“",
+      "url": "https://www.welt.de/wirtschaft/plus243563471/Wasserflugzeug-Liberty-Lifter-USA-planen-Comeback-des-Seemonsters.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Der „Liberty Lifter“-Entwurf von Aurora Flight Science hat einen großen Rumpf und acht Propellertriebwerke",
+      "topic": "„Liberty Lifter“",
+      "author": "Gerhard Hegmann"
+    },
+    {
+      "title": "„Ich halte das manchmal gar für Scharlatanerie“",
+      "url": "https://www.welt.de/wissenschaft/plus243561427/Atomkraft-und-die-Folgen-Ich-halte-das-manchmal-gar-fuer-Scharlatanerie.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Nuclear Power Plant",
       "topic": "Technologien und ihre Folgen",
       "author": "Jan Grossarth"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Wirtschaftsminister Wolfgang Tiefensee",
-      "topic": "Spielhallengesetz"
     },
     {
       "title": "Immer wieder betont die grüne Justizsenatorin das „rechtmäßige“ Handeln ihrer Behörde",
@@ -110,12 +119,12 @@
       "topic": "50 Angriffe und Millionenbeute"
     },
     {
-      "title": "USA planen das Comeback des fliegenden „Seemonsters“",
-      "url": "https://www.welt.de/wirtschaft/plus243563471/Wasserflugzeug-Liberty-Lifter-USA-planen-Comeback-des-Seemonsters.html",
+      "title": "Eine Frau ist keine Frau – warum Gendern unlogisch ist",
+      "url": "https://www.welt.de/kultur/plus243557389/Gendern-in-der-Schule-Das-Problem-mit-der-Logik.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Der „Liberty Lifter“-Entwurf von Aurora Flight Science hat einen großen Rumpf und acht Propellertriebwerke",
-      "topic": "„Liberty Lifter“",
-      "author": "Gerhard Hegmann"
+      "image_title": "Female athlete, gymnastic rings",
+      "topic": "Gefahr für die Schulbildung",
+      "author": "Fabian Payr"
     },
     {
       "title": "„Werden den 911 so lange es geht als Verbrenner anbieten. Es gibt mehr Aufträge denn je“",
@@ -124,14 +133,6 @@
       "image_title": "Fahrbericht: Porsche 911 Carrera T - Die Hyper-Basis",
       "topic": "VW-Chef Oliver Blume",
       "author": "Ulf Poschardt"
-    },
-    {
-      "title": "Gründerszene",
-      "url": "https://www.welt.de/wirtschaft/gruenderszene/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Lea von Bidder gilt als Aushängeschild der Schweizer Start-up-Szene",
-      "topic": "Lea von Bidder",
-      "author": "Daniel Hüfner"
     },
     {
       "title": "Die Bedürfnisfalle",
@@ -158,6 +159,14 @@
       "author": "Birgit Herden"
     },
     {
+      "title": "Diese 8 Schritte helfen dabei, fit zu werden und zu bleiben",
+      "url": "https://www.welt.de/sport/fitness/plus243517445/Fitness-Strategie-Diese-8-Schritte-helfen-dabei-fit-zu-werden-und-zu-bleiben.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "„Bleiben Sie dran“, ermuntert Uta Pippig. „Zugegeben, das ist nicht immer einfach. Es gibt Zeiten, die richtig stressig sein können“",
+      "topic": "Fitness-Strategie",
+      "author": "Uta Pippig"
+    },
+    {
       "title": "Warum es fast ausgeschlossen ist, dass die Ukraine noch siegt",
       "url": "https://www.welt.de/debatte/kommentare/plus243530139/Ukraine-Warum-es-fast-ausgeschlossen-ist-dass-Kiew-noch-siegt.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -179,14 +188,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Geldanlage-Strategie",
       "author": "Daniel Eckert"
-    },
-    {
-      "title": "Was passiert bei einer Nahtoderfahrung? Ein Betroffener erzählt",
-      "url": "https://www.welt.de/debatte/kommentare/plus238145335/Nahtoderfahrung-Bericht-eines-Betroffenen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Nahtoderfahrung",
-      "topic": "„Es wird hell“",
-      "author": "Lucas Wiegelmann"
     },
     {
       "title": "kmpkt",
@@ -217,6 +218,12 @@
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Wagner-Söldner, die nicht kämpfen wollten, wurden hingerichtet“",
+      "url": "https://www.welt.de/politik/ausland/video243560101/Ex-Kommandeur-packt-aus-Wagner-Soeldner-die-nicht-kaempfen-wollen-werden-hingerichtet.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Ex-Kommandeur packt aus"
     },
     {
       "title": "„Wolgograd heißt wieder Stalingrad, die Ortsschilder wurden ausgewechselt“",
@@ -286,13 +293,6 @@
       "topic": "Geheimdokumente"
     },
     {
-      "title": "„Damit wird finanzwirtschaftliches Risiko auf Verkehrsträger und Kommunen abgewälzt“",
-      "url": "https://www.welt.de/wirtschaft/video243554581/49-Euro-Ticket-Reinhard-Sager-sagt-Billigticket-loest-Probleme-des-Nahverkehrs-nicht.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Reinhard Sager bei einer Veranstaltung in Merseburg.",
-      "topic": "Kritik am 49-Euro-Ticket"
-    },
-    {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
       "topic": "Konflikt mit China"
@@ -311,6 +311,12 @@
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
       "topic": "US-Republikaner"
+    },
+    {
+      "title": "„Dass der Turm in sich zusammenfällt, liegt an einer Entscheidung im Jahre 2011“",
+      "url": "https://www.welt.de/politik/deutschland/video243565263/Atomkraftwerk-Biblis-CDU-Politiker-Andreas-Jung-zum-Abriss-des-ersten-Turms.html",
+      "topic": "Atomkraftwerk Biblis",
+      "author": "3 Min"
     },
     {
       "title": "Und nach dem Ehevertrag noch heimlich ins Hotel",
@@ -343,13 +349,6 @@
       "author": "Thore Barfuss"
     },
     {
-      "title": "Kriminalität",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Chasing Horse Arrest Nevada",
-      "topic": "Nathan Chasing Horse"
-    },
-    {
       "title": "Energiesparen",
       "url": "https://www.welt.de/sponsored/eon/energiesparen/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -361,7 +360,7 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Wissenschafts-Redakteurin Elisabeth Krafft",
       "topic": "Zehn Minuten Alltags-Wissen",
-      "author": "Elsiabeth Krafft"
+      "author": "Elisabeth Krafft"
     },
     {
       "title": "Kick-off Politik",
@@ -388,6 +387,22 @@
       "author": "Slavoj Žižek"
     },
     {
+      "title": "Kultur",
+      "url": "https://www.welt.de/kultur/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "BTS beim Konzert in Seoul",
+      "topic": "K-Pop-Stars BTS",
+      "author": "Lena Karger"
+    },
+    {
+      "title": "Kultur",
+      "url": "https://www.welt.de/kultur/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Versuchsflugzeug der Bundeswehr um 1958",
+      "topic": "Luftkrieg und Sprache",
+      "author": "Matthias Heine"
+    },
+    {
       "title": "Dies ist der Film über die deutsche Lähmung",
       "url": "https://www.welt.de/kultur/kino/plus243546913/Hans-Juergen-Syberberg-Dies-ist-der-Film-ueber-die-deutsche-Laehmung.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -402,22 +417,6 @@
       "image_title": "Mahbuba, Fürst Pücklers Sklavin",
       "topic": "Äthiopierinnen in Deutschland",
       "author": "Alfred Schlicht"
-    },
-    {
-      "title": "„Wir haben keine Wahl. Die bestehende Ordnung wird allemal kollabieren“",
-      "url": "https://www.welt.de/politik/ausland/plus243497929/Europa-Wir-haben-keine-Wahl-Die-bestehende-Ordnung-wird-allemal-kollabieren.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "John Kornblum - Diplomat USA",
-      "topic": "John Kornblum",
-      "author": "Andrea Seibel"
-    },
-    {
-      "title": "Zurück zu Rationierung von Essen und Wohnraum",
-      "url": "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus243534087/Don-Alphonso-Zurueck-zu-Rationierung-von-Essen-und-Wohnraum.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "wenteas Kombo",
-      "topic": "Wohlstand für keinen",
-      "author": "Don Alphonso"
     },
     {
       "title": "Newsletter",
@@ -449,6 +448,14 @@
       "author": "Norbert Lossau"
     },
     {
+      "title": "Wissenschaft",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "The Dodo",
+      "topic": "Gentechnik",
+      "author": "Christina Larson"
+    },
+    {
       "title": "Gesundheit",
       "url": "https://www.welt.de/gesundheit/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -457,27 +464,19 @@
     },
     {
       "title": "„Darunter sammelt sich ein Mikrokosmos von Bakterien“",
-      "url": "https://www.welt.de/wissenschaft/plus243504099/Fingernaegel-Darunter-sammelt-sich-ein-Mikrokosmos-von-Bakterien.html",
+      "url": "https://www.welt.de/wissenschaft/plus243504099/Kosmetik-Nagellack-UV-Strahlen-Bakterien-wann-ist-Nagelpflege-schaedlich.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Viele tragen ihre Nägel zurzeit besonders lang – nicht nur ein Hygienerisiko",
       "topic": "Nageltrend",
       "author": "Wiebke Bolle"
     },
     {
-      "title": "Wissenschaft",
-      "url": "https://www.welt.de/wissenschaft/",
+      "title": "Was passiert bei einer Nahtoderfahrung? Ein Betroffener erzählt",
+      "url": "https://www.welt.de/debatte/kommentare/plus238145335/Nahtoderfahrung-Bericht-eines-Betroffenen.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "HANDOUT - 20.01.2023, Ägypten, Kairo: Das digitale Abbild zeigt das Innere der Mumie «Goldjunge» in vier Schichten. Mit Hilfe eines CT-Scanners haben Wissenschaftler eine 2300 Jahre alte und noch nie geöffnete Mumie durchleuchtet. (zu dpa «2300 Jahre alte Mumie durchleuchtet - Edles für Reise ins Jenseits») Foto: SN Saleem/SA Seddik/M el-Halwagy/dpa - ACHTUNG: Nur zur redaktionellen Verwendung im Zusammenhang mit der aktuellen Berichterstattung und nur mit vollständiger Nennung des vorstehenden Credits +++ dpa-Bildfunk +++",
-      "topic": "Chemie im Alten Ägypten",
-      "author": "Elke Richter"
-    },
-    {
-      "title": "Gesundheit",
-      "url": "https://www.welt.de/gesundheit/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Blick auf die Skyline von Frankfurt am Main unter einer Reihe von Bäumen hindurch",
-      "topic": "Urbane Hitzeinseln",
-      "author": "Walter Willems"
+      "image_title": "Nahtoderfahrung",
+      "topic": "„Es wird hell“",
+      "author": "Lucas Wiegelmann"
     },
     {
       "title": "Einzigartiger Planet",
@@ -804,8 +803,8 @@
       "title": "Gründerszene",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Rund 100.000 Nutzer verwenden die Finanz-App Parqet für ihre Vermögensverwaltung",
-      "topic": "Fintech Parqet",
+      "image_title": "Lea von Bidder gilt als Aushängeschild der Schweizer Start-up-Szene",
+      "topic": "Lea von Bidder",
       "author": "Daniel Hüfner"
     },
     {
