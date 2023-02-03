@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-03T12:23:17",
+  "timestamp": "2023-02-03T13:19:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Workstation",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Windows-PCs-mit-VMware-Workspace-attackieren-7483515.html"
+    },
+    {
       "title": "OpenSSH",
       "url": "https://www.heise.de/news/Zwei-Sicherheitsprobleme-in-OpenSSH-9-2-geloest-7483316.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-mehrere-BIG-IP-Produkte-von-F5-moeglich-7483256.html"
     },
     {
-      "title": "BIOS-Lücken Dell",
-      "url": "https://www.heise.de/news/Dell-schliesst-Schadcode-Schlupfloch-im-BIOS-mehrerer-PC-Modelle-7480313.html"
+      "title": "Angreifer könnten Windows-PCs mit VMware Workstation attackieren",
+      "teaser": "Ein Sicherheitsupdate schließt eine Lücke in der Virtualisierungslösung VMware Workstation. Angreifer brauchten lokale Benutzerrechte auf dem PC des Opfers.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Windows-PCs-mit-VMware-Workspace-attackieren-7483515.html"
     },
     {
       "title": "Sicherheitsupdates: Attacken auf mehrere BIG-IP-Produkte von F5 möglich",
@@ -147,12 +152,6 @@
       "title": "Ändere-dein-Passwort-Tag: Ausnahmsweise ja, bitte!",
       "teaser": "Der Ändere-dein-Passwort-Tag an jedem 01. Februar eines Jahres bekam von uns bisher wenig Wohlwollen. Dieses Jahr ist das anders: Bitte, ändert die Passwörter!",
       "url": "https://www.heise.de/news/Aendere-dein-Passwort-Tag-Ausnahmsweise-ja-bitte-7471781.html"
-    },
-    {
-      "title": "Potsdam offline: Stadt spricht von Gefahr durch Hive-Bande",
-      "teaser": "Offenbar bestand in Potsdam akute Gefahr von Ransomware der Hive-Bande. Das hat die Stadt gerade noch verhindert. Wann sie wieder online geht, ist offen.​",
-      "url": "https://www.heise.de/news/Potsdam-offline-Stadt-spricht-von-Gefahr-durch-Hive-Bande-7477366.html",
-      "image_title": "Rote Ampel an Bahnübergang mit geschlossenem Balken und nahendem Personenzug"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
