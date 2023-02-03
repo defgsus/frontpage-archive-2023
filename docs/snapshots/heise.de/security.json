@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-03T08:15:56",
+  "timestamp": "2023-02-03T09:12:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "F5 Big-IP",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-mehrere-BIG-IP-Produkte-von-F5-moeglich-7483256.html"
+    },
+    {
       "title": "BIOS-Lücken Dell",
       "url": "https://www.heise.de/news/Dell-schliesst-Schadcode-Schlupfloch-im-BIOS-mehrerer-PC-Modelle-7480313.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Sicherheitsforscher-kombinieren-Luecken-in-VMware-vRealize-Log-7474931.html"
     },
     {
-      "title": "BIND",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-BIND-Angreifer-koennten-DNS-Server-mit-Anfragen-ueberfluten-7471773.html"
-    },
-    {
-      "title": "Cisco patcht mehrere Produkte - potenzielle Backdoor-Lücke",
-      "teaser": "Cisco hat Updates zum Schließen von Sicherheitslücken in mehreren Produkten veröffentlicht. Die gravierendste klafft in der IOx Application Hosting Environment.",
-      "url": "https://www.heise.de/news/Cisco-patcht-mehrere-Produkte-potenzielle-Backdoor-Luecke-bleibt-7483079.html"
+      "title": "Sicherheitsupdates: Attacken auf mehrere BIG-IP-Produkte von F5 möglich",
+      "teaser": "Die Entwickler von F5 haben unter anderem in Access Policy Manager und Advanced Firewall Manager mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-mehrere-BIG-IP-Produkte-von-F5-moeglich-7483256.html"
     },
     {
       "title": "Flare VM: Mit Profi-Werkzeugkasten Schadcode unter Windows analysieren",
@@ -74,6 +74,11 @@
       "teaser": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt. Mit 10% Rabatt bis 20.2.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-7476025.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
+    },
+    {
+      "title": "Cyberattacke auf IT-Dienstleister Adesso: Systeme kompromittiert, Daten kopiert",
+      "teaser": "Unbekannte Angreifer haben Systeme von Adesso kompromittiert und Daten heruntergeladen. Das bestätigte das Unternehmen auf Anfrage von heise online.",
+      "url": "https://www.heise.de/news/Cyberattacke-auf-IT-Dienstleister-Adesso-Systeme-kompromittiert-Daten-kopiert-7477544.html"
     },
     {
       "title": "Diskussion um Schwachstelle in KeePass",
@@ -149,12 +154,6 @@
       "title": "Zwei-Faktor-Authentifizierung: Facebook-Instagram-Bug ermöglichte Umgehung",
       "teaser": "Ein IT-Forscher hat Ende vergangenen Jahres eine Schwachstelle bei Facebook und Instagram entdeckt, mit der sich die Zwei-Faktor-Authentifizierung umgehen ließ.",
       "url": "https://www.heise.de/news/Zwei-Faktor-Authentifizierung-Facebook-Instagram-Bug-ermoeglichte-Umgehung-7476725.html"
-    },
-    {
-      "title": "Angreifer kopieren persönliche Daten von 10 Millionen JD-Sports-Kunden",
-      "teaser": "Der Online-Shop von JD Sports war Opfer einer Cyberattacke. Unbefugte konnten auf unter anderem E-Mail-Adressen und Telefonnummern zugreifen.",
-      "url": "https://www.heise.de/news/Angreifer-kopieren-persoenliche-Daten-von-10-Millionen-JD-Sports-Kunden-7476604.html",
-      "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
