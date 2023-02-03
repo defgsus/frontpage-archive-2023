@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-03T09:12:14",
+  "timestamp": "2023-02-03T10:13:03",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Berlin"
+    },
     {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
@@ -37,11 +42,6 @@
       "title": "Kriminalität",
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "topic": "Remshalden"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Luisa Neubauer"
     },
     {
       "title": "Alles auf Aktien",
@@ -71,6 +71,12 @@
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Möglicherweise startet russische Offensive am 24. Februar, dem Jahrestag des Angriffs“",
+      "url": "https://www.welt.de/politik/ausland/video243578747/Krieg-in-der-Ukraine-Steffen-Schwarzkopf-berichet-vom-EU-Gipfel-in-Kiew.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "EU-Gipfel in Kiew"
     },
     {
       "title": "„Man hat Narrative etabliert und jeder, der das kritisch sah, wurde angegangen“",
@@ -116,13 +122,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "FFP2-MaskenTtragepflicht bei den Wiener Linien, Hinweis in einer U-Bahnstation. Wien, Österreich. Ab 25.01.2021 muss in Österreich verpflichtend die Schutzmaske FFP2 gegen Covid-19 getragen werden. Pandemie, Corona, Mund- und Nasenschutzmaske, Medizin, Sicherheit, Schutz, Maskenpflicht. U-Bahnstation Linie U2 Schottentor. - 20210131_PD14800",
       "topic": "Bilanz der Corona-Maßnahmen"
-    },
-    {
-      "title": "„Der Freedom-Day, den so viele ersehnt haben, hier ist er“",
-      "url": "https://www.welt.de/politik/deutschland/video243558495/Ende-der-Maskenpflicht-Der-Freedom-Day-den-so-viele-ersehnt-haben-hier-ist-er.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Eine Frau hält eine FFP-2-Maske und einen Mehrfahrtenschein für den Cottbuser Nahverkehr in ihrer Hand. Ab dem morgigen Donnerstag entfällt in Berlin und Brandenburg die Maskenpflicht bei der Benutzung des öffentlichen Pesonen-Nahverkehrs.",
-      "topic": "Ende der Maskenpflicht"
     }
   ]
 }

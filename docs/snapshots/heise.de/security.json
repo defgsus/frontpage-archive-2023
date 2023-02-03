@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-03T09:12:16",
+  "timestamp": "2023-02-03T10:13:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "OpenSSH",
+      "url": "https://www.heise.de/news/Zwei-Sicherheitsprobleme-in-OpenSSH-9-2-geloest-7483316.html"
+    },
+    {
+      "title": "Jira",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Jira-Service-Management-ermoeglicht-Kontenuebernahme-7483286.html"
+    },
+    {
       "title": "F5 Big-IP",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-mehrere-BIG-IP-Produkte-von-F5-moeglich-7483256.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Dell-schliesst-Schadcode-Schlupfloch-im-BIOS-mehrerer-PC-Modelle-7480313.html"
     },
     {
-      "title": "Qnap",
-      "url": "https://www.heise.de/news/Qnap-NAS-Kritische-Sicherheitsluecke-ermoeglicht-Unterjubeln-von-Schadcode-7475288.html"
+      "title": "Zwei Sicherheitsprobleme in OpenSSH 9.2 gelöst",
+      "teaser": "Der OpenSSH-Client ist in einer aktualisierten Version erschienen. Informationen über die geschlossenen Sicherheitslücken sind noch rar.",
+      "url": "https://www.heise.de/news/Zwei-Sicherheitsprobleme-in-OpenSSH-9-2-geloest-7483316.html"
     },
     {
-      "title": "VMware vRealize Log",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Sicherheitsforscher-kombinieren-Luecken-in-VMware-vRealize-Log-7474931.html"
+      "title": "Kritische Sicherheitslücke in Jira Service Management ermöglicht Kontenübernahme",
+      "teaser": "Unbefugte Angreifer könnten sich als Nutzer ausgeben und so in Jira Service Management eindringen. Der Hersteller Atlassian stellt einen Patch bereit.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Jira-Service-Management-ermoeglicht-Kontenuebernahme-7483286.html"
     },
     {
       "title": "Sicherheitsupdates: Attacken auf mehrere BIG-IP-Produkte von F5 möglich",
@@ -145,17 +155,6 @@
       "image_title": "Rote Ampel an Bahnübergang mit geschlossenem Balken und nahendem Personenzug"
     },
     {
-      "title": "Windows 2008: Uralt-Server ohne Sicherheitsupdates in Berliner Verwaltung",
-      "teaser": "In Berliner Ämtern laufen noch Dutzende Microsoft-Server, die teils über 15 Jahre alt sind und keinerlei Herstellersupport mehr erhalten. Experten sind besorgt.",
-      "url": "https://www.heise.de/news/Windows-2008-Uralt-Server-ohne-Sicherheitsupdates-in-Berliner-Verwaltung-7477223.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Zwei-Faktor-Authentifizierung: Facebook-Instagram-Bug ermöglichte Umgehung",
-      "teaser": "Ein IT-Forscher hat Ende vergangenen Jahres eine Schwachstelle bei Facebook und Instagram entdeckt, mit der sich die Zwei-Faktor-Authentifizierung umgehen ließ.",
-      "url": "https://www.heise.de/news/Zwei-Faktor-Authentifizierung-Facebook-Instagram-Bug-ermoeglichte-Umgehung-7476725.html"
-    },
-    {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
       "teaser": "Phishing-Mails sind (leider) ein täglicher Begleiter. Doch gerade zu besonderen Anlässen steigt der Versand exponentiell. Darauf müssen Sie achten.",
       "url": "https://www.heise.de/ratgeber/Ratgeber-Bad-Cyber-Santa-geht-auf-Phishing-Tour-7396598.html",
@@ -172,6 +171,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-BSI-Affaere-Boehmermann-und-Faeser-saegen-an-Schoenbohms-Stuhl-7295281.html"
     },
     {
+      "title": "Signaturen updaten nicht und Festplatte nicht erkannt",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Signaturen-updaten-nicht-und-Festplatte-nicht-erkannt/posting-42231067/show/"
+    },
+    {
       "title": "Re: Qualitätsoffensive Desinfec't",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Qualitaetsoffensive-Desinfec-t/posting-42228397/show/"
@@ -180,11 +184,6 @@
       "title": "Re: Open Threat Scanner langsam wegen Update?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Open-Threat-Scanner-langsam-wegen-Update/posting-42228367/show/"
-    },
-    {
-      "title": "Desinfec't bootet nicht: ACPI Bios Error (bug): Failure creating named object",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfec-t-bootet-nicht-ACPI-Bios-Error-bug-Failure-creating-named-object/posting-42228225/show/"
     }
   ]
 }
