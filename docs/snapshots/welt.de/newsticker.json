@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-03T11:10:56",
+  "timestamp": "2023-02-03T12:23:16",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Ausland",
+      "url": "https://www.welt.de/politik/ausland/",
+      "topic": "In die Ukraine"
+    },
     {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -37,11 +42,6 @@
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
       "topic": "Mainz"
-    },
-    {
-      "title": "Panorama",
-      "url": "https://www.welt.de/vermischtes/",
-      "topic": "Kritik an Asien-Reise"
     },
     {
       "title": "Alles auf Aktien",
@@ -71,6 +71,13 @@
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Der Leopard 1 ist den alten russischen Panzern nicht überlegen“",
+      "url": "https://www.welt.de/politik/ausland/video243579267/Waffenlieferung-an-die-Ukraine-Carlo-Masala-zu-Leopard-1.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Kampfpanzer Leopard 1A5 ( 1 A 5 ) auf dem Truppenuebungsplatz Altenwalde. Altenwalde den 01.09.1997, © by picture alliance/photothek",
+      "topic": "Waffenlieferung an die Ukraine"
     },
     {
       "title": "„Wenn ich sehe, wie Politiker vor dem Weltuntergang gewarnt haben, wird mir schlecht“",
@@ -103,12 +110,6 @@
       "url": "https://www.welt.de/politik/deutschland/video243577389/Bilanz-der-Corona-Massnahmen-Maskenpflicht-in-Parks-war-widersinnig-so-Andrew-Ullmann.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Bilanz der Corona-Maßnahmen"
-    },
-    {
-      "title": "„Ein absolut notwendiger Schritt“",
-      "url": "https://www.welt.de/wirtschaft/video243570013/EZB-erhoeht-Leitzins-Absolut-notwendiger-Schritt-so-Dietmar-Deffner.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "EZB erhöht Leitzins"
     }
   ]
 }

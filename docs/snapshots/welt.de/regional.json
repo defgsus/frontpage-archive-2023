@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-03T11:11:37",
+  "timestamp": "2023-02-03T12:23:40",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile243584571/5392507707-ci102l-w1024/Hamburgische-Buergerschaft.jpg",
+      "image_title": "Hamburgische Bürgerschaft",
+      "topic": "Verfassungsgericht"
+    },
     {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -41,13 +48,6 @@
       "image_title": "Zurzeit außer Betrieb: das Hallenbad in Öhringen (Baden-Württemberg)",
       "topic": "Unterricht fällt aus",
       "author": "Kevin Culina"
-    },
-    {
-      "title": "Panorama",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile243580503/4642503017-ci102l-w1024/Polizei-Berlin.jpg",
-      "image_title": "Einige der Waffen, die hinter der Wand gefunden wurden",
-      "topic": "Berlin"
     },
     {
       "title": "Hamburg",
@@ -79,8 +79,15 @@
       "topic": "Prozess"
     },
     {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
+      "title": "Panorama",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile243580503/4642503017-ci102l-w1024/Polizei-Berlin.jpg",
+      "image_title": "Einige der Waffen, die hinter der Wand gefunden wurden",
+      "topic": "Berlin"
+    },
+    {
+      "title": "Gut eine Woche vor der Wahl liegt die CDU vor SPD und Grünen",
+      "url": "https://www.welt.de/politik/deutschland/article243580123/Berlin-Gut-eine-Woche-vor-der-Wahl-liegt-die-CDU-vor-SPD-und-Gruenen.html",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile243580371/5772504307-ci102l-w1024/Wahlkampf-CDU-Berlin-mit-dem-Bundesvorsitzenden-Merz.jpg",
       "image_title": "Der CDU-Spitzenkandidat Kai Wegner will Franziska Giffey ablösen",
       "topic": "Berlin"
@@ -99,14 +106,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile161945624/0162507807-ci102l-w1024/Gericht-verhandelt-wieder-ueber-Kopftuchverbot-fuer-Lehrerin.jpg",
       "image_title": "Eine muslimische Lehrerin wollte in Berlin mit Kopftuch unterrichten – durfte aber nicht (Symbolbild)",
       "topic": "Neutralitätsgesetz"
-    },
-    {
-      "title": "Alle Staatsgewalt geht vom Bürger aus – das gilt sogar für Berlin",
-      "url": "https://www.welt.de/politik/deutschland/plus243520919/Berlin-Alle-Staatsgewalt-geht-vom-Buerger-aus-das-gilt-sogar-in-der-Hauptstadt.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243520977/0222501097-ci102l-w1024/Wahlplakate-zur-Berlinwahl.jpg",
-      "image_title": "Plakate zur Wahlwiederholung auf der Frankfurter Allee in Berlin",
-      "topic": "Wahl-Wiederholung",
-      "author": "Thorsten Jungholt"
     },
     {
       "title": "Unterhaken, und schon wird alles gut",
