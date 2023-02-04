@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-04T15:11:11",
+  "timestamp": "2023-02-04T16:15:16",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -128,18 +128,31 @@
   ],
   "articles": [
     {
+      "title": "Was der Neubau-Stopp für den Wohnungsmarkt bedeutet",
+      "teaser": "Wegen gestiegener Kosten will Vonovia, Europas größter Wohnungskonzern, keinen Neubau mehr anfangen. Die Ankündigung dürfte vor allem politisch sein.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/neubau-wohnungsmangel-vonovia-1.5744503",
+      "author": "Stephan Radomsky",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5745071/1000x420"
+    },
+    {
+      "title": "Wo Anspruch und Wirklichkeit weit auseinanderliegen",
+      "teaser": "Die CSU will natürlich auch beim Wohnungsbau vorangehen. Doch die bayerischen Ziele liegen noch in weiter Ferne. Immerhin: Das Tempo erhöht sich.",
+      "url": "https://www.sueddeutsche.de/politik/bayernheim-wohnungsbau-markus-soeder-1.5744751",
+      "author": "Johann Osel"
+    },
+    {
+      "title": "Wer sein Kind mittags abholen muss, löst den Fachkräftemangel nicht",
+      "teaser": "Eltern in Teilzeit könnten mehr arbeiten, um die Personalnot in der Wirtschaft zu bekämpfen, schlagen Politiker vor. Angesichts der Lage in den Kitas ist das zynisch.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/kita-krise-teilzeit-1.5744666",
+      "author": "Kommentar von Felicitas Wilke",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5744667/290x163"
+    },
+    {
       "title": "Toxisch, toxischer, Tiktok?",
       "teaser": "Die App aus China ist extrem populär. Doch mehrere Behörden in Europa und den USA warnen vor der Nutzung. Es geht um Suchtpotenzial, Propaganda und einen fragwürdigen Umgang mit den Daten der meist jungen Nutzerinnen und Nutzer.",
       "url": "https://www.sueddeutsche.de/politik/tiktok-datenschutz-china-usa-europa-1.5744863",
       "author": "Kai Strittmatter",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5034341/1000x420"
-    },
-    {
-      "title": "Es geht ums Überleben",
-      "teaser": "Neuerdings wird in der Debatte mit großer Nonchalance das Wort \"Abnutzungskrieg\" herumgereicht. Der Begriff beschreibt jedoch etwas, das in der Praxis mit sehr viel Gewalt und Tod verbunden ist.",
-      "url": "https://www.sueddeutsche.de/meinung/krieg-ukraine-erster-weltkrieg-verdun-abnutzungskrieg-leopard-2-panzer-wladimir-putin-kommentar-1.5744555",
-      "author": "Kommentar von Hubert Wetzel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5744556/290x163"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5034341/600x337"
     },
     {
       "title": "\"Für mich war das ein Schlag, als ich bereits am Boden lag\"",
@@ -147,11 +160,6 @@
       "url": "https://www.sueddeutsche.de/projekte/artikel/sport/manuel-neuer-interview-skiunfall-tapalovic-e822699/",
       "author": "Interview von Philipp Selldorf",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5737833/600x337"
-    },
-    {
-      "title": "Toter unter Lawine in Österreich gefunden",
-      "teaser": "Auch in Deutschland wird vor Gefahren durch Neuschnee gewarnt. In Polen, Tschechien und der Slowakei gibt es großflächige Stromausfälle und teils chaotische Zustände auf den Straßen.",
-      "url": "https://www.sueddeutsche.de/panorama/wintereinbruch-schnee-lawinengefahr-oesterreich-deutschland-polen-tschechien-slowakei-1.5745087"
     },
     {
       "title": "Brasilien hat Geisterschiff mit Giftmüll im Atlantik versenkt",
@@ -174,6 +182,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5745046/600x337"
     },
     {
+      "title": "Tote unter Lawinen in Österreich gefunden",
+      "teaser": "Auch in Deutschland wird vor Gefahren durch Neuschnee gewarnt. In Polen, Tschechien und der Slowakei gibt es großflächige Stromausfälle und teils chaotische Zustände auf den Straßen.",
+      "url": "https://www.sueddeutsche.de/panorama/wintereinbruch-schnee-lawinengefahr-oesterreich-deutschland-polen-tschechien-slowakei-1.5745087"
+    },
+    {
+      "title": "Es geht ums Überleben",
+      "teaser": "Neuerdings wird in der Debatte mit großer Nonchalance das Wort \"Abnutzungskrieg\" herumgereicht. Der Begriff beschreibt jedoch etwas, das in der Praxis mit sehr viel Gewalt und Tod verbunden ist.",
+      "url": "https://www.sueddeutsche.de/meinung/krieg-ukraine-erster-weltkrieg-verdun-abnutzungskrieg-leopard-2-panzer-wladimir-putin-kommentar-1.5744555",
+      "author": "Kommentar von Hubert Wetzel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5744556/290x163"
+    },
+    {
       "title": "50 Tipps für gute Laune in schlechten Zeiten",
       "teaser": "Die Welt ist gerade ziemlich finster. Darum haben wir uns gefragt: Gibt es denn nicht irgendetwas, was uns trotz allem fröhlich macht? Und tatsächlich haben wir viele hübsche Kleinigkeiten gefunden.",
       "url": "https://sz-magazin.sueddeutsche.de/humor/50-tipps-fuer-gute-laune-in-schlechten-zeiten-92369",
@@ -182,33 +202,12 @@
       "image_title": "Cover Heft 5/23"
     },
     {
-      "title": "\"Mit weißen Turnschuhen. Massenhaft. Das ist wie Herdenvieh\"",
-      "teaser": "Die Designerin Susanne Wiebe über die Trends der Münchner, den Horror des Lässiglooks und wie man sich günstig gut kleiden kann.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-designerin-susanne-wiebe-mode-trends-1.5743906",
-      "author": "Interview von Philipp Crone",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743910/600x337"
-    },
-    {
-      "title": "\"Wir haben neun Monate nicht miteinander geschlafen\"",
-      "teaser": "Ihre Beziehung startete als Affäre, heute haben Emilia und Jakob kaum noch Sex. Woran das liegt und wie man damit umgeht, wenn einer mehr Lust hat, als die andere.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/jetzt/kein-sex-beziehung-antidepressiva-e245727/",
-      "author": "Protokoll von Sheila-Ananda Dierks",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5744584/208x156",
-      "image_title": "jtzt junges_paar_kein_Sex / Illustration: Daniela Rudolf-Luebke"
-    },
-    {
-      "title": "Dortmund führt in Überzahl - Muani trifft für Frankfurt doppelt",
-      "teaser": "Beim BVB sieht der Freiburger Sildillia zweimal Gelb in zwei Minuten. Hertha BSC hat bei der Eintracht Pech mit einer Schiedsrichter-Entscheidung. Bochum führt gegen Hoffenheim - und Union Berlin die Tabelle an.",
+      "title": "Dortmund zieht davon, Streich fliegt vom Platz, Union führt wieder",
+      "teaser": "Dortmund führt in Überzahl wieder deutlich gegen den SC Freiburg. Unions Traum von der Tabellenführung lebt, Frankfurt führt dank Kolo Muani - und Hoffenheim sieht an der Castroper Straße kein Land.",
       "url": "https://www.sueddeutsche.de/sport-liveticker/fussball/deutschland-bundesliga/spiele-und-ergebnisse/?utm_source=hs_data&utm_medium=widget&utm_campaign=sportsevents",
       "author": "Die Konferenz im Liveticker",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5745103/600x337"
-    },
-    {
-      "title": "Was kostet ein Tor?",
-      "teaser": "Der FC Chelsea gab im Winter unanständig viel Geld für neue Spieler aus und spielt trotzdem nur 0:0 gegen Fulham. Trainer Graham Potter könnte bald unter Druck geraten - die britische Presse spottet.",
-      "url": "https://www.sueddeutsche.de/sport/chelsea-fullham-unentschieden-1.5745062",
-      "author": "Sven Haist, London",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5745070/208x156"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5745113/600x337",
+      "image_title": "Bundesliga - Borussia Dortmund v SC Freiburg"
     },
     {
       "title": "Ein Grieche tanzt unterm Mont Blanc",
@@ -225,11 +224,12 @@
       "image_title": "Rätsel Illu SZ"
     },
     {
-      "title": "Der Wettlauf ums Tagesgeld beginnt wieder",
-      "teaser": "Lange interessierte sich kaum mehr jemand für die einfache Art, Geld anzulegen. Doch nun kommen die Zinsen zurück. Auch ganz neue Anbieter buhlen um Kunden: Neobroker wie Trade Republic und Scalable.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/wirtschaft/geldanlage-tagesgeld-e531098/",
-      "author": "Harald Freiberger",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5743288/208x156"
+      "title": "\"Wir haben neun Monate nicht miteinander geschlafen\"",
+      "teaser": "Ihre Beziehung startete als Affäre, heute haben Emilia und Jakob kaum noch Sex. Woran das liegt und wie man damit umgeht, wenn einer mehr Lust hat, als die andere.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/jetzt/kein-sex-beziehung-antidepressiva-e245727/",
+      "author": "Protokoll von Sheila-Ananda Dierks",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5744584/208x156",
+      "image_title": "jtzt junges_paar_kein_Sex / Illustration: Daniela Rudolf-Luebke"
     },
     {
       "title": "Was dem deutschen Kino fehlt",
@@ -315,6 +315,12 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.4575202/208x156"
     },
     {
+      "title": "Unfallserie auf der A 96 - Neunjährige schwer verletzt",
+      "teaser": "Wegen heftiger Graupelschauer ereignen sich auf der Autobahn in Schwaben sechs Unfälle. Bei Bad Wörishofen überschlägt sich ein Wagen, in dem mehrere Mädchen sitzen.",
+      "url": "https://www.sueddeutsche.de/bayern/a96-unfall-verletzung-stau-1.5745108",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.3935464/208x156"
+    },
+    {
       "title": "\"Wieso schaffen es diese derben Menschen, die besten zu sein?\"",
       "teaser": "Bayern liegt in vielen Bereichen vor anderen Bundesländern. Wegen der CSU, wie es die so gerne behauptet? Wissenschaftler Kaevan Gazdar hat genauer hingeschaut.",
       "url": "https://www.sueddeutsche.de/bayern/kaevan-gazdar-bayern-csu-aufstieg-superlative-1.5744877",
@@ -326,13 +332,6 @@
       "teaser": "Eine Großfahndung der Polizei verläuft ohne Erfolg. Der Räuber entkommt nach Österreich.",
       "url": "https://www.sueddeutsche.de/bayern/freilassing-ueberfall-autodiebstahl-polizei-oesterreich-1.5745096",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5700911/208x156"
-    },
-    {
-      "title": "So werten Archäologen Fundstücke aus dem alten Kempten aus",
-      "teaser": "Das historische Kempten ist die wichtigste Ausgrabungsstätte für römische Geschichte in Bayern. Wie lebten die Römer im süddeutschen Raum?",
-      "url": "https://www.sueddeutsche.de/bayern/roemer-kempten-cambodunum-archaeologie-ausgrabungen-1.5744797",
-      "author": "Florian Fuchs",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5683593/208x156"
     },
     {
       "title": "Das geheime Zimmer",
@@ -466,18 +465,18 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5745033/208x156"
     },
     {
+      "title": "Was kostet ein Tor?",
+      "teaser": "Der FC Chelsea gab im Winter unanständig viel Geld für neue Spieler aus und spielt trotzdem nur 0:0 gegen Fulham. Trainer Graham Potter könnte bald unter Druck geraten - die britische Presse spottet.",
+      "url": "https://www.sueddeutsche.de/sport/chelsea-fullham-unentschieden-1.5745062",
+      "author": "Sven Haist, London",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5745070/208x156"
+    },
+    {
       "title": "Die nächste sinnlose Empörungswelle",
       "teaser": "Ausgerechnet die Tourismusbehörde Saudi-Arabiens soll Partner bei der WM in Australien und Neuseeland werden. Pauschale Aufregung bedient aber die Propaganda des Königreichs - besser wäre es, sich ernsthaft für Frauenrechte einzusetzen.",
       "url": "https://www.sueddeutsche.de/sport/fussball-wm-frauen-australien-neuseeland-kommentar-saudi-arabien-1.5744907",
       "author": "Kommentar von Dunja Ramadan",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5744908/208x156"
-    },
-    {
-      "title": "Zverev entzaubert Wawrinka",
-      "teaser": "Im Davis-Cup-Duell mit der Schweiz gelingt dem lange verletzten Olympiasieger der Ausgleich zum 1:1 für das deutsche Team. \"Das war das beste Match seit meiner Rückkehr\", sagt die deutsche Nummer eins.",
-      "url": "https://www.sueddeutsche.de/sport/tennis-zverev-entzaubert-wawrinka-1.5745022",
-      "author": "Barbara Klimke, Trier",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5745023/208x156"
     },
     {
       "title": "Die Rückkehr der Spionageballons",
