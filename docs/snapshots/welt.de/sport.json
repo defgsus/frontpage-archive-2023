@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-05T11:09:33",
+  "timestamp": "2023-02-05T12:21:14",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -14,8 +14,22 @@
   ],
   "articles": [
     {
-      "title": "Bundesliga",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/",
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://img.welt.de/img/sport/mobile243606947/1652507827-ci102l-w1024/Eintracht-Frankfurt-v-FC-Schalke-04-Bundesliga.jpg",
+      "image_title": "Eintracht Frankfurt v FC Schalke 04 - Bundesliga",
+      "topic": "Markus Krösche"
+    },
+    {
+      "title": "Internationale Ligen",
+      "url": "https://www.welt.de/sport/fussball/internationale-ligen/",
+      "image_url": "https://img.welt.de/img/sport/fussball/mobile243606725/9002509847-ci102l-w1024/Premier-League-Wolverhampton-Wanderers-v-Liverpool.jpg",
+      "image_title": "Jürgen Klopp musste mit dem FC Liverpool eine weitere bittere Niederlage hinnehmen. Im Anschluss ließ der Trainer seinem Frust freien Lauf",
+      "topic": "FC Liverpool"
+    },
+    {
+      "title": "Die Attacke aus dem Krankenstand",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/plus243606233/FC-Bayern-Manuel-Neuer-Attacke-aus-dem-Krankenstand.html",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile243606353/5202502727-ci102l-w1024/Soccer-Bayern-Goalkeepers.jpg",
       "image_title": "Soccer Bayern Goalkeepers",
       "topic": "Neuer-Beben bei Bayern",
@@ -36,20 +50,6 @@
       "topic": "BVB"
     },
     {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/sport/fussball/mobile243602967/3312507257-ci102l-w1024/Premier-League-Wolverhampton-Wanderers-v-Liverpool.jpg",
-      "image_title": "Jürgen Klopp steckt mit dem FC Liverpool in einer schweren Krise",
-      "topic": "„Schrecklich, absolut schrecklich“"
-    },
-    {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile243601465/3712507817-ci102l-w1024/Bundesliga-Borussia-Dortmund-v-SC-Freiburg.jpg",
-      "image_title": "Bundesliga - Borussia Dortmund v SC Freiburg",
-      "topic": "BVB siegt gegen Freiburg"
-    },
-    {
       "title": "Fürth feiert Last-Minute-Derbysieg gegen Nürnberg – Die Highlights im Video",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video243546045/Greuther-Fuerth-1-FC-Nuernberg-Highlights-Fuerths-Last-Minute-Derbysieg-2-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile243603367/4802503267-ci102l-w1024/SpVgg-Greuther-Fuerth-1-FC-Nuernberg.jpg",
@@ -64,18 +64,18 @@
       "topic": "Remis gegen Gladbach"
     },
     {
-      "title": "Bochum feiert Torfestival gegen desolates Hoffenheim – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/video243546437/VfL-Bochum-TSG-Hoffenheim-Highlights-Bochumer-Torfestival-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile243601837/7002505097-ci102l-w1024/VfL-Bochum-TSG-1899-Hoffenheim.jpg",
-      "image_title": "VfL Bochum - TSG 1899 Hoffenheim",
-      "topic": "Befreiungsschlag"
-    },
-    {
       "title": "Mit diesem Knaller erobert Union die Tabellenführung – Die Highlights im Video",
       "url": "https://www.welt.de/sport/fussball/bundesliga/video243546221/Union-Berlin-1-FSV-Mainz-05-Highlights-Mit-spaetem-Knaller-an-die-Spitze-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile243602001/0512500557-ci102l-w1024/FBL-GER-BUNDESLIGA-UNION-BERLIN-MAINZ.jpg",
       "image_title": "FBL-GER-BUNDESLIGA-UNION BERLIN-MAINZ",
       "topic": "Spätes Siegtor"
+    },
+    {
+      "title": "Bochum feiert Torfestival gegen desolates Hoffenheim – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video243546437/VfL-Bochum-TSG-Hoffenheim-Highlights-Bochumer-Torfestival-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile243601837/7002505097-ci102l-w1024/VfL-Bochum-TSG-1899-Hoffenheim.jpg",
+      "image_title": "VfL Bochum - TSG 1899 Hoffenheim",
+      "topic": "Befreiungsschlag"
     },
     {
       "title": "Nach frühem Platzverweis gerät Freiburg beim BVB unter die Räder – Die Highlights im Video",
@@ -112,6 +112,13 @@
       "topic": "Bei Kölns Remis"
     },
     {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Bundesliga - Borussia Dortmund v SC Freiburg",
+      "topic": "BVB siegt gegen Freiburg"
+    },
+    {
       "title": "FC Bayern München",
       "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -146,13 +153,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "SV Sandhausen - Darmstadt 98",
       "topic": "Zweite Liga"
-    },
-    {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Schwer getroffen: Torwart Manuel Neuer reagiert auf die Entlassung seines Trainers",
-      "topic": "Manuel Neuer"
     },
     {
       "title": "Sport",
@@ -199,6 +199,13 @@
       "author": "Steven Jörgensen"
     },
     {
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Jürgen Klopp steckt mit dem FC Liverpool in einer schweren Krise",
+      "topic": "„Schrecklich, absolut schrecklich“"
+    },
+    {
       "title": "Sport",
       "url": "https://www.welt.de/sport/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -219,6 +226,13 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Erster Aufschlag: Boris Becker genoss den öffentlichen Auftritt in Deutschland nach der Haft",
       "topic": "Deutschland gegen die Schweiz"
+    },
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Schwer getroffen: Torwart Manuel Neuer reagiert auf die Entlassung seines Trainers",
+      "topic": "Manuel Neuer"
     },
     {
       "title": "Sport",
@@ -360,20 +374,6 @@
       "image_title": "Das war einmal: Erik Lesser als Biathlet. Kürzlich ist er zum zweiten Mal Vater geworden.",
       "topic": "Biathlet Lesser",
       "author": "Melanie Haack"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Joshua Kimmich (r.) und Leroy Sané feiern Bayerns ungefährdeten Einzug ins Viertelfinale des DFB-Pokals",
-      "topic": "FC Bayern München"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Der FC Bayern steht nach dem lockeren Sieg in Mainz im Viertelfinale des DFB-Pokals",
-      "topic": "Achtelfinale im DFB-Pokal"
     },
     {
       "title": "Richtige Ernährung – was der Darm mit gutem Schlaf zu tun hat",
