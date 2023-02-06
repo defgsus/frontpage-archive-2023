@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-06T14:11:26",
+  "timestamp": "2023-02-06T15:12:24",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -25,7 +25,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/hohomepage/js/hohomepage.js?.ltc.d4bb39e2d1165f406456",
+      "src": "https://www.heise.de/assets/heise/hohomepage/js/hohomepage.js?.ltc.321b18934f5989eabdc4",
       "id": null,
       "text": null
     }
@@ -43,14 +43,15 @@
       "url": "https://www.heise.de/ratgeber/Hackintosh-mit-Ryzen-7000-selbst-gebaut-Schneller-als-Apple-Mac-Studio-M1-Ultra-7478000.html"
     },
     {
-      "title": "Verbot gefordertTelekom überbaut bestehende Glasfasernetze",
-      "teaser": "Ein Verband schlägt Alarm wegen des zunehmenden Überbaus von Netzen vor allem in Großstädten durch die Telekom. Erste Politiker fordern ein gesetzliches Verbot.",
-      "url": "https://www.heise.de/news/Rosinenpicken-der-Telekom-Kritik-am-doppelten-Glasfaserausbau-wird-lauter-7485014.html"
-    },
-    {
       "title": "AppleFünftes iPhone könnte kommen – als Luxus-\"Ultra\"",
       "teaser": "Apple plant angeblich die Einführung einer neuen Smartphone-Geräteklasse, um das Luxus-Segment abzudecken. Neben zwei Pro-Modellen könnte ein \"Ultra\" kommen.",
       "url": "https://www.heise.de/news/Schon-naechstes-Jahr-Womoeglich-fuenftes-iPhone-geplant-als-Luxus-Ultra-7485409.html"
+    },
+    {
+      "title": "Fortschritte: Neue Beta-Firmware für Fritzbox 7490 bessert kleine Fehler aus",
+      "teaser": "Eine weitere Beta-Firmware für den betagten DSL-Router Fritzbox 7490 steht bereit. Er korrigiert nur noch kleinere Fehler.",
+      "url": "https://www.heise.de/news/Fortschritte-Neue-Beta-Firmware-fuer-Fritzbox-7490-bessert-kleine-Fehler-aus-7486234.html",
+      "image_title": "AVM Fritzbox 7490"
     },
     {
       "title": "IdentitätWas Sie beachten sollten, bevor Sie eine Perso-Kopie weitergeben",
@@ -86,10 +87,9 @@
       "url": "https://www.heise.de/ratgeber/Solardachziegel-Fuer-wen-die-Technik-interessant-ist-was-sie-kostet-und-leistet-7460519.html?wt_mc=intern.red.plus.topteaser.startseite.teaser.teaser"
     },
     {
-      "title": "ElektroautosTeslas Schlingerkurs in China: Harter Konkurrenzkampf drückt die Preise",
-      "teaser": "Tesla hat in China zum zweiten Mal innerhalb von drei Monaten die Preise senken müssen. Auch das zeigt, wie stark der Druck auf dem chinesischen Markt zunimmt.",
-      "url": "https://www.heise.de/hintergrund/Teslas-Schlingerkurs-in-China-Harter-Konkurrenzkampf-drueckt-die-Preise-7478320.html",
-      "image_title": "Tesla Model Y"
+      "title": "Verbot gefordertTelekom überbaut bestehende Glasfasernetze",
+      "teaser": "Ein Verband schlägt Alarm wegen des zunehmenden Überbaus von Netzen vor allem in Großstädten durch die Telekom. Erste Politiker fordern ein gesetzliches Verbot.",
+      "url": "https://www.heise.de/news/Rosinenpicken-der-Telekom-Kritik-am-doppelten-Glasfaserausbau-wird-lauter-7485014.html"
     },
     {
       "title": "RaumfahrtRiesenrakete Starship von SpaceX: Elon Musk spricht von Startversuch im März",
@@ -144,6 +144,33 @@
       "image_title": ","
     },
     {
+      "title": "Wenn Roboter Fehler machen: Entschuldigen ist nicht genug!",
+      "teaser": "Fehler machen alle – auch Roboter. Bei der Zusammenarbeit mit Menschen kann dann das Vertrauen verloren gehen, mitunter unwiederbringlich, sagen Forscher.",
+      "url": "https://www.heise.de/news/Wenn-Roboter-Fehler-machen-Entschuldigen-ist-nicht-genug-7486255.html",
+      "image_title": "Robot,Gives,A,Hand,To,A,Woman.,Two,Hands,In"
+    },
+    {
+      "title": "Strom-Bremsen zu Spitzenlastzeiten: Regierung rechnet nicht mit Komforteinbußen",
+      "teaser": "Das neu gefasste Energiewirtschaftsgesetz sieht vor, dass Strom dynamisch reduziert werden kann. Die Bundesregierung beantwortete dazu ein paar Fragen.",
+      "url": "https://www.heise.de/news/Strom-Bremsen-zu-Spitzenlastzeiten-Regierung-rechnet-nicht-mit-Komforteinbussen-7486358.html"
+    },
+    {
+      "title": "Raw-Entwickler: Capture One Pro 23 im Test",
+      "teaser": "Capture One Pro holt natürliche Farben und feine Details aus Raw-Dateien heraus. Der Hersteller hat nun am Workflow gebastelt.Wir haben die Version 23 getestet.",
+      "url": "https://www.heise.de/tests/Raw-Entwickler-Capture-One-Pro-23-im-Test-7463811.html"
+    },
+    {
+      "title": "Razzien und Verhaftungen: Polizei knackt Krypto-Messenger Exclu",
+      "teaser": "Deutschen und niederländischen Strafverfolgern ist es gelungen, den verschlüsselten Kommunikationsdienst Exclu zu hacken. 48 Verdächtige wurden schon verhaftet.",
+      "url": "https://www.heise.de/news/Razzien-und-Verhaftungen-Polizei-knackt-Krypto-Messenger-Exclu-7486472.html"
+    },
+    {
+      "title": "Idiome in der Softwareentwicklung: Value-Objekte",
+      "teaser": "Das Konzept Value-Objekt stammt aus dem Buch \"Domain Driven Design\" von Eric Evans. Die Gleichheit beruht auf dem Zustand, aber nicht der Identität des Objekts.",
+      "url": "https://www.heise.de/blog/Idiome-in-der-Softwareentwicklung-Value-Objekte-7483633.html",
+      "image_title": "Rechner"
+    },
+    {
       "title": "Fortschritte: Neue Beta-Firmware für Fritzbox 7490 bessert kleine Fehler aus",
       "teaser": "Eine weitere Beta-Firmware für den betagten DSL-Router Fritzbox 7490 steht bereit. Er korrigiert nur noch kleinere Fehler.",
       "url": "https://www.heise.de/news/Fortschritte-Neue-Beta-Firmware-fuer-Fritzbox-7490-bessert-kleine-Fehler-aus-7486234.html",
@@ -160,6 +187,25 @@
       "teaser": "Nach Verlusten beim Streaming steht Disney einem Bloomberg-Bericht zufolge vor einem Strategiewechsel: Inhalte könnten wieder an Konkurrenten lizenziert werden.",
       "url": "https://www.heise.de/news/Disney-Inhalte-sollen-angeblich-wieder-an-Konkurrenz-lizenziert-werden-7486220.html",
       "image_title": "Grand,Prairie,,Tx/usa,Oct,2019:,Disney,Plus,On,Smartphone,Screen"
+    },
+    {
+      "title": "Zeit produktiv nutzen: Fünf Habit-Tracker-Apps im Test",
+      "url": "https://www.heise.de/tests/Im-Test-Fuenf-Habit-Tracker-zum-an-und-abgewoehnen-von-Gewohnheiten-7447783.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Stromverbrauch mit Messgeräten ermitteln und senken",
+      "url": "https://www.heise.de/ratgeber/Stromverbrauch-mit-Messgeraeten-ermitteln-und-senken-7465033.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ","
+    },
+    {
+      "title": "Heizung: Technische Defekte erkennen und analysieren",
+      "url": "https://www.heise.de/ratgeber/Heizung-Technische-Defekte-erkennen-und-analysieren-7465038.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ", OlegDoroshin / Shutterstock.com"
+    },
+    {
+      "title": "heise+ Geburtstags-Angebot",
+      "teaser": "Jetzt heise+ mit über 60% Rabatt testen und alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine lesen. 3 Monate für nur 5€ mtl. - nur für kurze Zeit!",
+      "url": "https://shop.heise.de/heise+/geburtstag?affiliateId=34231_HP000055_22546_3_57&wt_mc=intern.abo.plus.hp_2023_geburtstag4.ho-advt.ad1.ad1"
     },
     {
       "title": "Abo-Datenbank von Charlie Hebdo gehackt: Microsoft beschuldigt den Iran",
@@ -187,25 +233,6 @@
       "teaser": "Auf HP folgt Dell mit einer Entlassungswelle. Etwa 6650 Angestellte sollen weltweit betroffen sein.",
       "url": "https://www.heise.de/news/5-Prozent-Entlassungen-Dell-streicht-mehr-als-6000-Jobs-7486147.html",
       "image_title": "Dell XPS 13 Plus"
-    },
-    {
-      "title": "Zeit produktiv nutzen: Fünf Habit-Tracker-Apps im Test",
-      "url": "https://www.heise.de/tests/Im-Test-Fuenf-Habit-Tracker-zum-an-und-abgewoehnen-von-Gewohnheiten-7447783.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Stromverbrauch mit Messgeräten ermitteln und senken",
-      "url": "https://www.heise.de/ratgeber/Stromverbrauch-mit-Messgeraeten-ermitteln-und-senken-7465033.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ","
-    },
-    {
-      "title": "Heizung: Technische Defekte erkennen und analysieren",
-      "url": "https://www.heise.de/ratgeber/Heizung-Technische-Defekte-erkennen-und-analysieren-7465038.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ", OlegDoroshin / Shutterstock.com"
-    },
-    {
-      "title": "heise+ Geburtstags-Angebot",
-      "teaser": "Jetzt heise+ mit über 60% Rabatt testen und alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine lesen. 3 Monate für nur 5€ mtl. - nur für kurze Zeit!",
-      "url": "https://shop.heise.de/heise+/geburtstag?affiliateId=34231_HP000055_22546_3_57&wt_mc=intern.abo.plus.hp_2023_geburtstag4.ho-advt.ad1.ad1"
     },
     {
       "title": "Abgasnorm Euro 7: Wissing warnt vor zu strenger Auslegung",
@@ -252,6 +279,11 @@
       "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
+      "title": "Root-Server: Power-Rechner für Profis",
+      "teaser": "Root-Server sind die High-End-Klasse der Hosting-Industrie. Bei vollen Rechten hat der Betreiber die uneingeschränkte Hoheit über Programme und Web-Dienste. Allerdings: Die Konfiguration und Administration des Servers muss der Mieter eigenverantwortlich übernehmen.",
+      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/web-dev/-hosting/beitrag/root-server-power-rechner-fuer-profis-4478/?source=hbsad"
+    },
+    {
       "title": "PC-Markt: Erholung ab der zweiten Jahreshälfte 2023",
       "teaser": "Der Gerätemarkt soll 2023 weiter abnehmen. 1,82 Milliarden Verkäufe werden erwartet. Im Falle von PCs setzt in der zweiten Jahreshälfte eine Erholung ein.",
       "url": "https://www.heise.de/news/PCs-Tablets-Smartphones-2023-geht-es-noch-mal-bergab-7485792.html"
@@ -278,11 +310,6 @@
       "url": "https://www.heise.de/ratgeber/Solaranlagen-Die-wichtigsten-Fragen-rund-um-die-eigene-Stromproduktion-7475037.html"
     },
     {
-      "title": "Root-Server: Power-Rechner für Profis",
-      "teaser": "Root-Server sind die High-End-Klasse der Hosting-Industrie. Bei vollen Rechten hat der Betreiber die uneingeschränkte Hoheit über Programme und Web-Dienste. Allerdings: Die Konfiguration und Administration des Servers muss der Mieter eigenverantwortlich übernehmen.",
-      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/web-dev/-hosting/beitrag/root-server-power-rechner-fuer-profis-4478/?source=hbsad"
-    },
-    {
       "title": "Studie: Genug Rohstoffe, um die Welt mit erneuerbarer Energie zu versorgen",
       "teaser": "Die wichtigsten Rohstoffe für den Klimaschutz werden uns nicht ausgehen, aber der Abbau hat soziale und ökologische Auswirkungen, sagt eine neue Studie.",
       "url": "https://www.heise.de/hintergrund/Studie-Genug-Rohstoffe-um-die-Welt-mit-erneuerbarer-Energie-zu-versorgen-7483779.html"
@@ -307,32 +334,6 @@
       "title": "Wolf 1069 b: Besonders vielversprechender erdähnlicher Exoplanet entdeckt",
       "teaser": "Nur 31 Lichtjahre ist der jetzt entdeckte Exoplanet Wolf 1069 b entfernt. Auf seiner Oberfläche könnte bei günstigen Umständen erdähnliches Leben möglich sein.",
       "url": "https://www.heise.de/news/Wolf-1069-b-Besonders-vielversprechender-erdaehnlicher-Exoplanet-entdeckt-7485574.html"
-    },
-    {
-      "title": "Trotz Apple-Verbot: Google arbeitet an iOS-Browser mit eigener Engine",
-      "teaser": "Bislang erlaubt Apple Browsern auf iPhone und iPad nur die Verwendung der eigenen WebKit-Version. Google arbeitet intern an einem Gegenprojekt.",
-      "url": "https://www.heise.de/news/Trotz-Apple-Verbot-Google-arbeitet-an-iOS-Browser-mit-eigener-Engine-7485553.html",
-      "image_title": "Chromium-Logo auf einem iPhone"
-    },
-    {
-      "title": "Netflix: Angeblich \"Unmenschliche Bedingungen\" bei \"Squid Game\"-Realityshow",
-      "teaser": "Die Reality-Umsetzung von \"Squid Game\" sorgt nach den ersten Drehs für Kontroversen: Mehrere Teilnehmer berichten US-Medien über \"unmenschliche Bedingungen.\"",
-      "url": "https://www.heise.de/news/Netflix-Angeblich-Unmenschliche-Bedingungen-bei-Squid-Game-Realityshow-7485519.html"
-    },
-    {
-      "title": "iX-Workshop: Mit WinUI 3 moderne Desktop-Applikationen entwickeln",
-      "teaser": "Zeitgemäße Desktop-Anwendungen für Windows 10 und 11 mit dem Windows App SDK und Microsofts Grafik-Framework WinUI 3. Noch Plätze frei am 21. und 22. Februar.",
-      "url": "https://www.heise.de/news/iX-Workshop-Mit-WinUI-3-moderne-Desktop-Applikationen-entwickeln-7480279.html"
-    },
-    {
-      "title": "Schon nächstes Jahr: Womöglich fünftes iPhone geplant – als Luxus-\"Ultra\"",
-      "teaser": "Apple plant angeblich die Einführung einer neuen Smartphone-Geräteklasse, um das Luxus-Segment abzudecken. Neben zwei Pro-Modellen könnte ein \"Ultra\" kommen.",
-      "url": "https://www.heise.de/news/Schon-naechstes-Jahr-Womoeglich-fuenftes-iPhone-geplant-als-Luxus-Ultra-7485409.html"
-    },
-    {
-      "title": "Scholz zur Windkraft: Täglich fünf neue Windräder in Deutschland",
-      "teaser": "57 GW Windkraftleistung sind in Deutschland bisher an Land installiert. Bis 2030 sollen es 200 GW werden. Dazu und noch mehr äußerte sich nun Olaf Scholz.",
-      "url": "https://www.heise.de/news/Scholz-zur-Windkraft-Taeglich-fuenf-neue-Windraeder-7485495.html"
     },
     {
       "title": "So will Netflix das Account-Sharing verhindern",
