@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-06T11:10:25",
+  "timestamp": "2023-02-06T12:24:02",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,17 +43,39 @@
       "image_title": "Oldenburg,,Lower,Saxony,/,Germany,-,October,30,,2016:,Red, Apotheke, health, Gesundheit"
     },
     {
+      "title": "One VPN: Google-Tunnel für Android, iOS, macOS und Windows im Test",
+      "teaser": "Ein VPN-Dienst zum Privatsphärenschutz, der ausgerechnet von Google kommt. Wir haben getestet, wie sicher die Kundendaten vor Google selbst sind.",
+      "url": "https://www.heise.de/tests/One-VPN-Google-Tunnel-fuer-Android-iOS-macOS-und-Windows-im-Test-7480803.html"
+    },
+    {
       "title": "Calibre: E-Book-Workflow für Studenten",
       "teaser": "Calibre ist das Multitool für Studenten: E-Books herunterladen, lesen, konvertieren, formatieren. Dieser Ratgeber zeigt, wie Sie mit Calibre Ordnung schaffen.",
       "url": "https://www.heise.de/ratgeber/Calibre-E-Book-Workflow-fuer-Studenten-7458222.html"
     },
     {
-      "title": "ClamAV: Open-Source-Malware-Scanner im Test",
-      "teaser": "20 Jahre nach der ersten Veröffentlichung des wohl bekanntesten quelloffenen Malware-Scanners legt Cisco die Version 1.0 auf. Wir haben ClamAV getestet.",
-      "url": "https://www.heise.de/tests/ClamAV-Open-Source-Malware-Scanner-im-Test-7477901.html"
+      "title": "Verbraucherschutz: Verband fordert Tracking-freien Zugang zur Videosprechstunde",
+      "teaser": "Verbraucherschützer mahnen Videosprechstunden anbietende Plattformen ab und fordern schnelle Umsetzung von Datenschutzstandards sowie ein Tracking-Verbot.",
+      "url": "https://www.heise.de/news/Verbraucherschutz-Verband-fordert-Tracking-freien-Zugang-zur-Videosprechstunde-7485620.html"
     },
     {
-      "title": "PCs, Tablets, Smartphones: 2023 geht es noch mal bergab",
+      "title": "OpenAI: Tool ata bringt KI-Sprachmodell in die Kommandozeile​",
+      "teaser": "Das kleine Kommandozeilen-Tool \"Ask the Terminal Anything\" erlaubt Anfragen an OpenAIs prominente Sprachmodelle im Terminal.",
+      "url": "https://www.heise.de/news/OpenAI-Tool-ata-bringt-KI-Sprachmodell-in-die-Kommandozeile-7485937.html"
+    },
+    {
+      "title": "macOS 13.2: Nutzer melden Probleme mit optischen Laufwerken",
+      "teaser": "Nach dem im Januar erschienenen Ventura-Update streiken unter anderem Geräte von Pioneer bei der Arbeit mit DVDs, CDs und Blu-rays. Die Firma untersucht.",
+      "url": "https://www.heise.de/news/macOS-13-2-Nutzer-melden-Probleme-mit-optischen-Laufwerken-7485636.html",
+      "image_title": "Pioneer-Writer: Ärger unter macOS 13.2"
+    },
+    {
+      "title": "l+f: WLAN formt Menschen",
+      "teaser": "Forscher tracken Personen mit Wi-Fi-Routern.",
+      "url": "https://www.heise.de/news/l-f-WLAN-formt-Menschen-7485694.html",
+      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
+    },
+    {
+      "title": "PC-Markt: Erholung ab der zweiten Jahreshälfte 2023",
       "teaser": "Der Gerätemarkt soll 2023 weiter abnehmen. 1,82 Milliarden Verkäufe werden erwartet. Im Falle von PCs setzt in der zweiten Jahreshälfte eine Erholung ein.",
       "url": "https://www.heise.de/news/PCs-Tablets-Smartphones-2023-geht-es-noch-mal-bergab-7485792.html"
     },
@@ -85,7 +107,7 @@
       "url": "https://www.heise.de/news/iX-Workshop-Keycloak-Funktionalitaet-durch-eigene-Extensions-erweitern-7480420.html"
     },
     {
-      "title": "Italiens Cyber-Sicherheitsbehörde warnt vor weltweitem Ransomware-Angriff",
+      "title": "Ransomware: Italiens Cyber-Sicherheitsbehörde warnt vor weltweiter Attacke",
       "teaser": "Die italienische Cyber-Sicherheitsbehörde ACN warnt vor einer aktuellen Ransomware-Attacke, die tausende Server weltweit betreffe.",
       "url": "https://www.heise.de/news/Italiens-Cyber-Sicherheitsbehoerde-warnt-vor-weltweitem-Ransomware-Angriff-7485377.html",
       "image_title": "Closeup,Of,Laptop,Keyboard,Illumination,,Backlit,Keyboard"
@@ -110,28 +132,6 @@
       "title": "Downloads via Google Ads: \"Tsunami\" an Malvertising verbreitet Schadsoftware",
       "teaser": "Immer mehr Angreifer versuchen, Geräte von Nutzern mit Malware zu infizieren. Forscher beobachten einen massiven Anstieg auf Google bei der Suche nach Software.",
       "url": "https://www.heise.de/news/Downloads-via-Google-Ads-Tsunami-an-Malvertising-verbreitet-Schadsoftware-7485196.html"
-    },
-    {
-      "title": "FOSDEM 2023: Eine Festung mit Systemd und TPM-Chip",
-      "teaser": "Lennart Poettering, inzwischen bei Microsoft angestellt, zeigt zur FOSDEM 2023, wie Systemd imagebasierte Linux-Systeme mithilfe von TPM absichern kann.",
-      "url": "https://www.heise.de/news/FOSDEM-2023-Eine-Festung-mit-Systemd-und-TPM-Chip-7485156.html"
-    },
-    {
-      "title": "\"Virtueller Freund\": Datenschützer stoppen Chatbot Replika in Italien",
-      "teaser": "Die italienische Datenschutzbehörde hat es dem Replika-Entwickler untersagt, Informationen von Nutzern des Landes zu verarbeiten. Die Risiken seien zu hoch.",
-      "url": "https://www.heise.de/news/Virtueller-Freund-Datenschuetzer-stoppen-Chatbot-Replika-in-Italien-7485010.html",
-      "image_title": "Zwei Roboterhände auf einer ergonomischen Tastatur"
-    },
-    {
-      "title": "Missing Link: Grassroot-KI – Afrikas Aufholjagd bei Künstlicher Intelligenz",
-      "teaser": "Afrika will Künstliche Intelligenz in Eigenregie mitgestalten. Die westlichen KIs passen nicht zur Bevölkerung – sie basieren auf fremden Werten und Normen.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Grassroot-KI-Afrikas-Aufholjagd-bei-Kuenstlicher-Intelligenz-7483386.html",
-      "image_title": "Ai(artificial,Intelligence),Concept.,Holographic,Earth,And,Digital,Pattern."
-    },
-    {
-      "title": "Kommentar zum Cloud-Ausfall bei MS: Ist der Patient schon tot oder nur lädiert?",
-      "teaser": "Der jüngste Azure-Ausfall hat vor allem eins gezeigt: Aktuelle SLAs sind keine guten Garantien für Kunden. Die Medizin zeigt, wie wir sie besser denken können.",
-      "url": "https://www.heise.de/meinung/Kommentar-zum-Cloud-Ausfall-bei-MS-Ist-der-Patient-schon-tot-oder-nur-laediert-7484066.html"
     },
     {
       "title": "Low-Code als Erfolgsrezept",
