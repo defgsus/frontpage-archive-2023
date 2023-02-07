@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-07T09:12:10",
+  "timestamp": "2023-02-07T10:13:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "GoAnywhere MFT",
+      "url": "https://www.heise.de/news/Dateiuebertragungsloesung-Zero-Day-Luecke-in-GoAnywhere-MFT-Servern-7487393.html"
+    },
+    {
       "title": "VMware Workstation",
       "url": "https://www.heise.de/news/Angreifer-koennten-Windows-PCs-mit-VMware-Workspace-attackieren-7483515.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-in-Jira-Service-Management-ermoeglicht-Kontenuebernahme-7483286.html"
     },
     {
-      "title": "F5 Big-IP",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-mehrere-BIG-IP-Produkte-von-F5-moeglich-7483256.html"
+      "title": "Dateiübertragungslösung: Zero-Day-Lücke in GoAnywhere-MFT-Servern",
+      "teaser": "Angreifer haben es derzeit auf Server mit GoAnywhere MFT abgesehen. Bislang gibt es kein Sicherheitsupdate. Eine temporäre Übergangslösung sichert Systeme ab.",
+      "url": "https://www.heise.de/news/Dateiuebertragungsloesung-Zero-Day-Luecke-in-GoAnywhere-MFT-Servern-7487393.html"
     },
     {
       "title": "Safer Internet Day: FAQ Internetsicherheit für Kinder und Jugendliche",
@@ -148,12 +153,6 @@
       "title": "Cyberattacke auf IT-Dienstleister Adesso: Systeme kompromittiert, Daten kopiert",
       "teaser": "Unbekannte Angreifer haben Systeme von Adesso kompromittiert und Daten heruntergeladen. Das bestätigte das Unternehmen auf Anfrage von heise online.",
       "url": "https://www.heise.de/news/Cyberattacke-auf-IT-Dienstleister-Adesso-Systeme-kompromittiert-Daten-kopiert-7477544.html"
-    },
-    {
-      "title": "Diskussion um Schwachstelle in KeePass",
-      "teaser": "Eine Schwachstelle erlaubt das Ändern der KeePass-Konfiguration, wenn Nutzer bestimmte Rechte haben. Mit denen können sie jedoch viel mehr anstellen.",
-      "url": "https://www.heise.de/news/Diskussion-um-Schwachstelle-in-KeePass-7478396.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
