@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-08T19:10:12",
+  "timestamp": "2023-02-08T20:13:12",
   "url": "https://www.bild.de/politik/startseite/politik/politik-16804552.bild.html",
   "response": {
     "status": 200
@@ -74,16 +74,20 @@
   ],
   "articles": [
     {
-      "title": "Knallhart-Forderung gegen Flüchtlinge : EU-Regierungschef fordert Mauer um Europa!",
+      "title": "Knallhart-Forderung gegen Flüchtlinge : EU-Regierungschef fordert Zaun um Europa",
       "url": "https://www.bild.de/politik/ausland/politik-ausland/fluechtlings-politik-erster-eu-regierungschef-fordert-mauer-um-europa-82834302.bild.html",
-      "image_url": "https://images.bild.de/63e3ae9711467077f9389036/42585a0411a0281d573dc6c10cbbcc41,a6706683?w=320",
+      "image_url": "https://images.bild.de/63e3ae9711467077f9389036/0083a6b363135891988bb81c362ecffb,e519362?w=656",
       "image_title": "Flüchtlings-Politik: Erster EU-Regierungschef fordert Mauer um Europa"
     },
     {
-      "title": "Ukraine-Präsident auf Europa-Reise : Scholz muss für Selenskyj-Treffen nach Paris",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/noch-heute-scholz-trifft-selenskyj-in-paris-82834344.bild.html",
-      "image_url": "https://images.bild.de/63e3b17be6d87359aca36259/92fdf102abd2b813ea035099674e11cc,ebad64c7?w=320",
-      "image_title": "Ukraine-Präsident auf Europa-Reise: Scholz reist für Selenskyj-Treffen nach Paris"
+      "title": "CDU wirft Maier Nichtstun vor : Innenminister wegen AfD-Polizist unter Druck",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/thueringen-innenminister-wegen-afd-polizist-unter-druck-82838042.bild.html",
+      "image_url": "https://images.bild.de/63e3f9a8e6d87359aca36304/812656bcac71f7a3c7df6b344c34f250,9d0a9b67?w=320",
+      "image_title": "Thüringen: Innenminister wegen AfD-Polizist unter Druck"
+    },
+    {
+      "title": "Ukraine-Präsident auf Europa-Reise Scholz muss für Selenskyj-Treffen nach Paris",
+      "url": "https://www.bild.de/politik/ausland/politik-ausland/noch-heute-scholz-trifft-selenskyj-in-paris-82834344.bild.html"
     },
     {
       "title": "Corona-Murks Millionen Masken werden jetzt in China verbrannt",
@@ -92,10 +96,6 @@
     {
       "title": "Sie flogen schon vor Jahren über die USA Trump-Regierung hielt China-Ballons für Ufos",
       "url": "https://www.bild.de/politik/ausland/politik-ausland/china-ballons-ueber-den-usa-trump-regierung-hielt-spionage-flieger-fuer-ufos-82830294.bild.html"
-    },
-    {
-      "title": "Auszeichnung für Flüchtlings-Krise 2015 Dieser Preis für Merkel ist ein schlechter Witz!",
-      "url": "https://www.bild.de/politik/kolumnen/kolumne/merkel-erhaelt-unesco-ehrung-fuer-fluechtlings-krise-2015-ein-schlechter-witz-82830048.bild.html"
     },
     {
       "title": "BILD-Lagezentrum : Kommen unsere Panzer zu spät?",
@@ -188,6 +188,7 @@
     },
     {
       "title": "Investoren-Zoff entschieden : Bayer-Boss Baumann wirft hin",
+      "teaser": "Nach anhaltender Kritik von Investoren nimmt der Bayer-Chef vorzeitig seinen Hut.",
       "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/wirtschaft-pharma-riese-bayer-bekommt-neuen-boss-werner-baumann-wirft-hin-82836246.bild.html",
       "image_title": "Wirtschaft: Pharma-Riese Bayer bekommt neuen Boss – Werner Baumann wirft hin"
     },
@@ -208,12 +209,6 @@
       "teaser": "Die Inflation drückt unser Gehalt! 2022 sanken die Reallöhne durchschnittlich um 4,1 %.",
       "url": "https://www.bild.de/bild-plus/geld/wirtschaft/mein-geld/inflation-drueckt-unser-gehalt-realloehne-2022-deutlich-gesunken-82816074.bild.html",
       "image_title": "Inflation drückt unser Gehalt: Reallöhne 2022 deutlich gesunken"
-    },
-    {
-      "title": "Brutaler Machtkampf bei Bayer : Luxus-Manager will Aspirin-Boss stürzen",
-      "teaser": "Internationale Investoren-Verschwörung gegen unseren Bayer-Konzern!",
-      "url": "https://www.bild.de/geld/wirtschaft/politik-inland/bayer-luxus-manager-will-aspirin-boss-stuerzen-82812980.bild.html",
-      "image_title": "Bayer: Luxus-Manager will Aspirin-Boss stürzen"
     },
     {
       "title": "Polizei fordert nach Messer-Attacke : „Abschiebe-Knast für gefährliche Flüchtlinge!“",
@@ -246,7 +241,13 @@
       "image_title": "J. K. Rowling laut ZDF transfeindlich: Harry Potter und der Sender des Schreckens"
     },
     {
+      "title": "Auszeichnung für Flüchtlings-Krise 2015 : Dieser Preis für Merkel ist ein schlechter Witz!",
+      "url": "https://www.bild.de/politik/kolumnen/kolumne/merkel-erhaelt-unesco-ehrung-fuer-fluechtlings-krise-2015-ein-schlechter-witz-82830048.bild.html",
+      "image_title": "Merkel erhält Unesco-Ehrung für Flüchtlings-Krise 2015: Ein schlechter Witz!"
+    },
+    {
       "title": "Kommentar zum Wertverlust beim Gehalt : Ein Deutscher muss Mr. Euro werden!",
+      "teaser": "Beim Blick in den Geldbeutel wird Millionen Bürgern ganz schummerig zumute.",
       "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zum-wertverlust-beim-gehalt-ein-deutscher-muss-mr-euro-werden-82824622.bild.html",
       "image_title": "Kommentar zum Wertverlust beim Gehalt: Ein Deutscher muss Mr. Euro werden!"
     },
@@ -267,12 +268,6 @@
       "teaser": "Ein Tag wie aus der Hölle. Tote, Verletzte, Zerstörung überall.",
       "url": "https://www.bild.de/politik/kolumnen/kolumne/kommentar-zum-erdbeben-in-tuerkei-und-syrien-die-erde-bebt-unsere-herzen-auch-82809388.bild.html",
       "image_title": "Kommentar zum Erdbeben in Türkei und Syrien: Die Erde bebt, unsere Herzen auch"
-    },
-    {
-      "title": "Post von Wagner : Lieber Manuel Neuer,",
-      "teaser": "Manuel Neuer hasst das Gefühl, ein sterblicher Torhüter zu sein.",
-      "url": "https://www.bild.de/politik/kolumnen/franz-josef-wagner/post-von-wagner-lieber-manuel-neuer-82800376.bild.html",
-      "image_title": "Post von Wagner: Lieber Manuel Neuer,"
     },
     {
       "title": "BILD met the German Defense Minister in Kyiv : Fear of a nuclear strike? This is what Pistorius says",
