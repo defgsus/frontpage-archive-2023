@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-08T04:15:33",
+  "timestamp": "2023-02-08T05:11:54",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -70,6 +70,12 @@
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.4bac0929.mjs",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.b3799091.mjs",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
@@ -81,14 +87,49 @@
       "title": "Liveblog: Erdbeben in Türkei und Syrien: Zahl der Toten steigt auf 8.100, Botschafter dankt für Hilfe",
       "teaser": "Mindestens 39.000 Menschen sind verletzt, es werden weitere Tote geborgen. Der türkische Botschafter zeigt sich überwältigt von der internationalen Hilfe. Das Liveblog",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/erdbeben-turkei-syrien-live",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-02/zerstoerung-in-hatay/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-02/zerstoerung-in-hatay/cinema__1000x428"
     },
     {
-      "title": "Türkei: Die Katastrophe hinter der Katastrophe",
+      "title": "Türkei: \"Wir brauchen Soldaten!\"",
       "teaser": "Das türkische Militär muss helfen – doch am Tag der Erdbeben brachen viel zu wenige Soldaten auf. Erst allmählich gibt es einheitliche Regeln für Helferinnen und Helfer.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/tuerkei-erdbeben-katastrophe-militaer-einsatz-rettungskraefte",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-02/tuerkei-erdbeben-rettungskraefte-militaer/wide__822x462",
-      "image_title": "Türkei: Die Katastrophe hinter der Katastrophe"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/tuerkei-erdbeben-rettungskraefte-militaer/cinema__980x420",
+      "image_title": "Türkei: \"Wir brauchen Soldaten!\""
+    },
+    {
+      "title": "Nachrichtenpodcast: Folgt in der Türkei jetzt das politische Beben?",
+      "teaser": "Wird das schwere Erdbeben in der Türkei Präsident Erdoğan bei den Wahlen eher nützen oder eher schaden? Und: Warum viele Banken die Leitzinserhöhung nicht weiterreichen.",
+      "url": "https://www.zeit.de/politik/2023-02/wahlen-tuerkei-recep-tayyip-erdogan-erdbeben-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Folgt in der Türkei jetzt das politische Beben?"
+    },
+    {
+      "title": "Ukraine-Überblick: Ukrainische Regierung rechnet mit Großoffensive, Hoffnung auf Panzer",
+      "teaser": "Die Ukraine glaubt, dass eine Großoffensive Charkiw und Saporischschja betreffen wird. Robert Habeck hofft, dass neue Panzer dem Land rechtzeitig helfen. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/ukraine-ueberblick-grossoffensive-charkiw-saporischschja-panzer-lieferungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/ukraine-soldaten-warten-panzerlierferungen/wide__822x462",
+      "image_title": "Ukraine-Überblick: Ukrainische Regierung rechnet mit Großoffensive, Hoffnung auf Panzer"
+    },
+    {
+      "title": "Berlin-Wahl 2023: Wer will hier mit wem?",
+      "teaser": "Bei der TV-Runde zur Berliner Landtagswahl punktet Franziska Giffey mit Landesmutterqualitäten. Um ihre grüne Herausforderin wird es dagegen zeitweise recht einsam.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-02/berlin-wahl-2023-rbb-kandidatencheck-spitzenkandidaten-wiederholungswahl",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-02/berliner-spitzenkandidaten/wide__822x462",
+      "image_title": "Berlin-Wahl 2023: Wer will hier mit wem?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Generation Z in der Arbeitswelt: Nicht faul, nur auf der Suche",
+      "teaser": "Die Generation Z sei faul, heißt es oft. Doch das stimmt nicht: Junge Menschen setzen neue Prioritäten in einer apokalyptischen Welt – zum Vorteil aller.",
+      "url": "https://www.zeit.de/arbeit/2023-02/generation-z-arbeitswelt-zukunft",
+      "image_url": "https://img.zeit.de/arbeit/2023-02/bild-kommentar-genz/cinema__980x420",
+      "image_title": "Generation Z in der Arbeitswelt: Nicht faul, nur auf der Suche"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Riester-Rente • Das Beste aus Z+: Der Riester-Flop",
+      "teaser": "Die staatlich geförderte private Altersvorsorge wirft häufig zu wenig ab. Für wen sich ein Riester-Vertrag noch lohnt und wann man besser aussteigen sollte.",
+      "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-02/riester-rente-vertrag-tipps-alternativen-faq",
+      "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2023-02/riester-rente-altersvorsorge/wide__822x462",
+      "image_title": "Riester-Rente • Das Beste aus Z+: Der Riester-Flop"
     },
     {
       "title": "Rede zur Lage der Nation: US-Präsident Biden ruft Republikaner zur Zusammenarbeit auf",
@@ -98,25 +139,11 @@
       "image_title": "Rede zur Lage der Nation: US-Präsident Biden ruft Republikaner zur Zusammenarbeit auf"
     },
     {
-      "title": "Berlin-Wahl 2023: Wer will hier mit wem?",
-      "teaser": "Bei der TV-Runde zur Berliner Landtagswahl punktet Franziska Giffey mit Landesmutterqualitäten. Um ihre grüne Herausforderin wird es dagegen zeitweise recht einsam.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-02/berlin-wahl-2023-rbb-kandidatencheck-spitzenkandidaten-wiederholungswahl",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-02/berliner-spitzenkandidaten/cinema__980x420",
-      "image_title": "Berlin-Wahl 2023: Wer will hier mit wem?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Benjamin Brafman: \"Meine Frau meinte: Du hättest dich nicht für ihn einsetzen sollen!\"",
-      "teaser": "Benjamin Brafman ist Strafverteidiger in New York. Er hat Harvey Weinstein, Michael Jackson und einige Mafiabosse vertreten. Man finde in jedem etwas Gutes, sagt er.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/06/benjamin-brafman-strafverteidiger-new-york",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/06/der-mann-fuers-grobe-bild-1/wide__822x462",
-      "image_title": "Benjamin Brafman: \"Meine Frau meinte: Du hättest dich nicht für ihn einsetzen sollen!\""
-    },
-    {
-      "title": "Liveblog: Ukraine-News: Ukrainischer Sicherheitschef: \"Russland braucht Vorzeigeergebnisse\"",
-      "teaser": "Die Ukraine glaubt, dass Russland vor dem Jahrestag des Krieges noch militärische Erfolge verbuchen will. Dmytro Kuleba telefoniert mit Antony Blinken. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-02/olexij-danilow-ukraine-sicherheitschef/wide__822x462",
-      "image_title": "Ukraine-News: Ukrainischer Sicherheitschef: \"Russland braucht Vorzeigeergebnisse\""
+      "title": "Mutmaßliche Spionage: China lehnte Gespräch mit USA nach Abschuss von Ballon ab",
+      "teaser": "Nach Abschuss des chinesischen Ballons habe die US-Regierung versucht, China anzurufen. Einem Bericht zufolge ist der Ballon Teil eines Überwachungsprogramms.",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/china-ballon-usa-abschuss-gespraech-ablehnung",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-02/lloyd-austin-usa-pentagon-anruf-versuch-china/wide__822x462",
+      "image_title": "Mutmaßliche Spionage: China lehnte Gespräch mit USA nach Abschuss von Ballon ab"
     },
     {
       "title": "USA: Wichtige konservative Gruppen rücken von Donald Trump ab",
@@ -126,31 +153,10 @@
       "image_title": "USA: Wichtige konservative Gruppen rücken von Donald Trump ab"
     },
     {
-      "title": "Mutmaßliche Spionage: China lehnte Gespräch mit USA nach Abschuss von Ballon ab",
-      "teaser": "Nach Abschuss des chinesischen Ballons habe die US-Regierung versucht, China anzurufen. Einem Bericht zufolge ist der Ballon Teil eines Überwachungsprogramms.",
-      "url": "https://www.zeit.de/politik/ausland/2023-02/china-ballon-usa-abschuss-gespraech-ablehnung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-02/lloyd-austin-usa-pentagon-anruf-versuch-china/wide__822x462",
-      "image_title": "Mutmaßliche Spionage: China lehnte Gespräch mit USA nach Abschuss von Ballon ab"
-    },
-    {
-      "title": "Fehlgeburt: Das Schweigen überwinden",
-      "teaser": "Wenn eine Schwangerschaft endet, fehlen oft die Worte. Dabei wäre es so wichtig, Frauen ihre Schuld- und Versagensgefühle zu nehmen.",
-      "url": "https://www.zeit.de/kultur/2023-02/fehlgeburt-gefuehle-schuld-versagen",
-      "image_url": "https://img.zeit.de/kultur/2023-02/fehlgeburt-gefuehle-schuld-versagen-bild/cinema__980x420",
-      "image_title": "Fehlgeburt: Das Schweigen überwinden"
-    },
-    {
-      "title": "Insolventer Flughafen: Robert Habeck bestätigt Investitionsprüfverfahren für Flughafen Hahn",
-      "teaser": "Das Wirtschaftsministerium prüft, ob durch einen Verkauf des Flughafens Hahn die öffentliche Sicherheit gefährdet wird. Ein russischer Investor will den Flughafen kaufen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-02/flughafen-hahn-verkauf-insolvenz-wirtschaftsministerium-investitionspruefverfahren",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-02/flughafen-hahn-pruefung-verkauf/wide__822x462",
-      "image_title": "Insolventer Flughafen: Robert Habeck bestätigt Investitionsprüfverfahren für Flughafen Hahn"
-    },
-    {
       "title": "Künstliche Intelligenz: Microsoft baut Chatbot in seine Suchmaschine ein",
       "teaser": "Ein Co-Pilot fürs Internet: Microsoft verknüpft die Suchmaschine Bing und den Browser Edge eng mit der Technik hinter ChatGPT. Erste Funktionen sind bereits verfügbar.",
       "url": "https://www.zeit.de/digital/2023-02/microsoft-bing-chatgpt-ki-suchmaschine",
-      "image_url": "https://img.zeit.de/digital/2023-02/microsoft-bing-chatgpt-ki-suchmaschine-2/wide__822x462",
+      "image_url": "https://img.zeit.de/digital/2023-02/microsoft-bing-chatgpt-ki-suchmaschine-2/cinema__980x420",
       "image_title": "Künstliche Intelligenz: Microsoft baut Chatbot in seine Suchmaschine ein"
     },
     {
@@ -159,13 +165,6 @@
       "url": "https://www.zeit.de/politik/2023-02/usa-reise-habeck-le-maire-subventionsprogramm-ira",
       "image_url": "https://img.zeit.de/politik/2023-02/usa-reise-habeck-le-maire-subventionsprogramm-ira-bild/wide__822x462",
       "image_title": "Inflation Reduction Act: Robert Habeck sieht Entspannung im Subventionsstreit mit USA"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); RTL: Drauf gepfiffen",
-      "teaser": "RTL-Chef Thomas Rabe streicht die Magazinsparte Gruner + Jahr zusammen. Die Belegschaft protestiert lautstark, die \"Geo\"-Chefredaktion tritt ab. Wie geht es nun weiter?",
-      "url": "https://www.zeit.de/kultur/2023-02/rtl-gruner-jahr-bertelsmann-thomas-rabe-stellenabbau",
-      "image_url": "https://img.zeit.de/kultur/2023-02/rtl-gruner-jahr-bertelsmann-thomas-rabe-stellenabbau-bild/wide__822x462",
-      "image_title": "RTL: Drauf gepfiffen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Erfolgsdruck: \"Ich muss nicht der Beste sein und bin es auch nicht\"",
@@ -195,19 +194,26 @@
       "image_url": "https://img.zeit.de/2023/06/packshot-23-06-1000x620.png/imagegroup/original__1000x620"
     },
     {
-      "title": "Christian Lindner: Christian Lindner macht jetzt grüne Politik",
-      "teaser": "Als Grünkohlkönig Christian II. ist der FDP-Finanzminister auf einem ganz neuen Ökokurs. Sogar vegane Würste finden nun sein Wohlgefallen.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-02/christian-lindner-oldenburger-gruenkohlkoenig-gruene-finanzpolitik-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-02/christian-lindner-gruenkohl-fdp-niedersachsen/wide__822x462",
-      "image_title": "Christian Lindner: Christian Lindner macht jetzt grüne Politik"
+      "title": "Fehlgeburt: Das Schweigen überwinden",
+      "teaser": "Wenn eine Schwangerschaft endet, fehlen oft die Worte. Dabei wäre es so wichtig, Frauen ihre Schuld- und Versagensgefühle zu nehmen.",
+      "url": "https://www.zeit.de/kultur/2023-02/fehlgeburt-gefuehle-schuld-versagen",
+      "image_url": "https://img.zeit.de/kultur/2023-02/fehlgeburt-gefuehle-schuld-versagen-bild/wide__822x462",
+      "image_title": "Fehlgeburt: Das Schweigen überwinden"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Benjamin Brafman: \"Meine Frau meinte: Du hättest dich nicht für ihn einsetzen sollen!\"",
+      "teaser": "Benjamin Brafman ist Strafverteidiger in New York. Er hat Harvey Weinstein, Michael Jackson und einige Mafiabosse vertreten. Man finde in jedem etwas Gutes, sagt er.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/06/benjamin-brafman-strafverteidiger-new-york",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/06/der-mann-fuers-grobe-bild-1/wide__822x462",
+      "image_title": "Benjamin Brafman: \"Meine Frau meinte: Du hättest dich nicht für ihn einsetzen sollen!\""
     },
     {
       "title": "Gruner + Jahr: RTL streicht rund 500 Stellen im Bereich Zeitschriften",
       "url": "https://www.zeit.de/kultur/2023-02/rtl-bertelsmann-gruner-jahr-stellenabbau"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hauptschulabschluss: Schafft den Hauptschulabschluss ab!",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform"
+      "title": "Liveblog: Erdbeben in Türkei und Syrien: Zahl der Toten steigt auf 8.100, Botschafter dankt für Hilfe",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/erdbeben-turkei-syrien-live"
     },
     {
       "title": "Ukraine-Krieg: Boris Pistorius nach Kiew gereist – Bund genehmigt Leopard-1-Ausfuhr",
@@ -226,16 +232,16 @@
       "url": "https://www.zeit.de/2023/06/das-zeitalter-der-resilienz-jeremy-rifkin-klimawandel"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hauptschulabschluss: Schafft den Hauptschulabschluss ab!",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform"
-    },
-    {
       "title": "Ukraine-Krieg: Boris Pistorius nach Kiew gereist – Bund genehmigt Leopard-1-Ausfuhr",
       "url": "https://www.zeit.de/politik/ausland/2023-02/verteidigungsminister-boris-pistorius-in-die-ukraine-gereist"
     },
     {
       "title": "Warnstreiks bei der Post: Heulend im Treppenhaus",
       "url": "https://www.zeit.de/arbeit/2023-02/warnstreik-deutsche-post-verdi-tarifkonflikt"
+    },
+    {
+      "title": "Gruner + Jahr: RTL streicht rund 500 Stellen im Bereich Zeitschriften",
+      "url": "https://www.zeit.de/kultur/2023-02/rtl-bertelsmann-gruner-jahr-stellenabbau"
     },
     {
       "title": "Gruner + Jahr: RTL streicht rund 500 Stellen im Bereich Zeitschriften",
@@ -250,22 +256,22 @@
       "image_title": "Soziales Burn-out: Verabreden bis zum Breakdown"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hauptschulabschluss: Schafft den Hauptschulabschluss ab!",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform-bild/wide__822x462",
-      "image_title": "Hauptschulabschluss: Schafft den Hauptschulabschluss ab!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hauptschulabschluss: Schafft den Hauptschulabschluss ab!",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hauptschulabschluss: Schafft den Hauptschulabschluss ab!",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform"
-    },
-    {
       "title": "Ukraine-Krieg: Boris Pistorius nach Kiew gereist – Bund genehmigt Leopard-1-Ausfuhr",
-      "url": "https://www.zeit.de/politik/ausland/2023-02/verteidigungsminister-boris-pistorius-in-die-ukraine-gereist"
+      "url": "https://www.zeit.de/politik/ausland/2023-02/verteidigungsminister-boris-pistorius-in-die-ukraine-gereist",
+      "image_url": "https://img.zeit.de/politik/2023-02/verteidigungsminister-boris-pistorius-in-die-ukraine-gereist-bild-2/wide__822x462",
+      "image_title": "Ukraine-Krieg: Boris Pistorius nach Kiew gereist – Bund genehmigt Leopard-1-Ausfuhr"
+    },
+    {
+      "title": "Liveblog: Erdbeben in Türkei und Syrien: Zahl der Toten steigt auf 8.100, Botschafter dankt für Hilfe",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/erdbeben-turkei-syrien-live"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hauptschulabschluss: Schafft den Hauptschulabschluss ab!",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-02/hauptschulabschluss-ausbildung-arbeitsplatz-stigmatisierung-reform"
+    },
+    {
+      "title": "Warnstreiks bei der Post: Heulend im Treppenhaus",
+      "url": "https://www.zeit.de/arbeit/2023-02/warnstreik-deutsche-post-verdi-tarifkonflikt"
     },
     {
       "title": "Ukraine-Krieg: Boris Pistorius nach Kiew gereist – Bund genehmigt Leopard-1-Ausfuhr",
@@ -276,15 +282,15 @@
       "url": "https://www.zeit.de/2023/06/das-zeitalter-der-resilienz-jeremy-rifkin-klimawandel"
     },
     {
-      "title": "Warnstreiks bei der Post: Heulend im Treppenhaus",
-      "url": "https://www.zeit.de/arbeit/2023-02/warnstreik-deutsche-post-verdi-tarifkonflikt"
+      "title": "Gruner + Jahr: RTL streicht rund 500 Stellen im Bereich Zeitschriften",
+      "url": "https://www.zeit.de/kultur/2023-02/rtl-bertelsmann-gruner-jahr-stellenabbau"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Generation Z in der Arbeitswelt: Nicht faul, nur auf der Suche",
-      "teaser": "Die Generation Z sei faul, heißt es oft. Doch das stimmt nicht: Junge Menschen setzen neue Prioritäten in einer apokalyptischen Welt – zum Vorteil aller.",
-      "url": "https://www.zeit.de/arbeit/2023-02/generation-z-arbeitswelt-zukunft",
-      "image_url": "https://img.zeit.de/arbeit/2023-02/bild-kommentar-genz/cinema__980x420",
-      "image_title": "Generation Z in der Arbeitswelt: Nicht faul, nur auf der Suche"
+      "title": "Z+ (abopflichtiger Inhalt); RTL: Drauf gepfiffen",
+      "teaser": "RTL-Chef Thomas Rabe streicht die Magazinsparte Gruner + Jahr zusammen. Die Belegschaft protestiert lautstark, die \"Geo\"-Chefredaktion tritt ab. Wie geht es nun weiter?",
+      "url": "https://www.zeit.de/kultur/2023-02/rtl-gruner-jahr-bertelsmann-thomas-rabe-stellenabbau",
+      "image_url": "https://img.zeit.de/kultur/2023-02/rtl-gruner-jahr-bertelsmann-thomas-rabe-stellenabbau-bild/cinema__980x420",
+      "image_title": "RTL: Drauf gepfiffen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Adam Broomberg: \"Ich mache mir Sorgen um meine Sicherheit in Deutschland\"",
@@ -352,11 +358,11 @@
       "image_title": "EU-Gipfelerklärung: Österreich droht in Migrationsstreit offenbar mit Blockade"
     },
     {
-      "title": "Frankreich: Zehntausende demonstrieren gegen Emmanuel Macrons Rentenreform",
-      "teaser": "Züge und Metros fallen aus, Lehrer bleiben zu Hause: In vielen Städten Frankreichs wird gestreikt. Die Proteste richten sich gegen die geplante Rentenreform.",
-      "url": "https://www.zeit.de/politik/ausland/2023-02/frankreich-streik-rentenreform-emmanuel-macron",
-      "image_url": "https://img.zeit.de/politik/2023-02/frankreich-streik-rentenreform-emmanuel-macron-bild/wide__822x462",
-      "image_title": "Frankreich: Zehntausende demonstrieren gegen Emmanuel Macrons Rentenreform"
+      "title": "Insolventer Flughafen: Robert Habeck bestätigt Investitionsprüfverfahren für Flughafen Hahn",
+      "teaser": "Das Wirtschaftsministerium prüft, ob durch einen Verkauf des Flughafens Hahn die öffentliche Sicherheit gefährdet wird. Ein russischer Investor will den Flughafen kaufen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-02/flughafen-hahn-verkauf-insolvenz-wirtschaftsministerium-investitionspruefverfahren",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-02/flughafen-hahn-pruefung-verkauf/wide__822x462",
+      "image_title": "Insolventer Flughafen: Robert Habeck bestätigt Investitionsprüfverfahren für Flughafen Hahn"
     },
     {
       "title": "Erdbeben in Türkei und Syrien: Zahl der Toten übersteigt 7.000, Tausende Helfer im Katastrophengebiet",
@@ -591,10 +597,17 @@
       "image_title": "Verlagsangebot: Englischquiz – Wie gut kennen Sie die Stadt, die niemals schläft?"
     },
     {
+      "title": "Christian Lindner: Christian Lindner macht jetzt grüne Politik",
+      "teaser": "Als Grünkohlkönig Christian II. ist der FDP-Finanzminister auf einem ganz neuen Ökokurs. Sogar vegane Würste finden nun sein Wohlgefallen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-02/christian-lindner-oldenburger-gruenkohlkoenig-gruene-finanzpolitik-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-02/christian-lindner-gruenkohl-fdp-niedersachsen/cinema__980x420",
+      "image_title": "Christian Lindner: Christian Lindner macht jetzt grüne Politik"
+    },
+    {
       "title": "Regenbogen: Alle Farben für alle",
       "teaser": "Die Geschichte des Regenbogens geht zurück bis in die Antike. Heute steht er für Toleranz und ziert in den neuen Kollektionen Pullis, Hosen und Kleider.",
       "url": "https://www.zeit.de/zeit-magazin/2023/06/regenbogen-gay-pride-stil",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-01/regenbogen-gay-pride-stil-combo/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-01/regenbogen-gay-pride-stil-combo/wide__822x462",
       "image_title": "Regenbogen: Alle Farben für alle"
     },
     {
@@ -605,13 +618,6 @@
       "image_title": "Beziehung: \"Nach und nach verblasste meine Liebe zu ihm\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zukunftsperspektiven: \"Du hast ja einiges vor mit mir\"",
-      "teaser": "Die 15-jährige Tochter lässt Gespräche über ihre berufliche Zukunft gerne versanden. Das ist auch besser so, weiß der Vater inzwischen.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/06/zukunftsperspektiven-berufswahl-pruefers-toechter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/06/zukunftsperspektiven-berufswahl-pruefers-toechter-bild/wide__822x462",
-      "image_title": "Zukunftsperspektiven: \"Du hast ja einiges vor mit mir\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Soziales Burn-out: Verabreden bis zum Breakdown",
       "teaser": "Neun Verabredungen in der Woche sind für Luisa normal. Obwohl sie häufig total davon erschöpft ist, sagt sie nicht ab. Warum sind manche Menschen süchtig nach Treffen?",
       "url": "https://www.zeit.de/campus/2023-01/soziales-burnout-stress-verabredungen-psychologie",
@@ -619,11 +625,11 @@
       "image_title": "Soziales Burn-out: Verabreden bis zum Breakdown"
     },
     {
-      "title": "Verlagsangebot Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot Nicht nur irgendwas studieren",
+      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
+      "image_title": "Nicht nur irgendwas studieren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Persönlichkeitsentwicklung: \"Geschwister tragen nicht die Schuld für alles, was schiefgeht\"",
@@ -766,36 +772,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
-      "url": "https://www.zeit.de/news/2023-02/08/krieg-gegen-die-ukraine-so-ist-die-lage"
+      "title": "Basketball: LeBron James bricht Punkterekord in der NBA",
+      "url": "https://www.zeit.de/news/2023-02/08/lebron-james-bricht-punkterekord-in-der-nba"
     },
     {
-      "title": "Gastgewerbe: Verstöße gegen Mehrwegpflicht: Umweltverbände machen Druck",
-      "url": "https://www.zeit.de/news/2023-02/08/verstoesse-gegen-mehrwegpflicht-umweltverbaende-machen-druck"
+      "title": "Schifffahrt: Sexuelle Belästigung auf Handelsschiffen: Verband entsetzt",
+      "url": "https://www.zeit.de/news/2023-02/08/sexuelle-belaestigung-auf-handelsschiffen-verband-entsetzt"
     },
     {
-      "title": "Künstliche Intelligenz: Microsoft und ChatGPT zum Angriff auf Google",
-      "url": "https://www.zeit.de/news/2023-02/08/microsoft-und-chatgpt-zum-angriff-auf-google"
+      "title": "Ehrenamt: Rente für Feuerwehrleute? Kommunen skeptisch",
+      "url": "https://www.zeit.de/news/2023-02/08/rente-fuer-feuerwehrleute-kommunen-skeptisch"
     },
     {
-      "title": "Wirtschaftsbeziehungen: Habeck wirbt in USA um besseren Marktzugang",
-      "url": "https://www.zeit.de/news/2023-02/08/habeck-wirbt-in-usa-um-besseren-marktzugang"
+      "title": "Kommunen: «Das kann nicht gerecht sein»: Bayaz kritisiert Lindner",
+      "url": "https://www.zeit.de/news/2023-02/08/das-kann-nicht-gerecht-sein-bayaz-kritisiert-lindner"
     },
     {
-      "title": "Katastrophen: Kleineres Erdbeben auch im Westjordanland",
-      "url": "https://www.zeit.de/news/2023-02/08/kleineres-erdbeben-auch-im-westjordanland"
+      "title": "Wintersport: Biathletin Voigt vor Start der Heim-WM: Aufregung ist da",
+      "url": "https://www.zeit.de/news/2023-02/08/biathletin-voigt-vor-start-der-heim-wm-aufregung-ist-da"
     },
     {
-      "title": "USA: US-Präsident Biden hält Rede zur Lage der Nation",
-      "url": "https://www.zeit.de/news/2023-02/08/biden-zur-lage-der-nation-tyre-nichols-familie-zu-gast"
+      "title": "Verkehr: Landkreis Wittenberg bekommt ein Radverkehrskonzept",
+      "url": "https://www.zeit.de/news/2023-02/08/landkreis-wittenberg-bekommt-ein-radverkehrskonzept"
     },
     {
-      "title": "Monarchie: Neue Briefmarken mit König Charles III. enthüllt",
-      "url": "https://www.zeit.de/news/2023-02/08/neue-briefmarken-mit-koenig-charles-iii-enthuellt"
+      "title": "Landkreis Meißen: Zwei Autofahrer sterben bei Unfall auf Landstraße",
+      "url": "https://www.zeit.de/news/2023-02/08/zwei-autofahrer-sterben-bei-unfall-auf-landstrasse"
     },
     {
-      "title": "Autobauer: VW-Betriebsgewinn legt 2022 zu - Lieferprobleme bleiben",
-      "url": "https://www.zeit.de/news/2023-02/08/vw-betriebsgewinn-legt-2022-zu-lieferprobleme-bleiben"
+      "title": "Geschichte: «Verschickungskinder»: Land für Aufarbeitung der Schicksale",
+      "url": "https://www.zeit.de/news/2023-02/08/verschickungskinder-land-fuer-aufarbeitung-der-schicksale"
     }
   ]
 }
