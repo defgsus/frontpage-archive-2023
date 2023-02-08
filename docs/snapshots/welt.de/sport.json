@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-08T09:13:30",
+  "timestamp": "2023-02-08T10:15:21",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://img.welt.de/img/sport/mobile243657513/6822500617-ci102l-w1024/Eintracht-Frankfurt-SV-Darmstadt-98.jpg",
+      "image_title": "Beifall für die Fans: Mario Götze bedankt sich nach dem Sieg gegen Darmstadt bei den Eintracht-Fans für die Unterstützung",
+      "topic": "Gala im DFB-Pokal"
+    },
     {
       "title": "Bundesliga",
       "url": "https://www.welt.de/sport/fussball/bundesliga/",
@@ -40,13 +47,6 @@
       "image_url": "https://img.welt.de/img/sport/mobile243655165/9132507847-ci102l-w1024/Eintracht-Frankfurts-Praesident-Peter-Fischer.jpg",
       "image_title": "Eintracht Frankfurts Präsident Peter Fischer",
       "topic": "Drogen-Razzia bei Peter Fischer"
-    },
-    {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile243654639/6522502177-ci102l-w1024/SV-Sandhausen-SC-Freiburg.jpg",
-      "image_title": "Der SC Freiburg gewinnt in Sandhausen und zieht ins Viertelfinale des DFB-Pokals ein",
-      "topic": "DFB-Pokal"
     },
     {
       "title": "Matarazzo ist neuer Cheftrainer in Hoffenheim",
@@ -201,11 +201,18 @@
       "author": "Steven Jörgensen"
     },
     {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Der SC Freiburg gewinnt in Sandhausen und zieht ins Viertelfinale des DFB-Pokals ein",
+      "topic": "DFB-Pokal"
+    },
+    {
       "title": "Leidenschaft in Blau und Weiß",
       "url": "https://www.welt.de/sport/plus243649527/VfL-Bochum-Leidenschaft-in-Blau-und-Weiss.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Bochums Innenverteidiger Keven Schlotterbeck steht mit dem Achtelfinale im DFB-Pokal ein besonderer Abend bevor. Bei Gegner Dortmund spielt sein Bruder Nico",
-      "topic": "VfL Bochum vor DFB-Pokal",
+      "topic": "VfL Bochum",
       "author": "Oliver Müller"
     },
     {
@@ -368,13 +375,6 @@
       "image_title": "Manuel Neuer",
       "topic": "Neuer-Beben bei Bayern",
       "author": "Julien Wolff"
-    },
-    {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Grätschen gegen den Abstieg: Schalkes Soichiro Kozuki mit vollem Einsatz gegen Kouadio Kone (l.)",
-      "topic": "Enttäuschender West-Schlager"
     },
     {
       "title": "„Sie können ohne zu hungern vier Kilo in der ersten Woche abnehmen“",
