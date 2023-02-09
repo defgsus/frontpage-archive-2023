@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-09T14:12:05",
+  "timestamp": "2023-02-09T15:13:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.38d21a4a4bba15109d76",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.f044b01ff89fbca8abd2",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Typo3",
+      "url": "https://www.heise.de/news/CMS-Typo3-Schwachstelle-ermoeglicht-Cross-Site-Scripting-7490680.html"
+    },
     {
       "title": "Nvidia GeForce Experience",
       "url": "https://www.heise.de/news/Angreifer-koennten-ueber-Nvidia-GeForce-Experience-Daten-manipulieren-7490068.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Acht-Sicherheitsluecken-in-OpenSSL-geschlossen-7489560.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Angriffsflaechen-in-Android-10-11-12-13-verkleinert-7489167.html"
+      "title": "Datenleck: Deezer informiert Kunden jetzt per E-Mail",
+      "teaser": "230 Millionen Deezer-Datensätze wurden entwendet und etwa beim Have-I-been-pwned-Projekt hinzugefügt. Jetzt informiert Deezer betroffene Kunden darüber.",
+      "url": "https://www.heise.de/news/Datenleck-Deezer-informiert-Kunden-jetzt-per-E-Mail-7490760.html"
+    },
+    {
+      "title": "CMS Typo3: Hochriskante XSS-Lücke ermöglicht Unterschieben von schädlichem HTML",
+      "teaser": "Im Content-Management-System Typo3 könnten Angreifer eine Cross-Site-Scripting-Lücke ausnutzen, um schädlichen HTML-Code einzuschleusen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/CMS-Typo3-Schwachstelle-ermoeglicht-Cross-Site-Scripting-7490680.html",
+      "image_title": "Woman,Creating,Her,Own,Website,On,Computer, Wordpress, CMS, Bildschirm, Webseite,"
     },
     {
       "title": "Linux-Kernel 6.1 erhält offiziell LTS-Status",
@@ -143,17 +154,6 @@
       "teaser": "Die Entwickler haben den Quellcode von Dashlane öffentlich gemacht, sodass Interessierte etwa die Sicherheit des Passwortmanagers abklopfen können.",
       "url": "https://www.heise.de/news/Passwortmanager-Dashlane-macht-sich-nackig-7486575.html",
       "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
-    },
-    {
-      "title": "Razzien und Verhaftungen: Polizei knackt Krypto-Messenger Exclu",
-      "teaser": "Deutschen und niederländischen Strafverfolgern ist es gelungen, den verschlüsselten Kommunikationsdienst Exclu zu hacken. 48 Verdächtige wurden schon verhaftet.",
-      "url": "https://www.heise.de/news/Razzien-und-Verhaftungen-Polizei-knackt-Krypto-Messenger-Exclu-7486472.html"
-    },
-    {
-      "title": "l+f: WLAN formt Menschen",
-      "teaser": "Forscher tracken Personen mit Wi-Fi-Routern.",
-      "url": "https://www.heise.de/news/l-f-WLAN-formt-Menschen-7485694.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
