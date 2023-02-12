@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-12T12:22:25",
+  "timestamp": "2023-02-12T13:17:25",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243731479/0752505897-ci102l-w1024/Prozess-um-Juwelenraub-im-Gruenen-Gewoelbe.jpg",
+      "image_title": "Auch der Juwelenraub im Grünen Gewölbe wurde vor einem Oberlandesgericht verhandelt",
+      "topic": "Drei Fälle in Hamburg"
+    },
     {
       "title": "Hamburg",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -42,13 +49,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile243258479/8402504037-ci102l-w1024/DWO-IP-Wahl-AGH-Berlin23-Teaser-cw-allgemein.jpg",
       "image_title": "Die Wiederholung der Wahl in Berlin ist abgeschlossen. Erfahren Sie hier das Ergebnis",
       "topic": "Abgeordnetenhauswahl 2023"
-    },
-    {
-      "title": "Kriminalität",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile243715137/5982507917-ci102l-w1024/Blaulicht.jpg",
-      "image_title": "Die Polizei sichert einen Einsatzort.",
-      "topic": "Vorläufig festgenommen"
     },
     {
       "title": "Hamburg",
@@ -108,8 +108,15 @@
       "topic": "Berlin"
     },
     {
-      "title": "Nordrhein-Westfalen",
-      "url": "https://www.welt.de/regionales/nrw/",
+      "title": "Kriminalität",
+      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile243715137/5982507917-ci102l-w1024/Blaulicht.jpg",
+      "image_title": "Die Polizei sichert einen Einsatzort.",
+      "topic": "Vorläufig festgenommen"
+    },
+    {
+      "title": "„Ein Fest der Entgrenzung. Unter Zuhilfenahme von Substanzen“",
+      "url": "https://www.welt.de/regionales/nrw/article243646393/Koelner-Karneval-Was-man-zum-200-Jahr-Jubilaeum-wissen-sollte.html",
       "image_url": "https://img.welt.de/img/regionales/nrw/mobile243647471/5932508557-ci102l-w1024/Weiberfastnacht-Beginn-des-Strassenkarnevals.jpg",
       "image_title": "Ein Karnevalist in Miiltärischer Uniform und ein Clown mit roter Fransenperücke stehen nebeneinander",
       "topic": "Kölner Karneval",
@@ -128,14 +135,6 @@
       "url": "https://www.welt.de/regionales/nrw/article243567607/Modeschoepfer-Hanns-Friedrichs-Hungrig-nach-neuer-Kleidung.html",
       "topic": "Modeschöpfer Hanns Friedrichs",
       "author": "Christiane Hoffmans"
-    },
-    {
-      "title": "Der Anti-Merz",
-      "url": "https://www.welt.de/regionales/nrw/plus243624377/Der-Anti-Merz-Dennis-Radtke-Kronprinz-der-CDU-Linken.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile243627073/9872504567-ci102l-w1024/Betriebsraetekonferenz-von-CDU-und-CDA-in-Berlin-2.jpg",
-      "image_title": "CDU-Parteichef Friedrich Merz und CDA-Politiker Dennis Radtke lauschen einem Redner bei der Betriebsrätekonferenz von CDU und CDA im Konrad-Adenauer-Haus.",
-      "topic": "Kronprinz der CDU-Linken",
-      "author": "Till-Reimer Stoldt"
     },
     {
       "title": "„Es braucht jetzt eine geringere Anzahl an Geflüchteten in den Kommunen“",
