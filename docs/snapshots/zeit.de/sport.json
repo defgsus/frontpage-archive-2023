@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-13T03:18:22",
+  "timestamp": "2023-02-13T04:15:59",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -60,10 +60,17 @@
       "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Fsport%2Findex&entry_service=sonstige"
     },
     {
-      "title": "Liveblog: Superbowl: Das Offensivspektakel",
-      "teaser": "Die Quarterbacks und Offensiven liefern: Zwischen den Kansas City Chiefs und den Philadelphia Eagles geht es nun um alles. Die letzten Minuten im Superbowl-Liveblog",
+      "title": "American Football: Kansas City Chiefs gewinnen Superbowl",
+      "teaser": "Zur Halbzeit liegen die Kansas City Chiefs noch zehn Punkte gegen die Philadelphia Eagles zurück. Dann dreht das Team aus Missouri die Partei und gewinnt den Superbowl.",
+      "url": "https://www.zeit.de/sport/2023-02/american-football-kansas-city-chiefs-super-bowl",
+      "image_url": "https://img.zeit.de/sport/2023-02/american-football-kansas-city-chiefs-super-bowl-bild/cinema__980x420"
+    },
+    {
+      "title": "Liveblog: Superbowl: Gegen den eigenen Knöchel und die Schmerzen",
+      "teaser": "Die Kansas City Chiefs gewinnen den 57. Superbowl. Weil Patrick Mahomes sich auch von einer Verletzung nicht aufhalten lässt. Das Superbowl-Liveblog zum Nachlesen",
       "url": "https://www.zeit.de/sport/2023-02/super-bowl-2023-live",
-      "image_url": "https://img.zeit.de/sport/2023-02/super-bowl-2023-live-chiefs-eagles-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-02/superbowl-2023-live-patrick-mahomes-nfl-titel-bild/wide__822x462",
+      "image_title": "Superbowl: Gegen den eigenen Knöchel und die Schmerzen"
     },
     {
       "title": "Bundesliga, 20. Spieltag: Köln siegt gegen Frankfurt",
@@ -71,13 +78,6 @@
       "url": "https://www.zeit.de/sport/2023-02/bundesliga-20-spieltag-fc-schalke-vfl-wolfsburg",
       "image_url": "https://img.zeit.de/sport/2023-02/koeln-frankfurt/wide__822x462",
       "image_title": "Bundesliga, 20. Spieltag: Köln siegt gegen Frankfurt"
-    },
-    {
-      "title": "Super Bowl 2023: Das Finale der schweren Jungs",
-      "teaser": "Im Football sind auch diejenigen wichtig, die wegen ihrer Körperfülle sonst diskriminiert werden. Sie stehen im Weg herum, schubsen die anderen, können aber auch tänzeln.",
-      "url": "https://www.zeit.de/sport/2023-02/super-bowl-2023-gewicht-spieler-chris-jones",
-      "image_url": "https://img.zeit.de/sport/2023-02/super-bowl-2023-spieler-gewicht-chris-jones/wide__822x462",
-      "image_title": "Super Bowl 2023: Das Finale der schweren Jungs"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Big-Wave-Surfen: Der Tod in der Welle",
@@ -94,6 +94,13 @@
       "image_title": "Handball-WM: Der gelassene Wolff"
     },
     {
+      "title": "Super Bowl 2023: Das Finale der schweren Jungs",
+      "teaser": "Im Football sind auch diejenigen wichtig, die wegen ihrer Körperfülle sonst diskriminiert werden. Sie stehen im Weg herum, schubsen die anderen, können aber auch tänzeln.",
+      "url": "https://www.zeit.de/sport/2023-02/super-bowl-2023-gewicht-spieler-chris-jones",
+      "image_url": "https://img.zeit.de/sport/2023-02/super-bowl-2023-spieler-gewicht-chris-jones/wide__822x462",
+      "image_title": "Super Bowl 2023: Das Finale der schweren Jungs"
+    },
+    {
       "title": "Olympische Spiele: IOC-Präsident Bach weist Einmischung bei Russland-Entscheidung zurück",
       "teaser": "Regierungen hätten nicht zu entscheiden, wer an sportlichen Wettkämpfen teilnimmt, sagt der Chef des Olympischen Komitees. Er will russische Athleten nicht ausschließen.",
       "url": "https://www.zeit.de/sport/2023-02/ioc-russland-ausschluss-ukraine-olympische-spiele",
@@ -108,13 +115,6 @@
       "image_title": "Fitnessübung: Der Wandsitz"
     },
     {
-      "title": "CTE im Football: Der Specht und die Gehirne der Footballspieler",
-      "teaser": "Auch im Superbowl wird ihn ein Spieler tragen: Ein Nackenring soll die Köpfe der Footballer schützen – sagt der Hersteller. Doch Experten sehen darin sogar eine Gefahr.",
-      "url": "https://www.zeit.de/sport/2023-02/football-cte-super-bowl-nackenschutz",
-      "image_url": "https://img.zeit.de/sport/2023-02/football-cte-super-bowl-nackenschutz-bild/wide__822x462",
-      "image_title": "CTE im Football: Der Specht und die Gehirne der Footballspieler"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -122,11 +122,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Eintracht Frankfurt: Plötzlich wird Fußball von Sterneköchen serviert",
-      "teaser": "Seit seiner Kindheit ist unser Autor Eintracht-Fan, lange war sein Leben also zähe, unappetitliche Kost. Heute ist, sozusagen, aus Leberwurst Ananas geworden.",
-      "url": "https://www.zeit.de/sport/2023-02/eintracht-frankfurt-mario-goetze-randal-kolo-muani-sternekoch-gruenflaeche",
-      "image_url": "https://img.zeit.de/sport/2023-02/wochenende-07-gruenflaeche-ananas-bild/wide__822x462",
-      "image_title": "Eintracht Frankfurt: Plötzlich wird Fußball von Sterneköchen serviert"
+      "title": "CTE im Football: Der Specht und die Gehirne der Footballspieler",
+      "teaser": "Auch im Superbowl wird ihn ein Spieler tragen: Ein Nackenring soll die Köpfe der Footballer schützen – sagt der Hersteller. Doch Experten sehen darin sogar eine Gefahr.",
+      "url": "https://www.zeit.de/sport/2023-02/football-cte-super-bowl-nackenschutz",
+      "image_url": "https://img.zeit.de/sport/2023-02/football-cte-super-bowl-nackenschutz-bild/wide__822x462",
+      "image_title": "CTE im Football: Der Specht und die Gehirne der Footballspieler"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Skat: Das Lieblingsspiel der Deutschen",
@@ -143,6 +143,13 @@
       "image_title": "Vincent Keymer: \"Frühstück bis 10 Uhr ist schon brutal\""
     },
     {
+      "title": "Eintracht Frankfurt: Plötzlich wird Fußball von Sterneköchen serviert",
+      "teaser": "Seit seiner Kindheit ist unser Autor Eintracht-Fan, lange war sein Leben also zähe, unappetitliche Kost. Heute ist, sozusagen, aus Leberwurst Ananas geworden.",
+      "url": "https://www.zeit.de/sport/2023-02/eintracht-frankfurt-mario-goetze-randal-kolo-muani-sternekoch-gruenflaeche",
+      "image_url": "https://img.zeit.de/sport/2023-02/wochenende-07-gruenflaeche-ananas-bild/wide__822x462",
+      "image_title": "Eintracht Frankfurt: Plötzlich wird Fußball von Sterneköchen serviert"
+    },
+    {
       "title": "Biathlon-WM: Denise Herrmann-Wick holt Gold im Sprint",
       "teaser": "Im ersten Einzelrennen der WM in Oberhof hat Denise Hermann-Wick die erste Medaille für Deutschland gewonnen. Sie ist die erste deutsche Sprint-Weltmeisterin seit 2012.",
       "url": "https://www.zeit.de/sport/2023-02/biathlon-wm-oberhof-denise-hermann-wick-goldmedaille-sprint",
@@ -155,13 +162,6 @@
       "url": "https://www.zeit.de/sport/2023-02/rb-leipzig-union-berlin-willi-orban-peter-fischer",
       "image_url": "https://img.zeit.de/sport/2023-02/timo-werner-maskottchen/wide__822x462",
       "image_title": "Bundesliga-Vorschau: Ossis gegen Wossis"
-    },
-    {
-      "title": "Mario Vušković: Angriff aufs Anti-Doping-System",
-      "teaser": "Zweiter Verhandlungstag im wichtigsten Dopingprozess des deutschen Fußballs: Die Verteidigung des HSV greift das Wada-Labor an, doch das pariert. Entscheidung vertagt",
-      "url": "https://www.zeit.de/sport/2023-02/mario-vuskovic-hsv-gerichtsprozess-doping",
-      "image_url": "https://img.zeit.de/sport/2023-02/mario-vuskovic-hsv-gerichtsprozess-doping-bild/wide__822x462",
-      "image_title": "Mario Vušković: Angriff aufs Anti-Doping-System"
     },
     {
       "title": "FC Bayern München: Er kennt seine Familie aber schlecht",
