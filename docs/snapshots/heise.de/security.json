@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-13T08:17:10",
+  "timestamp": "2023-02-13T09:13:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.4ad9ab9e8897816c47d5",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.6f01a0b89e88ac50ab00",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "CISA-Warnung: Attacken auf GoAnywhere MFT, Intel-Treiber und TerraMaster OS",
+      "url": "https://www.heise.de/news/CISA-Warnung-Attacken-auf-GoAnywhere-MFT-Intel-Treiber-und-TerraMaster-OS-7493633.html"
+    },
     {
       "title": "Typo3",
       "url": "https://www.heise.de/news/CMS-Typo3-Schwachstelle-ermoeglicht-Cross-Site-Scripting-7490680.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Notfallpatch-fuer-Dateiuebertragungsloesung-GoAnywhere-MFT-erschienen-7490040.html"
     },
     {
-      "title": "OpenSSL",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Acht-Sicherheitsluecken-in-OpenSSL-geschlossen-7489560.html"
+      "title": "iX-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend gegen Angriffe absichern – von der physischen Sicherheit, über Verschlüsselung und 2FA bis zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Fruehbucherrabatt-7488883.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "Cyber-Angriff auf NATO-Webseiten - Pro-russische Hacker als Täter?",
@@ -54,15 +60,21 @@
       "image_title": "Flaggen vor dem NATO-Hauptquartier"
     },
     {
-      "title": "ChatGPT: So gut lügt die KI",
-      "teaser": "Das aktuelle Security-Quiz erstellte Jürgen Schmidt mit ChatGPT. Heraus kamen interessante Erkenntnisse über die Grenzen von ChatGPT und Gefahren von KI.​ ​",
-      "url": "https://www.heise.de/hintergrund/Hintergrund-zum-Quiz-ChatGPT-erfindet-Security-7491475.html",
-      "image_title": "Ai(artificial,Intelligence),Concept. Bard, ChatGPT, KI, Chatbot"
+      "title": "#TGIQF: Kennen Sie sich mit IT-Sicherheits-Abkürzungen aus?",
+      "teaser": "Ein Quiz zum Abkürzungsfimmel (AküFi) zum Schwerpunktthema IT-Sicherheit steht für diesen Freitag an. Kennen Sie auch die spezielleren Kurzformen?",
+      "url": "https://www.heise.de/hintergrund/TGIQF-Quiz-zu-IT-Sicherheits-Abkuerzungen-7487850.html",
+      "image_title": "Businesswoman,Pressing,Unlocking,On,Virtual,Screens,,Technology,For,Cyber,Attack,"
     },
     {
       "title": "Microsoft: Windows Subsystem for Android verbessert Kamera und Grafikausgabe",
       "teaser": "Microsoft verteilt ein Update für das Windows Subsystem for Android in den Windows 11 Insider-Kanälen. Verbessert werden die Sicherheit, Kamera und Grafik.",
       "url": "https://www.heise.de/news/Microsoft-Windows-Subsystem-for-Android-verbessert-Kamera-und-Grafikausgabe-7491536.html"
+    },
+    {
+      "title": "Sicherheitsvorfall bei Reddit: Angreifer erlangten Zugriff auf interne Systeme",
+      "teaser": "Ein Mitarbeiter des Social-News-Aggregator Reddit ist Opfer einer Phishing-Attacke geworden. Angreifer gelangten so an Zugangsdaten zu internen Systemen.",
+      "url": "https://www.heise.de/news/Sicherheitsvorfall-Angreifer-haben-Zugang-von-Reddit-Mitarbeiter-abgephisht-7491275.html",
+      "image_title": "Screenshot der Reddit-Meldung"
     },
     {
       "title": "Trickbot-Malware: USA und Großbritannien verhängen Sanktionen gegen Russen",
@@ -144,17 +156,6 @@
       "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
     },
     {
-      "title": "LKA-Warnung: Kinderpornografie-Posts nach Facebook-Hacks",
-      "teaser": "Nach dem Zugriff mit gestohlenen Zugangsdaten zu Facebook posten Cyberkriminelle dort Kinderpornografie. Die Betroffenen stehen danach vor gesperrtem Konto.",
-      "url": "https://www.heise.de/news/LKA-Warnung-Kinderpornografie-Posts-nach-Facebook-Hacks-7487612.html",
-      "image_title": "Polizei"
-    },
-    {
-      "title": "Dateiübertragungslösung: Zero-Day-Lücke in GoAnywhere-MFT-Servern",
-      "teaser": "Angreifer haben es derzeit auf Server mit GoAnywhere MFT abgesehen. Bislang gibt es kein Sicherheitsupdate. Eine temporäre Übergangslösung sichert Systeme ab.",
-      "url": "https://www.heise.de/news/Dateiuebertragungsloesung-Zero-Day-Luecke-in-GoAnywhere-MFT-Servern-7487393.html"
-    },
-    {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
       "teaser": "Phishing-Mails sind (leider) ein täglicher Begleiter. Doch gerade zu besonderen Anlässen steigt der Versand exponentiell. Darauf müssen Sie achten.",
       "url": "https://www.heise.de/ratgeber/Ratgeber-Bad-Cyber-Santa-geht-auf-Phishing-Tour-7396598.html",
@@ -171,6 +172,11 @@
       "url": "https://www.heise.de/meinung/Kommentar-BSI-Affaere-Boehmermann-und-Faeser-saegen-an-Schoenbohms-Stuhl-7295281.html"
     },
     {
+      "title": "Re: ESET scannt nicht, Ungültige Anfrage: Unsupported message(0)",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-scannt-nicht-Ungueltige-Anfrage-Unsupported-message-0/posting-42273719/show/"
+    },
+    {
       "title": "Sicheres Löschen von Festplatten",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Sicheres-Loeschen-von-Festplatten/posting-42273389/show/"
@@ -179,11 +185,6 @@
       "title": "Re: ESET Update hängt sich auf",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-ESET-Update-haengt-sich-auf/posting-42269496/show/"
-    },
-    {
-      "title": "Re: Desinfec't bootet nicht: ACPI Bios Error (bug): Failure creating named objec",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfec-t-bootet-nicht-ACPI-Bios-Error-bug-Failure-creating-named-objec/posting-42256132/show/"
     }
   ]
 }
