@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-13T12:24:59",
+  "timestamp": "2023-02-13T13:21:24",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -64,18 +64,6 @@
       "src": "https://live0.zeit.de/zon-er/zon-er-230103-hp.js",
       "id": "er-javascript",
       "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/berlin-wahl-2023/dashboardBE.38d8869cf92b1602106d.cached.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://interactive.zeit.de/g/2023/berlin-wahl-2023/dashboardBE.329e8c713a6f0ba3b16c.cached.js",
-      "id": null,
-      "text": null
     }
   ],
   "articles": [
@@ -84,17 +72,32 @@
       "url": "https://premium.zeit.de/bestellung/2098566?appLinkHandling=true&angebot=https%3A//premium.zeit.de/bestellung/2098566&url=https%3A//premium.zeit.de/abo/paywall%3Furl%3Dhttps%253A%252F%252Fwww.zeit.de%252F5-tipps?url=https%3A%2F%2Fwww.zeit.de%2Findex&entry_service=sonstige"
     },
     {
+      "title": "Früherer Verfassungsschutzpräsident: CDU-Vorstand beschließt Ausschlussverfahren gegen Hans-Georg Maaßen",
+      "teaser": "Die CDU-Spitze will den umstrittenen Ex-Geheimdienstchef Hans-Georg Maaßen aus der Partei ausschließen. Der Bundesvorstand entzog ihm außerdem die Mitgliedsrechte.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-02/cdu-vorstand-beschliesst-ausschlussverfahren-gegen-hans-georg-maassen",
+      "image_url": "https://img.zeit.de/politik/2023-02/hans-georg-maassen-cdu-ausschluss-bild/cinema__980x420",
+      "image_title": "hans-georg-maassen-cdu-ausschluss bild"
+    },
+    {
+      "title": "Möglicher Parteiausschluss: Warum Hans-Georg Maaßen ein Ausschluss aus der CDU droht",
+      "teaser": "Hat Ex-Verfassungsschutzpräsident Maaßen die Grundsätze der CDU verletzt? Die Führung will ihn aus der Partei ausschließen. Die wichtigsten Antworten zum Fall",
+      "url": "https://www.zeit.de/politik/deutschland/2023-02/hans-georg-maassen-parteiausschluss-cdu-haeufigste-fragen-faq",
+      "image_url": "https://img.zeit.de/politik/2023-02/hans-georg-maassen-parteiausschluss-cdu-haeufigste-fragen-faq-bild/wide__822x462",
+      "image_title": "Möglicher Parteiausschluss: Warum Hans-Georg Maaßen ein Ausschluss aus der CDU droht"
+    },
+    {
+      "title": "Livestream: Berlin-Wahl: Franziska Giffey äußert sich zum Ergebnis der Wiederholungswahl",
+      "teaser": "Die SPD erlebt bei der Berlin-Wahl deutliche Stimmverluste und landet hinter der CDU. Weiterregieren könnte sie dennoch. Was sagt die amtierende Bürgermeisterin dazu?",
+      "url": "https://www.zeit.de/politik/deutschland/2023-02/berlin-wahl-ergebnis-franziska-giffey-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-02/giffey-spd-berlin-live/wide__822x462",
+      "image_title": "Berlin-Wahl: Franziska Giffey äußert sich zum Ergebnis der Wiederholungswahl"
+    },
+    {
       "title": "Bestatter im Erdbebengebiet: \"Wir müssen pro Tag 150 bis 300 Verstorbene versorgen\"",
       "teaser": "Tote identifizieren, Seuchen vorbeugen und die Würde wahren: Bestatter Daniel Niemeyer erklärt, wie deutsche Einbalsamierer helfen, Bebenopfer in der Türkei beizusetzen.",
       "url": "https://www.zeit.de/wissen/2023-02/tuerkei-syrien-erdbeben-todesopfer-bestattung",
-      "image_url": "https://img.zeit.de/wissen/2023-02/tuerkei-syrien-erdbeben-todesopfer-bestattung-bild/cinema__980x420"
-    },
-    {
-      "title": "Türkei und Syrien: Mehrere Deutsche nach Erdbebenkatastrophe noch vermisst",
-      "teaser": "Das Auswärtige Amt geht davon aus, dass unter den Erdbebenopfern auch Deutsche sind. Die Türkei soll erneut ein kurdisches Ziel in Syrien angegriffen haben.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/tuerkei-syrien-erdbeben-deutsche-vermisst",
-      "image_url": "https://img.zeit.de/politik/2023-02/erdbeben-tuerkei-syrien-vermisste-deutsche-bild/wide__822x462",
-      "image_title": "Türkei und Syrien: Mehrere Deutsche nach Erdbebenkatastrophe noch vermisst"
+      "image_url": "https://img.zeit.de/wissen/2023-02/tuerkei-syrien-erdbeben-todesopfer-bestattung-bild/cinema__980x420",
+      "image_title": "Bestatter im Erdbebengebiet: \"Wir müssen pro Tag 150 bis 300 Verstorbene versorgen\""
     },
     {
       "title": "Liveblog: Ukraine-News: Bundeswehr startet Ausbildung ukrainischer Soldaten am Leopard 2",
@@ -111,25 +114,18 @@
       "image_title": "Spionage: China beschuldigt USA in Ballon-Affäre"
     },
     {
-      "title": "No-Fly-List der USA: In schlechter Gesellschaft",
-      "teaser": "Zehntausende stehen auf Terrorlisten der USA und dürfen dort nicht einreisen. Unter ihnen viele Unbescholtene, auch Deutsche. Ihre Chance, das zu ändern, ist nahe null.",
-      "url": "https://www.zeit.de/politik/2023-02/usa-no-fly-liste-einreise-terrorismus-unschuld",
-      "image_url": "https://img.zeit.de/politik/2023-02/usa-no-fly-liste-einreise-terrorismus-unschuld-bild/wide__822x462",
-      "image_title": "No-Fly-List der USA: In schlechter Gesellschaft"
+      "title": "Z+ (abopflichtiger Inhalt); Volker Kitz über Konzentration: \"Deswegen erleben Softwareprogrammierer oft einen Flow\"",
+      "teaser": "Sich zu konzentrieren, fällt vielen Menschen immer schwerer. Der Autor Volker Kitz weiß, wie Körper und Gedanken zusammenhängen und wie gute Konzentration gelingen kann.",
+      "url": "https://www.zeit.de/arbeit/2023-01/volker-kitz-konzentration-buch-arbeit-digitalisierung",
+      "image_url": "https://img.zeit.de/arbeit/2023-01/volker-kitz-konzentration-buch-arbeit-digitalisierung-aufmacher4/cinema__980x420",
+      "image_title": "Volker Kitz über Konzentration: \"Deswegen erleben Softwareprogrammierer oft einen Flow\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Harald Martenstein: Sätze, die das Arbeitsklima vergiften",
       "teaser": "Es gibt Phrasen, die sollte man laut Karriere-Ratgeberinnen auf keinen Fall im Büro sagen – unser Autor hat es trotzdem getan. Muss er sich jetzt ändern?",
       "url": "https://www.zeit.de/zeit-magazin/2023/07/harald-martenstein-kommunikation-buero-job",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-02/harald-martenstein-kommunikation-buero-job-bild/cinema__980x420__A3E6BB",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-02/harald-martenstein-kommunikation-buero-job-bild/wide__822x462__A3E6BB",
       "image_title": "Harald Martenstein: Sätze, die das Arbeitsklima vergiften"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Depressionen und Arbeit • Das Beste aus Z+: Ein Kranker mit geheimer Superpower",
-      "teaser": "Markus Allendorf ist ein Macher: dynamisch, stark, erfolgreich. Dann wird er depressiv. Er lernt, mit der Krankheit zu leben und zu arbeiten. Und hilft sogar Kollegen.",
-      "url": "https://www.zeit.de/arbeit/2023-02/depressionen-arbeit-burnout-therapie",
-      "image_url": "https://img.zeit.de/arbeit/2023-02/depressionen-arbeit-burnout/wide__822x462",
-      "image_title": "Depressionen und Arbeit • Das Beste aus Z+: Ein Kranker mit geheimer Superpower"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schulreife: Ist mein Kind bereit für die Schule?",
@@ -137,6 +133,13 @@
       "url": "https://www.zeit.de/gesellschaft/schule/2023-01/schulbereitschaft-schulreife-schulfaehigkeit-kriterien-einschulung-kinder",
       "image_url": "https://img.zeit.de/gesellschaft/schule/2023-02/schulreife-schulfaehigkeit-kriterien-einschulung-kinder/wide__822x462",
       "image_title": "Schulreife: Ist mein Kind bereit für die Schule?"
+    },
+    {
+      "title": "Optimierungspodcast: So halten Sie Präsentationen, die wirklich begeistern",
+      "teaser": "Wer das Publikum mit einem Vortrag begeistern will, sollte sich selbst in den Mittelpunkt stellen. Das und mehr lernen Lisa und Sebastian in ihrer neuen Podcastfolge.",
+      "url": "https://www.zeit.de/entdecken/2023-02/praesentation-selbsbewusstsein-ratgeber-podcast",
+      "image_url": "https://img.zeit.de/entdecken/2023-02/praesentationen-geben-tipps-ratgeber-podcast/cinema__980x420",
+      "image_title": "Optimierungspodcast: So halten Sie Präsentationen, die wirklich begeistern"
     },
     {
       "title": "Wahl in Berlin: Landeswahlleiter prüft Neuauszählung wegen knappen SPD-Vorsprungs",
@@ -160,13 +163,6 @@
       "image_title": "Israel: Tausende Menschen protestieren vor Knesset gegen geplante Justizreform"
     },
     {
-      "title": "Möglicher Parteiausschluss: Warum Hans-Georg Maaßen ein Ausschluss aus der CDU droht",
-      "teaser": "Hat Ex-Verfassungsschutzpräsident Maaßen die Grundsätze der CDU verletzt? Nun berät die Parteiführung über ein Ausschlussverfahren. Die wichtigsten Antworten zum Fall",
-      "url": "https://www.zeit.de/politik/deutschland/2023-02/hans-georg-maassen-parteiausschluss-cdu-haeufigste-fragen-faq",
-      "image_url": "https://img.zeit.de/politik/2023-02/hans-georg-maassen-parteiausschluss-cdu-haeufigste-fragen-faq-bild/wide__822x462",
-      "image_title": "Möglicher Parteiausschluss: Warum Hans-Georg Maaßen ein Ausschluss aus der CDU droht"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz: Die Zeitlupenwende",
       "teaser": "Deutschland muss wehrhafter werden. Doch ein Jahr nach Beginn des Ukraine-Krieges agiert die Bundesregierung immer noch wie in Friedenszeiten.",
       "url": "https://www.zeit.de/2023/07/olaf-scholz-ukraine-krieg-zeitenwende-aussenpolitik",
@@ -188,25 +184,25 @@
       "image_title": "ADHS bei Erwachsenen : Das muss doch ADHS sein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Aktienmarkt: Anleger, die auf Zahlen starren",
-      "teaser": "Viermal im Jahr können Investoren Unternehmen in die Bilanzen schauen. Für Profis sind die Berichte wichtig. Privatanleger können davon lernen – aber kaum profitieren.",
-      "url": "https://www.zeit.de/wirtschaft/boerse/2023-02/aktienmarkt-berichtssaison-quartalszahlen-privatanleger-geldanlage",
-      "image_url": "https://img.zeit.de/wirtschaft/boerse/2023-02/aktienmarkt-berichtssaison-quartalszahlen-privatanleger-geldanlage-bild/wide__822x462",
-      "image_title": "Aktienmarkt: Anleger, die auf Zahlen starren"
+      "title": "Handel: Maschinenbauer erzielen 2022 Rekordergebnis bei Exporten",
+      "teaser": "Laut Verband waren die Ausfuhren im Maschinenbau im vergangenen Jahr sechs Prozent höher als im Vorjahr. Das liegt aber auch an den hohen Preisen durch die Inflation.",
+      "url": "https://www.zeit.de/wirtschaft/2023-02/handel-maschinenbau-exporte-2022-rekord",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-02/deutschland-maschinenbau-export-bild/wide__822x462",
+      "image_title": "Handel: Maschinenbauer erzielen 2022 Rekordergebnis bei Exporten"
+    },
+    {
+      "title": "\"This Is Why\" von Paramore: Darum!",
+      "teaser": "Paramore waren schon im Geschäft, als Millennials noch Hausaufgaben und Zukunftspläne vor sich herschoben. Ihr neues Album \"This Is Why\" fühlt sich an wie ein Spätwerk.",
+      "url": "https://www.zeit.de/kultur/2023-02/this-is-why-paramore-album-hayley-williams",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-02/paramore-this-is-why/cinema__980x420",
+      "image_title": "\"This Is Why\" von Paramore: Darum!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Veganes Larb: Achtung, klebrig!",
       "teaser": "Larb, Laap oder Larp? Das Nationalgericht von Laos ist so gut, es hat viele Namen. Klebreis, Zitronengras und Pilze werden zu einem Salat, der süß, sauer und scharf ist.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-01/veganes-larb-tofu-reis-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-01/veganes-larb-tofu-reis-rezept-wochenmarkt-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-01/veganes-larb-tofu-reis-rezept-wochenmarkt-teaserbild/wide__822x462",
       "image_title": "Veganes Larb: Achtung, klebrig!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weite Hose: Die neue Weite",
-      "teaser": "Harry Styles trägt sie, Gucci bringt sie mit besonders viel Stoff auf den Laufsteg: Hosen sind jetzt extraweit. Ist das die Vorstufe zum männlichen Kleid?",
-      "url": "https://www.zeit.de/zeit-magazin/2023/07/weite-hose-stoff-mode-geschichte",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-02/weite-hose-stoff-mode-geschichte-teaser/wide__822x462",
-      "image_title": "Weite Hose: Die neue Weite"
     },
     {
       "title": "Politik : Der Riss",
@@ -238,8 +234,8 @@
       "url": "https://www.zeit.de/gesellschaft/schule/2023-01/schulbereitschaft-schulreife-schulfaehigkeit-kriterien-einschulung-kinder"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk: Was ist nur mit ihm passiert?",
-      "url": "https://www.zeit.de/2023/07/elon-musk-tesla-spacex-twitter"
+      "title": "Z+ (abopflichtiger Inhalt); Spionageverdacht: Was über die abgeschossenen Flugobjekte bekannt ist",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/usa-kanada-flugobjekte-china-ballon-spionageverdacht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Arzt im Ruhestand: \"Im Jahr zahle ich etwa 10.000 Euro für unser Segelboot\"",
@@ -280,8 +276,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-02/nordamerika-usa-kanada-flugobjekt-abschuss"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elon Musk: Was ist nur mit ihm passiert?",
-      "url": "https://www.zeit.de/2023/07/elon-musk-tesla-spacex-twitter"
+      "title": "Z+ (abopflichtiger Inhalt); Spionageverdacht: Was über die abgeschossenen Flugobjekte bekannt ist",
+      "url": "https://www.zeit.de/politik/ausland/2023-02/usa-kanada-flugobjekte-china-ballon-spionageverdacht"
     },
     {
       "title": "Wiederholungswahl in Berlin: \"Die Stimme der FDP innerhalb der Ampel muss deutlicher sein\"",
@@ -365,24 +361,31 @@
       "image_title": "Gerstensuppe: Sag doch mal Bouillon!"
     },
     {
+      "title": "No-Fly-List der USA: In schlechter Gesellschaft",
+      "teaser": "Zehntausende stehen auf Terrorlisten der USA und dürfen dort nicht einreisen. Unter ihnen viele Unbescholtene, auch Deutsche. Ihre Chance, das zu ändern, ist nahe null.",
+      "url": "https://www.zeit.de/politik/2023-02/usa-no-fly-liste-einreise-terrorismus-unschuld",
+      "image_url": "https://img.zeit.de/politik/2023-02/usa-no-fly-liste-einreise-terrorismus-unschuld-bild/cinema__980x420",
+      "image_title": "No-Fly-List der USA: In schlechter Gesellschaft"
+    },
+    {
       "title": "Abgeordnetenhauswahl: Giffey und Jarasch wollen Rot-Grün-Rot weiterhin fortsetzen",
-      "teaser": "In Berlin wollen SPD und Grüne trotz Verlusten am liebsten in der bisherigen Koalition weiterregieren. Wahlsieger Kai Wegner erneuert seinen Regierungsanspruch. 1.055 Kommentare",
+      "teaser": "In Berlin wollen SPD und Grüne trotz Verlusten am liebsten in der bisherigen Koalition weiterregieren. Wahlsieger Kai Wegner erneuert seinen Regierungsanspruch.",
       "url": "https://www.zeit.de/politik/deutschland/2023-02/bettina-jarrasch-abgeordnetenhauswahl-schwarz-gruen",
-      "image_url": "https://img.zeit.de/politik/2023-02/bettina-jarrasch-abgeordnetenhauswahl-schwarz-gruen-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-02/bettina-jarrasch-abgeordnetenhauswahl-schwarz-gruen-bild-2/wide__822x462",
       "image_title": "Abgeordnetenhauswahl: Giffey und Jarasch wollen Rot-Grün-Rot weiterhin fortsetzen"
     },
     {
-      "title": "Waffenexporte: Meiste Rüstungsexporte kamen 2022 aus Niedersachsen",
-      "teaser": "Rund ein Drittel der deutschen Waffenexporte wurde letztes Jahr aus Niedersachsen geliefert. Insgesamt exportierten Firmen Rüstungsgüter für rund 8,36 Milliarden Euro.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-02/waffenexporte-niedersachsen-meiste-genehmigungen",
-      "image_url": "https://img.zeit.de/politik/2023-02/waffenexporte-niedersachsen-meiste-genehmigungen-bild/wide__822x462",
-      "image_title": "Waffenexporte: Meiste Rüstungsexporte kamen 2022 aus Niedersachsen"
+      "title": "Türkei und Syrien: Mehrere Deutsche nach Erdbebenkatastrophe noch vermisst",
+      "teaser": "Das Auswärtige Amt geht davon aus, dass unter den Erdbebenopfern auch Deutsche sind. Die Türkei soll erneut ein kurdisches Ziel in Syrien angegriffen haben.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/tuerkei-syrien-erdbeben-deutsche-vermisst",
+      "image_url": "https://img.zeit.de/politik/2023-02/erdbeben-tuerkei-syrien-vermisste-deutsche-bild/cinema__980x420",
+      "image_title": "Türkei und Syrien: Mehrere Deutsche nach Erdbebenkatastrophe noch vermisst"
     },
     {
       "title": "Ukraine-Überblick: Selenskyj fordert weitere Sanktionen, Nato bestätigt Cyberangriff",
       "teaser": "Wolodymyr Selenskyj will westliche Sanktionen gegen die russische Atombranche. Die Nato wurde Ziel eines Hackerangriffs. In Bachmut gehen die Kämpfe weiter. Die Nacht",
       "url": "https://www.zeit.de/gesellschaft/2023-02/ukraine-ueberblick-russland-silvio-berlusconi-donbass-italien",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-02/himars-im-einsatz/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-02/himars-im-einsatz/wide__822x462",
       "image_title": "Ukraine-Überblick: Selenskyj fordert weitere Sanktionen, Nato bestätigt Cyberangriff"
     },
     {
@@ -391,13 +394,6 @@
       "url": "https://www.zeit.de/gesellschaft/2023-02/erdbeben-syrien-tuerkei-ueberlebende-wettlauf-retter-truemmer-vereinte-nationen",
       "image_url": "https://img.zeit.de/gesellschaft/2023-02/erdbeben-syrien-tuerkei-ueberlebende-wettlauf-retter-truemmer-vereinte-nationen-bild/wide__822x462",
       "image_title": "Sieben Tage nach Erdbeben: Retter befreien weiter Überlebende"
-    },
-    {
-      "title": "Syrien: WHO wartet auf Ausliefergenehmigung für Hilfsgüter",
-      "teaser": "Die syrische Regierung hat der Lieferung von Erdbebenhilfen in die Rebellengebiete im Norden Syriens zugestimmt. Die WHO wartet auf die Genehmigung der \"anderen Seite\".",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-02/syrien-who-erdbeben-hilfe-auslieferung-genehmigung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-02/syrien-who-erdbeben-hilfe-auslieferung-genehmigung-bild/wide__822x462",
-      "image_title": "Syrien: WHO wartet auf Ausliefergenehmigung für Hilfsgüter"
     },
     {
       "title": "Konjunktur : Deutschland wird laut EU-Kommission Rezession knapp vermeiden",
@@ -611,10 +607,17 @@
       "image_title": "Verlagsangebot: Englischquiz – Wie gut kennen Sie die Stadt, die niemals schläft?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Weite Hose: Die neue Weite",
+      "teaser": "Harry Styles trägt sie, Gucci bringt sie mit besonders viel Stoff auf den Laufsteg: Hosen sind jetzt extraweit. Ist das die Vorstufe zum männlichen Kleid?",
+      "url": "https://www.zeit.de/zeit-magazin/2023/07/weite-hose-stoff-mode-geschichte",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-02/weite-hose-stoff-mode-geschichte-teaser/cinema__980x420",
+      "image_title": "Weite Hose: Die neue Weite"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Ian McEwan: \"Triff nicht deine französische Brieffreundin\"",
       "teaser": "Der Bestsellerautor Ian McEwan würde seinem jüngeren Ich raten, am Wochenanfang 30 Knoblauchknollen zu schälen und auf manche Begegnungen lieber zu verzichten.",
       "url": "https://www.zeit.de/zeit-magazin/2023/07/ian-mcewan-ratschlaege-leben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/07/was-ich-gern-frueher-gewusst-haette-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/07/was-ich-gern-frueher-gewusst-haette-bild-1/wide__822x462",
       "image_title": "Ian McEwan: \"Triff nicht deine französische Brieffreundin\""
     },
     {
@@ -625,13 +628,6 @@
       "image_title": "Justin Bieber: Plötzlich Belieber"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Milchreis mit Kürbis, Pekannüssen und Feigen: Milchreis als Mutprobe",
-      "teaser": "Milchreis weckt Kindheitserinnerungen. Mit Kürbis, Pekannüssen und Feigen wird eine herzhafte Erwachsenenversion daraus, die würzig und überraschend schmeckt.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-02/milchreis-kuerbis-pekannuesse-feigen-einfallsreich-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-02/milchreis-kuerbis-pekannuesse-feigen-einfallsreich-sonntagsessen-teaser/wide__822x462",
-      "image_title": "Milchreis mit Kürbis, Pekannüssen und Feigen: Milchreis als Mutprobe"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Dimitrij und Alex Schaad: \"Mit dir werde ich im Altenheim landen\"",
       "teaser": "Ein sechsstöckiger Betonblock in München: Hier haben Dimitrij Schaad, 37, und sein Bruder Alex, 32, zusammengewohnt. Heute stehen sie vor und hinter der Kamera.",
       "url": "https://www.zeit.de/campus/2023/02/dimitrij-alex-schaad-aus-meiner-haut-brueder-muenchen",
@@ -639,11 +635,11 @@
       "image_title": "Dimitrij und Alex Schaad: \"Mit dir werde ich im Altenheim landen\""
     },
     {
-      "title": "Verlagsangebot Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "\"Deutsche Wohnen & Co. enteignen\": \"Wer nicht enteignet, sollte auch nicht regieren\"",
@@ -786,36 +782,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Landgericht Braunschweig: Elternzeit eines Richters verschiebt VW-Dieselprozess",
-      "url": "https://www.zeit.de/news/2023-02/13/elternzeit-eines-richters-verschiebt-vw-dieselprozess"
+      "title": "Gesundheit: Hessens Ministerpräsident Rhein wirbt für Medikamentengipfel",
+      "url": "https://www.zeit.de/news/2023-02/13/hessens-ministerpraesident-rhein-wirbt-fuer-medikamentengipfel"
     },
     {
-      "title": "Fluglärm-Auskunft: Gericht: 10.000 Euro Zwangsgeld gegen NRW-Ministerium",
-      "url": "https://www.zeit.de/news/2023-02/13/gericht-10-000-euro-zwangsgeld-gegen-nrw-ministerium"
+      "title": "Wahlen: Merz: CDU hat in Berlin klaren Auftrag für Regierungsbildung",
+      "url": "https://www.zeit.de/news/2023-02/13/merz-cdu-hat-in-berlin-klaren-auftrag-fuer-regierungsbildung"
     },
     {
-      "title": "Energie: Ostbeauftragter: Windkraftausbau Vorteil für Ostdeutschland",
-      "url": "https://www.zeit.de/news/2023-02/13/ostbeauftragter-windkraftausbau-vorteil-fuer-ostdeutschland"
+      "title": "Landgericht: Prozess um Geiselnahme: Angeklagter muss in Psychiatrie",
+      "url": "https://www.zeit.de/news/2023-02/13/prozess-um-geiselnahme-angeklagter-muss-in-psychiatrie"
     },
     {
-      "title": "Heilbronn: Kriminalpolizei nimmt mutmaßlichen Drogen-Dealer fest",
-      "url": "https://www.zeit.de/news/2023-02/13/kriminalpolizei-nimmt-mutmasslichen-drogen-dealer-fest"
+      "title": "Kreis Stormarn: Polizei stoppt mutmaßlichen Serieneinbrecher",
+      "url": "https://www.zeit.de/news/2023-02/13/polizei-stoppt-mutmasslichen-serieneinbrecher"
     },
     {
-      "title": "Umweltschutz: Volksbegehren: Initiatoren fordern konsequentere Umsetzung",
-      "url": "https://www.zeit.de/news/2023-02/13/volksbegehren-initiatoren-fordern-konsequentere-umsetzung"
+      "title": "Partei: Herrgott: Traurig, dass sich Maaßen nicht distanzierte",
+      "url": "https://www.zeit.de/news/2023-02/13/herrgott-traurig-dass-sich-maassen-nicht-distanzierte"
     },
     {
-      "title": "3. Liga: Gorenzel-Signal in Krise: Interimscoach streicht freien Tag",
-      "url": "https://www.zeit.de/news/2023-02/13/gorenzel-signal-in-krise-interimscoach-streicht-freien-tag"
+      "title": "Teltow-Fläming: Suche nach Männern wegen schwerer räuberischer Erpressung",
+      "url": "https://www.zeit.de/news/2023-02/13/suche-nach-maennern-wegen-schwerer-raeuberischer-erpressung"
     },
     {
-      "title": "Filmdreh: Brandenburg als Drehort auch für Berlinale-Filme gefragt",
-      "url": "https://www.zeit.de/news/2023-02/13/brandenburg-als-drehort-auch-fuer-berlinale-filme-gefragt"
+      "title": "Bremerhaven: Polizeiauto prallt mit Radfahrerin zusammen: Verletzt",
+      "url": "https://www.zeit.de/news/2023-02/13/polizeiauto-prallt-mit-radfahrerin-zusammen-verletzt"
     },
     {
-      "title": "Wahlen: Wahlbeobachter: Abstimmung ruhig, friedlich und ordentlich",
-      "url": "https://www.zeit.de/news/2023-02/13/wahlbeobachter-abstimmung-ruhig-friedlich-und-ordentlich"
+      "title": "Hamburg: Kinderrechte sollen in Präambel der Verfassung",
+      "url": "https://www.zeit.de/news/2023-02/13/kinderrechte-sollen-in-praeambel-der-verfassung"
     }
   ]
 }
