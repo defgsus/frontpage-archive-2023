@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-14T08:16:53",
+  "timestamp": "2023-02-14T09:13:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-schuetzt-seine-Software-vor-moeglichen-Attacken-7494856.html"
+    },
+    {
       "title": "Apple fixt aktiv ausgenutzten Exploit in macOS, iPadOS und iOS",
       "url": "https://www.heise.de/news/Apple-fixt-aktiv-ausgenutzten-Exploit-in-macOS-iPadOS-und-iOS-7494078.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/CMS-Typo3-Schwachstelle-ermoeglicht-Cross-Site-Scripting-7490680.html"
     },
     {
-      "title": "Nvidia GeForce Experience",
-      "url": "https://www.heise.de/news/Angreifer-koennten-ueber-Nvidia-GeForce-Experience-Daten-manipulieren-7490068.html"
+      "title": "Patchday: SAP schützt seine Software vor möglichen Attacken",
+      "teaser": "Es sind unter anderem für SAP BusinessObjects und SAP Start Service wichtige Sicherheitsupdates erschienen.",
+      "url": "https://www.heise.de/news/Patchday-SAP-schuetzt-seine-Software-vor-moeglichen-Attacken-7494856.html",
+      "image_title": "Patchday SAP"
+    },
+    {
+      "title": "iX-Workshop: Zu einer sicheren Unternehmens-IT mit Zero Trust (Last Call)",
+      "teaser": "Lernen Sie in diesem Online-Tagesworkshop, wie Sie mit dem Sicherheitsmodell Zero Trust Ihre Unternehmens-IT effektiv schützen. Noch Plätze frei.",
+      "url": "https://www.heise.de/news/iX-Workshop-Zu-einer-sicheren-Unternehmens-IT-mit-Zero-Trust-Last-Call-7494041.html",
+      "image_title": "iX-Workshop: Sichere Unternehmens-IT mit Zero Trust"
     },
     {
       "title": "Balkonkraftwerk: Automatisches Update für Deye-Wechselrichter mit WLAN-Lücke",
@@ -143,16 +155,6 @@
       "title": "Passwort-Manager: Umstrittene Sicherheitslücke in KeePass beseitigt",
       "teaser": "Eine viel diskutierte Sicherheitslücke, die Einbrechern im System den Passwort-Export erleichterte, hat der Entwickler nun mit einem Update geschlossen.",
       "url": "https://www.heise.de/news/Umstrittene-KeePass-Schwachstelle-mit-Update-geschlossen-7489944.html"
-    },
-    {
-      "title": "Sicherheitsupdate: Acht Sicherheitslücken in OpenSSL geschlossen",
-      "teaser": "Angreifer könnten Systeme mit der Softwarebibliothek für verschlüsselte Verbindungen OpenSSL attackieren. Der Bedrohungsgrad hält sich aber in Grenzen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Acht-Sicherheitsluecken-in-OpenSSL-geschlossen-7489560.html"
-    },
-    {
-      "title": "Patchday: Angriffsflächen in Android 10, 11, 12, 13 verkleinert",
-      "teaser": "Angreifer könnten Android-Geräte attackieren und sich beispielsweise höhere Nutzerrechte verschaffen.",
-      "url": "https://www.heise.de/news/Patchday-Angriffsflaechen-in-Android-10-11-12-13-verkleinert-7489167.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
