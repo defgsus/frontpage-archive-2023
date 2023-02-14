@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-14T09:13:19",
+  "timestamp": "2023-02-14T10:14:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,11 +32,15 @@
   ],
   "articles": [
     {
+      "title": "HP-Computer mit Windows 10",
+      "url": "https://www.heise.de/news/Bestimmte-auf-HP-Computern-vorinstallierte-Windows-10-Versionen-sind-verwundbar-7494955.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-schuetzt-seine-Software-vor-moeglichen-Attacken-7494856.html"
     },
     {
-      "title": "Apple fixt aktiv ausgenutzten Exploit in macOS, iPadOS und iOS",
+      "title": "macOS, iPadOS und iOS",
       "url": "https://www.heise.de/news/Apple-fixt-aktiv-ausgenutzten-Exploit-in-macOS-iPadOS-und-iOS-7494078.html"
     },
     {
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/CISA-Warnung-Attacken-auf-GoAnywhere-MFT-Intel-Treiber-und-TerraMaster-OS-7493633.html"
     },
     {
-      "title": "Typo3",
-      "url": "https://www.heise.de/news/CMS-Typo3-Schwachstelle-ermoeglicht-Cross-Site-Scripting-7490680.html"
+      "title": "Cyberattacken auf sieben Schulen in Karlsruhe",
+      "teaser": "Unbekannte Angreifer konnten IT-Systeme von mehreren Schulen in Karlsruhe mit Malware infizieren.",
+      "url": "https://www.heise.de/news/Cybterattacken-auf-sieben-Schulen-in-Karlsruhe-7494896.html"
+    },
+    {
+      "title": "Bestimmte auf HP-Computern vorinstallierte Windows-10-Versionen sind verwundbar",
+      "teaser": "Wer einen PC von HP mit einer älteren Windows-10-Ausgabe nutzt, sollte einen Sicherheitspatch installieren.",
+      "url": "https://www.heise.de/news/Bestimmte-auf-HP-Computern-vorinstallierte-Windows-10-Versionen-sind-verwundbar-7494955.html"
     },
     {
       "title": "Patchday: SAP schützt seine Software vor möglichen Attacken",
@@ -145,16 +155,6 @@
       "title": "Angreifer könnten über Nvidia GeForce Experience Daten manipulieren",
       "teaser": "In der aktuellen Version das Grafikkarten-Tools GeForce Experience von Nvidia haben die Entwickler drei Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Angreifer-koennten-ueber-Nvidia-GeForce-Experience-Daten-manipulieren-7490068.html"
-    },
-    {
-      "title": "Notfallpatch für Dateiübertragungslösung GoAnywhere MFT erschienen",
-      "teaser": "Admins können ihre GoAnywhere-MFT-Server (On-Premises) nun mit einem Sicherheitsupdate gegen aktuelle laufende Attacken absichern.",
-      "url": "https://www.heise.de/news/Notfallpatch-fuer-Dateiuebertragungsloesung-GoAnywhere-MFT-erschienen-7490040.html"
-    },
-    {
-      "title": "Passwort-Manager: Umstrittene Sicherheitslücke in KeePass beseitigt",
-      "teaser": "Eine viel diskutierte Sicherheitslücke, die Einbrechern im System den Passwort-Export erleichterte, hat der Entwickler nun mit einem Update geschlossen.",
-      "url": "https://www.heise.de/news/Umstrittene-KeePass-Schwachstelle-mit-Update-geschlossen-7489944.html"
     },
     {
       "title": "Ratgeber: Bad Cyber-Santa geht auf Phishing-Tour",
