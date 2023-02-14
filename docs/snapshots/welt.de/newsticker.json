@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-14T11:10:54",
+  "timestamp": "2023-02-14T12:25:42",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wirtschaft",
+      "url": "https://www.welt.de/wirtschaft/",
+      "topic": "Klimaschutz"
+    },
     {
       "title": "Russische Flugzeuge offenbar über Polen abgefangen",
       "url": "https://www.welt.de/politik/ausland/article243757513/Ukraine-News-Niederlande-Russische-Militaerflugzeuge-ueber-Polen-abgefangen.html",
@@ -34,14 +39,9 @@
       "topic": "Besonders Entwickler betroffen"
     },
     {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Jahrestag der Bombardierung"
-    },
-    {
-      "title": "Kriminalität",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/",
-      "topic": "Eklat in Hannover"
+      "title": "Panorama",
+      "url": "https://www.welt.de/vermischtes/",
+      "topic": "Niedersachsen"
     },
     {
       "title": "Aha!",
@@ -71,6 +71,12 @@
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Von Tag zu Tag hasse ich die Russen mehr“",
+      "url": "https://www.welt.de/politik/ausland/video243761353/Frauen-an-der-Front-Welche-Folgen-der-Krieg-fuer-Ukrainerinnen-hat.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Putins Krieg"
     },
     {
       "title": "„Man musste die Stellung halten, ohne einen Schuss Munition“",
@@ -107,12 +113,6 @@
       "url": "https://www.welt.de/politik/deutschland/video243752701/Wahl-in-Berlin-CDU-vor-schwieriger-Regierungsbildung-Kai-Wegner-im-Interview.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Kai Wegner"
-    },
-    {
-      "title": "„Die Russen stehen aus zwei Gründen massiv unter Druck“",
-      "url": "https://www.welt.de/politik/ausland/video243751873/Kampf-um-Bachmut-Die-Stadt-hat-symbolischen-Charakter-so-Roland-Kather.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Krieg in der Ukraine"
     }
   ]
 }
