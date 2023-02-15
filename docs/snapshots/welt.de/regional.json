@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-15T11:11:34",
+  "timestamp": "2023-02-15T12:25:56",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -13,6 +13,25 @@
     }
   ],
   "articles": [
+    {
+      "title": "Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "topic": "Obdachlosenhilfe"
+    },
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile243778989/9852506447-ci102l-w1024/Toedliche-Schuesse-auf-Jugendlichen-Fuenf-Polizisten-angeklagt.jpg",
+      "image_title": "An einem Zaun wird mit Kerzen und Blumen einem von der Polizei erschossenen Jugendlichen gedacht",
+      "topic": "Dortmund"
+    },
+    {
+      "title": "Weltgeschehen",
+      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile243782449/0942507487-ci102l-w1024/Klima-Demonstranten-schuetten-Beton-auf-Bruecke.jpg",
+      "image_title": "Klima-Demonstranten schütten Beton auf Brücke",
+      "topic": "„Letzte Generation“"
+    },
     {
       "title": "„Ich bin definitiv süchtig“",
       "url": "https://www.welt.de/sport/triathlon/plus243763915/Jan-Frodeno-Ich-bin-definitiv-suechtig.html",
@@ -37,21 +56,6 @@
       "topic": "Flugausfälle am Freitag"
     },
     {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243764443/3152501787-ci102l-w1024/Wiederholungswahl-Berlin-Stimmabgabe.jpg",
-      "image_title": "Bei der Wiederholungswahl zum Berliner Abgeordnetenhaus soll es wieder zu Pannen gekommen sein",
-      "topic": "Berlin"
-    },
-    {
-      "title": "Wenn Berliner Regierende gegen den Wählerwillen an ihrem Amt festhalten",
-      "url": "https://www.welt.de/politik/deutschland/plus243774037/Berlin-Wahl-Kommen-die-Regierenden-damit-durch.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243774035/0482503207-ci102l-w1024/DWO-Teaser-Wahlzettel-Neukoelln-js-ms-jb-jpg.jpg",
-      "image_title": "Nicht nur über die Führung des Rathauses von Berlin-Neukölln bricht in Berlin Streit los",
-      "topic": "Wahl in der Hauptstadt",
-      "author": "Sabine Menkens"
-    },
-    {
       "title": "Hamburg",
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile243775679/1612509767-ci102l-w1024/Kontrollen-ROADPOL-Truck-Bus-im-Vogelsbergkreis.jpg",
@@ -74,11 +78,19 @@
       "topic": "Neue Zahlen"
     },
     {
-      "title": "Hamburg",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/panorama_nt/mobile243759283/9962504407-ci102l-w1024/Feuer-in-Hamburger-Fluechtlingsunterkunft.jpg",
-      "image_title": "75 Feuerwehrleute waren bei den Löscharbeiten im Einsatz",
-      "topic": "Großeinsatz in Winterhude"
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243764443/3152501787-ci102l-w1024/Wiederholungswahl-Berlin-Stimmabgabe.jpg",
+      "image_title": "Bei der Wiederholungswahl zum Berliner Abgeordnetenhaus soll es wieder zu Pannen gekommen sein",
+      "topic": "Berlin"
+    },
+    {
+      "title": "Wenn Berliner Regierende gegen den Wählerwillen an ihrem Amt festhalten",
+      "url": "https://www.welt.de/politik/deutschland/plus243774037/Berlin-Wahl-Kommen-die-Regierenden-damit-durch.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243774035/0482503207-ci102l-w1024/DWO-Teaser-Wahlzettel-Neukoelln-js-ms-jb-jpg.jpg",
+      "image_title": "Nicht nur über die Führung des Rathauses von Berlin-Neukölln bricht in Berlin Streit los",
+      "topic": "Wahl in der Hauptstadt",
+      "author": "Sabine Menkens"
     },
     {
       "title": "„Traue es mir letzten Endes auch zu, so ausfällig geworden zu sein“",
@@ -94,22 +106,6 @@
       "image_url": "https://img.welt.de/img/regionales/berlin/mobile243749125/6782500807-ci102l-w1024/Nach-Wiederholungswahl-Berlin-Kai-Wegner.jpg",
       "image_title": "Kai Wegner (CDU) am Tag nach der Wahl",
       "topic": "Berlin-Wahl"
-    },
-    {
-      "title": "CDU steht zu „Pascha“-Aussage und Autofahren – dennoch soll es mit den Grünen klappen",
-      "url": "https://www.welt.de/politik/deutschland/plus243754779/Berlin-CDU-steht-zu-Paschas-und-Autos-wie-es-dennoch-mit-den-Gruenen-klappen-soll.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243754775/4102500087-ci102l-w1024/Christian-Democratic-Union-CDU-pa.jpg",
-      "image_title": "CDU-Bundesvorsitzender Friedrich Merz (CDU, l.), Berliner Spitzenkandidat Kai Wegner",
-      "topic": "Wahltriumph in Berlin",
-      "author": "Nikolaus Doll"
-    },
-    {
-      "title": "Die Zweifel der SPD an einer „Dreierkonstellation aus Verlierern“",
-      "url": "https://www.welt.de/politik/deutschland/article243754119/Berlin-Wahl-Die-SPD-zweifelt-an-einer-Dreierkonstellation-aus-Verlierern.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile243754517/0902506007-ci102l-w1024/GERMANY-BERLIN-PARTIES-VOTE-SPD.jpg",
-      "image_title": "SPD-Spitzenkandidatin Franziska Giffey (l.) bekommt Unterstützung von der Bundesvorsitzenden Saskia Esken",
-      "topic": "Giffeys Wahlpleite",
-      "author": "Sabine Menkens"
     },
     {
       "title": "Deutschland",
