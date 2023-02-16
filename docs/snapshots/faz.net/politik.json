@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-16T10:13:36",
+  "timestamp": "2023-02-16T11:10:50",
   "url": "https://www.faz.net/aktuell/politik/",
   "response": {
     "status": 200
@@ -104,6 +104,12 @@
   ],
   "articles": [
     {
+      "title": "Grüne Achsen in Barcelona : Verkehr beruhigt, Gemüter erhitzt",
+      "url": "https://www.faz.net/aktuell/politik/ausland/barcelona-streitet-ueber-die-verkehrsberuhigten-gruenen-inseln-18658313.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Mitte des 19. Jahrhunderts angelegt: Der Eixample-Bezirk soll bis 2030 mit Hunderten Bäumen begrünt und zu großen Teilen verkehrsberuhigt werden."
+    },
+    {
       "title": "Georgiens früherer Präsident : Wird Micheil Saakaschwili in Haft vergiftet?",
       "url": "https://www.faz.net/aktuell/politik/ausland/georgien-wird-der-frueherer-praesident-saakaschwili-vergiftet-18678336.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -111,15 +117,9 @@
     },
     {
       "title": "Bundesverfassungsgericht : Karlsruhe beanstandet Regelungen zur Datenanalyse bei der Polizei",
-      "url": "https://www.faz.net/aktuell/politik/inland/bundesverfassungsgericht-schraenkt-datenanalyse-bei-der-polizei-ein-18682584.html",
+      "url": "https://www.faz.net/aktuell/politik/inland/polizei-bundesverfassungsgericht-schraenkt-datenanalyse-ein-18682584.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Polizei zeigt auf dem Gelände der Polizeiakademie Hessen die IT-Anwendung „Hessendata mobile“ für das Smartphone."
-    },
-    {
-      "title": "Berliner „Kottiwache“ eröffnet : Ganz ohne Eier und Farbbeutel",
-      "url": "https://www.faz.net/aktuell/politik/inland/berlin-ist-die-polizeiwache-am-kottbusser-tor-eine-provokation-18681183.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kottbusser Tor: Die Polizei hält Wache an ihrer neuen Wache."
     },
     {
       "title": "Ein Jahr nach Kriegsbeginn : Nicht die Zeiten sind anders, sondern die Deutschen",
@@ -184,6 +184,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Berliner „Kottiwache“ eröffnet : Ganz ohne Eier und Farbbeutel",
+      "url": "https://www.faz.net/aktuell/politik/inland/berlin-ist-die-polizeiwache-am-kottbusser-tor-eine-provokation-18681183.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Kottbusser Tor: Die Polizei hält Wache an ihrer neuen Wache."
+    },
+    {
       "title": "Flüchtlingsgipfel : Das will Faeser mit den Ländern besprechen",
       "url": "https://www.faz.net/aktuell/politik/inland/fluechtlingsgipfel-was-nancy-faeser-mit-den-laendern-besprechen-will-18680730.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -200,12 +206,6 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/usa-ermittler-will-schweigepflicht-von-anwalt-von-donald-trump-aussetzen-18682196.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Der Sonderermittler des US-Justizministeriums plant Berichten nach, einen Rechtsvertreter Donald Trumps von der Schweigepflicht zu entbinden."
-    },
-    {
-      "title": "Milliarden-Forderungen : Faeser dämpft die Erwartungen vor dem Flüchtlingsgipfel",
-      "url": "https://www.faz.net/aktuell/politik/inland/fluechtlingsgipfel-nancy-faeser-daempft-erwartungen-an-bund-18682139.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bundesinnenministerin Nancy Faeser hat vor dem Flüchtlingsgipfel die Erwartungen der Länder und Kommunen an den Bund gedämpft."
     },
     {
       "title": "Ausspähung und Desinformation : Wie ein israelisches Unternehmen weltweit Wahlen beeinflusst haben soll",
@@ -312,10 +312,10 @@
       "image_title": "Kulturpolitik für alle: Das verspricht der neue Masterplan Kultur."
     },
     {
-      "title": "Streit im hessischen Landtag : Die AfD und der Krieg",
-      "url": "https://www.faz.net/aktuell/politik/ukraine-krieg-afd-in-hessen-und-ihr-verhaeltnis-zu-russland-18680256.html",
+      "title": "Milliarden-Forderungen : Faeser dämpft die Erwartungen vor dem Flüchtlingsgipfel",
+      "url": "https://www.faz.net/aktuell/politik/inland/fluechtlingsgipfel-nancy-faeser-daempft-erwartungen-an-bund-18682139.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wies die AfD zurecht: Landtagspräsidentin Wallmann"
+      "image_title": "Bundesinnenministerin Nancy Faeser hat vor dem Flüchtlingsgipfel die Erwartungen der Länder und Kommunen an den Bund gedämpft."
     },
     {
       "title": "Nach Putsch-Gerüchten : Moldaus härtere Gangart gegenüber Moskau",
@@ -390,10 +390,10 @@
       "image_title": "Friedensverhandlungen zu welchem Preis? Sahra Wagenknecht und Alive Schwarzer"
     },
     {
-      "title": "Schwarzer und Wagenknecht : Ein Friedensmanifest als Propaganda-Hilfe für Putin",
-      "url": "https://www.faz.net/aktuell/politik/wagenknechts-und-schwarzer-friedensmanifest-als-propaganda-hilfe-fuer-putin-18675923.html",
+      "title": "Ein Jahr nach Kriegsbeginn : Nicht die Zeiten sind anders, sondern die Deutschen",
+      "url": "https://www.faz.net/aktuell/politik/spaltung-der-deutschen-ein-jahr-nach-kriegsbeginn-in-der-ukraine-18681494.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sahra Wagenknecht und Alice Schwarzer in einer Aufnahme vom 9. Februar"
+      "image_title": "Friedensverhandlungen zu welchem Preis? Sahra Wagenknecht und Alive Schwarzer"
     },
     {
       "title": "Schwarzer und Wagenknecht : Ein Friedensmanifest als Propaganda-Hilfe für Putin",
@@ -404,8 +404,8 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-selenskyj-hofft-auf-wende-zum-sieg-im-fruehjahr-18682230.html"
     },
     {
-      "title": "Ein Jahr nach Kriegsbeginn : Nicht die Zeiten sind anders, sondern die Deutschen",
-      "url": "https://www.faz.net/aktuell/politik/spaltung-der-deutschen-ein-jahr-nach-kriegsbeginn-in-der-ukraine-18681494.html"
+      "title": "Schwarzer und Wagenknecht : Ein Friedensmanifest als Propaganda-Hilfe für Putin",
+      "url": "https://www.faz.net/aktuell/politik/wagenknechts-und-schwarzer-friedensmanifest-als-propaganda-hilfe-fuer-putin-18675923.html"
     },
     {
       "title": "Rassismus gegen die Mehrheit? : „Bei Maaßen wird das Schwarz-Weiß-Schema umgedreht“",
@@ -420,8 +420,8 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/kampfpanzer-fuer-die-ukraine-die-wahren-bremser-18678714.html"
     },
     {
-      "title": "Keine Alternative zu Giffey : Die SPD hat ein Personalproblem",
-      "url": "https://www.faz.net/aktuell/politik/inland/die-spd-hat-ein-personalproblem-keine-alternative-zu-franziska-giffey-18678074.html"
+      "title": "Allensbach-Umfrage : Die Deutschen wollen der Ukraine helfen – aber bis zu welchem Punkt?",
+      "url": "https://www.faz.net/aktuell/politik/allensbach-umfrage-deutsche-haltung-zum-ukraine-krieg-18681005.html"
     },
     {
       "title": "Ukraine-Liveblog : Wegen Dauerbeschusses: Ukraine plant offenbar unterirdische Energieanlagen",
@@ -432,8 +432,8 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/norwegen-hat-angst-russlands-naechstes-opfer-zu-sein-18677489.html"
     },
     {
-      "title": "Allensbach-Umfrage : Die Deutschen wollen der Ukraine helfen – aber bis zu welchem Punkt?",
-      "url": "https://www.faz.net/aktuell/politik/allensbach-umfrage-deutsche-haltung-zum-ukraine-krieg-18681005.html"
+      "title": "Keine Alternative zu Giffey : Die SPD hat ein Personalproblem",
+      "url": "https://www.faz.net/aktuell/politik/inland/die-spd-hat-ein-personalproblem-keine-alternative-zu-franziska-giffey-18678074.html"
     },
     {
       "title": "Allensbach-Umfrage : Die Deutschen wollen der Ukraine helfen – aber bis zu welchem Punkt?",
