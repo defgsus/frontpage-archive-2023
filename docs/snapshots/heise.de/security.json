@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-17T11:10:52",
+  "timestamp": "2023-02-17T12:23:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Ciscos-Netzwerk-Management-Nexus-Dashboard-lahmlegen-7518513.html"
+    },
+    {
       "title": "ClamAV",
       "url": "https://www.heise.de/news/Open-Source-Virenschutz-ClamAV-gegen-Schadcode-Attacke-geruestet-7518813.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patch-in-Sicht-Entwickler-des-CMS-Joomla-warnen-vor-kritischer-Sicherheitsluecke-7517312.html"
     },
     {
-      "title": "Patchday Intel",
-      "url": "https://www.heise.de/news/Patchday-Intel-Angreifer-koennten-Server-ueber-Root-Luecke-attackieren-7517141.html"
+      "title": "Angreifer könnten Ciscos Netzwerk-Management Nexus Dashboard lahmlegen",
+      "teaser": "Der Netzwerkausrüster Cisco hat wichtige Sicherheitsupdates für verschiedene Produkte veröffentlicht.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Ciscos-Netzwerk-Management-Nexus-Dashboard-lahmlegen-7518513.html"
     },
     {
       "title": "Open-Source-Virenschutz ClamAV gegen Schadcode-Attacke gerüstet",
@@ -147,12 +152,6 @@
       "title": "Erpressungstrojaner Play infiltriert Systeme von A10 Networks",
       "teaser": "Angreifer konnten auf interne Daten des Herstellers von Netzwerkgeräten A10 Networks zugreifen. Kundendaten sollen nicht betroffen sein.",
       "url": "https://www.heise.de/news/Erpressungstrojaner-Play-infiltriert-Systeme-von-A10-Networks-7493748.html"
-    },
-    {
-      "title": "iX-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend gegen Angriffe absichern – von der physischen Sicherheit, über Verschlüsselung und 2FA bis zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Fruehbucherrabatt-7488883.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
       "title": "secIT 2023: 14. bis 16. März",

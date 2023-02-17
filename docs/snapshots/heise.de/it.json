@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-17T11:10:30",
+  "timestamp": "2023-02-17T12:23:50",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,21 +43,6 @@
       "image_title": "Closeup,Of,Laptop,Keyboard,Illumination,,Backlit,Keyboard"
     },
     {
-      "title": "Die wichtigsten Safari-Erweiterungen für iOS und macOS im Überblick",
-      "teaser": "Erweiterungen passen Apples Hausbrowser Safari an Ihre Bedürfnisse an. Wir präsentieren eine Auswahl der besten Erweiterungen und geben Tipps zum Einrichten.",
-      "url": "https://www.heise.de/hintergrund/Die-wichtigsten-Safari-Erweiterungen-fuer-iOS-und-macOS-im-Ueberblick-7517177.html"
-    },
-    {
-      "title": "Vier FIDO2-Token für den USB-Port im Test",
-      "teaser": "Für eine 2FA-Authentifizierung, die nicht an ein bestimmtes Endgerät gebunden sein soll, bieten sich USB- oder NFC-Token an. Wir haben uns vier davon angesehen.",
-      "url": "https://www.heise.de/hintergrund/Vier-FIDO2-Token-fuer-den-USB-Port-im-Test-7487942.html"
-    },
-    {
-      "title": "Open-Source-Virenschutz ClamAV gegen Schadcode-Attacke gerüstet",
-      "teaser": "Die ClamAV-Entwickler haben in drei Versionen der Virenscanner zwei Sicherheitslücken geschlossen. Eine gilt als kritisch.",
-      "url": "https://www.heise.de/news/Open-Source-Virenschutz-ClamAV-gegen-Schadcode-Attacke-geruestet-7518813.html"
-    },
-    {
       "title": "Kubernetes von AWS und IONOS härten",
       "teaser": "Bei großen Anbietern wie AWS und IONOS ist Kubernetes stärker in die Managed-Angebote integriert und somit variiert das Vorgehen zur Absicherung auch stärker.",
       "url": "https://www.heise.de/ratgeber/Kubernetes-von-AWS-und-IONOS-haerten-7477940.html"
@@ -66,6 +51,21 @@
       "title": "Active Directory: Privilegierte Zugriffe besonders schützen",
       "teaser": "Privileged Access Workstations sind für die Umsetzung des Enterprise Access Model besonders wichtig und müssen daher sorgfältig abschottet werden.",
       "url": "https://www.heise.de/ratgeber/Active-Directory-Privilegierte-Zugriffe-besonders-schuetzen-7469363.html"
+    },
+    {
+      "title": "JetBrains verteilte Entwicklungsumgebung Fleet nimmt weiter Gestalt an",
+      "teaser": "Die IDE hat zwar die Preview-Phase noch nicht verlassen, bringt aber in Version 1.15 Neuerungen unter anderem beim Debugging und bei der Git-Integration mit.",
+      "url": "https://www.heise.de/news/JetBrains-verteilte-Entwicklungsumgebung-Fleet-nimmt-weiter-Gestalt-an-7518437.html"
+    },
+    {
+      "title": "Angreifer könnten Ciscos Netzwerk-Management Nexus Dashboard lahmlegen",
+      "teaser": "Der Netzwerkausrüster Cisco hat wichtige Sicherheitsupdates für verschiedene Produkte veröffentlicht.",
+      "url": "https://www.heise.de/news/Angreifer-koennten-Ciscos-Netzwerk-Management-Nexus-Dashboard-lahmlegen-7518513.html"
+    },
+    {
+      "title": "Open-Source-Virenschutz ClamAV gegen Schadcode-Attacke gerüstet",
+      "teaser": "Die ClamAV-Entwickler haben in drei Versionen der Virenscanner zwei Sicherheitslücken geschlossen. Eine gilt als kritisch.",
+      "url": "https://www.heise.de/news/Open-Source-Virenschutz-ClamAV-gegen-Schadcode-Attacke-geruestet-7518813.html"
     },
     {
       "title": "TGIQF – ein KI-Quiz! Wirklich! Nein, doch! Oh!",
@@ -85,19 +85,24 @@
       "image_title": "Teardown eines MacBook Pro M2"
     },
     {
+      "title": "Die wichtigsten Safari-Erweiterungen für iOS und macOS im Überblick",
+      "teaser": "Erweiterungen passen Apples Hausbrowser Safari an Ihre Bedürfnisse an. Wir präsentieren eine Auswahl der besten Erweiterungen und geben Tipps zum Einrichten.",
+      "url": "https://www.heise.de/hintergrund/Die-wichtigsten-Safari-Erweiterungen-fuer-iOS-und-macOS-im-Ueberblick-7517177.html"
+    },
+    {
       "title": "Es ging schon früher: Microsoft gibt Windows 11 Arm offiziell für Macs frei",
       "teaser": "Schon lange ist es möglich, Windows 11 auf M1- und M2-Macs über eine Parallels-Virtualisierung zu verwenden. Doch erst jetzt erlaubt das Microsoft offiziell.",
       "url": "https://www.heise.de/news/Es-ging-schon-frueher-Microsoft-gibt-Windows-11-Arm-offiziell-fuer-Macs-frei-7518654.html"
     },
     {
+      "title": "Vier FIDO2-Token für den USB-Port im Test",
+      "teaser": "Für eine 2FA-Authentifizierung, die nicht an ein bestimmtes Endgerät gebunden sein soll, bieten sich USB- oder NFC-Token an. Wir haben uns vier davon angesehen.",
+      "url": "https://www.heise.de/hintergrund/Vier-FIDO2-Token-fuer-den-USB-Port-im-Test-7487942.html"
+    },
+    {
       "title": "Zugangssicherheit: 2FA, MFA und FIDO2 erklärt",
       "teaser": "Das Passwort hat eigentlich ausgedient, weil mit FIDO2 ein phishingresistentes Log-in-Verfahren existiert. Wie erklären Ihnen die Funktionsweise.",
       "url": "https://www.heise.de/hintergrund/Zugangssicherheit-2FA-MFA-und-FIDO2-erklaert-7487385.html"
-    },
-    {
-      "title": "Passkeys lösen Passwörter ab - so funktionieren sie",
-      "teaser": "Passwörter sind out, da hilft auch keine klassische Mehr-Faktor-Authentifizierung. Sichere Authentifizierungsverfahren wie Passkeys schaffen aber Abhilfe.",
-      "url": "https://www.heise.de/hintergrund/Passkeys-loesen-Passwoerter-ab-so-funktionieren-sie-7490606.html"
     },
     {
       "title": "VR-Gaming in Spielhalle: Zero Latency in Hannover und Wien",
@@ -126,12 +131,6 @@
       "teaser": "Die ungenannten Täter sollen das nordkoreanische Atomwaffenprogramm mitfinanziert haben. Die 5,5 Millionen Euro sind aber nur ein geringer Teil der Gesamtbeute.",
       "url": "https://www.heise.de/news/Norwegen-beschlagnahmt-Millionen-gestohlener-Kryptowaehrung-aus-Blockchain-Spiel-7518381.html",
       "image_title": "Bild aus dem Spiel Axie Infinity"
-    },
-    {
-      "title": "Messenger-Dienst Signal ermöglicht Vorplanen von Nachrichten unter Android",
-      "teaser": "Keine Geburtstagsnachrichten und Co. mehr vergessen: Der Messenger-Dienst Signal ermöglicht das Vorplanen von Nachrichten.",
-      "url": "https://www.heise.de/news/Messenger-Dienst-Signal-ermoeglicht-Vorplanen-von-Nachrichten-unter-Android-7518091.html",
-      "image_title": "Signal"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
