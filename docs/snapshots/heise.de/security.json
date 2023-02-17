@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-17T10:13:47",
+  "timestamp": "2023-02-17T11:10:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ClamAV",
+      "url": "https://www.heise.de/news/Open-Source-Virenschutz-ClamAV-gegen-Schadcode-Attacke-geruestet-7518813.html"
+    },
+    {
       "title": "Citrix",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Fernzugriffsloesung-Citrix-Workspace-attackierbar-7517405.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Intel-Angreifer-koennten-Server-ueber-Root-Luecke-attackieren-7517141.html"
     },
     {
-      "title": "Firefox, Firefox ESR",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-und-Firefox-ESR-fuer-verschiedene-Attacken-anfaellig-7496211.html"
+      "title": "Open-Source-Virenschutz ClamAV gegen Schadcode-Attacke gerüstet",
+      "teaser": "Die ClamAV-Entwickler haben in drei Versionen der Virenscanner zwei Sicherheitslücken geschlossen. Eine gilt als kritisch.",
+      "url": "https://www.heise.de/news/Open-Source-Virenschutz-ClamAV-gegen-Schadcode-Attacke-geruestet-7518813.html"
     },
     {
       "title": "LNG-Terminals angeblich unzureichend geschützt: Das sagen die Betreiber",
@@ -148,11 +153,6 @@
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend gegen Angriffe absichern – von der physischen Sicherheit, über Verschlüsselung und 2FA bis zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Fruehbucherrabatt-7488883.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "CISA-Warnung: Attacken auf GoAnywhere MFT, Intel-Treiber und TerraMaster TOS",
-      "teaser": "Die CISA warnt vor aktiven Angriffen auf Sicherheitslücken in GoAnywhere MFT, Intel-Teibern und TerraMaster TOS. Updates zum Schließen der Lecks stehen bereit.",
-      "url": "https://www.heise.de/news/CISA-Warnung-Attacken-auf-GoAnywhere-MFT-Intel-Treiber-und-TerraMaster-OS-7493633.html"
     },
     {
       "title": "secIT 2023: 14. bis 16. März",
