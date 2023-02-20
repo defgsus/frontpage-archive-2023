@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-20T13:21:10",
+  "timestamp": "2023-02-20T14:11:27",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -49,14 +49,15 @@
       "image_title": ", TUM Hyperloop"
     },
     {
+      "title": "Eigenes MobilfunknetzRaspi und Open RAN: Eigenes 5G-Netz für zuhause oder die Firma​",
+      "teaser": "Ein von Vodafone entwickelter Prototyp verbindet Open RAN mit einem Raspberry Pi. Das eigene Mobilfunknetz wird eine Option für Haushalte und kleine Firmen.",
+      "url": "https://www.heise.de/news/Raspi-und-Open-RAN-Eigenes-5G-Netz-fuer-zuhause-oder-die-Firma-7521598.html",
+      "image_title": "Vodafone-Manager Santiago Tenorio zeigt eine Mini-Basistation auf Grundlage eines Raspberry Pi und des Software-Standards Open RAN"
+    },
+    {
       "title": "DDR5-ArbeitsspeicherRAM-Riegel mit 48 und 24 GByte im deutschen Handel",
       "teaser": "Normale Desktop-PCs lassen sich bald mit bis zu 192 GByte RAM betreiben – das ermöglichen 48-GByte-Module von Corsair.",
       "url": "https://www.heise.de/news/DDR5-Arbeitsspeicher-RAM-Riegel-mit-48-und-24-GByte-im-deutschen-Handel-7521184.html"
-    },
-    {
-      "title": "Satelliten-InternetStarlink verspricht Internetzugang für 200 US-Dollar \"fast überall auf der Welt\"",
-      "teaser": "Starlink ist zwar in vielen Staaten verfügbar, der Großteil der Welt wird aber offiziell nicht abgedeckt. Das soll sich mit einem Roaming-Angebot nun ändern.",
-      "url": "https://www.heise.de/news/Starlink-verspricht-Internetzugang-fuer-200-US-Dollar-fast-ueberall-auf-der-Welt-7520904.html"
     },
     {
       "title": "ESP32-ProjektTracker für Apples Find-My-Netzwerk bauen",
@@ -100,10 +101,9 @@
       "image_title": "Glasfaser"
     },
     {
-      "title": "SUV im TestMazda CX-60 PHEV: Plug-in-Hybrid mit rauen Sitten",
-      "teaser": "Mazdas derzeit größtes SUV zeigt im Test überraschende Eigenarten. Dazu zählen nicht nur die gewählte Fahrwerksabstimmung, sondern auch ein unrunder Antrieb.",
-      "url": "https://www.heise.de/tests/Mazda-CX-60-PHEV-im-Test-Plug-in-Hybrid-mit-rauen-Sitten-7483467.html",
-      "image_title": "Mazda CX-60 PHEV"
+      "title": "Linux-KernelLinux 6.2 soll Performance trotz Retbleed-Patches zurückbringen",
+      "teaser": "Der Linux-Kernel 6.2 setzt eine neue Retbleed-Strategie um, die Performance-Einbrüche bisheriger Ansätze beseitigt. Auch die Rust-Integration schreitet voran.",
+      "url": "https://www.heise.de/news/Linux-6-2-soll-Performance-trotz-Retbleed-Patches-zurueckbringen-7521579.html"
     },
     {
       "title": "\"Kidѕ Online Safety Act\"US-Chatkontrolle kurz vor dem Start im Senat",
@@ -145,6 +145,68 @@
       "title": "Solaranlagen: Wechselrichtertechnik erklärt",
       "url": "https://www.heise.de/ratgeber/Solaranlagen-Wechselrichtertechnik-erklaert-7463973.html",
       "image_title": ","
+    },
+    {
+      "title": "VW entwickelt E-Auto-Antriebssystem wegen Effizienzvorteilen nun komplett selbst",
+      "teaser": "Volkswagen kündigt auf seinem Tech Day an, den elektrischen Antriebsstrang komplett selbst zu entwickeln, denn der Effizienzvorteil liege bei bis zu 20 Prozent.",
+      "url": "https://www.heise.de/news/VW-entwickelt-E-Auto-Antriebssystem-wegen-Effizienzvorteilen-nun-komplett-selbst-7521628.html"
+    },
+    {
+      "title": "Speicherblase: Micron entlässt 15 Prozent seiner Belegschaft",
+      "teaser": "Der weltweit drittgrößte Speicherhersteller entlässt noch mehr Leute als bisher angekündigt. Einige Tausend müssen sich einen neuen Job suchen.",
+      "url": "https://www.heise.de/news/Speicherblase-Micron-entlaesst-15-Prozent-seiner-Belegschaft-7521681.html"
+    },
+    {
+      "title": "Twitter-Account schützen: Zwei-Faktor-Authentifizierung in iPhone-App ändern",
+      "teaser": "SMS-Authentifizierung erfordert bald ein Twitter-Abo. iOS-Nutzer können leicht auf Einmalkennwörter wechseln, eine Authenticator-App ist nicht nötig.",
+      "url": "https://www.heise.de/ratgeber/Twitter-Account-schuetzen-Zwei-Faktor-Authentifizierung-in-iPhone-App-aendern-7521676.html",
+      "image_title": "Twitter warnt vor Aus für Zwei-Faktor-Authentifizierung per SMS"
+    },
+    {
+      "title": "Linux 6.2 soll Performance trotz Retbleed-Patches zurückbringen",
+      "teaser": "Der Linux-Kernel 6.2 setzt eine neue Retbleed-Strategie um, die Performance-Einbrüche bisheriger Ansätze beseitigt. Auch die Rust-Integration schreitet voran.",
+      "url": "https://www.heise.de/news/Linux-6-2-soll-Performance-trotz-Retbleed-Patches-zurueckbringen-7521579.html"
+    },
+    {
+      "title": "Gasspeicherfüllstände zum Wochenbeginn: Gibt es 2023 genug Gas zum Auffüllen?",
+      "teaser": "Deutschlands Gasspeicher geben weiterhin mehr Gas ab, als neu eingespeichert wird. Mit Blick auf die kommenden Monate stellen sich Fragen zur Wiederauffüllung.",
+      "url": "https://www.heise.de/news/Gasspeicherfuellstaende-zum-Wochenbeginn-Gibt-es-2023-genug-Gas-zum-Auffuellen-7521646.html",
+      "image_title": "Natural,Gas,Meters,Iin,A,Row.,Household,Energy,Consumption.,3d"
+    },
+    {
+      "title": "Neomir: ESA-Sonde soll für uns unsichtbare Asteroiden aus dem All entdecken",
+      "teaser": "Vor zehn Jahren explodierte über Tscheljabinsk urplötzlich ein nicht sehr großer Asteroid. Die ESA will uns künftig drei Wochen Vorwarnzeit einräumen.",
+      "url": "https://www.heise.de/news/Neomir-ESA-Sonde-soll-fuer-uns-unsichtbare-Asteroiden-aus-dem-All-entdecken-7521503.html"
+    },
+    {
+      "title": "3D-Drucker tunen, Teil 1: Wie Sie den Homing-Prozess optimieren",
+      "teaser": "Statt ungenauer Mikroschalter kann man das Blockieren der Motoren am Anschlag der Mechanik als Home-Signal verwenden, die richtige Elektronik vorausgesetzt.",
+      "url": "https://www.heise.de/ratgeber/3D-Drucker-tunen-Teil-1-Wie-Sie-den-Homing-Prozess-optimieren-7480214.html",
+      "image_title": ","
+    },
+    {
+      "title": "Open-Source-Brieftaube: ntfy verschickt Push-Meldungen auf Smartphone und PC ​",
+      "teaser": "Der Pub-Sub-Dienst ntfy ist bislang komplett kostenfrei. Version 2.0 legt die Basis für ein Bezahlmodell – wer selbst Server betreibt, muss weiter nicht zahlen.",
+      "url": "https://www.heise.de/news/Open-Source-Brieftaube-ntfy-verschickt-Push-Meldungen-auf-Smartphone-und-PC-7521583.html"
+    },
+    {
+      "title": "Zeit produktiv nutzen: Fünf Habit-Tracker-Apps im Test",
+      "url": "https://www.heise.de/tests/Im-Test-Fuenf-Habit-Tracker-zum-an-und-abgewoehnen-von-Gewohnheiten-7447783.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
+    },
+    {
+      "title": "Stromverbrauch mit Messgeräten ermitteln und senken",
+      "url": "https://www.heise.de/ratgeber/Stromverbrauch-mit-Messgeraeten-ermitteln-und-senken-7465033.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ","
+    },
+    {
+      "title": "Heizung: Technische Defekte erkennen und analysieren",
+      "url": "https://www.heise.de/ratgeber/Heizung-Technische-Defekte-erkennen-und-analysieren-7465038.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
+      "image_title": ", OlegDoroshin / Shutterstock.com"
+    },
+    {
+      "title": "heise+ Jahresabo",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Raspi und Open RAN: Eigenes 5G-Netz für zuhause oder die Firma​",
@@ -192,25 +254,6 @@
       "image_title": "Raspberry Pi Debug Probe: USB-SWD/UART-Adapter mit RP2040"
     },
     {
-      "title": "Zeit produktiv nutzen: Fünf Habit-Tracker-Apps im Test",
-      "url": "https://www.heise.de/tests/Im-Test-Fuenf-Habit-Tracker-zum-an-und-abgewoehnen-von-Gewohnheiten-7447783.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne"
-    },
-    {
-      "title": "Stromverbrauch mit Messgeräten ermitteln und senken",
-      "url": "https://www.heise.de/ratgeber/Stromverbrauch-mit-Messgeraeten-ermitteln-und-senken-7465033.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ","
-    },
-    {
-      "title": "Heizung: Technische Defekte erkennen und analysieren",
-      "url": "https://www.heise.de/ratgeber/Heizung-Technische-Defekte-erkennen-und-analysieren-7465038.html?wt_mc=intern.red.plus.plus_buehne.startseite.buehne.buehne",
-      "image_title": ", OlegDoroshin / Shutterstock.com"
-    },
-    {
-      "title": "heise+ Jahresabo",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis lesen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
-    },
-    {
       "title": "Nach Cyber-Einbruch: Angreifer leiten GoDaddy-Webseiten um",
       "teaser": "Beim Webhoster GoDaddy konnten Angreifer Anfang Dezember 2022 Schadcode einschleusen, der dort gehostete Webseiten auf Malware-Seiten umleitete.",
       "url": "https://www.heise.de/news/Webhoster-Cyber-Einbrecher-leiten-Webseiten-von-GoDaddy-um-7521325.html"
@@ -235,6 +278,11 @@
       "teaser": "Apple-Partner Goldman Sachs hat eine Milliarde US-Dollar Miese gemacht. Der Grund soll vor allem die Apple Card sein – auch wegen ihrer günstigen Konditionen.",
       "url": "https://www.heise.de/news/Apple-Kreditkarte-Bislang-ein-Verlustgeschaeft-fuer-die-Bank-7519467.html",
       "image_title": "Reklame für die Apple Card"
+    },
+    {
+      "title": "Sicherer Datenaustausch – Motor für die Digitale Souveränität",
+      "teaser": "Digitale Souveränität bedeutet, eigene Daten und Informationen vor unbefugten Zugriffen oder Manipulation zu schützen. Welche Rolle der sichere Datenaustausch dabei spielt und wie Sie das in Ihrem Unternehmen konkret umsetzen können, erfahren Sie im Live-Webcast am 2.3. um Uhr.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherer-datenaustausch-motor-fuer-die-digitale-souveraenitaet-4486/?source=HBSadersatz"
     },
     {
       "title": "Die wichtigsten Safari-Erweiterungen für iOS und macOS im Überblick",
@@ -278,11 +326,6 @@
       "url": "https://www.heise.de/news/Diablo-4-Offene-Beta-im-Maerz-7521042.html"
     },
     {
-      "title": "So geht sichere Softwareentwicklung – vom Code bis zur Cloud",
-      "teaser": "Damit Ihre Software von der Entwicklung bis hin zur Cloud sicher ist, muss der gesamte Anwendungszyklus von Anfang bis Ende betrachtet und entsprechende Maßnahmen ergriffen werden. Im Webcast am 14.3. um 11 Uhr erfahren Sie, welche Punkte hierbei eine Rolle spielen und wie Sie die Herausforderungen in den Griff bekommen.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/so-geht-sichere-softwareentwicklung-vom-code-bis-zur-cloud-4489/?source=hbsad-ersatz"
-    },
-    {
       "title": "iX-Workshop: DNS-Server absichern mit DNSSEC",
       "teaser": "Lernen Sie, wie Sie das Namenserver-Protokoll DNS mit der Erweiterung DNSSEC implementieren und absichern.",
       "url": "https://www.heise.de/news/iX-Workshop-DNS-Server-absichern-mit-DNSSEC-7519180.html"
@@ -292,49 +335,6 @@
       "teaser": "Bislang war es einfach, eine Developer-Beta von iOS auf seinem iPhone zu installieren. In kommenden Betriebssystemen soll dies nur noch gegen Geld möglich sein.",
       "url": "https://www.heise.de/news/iOS-Developer-Beta-Apple-verschaerft-Bedingungen-7521006.html",
       "image_title": "iOS 16"
-    },
-    {
-      "title": "Sechs Jahre nach AlphaGo: Mensch besiegt erneut \"zuverlässig\" stärkste Go-KIs",
-      "teaser": "Eigentlich galt es als klar, dass Menschen gegen Go-Programme den Kürzeren ziehen. Doch gegen eine neue Strategie sind die KI-Systeme – noch – chancenlos.",
-      "url": "https://www.heise.de/news/Sechs-Jahre-nach-AlphaGo-Mensch-besiegt-erneut-zuverlaessig-staerkste-Go-KIs-7520941.html",
-      "image_title": "Expressed,As,Ai(artificial,Intelligence),Playing,Go."
-    },
-    {
-      "title": "Freihandelsabkommen: Autoindustrie fordert neue Gespräche mit den USA",
-      "teaser": "Angesichts der massiven Subventionen durch den Inflation Reduction Act in den USA verlangt die deutsche Autoindustrie Gespräche über ein Freihandelsabkommen.",
-      "url": "https://www.heise.de/news/Inflation-Reduction-Act-Autoindustrie-fordert-neues-Handelsabkommen-mit-USA-7520992.html",
-      "image_title": "Kraftwerk der Volkswagen AG Wolfsburg 1971"
-    },
-    {
-      "title": "Firaxis entwickelt neues \"Civilization\"-Spiel",
-      "teaser": "Beim US-Entwicklerstudio Firaxis entsteht ein neuer Teil der \"Civilization\"-Spielereihe. Der jüngste Ableger \"Civilization 6\" kam 2016 in den Handel.",
-      "url": "https://www.heise.de/news/Firaxis-entwickelt-neues-Civilization-Spiel-7520986.html"
-    },
-    {
-      "title": "Vier FIDO2-Token für den USB-Port im Test",
-      "teaser": "Für eine 2FA-Authentifizierung, die nicht an ein bestimmtes Endgerät gebunden sein soll, bieten sich USB- oder NFC-Token an. Wir haben uns vier davon angesehen.",
-      "url": "https://www.heise.de/hintergrund/Vier-FIDO2-Token-fuer-den-USB-Port-im-Test-7487942.html"
-    },
-    {
-      "title": "AlertPatchday: Fortinet schließt 40 Sicherheitslücken, PoC-Exploit angekündigt",
-      "teaser": "Fortinet hat im Februar Updates für diverse Produkte veröffentlicht, die insgesamt 40 Sicherheitslücken schließen. Davon gelten zwei als kritisch.",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-40-Sicherheitsluecken-PoC-Exploit-angekuendigt-7520937.html"
-    },
-    {
-      "title": "Crashtest-Dummys: \"Die Durchschnittsfrau wurde nie zu einem physischen Modell\"",
-      "teaser": "Die Forscherin Astrid Linder hat den ersten Dummy-Prototyp mit weiblicher Anatomie entwickelt. Was daran anders ist, erklärt sie im Interview.",
-      "url": "https://www.heise.de/hintergrund/Crashtest-Dummys-Die-Durchschnittsfrau-wurde-nie-zu-einem-physischen-Modell-7519164.html"
-    },
-    {
-      "title": "Neues Webinar: Apple Watch im Unternehmenseinsatz",
-      "teaser": "Die Watch bietet Produktivitätsfunktionen und kann zur Arbeitssicherheit beitragen, MDM-Verwaltung fehlt aber. Das Webinar erklärt, worauf Firmen achten müssen.",
-      "url": "https://www.heise.de/news/Neues-Webinar-Apple-Watch-im-Unternehmenseinsatz-7519207.html",
-      "image_title": "Apple Watch im Unternehmenseinsatz"
-    },
-    {
-      "title": "\"Kidѕ Online Safety Act\": US-Chatkontrolle kurz vor dem Start im Senat",
-      "teaser": "Anders als in Europa enthält das US-Kinderschutzgesetz eine Ausnahmeregelung für Ende-zu-Ende-Verschlüsselung. Das schützt US-Unternehmen und nutzt dem Militär.",
-      "url": "https://www.heise.de/hintergrund/Kid-Online-Safety-Act-US-Chatkontrolle-kurz-dem-Start-im-Senat-7520927.html"
     },
     {
       "title": "iPhone 15: USB-C-Anschluss angeblich vernagelt",
@@ -731,19 +731,19 @@
       "url": "https://www.techstage.de/ratgeber/usb-ladegerate-mit-mehreren-anschlussen-so-ladt-man-notebook-macbook-kopfhorer/h56tk97?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "PCK-Raffinerie Schwedt: Bundesregierung macht Weg frei für Entrussifizierung",
+      "teaser": "Eine Gesetzesreform soll helfen, den russischen Einfluss auf die Raffinerie zu beenden. Weil eine Enteignung aufwändig wäre, sollen russische Anteile verkauft werden dürfen.",
+      "url": "https://www.heise.de/tp/features/PCK-Raffinerie-Schwedt-Bundesregierung-macht-Weg-frei-fuer-Entrussifizierung-7521383.html"
+    },
+    {
       "title": "Automatisierte Kommunikation",
       "teaser": "Eine kommunikationstheoretische Einordnung des Chatbots ChatGPT",
       "url": "https://www.heise.de/tp/features/Automatisierte-Kommunikation-7520683.html"
     },
     {
-      "title": "Kämpfer fürs Gute, Kämpfer für den Profit",
-      "teaser": "Von Moralaposteln bis zur Existenzvernichtung. Mit Beiträgen von Christian Kreiß (\"Gekaufte Wissenschaft\") und der Vorsitzenden des Netzwerks Wissenschaftsfreiheit, Sandra Kostner. Zehn Störfaktoren der freien Wissenschaft (Teil 3 und Schluss).",
-      "url": "https://www.heise.de/tp/features/Kaempfer-fuers-Gute-Kaempfer-fuer-den-Profit-7518669.html"
-    },
-    {
-      "title": "Krim als legitimes Ziel? Moskau sieht USA als Kriegstreiber",
-      "teaser": "Mit harschen Worten reagierte das russische Außenministerium auf Äußerungen aus Washington. Man unterstütze Angriffe auf die Krim, erklärte US-Spitzendiplomatin.",
-      "url": "https://www.heise.de/tp/features/Krim-als-legitimes-Ziel-Moskau-sieht-USA-als-Kriegstreiber-7520391.html"
+      "title": "Billige Atomkraft? Wie Frankreichs EDF mit Rekordverlust umgeht",
+      "teaser": "AKW haben so wenig Strom wie seit 1988 nicht mehr produziert. Regierung will an Sparbücher der Bürger heran, um kostspielige und fehleranfällige EPR-Reaktoren zu bauen.",
+      "url": "https://www.heise.de/tp/features/Billige-Atomkraft-Wie-Frankreichs-EDF-mit-Rekordverlust-umgeht-7521171.html"
     },
     {
       "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
