@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-20T12:24:33",
+  "timestamp": "2023-02-20T13:21:18",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -43,14 +43,14 @@
       "url": "https://www.heise.de/news/Astronomie-Hypothetischer-neunter-Planet-koennte-Monde-haben-7495319.html"
     },
     {
+      "title": "Zentralisiertes Logging mit Loki: Alternative zu Splunk und ELK in der Praxis",
+      "teaser": "Zentralisiertes Logging ist in großen verteilten Umgebungen und dynamischen Cloud-Set-ups unverzichtbar. Loki von Grafana Labs ist eine leistungsfähige Option.",
+      "url": "https://www.heise.de/ratgeber/Zentralisiertes-Logging-mit-Loki-Alternative-zu-Splunk-und-ELK-in-der-Praxis-7520965.html"
+    },
+    {
       "title": "2-Faktor-Authentifizierung im Unternehmen einführen",
       "teaser": "Nicht die Technik ist bei einer 2FA-Einführung die Herausforderung. Vielmehr sind es die Forderungen verschiedener Stakeholder und weitreichende Auswirkungen.",
       "url": "https://www.heise.de/hintergrund/2-Faktor-Authentifizierung-im-Unternehmen-einfuehren-7496594.html"
-    },
-    {
-      "title": "Node-Red: PoE-Geräte per Netzwerkprotokoll SNMP ein- und ausschalten",
-      "teaser": "Viele PoE-Geräte sind an, auch wenn sie nicht gebraucht werden. Wir zeigen, wie Sie den Betrieb mit verwalteten PoE-Switches daheim in Node-Red automatisieren.",
-      "url": "https://www.heise.de/ratgeber/Node-Red-PoE-Geraete-per-Netzwerkprotokoll-SNMP-ein-und-ausschalten-7487132.html"
     },
     {
       "title": "Frankreich, Italien und Texas: Über 20 Fragmente von Meteoriten in einer Woche",
@@ -66,6 +66,11 @@
       "title": "Mikrocontroller-Programmierung: Fehler in Bibliothek verhindert das Kompilieren",
       "teaser": "Für den beim Kompilieren eines ESP-Server-Programms lästigen Fehler \"WebAuthentication.cpp undefined reference to `mbedtls_md5_starts'\" gibt es eine Lösung.",
       "url": "https://www.heise.de/ratgeber/Mikrocontroller-Programmierung-Fehler-in-Bibliothek-verhindert-das-Kompilieren-7520947.html"
+    },
+    {
+      "title": "Node-Red: PoE-Geräte per Netzwerkprotokoll SNMP ein- und ausschalten",
+      "teaser": "Viele PoE-Geräte sind an, auch wenn sie nicht gebraucht werden. Wir zeigen, wie Sie den Betrieb mit verwalteten PoE-Switches daheim in Node-Red automatisieren.",
+      "url": "https://www.heise.de/ratgeber/Node-Red-PoE-Geraete-per-Netzwerkprotokoll-SNMP-ein-und-ausschalten-7487132.html"
     },
     {
       "title": "Sechs Jahre nach AlphaGo: Mensch besiegt erneut \"zuverlässig\" stärkste Go-KIs",
@@ -127,11 +132,6 @@
       "title": "Windows: Microsofts Sound-Management ist eine Qual",
       "teaser": "Haben Sie sich schon mal gewundert, warum sich die Mikrofon-Laustärke unter Windows 10 und 11 automatisch verstellt? Dann sind Sie nicht allein.",
       "url": "https://www.heise.de/meinung/Mikro-zu-leise-Was-erlauben-Windows-7519097.html"
-    },
-    {
-      "title": "Kubernetes von AWS und IONOS härten",
-      "teaser": "Bei großen Anbietern wie AWS und IONOS ist Kubernetes stärker in die Managed-Angebote integriert und somit variiert das Vorgehen zur Absicherung auch stärker.",
-      "url": "https://www.heise.de/ratgeber/Kubernetes-von-AWS-und-IONOS-haerten-7477940.html"
     }
   ]
 }
