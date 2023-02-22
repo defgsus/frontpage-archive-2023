@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-22T09:13:12",
+  "timestamp": "2023-02-22T10:14:02",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -13,6 +13,21 @@
     }
   ],
   "articles": [
+    {
+      "title": "Bundesliga",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/fc-bayern-muenchen/mobile243899913/3792506687-ci102l-w1024/Bundesliga-Borussia-Moenchengladbach-v-Bayern-Munich.jpg",
+      "image_title": "Bundesliga - Borussia Moenchengladbach v Bayern Munich",
+      "topic": "Felix Magath"
+    },
+    {
+      "title": "Good Klopp – Bad Klopp",
+      "url": "https://www.welt.de/sport/plus243820331/FC-Liverpool-von-Real-Madrid-gedemuetigt-Good-Klopp-Bad-Klopp.html",
+      "image_url": "https://img.welt.de/img/sport/mobile243820797/1152509767-ci102l-w1024/Liverpool-FC-v-Real-Madrid-UEFA-Champions-League-Final-2021-22.jpg",
+      "image_title": "Große Teams steigen, fallen, müssen sich wieder aufrappeln. Große Trainer auch",
+      "topic": "Erlöser in der Krise",
+      "author": "Florian Haupt"
+    },
     {
       "title": "Champions League",
       "url": "https://www.welt.de/sport/fussball/champions-league/",
@@ -34,20 +49,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/champions-league/mobile243897761/2722504837-ci102l-w1024/775897935.jpg",
       "image_title": "Jürgen Klopp kassiert mit dem FC Liverpool eine ganz bittere Niederlage gegen Real Madrid",
       "topic": "Historisches Debakel"
-    },
-    {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile243897859/8502508037-ci102l-w1024/Eintracht-Frankfurt-v-SSC-Napoli-Round-of-16-Leg-One-UEFA-Cham.jpg",
-      "image_title": "Frankfurt kassiert gegen Neapel eine bittere Niederlage, denkt aber nicht ans Aufgeben",
-      "topic": "Champions League"
-    },
-    {
-      "title": "Champions League",
-      "url": "https://www.welt.de/sport/fussball/champions-league/",
-      "image_url": "https://img.welt.de/img/sport/fussball/champions-league/mobile243899393/2082504987-ci102l-w1024/Champions-League-Round-of-16-First-Leg-Eintracht-Frankfurt-v.jpg",
-      "image_title": "Champions League - Round of 16 First Leg - Eintracht Frankfurt v Napoli",
-      "topic": "Heimpleite gegen Neapel"
     },
     {
       "title": "„Muss kein Wunder sein“ - Frankfurt trotz Pleite gegen Neapel optimistisch",
@@ -159,26 +160,25 @@
       "author": "Oliver Müller"
     },
     {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Frankfurt kassiert gegen Neapel eine bittere Niederlage, denkt aber nicht ans Aufgeben",
+      "topic": "Champions League"
+    },
+    {
+      "title": "Champions League",
+      "url": "https://www.welt.de/sport/fussball/champions-league/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Champions League - Round of 16 First Leg - Eintracht Frankfurt v Napoli",
+      "topic": "Heimpleite gegen Neapel"
+    },
+    {
       "title": "Champions League",
       "url": "https://www.welt.de/sport/fussball/champions-league/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Polizeieinsatz bei Fußball-Derby",
       "topic": "Neun Festnahmen"
-    },
-    {
-      "title": "„Ich werde nicht und ich kann nicht gehen. Meine Verantwortung ist zu groß“",
-      "url": "https://www.welt.de/sport/plus243820331/Juergen-Klopp-Ich-werde-nicht-und-ich-kann-nicht-gehen-Meine-Verantwortung-ist-zu-gross.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Große Teams steigen, fallen, müssen sich wieder aufrappeln. Große Trainer auch",
-      "topic": "Good Klopp – Bad Klopp",
-      "author": "Florian Haupt"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Marcel Sabitzer (r., im Duell mit Timothy Castagne) sorgt in einem anderen Zweikampf für Debatten um ein absichtliches Foulspiel",
-      "topic": "Manchester United"
     },
     {
       "title": "Formel 1",
@@ -259,6 +259,13 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "FBL-EUR-C1-PSG-MUNICH",
       "topic": "FC Bayern"
+    },
+    {
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Marcel Sabitzer (r., im Duell mit Timothy Castagne) sorgt in einem anderen Zweikampf für Debatten um ein absichtliches Foulspiel",
+      "topic": "Manchester United"
     },
     {
       "title": "„Gescheitert, bankrott, abgestiegen – dann kam ich“",
@@ -365,14 +372,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Hasan Salihamid·i·",
       "topic": "FC Bayern"
-    },
-    {
-      "title": "Zeitenwende bei Hertha",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/hertha-bsc/plus243841049/Hertha-BSC-Klubpolitik-in-Truemmern-Zeitenwende-bei-den-Berlinern.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Herthas Team vergangenes Wochenende nach dem ersten Sieg im neuen Jahr. Viele Spieler müssen durch den neuen Berliner Weg um ihre Zukunft zittern",
-      "topic": "Klubpolitik in Trümmern",
-      "author": "Roberto Lamprecht"
     },
     {
       "title": "Mit diesen Übungen finden Sie auch das innere Gleichgewicht",
@@ -500,18 +499,18 @@
       "topic": "Nach umstrittenem Platzverweis"
     },
     {
-      "title": "St. Pauli dreht mit traumhafter Vorlage kurz vor Schluss das Spiel – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video243796495/1-FC-Magdeburg-FC-St-Pauli-Highlights-Hartels-Traum-Vorlage-im-Video-2-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile243841747/1962508257-ci102l-w1024/1-FC-Magdeburg-FC-St-Pauli.jpg",
-      "image_title": "1. FC Magdeburg - FC St. Pauli",
-      "topic": "Spätes Comeback in Magdeburg"
-    },
-    {
       "title": "Doppelpacker Ache schießt Fürth zum Sieg gegen Düsseldorf – Die Highlights im Video",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/video243796453/Greuther-Fuerth-Fortuna-Duesseldorf-Highlights-Ache-trifft-doppelt-2-Bundesliga.html",
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile243841809/5772509667-ci102l-w1024/SpVgg-Greuther-Fuerth-Fortuna-Duesseldorf.jpg",
       "image_title": "SpVgg Greuther Fürth - Fortuna Düsseldorf",
       "topic": "Frankfurt-Leihgabe"
+    },
+    {
+      "title": "St. Pauli dreht mit traumhafter Vorlage kurz vor Schluss das Spiel – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video243796495/1-FC-Magdeburg-FC-St-Pauli-Highlights-Hartels-Traum-Vorlage-im-Video-2-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile243841747/1962508257-ci102l-w1024/1-FC-Magdeburg-FC-St-Pauli.jpg",
+      "image_title": "1. FC Magdeburg - FC St. Pauli",
+      "topic": "Spätes Comeback in Magdeburg"
     },
     {
       "title": "Hannover kassiert fragwürdigen Elfer und feiert spätes Comeback – Die Highlights im Video",
