@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-22T08:16:40",
+  "timestamp": "2023-02-22T09:13:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "FortiNAC",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-Code-fuer-kritische-Fortinet-FortiNAC-Luecke-in-Umlauf-7523427.html"
+    },
+    {
+      "title": "VMware",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-VMware-dichtet-kritisches-Sicherheitsleck-ab-7523335.html"
+    },
+    {
       "title": "Foxit",
       "url": "https://www.heise.de/news/Foxit-PDF-Updates-dichten-hochriskante-Schwachstellen-ab-7523313.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/CISA-warnt-Moegliche-System-Kompromittierung-durch-Luecken-in-Thunderbird-7521002.html"
     },
     {
-      "title": "Patchday: Fortinet",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-40-Sicherheitsluecken-PoC-Exploit-angekuendigt-7520937.html"
+      "title": "Jetzt patchen! Exploit-Code für kritische Fortinet FortiNAC-Lücke in Umlauf",
+      "teaser": "Da Exploit-Code veröffentlicht wurde, könnten Angreifer Fortinets Netzwerk-Zugangskontrolllösung FortiNAC ins Visier nehmen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-Code-fuer-kritische-Fortinet-FortiNAC-Luecke-in-Umlauf-7523427.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Angreifer-koennten-Ciscos-Netzwerk-Management-Nexus-Dashboard-lahmlegen-7518513.html"
+      "title": "Sicherheitsupdates: VMware dichtet kritisches Sicherheitsleck ab",
+      "teaser": "VMware schließt mit Updates für Carbon Black App Control und vRealize sowie Cloud Foundation eine kritische und eine hochriskante Schwachstelle.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-VMware-dichtet-kritisches-Sicherheitsleck-ab-7523335.html"
     },
     {
       "title": "Millionen Meldedaten veröffentlicht: GIS droht Anspruch auf Schadenersatz",
@@ -139,18 +149,6 @@
       "title": "Jetzt patchen! Entwickler des CMS Joomla warnen vor kritischer Sicherheitslücke",
       "teaser": "Es ist ein \"sehr wichtiger\" Sicherheitspatch für Joomla erscheinen.",
       "url": "https://www.heise.de/news/Patch-in-Sicht-Entwickler-des-CMS-Joomla-warnen-vor-kritischer-Sicherheitsluecke-7517312.html"
-    },
-    {
-      "title": "LNG-Terminals angeblich unzureichend geschützt: Das sagen die Betreiber",
-      "teaser": "Die deutschen Flüssigerdgas-Terminals sollen laut einem Medienbericht unzureichend gegen Cyberangriffe geschützt sein. Das sagen die Betreiber dazu.",
-      "url": "https://www.heise.de/news/LNG-Terminals-angeblich-unzureichend-geschuetzt-Das-sagen-die-Betreiber-7518015.html",
-      "image_title": "Ein LNG-Schiff von oben"
-    },
-    {
-      "title": "DDoS-Attacken? – Websites mehrerer deutscher Flughäfen offline",
-      "teaser": "Einen Tag nach dem Flugchaos bei der Lufthansa sind die Websites mehrerer deutscher Airports offline gegangen. Hintergrund sind offenbar DDoS-Attacken.",
-      "url": "https://www.heise.de/news/Wohl-nach-DDoS-Angriffen-Mehrere-Websites-deutscher-Flughaefen-offline-7517691.html",
-      "image_title": "Blick aus einem Wartebereich des Flughafens Barcelona, im Hintergrund ein startendes Flugzeug."
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
