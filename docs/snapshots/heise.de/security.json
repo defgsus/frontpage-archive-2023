@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-23T07:11:46",
+  "timestamp": "2023-02-23T08:16:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP BIOS",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-HP-Computer-fuer-Schadcode-Attacken-anfaellig-7524562.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Kritische-Luecke-in-Google-Chrome-7524451.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-Code-fuer-kritische-Fortinet-FortiNAC-Luecke-in-Umlauf-7523427.html"
     },
     {
-      "title": "VMware",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-VMware-dichtet-kritisches-Sicherheitsleck-ab-7523335.html"
+      "title": "BIOS-Sicherheitsupdates: HP-Computer für Schadcode-Attacken anfällig",
+      "teaser": "In aktualisierten BIOS-Versionen für HP-Computer haben die Entwickler mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/BIOS-Sicherheitsupdates-HP-Computer-fuer-Schadcode-Attacken-anfaellig-7524562.html"
     },
     {
       "title": "Apple erzwingt Nutzung von iOS 16.3.1 – wegen Sicherheitslücken in Vorversion",
@@ -147,11 +152,6 @@
       "title": "iX-Workshop: DNS-Server absichern mit DNSSEC",
       "teaser": "Lernen Sie, wie Sie das Namenserver-Protokoll DNS mit der Erweiterung DNSSEC implementieren und absichern.",
       "url": "https://www.heise.de/news/iX-Workshop-DNS-Server-absichern-mit-DNSSEC-7519180.html"
-    },
-    {
-      "title": "Patchday: Fortinet schließt 40 Sicherheitslücken, PoC-Exploit angekündigt",
-      "teaser": "Fortinet hat im Februar Updates für diverse Produkte veröffentlicht, die insgesamt 40 Sicherheitslücken schließen. Davon gelten zwei als kritisch.",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-40-Sicherheitsluecken-PoC-Exploit-angekuendigt-7520937.html"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
