@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-23T06:16:15",
+  "timestamp": "2023-02-23T07:11:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Kritische-Luecke-in-Google-Chrome-7524451.html"
+    },
+    {
       "title": "IBM Aspera Faspex, Mitel MiVoice",
       "url": "https://www.heise.de/news/Warnung-vor-Angriffen-auf-IBM-Aspera-Faspex-und-Mitel-MiVoice-7523870.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-VMware-dichtet-kritisches-Sicherheitsleck-ab-7523335.html"
     },
     {
-      "title": "Foxit",
-      "url": "https://www.heise.de/news/Foxit-PDF-Updates-dichten-hochriskante-Schwachstellen-ab-7523313.html"
+      "title": "Apple erzwingt Nutzung von iOS 16.3.1 – wegen Sicherheitslücken in Vorversion",
+      "teaser": "Um sicherzustellen, dass Nutzer das aktuelle Betriebssystem verwenden, verbietet Apple nun das Einspielen von iOS 16.3. Darin gab es aktiv ausgenutzte Lücken.",
+      "url": "https://www.heise.de/news/Apple-erzwingt-Nutzung-von-iOS-16-3-1-wegen-Sicherheitsluecken-in-Vorversion-7523516.html",
+      "image_title": "iOS 16"
+    },
+    {
+      "title": "Webbrowser: Kritische Lücke in Google Chrome",
+      "teaser": "Google hat im Webbrowser Chrome zehn Sicherheitslücken geschlossen. Eine davon ist kritisch und ermöglicht Angreifern Codeschmuggel mit manipulierten Webseiten.",
+      "url": "https://www.heise.de/news/Webbrowser-Kritische-Luecke-in-Google-Chrome-7524451.html"
     },
     {
       "title": "Von Apple abgenickt: Fragwürdige Authenticator-Apps suchen Opfer im App Store",
@@ -141,16 +152,6 @@
       "title": "Patchday: Fortinet schließt 40 Sicherheitslücken, PoC-Exploit angekündigt",
       "teaser": "Fortinet hat im Februar Updates für diverse Produkte veröffentlicht, die insgesamt 40 Sicherheitslücken schließen. Davon gelten zwei als kritisch.",
       "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-40-Sicherheitsluecken-PoC-Exploit-angekuendigt-7520937.html"
-    },
-    {
-      "title": "Gesichtserkennung: Kritik an Schweizer Bahn wegen \"Kundenbespitzelung\"",
-      "teaser": "57 Schweizer Bahnhöfe sollen Videokameras zur Gesichtserkennung erhalten. Das soll auch den SBB-Umsatz steigern helfen. Datenschützer sehen erhebliche Risiken.",
-      "url": "https://www.heise.de/news/Gesichtserkennung-Kritik-an-Schweizer-Bahn-wegen-Kundenbespitzelung-7520789.html"
-    },
-    {
-      "title": "Abhörsichere Kommunikation in der EU: Deutsche Telekom leitet Aufbau von EuroQCI",
-      "teaser": "In der EU soll mit Hilfe von Quanten-Kryptografie ein hochsicheres Kommunikationsnetz entstehen. Die Arbeit dafür leitet die Deutsche Telekom.",
-      "url": "https://www.heise.de/news/Quantenkommunikation-Deutsche-Telekom-leitet-Aufbau-der-EU-Hochsicherheitsnetze-7520669.html"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
