@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-24T14:11:43",
+  "timestamp": "2023-02-24T15:12:00",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Schuldenbremse wird eingehalten"
+    },
     {
       "title": "Medwedew droht, Ukraine bis an „die Grenze Polens“ zu besiegen",
       "url": "https://www.welt.de/politik/ausland/article243938755/Ukraine-News-Medwedew-droht-Ukraine-bis-an-die-Grenze-Polens-zu-besiegen.html",
@@ -37,11 +42,6 @@
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
       "topic": "Universität Bonn"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "topic": "Achtelfinale Europa League"
     },
     {
       "title": "Dicht dran",
@@ -71,6 +71,17 @@
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "Ein Jahr Ukraine-Krieg – Melnyk, Wagenknecht, Hofreiter und Kiesewetter im Streitgespräch",
+      "url": "https://www.welt.de/mediathek/talk/politik/welt-talk/video243946705/WELT-TALK-Ein-Jahr-Krieg-Melnyk-Wagenknecht-Hofreiter-und-Kiesewetter-im-Streitgespraech.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Wir brauchen mehr Unterstützung an Waffen und Munition“",
+      "url": "https://www.welt.de/politik/ausland/video243952981/Krieg-in-der-Ukraine-Diese-Forderungen-stellt-der-ukrainische-Botschafter-Makeiev.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Ukrainischer Botschafter"
     },
     {
       "title": "„Die Ukraine ist taktisch, operativ und strategisch klar im Vorteil“",
