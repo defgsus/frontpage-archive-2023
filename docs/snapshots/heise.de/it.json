@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-02-28T16:17:49",
+  "timestamp": "2023-02-28T17:12:14",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,23 +43,35 @@
       "image_title": "Windows-Installationsschlüssel auslesen mit dem c't KeyFinder"
     },
     {
+      "title": "Gratis fensterln: So gut läuft Windows 11 auf dem Mac mit UTM",
+      "teaser": "Wir haben geprüft, wie sich Windows 11 in UTM auf dem Mac verhält, welche Apps darin laufen und wie es im Vergleich zum Virtualisierer Parallels abschneidet.",
+      "url": "https://www.heise.de/tests/Gratis-fensterln-So-gut-laeuft-Windows-11-auf-dem-Mac-mit-UTM-7530071.html",
+      "image_title": ","
+    },
+    {
       "title": "Analyse mit Python: Daten optimal auswerten mit D-Tale",
       "teaser": "Der erste Blick auf Daten entscheidet oft, wie man mit ihnen umgeht. Die Python-Bibliothek D-Tale sieht aus wie Excel, bietet aber bessere Analysefunktionen.",
       "url": "https://www.heise.de/ratgeber/Analyse-mit-Python-Daten-optimal-auswerten-mit-D-Tale-7528930.html"
     },
     {
-      "title": "Kaufberatung: Günstige WLAN-Kamera auf ESP32-Basis",
-      "teaser": "Gerade mal 10 Euro kosten fertige WLAN-Kameras für offene Firmware. Um mal eben Haustiere, Haustechnik oder Hausfreunde im Blick zu behalten.",
-      "url": "https://www.heise.de/ratgeber/Kaufberatung-Guenstige-WLAN-Kamera-auf-ESP32-Basis-7496312.html",
-      "image_title": ","
+      "title": "Linux 6.2 mit Neuerungen für Apple-Silicon",
+      "teaser": "Mehr und mehr Code des Asahi-Linux-Projekts fließt in den Mainline-Kernel. Linux auf Macs mit M-Chips bleibt aber weiterhin experimentell.",
+      "url": "https://www.heise.de/news/Linux-6-2-mit-Neuerungen-fuer-Apple-Silicon-7530848.html",
+      "image_title": "Asahi Linux auf einem Macbook Air M1"
     },
     {
-      "title": "Dell XPS 15 & 17: Edel-Notebooks bekommen stärkere GPUs",
+      "title": "iMessages und mehr: Microsoft baut iPhone-Integration in Windows 11 aus",
+      "teaser": "Die Smartphone-Link-App von Windows 11 bringt iPhone-Benachrichtigungen in das Microsoft-Betriebssystem. Auch iMessages sollen sich so verschicken lassen.",
+      "url": "https://www.heise.de/news/iMessages-und-mehr-Microsoft-baut-iPhone-Integration-in-Windows-11-aus-7530856.html",
+      "image_title": "iPhone-Nachrichten in Windows"
+    },
+    {
+      "title": "XPS 15 & 17: Dell rüstet auf – bis zur GeForce RTX 4080",
       "teaser": "Die 2023er-Generation der XPS-Notebooks bekommt schnellere CPUs und GPUs. Mit dabei ist der 14-Kerner Core i9-13900H.",
       "url": "https://www.heise.de/news/Dell-XPS-15-17-Edel-Notebooks-bekommen-staerkere-GPUs-7530826.html"
     },
     {
-      "title": "FFmpeg 6.0 ist da, bringt AV1-Hardware-Dekodierung und Multi-Threading",
+      "title": "Schnellere Web-Videos für alle: FFmpeg 6.0 ist da",
       "teaser": "Mit dem neuen Release 6.0 führt FFmpeg die AV1-Hardware-Dekodierung für Nvidia-, Intel- und AMD-GPUs ein – von der alle Nutzer profitieren werden.",
       "url": "https://www.heise.de/news/FFmpeg-6-0-ist-da-bringt-AV1-Hardware-Dekodierung-und-Multi-Threading-7530592.html"
     },
@@ -97,6 +109,12 @@
       "url": "https://www.heise.de/news/betterCode-API-Bis-8-Maerz-gilt-der-Fruehbucherrabatt-der-Web-API-Konferenz-7529984.html"
     },
     {
+      "title": "Kaufberatung: Günstige WLAN-Kamera auf ESP32-Basis",
+      "teaser": "Gerade mal 10 Euro kosten fertige WLAN-Kameras für offene Firmware. Um mal eben Haustiere, Haustechnik oder Hausfreunde im Blick zu behalten.",
+      "url": "https://www.heise.de/ratgeber/Kaufberatung-Guenstige-WLAN-Kamera-auf-ESP32-Basis-7496312.html",
+      "image_title": ","
+    },
+    {
       "title": "Einplatinencomputer Odroid H3 als NAS und Heimserver einrichten",
       "teaser": "Die Rolle als NAS und Heimserver ist dem Odroid H3 auf den Leib geschneidert. Wir führen durch die Einrichtung der NAS-Linux-Distribution Open Media Vault 6.",
       "url": "https://www.heise.de/ratgeber/Einplatinencomputer-Odroid-H3-als-NAS-und-Heimserver-einrichten-7496088.html"
@@ -118,21 +136,6 @@
       "teaser": "Kabel ohne Apple-Zertifizierung bremst das iPhone 15 einem Bericht zufolge aus, sowohl in Hinblick auf Schnellladen als auch Datenübertragung.",
       "url": "https://www.heise.de/news/USB-C-im-iPhone-15-Volle-Geschwindigkeit-angeblich-nur-mit-Apples-Segen-7530410.html",
       "image_title": "iPhone 13 mit Lightning-Anschluss"
-    },
-    {
-      "title": "E-Learning mit Entertainment: Der neue Cybersecurity-Kurs der heise Academy",
-      "teaser": "In der IT-Sicherheit ist der Mitarbeiter häufig der größte Risikofaktor. Mit neuen Ansätzen durch zeitgemäßes Lernen kann für Abhilfe gesorgt werden.",
-      "url": "https://www.heise.de/news/E-Learning-mit-Entertainment-der-neue-Cybersecurity-Kurs-der-heise-Academy-7526970.html"
-    },
-    {
-      "title": "Youtube Health führt Siegel ein: Dr. Google soll sicherer werden",
-      "teaser": "Bei Youtube bekommen Ärzte, Organisationen und Krankenhäuser ein Siegel, das gegen medizinische Desinformation stehen soll. Bewerbungsprozess ist bereits offen.",
-      "url": "https://www.heise.de/news/Youtube-Health-startet-in-Deutschland-Siegel-und-Schelfe-fuer-Inhalteersteller-7530139.html"
-    },
-    {
-      "title": "WithSecure & F-Secure: Verbesserter Malware-Schutz",
-      "teaser": "Sowohl die Business-Sparte WithSecure als auch der Konsumentenbereich F-Secure haben neue Funktionen und Produkte im Köcher, die den Schutz verbessern sollen.",
-      "url": "https://www.heise.de/news/WithSecure-F-Secure-Verbesserter-Malware-Schutz-7529787.html"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
