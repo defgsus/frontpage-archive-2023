@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-01T06:17:40",
+  "timestamp": "2023-03-01T07:12:29",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "LastPass-Hack: Angreifer hackten Privat-PC von DevOps-Entwickler",
+      "teaser": "Die erfolgreichen Attacken auf die IT-Systeme des Passwortmanager-Anbieters LastPass geht auf eine Verkettung von verschiedenen Umständen zurück.",
+      "url": "https://www.heise.de/news/LastPass-Hack-Angreifer-hackten-Privat-PC-von-DevOpS-Entwickler-7529717.html",
+      "image_title": "Passwort"
+    },
+    {
       "title": "Open Gateway APIs: Netzbetreiber öffnen ihre Infrastruktur",
       "teaser": "21 Netzbetreiber und zahlreiche Unterstützer aus verschiedenen Tech-Branchen arbeiten bei der Linux Foundation an einheitlichen Schnittstellen zu Netzdiensten.",
       "url": "https://www.heise.de/news/Open-Gateway-Die-Telcos-oeffnen-ihre-Netze-fuer-die-Cloud-7528771.html",
@@ -35,12 +41,6 @@
       "title": "Exchange: Aktualisierte Best-Practices für Virenschutz-Ausnahmen von Microsoft",
       "teaser": "Um Virenschutz mit möglichst wenigen Problemen auf einem Exchange-Server laufen zu lassen, empfiehlt Microsoft Scan-Ausnahmen. Die Liste wurde aktualisiert.",
       "url": "https://www.heise.de/news/Exchange-Microsoft-aktualisiert-empfohlene-Ausnahmen-fuer-Virenscan-auf-Server-7528210.html"
-    },
-    {
-      "title": "FAQ: Windows-Installationsschlüssel mit dem c’t-KeyFinder recyceln",
-      "teaser": "Mit dem c't-KeyFinder-Skript lesen Sie alle Installationsschlüssel aus Windows-Systemen aus. Wir beantworten die häufigsten Fragen, die dabei auftauchen können.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Windows-Installationsschluessel-mit-dem-c-t-KeyFinder-recyceln-7520457.html",
-      "image_title": "Windows-Installationsschlüssel auslesen mit dem c't KeyFinder"
     },
     {
       "title": "Gratis fensterln: So gut läuft Windows 11 auf dem Mac mit UTM",
@@ -54,6 +54,11 @@
       "url": "https://www.heise.de/ratgeber/Analyse-mit-Python-Daten-optimal-auswerten-mit-D-Tale-7528930.html"
     },
     {
+      "title": "c’t-Workshop: CI/CD mit GitLab lernen und vertiefen",
+      "teaser": "Continuous Integration und Continuous Delivery: Der c’t-Workshop führt GitLab CI ein und übt, damit Softwareprojekte zu bauen, zu testen und zu veröffentlichen.",
+      "url": "https://www.heise.de/news/c-t-Workshop-CI-CD-mit-GitLab-lernen-und-vertiefen-7530796.html"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: EUV-Lithografietechnik von Zeiss",
       "teaser": "Chip-Fertigung benötigt modernste Lithografietechnik, etwa mit EUV-Licht. Ein Gespräch mit dem Experten Dr. Peter Kürz von ZEISS: Podcast Bit-Rauschen 2023/5.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-EUV-Lithografietechnik-von-Zeiss-7249805.html",
@@ -65,7 +70,7 @@
       "url": "https://www.heise.de/ratgeber/Altes-Netzteil-fuehrt-zu-Problemen-7519764.html"
     },
     {
-      "title": "Microsoft erweitert Taskleiste von Windows 11 per Update um KI-gestütztes Bing",
+      "title": "Windows 11: Microsoft bringt Bings KI-Chatbot per Update in die Taskleiste",
       "teaser": "Neben der KI-Suche per Windows-Update gibt es auch Phone-Link für iOS, Touch-Verbesserungen, Widget-Erweiterungen, Bildschirmaufzeichnungen und Notepad-Tabs.",
       "url": "https://www.heise.de/news/Microsoft-erweitert-Taskleiste-von-Windows-11-per-Update-um-KI-gestuetztes-Bing-7531067.html",
       "image_title": "Notebook mit Windows 11"
@@ -131,11 +136,6 @@
       "title": "Gmail bekommt Client-seitige Verschlüsselung",
       "teaser": "Gmails neue Client-seitige Verschlüsselung ist reif für den Firmeneinsatz. Mit ihr können zahlende Kunden stets die Kontrolle über ihre Daten behalten.",
       "url": "https://www.heise.de/news/Gmail-bekommt-Client-seitige-Verschluesselung-7530308.html"
-    },
-    {
-      "title": "betterCode() API: Bis 8. März gilt der Frühbucherrabatt der Web-API-Konferenz",
-      "teaser": "Am 30. März und 27. April bieten die Vorträge der Online-Konferenz einen Querschnitt zu den derzeit wichtigsten Themen der Entwicklung von Web-APIs.",
-      "url": "https://www.heise.de/news/betterCode-API-Bis-8-Maerz-gilt-der-Fruehbucherrabatt-der-Web-API-Konferenz-7529984.html"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
