@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-03-03T04:27:35",
+  "timestamp": "2023-03-03T05:16:39",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,364 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.bd95c1c4.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.ef77e078.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.2bfd2aee.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.47de16ac.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9a54d637.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Geldstrafen für Blockierer der A96 : Klima-Chaotin „Schmierjam“ wieder verurteilt",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/geldstrafen-fuer-a96-blockierer-klima-chaotin-schmierjam-wieder-verurteilt-83076714.bild.html",
-      "image_title": "Geldstrafen für A 96-Blockierer: Klima-Chaotin Schmierjam wieder verurteilt"
-    },
-    {
-      "title": "Polizei Köln sucht Räuber-Duo : Euch vergeht das Grinsen noch!",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/polizei-koeln-sucht-raeuber-duo-euch-vergeht-das-grinsen-noch-83071748.bild.html",
-      "image_title": "Polizei Köln sucht Räuber-Duo: Euch vergeht das Grinsen noch!"
-    },
-    {
-      "title": "Hier ist kein Platz mehr für Flüchtlinge : „Wir haben nicht genügend Unterkünfte“",
-      "teaser": "Landräte in Deutschland schlugen Mitte Februar Alarm.",
-      "url": "https://www.bild.de/regional/berlin/news-inland/neuhardenberg-neue-fluechtlinge-wir-haben-nicht-genuegend-unterkuenfte-83029610.bild.html",
-      "image_title": "Neuhardenberg – Neue Flüchtlinge: „Wir haben nicht genügend Unterkünfte“"
-    },
-    {
-      "title": "BVB-Profi in Berlin bestohlen : Nico Schulz’ wilde Jagd nach seinen Kopfhörern",
-      "teaser": "Fußballprofi Nico Schulz (29) wurde in Berlin-Kreuzberg bestohlen! Drama in sechs Akten.",
-      "url": "https://www.bild.de/bild-plus/regional/berlin/berlin-aktuell/bvb-profi-in-berlin-bestohlen-nico-schulz-wilde-jagd-nach-seinen-kopfhoerern-83073554.bild.html",
-      "image_title": "BVB-Profi in Berlin bestohlen: Nico Schulz’ wilde Jagd nach seinen Kopfhörern"
-    },
-    {
-      "title": "Nach Horror-Verletzung : Werder-Fritz leidet mit Gebre Selassie",
-      "url": "https://www.bild.de/sport/fussball/werder-bremen/werder-bremen-horror-verletzung-clemens-fritz-leidet-mit-theo-gebre-selassie-83074892.bild.html",
-      "image_title": "Werder Bremen: Horror-Verletzung! Clemens Fritz leidet mit Theo Gebre Selassie"
-    },
-    {
-      "title": "Berufungsprozess : Kapitän fuhr seine Freunde mit Sportboot tot",
-      "teaser": "Beim Hafenfest von Barßel rasten nachts zwei Speedboote aufeinander zu, dann knallte es.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/kapitaen-vor-dem-hanseatischen-oberlandesgericht-im-suff-fuhr-er-mit-seinem-spor-83069982.bild.html",
-      "image_title": "Berufungsprozess: Kapitän fuhr seine Freunde mit Sportboot tot"
-    },
-    {
-      "title": "BSAG-Beschäftigte kämpfen für mehr Geld : Mega-Streik legt Bremen lahm",
-      "teaser": "Verkehrschaos mit Ansage. Bei den Öffis wird gestreikt und in der City demonstriert.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/bsag-beschaeftigte-kaempfen-fuer-mehr-geld-mega-streik-legt-bremen-lahm-83072560.bild.html",
-      "image_title": "BSAG-Beschäftigte kämpfen für mehr Geld: Mega-Streik legt Bremen lahm"
-    },
-    {
-      "title": "Schock-Diagnose nach harmlosen Symptomen : Taio (3) hatte blaue Flecke, jetzt könnte er sterben",
-      "url": "https://www.bild.de/regional/leipzig/mecklenburg-vorpommern-news/stammzellenspende-taio-3-hatte-blaue-flecke-jetzt-koennte-er-sterben-83069622.bild.html",
-      "image_title": "Stammzellenspende: Taio (3) hatte blaue Flecke, jetzt könnte er sterben"
-    },
-    {
-      "title": "„Shiny Flakes“-Dealer : Staatsanwalt fordert sechs Jahre Haft",
-      "teaser": "Im Prozess verwickelte sich der Kinderzimmer-Dealer in Widersprüche.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/shiny-flakes-dealer-staatsanwalt-fordert-sechs-jahre-haft-83074958.bild.html",
-      "image_title": "„Shiny Flakes“-Dealer: Staatsanwalt fordert sechs Jahre Haft"
-    },
-    {
-      "title": "Zwickau gegen Verl unter Druck : Brinkies will die Null festhalten",
-      "teaser": "Drittligist FSV Zwickau muss für die Rettung hinten dicht machen!",
-      "url": "https://www.bild.de/sport/fussball/fussball/fsv-zwickau-gegen-verl-unter-druck-brinkies-will-die-null-festhalten-83075366.bild.html",
-      "image_title": "FSV Zwickau gegen Verl unter Druck: Brinkies will die Null festhalten"
-    },
-    {
-      "title": "Aufatmen bei Dynamo Dresden : Stadt stimmt für Stadion-Zuschuss!",
-      "url": "https://www.bild.de/sport/fussball/fussball/aufatmen-bei-dynamo-dresden-stadt-stimmt-fuer-stadion-zuschuss-83078808.bild.html",
-      "image_title": "Aufatmen bei Dynamo Dresden: Stadt stimmt für Stadion-Zuschuss!"
-    },
-    {
-      "title": "Verkäufer droht mit Klage nach TV-Show : Zu wenig Bares für Rares?",
-      "teaser": "Ein Studiogast hat sich zu rechtlichen Schritten entschieden.",
-      "url": "https://www.bild.de/bild-plus/regional/dresden/dresden-aktuell/zu-wenig-bares-fuer-rares-verkaeufer-droht-mit-klage-nach-tv-show-83077796.bild.html",
-      "image_title": "Zu wenig Bares für Rares? Verkäufer droht mit Klage nach TV-Show!"
-    },
-    {
-      "title": "Verfolgungsjagd mit der Polizei : Erdbeer-Laster 100 Kilometer auf der Flucht",
-      "teaser": "Verletzte Polizisten, zerstörte Leitplanken und ein 40-Tonner, der sich einfach nicht stoppen lässt.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/sachsen-erdbeer-laster-100-kilometer-auf-der-flucht-83070660.bild.html",
-      "image_title": "Sachsen: Erdbeer-Laster 100 Kilometer auf der Flucht"
-    },
-    {
-      "title": "Vertrags-Klausel! Gladbach machtlos : England-Klub entscheidet über Borussia-Talent",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-jordan-beyer-plant-zukunft-in-burnley-83075480.bild.html",
-      "image_title": "Borussia Mönchengladbach: Jordan Beyer plant Zukunft in Burnley"
-    },
-    {
-      "title": "Gladbach-Juwel Koné über PSG-Gerüchte : „Mbappé als Mitspieler? Natürlich reizvoll!“",
-      "teaser": "Gladbach-Profi Manu Koné (21) gilt als eine der heißesten Aktien auf dem Transfermarkt ...",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-manu-kon-im-exklusiv-interview-83069398.bild.html",
-      "image_title": "Borussia Mönchengladbach: Manu Koné im Exklusiv-Interview!"
-    },
-    {
-      "title": "Oberschenkel-Sorgen : So stehen Omlins Chancen fürs Freiburg-Spiel",
-      "teaser": "Während die Gladbach-Profis Donnerstagvormittag bereits eine lockere Einheit auf dem Ra...",
-      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-jonas-omlin-braucht-ein-wunder-83076094.bild.html",
-      "image_title": "Borussia Mönchengladbach: Jonas Omlin braucht ein Wunder!"
-    },
-    {
-      "title": "BILD-Wahlstammtisch im „Bierhaus“ : Hier fetzen sich die OB-Kandidaten richtig!",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/bild-wahlstammtisch-in-frankfurt-hier-fetzen-sich-die-ob-kandidaten-83077962.bild.html",
-      "image_title": "BILD-Wahlstammtisch in Frankfurt: Hier fetzen sich die OB-Kandidaten!"
-    },
-    {
-      "title": "Bluttat in 800-Seelen-Dorf : Mann (20) ersticht Stiefmutter (37)",
-      "teaser": "Der Tatverdächtige ließ sich widerstandslos festnehmen.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/bluttat-in-hessischem-800-seelen-dorf-20-jaehriger-ersticht-mitbewohnerin-37-83068592.bild.html",
-      "image_title": "Bluttat in hessischem 800-Seelen-Dorf: 20-Jähriger ersticht Stiefmutter (37)"
-    },
-    {
-      "title": "Gina-Lisa Lohfink (36) kommt ins Grübeln : Warum hatte ich in der Liebe nur Flops?",
-      "teaser": "Gina Lisa Lohfink (36) hat es nicht leicht, wahre Liebe zu finden.",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/gina-lisa-nachdenklich-warum-hatte-ich-in-der-liebe-nur-flops-83073998.bild.html",
-      "image_title": "Gina-Lisa grübelt: Warum hatte ich in der Liebe nur Flop-Männer?"
-    },
-    {
-      "title": "Not-Reparatur beim Ocean Race : Mast-Mist schockte Herrmann",
-      "url": "https://www.bild.de/sport/mehr-sport/sport-mix/ocean-race-mast-mist-schockte-boris-herrmann-83076820.bild.html",
-      "image_title": "Ocean Race: Mast-Mist schockte Boris Herrmann"
-    },
-    {
-      "title": "Hamburg kauft stillgelegten Meiler : Wir sind Kraftwerk",
-      "teaser": "Die Stadt hat das Kohlekraftwerk Moorburg von Vattenfall gekauft.",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburg-kauft-stillgelegten-meiler-moorburg-fuer-wasserstoff-offensive-wir-sind-83070244.bild.html",
-      "image_title": "Hamburg kauft stillgelegten Meiler: Wir sind Kraftwerk"
-    },
-    {
-      "title": "Bis zu 15 Mrd. Euro weniger : Gewinn-Schwund bei Hapag-Lloyd",
-      "teaser": "Hamburgs Reederei-Riese Hapag-Lloyd tritt auf die Gewinn-Bremse!",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/bis-zu-15-mrd-euro-weniger-gewinn-schwund-bei-hapag-lloyd-83075928.bild.html",
-      "image_title": "Bis zu 15 Mrd. Euro weniger: Gewinn-Schwund bei Hapag-Lloyd"
-    },
-    {
-      "title": "Nie wieder zu kaufen! : Hier zwei Sonder-Trikots von Hannover gewinnen",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/hannover-96/nie-wieder-zu-kaufen-hier-zwei-sonder-trikots-von-hannover-96-gewinnen-83050034.bild.html",
-      "image_title": "Nie wieder zu kaufen! Hier zwei Sonder-Trikots von Hannover 96 gewinnen"
-    },
-    {
-      "title": "Kind wollte Bank ausrauben : Mit dieser Drohung forderte der Mini-Räuber Geld",
-      "teaser": "Der Räuber mit der Rentier-Mütze konnte kaum über den Banktresen schauen.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/kind-wollte-bank-ausrauben-kripo-sucht-mini-raeuber-mit-rentier-muetze-83078332.bild.html",
-      "image_title": "Kind überfiel Bank: So forderte der Mini-Räuber Geld"
-    },
-    {
-      "title": "Cousin von Hanebuth-Kumpel erschossen : Polizei jagt den Haltestellen-Mörder",
-      "teaser": "Dienstag erschoss ein Unbekannter Filippo S. (†34). Wird der Todesschütze bald gefasst?",
-      "url": "https://www.bild.de/news/inland/news-inland/cousin-von-hanebuth-kumpel-erschossen-polizei-jagt-den-haltestellen-moerder-83077734.bild.html",
-      "image_title": "Cousin von Hanebuth-Kumpel erschossen: Polizei jagt den Haltestellen-Mörder"
-    },
-    {
-      "title": "Brand in Umspannwerk : 25 000 Haushalte in Köln ohne Strom",
-      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-brand-in-umspannwerk-25-000-haushalte-ohne-strom-83079740.bild.html",
-      "image_title": "Köln: Brand in Umspannwerk! 25 000 Haushalte ohne Strom"
-    },
-    {
-      "title": "Schulden, aber ein sexy Hintern war drin : Po-Zoff bei „Prince Charming“",
-      "teaser": "Au Backe, bei diesen beiden „Prince Charming“-Kandidaten gibt es richtig dicken Zoff!",
-      "url": "https://www.bild.de/regional/koeln/koeln-leute/schulden-aber-ein-xxl-hintern-war-drin-po-zoff-bei-prince-charming-83067138.bild.html",
-      "image_title": "Schulden, aber ein XXL-Hintern war drin: Po-Zoff bei „Prince Charming“"
-    },
-    {
-      "title": "Nachdem 10 Stars gehen mussten : Exklusiv! SIE sollen „Köln 50667“ retten",
-      "teaser": "BILD stellt exklusiv die NEUEN „Köln 50667“-Stars vor.",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/tv/tv/koeln-50667-das-sind-die-neuen-darsteller-ab-maerz-83070966.bild.html",
-      "image_title": "„Köln 50667“: Das sind die neuen Darsteller ab März!"
-    },
-    {
-      "title": "Knochen von Studentin (26) in Wald entdeckt : Todesrätsel um vermisste Yolanda",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-knochen-von-vermisster-studentin-yolanda-gefunden-83074414.bild.html",
-      "image_title": "Leipzig: Knochen von vermisster Studentin Yolanda Klug (26) gefunden"
-    },
-    {
-      "title": "Kinostart mit Felix Lobrecht : Comedy-Star sorgt für Kreisch-Alarm in Leipzig",
-      "teaser": "Es war ein Andrang, wie es ihn sonst nur für Hollywood-Stars gibt!",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/felix-lobrecht-comedy-star-sorgt-fuer-kreisch-alarm-in-leipzig-83075716.bild.html",
-      "image_title": "Felix Lobrecht: Comedy-Star sorgt für Kreisch-Alarm in Leipzig"
-    },
-    {
-      "title": "Prozess in Leipzig : Arzt soll Kassen um 2,4 Millionen Euro betrogen haben",
-      "teaser": "Die Staatsanwaltschaft wirft dem Arzt Betrug in 17 Fällen vor.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/leipzig-arzt-soll-kassen-um-2-4-millionen-euro-betrogen-haben-83070288.bild.html",
-      "image_title": "Leipzig: Arzt soll Kassen um 2,4 Millionen Euro betrogen haben"
-    },
-    {
-      "title": "Weltmeister-Papa Kroos : Darauf bin ich stolz!",
-      "url": "https://www.bild.de/sport/fussball/fussball/weltmeister-papa-kroos-darauf-bin-ich-richtig-stolz-83074544.bild.html",
-      "image_title": "Weltmeister-Papa Kroos: Darauf bin ich stolz!"
-    },
-    {
-      "title": "Hansa-Rostock-Abräumer Fröde : „Zeit für Ergebnisse!“",
-      "teaser": "Doppel-Druck für Rostock nach schwachem Rückrundenstart und sechs sieglosen Heimspielen.",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostock-abraeumer-froede-zeit-fuer-ergebnisse-83075972.bild.html",
-      "image_title": "Hansa-Rostock-Abräumer Fröde: „Zeit für Ergebnisse!“"
-    },
-    {
-      "title": "Auf Ostsee-Autobahn umzingelt : Banditen überfallen Geldtransporter",
-      "teaser": "Am Donnerstagmorgen raubten unbekannte Täter einen Geldtransporter auf der A 20 aus.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/guetzkow-auf-ostsee-autobahn-geldtransporter-ueberfallen-und-angezuendet-83069692.bild.html",
-      "image_title": "A 20 bei Gützkow: Millionen erbeutet bei Überfall auf Geldtransporter"
-    },
-    {
-      "title": "Bremen in Augsburg : Berisha gegen Füllkrug! Das Duell der 1:0-Könige",
-      "url": "https://www.bild.de/sport/fussball/fc-augsburg/bremen-in-augsburg-berisha-gegen-fuellkrug-das-duell-der-1-0-koenige-83079260.bild.html",
-      "image_title": "Bremen in Augsburg: Berisha gegen Füllkrug! Das Duell der 1:0-Könige"
-    },
-    {
-      "title": "Gericht verbietet Radl-Korso auf A8 : Keine Autobahn-Demo für Klima-Aktivisten",
-      "teaser": "Augsburg – Klimaaktivisten sind mit Plänen für eine Fahrraddemo auf der viel befahrenen A8 (Stuttgart-München) gescheitert.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/gericht-verbietet-radl-korso-auf-a8-keine-autobahn-demo-fuer-klima-aktivisten-83078682.bild.html",
-      "image_title": "Gericht verbietet Radl-Korso auf A8: Keine Autobahn-Demo für Klima-Aktivisten"
-    },
-    {
-      "title": "Unbeschrankter Bahnübergang : Ältere Frau von Regionalzug erfasst",
-      "teaser": "Pfarrkirchen – Eine ältere Frau ist in Niederbayern von einem Zug erfasst worden und danach gestorben.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/am-unbeschrankten-bahnuebergang-aeltere-frau-von-regiozug-erfasst-83078636.bild.html",
-      "image_title": "Am unbeschrankten Bahnübergang: Ältere Frau von Regiozug erfasst"
-    },
-    {
-      "title": "Schlappe für Deutsche Umwelthilfe : Klima-Klage gegen Freistaat zurückgezogen",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/schlappe-fuer-deutsche-umwelthilfe-klima-klage-gegen-freistaat-zurueckgezogen-83078522.bild.html",
-      "image_title": "Schlappe für Deutsche Umwelthilfe: Klima-Klage gegen Freistaat zurückgezogen"
-    },
-    {
-      "title": "Erste Trainer-Rückkehr nach Hamburg : Hecking kämpft gegen HSV-Trauma",
-      "teaser": "Im 2. Spiel nach seinem Trainer-Comeback muss Dieter Hecking bei Ex-Klub HSV ran.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-1-trainer-rueckkehr-nach-hamburg-hecking-kaempft-gegen-hsv-trauma-83077600.bild.html",
-      "image_title": "FCN: 1. Trainer-Rückkehr nach Hamburg: Hecking kämpft gegen HSV-Trauma"
-    },
-    {
-      "title": "Weil 10 Spieler fehlen : Puerta vor Kader-Debüt",
-      "teaser": "Zwei FCN-Profis fallen gegen den HSV krank aus, ein anderer gibt wohl seinen Einstand.",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-weil-10-spieler-fehlen-gustavo-puerta-vor-kader-debuet-83077452.bild.html",
-      "image_title": "FCN - Weil 10 Spieler fehlen: Gustavo Puerta vor Kader-Debüt"
-    },
-    {
-      "title": "Markus Krebs hat Corona, sagt Auftritte ab : „Mir geht es sowas von beschissen“",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/markus-krebs-hat-corona-muss-auftritte-absagen-seid-mir-nicht-boese-83079306.bild.html",
-      "image_title": "Markus Krebs hat Corona, muss Auftritte absagen: „Seid mir nicht böse“"
-    },
-    {
-      "title": "BILD-Leserstammtisch zurück im Revier : Endlich mal Dampf ablassen",
-      "teaser": "Hier kamen alle Meinungen auf den Tisch!",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bild-leserstammtisch-zurueck-im-ruhrgebiet-endlich-mal-dampf-ablassen-83079412.bild.html",
-      "image_title": "BILD-Leserstammtisch zurück im Ruhrgebiet: Endlich mal Dampf ablassen"
-    },
-    {
-      "title": "Hätten Sie das gewusst... : So viel Bochum steckt noch in Reis!",
-      "teaser": "Die Liebe zwischen Reis und VfL ist erloschen. Wie viel Bochum steckt trotzdem noch in Reis?",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/schalke/schalke-04-haetten-sie-das-gewusst-so-viel-bochum-steckt-noch-in-thomas-reis-83076962.bild.html",
-      "image_title": "Schalke 04: Hätten Sie das gewusst? So viel Bochum steckt noch in Thomas Reis!"
-    },
-    {
-      "title": "Demo hält sich im Rahmen : Protest gegen Autos",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/demo-haelt-sich-im-rahmen-protest-gegen-autos-83077282.bild.html",
-      "image_title": "Saarbrücken: Demo hält sich im Rahmen: Protest gegen Autos"
-    },
-    {
-      "title": "Kurioser Unfall : Franzose „parkt“ auf Mittelleitplanke",
-      "teaser": "Kurioser Unfall morgens auf der A620 an der Anschlussstelle Lisdorf/ Ensdorf.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/kurioser-unfall-franzose-parkt-auf-mittelleitplanke-83076650.bild.html",
-      "image_title": "Kurioser Unfall: Franzose „parkt“ auf Mittelleitplanke"
-    },
-    {
-      "title": "Vorort-Versorgungslücke : Schluss mit Ladenschluss!",
-      "teaser": "Eine Karte mit QR-Code öffnet die Tür, dahinter beginnt das Einkaufserlebnis!",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/losheim-vorort-versorgungsluecke-schluss-mit-ladenschluss-83075246.bild.html",
-      "image_title": "Losheim: Vorort-Versorgungslücke: Schluss mit Ladenschluss!"
-    },
-    {
-      "title": "Chef Sreto Ristic krank : Unger wohl auch in Meppen HFC-Trainer",
-      "url": "https://www.bild.de/sport/fussball/fussball/chef-sreto-ristic-krank-unger-wohl-auch-in-meppen-hfc-trainer-83078070.bild.html",
-      "image_title": "Chef Sreto Ristic krank: Unger wohl auch in Meppen HFC-Trainer"
-    },
-    {
-      "title": "Furchtbarer Unfall auf Schulweg : Junge (13) stirbt auf Schulweg",
-      "teaser": "Am Dienstagmorgen wurde ein 13-Jähriger von einem Auto erfasst.",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/saarland-news/magdeburg-13-jaehriger-junge-stirbt-nach-kollision-mit-auto-83066912.bild.html",
-      "image_title": "Magdeburg: 13-jähriger Junge stirbt nach Kollision mit Auto"
-    },
-    {
-      "title": "HFC-Spielmacher dreht plötzlich auf : Warum Deniz der Gewinner des Trainerwechsels ist",
-      "teaser": "Tunay Deniz ist einer der großen Gewinner beim HFC unter Neu-Trainer Sreto Ristic!",
-      "url": "https://www.bild.de/sport/fussball/fussball/hfc-spielmacher-dreht-nun-auf-deniz-ist-gewinner-des-trainerwechsels-83066330.bild.html",
-      "image_title": "HFC-Spielmacher dreht nun auf: Deniz ist Gewinner des Trainerwechsels"
-    },
-    {
-      "title": "Leck in Pforzheim : Evakuierungen nach Austritt von Flüssiggas",
-      "url": "https://www.bild.de/regional/stuttgart/muenchen-regional-politik-und-wirtschaft/leck-in-pforzheim-evakuierungen-nach-austritt-von-fluessiggas-83078470.bild.html",
-      "image_title": "Leck in Pforzheim: Evakuierungen nach Austritt von Flüssiggas"
-    },
-    {
-      "title": "Vermisste Jasmin (21) vom Bodensee : Polizei verhaftet ihren Ex-Freund!",
-      "teaser": "Tagelang ging Jasmin M. nicht ans Telefon. Jetzt rechnet die Polizei mit dem Schlimmsten.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/vermisste-jasmin-vom-bodensee-polizei-verhaftet-ihren-ex-freund-83077274.bild.html",
-      "image_title": "Vermisste Jasmin vom Bodensee: Polizei verhaftet ihren Ex-Freund!"
-    },
-    {
-      "title": "Vermisster Vater von Fußballprofi : Polizei startet neue Suche",
-      "teaser": "Vom Papa des Stürmers Kai Brünker (28) fehlt jede Spur. Jetzt startet eine neue Suche.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/vermisster-vater-von-fussballprofi-polizei-startet-neue-suche-83070944.bild.html",
-      "image_title": "Magdeburg: Vermisster Vater von Fußballprofi – Polizei startet neue Suche"
-    },
-    {
-      "title": "Das „verkehrte“ Derby-Interview : Ex-Jenaer trifft Ex-Erfurter",
-      "url": "https://www.bild.de/sport/fussball/fussball/das-verkehrte-derby-interview-ex-jenaer-trifft-ex-erfurter-83077634.bild.html",
-      "image_title": "Das „verkehrte“ Derby-Interview: Ex-Jenaer trifft Ex-Erfurter"
-    },
-    {
-      "title": "Feuer mit vier Toten in Apolda : Kommt der Brandstifter in die Nervenklinik?",
-      "teaser": "Erfurt/Apolda – Die Vorwürfe gegen Atanas Petrov L. (36), die derzeit vor dem Erfurter Landgericht verhandelt werden, wiegen schwer....",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/apolda-kommt-der-brandstifter-in-die-nervenklinik-83066846.bild.html",
-      "image_title": "Apolda: Kommt der Brandstifter in die Nervenklinik?"
-    },
-    {
-      "title": "Jenas Kunz gegen Erfurts Flückiger : Hält die kuriose Torhüterserie?",
-      "teaser": "Heiß, heißer, Thüringen-Derby! Der Hit zwischen Jena und Erfurt wird zum Torhüter-Duell.",
-      "url": "https://www.bild.de/sport/fussball/fussball/jenas-kunz-gegen-erfurts-flueckiger-haelt-im-derby-die-torhueter-serie-83064208.bild.html",
-      "image_title": "Jenas Kunz gegen Erfurts Flückiger: Hält im Derby die Torhüter-Serie?"
-    }
-  ]
+  "articles": []
 }
