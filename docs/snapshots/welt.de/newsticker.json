@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-03T16:16:57",
+  "timestamp": "2023-03-03T17:11:51",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Rückzug oder Parteigründung?"
+    },
     {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -34,14 +39,17 @@
       "topic": "Verwaltungsgericht Schwerin"
     },
     {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Ab 2035 geplant"
-    },
-    {
       "title": "Kriminalität",
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "topic": "Gegen 16- und 22-Jährigen"
+    },
+    {
+      "title": "Kick-off",
+      "url": "https://www.welt.de/podcasts/kick-off/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "WELT-Redakteurin Elisabeth Krafft",
+      "topic": "Podcast",
+      "author": "Elisabeth Krafft"
     },
     {
       "title": "Alles auf Aktien",
@@ -59,16 +67,23 @@
       "author": "Robin Alexander"
     },
     {
-      "title": "Kick-off",
-      "url": "https://www.welt.de/podcasts/kick-off/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Podcast",
-      "author": "Florian Sädler"
-    },
-    {
       "title": "Jetzt live im Fernsehen",
       "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Beim deutsch-amerikanischen Verhältnis rumort es hinter den Kulissen“",
+      "url": "https://www.welt.de/politik/ausland/video244095475/Scholz-bei-Biden-Beim-deutsch-amerikanischen-Verhaeltnis-rumort-es-hinter-den-Kulissen.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Bundeskanzler Olaf Scholz (SPD) steigt in ein Flugzeug der Flugbereitschaft, um nach Indien zu reisen. In der Hauptstadt Neu Delhi wird Scholz Premierminister Modi treffen. Am Sonntag geht es weiter in die südindische Wirtschaftsmetropole Bengaluru.",
+      "topic": "Scholz bei Biden"
+    },
+    {
+      "title": "„Das einzig verlässliche Verkehrsmittel, was es noch gibt, ist das Auto“",
+      "url": "https://www.welt.de/politik/deutschland/video244093573/Fridays-for-Future-und-Verdi-Das-einzig-verlaessliche-Verkehrsmittel-was-es-noch-gibt-ist-das-Auto.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Frankfurter Buchmesse 2017 - Jan Fleischhauer",
+      "topic": "„Fridays for Future“ und Verdi"
     },
     {
       "title": "„Eine totale Überwälzung der Energiewende auf den einzelnen Bürger“",
@@ -96,32 +111,11 @@
       "topic": "Regierungsbildung in Berlin"
     },
     {
-      "title": "Deutsche Langläuferinnen feiern WM-Silber in der Staffel",
-      "url": "https://www.welt.de/sport/wintersport/video244065593/Nach-zwoelfjaehriger-Durststrecke-Deutsche-Langlaeuferinnen-feiern-WM-Silber-in-der-Staffel.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "FIS Nordic World Ski Championships Planica - Cross-Country Women's 4x5km Relay Classic/Free",
-      "topic": "Nach zwölfjähriger Durststrecke"
-    },
-    {
-      "title": "„Die Bundeswehr ist nicht in der Lage, unser Land zu verteidigen“",
-      "url": "https://www.welt.de/politik/deutschland/video244065771/Wolfgang-Kubicki-Die-Bundeswehr-ist-nicht-in-der-Lage-unser-Land-zu-verteidigen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Wolfgang Kubicki in der 84. Sitzung des Deutschen Bundestages im Reichstagsgebäude. Berlin, 08.02.2023",
-      "topic": "Wolfgang Kubicki"
-    },
-    {
       "title": "„Wir haben uns für eine Koalition mit der SPD entschieden“",
       "url": "https://www.welt.de/politik/deutschland/video244074923/CDU-Spitzenkandidat-Wegner-Wir-haben-uns-fuer-eine-Koalition-mit-der-SPD-entschieden.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Kai Wegner, Landesvorsitzende der CDU-Berlin und designierter Spitzenkandidat für die Abgeordnetenhauswahl 2021, steht nach einer Pressekonferenz anlässlich seines Antritts als Spitzenkandidat der CDU-Berlin für die Abgeordnetenhauswahl 2021 vor dem Roten Rathaus.",
       "topic": "CDU-Spitzenkandidat Wegner"
-    },
-    {
-      "title": "„Wir müssen Landräten und Kommunen besser zuhören“",
-      "url": "https://www.welt.de/politik/deutschland/video244062603/Angriffe-auf-Fluechtlingsunterkuenfte-Wir-muessen-Landraeten-und-Kommunen-besser-zuhoeren.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Demonstranten protestieren gegen die geplanten Flüchtlingsunterkünfte in ihrer Region vor der nicht-öffentlichen Kreis-Ausschusssitzung zu Upahl in der Malzfarbrik.",
-      "topic": "Angriffe auf Flüchtlingsunterkünfte"
     }
   ]
 }
