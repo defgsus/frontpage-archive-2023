@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-05T09:11:54",
+  "timestamp": "2023-03-05T10:12:46",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "AMD ermöglicht offene Coreboot-Firmware für Epyc-Server",
+      "teaser": "Im Projekt openSIL stellt AMD Code zur Initialisierung von Epyc-CPUs bereit, um Server mit quelloffener Coreboot-Firmware zu booten statt per UEFI-BIOS.",
+      "url": "https://www.heise.de/news/AMD-ermoeglicht-offene-Coreboot-Firmware-fuer-Epyc-Server-7534970.html",
+      "image_title": "Serverprozessor AMD Epyc 9374F der Baureihe Genoa"
+    },
+    {
       "title": "GitLab erhöht die Preise für Premium-Kunden um mehr als 50 Prozent",
       "teaser": "Ab April kostet Gitlab Premium 29 US-Dollar monatlich. Als Grund nennt das Unternehmen die Evolution von der Versionsverwaltungs- zur DevSecOps-Plattform.",
       "url": "https://www.heise.de/news/GitLab-erhoeht-die-Preise-fuer-Premium-Kunden-um-mehr-als-50-Prozent-7534046.html",
@@ -35,11 +41,6 @@
       "title": "Netzwerkanalyse-Tool Wireshark endlich auf eigenen Füßen",
       "teaser": "Aufatmen in der Wireshark-Community: Das verbreitete Open-Source-Projekt ankert endlich im sicheren Hafen der eigens gegründeten Wireshark Foundation.",
       "url": "https://www.heise.de/news/Netzwerkanalyse-Tool-Wireshark-endlich-auf-eigenen-Fuessen-7532448.html"
-    },
-    {
-      "title": "Game-Engine Godot 4.0: Rundum erneuerte Open-Source-Engine mit Vulkan-Backend",
-      "teaser": "Die vierte Hauptversion der Open-Source-Engine bringt einige grundlegende Veränderungen beim Backend, bei dem Editor und dem Programmieren mit.",
-      "url": "https://www.heise.de/news/Game-Engine-Godot-4-0-Rundum-erneute-Open-Source-Engine-mit-Vulkan-Backend-7532625.html"
     },
     {
       "title": "Konkurrenz für Chrome: Was der neue Arc-Browser besser kann",
@@ -92,12 +93,6 @@
       "url": "https://www.heise.de/news/Wann-sich-Mini-PCs-lohnen-c-t-uplink-47-3-7446038.html"
     },
     {
-      "title": "AMD ermöglicht offene Coreboot-Firmware für Epyc-Server",
-      "teaser": "Im Projekt openSIL stellt AMD Code zur Initialisierung von Epyc-CPUs bereit, um Server mit quelloffener Coreboot-Firmware zu booten statt per UEFI-BIOS.",
-      "url": "https://www.heise.de/news/AMD-ermoeglicht-offene-Coreboot-Firmware-fuer-Epyc-Server-7534970.html",
-      "image_title": "Serverprozessor AMD Epyc 9374F der Baureihe Genoa"
-    },
-    {
       "title": "Neue Satelliten für iPhone-Notrufe: Apple streckt Globalstar viel Geld vor",
       "teaser": "Eine Viertelmilliarde US-Dollar von Apple soll Globalstar ermöglichen, frische Satelliten in die Umlaufbahn zu bringen, ohne dafür anderes Geld einzusammeln.",
       "url": "https://www.heise.de/news/Neue-Satelliten-fuer-iPhone-Notrufe-Apple-streckt-Globalstar-viel-Geld-vor-7535012.html",
@@ -135,6 +130,12 @@
       "teaser": "Der vom Arduino Pro Portenta H7 bekannte STM32H7-Mikrocontroller rechnet nun auch auf einer Arduino-Version für Maker mit vielen GPIO-Pins und Anschlüssen.",
       "url": "https://www.heise.de/news/Arduino-GIGA-R1-WiFi-Extrastarkes-Mikrocontroller-Board-mit-vielen-Anschluessen-7534449.html",
       "image_title": "Arduino GIGA R1 Wifi mit dem Mikrocontroller STMicroelectronics STM32H747"
+    },
+    {
+      "title": "Clustersimulation: Beherzter Testen mit KWOK – Kubernetes WithOut Kubelet",
+      "teaser": "Das Tool KWOK (Kubernetes WithOut Kubelet) soll helfen, Cluster mit Tausenden Nodes zu Testzwecken schnell und ressourcenschonend aufzusetzen.",
+      "url": "https://www.heise.de/news/Clustersimulation-Beherzter-Testen-mit-KWOK-Kubernetes-WithOut-Kubelet-7534423.html",
+      "image_title": "Mit Kubernetes 1.25 stehen kurzlebige Container dauerhaft zur Verfügung"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
