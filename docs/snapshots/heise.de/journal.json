@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-06T06:17:27",
+  "timestamp": "2023-03-06T07:12:21",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
     "status": 200
@@ -26,30 +26,25 @@
   ],
   "articles": [
     {
+      "title": "Wann sich Mini-PCs lohnen | c’t uplink 47.3",
+      "teaser": "Irgendwo zwischen Desktop-Rechner und Laptop: Mini-PCs sind platzeffizient und leistungsfähig. Wann man sie sinnvoll einsetzen kann, klären wir im uplink.",
+      "url": "https://www.heise.de/news/Wann-sich-Mini-PCs-lohnen-c-t-uplink-47-3-7446038.html"
+    },
+    {
+      "title": "#heiseshow: Ubuntu – Wirbel um Updates, Pro-Abos und Flatpak",
+      "teaser": "Bei Ubuntu wirbt der Paketmanager für \"Ubuntu Pro\" und die Community darf bei Varianten Flatpak nicht mehr mit vorinstallieren. Wir besprechen, was da los ist.",
+      "url": "https://www.heise.de/news/heiseshow-Ubuntu-Wirbel-um-Updates-Pro-Abos-und-Flatpak-7531817.html"
+    },
+    {
       "title": "Kommentar zur Chatkontrolle: richtiges Ziel, falscher Weg",
       "teaser": "Kindesmissbrauch ist im Internet ein verbreitetes Problem – die Chatkontrolle ist der falsche Weg, es anzugehen, meint Oberstaatsanwalt Markus Hartmann.",
       "url": "https://www.heise.de/meinung/Kommentar-zur-Chatkontrolle-richtiges-Ziel-falscher-Weg-7531658.html"
-    },
-    {
-      "title": "Bluesky social: Exakt wie Twitter nur in blau, ja genau, blau",
-      "teaser": "Das soziale Netzwerk von Jack Dorsey sieht einfach exakt aus wie Twitter. Ist aber offen – zumindest das Protokol, nicht die App selbst, die ist Invite-only.",
-      "url": "https://www.heise.de/news/Bluesky-social-Exakt-wie-Twitter-nur-in-blau-ja-genau-blau-7534369.html"
-    },
-    {
-      "title": "Raspi-Alternativen | c’t uplink 47.2",
-      "teaser": "In c't uplink zeigen wir euch Alternativen zum Raspberry-Pi: ein Odroid H3 fürs Selbstbau-NAS, eine ESP32-Kamera und vieles mehr!",
-      "url": "https://www.heise.de/news/Raspi-Alternativen-c-t-uplink-47-2-7446034.html"
     },
     {
       "title": "Montag: Nach eSIM im Handy kommt iSIM im SoC, Kritik an Urteil zu DNS-Resolvern",
       "teaser": "Qualcomm mit SIM im SoC + Reaktionen auf Urteil zur DNS-Haftung + Kommentar zu Firmen-Cloud + DIY-Supercomputer 1985 + Kritik an neuem eGovernment-Gesetzentwurf",
       "url": "https://www.heise.de/news/Montag-Nach-eSIM-im-Handy-kommt-iSIM-im-SoC-Kritik-an-Urteil-zu-DNS-Resolvern-7536035.html",
       "image_title": "Verschiedene SIM-Karten; Montag: Qualcomm-iSIM, Quad9-Urteil, Cloud-Kommentar, Selbstbau-Supercomputer & eGovernment-Forderungen"
-    },
-    {
-      "title": "Wann sich Mini-PCs lohnen | c’t uplink 47.3",
-      "teaser": "Irgendwo zwischen Desktop-Rechner und Laptop: Mini-PCs sind platzeffizient und leistungsfähig. Wann man sie sinnvoll einsetzen kann, klären wir im uplink.",
-      "url": "https://www.heise.de/news/Wann-sich-Mini-PCs-lohnen-c-t-uplink-47-3-7446038.html"
     },
     {
       "title": "Kurz informiert: Verbrenner-Aus, Cybersecurity, Bioprinter, Mars-Rover",
@@ -61,6 +56,11 @@
       "teaser": "Der wöchentliche Newsletter von heise+ diesmal mit KI, die die Kreativ-Branche umkrempelt, Featurephones, günstigem Android, Soundkarten und Raspi-Alternativen",
       "url": "https://www.heise.de/news/heise-Update-vom-3-Maerz-2023-Lesetipps-fuers-Wochenende-7533779.html",
       "image_title": "heise+ Update Briefumschlag"
+    },
+    {
+      "title": "Bluesky social: Exakt wie Twitter nur in blau, ja genau, blau",
+      "teaser": "Das soziale Netzwerk von Jack Dorsey sieht einfach exakt aus wie Twitter. Ist aber offen – zumindest das Protokol, nicht die App selbst, die ist Invite-only.",
+      "url": "https://www.heise.de/news/Bluesky-social-Exakt-wie-Twitter-nur-in-blau-ja-genau-blau-7534369.html"
     },
     {
       "title": "Freitags wird wieder gestreikt: Fridays for Future protestiert weltweit",
@@ -83,11 +83,6 @@
       "teaser": "Creators unterstützen, die Zukunft sichern und die Community schützen: Das sind die ausgegebenen Ziele des neuen Youtube-Chefs Neal Mohan.",
       "url": "https://www.heise.de/news/Neuer-Youtube-Chef-Mehr-KI-und-Community-auf-der-Plattform-7533066.html",
       "image_title": "Warsaw,,Poland,-,10.06.2020:,Youtube,App,On,The,Smartphone.,Youtube"
-    },
-    {
-      "title": "#heiseshow: Ubuntu – Wirbel um Updates, Pro-Abos und Flatpak",
-      "teaser": "Bei Ubuntu wirbt der Paketmanager für \"Ubuntu Pro\" und die Community darf bei Varianten Flatpak nicht mehr mit vorinstallieren. Wir besprechen, was da los ist.",
-      "url": "https://www.heise.de/news/heiseshow-Ubuntu-Wirbel-um-Updates-Pro-Abos-und-Flatpak-7531817.html"
     },
     {
       "title": "Donnerstag: Gegenwind für Abmahnanwalt, Bundesländer für einheitliche Bürger-ID",
@@ -122,6 +117,12 @@
       "teaser": "In der Region Berlin-Brandenburg sollen die Spielräume ausgeschöpft werden, die SPD möchte auch einen Entwurf zur Änderung des Denkmalschutzgesetzes vorlegen.",
       "url": "https://www.heise.de/news/Solardaecher-vor-Denkmalschutz-Kirchen-und-Politik-oeffnen-sich-im-Norden-7529520.html",
       "image_title": "Image,Of,Caucasian,Man,With,Solar,Panel,In,Garden.,Green"
+    },
+    {
+      "title": "Dienstag: Kanada verbannt TikTok, Pentagon ordert Gesichtserkennung für Drohnen",
+      "teaser": "TikTok-Bann in Kanada + US-Drohnen mit Gesichtserkennung + Bundesregierung gegen Datenschutzbeauftragten + Tesla-Werk wächst + Bankraub mit Apple-ID",
+      "url": "https://www.heise.de/news/Dienstag-Kanada-verbannt-TikTok-Pentagon-ordert-Gesichtserkennung-fuer-Drohnen-7529498.html",
+      "image_title": "Handy mit Taktik-Logo in Hosentasche, dazu Text: DIENSTAG TikTok-Bann, Gesichtserkennung, Facebook, Tesla-Werk Grünheide & iPhone-PIN-Betrug"
     }
   ]
 }
