@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-07T11:11:03",
+  "timestamp": "2023-03-07T12:25:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "DoppelPaymer: Razzien gegen Ransomware-Gang in Nordrhein-Westfalen und Ukraine",
+      "teaser": "Strafverfolger sprechen von einem Schlag gegen die kriminelle Bande, die hinter groß angelegten Cyberangriffen mit der Ransomware DoppelPaymer stecken soll.",
+      "url": "https://www.heise.de/news/DoppelPaymer-Polizei-fuehrt-Razzien-in-Nordrhein-Westfalen-und-Ukraine-durch-7536759.html"
+    },
+    {
       "title": "Kommentar: Cloud – lagern wir zu viel und das Falsche aus?",
       "teaser": "Alles auszulagern und fremd verwalten zu lassen, könnte Unternehmen Entlastung verschaffen – stattdessen bringt es reichlich Arbeit mit sich.",
       "url": "https://www.heise.de/hintergrund/Kommentar-Cloud-lagern-wir-zu-viel-und-das-Falsche-aus-7523757.html"
@@ -37,29 +42,33 @@
       "image_title": "ct-Projekt 32-Bit-Transputer-System"
     },
     {
-      "title": "AMD ermöglicht offene Coreboot-Firmware für Epyc-Server",
-      "teaser": "Im Projekt openSIL stellt AMD Code zur Initialisierung von Epyc-CPUs bereit, um Server mit quelloffener Coreboot-Firmware zu booten statt per UEFI-BIOS.",
-      "url": "https://www.heise.de/news/AMD-ermoeglicht-offene-Coreboot-Firmware-fuer-Epyc-Server-7534970.html",
-      "image_title": "Serverprozessor AMD Epyc 9374F der Baureihe Genoa"
+      "title": "Kubernetes-Sicherheit: Wie Sie Open Telekom Cloud und plusserver härten",
+      "teaser": "Auch wenn die Angebote kleinerer Anbieter ein unverfälschteres Kubernetes versprechen als die großen Hyperscaler, sollte man die Umgebungen gründlich absichern.",
+      "url": "https://www.heise.de/ratgeber/Kubernetes-Sicherheit-Wie-Sie-Open-Telekom-Cloud-und-plusserver-haerten-7534108.html"
     },
     {
-      "title": "Teamscale im Test: Softwarequalität analysieren, überwachsen und verbessern",
-      "teaser": "Die Software-Intelligence-Plattform Teamscale hilft Entwicklungs- und Testteams beim Messen der Code- und Produktqualität.",
-      "url": "https://www.heise.de/tests/Teamscale-im-Test-Softwarequalitaet-analysieren-ueberwachsen-und-verbessern-7531627.html"
-    },
-    {
-      "title": "Digitalmikroskop Tomlov DM201 Pro im Test",
-      "teaser": "Bei Reparaturen oder Bestückung von SMD-Platinen sollte man ein Mikroskop benutzen. Das Tomlov DM201 Pro überzeugt beim Preis, der Ausstattung und dem Display.",
-      "url": "https://www.heise.de/tests/Digitalmikroskop-Tomlov-DM201-Pro-im-Test-7532117.html",
+      "title": "Geräuschloser Mini-PC im Test: Compulab Fitlet3 mit Intel Atom x6425E",
+      "teaser": "Der robuste Fitlet3 kommt ohne Lüfter aus. Er ist für besondere Aufgaben ausgelegt. Als Desktop-PC-Alternative eignet er sich weniger, wie der Test zeigt.",
+      "url": "https://www.heise.de/tests/Geraeuschloser-Mini-PC-im-Test-Compulab-Fitlet3-mit-Intel-Atom-x6425E-7525212.html",
       "image_title": ","
     },
     {
-      "title": "Rust: Projekt hinter Programmiersprache gibt sich neues Organisationsmodell​",
+      "title": "Ransomware-Angriff: Krankenhaus muss hunderte Operationen absagen",
+      "teaser": "Eines der größten Krankenhäuser in Barcelona muss nach einer Ransomware-Attacke hunderte Operationen und tausende Untersuchungen absagen.",
+      "url": "https://www.heise.de/news/Ransomware-Angriff-Krankenhaus-muss-hunderte-Operationen-absagen-7537601.html"
+    },
+    {
+      "title": "Konferenz zu IIoT und IoT: Jetzt noch bis 14. März vergünstigte Tickets sichern",
+      "teaser": "Die Fachkonferenz in München behandelt am 26./ 27. April IoT-Themen wie Cybersecurity, Authentifizierung von IIoT-Komponenten, Datenanalyse und Edge-Computing.",
+      "url": "https://www.heise.de/news/Konferenz-zu-IIoT-und-IoT-Jetzt-noch-bis-14-Maerz-verguenstigte-Tickets-sichern-7537307.html"
+    },
+    {
+      "title": "Aufs Drama folgt die Demokratie: Rust-Projekt organisiert sich neu",
       "teaser": "Ein Leadership Council soll die Organisation der Programmiersprache Rust grundlegend ändern und so die Belastung senken und mehr Transparenz bringen.",
       "url": "https://www.heise.de/news/Rust-Projekt-hinter-Programmiersprache-gibt-sich-neues-Organisationsmodell-7537382.html"
     },
     {
-      "title": "TP-Link NX31: Wi-Fi-7-Router schürft nebenbei Kryptowährung",
+      "title": "Wi-Fi-7-Router mit 1200 Watt Leistungsaufnahme: TP-Link integriert Krypto-Miner",
       "teaser": "Wie ein WLAN-Router bis zu 1200 Watt verheizen kann? Die Antwort: Ein integrierter ASIC-Chip fürs Krypto-Mining.",
       "url": "https://www.heise.de/news/TP-Link-NX31-Wi-Fi-7-Router-schuerft-nebenbei-Kryptowaehrung-7537553.html",
       "image_title": "WLAN-Router TP-Link BE900"
@@ -69,6 +78,11 @@
       "teaser": "Apples Nachrichten-App vernagelt die iMessage-Bibliothek. Ein Mac-Tool, das hier half, wurde eingestellt. Nun gibt es eine neue Open-Source-Alternative.",
       "url": "https://www.heise.de/news/Nach-Ende-von-Chatology-Mac-Tool-exportiert-alle-iMessages-7536432.html",
       "image_title": "iMessage Exporter"
+    },
+    {
+      "title": "Teamscale im Test: Softwarequalität analysieren, überwachsen und verbessern",
+      "teaser": "Die Software-Intelligence-Plattform Teamscale hilft Entwicklungs- und Testteams beim Messen der Code- und Produktqualität.",
+      "url": "https://www.heise.de/tests/Teamscale-im-Test-Softwarequalitaet-analysieren-ueberwachsen-und-verbessern-7531627.html"
     },
     {
       "title": "iX-Workshop: Pentests – Methodik, Ausschreibung, Auswertung (mit Rabatt)",
@@ -98,6 +112,12 @@
       "image_title": "Online-Workshops: Systematische Sicherheit mit dem IT-Grundschutz des BSI"
     },
     {
+      "title": "Digitalmikroskop Tomlov DM201 Pro im Test",
+      "teaser": "Bei Reparaturen oder Bestückung von SMD-Platinen sollte man ein Mikroskop benutzen. Das Tomlov DM201 Pro überzeugt beim Preis, der Ausstattung und dem Display.",
+      "url": "https://www.heise.de/tests/Digitalmikroskop-Tomlov-DM201-Pro-im-Test-7532117.html",
+      "image_title": ","
+    },
+    {
       "title": "Tool-Tipp: Cleanlab entrümpelt Trainingsdaten für Machine-Learning-Modelle",
       "teaser": "Das Tool Cleanlab erkennt automatisch Probleme in Trainingsdaten für Machine-Learning-Modelle.",
       "url": "https://www.heise.de/ratgeber/Tool-Tipp-Cleanlab-entruempelt-Trainingsdaten-fuer-Machine-Learning-Modelle-7534210.html"
@@ -111,28 +131,6 @@
       "title": "Twitter nach \"schlechter Konfiguationsänderung\" erneut mit technischen Problemen",
       "teaser": "Seit Twitters Abkehr von kostenfreiem API-Zugang ist nur eine Person dafür zuständig, die Seite online zu halten. Der ist ein schwerwiegender Fehler passiert.",
       "url": "https://www.heise.de/news/Erneut-technische-Probleme-bei-Twitter-Fehlbedienung-bei-API-Aenderung-7537177.html"
-    },
-    {
-      "title": "Microsoft macht die Nutzung von Outlook für Mac kostenlos",
-      "teaser": "Nutzerinnen und Nutzer können Outlook jetzt unter macOS kostenlos verwenden. Sie benötigen kein Microsoft 365-Abonnement und keine Office-Lizenz mehr.",
-      "url": "https://www.heise.de/news/Microsoft-macht-die-Nutzung-von-Outlook-fuer-Mac-kostenlos-7537092.html",
-      "image_title": "Fenster \"Microsoft Office Home\". Eine Lupe vergrößert das Logo für Outlook. Daneben die Logos für OneDrive, Word, Excel und Powerpoint."
-    },
-    {
-      "title": "IT-Sicherheit und Cybercrime beschäftigen kommunale Versorger",
-      "teaser": "Für die Kommunalwirtschaft ist Cybersicherheit ein drängendes Thema: Sie gerät zunehmend ins Visier von Ransomware. Und der Gesetzgeber strafft die Leine.​",
-      "url": "https://www.heise.de/news/IT-Sicherheit-und-Cybercrime-beschaeftigen-kommunale-Versorger-7537067.html"
-    },
-    {
-      "title": "Apple und Samsung: Warum die größte Hassliebe der Tech-Branche bis heute hält",
-      "teaser": "Die Beziehung Apples zu Samsung gilt als besonders schwierig. Trotzdem liefert Samsung bis heute Displays fürs iPhone. Wie Apples weitere Pläne aussehen.",
-      "url": "https://www.heise.de/news/Apple-und-Samsung-Warum-die-groesste-Hassliebe-der-Tech-Branche-bis-heute-haelt-7537057.html"
-    },
-    {
-      "title": "Neue Angriffe mit staatlicher Spyware: Apple verschickt wieder Warnungen",
-      "teaser": "Die Spyware hat es auf iPhones von Regierungsmitgliedern in Armenien sowie andere Personen abgesehen. Die Angriffe laufen offenbar wieder über Apples Server.",
-      "url": "https://www.heise.de/news/Neue-Angriffe-mit-staatlicher-Spyware-Apple-verschickt-wieder-Warnungen-7537039.html",
-      "image_title": "In Hand gehaltenes Smartphone"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
