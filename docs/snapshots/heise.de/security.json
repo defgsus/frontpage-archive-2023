@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-07T09:13:30",
+  "timestamp": "2023-03-07T10:14:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Microsoft Office",
+      "url": "https://www.heise.de/news/Kritische-Word-Luecke-Proof-of-Concept-Code-veroeffentlicht-7537267.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecken-bedrohen-Android-11-12-und-13-7537197.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-HPE-Serviceguard-unter-Linux-moeglich-7534361.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennte-IP-Telefone-von-Cisco-als-Root-attackieren-7532744.html"
+      "title": "Kritische Word-Lücke: Proof-of-Concept-Code veröffentlicht",
+      "teaser": "Der Entdecker einer kritischen Lücke bei der Anzeige von RTF-Dokumenten hat mit seiner Sicherheitsmeldung auch Proof-of-Concept-Code veröffentlicht.",
+      "url": "https://www.heise.de/news/Kritische-Word-Luecke-Proof-of-Concept-Code-veroeffentlicht-7537267.html"
+    },
+    {
+      "title": "Nächste Woche: Security-Kongressmesse secIT 2023 sagt Cybercrime den Kampf an",
+      "teaser": "Im redaktionellen Programm der secIT erfahren Admins wertvolles Wissen. Doch auch unsere Partner haben hilfreiche Fakten in petto.",
+      "url": "https://www.heise.de/news/Naechste-Woche-Security-Kongressmesse-secIT-2023-sagt-Cybercrime-den-Kampf-an-7536732.html"
     },
     {
       "title": "IT-Sicherheit und Cybercrime beschäftigen kommunale Versorger",
@@ -143,18 +153,6 @@
       "title": "TPM-2.0-Spezifikationen: Angreifer könnten Schadcode auf TPM schmuggeln",
       "teaser": "In die Spezifikation der TPM-2.0-Referenzbibliothek haben sich Fehler eingeschlichen. Angreifer könnten verwundbaren Implementierungen eigenen Code unterjubeln.",
       "url": "https://www.heise.de/news/TPM-2-0-Fehler-in-Spezifikation-ermoeglichen-Ausfuehrung-von-Schadcode-7531171.html"
-    },
-    {
-      "title": "heise Security Tour 2023: Wissen schützt!",
-      "teaser": "Die Eintages-Konferenz hilft Security-Verantwortlichen dabei, ihre IT sicher zu halten. Mit spannenden Themen, Praxis-orientiert und Hersteller-unabhängig.",
-      "url": "https://www.heise.de/news/heise-Security-Tour-2023-Wissen-schuetzt-7529905.html",
-      "image_title": "heise Security Tour 2023"
-    },
-    {
-      "title": "Satelliten-TV-Anbieter Dish bestätigt: Daten ausgeleitet",
-      "teaser": "Seit Tagen ist die Kommunikation von Dish weitgehend lahmgelegt. Nun gibt das Unternehmen zu, dass personenbezogene Daten in fremde Hände gelangt sein könnten.",
-      "url": "https://www.heise.de/news/Satelliten-TV-Anbieter-Dish-bestaetigt-Daten-ausgeleitet-7531010.html",
-      "image_title": "Scherenschnitt: Durch eine leicht geöffnete Tür fällt Licht in einen dunklen Raum; in das Licht ist Binärcode eingeschrieben"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
