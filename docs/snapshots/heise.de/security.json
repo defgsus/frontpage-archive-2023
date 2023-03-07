@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-07T07:11:12",
+  "timestamp": "2023-03-07T08:17:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecken-bedrohen-Android-11-12-und-13-7537197.html"
+    },
+    {
       "title": "Sonicwall SonicOS",
       "url": "https://www.heise.de/news/Sonicwall-SonicOS-Angreifer-aus-dem-Netz-koennen-Firewall-lahmlegen-7536077.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennte-IP-Telefone-von-Cisco-als-Root-attackieren-7532744.html"
     },
     {
-      "title": "ArubaOS",
-      "url": "https://www.heise.de/news/Netzwerkausruester-Kompromittierung-durch-Schwachstellen-in-ArubaOS-moeglich-7531803.html"
+      "title": "Patchday: Kritische System-Lücken bedrohen Android 11, 12 und 13",
+      "teaser": "Google hat wichtige Sicherheitsupdates für Android-Geräte veröffentlicht. Im schlimmsten Fall könnten Angreifer Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecken-bedrohen-Android-11-12-und-13-7537197.html",
+      "image_title": "Aufmacher Android-Patchday"
     },
     {
       "title": "IT-Sicherheit und Cybercrime beschäftigen kommunale Versorger",
@@ -150,11 +156,6 @@
       "teaser": "Seit Tagen ist die Kommunikation von Dish weitgehend lahmgelegt. Nun gibt das Unternehmen zu, dass personenbezogene Daten in fremde Hände gelangt sein könnten.",
       "url": "https://www.heise.de/news/Satelliten-TV-Anbieter-Dish-bestaetigt-Daten-ausgeleitet-7531010.html",
       "image_title": "Scherenschnitt: Durch eine leicht geöffnete Tür fällt Licht in einen dunklen Raum; in das Licht ist Binärcode eingeschrieben"
-    },
-    {
-      "title": "Bug-Bounty-Programm: Qnap-NAS knacken und 20.000 US-Dollar bekommen",
-      "teaser": "Der Hersteller von Netzwerkhardware Qnap belohnt ab sofort Sicherheitsforscher, die Schwachstellen in etwa NAS-Geräten aufdecken.",
-      "url": "https://www.heise.de/news/Bug-Bounty-Programm-Qnap-NAS-knacken-und-20-000-US-Dollar-bekommen-7530361.html"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
