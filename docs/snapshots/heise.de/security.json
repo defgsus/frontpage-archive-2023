@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-08T11:11:06",
+  "timestamp": "2023-03-08T12:25:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Luecke-in-FortiOS-und-FortiProxy-geschlossen-7538910.html"
+    },
+    {
       "title": "Veeam Backup & Replication",
       "url": "https://www.heise.de/news/Veeam-Backup-Replication-Angreifer-koennten-auf-Anmeldeinformationen-zugreifen-7538891.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Word-Luecke-Proof-of-Concept-Code-veroeffentlicht-7537267.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecken-bedrohen-Android-11-12-und-13-7537197.html"
+      "title": "Patchday: Fortinet dichtet 15 Schwachstellen ab, davon eine kritische",
+      "teaser": "Der Patchday bei Fortinet bringt IT-Verantwortlichen Updates zum Schließen von 15 Sicherheitslücken. Eine davon ist kritisch und erlaubt Einschleusen von Code.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Luecke-in-FortiOS-und-FortiProxy-geschlossen-7538910.html"
     },
     {
       "title": "Veeam Backup & Replication: Angreifer könnten auf Anmeldeinformationen zugreifen",
@@ -150,12 +155,6 @@
       "title": "DsiN: Digitaler Führerschein jetzt auch für Lehrkräfte",
       "teaser": "Deutschland sicher im Netz (DsiN) bietet jetzt auch den digitalen Führerschein (DiFü) für Lehrkräfte an. Er vermittelt ihnen Kompetenz für die Digitalisierung.",
       "url": "https://www.heise.de/news/DsiN-Digitaler-Fuehrerschein-jetzt-auch-fuer-Lehrkraefte-7533465.html"
-    },
-    {
-      "title": "Windows 11: Angreifer umgehen mit UEFI-Bootkit BlackLotus Secure Boot",
-      "teaser": "Mit der Malware BlackLotus attackieren Angreifer vollständig gepatchte Windows-11-Syteme und deaktiveren BitLocker, Defender & Co.",
-      "url": "https://www.heise.de/news/Windows-11-Angreifer-umgehen-mit-UEFI-Bootkit-BlackLotus-Secure-Boot-7533078.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
