@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-08T10:14:22",
+  "timestamp": "2023-03-08T11:11:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Veeam Backup & Replication",
+      "url": "https://www.heise.de/news/Veeam-Backup-Replication-Angreifer-koennten-auf-Anmeldeinformationen-zugreifen-7538891.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/40-Sicherheitsluecken-gestopft-Google-macht-Chrome-111-sicherer-7538631.html"
     },
@@ -44,13 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecken-bedrohen-Android-11-12-und-13-7537197.html"
     },
     {
-      "title": "Sonicwall SonicOS",
-      "url": "https://www.heise.de/news/Sonicwall-SonicOS-Angreifer-aus-dem-Netz-koennen-Firewall-lahmlegen-7536077.html"
+      "title": "Veeam Backup & Replication: Angreifer könnten auf Anmeldeinformationen zugreifen",
+      "teaser": "Aufgrund von einer Sicherheitslücke ist die Cloud-Backup-Software Veeam Backup & Replication verwundbar. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Veeam-Backup-Replication-Angreifer-koennten-auf-Anmeldeinformationen-zugreifen-7538891.html"
     },
     {
-      "title": "Spear-Phishing: Österreichische und deutsche Unternehmen im Visier",
-      "teaser": "Eine österreichische IT-Sicherheits-Firma und das CERT-AT warnen vor einer Häufung von Spear-Phishing. Betrüger versuchen, Überweisungen umzuleiten.",
-      "url": "https://www.heise.de/news/Spear-Phishing-Oesterreichische-und-deutsche-Unternehmen-im-Visier-7538772.html"
+      "title": "Problematische Sicherheitslücke in Apples GarageBand",
+      "teaser": "Die kostenlose Musikproduktionssoftware von Apple lässt sich offenbar angreifen. Nutzer unter macOS sollten schnell aktualisieren.",
+      "url": "https://www.heise.de/news/Problematische-Sicherheitsluecke-in-Apples-GarageBand-7538801.html",
+      "image_title": "GarageBand auf dem Mac"
     },
     {
       "title": "Google Chrome: Webbrowser in Version 111 mit 40 Sicherheitslücken weniger",
@@ -79,6 +85,11 @@
       "title": "Ransomware-Angriff: Krankenhaus muss hunderte Operationen absagen",
       "teaser": "Eines der größten Krankenhäuser in Barcelona muss nach einer Ransomware-Attacke hunderte Operationen und tausende Untersuchungen absagen.",
       "url": "https://www.heise.de/news/Ransomware-Angriff-Krankenhaus-muss-hunderte-Operationen-absagen-7537601.html"
+    },
+    {
+      "title": "Nächste Woche: Security-Kongressmesse secIT 2023 sagt Cybercrime den Kampf an",
+      "teaser": "Im redaktionellen Programm der secIT erfahren Admins wertvolles Wissen. Doch auch unsere Partner haben hilfreiche Fakten in petto.",
+      "url": "https://www.heise.de/news/Naechste-Woche-Security-Kongressmesse-secIT-2023-sagt-Cybercrime-den-Kampf-an-7536732.html"
     },
     {
       "title": "Patchday: Kritische System-Lücken bedrohen Android 11, 12 und 13",
@@ -145,17 +156,6 @@
       "teaser": "Mit der Malware BlackLotus attackieren Angreifer vollständig gepatchte Windows-11-Syteme und deaktiveren BitLocker, Defender & Co.",
       "url": "https://www.heise.de/news/Windows-11-Angreifer-umgehen-mit-UEFI-Bootkit-BlackLotus-Secure-Boot-7533078.html",
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "In eigener Sache: Die Hall of Fame – Heise bedankt sich für Bug-Reports",
-      "teaser": "Wer Sicherheitslücken auf Heise-Webseiten entdeckt und meldet, bekommt zukünftig seinen eigenen Platz in der exklusiven Heise-Ruhmeshalle.",
-      "url": "https://www.heise.de/news/In-eigener-Sache-Die-Hall-of-Fame-Heise-bedankt-sich-fuer-Bug-Reports-7531502.html",
-      "image_title": "Hallo of Fame"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer könnte IP-Telefone von Cisco als Root attackieren",
-      "teaser": "Es sind wichtige Sicherheitsupdates für verschiedene IP-Telefone von Cisco und unter anderem für Webex App erschienen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennte-IP-Telefone-von-Cisco-als-Root-attackieren-7532744.html"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
