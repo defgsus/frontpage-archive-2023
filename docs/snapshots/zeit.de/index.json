@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-09T12:26:44",
+  "timestamp": "2023-03-09T13:28:20",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,18 +67,6 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/lottie/static/assets/aufmacher.5042ba60.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/standalone.4c957375.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.4bac0929.mjs",
       "id": null,
       "text": null
@@ -86,10 +74,17 @@
   ],
   "articles": [
     {
-      "title": "Steigende Mieten: Bauen, bauen, bauen und die Mieten steigen weiter",
+      "title": "Z+ (abopflichtiger Inhalt); Miet- und Kaufpreise: So viel Wohnung bekommen Sie für Ihr Geld in Berlin",
+      "teaser": "Neue Daten zeigen, wie sich die Miet- und Kaufpreise in den Stadtteilen von Berlin entwickelt haben, und wo Sie sich dort noch eine Wohnung leisten können.",
+      "url": "https://www.zeit.de/wirtschaft/immobilienmarkt/berlin-mieten-kaufen-immobilienpreise",
+      "image_url": "https://img.zeit.de/wirtschaft/immobilienmarkt/berlin-mieten-kaufen-immobilienpreise/imagegroup/cinema__980x420"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Steigende Mieten: Bauen, bauen, bauen und die Mieten steigen weiter",
       "teaser": "Mit Hunderttausenden neuen Wohnungen will die Bundesregierung das Problem steigender Mieten in den Griff kriegen. Unsere Datenanalyse zeigt, warum das scheitern wird.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/steigende-mieten-wohnungsbau-deutschland-grossstaedte",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/mieten-wohnungsbau-grossstaedte-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/mieten-wohnungsbau-grossstaedte-1/wide__822x462",
+      "image_title": "Steigende Mieten: Bauen, bauen, bauen und die Mieten steigen weiter"
     },
     {
       "title": "Ukraine-Karte aktuell: Russland kontrolliert die Hälfte des Stadtgebiets von Bachmut",
@@ -106,23 +101,32 @@
       "image_title": "Nord Stream 2: Hinweise zum Anschlag auf die Pipeline führen in die Ukraine"
     },
     {
-      "title": "Liveblog: Ukraine-Krieg: AKW Saporischschja nach russischem Angriff vom Stromnetz abgeschnitten",
-      "teaser": "Das Atomkraftwerk in Saporischschja läuft laut dem Betreiber nun mithilfe von Generatoren. In Kiew wurden Explosionen im Süden der Stadt gemeldet. Das Liveblog",
+      "title": "Liveblog: Ukraine-Krieg: Russland hat offenbar Ressourcen für zwei weitere Jahre Krieg",
+      "teaser": "Nach Angaben aus Litauen kann Russland seinen Krieg in der jetzigen Intensität noch zwei Jahre fortführen – abhängig auch von Unterstützung aus dem Ausland. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/ukraine-krieg-russland-newsblog-live-bild-22/wide__822x462",
-      "image_title": "Ukraine-Krieg: AKW Saporischschja nach russischem Angriff vom Stromnetz abgeschnitten"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/ukraine-krieg-russland-newsblog-live-bild-24/wide__822x462",
+      "image_title": "Ukraine-Krieg: Russland hat offenbar Ressourcen für zwei weitere Jahre Krieg"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Warren Buffett: Warum Anleger auf einen 92-Jährigen hören sollten",
+      "teaser": "In einem Brief an seine Aktionäre teilt Warren Buffett sein Erfolgsrezept: Nie gegen die USA wetten, brav Steuern zahlen. Und zur rechten Zeit einen Schokoriegel essen.",
+      "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-03/warren-buffet-brief-berkshire-hathaway",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/warren-buffet-brief/cinema__980x420",
+      "image_title": "Warren Buffett: Warum Anleger auf einen 92-Jährigen hören sollten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
-      "teaser": "Die Ökonomin Irene Becker erforscht die Verteilung von Vermögen in einer Gesellschaft. Sie weiß, was man unbedingt vermeiden sollte, wenn man reich werden möchte.",
+      "teaser": "Die Ökonomin Irene Becker erforscht die Verteilung von Vermögen in einer Gesellschaft. Sie weiß, was man vermeiden sollte, wenn man reich werden möchte.",
       "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview",
-      "image_url": "https://img.zeit.de/arbeit/2023-03/reichtum-wunsch-familie-irene-becker/cinema__980x420",
+      "image_url": "https://img.zeit.de/arbeit/2023-03/reichtum-wunsch-familie-irene-becker/wide__822x462",
       "image_title": "Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\""
     },
     {
       "title": "Fachkräftemangel: Zahl der offenen Stellen steigt auf neuen Höchstwert",
       "teaser": "1,98 Millionen Stellen waren in Deutschland Ende 2022 frei. Die große Mehrheit davon war laut dem Institut für Arbeitsmarkt- und Berufsforschung sofort zu besetzen.",
-      "url": "https://www.zeit.de/arbeit/2023-03/fachkraeftemangel-arbeitsmarkt-stellen-iab"
+      "url": "https://www.zeit.de/arbeit/2023-03/fachkraeftemangel-arbeitsmarkt-stellen-iab",
+      "image_url": "https://img.zeit.de/arbeit/2023-03/fachkraeftemangel-arbeitsmarkt-stellen-iab-bild-2/wide__822x462",
+      "image_title": "Fachkräftemangel: Zahl der offenen Stellen steigt auf neuen Höchstwert"
     },
     {
       "title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an",
@@ -146,11 +150,18 @@
       "image_title": "Antidepressiva absetzen • Das Beste aus Z+: \"Viele nehmen die Mittel länger ein, als sie sie bräuchten\""
     },
     {
-      "title": "Gesundheitswesen: Lauterbach will Digitalisierung in der Gesundheit beschleunigen",
-      "teaser": "\"Um Jahrzehnte\" hänge das Gesundheitswesen laut dem Gesundheitsminister in der Digitalisierung zurück. Nun sollen etwa E-Rezepte und E-Akten vorangetrieben werden.",
-      "url": "https://www.zeit.de/gesundheit/2023-03/gesundheitswesen-karl-lauterbach-digitalisierung",
-      "image_url": "https://img.zeit.de/gesundheit/2023-03/gesundheitswesen-karl-lauterbach-digitalisierung-bild/wide__822x462",
-      "image_title": "Gesundheitswesen: Lauterbach will Digitalisierung in der Gesundheit beschleunigen"
+      "title": "\"Stern 111\" : Schriftsteller Lutz Seiler erhält Bertolt-Brecht-Preis",
+      "teaser": "Die Stadt Augsburg verleiht in diesem Jahr den Bertolt-Brecht-Preis an Lutz Seiler. \"Die Texte dieses Dichters erinnern an Verschollenes\", begründete die Jury.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-03/schriftsteller-lutz-seiler-erhaelt-bertolt-brecht-preis",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-03/bertolt-brecht-preis-2023-lutz-seiler-bild/wide__822x462",
+      "image_title": "\"Stern 111\" : Schriftsteller Lutz Seiler erhält Bertolt-Brecht-Preis"
+    },
+    {
+      "title": "Kolonialismus: Erfurter Stadtrat stimmt gegen die Umbenennung des Nettelbeckufers",
+      "teaser": "Eine nach dem Kolonialisten Joachim Nettelbeck benannte Straße in Erfurt wird nicht umbenannt. Im Gegenzug wird eine Brücke dem Schwarzen Deutschen Gert Schramm gewidmet.",
+      "url": "https://www.zeit.de/kultur/2023-03/nettelbeckufer-erfurt-kolonialismus-stadtrat",
+      "image_url": "https://img.zeit.de/kultur/2023-03/erfurt-umbenennung-strassennamen-kolonialgeschichte-bild/wide__822x462",
+      "image_title": "Kolonialismus: Erfurter Stadtrat stimmt gegen die Umbenennung des Nettelbeckufers"
     },
     {
       "title": "Stimmen der Klimakrise: \"Wir hatten keine Ahnung, dass der Boden schon auf uns zurollte\"",
@@ -158,6 +169,13 @@
       "url": "https://www.zeit.de/wissen/umwelt/2022-09/klimakrise-extremwetter-folgen-slowblog",
       "image_url": "https://img.zeit.de/wissen/umwelt/2022-09/klimakrise-extremwetter-folgen-slowblog-philippinen-bild/cinema__980x420",
       "image_title": "Stimmen der Klimakrise: \"Wir hatten keine Ahnung, dass der Boden schon auf uns zurollte\""
+    },
+    {
+      "title": "Gesundheitswesen: Lauterbach will Digitalisierung in der Gesundheit beschleunigen",
+      "teaser": "\"Um Jahrzehnte\" hänge das Gesundheitswesen laut dem Gesundheitsminister in der Digitalisierung zurück. Nun sollen etwa E-Rezepte und E-Akten vorangetrieben werden.",
+      "url": "https://www.zeit.de/gesundheit/2023-03/gesundheitswesen-karl-lauterbach-digitalisierung",
+      "image_url": "https://img.zeit.de/gesundheit/2023-03/gesundheitswesen-karl-lauterbach-digitalisierung-bild/wide__822x462",
+      "image_title": "Gesundheitswesen: Lauterbach will Digitalisierung in der Gesundheit beschleunigen"
     },
     {
       "title": "Koalitionsverhandlungen in Berlin: \"Es ist falsch, der Berliner CDU die Regierung anzuvertrauen\"",
@@ -249,8 +267,12 @@
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-03/kinderzimmer-beige-farbe-trend"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zuckerfrei-Challenge: Zuckerfrei durch die Fastenzeit: Bringt das was?",
-      "url": "https://www.zeit.de/gesundheit/2023-03/zucker-zuckerfrei-challenge-ernaehrung-fastenzeit"
+      "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
+      "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
+    },
+    {
+      "title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/energiewende-robert-habeck-heizen-foerderung"
     },
     {
       "title": "Lehrkräftemangel: Lehrerverbände warnen vor Beschränkung der Teilzeit",
@@ -259,10 +281,6 @@
     {
       "title": "Solidarität mit der Ukraine: Nie erlebte Westwärme",
       "url": "https://www.zeit.de/politik/deutschland/2023-03/ukraine-solidaritaet-ablehnung-westen-linke-rechte"
-    },
-    {
-      "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit"
     },
     {
       "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
@@ -277,10 +295,10 @@
       "image_title": "Gleichstellung von Frauen: Die Generation Vereinbarkeit ist müde"
     },
     {
-      "title": "Lehrkräftemangel: Lehrerverbände warnen vor Beschränkung der Teilzeit",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-03/lehrermangel-lehrkraefte-beschraenkung-teilzeit",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-03/schulklasse-lehrermangel/wide__822x462",
-      "image_title": "Lehrkräftemangel: Lehrerverbände warnen vor Beschränkung der Teilzeit"
+      "title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/energiewende-robert-habeck-heizen-foerderung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/energiewende-robert-habeck-heizen-foerderung-bild/wide__822x462",
+      "image_title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an"
     },
     {
       "title": "Champions League: Mit Teamsport hat PSG nichts zu tun",
@@ -291,20 +309,20 @@
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-03/kinderzimmer-beige-farbe-trend"
     },
     {
-      "title": "Solidarität mit der Ukraine: Nie erlebte Westwärme",
-      "url": "https://www.zeit.de/politik/deutschland/2023-03/ukraine-solidaritaet-ablehnung-westen-linke-rechte"
+      "title": "Lehrkräftemangel: Lehrerverbände warnen vor Beschränkung der Teilzeit",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-03/lehrermangel-lehrkraefte-beschraenkung-teilzeit"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vanilla-Girls: Besinnlich Kaffee getrunken und Yoga gemacht",
       "url": "https://www.zeit.de/2023/11/vanilla-girls-trend-tiktok-mode"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Zuckerfrei-Challenge: Zuckerfrei durch die Fastenzeit: Bringt das was?",
-      "url": "https://www.zeit.de/gesundheit/2023-03/zucker-zuckerfrei-challenge-ernaehrung-fastenzeit"
+      "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
+      "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
     },
     {
-      "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit"
+      "title": "Solidarität mit der Ukraine: Nie erlebte Westwärme",
+      "url": "https://www.zeit.de/politik/deutschland/2023-03/ukraine-solidaritaet-ablehnung-westen-linke-rechte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger HafenCity: Große Erwartungen",
@@ -435,18 +453,18 @@
       "image_title": "Deutsche Wirtschaft: Einzelhandel startet mit sinkenden Umsätzen ins Jahr"
     },
     {
+      "title": "WirtschaftsWocheSynthetische Kraftstoffe: Können E-Fuels den Verbrennungsmotor retten?",
+      "teaser": "In der Politik tobt ein erbitterter Streit um die Zukunft des Verbrennungsmotors. Synthetische Kraftstoffe sollen ihn retten. Welche Erwartungen Befürworter an E-Fuels stellen – und wie realistisch die sind.",
+      "url": "https://www.wiwo.de/my/technologie/umwelt/synthetische-kraftstoffe-koennen-e-fuels-den-verbrennungsmotor-retten/29025414.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/e-fuels-analyse-get-imago-mst/29024780/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Synthetische Kraftstoffe: Können E-Fuels den Verbrennungsmotor retten?"
+    },
+    {
       "title": "WirtschaftsWocheElektroauto-Förderung: Massiver Subventions-Missbrauch bei Elektroautos",
       "teaser": "Dank eines Export-Tricks konnten Zehntausende deutsche Autokäufer im vergangenen Jahr kostenlos ein Elektroauto fahren. Schaden für den deutschen Staat: 380 Millionen Euro. Doch die Tage des wilden Treibens sind gezählt.",
       "url": "https://www.wiwo.de/unternehmen/auto/elektroauto-foerderung-massiver-subventions-missbrauch-bei-elektroautos/29027164.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/file-photo-a-tesla-supercharging-station-in-california/29027296/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Elektroauto-Förderung: Massiver Subventions-Missbrauch bei Elektroautos"
-    },
-    {
-      "title": "WirtschaftsWochePflegeversicherung: Der Ausweg aus dem Pflege-Dilemma",
-      "teaser": "Gesundheitsminister Lauterbach hat einen Gesetzentwurf zur Pflegeversicherung vorgelegt. Die steckt im Minus, zugleich steigen die privaten Kosten für Betroffene stark. Es gibt keine einfache Lösung – aber einen Ausweg.",
-      "url": "https://www.wiwo.de/politik/deutschland/pflegeversicherung-der-ausweg-aus-dem-pflege-dilemma/29025058.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/pressekonferenz-mit-dem-bundesgesundheitsminister-zu-aktuellen-gesundheitspolitischen-themen-in-der-landespressekonferen/29025690/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Pflegeversicherung: Der Ausweg aus dem Pflege-Dilemma"
     },
     {
       "title": "Feminismus: Transfeindlich? Sind nicht nur die anderen",
@@ -491,18 +509,11 @@
       "image_title": "Krankheit und Politik: Wer oder was ist hier krank?"
     },
     {
-      "title": "Ukraine-Krieg: Strom fällt in mehreren Regionen nach russischem Raketenangriff aus",
-      "teaser": "Russischer Raketenbeschuss hat erneut Infrastruktur in der Ukraine beschädigt. Es kam zu Stromausfällen. Unter den betroffenen Städten sind Kiew, Odessa und Charkiw.",
-      "url": "https://www.zeit.de/video/2023-03/6322190897112/ukraine-krieg-strom-faellt-in-mehreren-regionen-nach-russischem-raketenangriff-aus",
-      "image_url": "https://img.zeit.de/video/2023-03/6322190897112-still/cinema__980x420",
-      "image_title": "Ukraine-Krieg: Strom fällt in mehreren Regionen nach russischem Raketenangriff aus"
-    },
-    {
-      "title": "Griechenland: Zehntausende protestieren nach Zugunglück erneut gegen Regierung",
-      "teaser": "Die Proteste fanden in mehreren Städten statt. In Athen kam es zu Zusammenstößen mit der Polizei. Die Protestierenden werfen Griechenlands Regierung Misswirtschaft vor.",
-      "url": "https://www.zeit.de/video/2023-03/6322162664112/griechenland-zehntausende-protestieren-nach-zugunglueck-erneut-gegen-regierung",
-      "image_url": "https://img.zeit.de/video/2023-03/6322162664112-still/wide__822x462",
-      "image_title": "Griechenland: Zehntausende protestieren nach Zugunglück erneut gegen Regierung"
+      "title": "Georgien: Regierung zieht geplantes \"Agentengesetz\" nach massiven Protesten zurück",
+      "teaser": "Einige Medien und NGO sollten dem Gesetz nach als \"ausländische Agenten\" eingestuft werden. Gegner des Vorhabens befürchteten die Verfolgung regierungskritischer Medien.",
+      "url": "https://www.zeit.de/video/2023-03/6322204555112/georgien-regierung-zieht-geplantes-agentengesetz-nach-massiven-protesten-zurueck",
+      "image_url": "https://img.zeit.de/video/2023-03/6322204555112-still/cinema__980x420",
+      "image_title": "Georgien: Regierung zieht geplantes \"Agentengesetz\" nach massiven Protesten zurück"
     },
     {
       "title": "Türkei: Tausende Menschen demonstrieren in Istanbul für Frauenrechte",
@@ -510,6 +521,13 @@
       "url": "https://www.zeit.de/video/2023-03/6322197420112/tuerkei-tausende-menschen-demonstrieren-in-istanbul-fuer-frauenrechte",
       "image_url": "https://img.zeit.de/gesellschaft/2023-03/tuerkei-proteste-reuters/wide__822x462",
       "image_title": "Türkei: Tausende Menschen demonstrieren in Istanbul für Frauenrechte"
+    },
+    {
+      "title": "Ukraine-Krieg: Strom fällt in mehreren Regionen nach russischem Raketenangriff aus",
+      "teaser": "Russischer Raketenbeschuss hat erneut Infrastruktur in der Ukraine beschädigt. Es kam zu Stromausfällen. Unter den betroffenen Städten sind Kiew, Odessa und Charkiw.",
+      "url": "https://www.zeit.de/video/2023-03/6322190897112/ukraine-krieg-strom-faellt-in-mehreren-regionen-nach-russischem-raketenangriff-aus",
+      "image_url": "https://img.zeit.de/video/2023-03/6322190897112-still/wide__822x462",
+      "image_title": "Ukraine-Krieg: Strom fällt in mehreren Regionen nach russischem Raketenangriff aus"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Carl Friedrich von Siemens Stiftung : Wie viel Champagner ist angemessen?",
@@ -800,36 +818,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Badeordnung: Oben-Ohne-Baden künftig auch für Frauen in Berlins Bädern",
-      "url": "https://www.zeit.de/news/2023-03/09/oben-ohne-baden-kuenftig-auch-fuer-frauen-in-berlins-baedern"
+      "title": "Raumfahrt: Daten von Mondreise-Puppen werden in Köln ausgewertet",
+      "url": "https://www.zeit.de/news/2023-03/09/daten-von-mondreise-puppen-werden-in-koeln-ausgewertet"
     },
     {
-      "title": "Wirtschaftsleistung: Lindner tadelt Haushalts-Leitlinien der EU-Kommission",
-      "url": "https://www.zeit.de/news/2023-03/09/lindner-tadelt-haushalts-leitlinien-der-eu-kommission"
+      "title": "Trainer: Reis freut sich aufs Derby: «Mittendrin statt nur dabei»",
+      "url": "https://www.zeit.de/news/2023-03/09/reis-freut-sich-aufs-derby-mittendrin-statt-nur-dabei"
     },
     {
-      "title": "Erfurt: Schleuserprozess vor Landgericht erneut begonnen",
-      "url": "https://www.zeit.de/news/2023-03/09/schleuserprozess-vor-landgericht-erneut-begonnen"
+      "title": "Verletzung: Glasner legt sich fest: Finalheld Borré ersetzt Lindström",
+      "url": "https://www.zeit.de/news/2023-03/09/glasner-legt-sich-fest-finalheld-borr-ersetzt-lindstroem"
     },
     {
-      "title": "Statistik:: Anteil an Drittgeburten auf Höchststand",
-      "url": "https://www.zeit.de/news/2023-03/09/anteil-an-drittgeburten-auf-hoechststand"
+      "title": "Urabstimmung: Post: Mitglieder stimmen für unbefristeten Streik",
+      "url": "https://www.zeit.de/news/2023-03/09/post-urabstimmung-mehrheit-fuer-streik"
     },
     {
-      "title": "Rettungsdienste: Rettungsdienste 2022 zu 86.000 Bagatell-Einsätzen gerufen",
-      "url": "https://www.zeit.de/news/2023-03/09/rettungsdienste-2022-zu-86-000-bagatell-einsaetzen-gerufen"
+      "title": "Lufthansa: Flugbegleiter-Gewerkschaft will Inflationsausgleich",
+      "url": "https://www.zeit.de/news/2023-03/09/flugbegleiter-gewerkschaft-will-inflationsausgleich"
     },
     {
-      "title": "Schifffahrt: Weniger Transportschiffe auf der Elbe: BUND für Ausbau-Stopp",
-      "url": "https://www.zeit.de/news/2023-03/09/weniger-transportschiffe-auf-der-elbe-bund-fuer-ausbau-stopp"
+      "title": "Frankfurt am Main: Räuber überfallen Rentnerin in Wohnung",
+      "url": "https://www.zeit.de/news/2023-03/09/raeuber-ueberfallen-rentnerin-in-wohnung"
     },
     {
-      "title": "3. Liga: Aue verpflichtet Talent Seitz aus Aalen",
-      "url": "https://www.zeit.de/news/2023-03/09/aue-verpflichtet-talent-seitz-aus-aalen"
+      "title": "Tarife: Post-Urabstimmung: Mehrheit für Streik - Aber neue Verhandlungen",
+      "url": "https://www.zeit.de/news/2023-03/09/post-urabstimmung-mehrheit-fuer-streik-aber-neue-verhandlungen"
     },
     {
-      "title": "Polizei: Streit im Braunschweiger Fitnessstudio eskaliert",
-      "url": "https://www.zeit.de/news/2023-03/09/streit-im-braunschweiger-fitnessstudio-eskaliert"
+      "title": "Internetkriminalität: Cybersicherheit: Rheinland-Pfalz und BSI kooperieren enger",
+      "url": "https://www.zeit.de/news/2023-03/09/cybersicherheit-rheinland-pfalz-und-bsi-kooperieren-enger"
     }
   ]
 }
