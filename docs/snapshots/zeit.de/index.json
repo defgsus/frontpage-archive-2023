@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-09T21:11:46",
+  "timestamp": "2023-03-09T22:12:47",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -80,10 +80,17 @@
   ],
   "articles": [
     {
+      "title": "Hamburg: Mehrere Tote bei Schießerei in Hamburger Kirche",
+      "teaser": "Im Norden von Hamburg sind in einer Kirche mehrere Menschen durch Schüsse getötet worden. Die Innenbehörde spricht von einer \"extremen Gefahr\" für Bürgerinnen und Bürger.",
+      "url": "https://www.zeit.de/gesellschaft/2023-03/mehrere-tote-bei-schiesserei-in-hamburg",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-03/hamburg-schiesserei-polizei-grosslage-bild/cinema__980x420"
+    },
+    {
       "title": "Nord-Stream-Pipelines: Ein Job für Profis",
       "teaser": "Wer und in wessen Auftrag die Nord-Stream-Pipelines in der Ostsee gesprengt hat, beschäftigt Ermittler, Militärs und Politiker. Was über den Anschlag bekannt ist.",
       "url": "https://www.zeit.de/politik/ausland/2023-03/nord-stream-pipelines-explosionen-ukraine-ermittlungen-faq",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/nord-stream-pipelines-explosionen-ukraine-ermittlungen/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/nord-stream-pipelines-explosionen-ukraine-ermittlungen/wide__822x462",
+      "image_title": "Nord-Stream-Pipelines: Ein Job für Profis"
     },
     {
       "title": "Karl Lauterbach: Wer die Digitalisierung vorantreibt, kann Menschenleben retten",
@@ -105,13 +112,6 @@
       "url": "https://www.zeit.de/2023/11/veronika-grimm-verbrenner-verbot",
       "image_url": "https://img.zeit.de/2023/11/veronika-grimm-verbrenner-verbot-teaser/wide__822x462",
       "image_title": "Veronika Grimm: \"Der Preis wird das regeln\""
-    },
-    {
-      "title": "Europa League live: Jetzt live: Juventus Turin gegen den SC Freiburg",
-      "teaser": "Die Männer von Christian Streich treten im Achtelfinal-Hinspiel bei einem der größten Namen des europäischen Fußballs an. Das Spiel im Liveticker",
-      "url": "https://www.zeit.de/sport/europa-league-ticker",
-      "image_url": "https://img.zeit.de/sport/2018-05/europa-league-atletico-madrid-olympique-marseille/wide__822x462",
-      "image_title": "Europa League live: Jetzt live: Juventus Turin gegen den SC Freiburg"
     },
     {
       "title": "Europa League: Leverkusen gewinnt Achtelfinal-Hinspiel gegen Ferencváros Budapest",
@@ -246,6 +246,10 @@
       "image_title": "Stimmen der Klimakrise: \"Wir hatten keine Ahnung, dass der Boden schon auf uns zurollte\""
     },
     {
+      "title": "Hamburg: Mehrere Tote bei Schießerei in Hamburger Kirche",
+      "url": "https://www.zeit.de/gesellschaft/2023-03/mehrere-tote-bei-schiesserei-in-hamburg"
+    },
+    {
       "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
       "url": "https://www.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit"
     },
@@ -254,20 +258,16 @@
       "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vanilla-Girls: Besinnlich Kaffee getrunken und Yoga gemacht",
-      "url": "https://www.zeit.de/2023/11/vanilla-girls-trend-tiktok-mode"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gleichstellung von Frauen • Das Beste aus Z+ : Die Generation Vereinbarkeit ist müde",
-      "url": "https://www.zeit.de/arbeit/2023-03/gleichstellung-frauen-care-arbeit-muetter-feminismus"
+      "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
+      "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Beigefarbene Kinderzimmer • Das Beste aus Z+: Wenn Eltern Beige lieben",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-03/kinderzimmer-beige-farbe-trend"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
-      "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
+      "title": "Z+ (abopflichtiger Inhalt); Gleichstellung von Frauen • Das Beste aus Z+ : Die Generation Vereinbarkeit ist müde",
+      "url": "https://www.zeit.de/arbeit/2023-03/gleichstellung-frauen-care-arbeit-muetter-feminismus"
     },
     {
       "title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an",
@@ -282,16 +282,16 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit"
     },
     {
-      "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit-bild/wide__822x462",
-      "image_title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit"
+      "title": "Hamburg: Mehrere Tote bei Schießerei in Hamburger Kirche",
+      "url": "https://www.zeit.de/gesellschaft/2023-03/mehrere-tote-bei-schiesserei-in-hamburg",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-03/hamburg-schiesserei-polizei-grosslage-bild/wide__822x462",
+      "image_title": "Hamburg: Mehrere Tote bei Schießerei in Hamburger Kirche"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gleichstellung von Frauen • Das Beste aus Z+ : Die Generation Vereinbarkeit ist müde",
-      "url": "https://www.zeit.de/arbeit/2023-03/gleichstellung-frauen-care-arbeit-muetter-feminismus",
-      "image_url": "https://img.zeit.de/arbeit/2023-03/gleichstellung-frauen-care-arbeit-muetter/wide__822x462",
-      "image_title": "Gleichstellung von Frauen • Das Beste aus Z+ : Die Generation Vereinbarkeit ist müde"
+      "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
+      "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview",
+      "image_url": "https://img.zeit.de/arbeit/2023-03/reichtum-wunsch-familie-irene-becker/wide__822x462",
+      "image_title": "Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\""
     },
     {
       "title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an",
@@ -300,8 +300,8 @@
       "image_title": "Energiewende: Robert Habeck kündigt Förderung klimafreundlicher Heizungen an"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
-      "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
+      "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/deutschand-fachkraefte-zuwanderung-beliebtheit"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Beigefarbene Kinderzimmer • Das Beste aus Z+: Wenn Eltern Beige lieben",
@@ -312,12 +312,12 @@
       "url": "https://www.zeit.de/gesellschaft/schule/2023-03/lehrermangel-lehrkraefte-beschraenkung-teilzeit"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vanilla-Girls: Besinnlich Kaffee getrunken und Yoga gemacht",
-      "url": "https://www.zeit.de/2023/11/vanilla-girls-trend-tiktok-mode"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Reichtum: \"Die Gruppe der Reichen ist größer, als viele denken\"",
       "url": "https://www.zeit.de/arbeit/2023-02/reichtum-wunsch-familie-irene-becker-interview"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gleichstellung von Frauen • Das Beste aus Z+ : Die Generation Vereinbarkeit ist müde",
+      "url": "https://www.zeit.de/arbeit/2023-03/gleichstellung-frauen-care-arbeit-muetter-feminismus"
     },
     {
       "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
@@ -573,7 +573,7 @@
     },
     {
       "title": "Gesundheitswesen: Lauterbach will Digitalisierung in der Gesundheit beschleunigen",
-      "teaser": "\"Um Jahrzehnte\" hänge das Gesundheitswesen laut dem Gesundheitsminister in der Digitalisierung zurück. Nun sollen etwa E-Rezepte und E-Akten vorangetrieben werden. 226 Kommentare",
+      "teaser": "\"Um Jahrzehnte\" hänge das Gesundheitswesen laut dem Gesundheitsminister in der Digitalisierung zurück. Nun sollen etwa E-Rezepte und E-Akten vorangetrieben werden. 228 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-03/gesundheitswesen-karl-lauterbach-digitalisierung",
       "image_url": "https://img.zeit.de/gesundheit/2023-03/gesundheitswesen-karl-lauterbach-digitalisierung-bild/cinema__980x420",
       "image_title": "Gesundheitswesen: Lauterbach will Digitalisierung in der Gesundheit beschleunigen"
@@ -615,7 +615,7 @@
     },
     {
       "title": "Fachkräftemangel: Zahl der offenen Stellen steigt auf neuen Höchstwert",
-      "teaser": "1,98 Millionen Stellen waren in Deutschland Ende 2022 frei. Die große Mehrheit davon war laut dem Institut für Arbeitsmarkt- und Berufsforschung sofort zu besetzen. 278 Kommentare",
+      "teaser": "1,98 Millionen Stellen waren in Deutschland Ende 2022 frei. Die große Mehrheit davon war laut dem Institut für Arbeitsmarkt- und Berufsforschung sofort zu besetzen. 284 Kommentare",
       "url": "https://www.zeit.de/arbeit/2023-03/fachkraeftemangel-arbeitsmarkt-stellen-iab",
       "image_url": "https://img.zeit.de/arbeit/2023-03/fachkraeftemangel-arbeitsmarkt-stellen-iab-bild-2/cinema__980x420",
       "image_title": "Fachkräftemangel: Zahl der offenen Stellen steigt auf neuen Höchstwert"
@@ -670,11 +670,11 @@
       "image_title": "Internationaler Frauentag: Kämpfen, das ist für sie Alltag"
     },
     {
-      "title": "Verlagsangebot Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Cyberchondrie: Morgens Bauchspeicheldrüsenkrebs, mittags Darmdurchbruch",
@@ -817,6 +817,26 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
+      "title": "Kriminalität: Polizei: Schüsse fielen bei Veranstaltung der Zeugen Jehovas",
+      "url": "https://www.zeit.de/news/2023-03/09/polizei-schuesse-fielen-bei-veranstaltung-der-zeugen-jehovas"
+    },
+    {
+      "title": "Europa League: Di María trifft: Freiburg verliert knapp in Turin",
+      "url": "https://www.zeit.de/news/2023-03/09/di-mar-a-macht-den-unterschied-freiburg-verliert-knapp-in-turin"
+    },
+    {
+      "title": "Warnmeldung: Schüsse in Hamburg mit mehreren Toten und Verletzten",
+      "url": "https://www.zeit.de/news/2023-03/09/hamburger-innenbehoerde-schuesse-in-kirche"
+    },
+    {
+      "title": "Kriminalität: Schüsse in Hamburg mit mehreren Toten und Verletzten",
+      "url": "https://www.zeit.de/news/2023-03/09/schiesserei-in-hamburg-mit-mehreren-toten-und-verletzten"
+    },
+    {
+      "title": "EM-Vorbereitung: Bittere Pleite: Handballer gegen Dänemark chancenlos",
+      "url": "https://www.zeit.de/news/2023-03/09/bittere-pleite-handballer-in-daenemark-chancenlos"
+    },
+    {
       "title": "Europa League: Alonso lobt deutsche Schiris",
       "url": "https://www.zeit.de/news/2023-03/09/alonso-lobt-deutsche-schiris"
     },
@@ -827,26 +847,6 @@
     {
       "title": "Lichtprojektionen: Greenpeace protestiert an drei aktiven AKW gegen Atomkraft",
       "url": "https://www.zeit.de/news/2023-03/09/greenpeace-protestiert-an-drei-aktiven-akw-gegen-atomkraft"
-    },
-    {
-      "title": "Gastgewerbe: Gastronomie-Leitmesse «Internorga» öffnet die Pforten",
-      "url": "https://www.zeit.de/news/2023-03/09/gastronomie-leitmesse-internorga-oeffnet-die-pforten"
-    },
-    {
-      "title": "Germersheim: Motorradfahrer kommt von Straße ab - schwer verletzt",
-      "url": "https://www.zeit.de/news/2023-03/09/motorradfahrer-kommt-von-strasse-ab-schwer-verletzt"
-    },
-    {
-      "title": "CDU-Chef: Merz: Müssen Freiheit, Frieden und Toleranz schützen",
-      "url": "https://www.zeit.de/news/2023-03/09/merz-muessen-freiheit-frieden-und-toleranz-schuetzen"
-    },
-    {
-      "title": "Hilfe für Asylsuchende: Rostock will Sporthalle als Geflüchtetenunterkunft nutzen",
-      "url": "https://www.zeit.de/news/2023-03/09/rostock-will-sporthalle-als-gefluechtetenunterkunft-nutzen"
-    },
-    {
-      "title": "Europa League: Michel rettet Union spätes Remis gegen Saint-Gilloise",
-      "url": "https://www.zeit.de/news/2023-03/09/michel-rettet-union-spaetes-remis-gegen-saint-gilloise"
     }
   ]
 }
