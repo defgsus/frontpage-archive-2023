@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-09T09:13:39",
+  "timestamp": "2023-03-09T10:14:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Foxit PDF Editor",
+      "url": "https://www.heise.de/news/Foxit-PDF-Editor-Luecken-erlauben-einschleusen-von-Schadcode-7540068.html"
+    },
+    {
       "title": "Fortinet",
       "url": "https://www.heise.de/news/Patchday-Kritische-Luecke-in-FortiOS-und-FortiProxy-geschlossen-7538910.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/40-Sicherheitsluecken-gestopft-Google-macht-Chrome-111-sicherer-7538631.html"
-    },
-    {
-      "title": "Microsoft Office",
-      "url": "https://www.heise.de/news/Kritische-Word-Luecke-Proof-of-Concept-Code-veroeffentlicht-7537267.html"
     },
     {
       "title": "Millionen Handys sollen bei landesweiten Probealarmen in NRW und Bayern warnen",
@@ -108,6 +108,11 @@
       "url": "https://www.heise.de/news/Ransomware-Angriff-Krankenhaus-muss-hunderte-Operationen-absagen-7537601.html"
     },
     {
+      "title": "Kritische Word-Lücke: Proof-of-Concept-Code veröffentlicht",
+      "teaser": "Der Entdecker einer kritischen Lücke bei der Anzeige von RTF-Dokumenten hat mit seiner Sicherheitsmeldung auch Proof-of-Concept-Code veröffentlicht.",
+      "url": "https://www.heise.de/news/Kritische-Word-Luecke-Proof-of-Concept-Code-veroeffentlicht-7537267.html"
+    },
+    {
       "title": "Nächste Woche: Security-Kongressmesse secIT 2023 sagt Cybercrime den Kampf an",
       "teaser": "Im redaktionellen Programm der secIT erfahren Admins wertvolles Wissen. Doch auch unsere Partner haben hilfreiche Fakten in petto.",
       "url": "https://www.heise.de/news/Naechste-Woche-Security-Kongressmesse-secIT-2023-sagt-Cybercrime-den-Kampf-an-7536732.html"
@@ -150,11 +155,6 @@
       "title": "Sonicwall SonicOS: Hochriskante Lücke erlaubt Lahmlegen der Firewall",
       "teaser": "Im Betriebssystem SonicOS von Sonicwall klaffen Sicherheitslücken. Eine davon ist hochriskant und erlaubt das Lahmlegen der Firewall. Updates stehen bereit.",
       "url": "https://www.heise.de/news/Sonicwall-SonicOS-Angreifer-aus-dem-Netz-koennen-Firewall-lahmlegen-7536077.html"
-    },
-    {
-      "title": "Schadcode-Attacken auf HPE Serviceguard unter Linux möglich",
-      "teaser": "Die Entwickler haben in Serviceguard for Linux von HPE drei Sicherheitslücken geschlossen. Abgesicherte Version stehen zum Download bereit.",
-      "url": "https://www.heise.de/news/Schadcode-Attacken-auf-HPE-Serviceguard-unter-Linux-moeglich-7534361.html"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
