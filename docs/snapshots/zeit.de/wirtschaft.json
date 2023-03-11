@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-11T16:15:02",
+  "timestamp": "2023-03-11T17:10:17",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Tarifkonflikt: Deutsche Post und ver.di einigen sich in Tarifverhandlungen",
+      "teaser": "Bis in die Nacht hatten die Post und ver.di verhandelt, nun steht ein Kompromiss. Der von der Gewerkschaft angedrohte unbefristete Streik ist damit wohl abgewendet.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/deutsche-post-und-ver-di-einigen-sich-in-tarifverhandlungen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutsche-post-und-ver-di-einigen-sich-in-tarifverhandlungen-bild/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Matthew Earl: Einer schlägt zurück",
       "teaser": "Jahrelang ließ Wirecard seinen Kritiker Matthew Earl von Privatermittlern ausforschen. Nun verklagt der den Insolvenzverwalter – und die Späher.",
       "url": "https://www.zeit.de/2023/11/matthew-earl-wirecard-skandal-anklage",
-      "image_url": "https://img.zeit.de/2023/11/matthew-earl-wirecard-skandal-anklage-teaserbild/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/11/matthew-earl-wirecard-skandal-anklage-teaserbild/wide__822x462",
+      "image_title": "Matthew Earl: Einer schlägt zurück"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Silicon Valley Bank: Droht jetzt die nächste Finanzkrise?",
@@ -66,14 +73,14 @@
       "title": "USA: Silicon Valley Bank wird geschlossen",
       "teaser": "Es ist eine der größte Bankenpleiten in der Geschichte der USA: Der Betrieb der Silicon Valley Bank wird eingestellt. Einlagen und Vermögen wurden schon überwiesen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen-bild/cinema__980x420",
       "image_title": "USA: Silicon Valley Bank wird geschlossen"
     },
     {
       "title": "Start-ups in Mecklenburg-Vorpommern: Womit keiner rechnet",
       "teaser": "In Mecklenburg-Vorpommern haben Frauen die niedrigsten Gehälter. Doch ausgerechnet hier gründen sie überdurchschnittlich oft ein Start-up. Was steckt dahinter?",
       "url": "https://www.zeit.de/2023/11/mecklenburg-vorpommern-start-ups-frauen",
-      "image_url": "https://img.zeit.de/2023/11/mecklenburg-vorpommern-start-ups-frauen-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/11/mecklenburg-vorpommern-start-ups-frauen-teaserbild/wide__822x462",
       "image_title": "Start-ups in Mecklenburg-Vorpommern: Womit keiner rechnet"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/ampel-koalition-haushalt-christian-lindner",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/fdp-christian-lindner-finanzminister-haushaltsplan/wide__822x462",
       "image_title": "Ampel-Koalition: Nimm's von den Reichen"
-    },
-    {
-      "title": "Tarifstreit im öffentlichen Dienst: Ver.di ruft zu Warnstreiks im Gesundheitswesen auf",
-      "teaser": "Im Tarifstreit mit Bund und Kommunen setzt die Gewerkschaft auf erste Streiks. Beschäftigte in Kliniken und Pflegeheimen sollen ihre Arbeit kommende Woche niederlegen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-streik-gesundheitswesen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/verdi-streik-gesundheitswesen-bild/wide__822x462",
-      "image_title": "Tarifstreit im öffentlichen Dienst: Ver.di ruft zu Warnstreiks im Gesundheitswesen auf"
     },
     {
       "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Tarifstreit im öffentlichen Dienst: Ver.di ruft zu Warnstreiks im Gesundheitswesen auf",
+      "teaser": "Im Tarifstreit mit Bund und Kommunen setzt die Gewerkschaft auf erste Streiks. Beschäftigte in Kliniken und Pflegeheimen sollen ihre Arbeit kommende Woche niederlegen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-streik-gesundheitswesen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/verdi-streik-gesundheitswesen-bild/wide__822x462",
+      "image_title": "Tarifstreit im öffentlichen Dienst: Ver.di ruft zu Warnstreiks im Gesundheitswesen auf"
+    },
+    {
       "title": "Europäische Union: EU will Energieverbrauch bis 2030 um mehr als ein Zehntel senken",
       "teaser": "Das Klima schützen und unabhängiger von Russland werden: Das sind die Ziele der neuen Stromsparmaxime der EU. Diese ist allerdings niedriger als noch vor Kurzem geplant.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/klima-energieverbauch-einsparung-eu",
@@ -220,14 +227,14 @@
       "title": "Einkommen: Midijobs sind ein Irrweg",
       "teaser": "Die Regierung hat geringfügige Beschäftigung so attraktiv wie noch nie gemacht. Damit setzt sie fatale Anreize und fördert ausgerechnet die, die es gar nicht nötig haben.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/einkommen-midijobs-foerderung-bundesregierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einkommen-midijobs-foerderung/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einkommen-midijobs-foerderung/cinema__980x420",
       "image_title": "Einkommen: Midijobs sind ein Irrweg"
     },
     {
       "title": "Statistisches Bundesamt: Inflation verharrt im Februar bei 8,7 Prozent",
       "teaser": "Die Inflation in Deutschland bleibt auf hohem Niveau. Die Verbraucherpreise stiegen gegenüber dem Vorjahresmonat um 8,7 Prozent, bestätigte das Statistische Bundesamt.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/inflation-februar-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/inflation-deutschland-februar-statistisches-bundesamt-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/inflation-deutschland-februar-statistisches-bundesamt-bild/wide__822x462",
       "image_title": "Statistisches Bundesamt: Inflation verharrt im Februar bei 8,7 Prozent"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/tarifkonflikt-post-verdi-streik",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/tarifkonflikt-post-verdi-bild/wide__822x462",
       "image_title": "Tarifkonflikt: Ver.di und Deutsche Post setzen Tarifverhandlung fort"
-    },
-    {
-      "title": "Inflation: Sozialverband fordert Erhöhung des Mindestlohns auf mehr als 14 Euro",
-      "teaser": "Zwölf Euro seien angesichts gestiegener Preise viel zu wenig, heißt es vom Sozialverband. Im Sommer wird ein weiterer Vorschlag zur Anpassung des Mindestlohns erwartet.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/mindestlohn-sozialverband-deutschland-erhoehung-inflation",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/mindestlohn-sozialverband-deutschland-erhoehung-inflation-foto/wide__822x462",
-      "image_title": "Inflation: Sozialverband fordert Erhöhung des Mindestlohns auf mehr als 14 Euro"
     },
     {
       "title": "Immobilienkonzern: Ermittler durchsuchen Büros von Vonovia",
