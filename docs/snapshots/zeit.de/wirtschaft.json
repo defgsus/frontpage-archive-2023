@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-12T07:10:46",
+  "timestamp": "2023-03-12T08:14:30",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Arbeit im Alter: Was tun mit all den Jahren?",
+      "teaser": "Wer in den Ruhestand geht, ist oft fit und hat noch viel Zeit vor sich. Klingt wie ein Paradies, doch nicht für alle bedeutet mehr Freizeit auch mehr Zufriedenheit.",
+      "url": "https://www.zeit.de/2023/11/arbeit-alter-rente-arbeitsmarkt-generationen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-01/rentenreform-frankreich-emmanuel-macron/cinema__980x420"
+    },
+    {
       "title": "Tarifverhandlungen: Ver.di und EVG planen offenbar gemeinsamen Streik im Verkehrssektor",
       "teaser": "Einem Bericht zufolge erwägen Dienstleistungs- und Eisenbahngewerkschaft Ende März einen großen Streik. Man werde Streiks rechtzeitig ankündigen, beteuert die EVG.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-evg-streik-bahn-flughaefen-autobahngesellschaft",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-evg-streik/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-evg-streik/wide__822x462",
+      "image_title": "Tarifverhandlungen: Ver.di und EVG planen offenbar gemeinsamen Streik im Verkehrssektor"
     },
     {
       "title": "USA: Silicon Valley Bank zahlte offenbar kurz vor Pleite noch Boni aus",
@@ -64,16 +71,16 @@
     },
     {
       "title": "Tarifkonflikt: Deutsche Post und ver.di einigen sich in Tarifverhandlungen",
-      "teaser": "Bis in die Nacht hatten die Post und ver.di verhandelt, nun steht ein Kompromiss. Der von der Gewerkschaft angedrohte unbefristete Streik ist damit wohl abgewendet.",
+      "teaser": "Bis in die Nacht hatten die Post und ver.di verhandelt, nun steht ein Kompromiss. Der von der Gewerkschaft angedrohte unbefristete Streik ist damit wohl abgewendet. 213 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-03/deutsche-post-und-ver-di-einigen-sich-in-tarifverhandlungen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutsche-post-und-ver-di-einigen-sich-in-tarifverhandlungen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutsche-post-und-ver-di-einigen-sich-in-tarifverhandlungen-bild/cinema__980x420",
       "image_title": "Tarifkonflikt: Deutsche Post und ver.di einigen sich in Tarifverhandlungen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Matthew Earl: Einer schlägt zurück",
       "teaser": "Jahrelang ließ Wirecard seinen Kritiker Matthew Earl von Privatermittlern ausforschen. Nun verklagt der den Insolvenzverwalter – und die Späher.",
       "url": "https://www.zeit.de/2023/11/matthew-earl-wirecard-skandal-anklage",
-      "image_url": "https://img.zeit.de/2023/11/matthew-earl-wirecard-skandal-anklage-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/11/matthew-earl-wirecard-skandal-anklage-teaserbild/wide__822x462",
       "image_title": "Matthew Earl: Einer schlägt zurück"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/boerse/2023-03/silicon-valley-bank-finanzkrise-pleite-usa",
       "image_url": "https://img.zeit.de/wirtschaft/boerse/2023-03/silicon-valley-bank-finanzkrise-pleite/wide__822x462",
       "image_title": "Silicon Valley Bank: Droht jetzt die nächste Finanzkrise?"
-    },
-    {
-      "title": "USA: Silicon Valley Bank wird geschlossen",
-      "teaser": "Es ist eine der größte Bankenpleiten in der Geschichte der USA: Der Betrieb der Silicon Valley Bank wird eingestellt. Einlagen und Vermögen wurden schon überwiesen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen-bild/wide__822x462",
-      "image_title": "USA: Silicon Valley Bank wird geschlossen"
     },
     {
       "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "USA: Silicon Valley Bank wird geschlossen",
+      "teaser": "Es ist eine der größte Bankenpleiten in der Geschichte der USA: Der Betrieb der Silicon Valley Bank wird eingestellt. Einlagen und Vermögen wurden schon überwiesen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-geschlossen-bild/wide__822x462",
+      "image_title": "USA: Silicon Valley Bank wird geschlossen"
+    },
+    {
       "title": "Start-ups in Mecklenburg-Vorpommern: Womit keiner rechnet",
       "teaser": "In Mecklenburg-Vorpommern haben Frauen die niedrigsten Gehälter. Doch ausgerechnet hier gründen sie überdurchschnittlich oft ein Start-up. Was steckt dahinter?",
       "url": "https://www.zeit.de/2023/11/mecklenburg-vorpommern-start-ups-frauen",
@@ -218,16 +225,16 @@
     },
     {
       "title": "Europäische Union: EU will Energieverbrauch bis 2030 um mehr als ein Zehntel senken",
-      "teaser": "Das Klima schützen und unabhängiger von Russland werden: Das sind die Ziele der neuen Stromsparmaxime der EU. Diese ist allerdings niedriger als noch vor Kurzem geplant.",
+      "teaser": "Das Klima schützen und unabhängiger von Russland werden: Das sind die Ziele der neuen Stromsparmaxime der EU. Diese ist allerdings niedriger als noch vor Kurzem geplant. 215 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-03/klima-energieverbauch-einsparung-eu",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/eu-energieverbrauch-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/eu-energieverbrauch-bild/cinema__980x420",
       "image_title": "Europäische Union: EU will Energieverbrauch bis 2030 um mehr als ein Zehntel senken"
     },
     {
       "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
       "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
       "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
       "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/wohnbau-baugenehmigungen-tiefststand",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/wohnbau-baugenehmigungen-tiefststand-bild/wide__822x462",
       "image_title": "Immobilien: Zahl der erteilten Baugenehmigungen auf niedrigstem Stand seit 2018"
-    },
-    {
-      "title": "Einkommen: Midijobs sind ein Irrweg",
-      "teaser": "Die Regierung hat geringfügige Beschäftigung so attraktiv wie noch nie gemacht. Damit setzt sie fatale Anreize und fördert ausgerechnet die, die es gar nicht nötig haben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/einkommen-midijobs-foerderung-bundesregierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einkommen-midijobs-foerderung/wide__822x462",
-      "image_title": "Einkommen: Midijobs sind ein Irrweg"
     },
     {
       "title": "Tarifkonflikt: Ver.di und Deutsche Post setzen Tarifverhandlung fort",
