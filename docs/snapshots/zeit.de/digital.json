@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-12T15:11:51",
+  "timestamp": "2023-03-12T16:15:05",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Pico 4: Die TikTok-Brille",
+      "teaser": "Der TikTok-Konzern ByteDance ist auch in der virtuellen Realität unterwegs, seit Neuestem mit seiner Pico 4. Die soll auch Meta gefährlich werden. Schafft sie das?",
+      "url": "https://www.zeit.de/digital/games/2023-03/pico-4-vr-brille-tiktok-bytedance",
+      "image_url": "https://img.zeit.de/digital/games/2023-03/pico-4-vr-brille-tiktok-bytedance-meta-foto/cinema__980x420"
+    },
+    {
       "title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative",
       "teaser": "Meta arbeitet an Plänen für ein eigenes soziales Netzwerk. Man sehe Chancen für einen Twitter-Konkurrenten, hieß es. Der Dienst könnte mit Mastodon kompatibel sein.",
       "url": "https://www.zeit.de/digital/internet/2023-03/twitter-konkurrenz-meta-facebook-netzwerk-textnachrichten",
-      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/wide__822x462",
+      "image_title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative"
     },
     {
       "title": "Videoplattform: TikTok verbessert auf internationalen Druck seinen Datenschutz",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/tiktok-sicherheitsbedenken-china-datenschutz",
       "image_url": "https://img.zeit.de/digital/internet/2023-03/tiktok-sicherheitsbedenken-china-datenschutz-bild-2/wide__822x462",
       "image_title": "Videoplattform: TikTok verbessert auf internationalen Druck seinen Datenschutz"
-    },
-    {
-      "title": "KI-Chatbot von Meta: Ein Llama auf Abwegen",
-      "teaser": "Das KI-Sprachmodell LLaMA ist die Antwort des Facebook-Konzerns Meta auf ChatGPT. Kaum verkündet, wurde der Code geleakt. Nun warnen Experten vor Missbrauch der Software.",
-      "url": "https://www.zeit.de/digital/internet/2023-03/llama-ki-chatbot-meta-leak",
-      "image_url": "https://img.zeit.de/digital/internet/2023-03/meta-logo-chatbot/wide__822x462",
-      "image_title": "KI-Chatbot von Meta: Ein Llama auf Abwegen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, antwortet der Rechner",
@@ -154,6 +154,13 @@
       "url": "https://www.zeit.de/digital/2023-03/nordrhein-westfalen-ermittler-hacker-haftbefehl"
     },
     {
+      "title": "KI-Chatbot von Meta: Ein Llama auf Abwegen",
+      "teaser": "Das KI-Sprachmodell LLaMA ist die Antwort des Facebook-Konzerns Meta auf ChatGPT. Kaum verkündet, wurde der Code geleakt. Nun warnen Experten vor Missbrauch der Software.",
+      "url": "https://www.zeit.de/digital/internet/2023-03/llama-ki-chatbot-meta-leak",
+      "image_url": "https://img.zeit.de/digital/internet/2023-03/meta-logo-chatbot/wide__822x462",
+      "image_title": "KI-Chatbot von Meta: Ein Llama auf Abwegen"
+    },
+    {
       "title": "TikTok: App-Angst",
       "teaser": "EU-Behörden verbannen TikTok von Dienstgeräten. Die USA überlegen gar, die App komplett zu verbieten. Ist das soziale Netzwerk wirklich eine chinesische Cyberwaffe?",
       "url": "https://www.zeit.de/digital/datenschutz/2023-03/tiktok-regierungsbehoerden-usa-verbot-china",
@@ -166,13 +173,6 @@
       "url": "https://www.zeit.de/digital/2023-03/nordrhein-westfalen-ermittler-hacker-haftbefehl",
       "image_url": "https://img.zeit.de/digital/2023-03/cyberkriminalitaet-duesseldorf/wide__822x462",
       "image_title": "NRW: Ermittler enttarnen internationales Hackernetzwerk"
-    },
-    {
-      "title": "Cyberangriffe: Sicherheitsforscher kapern Bing-Chat",
-      "teaser": "Mit technischen Tricks brachten Forscher eine KI dazu, sich als Pirat auszugeben, der Nutzer ausspioniert. Klingt schräg, könnte aber der Cyberangriff der Zukunft sein.",
-      "url": "https://www.zeit.de/digital/2023-03/cyberangriffe-microsoft-bing-chat-piraten",
-      "image_url": "https://img.zeit.de/digital/2023-03/cyberangriffe-microsoft-bing-chat/wide__822x462",
-      "image_title": "Cyberangriffe: Sicherheitsforscher kapern Bing-Chat"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -203,6 +203,13 @@
       "image_title": "Cyberangriff in Potsdam: Die Spur der Geisterrouter"
     },
     {
+      "title": "Cyberangriffe: Sicherheitsforscher kapern Bing-Chat",
+      "teaser": "Mit technischen Tricks brachten Forscher eine KI dazu, sich als Pirat auszugeben, der Nutzer ausspioniert. Klingt schräg, könnte aber der Cyberangriff der Zukunft sein.",
+      "url": "https://www.zeit.de/digital/2023-03/cyberangriffe-microsoft-bing-chat-piraten",
+      "image_url": "https://img.zeit.de/digital/2023-03/cyberangriffe-microsoft-bing-chat/wide__822x462",
+      "image_title": "Cyberangriffe: Sicherheitsforscher kapern Bing-Chat"
+    },
+    {
       "title": "ChatGPT: Ach, wie trollig",
       "teaser": "In einem Experiment streiten sich Menschen mit Kommentaren, die ChatGPT erzeugt hat. Das zeigt: Künstliche Intelligenz könnte Desinformationskampagnen effizienter machen.",
       "url": "https://www.zeit.de/digital/internet/2023-03/chatgpt-chatbots-desinformation-soziale-medien",
@@ -217,13 +224,6 @@
       "image_title": "Chinesische App: USA sehen TikTok als mögliches Risiko für die nationale Sicherheit"
     },
     {
-      "title": "Klimaschutz: Mehr Menschen kompensieren ihre CO₂-Emissionen über Onlineanbieter",
-      "teaser": "Laut einer Umfrage hat jeder Zehnte im Internet schon mal freiwillig gezahlt, um den eigenen CO₂-Ausstoß auszugleichen. Vor allem junge Menschen nutzen die Möglichkeit.",
-      "url": "https://www.zeit.de/digital/2023-03/klimaschutz-co2-emissionen-internet-kompensation",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/kompensation-co2-emissionen-bild/wide__822x462",
-      "image_title": "Klimaschutz: Mehr Menschen kompensieren ihre CO₂-Emissionen über Onlineanbieter"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -231,11 +231,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Chinesische App: EU-Parlament verbietet TikTok auf Dienstgeräten",
-      "teaser": "Nach den US-Behörden und der EU-Kommission verbietet auch das EU-Parlament TikTok auf Dienstgeräten. Hintergrund sind Sicherheitsbedenken gegenüber der chinesischen App.",
-      "url": "https://www.zeit.de/digital/datenschutz/2023-03/eu-parlament-tiktok-verbot",
-      "image_url": "https://img.zeit.de/digital/2023-03/tik-tok-diensthandy-verbot-eu-parlament-mitarbeiter-bild/wide__822x462",
-      "image_title": "Chinesische App: EU-Parlament verbietet TikTok auf Dienstgeräten"
+      "title": "Klimaschutz: Mehr Menschen kompensieren ihre CO₂-Emissionen über Onlineanbieter",
+      "teaser": "Laut einer Umfrage hat jeder Zehnte im Internet schon mal freiwillig gezahlt, um den eigenen CO₂-Ausstoß auszugleichen. Vor allem junge Menschen nutzen die Möglichkeit.",
+      "url": "https://www.zeit.de/digital/2023-03/klimaschutz-co2-emissionen-internet-kompensation",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/kompensation-co2-emissionen-bild/wide__822x462",
+      "image_title": "Klimaschutz: Mehr Menschen kompensieren ihre CO₂-Emissionen über Onlineanbieter"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
@@ -273,18 +273,18 @@
       "image_title": "KI-Chatbot von Meta: Ein Llama auf Abwegen"
     },
     {
+      "title": "Chinesische App: EU-Parlament verbietet TikTok auf Dienstgeräten",
+      "teaser": "Nach den US-Behörden und der EU-Kommission verbietet auch das EU-Parlament TikTok auf Dienstgeräten. Hintergrund sind Sicherheitsbedenken gegenüber der chinesischen App.",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-03/eu-parlament-tiktok-verbot",
+      "image_url": "https://img.zeit.de/digital/2023-03/tik-tok-diensthandy-verbot-eu-parlament-mitarbeiter-bild/wide__822x462",
+      "image_title": "Chinesische App: EU-Parlament verbietet TikTok auf Dienstgeräten"
+    },
+    {
       "title": "Google Play Store: Traue keinem Datenschutzlabel",
       "teaser": "Wer eine App herunterlädt, sollte sehen können, welche Daten sie sammelt. Doch die Angaben sind teils irreführend und falsch, wie eine neue Studie von Mozilla zeigt.",
       "url": "https://www.zeit.de/digital/datenschutz/2023-02/google-play-store-datenschutzlabel-mozilla-studie-android-apps",
       "image_url": "https://img.zeit.de/digital/datenschutz/2023-02/android-apps-datenschutz-play-store/wide__822x462",
       "image_title": "Google Play Store: Traue keinem Datenschutzlabel"
-    },
-    {
-      "title": "Palantir-Software: Polizeiliche Datenanalyse braucht strengere Regeln",
-      "teaser": "Die Polizei in Hessen setzt umstrittene Software ein. Die Gesetzesgrundlage dafür hat das Bundesverfassungsgericht nun als verfassungswidrig eingestuft. Worum es geht.",
-      "url": "https://www.zeit.de/digital/datenschutz/2023-02/palantir-software-bundesverfassungsgericht-hessendata-faq",
-      "image_url": "https://img.zeit.de/digital/datenschutz/2023-02/palantir-software-bundesverfassungsgericht-hessendata-faq-bild-2/wide__822x462",
-      "image_title": "Palantir-Software: Polizeiliche Datenanalyse braucht strengere Regeln"
     },
     {
       "title": "VerlagsangebotTesten Sie 4x die digitale ZEIT",
@@ -294,11 +294,11 @@
       "image_title": "Testen Sie 4x die digitale ZEIT"
     },
     {
-      "title": "Meta: Kommt jetzt der Werbungabschalter?",
-      "teaser": "Facebook-Konzern Meta muss wegen personalisierter Werbung 390 Millionen Euro zahlen. Das Urteil könnte grundlegend verändern, wie Techkonzerne mit Nutzerdaten umgehen.",
-      "url": "https://www.zeit.de/digital/datenschutz/2023-01/meta-strafe-personalisierte-daten-facebook-instagram",
-      "image_url": "https://img.zeit.de/digital/datenschutz/2023-01/meta-strafe-personalisierte-daten-facebook-instagram-2/wide__822x462",
-      "image_title": "Meta: Kommt jetzt der Werbungabschalter?"
+      "title": "Palantir-Software: Polizeiliche Datenanalyse braucht strengere Regeln",
+      "teaser": "Die Polizei in Hessen setzt umstrittene Software ein. Die Gesetzesgrundlage dafür hat das Bundesverfassungsgericht nun als verfassungswidrig eingestuft. Worum es geht.",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-02/palantir-software-bundesverfassungsgericht-hessendata-faq",
+      "image_url": "https://img.zeit.de/digital/datenschutz/2023-02/palantir-software-bundesverfassungsgericht-hessendata-faq-bild-2/wide__822x462",
+      "image_title": "Palantir-Software: Polizeiliche Datenanalyse braucht strengere Regeln"
     },
     {
       "title": "App Artifact: TikTok für Text",
