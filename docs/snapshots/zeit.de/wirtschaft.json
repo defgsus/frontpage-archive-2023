@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-13T13:20:58",
+  "timestamp": "2023-03-13T14:12:09",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Silicon Valley Bank: Joe Biden ruft Kongress zu stärkerer Regulierung des Bankensystems auf",
+      "teaser": "Eine weitere Pleite wie die der Silicon Valley Bank müsse verhindert werden, mahnt der US-Präsident. Er versichert der Bevölkerung: \"Ihre Einlagen werden da sein.\"",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/silicon-valley-bank-usa-praesident-joe-biden-einlagensicherheit",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/usa-silicon-valley-bank-joe-biden-kongress-regulierung-bankensystem/cinema__980x420"
+    },
+    {
       "title": "Russisches Öl: Putins unverhoffte Gewinne",
       "teaser": "Die Ölsanktionen gegen Russland gelten seit Monaten als Erfolg. Doch interne Daten zeigen, dass russische Energiekonzerne höhere Preise erzielen als bislang angenommen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/russland-oel-exportpreise-eu-sanktionen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/russland-oel-exportpreise-eu/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/russland-oel-exportpreise-eu/wide__822x462",
+      "image_title": "Russisches Öl: Putins unverhoffte Gewinne"
     },
     {
       "title": "Lebensmittel: Haushalte geben weniger Geld für Wein aus",
@@ -66,14 +73,14 @@
       "title": "Großbritannien: Großbank HSBC übernimmt Tochter der insolventen Silicon Valley Bank",
       "teaser": "Nach dem Scheitern der Silicon Valley Bank kauft HSBC die britische Einheit – zu einem symbolischen Preis. Die Konten britischer Kunden sollen sicher sein.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/grossbritannien-hbsc-silicon-valley-bank-uebernahme",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/grossbritannien-hbsc-silicon-valley-bank-uebernahme-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/grossbritannien-hbsc-silicon-valley-bank-uebernahme-bild/cinema__980x420",
       "image_title": "Großbritannien: Großbank HSBC übernimmt Tochter der insolventen Silicon Valley Bank"
     },
     {
       "title": "Erdöl: Deutsche Ölimporte aus Russland um 99,9 Prozent eingebrochen",
-      "teaser": "Russland liefert kaum noch Erdöl nach Deutschland. Die Lücke wird mit Lieferungen aus Norwegen, Großbritannien und Kasachstan ausgeglichen. 250 Kommentare",
+      "teaser": "Russland liefert kaum noch Erdöl nach Deutschland. Die Lücke wird mit Lieferungen aus Norwegen, Großbritannien und Kasachstan ausgeglichen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/deutschland-russland-oel-importe",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutschland-russland-oel-importe-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutschland-russland-oel-importe-bild/wide__822x462",
       "image_title": "Erdöl: Deutsche Ölimporte aus Russland um 99,9 Prozent eingebrochen"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-janet-yellen-signature-bank-notenbank",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/usa-fed-bank-bankenkrise/wide__822x462",
       "image_title": "Silicon Valley Bank: Wie die USA eine neue Finanzkrise verhindern wollen"
-    },
-    {
-      "title": "Ver.di: Warnstreiks an mehreren Flughäfen – mehr als 300 Flüge gestrichen",
-      "teaser": "An den Flughäfen in Hamburg, Hannover und Berlin-Brandenburg haben ganztägige Warnstreiks begonnen. Hintergrund sind die Tarifverhandlungen im öffentlichen Dienst.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/verdi-gewerkschaft-flughaefen-warnstreiks-tarifverhandlungen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/verdi-flughaefen-warnstreiks-tarifverhandlungen-bild/wide__822x462",
-      "image_title": "Ver.di: Warnstreiks an mehreren Flughäfen – mehr als 300 Flüge gestrichen"
     },
     {
       "title": "Bertelsmann-Studie: Deutschland verliert unter ausländischen Fachkräften an Beliebtheit",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Ver.di: Warnstreiks an mehreren Flughäfen – mehr als 300 Flüge gestrichen",
+      "teaser": "An den Flughäfen in Hamburg, Hannover und Berlin-Brandenburg haben ganztägige Warnstreiks begonnen. Hintergrund sind die Tarifverhandlungen im öffentlichen Dienst.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/verdi-gewerkschaft-flughaefen-warnstreiks-tarifverhandlungen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/verdi-flughaefen-warnstreiks-tarifverhandlungen-bild/wide__822x462",
+      "image_title": "Ver.di: Warnstreiks an mehreren Flughäfen – mehr als 300 Flüge gestrichen"
+    },
+    {
       "title": "Silicon Valley Bank : US-Behörden schließen weitere Bank",
       "teaser": "Nach dem Scheitern der insolventen Silicon Valley Bank haben Regulierer auch die Signature Bank geschlossen. Die US-Regierung sichert Kunden den Schutz ihrer Einlagen zu.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/janet-yellen-silicon-valley-bank-usa",
@@ -220,14 +227,14 @@
       "title": "Erdöl: Saudi Aramco verbucht Rekordgewinn von 161 Milliarden Dollar",
       "teaser": "Hohe Preise und eine gestiegene Nachfrage verschaffen dem saudischen Ölkonzern Aramco seinen höchsten Gewinn. Der Ukraine-Krieg trug maßgeblich zu den Profiten bei.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/erdoel-saudi-aramco-rekordgewinn",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/erdoel-saudi-aramco-rekordgewinn-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/erdoel-saudi-aramco-rekordgewinn-bild/cinema__980x420",
       "image_title": "Erdöl: Saudi Aramco verbucht Rekordgewinn von 161 Milliarden Dollar"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Arbeit im Alter: Was tun mit all den Jahren?",
       "teaser": "Wer in den Ruhestand geht, ist oft fit und hat noch viel Zeit vor sich. Klingt wie ein Paradies, doch nicht für alle bedeutet mehr Freizeit auch mehr Zufriedenheit.",
       "url": "https://www.zeit.de/2023/11/arbeit-alter-rente-arbeitsmarkt-generationen",
-      "image_url": "https://img.zeit.de/2023-03/arbeit-alter-rente-arbeitsmarkt-generationen/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023-03/arbeit-alter-rente-arbeitsmarkt-generationen/wide__822x462",
       "image_title": "Arbeit im Alter: Was tun mit all den Jahren?"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-evg-streik-bahn-flughaefen-autobahngesellschaft",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/tarifverhandlungen-verdi-evg-streik/wide__822x462",
       "image_title": "Tarifverhandlungen: Ver.di und EVG planen offenbar gemeinsamen Streik im Verkehrssektor"
-    },
-    {
-      "title": "USA: Silicon Valley Bank zahlte offenbar kurz vor Pleite noch Boni aus",
-      "teaser": "Laut einem Medienbericht erhielten Mitarbeiter der Silicon Valley Bank noch Prämien. Demnach wurden Boni ausgezahlt, wenige Stunden bevor das Institut schließen musste.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-boni-pleite-auszahlung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/usa-silicon-valley-bank-boni-pleite/wide__822x462",
-      "image_title": "USA: Silicon Valley Bank zahlte offenbar kurz vor Pleite noch Boni aus"
     },
     {
       "title": "Tarifkonflikt: Ver.di und Deutsche Post setzen Tarifverhandlung fort",
@@ -294,11 +294,11 @@
       "image_title": "Prämiensparvertrag: Die fehlende Milliarde und wie Sparer sie zurückbekommen"
     },
     {
-      "title": "WirtschaftsWocheKollaps der Silicon Valley Bank: Es riecht verdächtig nach Finanzkrise 2.0",
+      "title": "WirtschaftsWocheKollaps der Silicon Valley Bank: Es riecht nach Finanzkrise 2.0",
       "teaser": "Die Rettung der Silicon Valley Bank erschwert der Fed den Kampf gegen die Inflation – und offenbart die Fragilität unseres Geldsystems. Ein Kommentar.",
-      "url": "https://www.wiwo.de/politik/konjunktur/kollaps-der-silicon-valley-bank-es-riecht-verdaechtig-nach-finanzkrise-2-0/29033642.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/file-photo-banking-regulators-close-silicon-valley-bank/29033676/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Kollaps der Silicon Valley Bank: Es riecht verdächtig nach Finanzkrise 2.0"
+      "url": "https://www.wiwo.de/politik/konjunktur/kollaps-der-silicon-valley-bank-es-riecht-nach-finanzkrise-2-0/29033642.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/file-photo-banking-regulators-close-silicon-valley-bank/29033676/4-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Kollaps der Silicon Valley Bank: Es riecht nach Finanzkrise 2.0"
     },
     {
       "title": "WirtschaftsWocheSIPRI-Bericht: Russlands Waffenexport ist regelrecht eingebrochen",

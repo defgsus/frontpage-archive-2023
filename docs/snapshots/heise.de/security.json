@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-13T13:20:48",
+  "timestamp": "2023-03-13T14:12:01",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9d145732fa5f10ac19e5",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.f9950f0bbf0021378bdb",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Lexmark-Drucker",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-Lexmark-aktualisiert-Firmware-fuer-viele-Drucker-7543959.html"
+    },
     {
       "title": "Cisco IOS XR",
       "url": "https://www.heise.de/news/Hochriskante-Denial-of-Service-Luecke-in-Cisco-IOS-XR-7540747.html"
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Patchday-Kritische-Luecke-in-FortiOS-und-FortiProxy-geschlossen-7538910.html"
     },
     {
-      "title": "Veeam Backup & Replication",
-      "url": "https://www.heise.de/news/Veeam-Backup-Replication-Angreifer-koennten-auf-Anmeldeinformationen-zugreifen-7538891.html"
+      "title": "Denkt wie ein Angreifer, gehört aber zu den Guten: Security-Tool ZeusCloud​",
+      "teaser": "Ein All-in-One-Paket für die Cloud-Security verspricht ZeusCloud. Das kostenlose, freie Werkzeug funktioniert aktuell aber nur mit Amazon AWS.​",
+      "url": "https://www.heise.de/news/Denkt-wie-ein-Angreifer-gehoert-aber-zu-den-Guten-Security-Tool-ZeusCloud-7544003.html"
+    },
+    {
+      "title": "Kritische Sicherheitslücken: Lexmark aktualisiert Firmware für viele Drucker",
+      "teaser": "Diverse Drucker von Lexmark haben kritische Sicherheitslücken, die Angreifern das Ausführen von Schadcode ermöglichen. Updates stehen schon bereit.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-Lexmark-aktualisiert-Firmware-fuer-viele-Drucker-7543959.html"
     },
     {
       "title": "Microsoft: Besserer Schutz vor riskantem OneNote-Phishing geplant",
@@ -143,17 +153,6 @@
       "title": "Patchday: Fortinet dichtet 15 Schwachstellen ab, davon eine kritische",
       "teaser": "Der Patchday bei Fortinet bringt IT-Verantwortlichen Updates zum Schließen von 15 Sicherheitslücken. Eine davon ist kritisch und erlaubt Einschleusen von Code.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Luecke-in-FortiOS-und-FortiProxy-geschlossen-7538910.html"
-    },
-    {
-      "title": "Veeam Backup & Replication: Angreifer könnten auf Anmeldeinformationen zugreifen",
-      "teaser": "Aufgrund von einer Sicherheitslücke ist die Cloud-Backup-Software Veeam Backup & Replication verwundbar. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Veeam-Backup-Replication-Angreifer-koennten-auf-Anmeldeinformationen-zugreifen-7538891.html"
-    },
-    {
-      "title": "Problematische Sicherheitslücke in Apples GarageBand",
-      "teaser": "Die kostenlose Musikproduktionssoftware von Apple lässt sich offenbar angreifen. Nutzer unter macOS sollten schnell aktualisieren.",
-      "url": "https://www.heise.de/news/Problematische-Sicherheitsluecke-in-Apples-GarageBand-7538801.html",
-      "image_title": "GarageBand auf dem Mac"
     },
     {
       "title": "secIT: 14. – 16. März in Hannover",
