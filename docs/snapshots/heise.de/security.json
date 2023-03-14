@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-14T12:31:24",
+  "timestamp": "2023-03-14T13:30:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday: SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-schliesst-19-teils-kritische-Sicherheitsluecken-7544782.html"
+    },
+    {
       "title": "Lexmark-Drucker",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecken-Lexmark-aktualisiert-Firmware-fuer-viele-Drucker-7543959.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Foxit-PDF-Editor-Luecken-erlauben-einschleusen-von-Schadcode-7540068.html"
     },
     {
-      "title": "Fortinet",
-      "url": "https://www.heise.de/news/Patchday-Kritische-Luecke-in-FortiOS-und-FortiProxy-geschlossen-7538910.html"
+      "title": "Zwei-Faktor-Authentifizierung: Online-Thementag der heise devSec im Mai 2023",
+      "teaser": "Online-Veranstaltung: Am 16. Mai 2023 dreht sich alles um 2FA aus Sicht der Softwareentwicklung: Grundlagen, Implementierung und Fallstricke.",
+      "url": "https://www.heise.de/news/Zwei-Faktor-Authentifizierung-Online-Thementag-der-heise-devSec-im-Mai-2023-7544836.html"
+    },
+    {
+      "title": "Patchday: SAP schließt 19 teils kritische Sicherheitslücken",
+      "teaser": "Zum März-Patchday hat SAP Sicherheitsnotizen zu 19 Sicherheitslücken veröffentlicht. Davon stuft der Hersteller fünf als kritisch ein. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Patchday-SAP-schliesst-19-teils-kritische-Sicherheitsluecken-7544782.html"
     },
     {
       "title": "KI-generierte Youtube-Clips: Malware-Verteilung durch Crack-Anleitungen",
@@ -142,17 +152,6 @@
       "title": "Passwort-Manager Bitwarden: Diskussion über Auto-Fill-Funktion",
       "teaser": "Die Browser-Plug-ins von Bitwarden erleichtern das Eintragen von Zugangsdaten. Bei bestimmten Konfigurationen könnten die jedoch in falsche Hände geraten.",
       "url": "https://www.heise.de/news/Passwort-Manager-Diskussion-um-Auto-Fill-Funktion-von-Bitwarden-7540487.html"
-    },
-    {
-      "title": "Foxit PDF Editor: Lücken erlauben Einschleusen von Schadcode",
-      "teaser": "Sicherheitslücken in Foxit PDF Editor ermöglichen Angreifern, mit manipulierten PDF-Dateien Schadcode einzuschmuggeln und auszuführen. Ein Update steht bereit.",
-      "url": "https://www.heise.de/news/Foxit-PDF-Editor-Luecken-erlauben-einschleusen-von-Schadcode-7540068.html"
-    },
-    {
-      "title": "Millionen Handys sollen bei landesweiten Probealarmen in NRW und Bayern warnen",
-      "teaser": "Das Warnsystem Cell Broadcast wird in Nordrhein-Westfalen und Bayern erstmals zentral ausgelöst. Neben dem Handyalarm werden auch Sirenen heulen.",
-      "url": "https://www.heise.de/news/Millionen-Handys-sollen-beim-landesweiten-Probealarm-in-NRW-schrillen-7539924.html",
-      "image_title": "Antennen für Mobilfunk"
     },
     {
       "title": "Analyse: Warum die russischen Cybertruppen in der Ukraine gescheitert sind",
