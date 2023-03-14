@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-14T14:13:51",
+  "timestamp": "2023-03-14T15:15:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Firefox",
+      "url": "https://www.heise.de/news/Webbrowser-Firefox-111-dichtet-13-Sicherheitsluecken-ab-7545380.html"
+    },
+    {
       "title": "Patchday: SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-19-teils-kritische-Sicherheitsluecken-7544782.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Hochriskante-Denial-of-Service-Luecke-in-Cisco-IOS-XR-7540747.html"
     },
     {
-      "title": "Foxit PDF Editor",
-      "url": "https://www.heise.de/news/Foxit-PDF-Editor-Luecken-erlauben-einschleusen-von-Schadcode-7540068.html"
+      "title": "Ransomware-Gang: Lockbit droht SpaceX mit Veröffentlichung tausender Baupläne",
+      "teaser": "Die Lockbit-Cybergang ist offenbar bei einem SpaceX-Partnerunternehmen eingebrochen und konnte dort Baupläne entwenden. Sie droht nun mit der Veröffentlichung.",
+      "url": "https://www.heise.de/news/SpaceX-Lockbit-Cybergang-will-tausende-Bauplaene-veroeffentlichen-7545456.html"
+    },
+    {
+      "title": "Webbrowser: Firefox 111 dichtet 13 Sicherheitslücken ab",
+      "teaser": "Der Firefox 111 und dessen ESR-Version 102.9 bessern teils hochriskante Schwachstellen aus. Ein Update ist auch ohne viele neue Funktionen ratsam.",
+      "url": "https://www.heise.de/news/Webbrowser-Firefox-111-dichtet-13-Sicherheitsluecken-ab-7545380.html"
     },
     {
       "title": "Zwei-Faktor-Authentifizierung: Online-Thementag der heise devSec im Mai 2023",
@@ -142,16 +152,6 @@
       "title": "Home Assistant: Jetzt aktualisieren und Sicherheitslücke schließen",
       "teaser": "Wer den Home Assistant mit Supervisor benutzt, sollte sein System jetzt aktualisieren. Ansonsten könnten Eindringlinge sich daran zu schaffen machen.",
       "url": "https://www.heise.de/news/Home-Assistant-Sicherheitsluecke-entdeckt-und-geschlossen-7540500.html"
-    },
-    {
-      "title": "Hochriskante Denial-of-Service-Lücke in Cisco IOS XR",
-      "teaser": "In Ciscos IOS XR-Software könnten Angreifer eine Schwachstelle missbrauchen, um Geräte zum Neustart zu bringen. Eine weitere Lücke ermöglicht Datenabfluss.",
-      "url": "https://www.heise.de/news/Hochriskante-Denial-of-Service-Luecke-in-Cisco-IOS-XR-7540747.html"
-    },
-    {
-      "title": "Passwort-Manager Bitwarden: Diskussion über Auto-Fill-Funktion",
-      "teaser": "Die Browser-Plug-ins von Bitwarden erleichtern das Eintragen von Zugangsdaten. Bei bestimmten Konfigurationen könnten die jedoch in falsche Hände geraten.",
-      "url": "https://www.heise.de/news/Passwort-Manager-Diskussion-um-Auto-Fill-Funktion-von-Bitwarden-7540487.html"
     },
     {
       "title": "Analyse: Warum die russischen Cybertruppen in der Ukraine gescheitert sind",
