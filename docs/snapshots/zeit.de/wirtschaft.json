@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-15T17:12:04",
+  "timestamp": "2023-03-15T18:15:50",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,30 +50,37 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Steigende Mieten • Das Beste aus Z+: Bauen, bauen, bauen und die Mieten steigen weiter",
+      "teaser": "Mit Hunderttausenden neuen Wohnungen will die Bundesregierung das Problem steigender Mieten in den Griff kriegen. Unsere Datenanalyse zeigt, warum das scheitern wird.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/steigende-mieten-wohnungsbau-deutschland-grossstaedte",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/mieten-wohnungsbau-grossstaedte-1/cinema__980x420"
+    },
+    {
+      "title": "Bankenkrise: Aktien von Credit Suisse brechen zwischenzeitlich um 31 Prozent ein",
+      "teaser": "Die Großbank Credit Suisse gerät nach der Pleite der US-amerikanischen Silicon Valley Bank an der Börse unter Druck. Auch der Ölpreis und wichtige Indizes gaben nach.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/bankenkrise-credit-suisse-aktien-kursverfall",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/bankenkrise-credit-suisse-aktien-kursverfall-bild-3/wide__822x462",
+      "image_title": "Bankenkrise: Aktien von Credit Suisse brechen zwischenzeitlich um 31 Prozent ein"
+    },
+    {
       "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
       "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
       "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
+      "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
     },
     {
       "title": "Staatskonzern: Bundesrechnungshof fordert grundlegende Reform der Deutschen Bahn",
       "teaser": "Verspätungen, Schulden, zu hohe Investitionen: Der Bundesrechnungshof listet erneut auf, was bei der Bahn alles nicht läuft. Der Konzern müsse dringend reformiert werden.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/deutsche-bahn-staaskonzern-bundesrechnungshof-reformbedarf",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-03/deutsche-bahn-staaskonzern-bundesrechnungshof-reformbedarf-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-03/deutsche-bahn-staaskonzern-bundesrechnungshof-reformbedarf-bild/cinema__980x420",
       "image_title": "Staatskonzern: Bundesrechnungshof fordert grundlegende Reform der Deutschen Bahn"
-    },
-    {
-      "title": "Bankenkrise: Aktien von Credit Suisse brechen um rund 30 Prozent ein",
-      "teaser": "Der Zusammenbruch dreier US-Banken und Aussagen aus Saudi-Arabien setzen der Schweizer Großbank Credit Suisse schwer zu. Auch andere Banken geraten zunehmend unter Druck.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/bankenkrise-credit-suisse-aktien-kursverfall",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/bankenkrise-credit-suisse-aktien-kursverfall-bild-3/wide__822x462",
-      "image_title": "Bankenkrise: Aktien von Credit Suisse brechen um rund 30 Prozent ein"
     },
     {
       "title": "Probleme der Energiewende: Der große Umbau kommt erst noch",
       "teaser": "Nur wegen der eingebrochenen Industrieproduktion schafft Deutschland knapp die Klimaschutzziele. Sieben Baustellen, an denen die Regierung jetzt dringend arbeiten muss.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/energiewende-probleme-waermepumpe-oelheizung-windkraft",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/energiewende-probleme-waermepumpe-oelheizung-windkraft-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/energiewende-probleme-waermepumpe-oelheizung-windkraft-bild/wide__822x462",
       "image_title": "Probleme der Energiewende: Der große Umbau kommt erst noch"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/inflation-konsumausgaben-privathaushalt-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/inflation-konsumausgaben-statistisches-bundesamt-bild/wide__822x462",
       "image_title": "Inflation: Private Haushalte haben deutlich höhere Konsumausgaben"
-    },
-    {
-      "title": "Klimaschutz: Das Leben ist eine Baustelle",
-      "teaser": "Olaf Scholz verspricht ein neues Wirtschaftswunder, doch es wird sich anders anfühlen als das alte. Es geht darum, das Land fit zu machen für eine klimaneutrale Zukunft.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/klimaschutz-wirtschaftswunder-investitionen-wachstum-5v8",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einfamilienhaeuser/wide__822x462",
-      "image_title": "Klimaschutz: Das Leben ist eine Baustelle"
     },
     {
       "title": "Warenhauskette: Galeria Karstadt Kaufhof will 52 Filialen schließen",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Klimaschutz: Das Leben ist eine Baustelle",
+      "teaser": "Olaf Scholz verspricht ein neues Wirtschaftswunder, doch es wird sich anders anfühlen als das alte. Es geht darum, das Land fit zu machen für eine klimaneutrale Zukunft.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/klimaschutz-wirtschaftswunder-investitionen-wachstum-5v8",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einfamilienhaeuser/wide__822x462",
+      "image_title": "Klimaschutz: Das Leben ist eine Baustelle"
+    },
+    {
       "title": "Konjunktur: Chinas Industrieproduktion steigt zu Jahresbeginn",
       "teaser": "Die Abkehr von der Null-Covid-Politik bringt Chinas Industrie im Januar und Februar ein Wachstum von 2,4 Prozent ein. Auch der Umsatz im Einzelhandel stieg zuletzt an.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/konjunktur-china-industrie-produktion-wachstum-jahresbeginn",
@@ -220,14 +227,14 @@
       "title": "Energieversorgung: EU-Kommission will mit Reform gegen hohe Strompreise vorgehen",
       "teaser": "Die EU-Kommission will längerfristige Stromverträge aus erneuerbaren Energien und Atomkraft fördern. Eine Entkopplung des Strompreises vom Gaspreis soll es nicht geben.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/strompreis-eu-komession-reform",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/eu-kommission-strommarktreform-preise/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/eu-kommission-strommarktreform-preise/cinema__980x420",
       "image_title": "Energieversorgung: EU-Kommission will mit Reform gegen hohe Strompreise vorgehen"
     },
     {
       "title": "Cäsium-137: Zylinder mit hochradioaktivem Cäsium in Thailand verloren gegangen",
       "teaser": "Die Suche nach einem winzigen Cäsium-Behälter in Australien sorgte im Januar für Aufsehen. In Thailand ist nun eine deutlich größere Menge des Stoffes verschwunden.",
       "url": "https://www.zeit.de/politik/deutschland/2023-03/caesium-137-zylinder-thailand-verloren",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-03/thailand-kohlekraftwerk/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-03/thailand-kohlekraftwerk/wide__822x462",
       "image_title": "Cäsium-137: Zylinder mit hochradioaktivem Cäsium in Thailand verloren gegangen"
     },
     {
@@ -257,13 +264,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/enertrag-gruener-wasserstoff-oeko-strom-projektentwickler-energiewende",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/enertrag-gruener-wasserstoff-oeko-strom-projektentwickler-energiewende-1/wide__822x462",
       "image_title": "Enertrag: Aus der Uckermark in die Welt"
-    },
-    {
-      "title": "Erdöl: Saudi Aramco verbucht Rekordgewinn von 161 Milliarden Dollar",
-      "teaser": "Hohe Preise und eine gestiegene Nachfrage verschaffen dem saudischen Ölkonzern Aramco seinen höchsten Gewinn. Der Ukraine-Krieg trug maßgeblich zu den Profiten bei.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/erdoel-saudi-aramco-rekordgewinn",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/erdoel-saudi-aramco-rekordgewinn-bild/wide__822x462",
-      "image_title": "Erdöl: Saudi Aramco verbucht Rekordgewinn von 161 Milliarden Dollar"
     },
     {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
