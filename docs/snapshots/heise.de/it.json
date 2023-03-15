@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-15T10:13:22",
+  "timestamp": "2023-03-15T11:10:37",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "BSI fordert bessere IT-Sicherheit für Verbraucher",
+      "teaser": "Die IT-Sicherheitslage für Verbraucher wird schlechter, berichtet das BSI. Das Verbraucherschutzministerium hofft auf eine neue EU-Verordnung.",
+      "url": "https://www.heise.de/news/BSI-fordert-bessere-IT-Sicherheit-fuer-Verbraucher-7545818.html",
+      "image_title": "Schatten zeigt mehrere Hände, die nach einem offenen Laptop greifen"
+    },
+    {
       "title": "Raspberry Pico W: Webserver in PicoMite-Basic",
       "teaser": "PicoMite Basic läuft sehr gut auf Picos. Dank des Pico-SDK 1.5, kann nun der WLAN-Chip auch unter dem populären PicoMite-Basic verwendet werden.",
       "url": "https://www.heise.de/news/Raspberry-Pico-W-Webserver-in-PicoMite-Basic-7544310.html"
@@ -34,11 +40,6 @@
       "title": "Banking-Trojaner: 400 Einrichtungen im Visier von Android-Malware",
       "teaser": "IT-Forscher beobachten die Weiterentwicklung des Banking-Trojaners Xenomorph für Android. Inzwischen versteht er sich auf 400 Finanzinstitutionen.",
       "url": "https://www.heise.de/news/Banking-Trojaner-Android-Malware-Xenomorph-versteht-sich-auf-400-Institutionen-7543682.html"
-    },
-    {
-      "title": "Nvidias GeForce RTX 4070 soll im April erscheinen",
-      "teaser": "Die wahrscheinlich vorerst günstigste Grafikkarte aus der aktuellen Generation soll Mitte April erscheinen – die GeForce RTX 4070.",
-      "url": "https://www.heise.de/news/Nvidias-GeForce-RTX-4070-soll-im-April-erscheinen-7543535.html"
     },
     {
       "title": "Kurztests: ATX-Netzteil für Desktop-PCs, Thunderbolt-SSD und smarter Heizlüfter",
@@ -50,6 +51,27 @@
       "teaser": "Internetbetrüger wollen Unternehmen und Onlineshops übers Ohr hauen. Doch man kann mit guten Prozessstrukturen und überlegter Kommunikation vorbeugen.",
       "url": "https://www.heise.de/hintergrund/Betrugsmaschen-Wie-Cyberkriminelle-Unternehmen-und-Haendler-um-Geld-prellen-7544167.html",
       "image_title": "Michael Vogt"
+    },
+    {
+      "title": "Jobs in der IT: Stellenanzeigen sind alle gleich (schlecht)",
+      "teaser": "Stellenanzeigen gleichen sich üblicherweise wie ein Ei dem anderen, statt den ersten individuellen Eindruck zu vermitteln, den man von einem Unternehmen erhält.",
+      "url": "https://www.heise.de/blog/Jobs-in-der-IT-Stellenanzeigen-sind-alle-gleich-schlecht-7544246.html"
+    },
+    {
+      "title": "iX-Workshop: Effiziente IT-Sicherheit für kleine und mittlere Unternehmen",
+      "teaser": "In diesem Workshop erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie für KMU. 10% Rabatt bis 29.3.",
+      "url": "https://www.heise.de/news/iX-Workshop-Effiziente-IT-Sicherheit-fuer-kleine-und-mittlere-Unternehmen-7543797.html",
+      "image_title": "iX-Workshop: IT-Sicherheit für KMU"
+    },
+    {
+      "title": "243 Milliarden Euro: Südkorea will weltweit größtes Halbleiter-Megacluster bauen",
+      "teaser": "Die südkoreanische Regierung kündigt einen Investitionsrausch an. Auch die Autoindustrie soll davon erheblich profitieren – Südkorea will ein Top-3-Land werden.",
+      "url": "https://www.heise.de/news/243-Milliarden-Euro-Suedkorea-will-weltweit-groesstes-Halbleiter-Megacluster-bauen-7546346.html"
+    },
+    {
+      "title": "WordPress unterstützt das Fediverse: Automattic kauft ActivityPub-Plugin",
+      "teaser": "Mit dem Plugin \"ActivityPub for WordPress\" können WordPress-Nutzer ihre Websites ins Fediverse bringen – und ein neues Publikum dazugewinnen.",
+      "url": "https://www.heise.de/news/WordPress-unterstuetzt-das-Fediverse-Automattic-kauft-ActivityPub-Plugin-7545310.html"
     },
     {
       "title": ".NET 8.0: Zweite Preview beschleunigt WebAssembly-Anwendungen",
@@ -82,7 +104,7 @@
       "title": "Bit-Rauschen, der Prozessor-Podcast: AMD-CPU Ryzen 9 mit Riesen-Cache",
       "teaser": "Mit einem zusätzlichen Cache-Chip steigert AMD die Rechenleistung des Ryzen 9 7950X3D. Wie gut das klappt, diskutieren wir im Podcast Bit-Rauschen 2023/6.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-AMD-CPU-Ryzen-9-mit-Riesen-Cache-7464211.html",
-      "image_title": "2 Männer sitzen auf Kühlkörpern einander gegenüber. Dazwischen schwebt das Logo des Bitrauschen-Podcasts"
+      "image_title": "Bit-Rauschen.Logo mit Prozessor im Hintergrund"
     },
     {
       "title": "Projekt Kuiper: Amazon mit drei verschiedenen Antennen für Satelliten-Internet",
@@ -113,30 +135,6 @@
       "teaser": "iOS schleust bestimmten Datenverkehr an einer aktiven VPN-Verbindung vorbei, warnen Sicherheitsforscher seit Längerem. Das ist laut Apple so gewollt.",
       "url": "https://www.heise.de/news/Apple-raeumt-ein-iOS-Dienste-koennen-VPN-Tunnel-umgehen-7545702.html",
       "image_title": "VPN auf dem iPhone"
-    },
-    {
-      "title": "Apple Watch Ultra soll angeblich Micro-LED-Zeitalter einläuten",
-      "teaser": "Apple werden schon seit Jahren Ambitionen nachgesagt, auf Micro-LED-Displays umzusteigen. Ab wann nach aktuellen Informationen damit zu rechnen ist.",
-      "url": "https://www.heise.de/news/Apple-Watch-Ultra-soll-angeblich-Micro-LED-Zeitalter-einlaeuten-7545694.html",
-      "image_title": "Apple Watch Ultra"
-    },
-    {
-      "title": "README: ChatGPT übernimmt die Dokumentation",
-      "teaser": "Ein Job, den man sich gerne von der KI klauen lässt: Das minimale Tool codex-readme schreibt die Dokumentation zum eigenen Projekt.",
-      "url": "https://www.heise.de/news/README-ChatGPT-uebernimmt-die-Dokumentation-7545542.html",
-      "image_title": "Chatgpt,Chat,With,Ai,Or,Artificial,Intelligence.,Young,Businessman,Chatting"
-    },
-    {
-      "title": "Leise, effizient und smart: Luftreiniger Philips AC3033/10 im Test",
-      "teaser": "Der Philips AC3033/10 befreit die Luft von Feinstaub und anderen Schadstoffen. Auch optisch kann er überzeugen. Und im Nachtmodus hört man ihn kaum.",
-      "url": "https://www.techstage.de/test/leise-effizient-und-smart-luftreiniger-philips-ac303310-im-test/07hztg4?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Webservices in C++: JSON-Daten (de)serialisieren mit Bibliothek PropertyTree",
-      "teaser": "Die meisten Webanwendungen tauschen mit ihrem Backend Daten im JSON-Format aus. In C++-Code gelingt das mit der Boost-Bibliothek PropertyTree. Ein Leitfaden.",
-      "url": "https://www.heise.de/hintergrund/Webservices-in-C-JSON-Daten-de-serialisieren-mit-Bibliothek-PropertyTree-7524612.html",
-      "image_title": ","
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
