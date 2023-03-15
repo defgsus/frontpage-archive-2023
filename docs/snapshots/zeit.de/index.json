@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-15T15:13:06",
+  "timestamp": "2023-03-15T16:17:42",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,12 +67,6 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/stadtteile-standalone.39969e3a.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.4bac0929.mjs",
       "id": null,
       "text": null
@@ -81,7 +75,7 @@
   "articles": [
     {
       "title": "Robert Habeck am Amazonas: Im Land unserer Begehrlichkeiten",
-      "teaser": "Energie, Bodenschätze, Nahrung: Die Minister Robert Habeck und Cem Özdemir fliegen quer durch Brasilien. Ist ihre Werbetour den CO₂-Verbrauch wert? Ein Reisebericht",
+      "teaser": "Energie, Bodenschätze, Nahrung: Die Minister Robert Habeck und Cem Özdemir fliegen quer durch Brasilien. Ist ihre Werbetour den CO₂-Ausstoß wert? Ein Reisebericht",
       "url": "https://www.zeit.de/politik/ausland/2023-03/amazonas-robert-habeck-cem-oezdemir-regenwald-brasilien",
       "image_url": "https://img.zeit.de/politik/ausland/2023-03/amazonas-robert-habeck-cem-oezdemir-regenwald-brasilien-bild/cinema__980x420"
     },
@@ -91,13 +85,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/energiewende-probleme-waermepumpe-oelheizung-windkraft",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/energiewende-probleme-waermepumpe-oelheizung-windkraft-bild/wide__822x462",
       "image_title": "Probleme der Energiewende: Der große Umbau kommt erst noch"
-    },
-    {
-      "title": "USA und Russland: Kalter Krieg in der Luft",
-      "teaser": "Über dem Schwarzen Meer und der Ostsee fliegen russische Kampfjets häufiger riskante Manöver in Nähe von Nato-Einheiten. Doch auch US-Jets kommen Russland nahe. Warum?",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/usa-russland-drohne-kollision-provokation",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/mq-9-reaper-usa/wide__822x462",
-      "image_title": "USA und Russland: Kalter Krieg in der Luft"
     },
     {
       "title": "Liveblog: Ukraine-Krieg: Schweden hofft auf Nato-Beitritt nach Wahlen in der Türkei",
@@ -128,18 +115,45 @@
       "image_title": "Silicon Valley Bank: \"Das Problem nennt sich Zinsrisiko\""
     },
     {
-      "title": "Streiks in Frankreich: Revolte im AKW-Kontrollraum",
-      "teaser": "Millionen Franzosen streiken gegen die Rentenreform. Sogar Atomkraftwerke sind betroffen. Elektriker wie Michel Forestier drosseln die Produktion eigenhändig.",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/streik-frankreich-akw-tricastin-rentenreform",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/streik-frankreich-akw-tricastin-2/wide__822x462",
-      "image_title": "Streiks in Frankreich: Revolte im AKW-Kontrollraum"
+      "title": "Roger Waters: Verbote ohne Not",
+      "teaser": "Frankfurt und Köln haben Konzerte von Roger Waters verboten, München überlegt noch. Das Vorgehen ist nicht nur juristisch, sondern auch aus demokratischer Sicht falsch.",
+      "url": "https://www.zeit.de/kultur/musik/2023-03/roger-waters-konzertabsagen-antisemitismus-vorwurf",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-03/roger-waters-live/wide__822x462",
+      "image_title": "Roger Waters: Verbote ohne Not"
+    },
+    {
+      "title": "Michael Wendler: Die Trennung von Wendler und Werk",
+      "teaser": "Der Sender RTL 2 wollte den Verschwörungsideologen Michael Wendler zurück ins Reality-TV holen. Massiver Protest hat das verhindert. Der Fall zeigt: Druck lohnt sich.",
+      "url": "https://www.zeit.de/kultur/film/2023-03/michael-wendler-rtl-2-doku-protest",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/michael-wendler/cinema__980x420",
+      "image_title": "Michael Wendler: Die Trennung von Wendler und Werk"
+    },
+    {
+      "title": "Nachrichtenpodcast: Schreckmoment über dem Schwarzen Meer",
+      "teaser": "Der Zusammenstoß russischer Kampfjets mit einer US-Drohne belastet das Verhältnis der zwei Großmächte. Und: Laut Umweltbundesamt wird bei den Klimazielen die Zeit knapp.",
+      "url": "https://www.zeit.de/politik/2023-03/us-drohne-zusammenstoss-kampfjet-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Schreckmoment über dem Schwarzen Meer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Amoktat in Hamburg: \"Wir sahen die leeren Sitze und wussten genau, wer fehlt\"",
       "teaser": "Schreie, Warnrufe, Schüsse: Erstmals berichtet ein Überlebender der Amoktat von Hamburg von den Ereignissen. Hätte die Gemeinde ahnen können, was auf sie zukommt?",
       "url": "https://www.zeit.de/2023/12/amoktat-hamburg-zeugen-jehovas-philipp-f-waffe-polizei",
-      "image_url": "https://img.zeit.de/2023/12/amoktat-hamburg-zeugen-jehovas-philipp-f-waffe-polizei-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/12/amoktat-hamburg-zeugen-jehovas-philipp-f-waffe-polizei-teaserbild/wide__822x462",
       "image_title": "Amoktat in Hamburg: \"Wir sahen die leeren Sitze und wussten genau, wer fehlt\""
+    },
+    {
+      "title": "Rente : Traum oder Albtraum?",
+      "teaser": "Wer heute in den Ruhestand geht, ist fit und jugendlich wie nie - und lebt immer länger. Was tun mit all den Jahren?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/11/packshot-23-11-1000x620.jpg/imagegroup/original__1000x620"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Miet- und Kaufpreise: So viel Wohnung bekommen Sie für Ihr Geld in Düsseldorf",
+      "teaser": "Neue Daten zeigen, wie sich die Miet- und Kaufpreise in den Stadtteilen von Düsseldorf entwickelt haben, und wo Sie sich dort noch eine Wohnung leisten können.",
+      "url": "https://www.zeit.de/wirtschaft/immobilienmarkt/duesseldorf-mieten-kaufen-immobilienpreise",
+      "image_url": "https://img.zeit.de/wirtschaft/immobilienmarkt/duesseldorf-mieten-kaufen-immobilienpreise/imagegroup/wide__822x462",
+      "image_title": "Miet- und Kaufpreise: So viel Wohnung bekommen Sie für Ihr Geld in Düsseldorf"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hirnforschung • Das Beste aus Z+: \"Alles, was in uns und um uns geschieht, hat Einfluss auf das Gehirn\"",
@@ -149,18 +163,46 @@
       "image_title": "Hirnforschung • Das Beste aus Z+: \"Alles, was in uns und um uns geschieht, hat Einfluss auf das Gehirn\""
     },
     {
-      "title": "Gary Lineker und die BBC: Unfeine englische Art",
-      "teaser": "Die BBC hat sich im Fall ihres meinungsfreudigen Moderators Gary Lineker beim Versuch blamiert, unparteilicher zu werden. Das müsste für deutsche Sender lehrreich sein.",
-      "url": "https://www.zeit.de/2023/12/bbc-grossbritannien-gary-lineker-tim-davie-unparteilichkeit",
-      "image_url": "https://img.zeit.de/2023/12/bbc-grossbritannien-gary-lineker-tim-davie-unparteilichkeit-2/wide__822x462",
-      "image_title": "Gary Lineker und die BBC: Unfeine englische Art"
-    },
-    {
       "title": "\"Seitenwechsel\": Neven Subotić und Christine Westermann im Gespräch",
       "teaser": "Ex-Tennisprofi Andrea Petković und ZEIT-Feuilleton-Leiter Volker Weidermann sprechen mit Gästen über Sport, Literatur und das Leben. Der erste Live-Talk zum Nachschauen",
       "url": "https://www.zeit.de/video/2023-03/6322614828112/seitenwechsel-neven-suboti-und-christine-westermann-im-gespraech",
       "image_url": "https://img.zeit.de/zeit-verlag/2023-03/seitenwechsel/cinema__980x420",
       "image_title": "\"Seitenwechsel\": Neven Subotić und Christine Westermann im Gespräch"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Katholische Kirche: Und jetzt alle gemeinsam",
+      "teaser": "Ultratraditionalisten und Hardcore-Reformer haben einen Kompromiss gefunden. Wer dieses Ergebnis runterputzt, ignoriert die große Leistung darin.",
+      "url": "https://www.zeit.de/2023/12/katholische-kirche-kompromiss-synodaler-weg-frauen-reform",
+      "image_url": "https://img.zeit.de/2023/12/die-wuerde-des-kompromisses-bild-1/wide__822x462",
+      "image_title": "Katholische Kirche: Und jetzt alle gemeinsam"
+    },
+    {
+      "title": "Migration: Bund und Länder beraten im Mai über Kosten für Flüchtlingsaufnahme",
+      "teaser": "Die Aufnahme zahlreicher Geflüchteter – darunter viele Ukrainer – belastet die Kommunen. Bund und Länder wollen in zwei Monaten über finanzielle Fragen beraten.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-03/bund-laender-finanzierung-fluechtlinge-termin",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/bund-laender-finanzierung-fluechtlinge-termin-bild/wide__822x462",
+      "image_title": "Migration: Bund und Länder beraten im Mai über Kosten für Flüchtlingsaufnahme"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kinderpsychologie: \"Ein Einjähriges, das fünf Minuten schreit? Das darf nicht passieren\"",
+      "teaser": "Werden Kinder nur bei der Mutter glücklich, und welche Rolle spielt die Kita? Je mehr Bindungspersonen ein Kind hat, desto besser, sagt die Psychologin Lieselotte Ahnert.",
+      "url": "https://www.zeit.de/2020/35/kinderpsychologie-eltern-bindung-kita",
+      "image_url": "https://img.zeit.de/wissen/2021-03/kinderpsychologie-eltern-bindung-kita-2/wide__822x462",
+      "image_title": "Kinderpsychologie: \"Ein Einjähriges, das fünf Minuten schreit? Das darf nicht passieren\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ADHS bei Erwachsenen: \"Für viele Patienten ist die Diagnose eine enorme Erleichterung\"",
+      "teaser": "Bei Erwachsenen zeigt sich ADHS anders als bei Kindern. Der Psychiater Julian Hellmann-Regen sagt, nur ein differenzierter Blick auf die Störung kann wirklich helfen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2021-10/adhs-erwachsene-symptome-stoerung-vorteile-julian-hellmann-regen",
+      "image_url": "https://img.zeit.de/zeit-magazin/2021-10/adhs-erwachsene-symptome-stoerung/wide__822x462",
+      "image_title": "ADHS bei Erwachsenen: \"Für viele Patienten ist die Diagnose eine enorme Erleichterung\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sportwissenschaft : \"Marathonlaufen bringt wenig, wenn man den ganzen Tag gesessen hat\"",
+      "teaser": "10.000 Schritte oder die Wohnung putzen? Der Sportwissenschaftler Elmar Trunz-Carlisi erklärt, wie Muskeln aktiviert werden – und warum \"Bewegungsinseln\" helfen.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2021-04/sportwissenschaft-bewegung-gesundheit-marathon-elmar-trunz-carlisi",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-07/sportwissenschaft-bewegung-gesundheit-marathon/wide__822x462",
+      "image_title": "Sportwissenschaft : \"Marathonlaufen bringt wenig, wenn man den ganzen Tag gesessen hat\""
     },
     {
       "title": "Staatskonzern: Bundesrechnungshof fordert grundlegende Reform der Deutschen Bahn",
@@ -170,66 +212,18 @@
       "image_title": "Staatskonzern: Bundesrechnungshof fordert grundlegende Reform der Deutschen Bahn"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sprengung der Nord-Stream-Pipelines: \"Die Bombe könnte auch meine Mama anbringen\"",
-      "teaser": "Wie lange braucht man, um aus 80 Metern aufzutauchen? Der Profitaucher und Sicherheitsexperte Achim Schlöffel über den Nord-Stream-Anschlag und die Faszination Tiefsee",
-      "url": "https://www.zeit.de/2023/12/nord-stream-pipelines-sprengung-achim-schoeffel",
-      "image_url": "https://img.zeit.de/2023/12/die-bombe-koennte-auch-meine-mama-anbringen-bild-1/wide__822x462",
-      "image_title": "Sprengung der Nord-Stream-Pipelines: \"Die Bombe könnte auch meine Mama anbringen\""
+      "title": "Andrea Breth: \"Ich denke immer, es sind die letzten Tage der Menschheit\"",
+      "teaser": "Andrea Breth ist eine der großen Regisseurinnen des Theaters, am Berliner Ensemble wird nun ihre neue Inszenierung uraufgeführt. Ein Gespräch über (ihre) Kunst",
+      "url": "https://www.zeit.de/2023/12/andrea-breth-berliner-ensemble-regisserin-collage-theater",
+      "image_url": "https://img.zeit.de/2023/12/andrea-breth-berliner-ensemble-regisserin-collage-theater-teaserbild/cinema__980x420",
+      "image_title": "Andrea Breth: \"Ich denke immer, es sind die letzten Tage der Menschheit\""
     },
     {
-      "title": "Rente : Traum oder Albtraum?",
-      "teaser": "Wer heute in den Ruhestand geht, ist fit und jugendlich wie nie - und lebt immer länger. Was tun mit all den Jahren?",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2023/11/packshot-23-11-1000x620.jpg/imagegroup/original__1000x620"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jobwechsel: Soll ich mich von meinem Job trennen?",
-      "teaser": "Für manche ist der Job wie eine unglückliche Beziehung. Lesen Sie hier noch mal die Antworten eines Paartherapeuten auf Fragen, die man sich vor dem Schlussmachen stellt.",
-      "url": "https://www.zeit.de/arbeit/2019-12/jobwechsel-kuendigung-arbeit-arbeitnehmer-neuanfang",
-      "image_url": "https://img.zeit.de/arbeit/2019-12/jobwechsel-kuendigung-loyalitaet-unzufriedenheit-arbeitgeber/wide__822x462",
-      "image_title": "Jobwechsel: Soll ich mich von meinem Job trennen?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Strukturiertes Denken: So lenkt man sein Denken in klare Bahnen",
-      "teaser": "Tausend Dinge im Kopf, aber kein System? Unser Gehirn ist im Alltag enorm gefordert. So kann man seine Gedanken aufräumen und Struktur in sein Leben bringen.",
-      "url": "https://www.zeit.de/wissen/2020-07/strukturiertes-denken-produktivitaet-gedanken",
-      "image_url": "https://img.zeit.de/wissen/gesundheit/2020-07/denken-struktur-klarheit-fokus/wide__822x462",
-      "image_title": "Strukturiertes Denken: So lenkt man sein Denken in klare Bahnen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hochbegabung: \"Eltern erkennen die Hochbegabung oft gar nicht\"",
-      "teaser": "Hochbegabte Kinder unterscheiden sich kaum von anderen – und sind doch anders. Die Psychologin Petra Barchfeld-Pekrun erklärt, wie Eltern das Potenzial besser verstehen.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2020-03/hochbegabung-intelligenz-test-anzeichen-foerderung",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2020-03/hochbegabung-intelligenz-test-anzeichen-foerderung-2/wide__822x462",
-      "image_title": "Hochbegabung: \"Eltern erkennen die Hochbegabung oft gar nicht\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Edward Berger: \"Den deutschen Filmern fehlt oft die Radikalität\"",
-      "teaser": "Vier Oscars für einen deutschen Film! Ein Mittagessen in Hollywood mit Edward Berger, dem Regisseur von \"Im Westen nichts Neues\" – am Tag nach der großen Nacht",
-      "url": "https://www.zeit.de/2023/12/edward-berger-im-westen-nichts-neues-vier-oscars-academy-awards",
-      "image_url": "https://img.zeit.de/2023/12/edward-berger-im-westen-nichts-neues-vier-oscars-academy-awards-teaser/wide__822x462",
-      "image_title": "Edward Berger: \"Den deutschen Filmern fehlt oft die Radikalität\""
-    },
-    {
-      "title": "Kommissar Borowski: Schauspieler Axel Milberg steigt beim Kieler \"Tatort\" aus",
-      "teaser": "Nach mehr als 20 Jahren will Axel Milberg die Rolle des \"Tatort\"-Ermittlers Klaus Borowski Ende 2025 aufgeben. Seine bisherige Partnerin soll in den Fokus rücken.",
-      "url": "https://www.zeit.de/kultur/film/2023-03/axel-milberg-tatort-klaus-borowski",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/axel-milberg-tatort-klaus-borowski-bild/wide__822x462",
-      "image_title": "Kommissar Borowski: Schauspieler Axel Milberg steigt beim Kieler \"Tatort\" aus"
-    },
-    {
-      "title": "Alpenpodcast \"Servus. Grüezi. Hallo.\": Massagen in Kitzbühel",
-      "teaser": "Hermann Maier, Vreni Schneider, Bernhard Russi: Wer sind unsere größten Skistars und gibt es heute noch echte Heldengeschichten auf der Piste?",
-      "url": "https://www.zeit.de/gesellschaft/2023-03/mikaela-shiffrin-skistars-alpenpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-03/mikaela-shiffrin-skifahren-alpenpodcast-bild/wide__822x462",
-      "image_title": "Alpenpodcast \"Servus. Grüezi. Hallo.\": Massagen in Kitzbühel"
-    },
-    {
-      "title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet",
-      "teaser": "Etwa 2,8 Milliarden Euro sollen über die Plattform ChipMixer gewaschen worden sein. Nun haben deutsche Beamte die Server beschlagnahmt – und 44 Millionen Euro in Bitcoin.",
-      "url": "https://www.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen",
-      "image_url": "https://img.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen-bild/wide__822x462",
-      "image_title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet"
+      "title": "Deutsche Unesco-Kommission: Heidelberger Hip-Hop und Steigerlied sind immatrielles Kulturerbe",
+      "teaser": "Das Verzeichnis des immatriellen Kulturerbes in Deutschland hat 13 neue Einträge. Darunter sind unter anderem der Zirkus und die Kindergartenidee nach Friedrich Fröbel.",
+      "url": "https://www.zeit.de/kultur/2023-03/unesco-immatrielles-kulturerbe-hip-hop-steigerlied",
+      "image_url": "https://img.zeit.de/kultur/2023-03/deutschland-immatrielles-kulturerbe-heidelberger-hip-hop-steigerlied-bild/wide__822x462",
+      "image_title": "Deutsche Unesco-Kommission: Heidelberger Hip-Hop und Steigerlied sind immatrielles Kulturerbe"
     },
     {
       "title": "Schwarzes Meer: US-Militärdrohne nach Kollision mit russischem Kampfjet abgestürzt",
@@ -252,8 +246,8 @@
       "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rassismus: Wir wissen, wo sie ihren Dreck verstecken",
-      "url": "https://www.zeit.de/zett/2023-03/rassismus-sinthujan-varatharajah-alltag-hygiene-sprache"
+      "title": "Z+ (abopflichtiger Inhalt); Millennials: Generation \"Wir schaffen das eh nicht\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/11/millennials-boomer-wohlstand-immobilie-altersvorsorge"
     },
     {
       "title": "Schwarzes Meer: US-Militärdrohne nach Kollision mit russischem Kampfjet abgestürzt",
@@ -264,8 +258,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-03/wahlrecht-ampel-koalition-wahlrechtsreform-bundestag"
     },
     {
-      "title": "Amoklauf in Hamburg: Ohne Rücksicht auf Verluste",
-      "url": "https://www.zeit.de/hamburg/2023-03/waffenrecht-amoklauf-hamburg-reform"
+      "title": "Umweltbundesamt: Treibhausgasemissionen sind 2022 leicht gesunken",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-03/umweltbundesamt-treibhausgasbilanz-2022-emissionen"
     },
     {
       "title": "Schwarzes Meer: US-Militärdrohne nach Kollision mit russischem Kampfjet abgestürzt",
@@ -302,33 +296,32 @@
       "url": "https://www.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters-antisemitismus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rassismus: Wir wissen, wo sie ihren Dreck verstecken",
-      "url": "https://www.zeit.de/zett/2023-03/rassismus-sinthujan-varatharajah-alltag-hygiene-sprache"
+      "title": "Z+ (abopflichtiger Inhalt); Millennials: Generation \"Wir schaffen das eh nicht\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/11/millennials-boomer-wohlstand-immobilie-altersvorsorge"
     },
     {
-      "title": "Amoklauf in Hamburg: Ohne Rücksicht auf Verluste",
-      "url": "https://www.zeit.de/hamburg/2023-03/waffenrecht-amoklauf-hamburg-reform"
+      "title": "Umweltbundesamt: Treibhausgasemissionen sind 2022 leicht gesunken",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-03/umweltbundesamt-treibhausgasbilanz-2022-emissionen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Galeria Kaufhof: Rettet Innenstädte, nicht Warenhäuser!",
-      "teaser": "Galeria Karstadt Kaufhof schreibt die Geschichte vom Niedergang der Kaufhäuser fort. Statt aber die Vergangenheit zu betrauern, sollte man lieber die Stadtzentren retten.",
-      "url": "https://www.zeit.de/2023/12/galeria-kaufhof-innenstaedte-zukunft-warenhaeuser-kaufverhalten",
-      "image_url": "https://img.zeit.de/2023/12/galeria-kaufhof-innenstaedte-zukunft-warenhaeuser-kaufverhalten-teaserbild/cinema__980x420",
-      "image_title": "Galeria Kaufhof: Rettet Innenstädte, nicht Warenhäuser!"
+      "title": "Z+ (abopflichtiger Inhalt); Singvögel: Bei den Singvögeln singen nur die Männchen. Stimmt’s?",
+      "url": "https://www.zeit.de/2023/12/singvoegel-maennchen-rauchschwalbe-evolution-forschung",
+      "image_url": "https://img.zeit.de/2023/12/singvoegel-maennchen-nachtigall-stimmts-bild/cinema__980x420",
+      "image_title": "Singvögel: Bei den Singvögeln singen nur die Männchen. Stimmt’s?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimabilanz: So klimafreundlich sind Elektroautos",
-      "teaser": "Bei der Batterieproduktion wird viel CO₂ frei, der Strom zum Fahren stammt zum Teil aus Kohle: Sind Elektroautos überhaupt klimafreundlicher als Verbrenner?",
-      "url": "https://www.zeit.de/mobilitaet/2023-03/klima-bilanz-elektro-autos-batterie-produktion",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-03/klima-bilanz-elektro-autos-batterie-produktion-bild/wide__822x462",
-      "image_title": "Klimabilanz: So klimafreundlich sind Elektroautos"
+      "title": "Z+ (abopflichtiger Inhalt); Schwangerschaftsabbruch: Der Streit ist zurück",
+      "teaser": "Drei Jahrzehnte lang galt in Deutschland ein Kompromiss: Der Schwangerschaftsabbruch ist rechtswidrig – wird aber nicht geahndet.",
+      "url": "https://www.zeit.de/2023/12/schwangerschaftsabbruch-paragraf-218-abtreibung-selbstbestimmung-frauenrechte",
+      "image_url": "https://img.zeit.de/2023/12/der-streit-ist-zurueck-bild-1/wide__822x462",
+      "image_title": "Schwangerschaftsabbruch: Der Streit ist zurück"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
-      "teaser": "OpenAI hat ein Update für ChatGPT veröffentlicht. Die KI erstellt nun Zeichnungen aus Websites, die Antworten sollen klüger ausfallen. Ist das die erwartete Revolution?",
-      "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test",
-      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-openai-2/wide__822x462",
-      "image_title": "ChatGPT: Das kann GPT-4"
+      "title": "Z+ (abopflichtiger Inhalt); Raphaela Gromes: Was für eine Femmage!",
+      "teaser": "Raphaela Gromes entdeckt die weibliche Musikgeschichte.",
+      "url": "https://www.zeit.de/2023/12/raphaela-gromes-femmes-album-klassik",
+      "image_url": "https://img.zeit.de/2023/12/was-fuer-eine-femmage-bild-1/wide__822x462",
+      "image_title": "Raphaela Gromes: Was für eine Femmage!"
     },
     {
       "title": "Verlagsangebot: 7 Gründe, warum weniger Alkohol Körper und Geist guttut",
@@ -375,9 +368,11 @@
       "image_title": "Nudelsuppe Laksa : Eine Laksa für jeden Geschmack"
     },
     {
-      "title": "Migration: Bund und Länder beraten im Mai über Kosten für Flüchtlingsaufnahme",
-      "teaser": "Die Aufnahme zahlreicher Geflüchteter – darunter viele Ukrainer – belastet die Kommunen. Bund und Länder wollen in zwei Monaten über finanzielle Fragen beraten.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-03/bund-laender-finanzierung-fluechtlinge-termin"
+      "title": "Z+ (abopflichtiger Inhalt); Israel: Olaf Scholz sollte klare Worte an Benjamin Netanjahu richten",
+      "teaser": "Während in Israel Tausende gegen eine Justizreform demonstrieren, besucht Premierminister Benjamin Netanjahu Berlin. Olaf Scholz sollte ihn mit klaren Worten empfangen.",
+      "url": "https://www.zeit.de/2023/12/israel-benjamin-netanjahu-justizreform-westjordanland-nahostkonflikt",
+      "image_url": "https://img.zeit.de/2023/12/israel-benjamin-netanjahu-justizreform-westjordanland-nahostkonflikt-teaserbild/cinema__980x420",
+      "image_title": "Israel: Olaf Scholz sollte klare Worte an Benjamin Netanjahu richten"
     },
     {
       "title": "Absturz von US-Drohne: Was über den Zusammenstoß über dem Schwarzen Meer bekannt ist",
@@ -401,6 +396,13 @@
       "image_title": "Österreich: Polizei in Wien wegen Terrorverdachts in Alarmbereitschaft"
     },
     {
+      "title": "Alpenpodcast \"Servus. Grüezi. Hallo.\": Massagen in Kitzbühel",
+      "teaser": "Hermann Maier, Vreni Schneider, Bernhard Russi: Wer sind unsere größten Skistars und gibt es heute noch echte Heldengeschichten auf der Piste?",
+      "url": "https://www.zeit.de/gesellschaft/2023-03/mikaela-shiffrin-skistars-alpenpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-03/mikaela-shiffrin-skifahren-alpenpodcast-bild/wide__822x462",
+      "image_title": "Alpenpodcast \"Servus. Grüezi. Hallo.\": Massagen in Kitzbühel"
+    },
+    {
       "title": "Bundesverfassungsgericht: Jobcenter muss Hartz-IV-Empfängerin Kosten für Rechtsstreit erstatten",
       "teaser": "Eine Frau bekam zu wenig Geld vom Jobcenter und ging gerichtlich dagegen vor. Das Jobcenter muss die Kosten dafür übernehmen, entschied nun das Bundesverfassungsgericht.",
       "url": "https://www.zeit.de/gesellschaft/2023-03/bundesverfassungsgericht-jobcenter-klage-hartz-iv",
@@ -408,15 +410,8 @@
       "image_title": "Bundesverfassungsgericht: Jobcenter muss Hartz-IV-Empfängerin Kosten für Rechtsstreit erstatten"
     },
     {
-      "title": "Griechenland: Griechische Journalisten streiken nach schwerem Zugunglück",
-      "teaser": "Journalistengewerkschaften in Griechenland fordern die Aufklärung des tödlichen Zugunglücks vor zwei Wochen. 24 Stunden lang gibt es keine aktuellen Nachrichten.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-03/griechenland-journalisten-streik-zugunglueck",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-03/griechenland-zugunglueck-journalisten-bild/wide__822x462",
-      "image_title": "Griechenland: Griechische Journalisten streiken nach schwerem Zugunglück"
-    },
-    {
       "title": "Inflation: Private Haushalte haben deutlich höhere Konsumausgaben",
-      "teaser": "Die Verbraucher in Deutschland mussten vergangenes Jahr deutlich mehr Geld für Nahrungsmittel, Getränke und Energie ausgeben. Und das trotz eines gesunkenen Verbrauchs. 191 Kommentare",
+      "teaser": "Die Verbraucher in Deutschland mussten vergangenes Jahr deutlich mehr Geld für Nahrungsmittel, Getränke und Energie ausgeben. Und das trotz eines gesunkenen Verbrauchs. 202 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-03/inflation-konsumausgaben-privathaushalt-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/inflation-konsumausgaben-statistisches-bundesamt-bild/cinema__980x420",
       "image_title": "Inflation: Private Haushalte haben deutlich höhere Konsumausgaben"
@@ -436,11 +431,11 @@
       "image_title": "Konjunktur: Chinas Industrieproduktion steigt zu Jahresbeginn"
     },
     {
-      "title": "WirtschaftsWocheFondsmanager Leber zur Silicon-Valley-Bank-Krise: „Es ist eine teuflische Situation“",
-      "teaser": "Unerwartet führte der Zusammenbruch einer speziellen US-Bank zu Turbulenzen am Kapitalmarkt. Fondsmanager Hendrik Leber zu den Folgen und seiner Anlagestrategie in der Krise.",
-      "url": "https://www.wiwo.de/finanzen/geldanlage/fondsmanager-leber-zur-silicon-valley-bank-krise-es-ist-eine-teuflische-situation/29036810.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/hendrick-leber-svb-krise-imago-mst/29038368/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Fondsmanager Leber zur Silicon-Valley-Bank-Krise: „Es ist eine teuflische Situation“"
+      "title": "WirtschaftsWocheBankenkrisen: Das Zinsbeben wird weitere Opfer fordern",
+      "teaser": "Der Absturz der Credit Suisse und der Silicon Valley Bank erschüttern die Finanzwelt. Die Krise der SVB ist kein Einzelfall – sondern ein Fanal. Der überfällige Zinsanstieg wird weitere Banken erschüttern.",
+      "url": "https://www.wiwo.de/my/unternehmen/banken/bankenkrisen-das-zinsbeben-wird-weitere-opfer-fordern/29038216.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/13_zinsschock-online/29036664/4-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Bankenkrisen: Das Zinsbeben wird weitere Opfer fordern"
     },
     {
       "title": "WirtschaftsWocheKlimaschutz im Gebäudesektor: „Größte Wertvernichtung seit dem Zweiten Weltkrieg“",
@@ -471,25 +466,25 @@
       "image_title": "Vergiftungen im Iran: \"In diesem System handeln einige Anhänger auf eigene Faust\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Judith Hermann: Woher ihr Schweigen kam",
+      "teaser": "Judith Hermann veröffentlicht ihre Frankfurter Poetikvorlesungen als Buch. Darin erzählt sie von den Abgründen ihrer Familiengeschichte. Ein Treffen mit der Autorin",
+      "url": "https://www.zeit.de/2023/12/judith-hermann-wir-haetten-uns-alles-gesagt-sommerhaus-spaeter-familie-trauma",
+      "image_url": "https://img.zeit.de/2023/12/woher-ihr-schweigen-kam-bild-1/cinema__980x420",
+      "image_title": "Judith Hermann: Woher ihr Schweigen kam"
+    },
+    {
       "title": "Joachim Kersten: Mit Paragrafen für die Musen",
       "teaser": "In der deutschen Buch- und Medienlandschaft dürfte es kaum jemanden geben, der den Anwalt und Autor Joachim Kersten nicht kannte. Nun ist er gestorben. Ein Nachruf",
       "url": "https://www.zeit.de/2023/12/joachim-kersten-anwalt-hamburg-kultur-literatur",
-      "image_url": "https://img.zeit.de/2023/12/mit-paragrafen-fuer-die-musen-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/12/mit-paragrafen-fuer-die-musen-bild-1/wide__822x462",
       "image_title": "Joachim Kersten: Mit Paragrafen für die Musen"
     },
     {
-      "title": "\"Ted Lasso\": Breaking Good",
-      "teaser": "Tony Soprano, Walter White – und jetzt Ted Lasso?! Der gutmütige Fußballtrainer hat als Anti-Antiheld einen neuen Startypen des Serienfernsehens geprägt. Aber warum bloß?",
-      "url": "https://www.zeit.de/kultur/film/2023-03/ted-lasso-appletv",
-      "image_url": "https://img.zeit.de/wochenende/2022/wochenende/2022-02/wochenende-streaming-ted-lasso-aufmacher/wide__822x462",
-      "image_title": "\"Ted Lasso\": Breaking Good"
-    },
-    {
-      "title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen",
-      "teaser": "Kritiker werfen dem Pink-Floyd-Mitbegründer Roger Waters Antisemitismus vor, mehrere Städte wollen seine Auftritte daher verbieten. Doch die Rechtslage ist schwierig.",
-      "url": "https://www.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters-antisemitismus",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters/wide__822x462",
-      "image_title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen"
+      "title": "Gary Lineker und die BBC: Unfeine englische Art",
+      "teaser": "Die BBC hat sich im Fall ihres meinungsfreudigen Moderators Gary Lineker beim Versuch blamiert, unparteilicher zu werden. Das müsste für deutsche Sender lehrreich sein.",
+      "url": "https://www.zeit.de/2023/12/bbc-grossbritannien-gary-lineker-tim-davie-unparteilichkeit",
+      "image_url": "https://img.zeit.de/2023/12/bbc-grossbritannien-gary-lineker-tim-davie-unparteilichkeit-2/wide__822x462",
+      "image_title": "Gary Lineker und die BBC: Unfeine englische Art"
     },
     {
       "title": "Umweltbundesamt: Deutschland hat Klimaziele 2022 insgesamt erreicht – allerdings nicht im Verkehr",
@@ -577,25 +572,25 @@
       "image_title": "Krankenhausgipfel: Karl Lauterbach wirbt eindringlich für Krankenhausreform"
     },
     {
+      "title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet",
+      "teaser": "Etwa 2,8 Milliarden Euro sollen über die Plattform ChipMixer gewaschen worden sein. Nun haben deutsche Beamte die Server beschlagnahmt – und 44 Millionen Euro in Bitcoin.",
+      "url": "https://www.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen",
+      "image_url": "https://img.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen-bild/cinema__980x420",
+      "image_title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
+      "teaser": "OpenAI hat ein Update für ChatGPT veröffentlicht. Die KI erstellt nun Zeichnungen aus Websites, die Antworten sollen klüger ausfallen. Ist das die erwartete Revolution?",
+      "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test",
+      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-openai-2/wide__822x462",
+      "image_title": "ChatGPT: Das kann GPT-4"
+    },
+    {
       "title": "SXSW: Die Zukunft, nur halb so wild",
       "teaser": "Künstliche Intelligenz wird alles umkrempeln – selbst auf der US-Techkonferenz SXSW ist jede Menge Zukunftsangst zu hören. Warum Optimismus trotzdem angebracht ist.",
       "url": "https://www.zeit.de/digital/2023-03/sxsw-tech-konferenz-kuenstliche-intelligenz-zukunft",
-      "image_url": "https://img.zeit.de/digital/2023-03/sxsw-tech-konferenz-kuenstliche-intelligenz-zukunft-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/digital/2023-03/sxsw-tech-konferenz-kuenstliche-intelligenz-zukunft-bild/wide__822x462",
       "image_title": "SXSW: Die Zukunft, nur halb so wild"
-    },
-    {
-      "title": "Pico 4: Die TikTok-Brille",
-      "teaser": "Der TikTok-Konzern ByteDance ist auch in der virtuellen Realität unterwegs, seit Neuestem mit seiner Pico 4. Die soll auch Meta gefährlich werden. Schafft sie das?",
-      "url": "https://www.zeit.de/digital/games/2023-03/pico-4-vr-brille-tiktok-bytedance",
-      "image_url": "https://img.zeit.de/digital/games/2023-03/pico-4-vr-brille-tiktok-bytedance-meta-foto/wide__822x462",
-      "image_title": "Pico 4: Die TikTok-Brille"
-    },
-    {
-      "title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative",
-      "teaser": "Meta arbeitet an Plänen für ein eigenes soziales Netzwerk. Man sehe Chancen für einen Twitter-Konkurrenten, hieß es. Der Dienst könnte mit Mastodon kompatibel sein.",
-      "url": "https://www.zeit.de/digital/internet/2023-03/twitter-konkurrenz-meta-facebook-netzwerk-textnachrichten",
-      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/wide__822x462",
-      "image_title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative"
     },
     {
       "title": "Matthias Sauerbruch: \"Wenn ein Gebäude fertig ist, sieht man plötzlich nur noch Fehler\"",
@@ -626,10 +621,17 @@
       "image_title": "Verlagsangebot: Englischquiz – Wie gut kennen Sie die Stadt, die niemals schläft?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sprengung der Nord-Stream-Pipelines: \"Die Bombe könnte auch meine Mama anbringen\"",
+      "teaser": "Wie lange braucht man, um aus 80 Metern aufzutauchen? Der Profitaucher und Sicherheitsexperte Achim Schlöffel über den Nord-Stream-Anschlag und die Faszination Tiefsee",
+      "url": "https://www.zeit.de/2023/12/nord-stream-pipelines-sprengung-achim-schoeffel",
+      "image_url": "https://img.zeit.de/2023/12/nord-stream-pipelines-sprengung-achim-schoeffel-teaserbild/cinema__980x420",
+      "image_title": "Sprengung der Nord-Stream-Pipelines: \"Die Bombe könnte auch meine Mama anbringen\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Volljährigkeit: \"Ich feier sausend, wenn ich 18 bin!\"",
       "teaser": "Die Tochter unseres Autors wird bald volljährig – und kann dann nach Hause kommen, wann sie will. Ihn plagt die Sorge, dass er sich keine Sorgen mehr wird machen dürfen.",
       "url": "https://www.zeit.de/zeit-magazin/2023/11/volljaehrigkeit-18-geburtstag-erwachsen-werden-pruefers-toechter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-03/volljaehrigkeit-18-geburtstag-erwachsen-werden-pruefers-toechter-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-03/volljaehrigkeit-18-geburtstag-erwachsen-werden-pruefers-toechter-bild/wide__822x462",
       "image_title": "Volljährigkeit: \"Ich feier sausend, wenn ich 18 bin!\""
     },
     {
@@ -640,13 +642,6 @@
       "image_title": "Harald Martenstein: Wenn man der Mutter die Windel wechseln muss"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Idealisierung der Elternschaft: Unser Leben als Bilderbuchfamilie",
-      "teaser": "Schlafentzug, Wutanfälle, kaputtes Sozialleben? War doch halb so wild. Eltern neigen im Rückblick zu Verklärung und Falschdarstellung. Das hat einen tieferen Sinn.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-02/elternschaft-kindererziehung-erinnerungen-neurobiologie-kinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-02/elternschaft-kindererziehung-erinnerungen-neurobiologie-kinder-bild/wide__822x462",
-      "image_title": "Idealisierung der Elternschaft: Unser Leben als Bilderbuchfamilie"
-    },
-    {
       "title": "Energiekostenzuschuss für Studierende: Website zur Beantragung der Energiepreispauschale zeitweise überlastet",
       "teaser": "Studierende müssen sich bei der Beantragung des 200-Euro-Zuschusses auf Wartezeit einstellen: Die Plattform registriert kurz nach dem Start \"sehr viele Besuche\".",
       "url": "https://www.zeit.de/campus/2023-03/energiekosten-zuschuss-energiepreispauschale-website-studierende",
@@ -654,11 +649,11 @@
       "image_title": "Energiekostenzuschuss für Studierende: Website zur Beantragung der Energiepreispauschale zeitweise überlastet"
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Erbstreit: Hast du jung geerbt und es endete im Streit?",
@@ -697,7 +692,7 @@
     },
     {
       "title": "Tarifstreit: Ver.di ruft Flughafenpersonal erneut zu Warnstreiks auf",
-      "teaser": "Die Gewerkschaft ver.di setzt die Streiks an Flughäfen fort. Am Freitag will sie unter anderem die Airports Düsseldorf und Köln/Bonn weitgehend lahmlegen.",
+      "teaser": "Die Gewerkschaft ver.di setzt die Streiks an Flughäfen fort. Am Freitag will sie unter anderem die Airports Düsseldorf, Köln/Bonn und Stuttgart weitgehend lahmlegen.",
       "url": "https://www.zeit.de/mobilitaet/2023-03/streik-flughafen-duesseldorf-koeln-verdi",
       "image_url": "https://img.zeit.de/mobilitaet/2023-03/streik-flughafen-duesseldorf-koeln-verdi-bild/cinema__980x420",
       "image_title": "Tarifstreit: Ver.di ruft Flughafenpersonal erneut zu Warnstreiks auf"
@@ -710,11 +705,11 @@
       "image_title": "Tarifverhandlungen: Eisenbahngewerkschaft lehnt Angebot der Deutschen Bahn ab"
     },
     {
-      "title": "Deutsche Bahn: Deutsche Bahn legt Gewerkschaft EVG Angebot vor",
-      "teaser": "Die Gewerkschaft will je nach Bewertung des Angebots entscheiden, wie es im Tarifstreit weitergeht. Laut EVG ist die Belegschaft bereit, die Arbeit niederzulegen.",
-      "url": "https://www.zeit.de/mobilitaet/2023-03/deutsche-bahn-streik-tarifverhandlungen",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-03/deutsche-bahn-streik-tarifverhandlungen-2/wide__822x462",
-      "image_title": "Deutsche Bahn: Deutsche Bahn legt Gewerkschaft EVG Angebot vor"
+      "title": "Z+ (abopflichtiger Inhalt); Klimabilanz: So klimafreundlich sind Elektroautos",
+      "teaser": "Bei der Batterieproduktion wird viel CO₂ frei, der Strom zum Fahren stammt zum Teil aus Kohle: Sind Elektroautos überhaupt klimafreundlicher als Verbrenner?",
+      "url": "https://www.zeit.de/mobilitaet/2023-03/klima-bilanz-elektro-autos-batterie-produktion",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-03/klima-bilanz-elektro-autos-batterie-produktion-bild/wide__822x462",
+      "image_title": "Klimabilanz: So klimafreundlich sind Elektroautos"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: \"Es gibt keine andere Möglichkeit mehr\"",
@@ -801,36 +796,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Parteien: FDP will Kaufkraft der Menschen im Norden stärken",
-      "url": "https://www.zeit.de/news/2023-03/15/fdp-will-kaufkraft-der-menschen-im-norden-staerken"
+      "title": "Saalekreis: Brunnenfest zum Immateriellen Kulturerbe erklärt",
+      "url": "https://www.zeit.de/news/2023-03/15/brunnenfest-zum-immateriellen-kulturerbe-erklaert"
     },
     {
-      "title": "Bautzen: Auto stößt mit Pony zusammen: Tier stirbt",
-      "url": "https://www.zeit.de/news/2023-03/15/auto-stoesst-mit-pony-zusammen-tier-stirbt"
+      "title": "Auszeichnung: Fröbel-Kindergarten-Idee ist immaterielles Kulturerbe",
+      "url": "https://www.zeit.de/news/2023-03/15/froebel-kindergarten-idee-ist-immaterielles-kulturerbe"
     },
     {
-      "title": "Kriminalität: Auto in Husum gesprengt",
-      "url": "https://www.zeit.de/news/2023-03/15/auto-in-husum-gesprengt"
+      "title": "Wirtschaftsministerium: 47,7 Millionen Euro an Corona-Hilfen zurückgeflossen",
+      "url": "https://www.zeit.de/news/2023-03/15/47-7-millionen-euro-an-corona-hilfen-zurueckgeflossen"
     },
     {
-      "title": "Vorpommern-Greifswald: Umgestaltung in Greifswald soll Hafen und Stadt verbinden",
-      "url": "https://www.zeit.de/news/2023-03/15/umgestaltung-in-greifswald-soll-hafen-und-stadt-verbinden"
+      "title": "Prozess: Strafe gegen Ex-Politiker rechtskräftig: Drohungen erfunden",
+      "url": "https://www.zeit.de/news/2023-03/15/strafe-gegen-ex-politiker-rechtskraeftig-drohungen-erfunden"
     },
     {
-      "title": "Warnstreik: Freitag kein regulärer Flugbetrieb am Stuttgarter Flughafen",
-      "url": "https://www.zeit.de/news/2023-03/15/freitag-kein-regulaerer-flugbetrieb-am-stuttgarter-flughafen"
+      "title": "Landtag Mecklenburg-Vorpommern: Corona-Schutzfonds des Landes wird abgewickelt",
+      "url": "https://www.zeit.de/news/2023-03/15/corona-schutzfonds-des-landes-wird-abgewickelt"
     },
     {
-      "title": "Mansfeld-Südharz: 88-Jährige stirbt bei Verkehrsunfall in Sangerhausen",
-      "url": "https://www.zeit.de/news/2023-03/15/88-jaehrige-stirbt-bei-verkehrsunfall-in-sangerhausen"
+      "title": "Nordwestmecklenburg: Landkreis verzichtet auf Beschwerde gegen Baustopp für Upahl",
+      "url": "https://www.zeit.de/news/2023-03/15/landkreis-verzichtet-auf-beschwerde-gegen-baustopp-fuer-upahl"
     },
     {
-      "title": "Klima: Verkehrssektor als «Sorgenkind» bei den Klimazielen",
-      "url": "https://www.zeit.de/news/2023-03/15/verkehrssektor-als-sorgenkind-bei-den-klimazielen"
+      "title": "Brand: Brand mit zwei Verletzten wurde vorsätzlich gelegt",
+      "url": "https://www.zeit.de/news/2023-03/15/brand-mit-zwei-verletzten-wurde-vorsaetzlich-gelegt"
     },
     {
-      "title": "Unesco-Verzeichnis: Steigerlied Immaterielles Kulturerbe in Deutschland",
-      "url": "https://www.zeit.de/news/2023-03/15/steigerlied-immaterielles-kulturerbe-in-deutschland"
+      "title": "Tarife: Größte NRW-Airports warnen vor Einschränkungen am Freitag",
+      "url": "https://www.zeit.de/news/2023-03/15/groesste-nrw-airports-warnen-vor-einschraenkungen-am-freitag"
     }
   ]
 }
