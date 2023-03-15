@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-14T23:12:15",
+  "timestamp": "2023-03-15T01:03:12",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Wirtschaftskrise: Inflationsrate in Argentinien steigt auf über 100 Prozent",
+      "teaser": "Südamerikas zweitgrößte Volkswirtschaft steckt in der Krise, die Inflationsrate ist eine der höchsten der Welt. Nun steigen die Preise vor allem für Lebensmittel erneut.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/wirtschaftskrise-argentinien-inflation-100-prozent-preise-lebensmittel",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/wirtschaftskrise-argentinien-inflation-100-prozent-preise/cinema__980x420"
+    },
+    {
       "title": "Bankenkrise in den USA: Mit Bitcoin wäre das nicht passiert. Oder?",
       "teaser": "Krypto-Fans sehen in der Pleite der Silicon Valley Bank ein Symptom eines maroden Finanzsystems. Dabei sind Bitcoin und Blockchain auf den Bankenmainstream angewiesen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/silicon-valley-bank-bitcoin-kryptowaehrung-bankenkrise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/silicon-valley-bank-bitcoin-kryptowaehrung-bankenkrise-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/silicon-valley-bank-bitcoin-kryptowaehrung-bankenkrise-bild/wide__822x462",
+      "image_title": "Bankenkrise in den USA: Mit Bitcoin wäre das nicht passiert. Oder?"
     },
     {
       "title": "Energieversorgung: EU-Kommission will mit Reform gegen hohe Strompreise vorgehen",
@@ -66,14 +73,14 @@
       "title": "Cäsium-137: Zylinder mit hochradioaktivem Cäsium in Thailand verloren gegangen",
       "teaser": "Die Suche nach einem winzigen Cäsium-Behälter in Australien sorgte im Januar für Aufsehen. In Thailand ist nun eine deutlich größere Menge des Stoffes verschwunden.",
       "url": "https://www.zeit.de/politik/deutschland/2023-03/caesium-137-zylinder-thailand-verloren",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-03/thailand-kohlekraftwerk/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-03/thailand-kohlekraftwerk/cinema__980x420",
       "image_title": "Cäsium-137: Zylinder mit hochradioaktivem Cäsium in Thailand verloren gegangen"
     },
     {
       "title": "Kuiper: Amazon will 2024 Testbetrieb für Satelliteninternet starten",
       "teaser": "Der Satelliteninternetdienst Starlink von Elon Musk bekommt Konkurrenz: Auch Amazon steigt in das Geschäft ein. Der Satellit Kuiper soll nächstes Jahr ins All starten.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/satelliten-internet-amazon-testbetrieb-konkurrenz-starlink",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/satelliten-internet-amazon-testbetrieb-konkurrenz/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/satelliten-internet-amazon-testbetrieb-konkurrenz/wide__822x462",
       "image_title": "Kuiper: Amazon will 2024 Testbetrieb für Satelliteninternet starten"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/meta-facebook-mark-zuckerberg-entlassungen",
       "image_url": "https://img.zeit.de/digital/2023-03/entlassungen-meta-facebook/wide__822x462",
       "image_title": "Facebook-Konzern: Meta will weitere 10.000 Beschäftigte entlassen"
-    },
-    {
-      "title": "Ölraffinerie Schwedt: Bundesverwaltungsgericht weist Klage von Rosneft zurück",
-      "teaser": "Das Bundesverwaltungsgericht hat die Treuhandverwaltung zweier deutscher Tochterfirmen des russischen Ölkonzerns Rosneft bestätigt. Die Anordnung sei rechtmäßig gewesen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/raffinerie-schwedt-rosneft",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/rosneft-pck-raffinerie-schwedt/wide__822x462",
-      "image_title": "Ölraffinerie Schwedt: Bundesverwaltungsgericht weist Klage von Rosneft zurück"
     },
     {
       "title": "Warenhauskette: Galeria Karstadt Kaufhof will 52 Filialen schließen",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Ölraffinerie Schwedt: Bundesverwaltungsgericht weist Klage von Rosneft zurück",
+      "teaser": "Das Bundesverwaltungsgericht hat die Treuhandverwaltung zweier deutscher Tochterfirmen des russischen Ölkonzerns Rosneft bestätigt. Die Anordnung sei rechtmäßig gewesen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/raffinerie-schwedt-rosneft",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/rosneft-pck-raffinerie-schwedt/wide__822x462",
+      "image_title": "Ölraffinerie Schwedt: Bundesverwaltungsgericht weist Klage von Rosneft zurück"
+    },
+    {
       "title": "Silicon Valley Bank: \"Das Problem nennt sich Zinsrisiko\"",
       "teaser": "Der Silicon Valley Bank seien die steigenden Zinsen zum Verhängnis geworden, sagt der Bankenexperte Sascha Steffen. Könnte das auch Immobilienkredite betreffen?",
       "url": "https://www.zeit.de/wirtschaft/2023-03/silicon-valley-bank-pleite-zinsen-immobilienkredite",
@@ -218,16 +225,16 @@
     },
     {
       "title": "Volkswagen: VW investiert 122 Milliarden Euro in E-Mobilität und Digitalisierung",
-      "teaser": "Bis 2025 soll jedes fünfte verkaufte Fahrzeug von VW ein E-Auto sein. Um dieses Ziel zu erreichen, plant der Automobilhersteller nun umfangreiche Investitionen.",
+      "teaser": "Bis 2025 soll jedes fünfte verkaufte Fahrzeug von VW ein E-Auto sein. Um dieses Ziel zu erreichen, plant der Automobilhersteller nun umfangreiche Investitionen. 119 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-03/vw-volkswagen-investitionen-elektromobilitaet-digitales",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/vw-volkswagen-investitionen-elektromobilitaet-digitales-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/vw-volkswagen-investitionen-elektromobilitaet-digitales-bild/cinema__980x420",
       "image_title": "Volkswagen: VW investiert 122 Milliarden Euro in E-Mobilität und Digitalisierung"
     },
     {
       "title": "Haushaltsfinanzierung: Wirtschaftsweise fordert Abbau klimaschädlicher Subventionen",
-      "teaser": "Wie den Haushalt 2024 finanzieren? Die Wirtschaftsweise Monika Schnitzer empfiehlt dem Bund, Subventionen umfassend zu streichen – etwa die für Diesel oder Dienstwagen. 356 Kommentare",
+      "teaser": "Wie den Haushalt 2024 finanzieren? Die Wirtschaftsweise Monika Schnitzer empfiehlt dem Bund, Subventionen umfassend zu streichen – etwa die für Diesel oder Dienstwagen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/wirtschaftsweise-haushalt-klimaschaedliche-subventionen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/wirtschaftsweise-haushalt-klimaschaedliche-subventionen-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/wirtschaftsweise-haushalt-klimaschaedliche-subventionen-bild/wide__822x462",
       "image_title": "Haushaltsfinanzierung: Wirtschaftsweise fordert Abbau klimaschädlicher Subventionen"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/bauzinsen-immobilien-vier-prozent",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/bauzinsen-immobilien-vier-prozent-bild-2/wide__822x462",
       "image_title": "Immobilienkauf: Bauzinsen steigen auf mehr als vier Prozent"
-    },
-    {
-      "title": "Institut für Weltwirtschaft: Hoher Krankenstand kostet Wirtschaft bis zu 42 Milliarden Euro",
-      "teaser": "Seit der Wiedervereinigung ist der Krankenstand laut einer Studie nicht mehr so stark gestiegen wie im vergangenen Jahr. Das kostet die Wirtschaft eine Milliardensumme.",
-      "url": "https://www.zeit.de/politik/2023-03/krankenstand-wirtschaft-kosten-corona-studie",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/krankenstand-wirtschaft-kosten-corona-studie-bild/wide__822x462",
-      "image_title": "Institut für Weltwirtschaft: Hoher Krankenstand kostet Wirtschaft bis zu 42 Milliarden Euro"
     },
     {
       "title": "Warenhauskette: Hubertus Heil macht Galeria-Angestellten Mut",
