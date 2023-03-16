@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-16T04:14:48",
+  "timestamp": "2023-03-16T05:11:46",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/stadtteile-standalone.39969e3a.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.4bac0929.mjs",
       "id": null,
       "text": null
@@ -74,10 +80,17 @@
   ],
   "articles": [
     {
-      "title": "Schweiz: Credit Suisse will bis zu 50 Milliarden Franken von Nationalbank",
-      "teaser": "Die angeschlagene Bank leiht sich bis zu 50 Milliarden Franken bei der Schweizerischen Nationalbank. Es ist der erste Schritt dieser Art seit der Finanzkrise.",
+      "title": "Z+ (abopflichtiger Inhalt); Credit Suisse: Keine Panik",
+      "teaser": "Die Pleite der kalifornischen Start-up-Bank hat wenig mit den Problemen des Schweizer Traditionshauses gemein. Aber der Fall Credit Suisse zeigt, was den Banken fehlt.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/credit-suisse-bank-finanzkrise-silicon-valley-bank-usa-einlagensicherung",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/credit-suisse-bank-finanzkrise-silicon-valley-bank/cinema__1000x428"
+    },
+    {
+      "title": "Schweiz: Credit Suisse will bis zu 50 Milliarden Franken von Zentralbank leihen",
+      "teaser": "Die angeschlagene Schwerizer Großbank Credit Suisse ergreift nach fallenden Aktien \"entschlossene Maßnahmen\". Es ist der erste Schritt dieser Art seit der Finanzkrise.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/schweiz-credit-suisse-nationalbank-50-milliarden-kredit",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/credit-suisse-schweiz-nationalbank-50-milliarden-franken/cinema__1000x428"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/schweiz-bank-credit-suisse-nationalbank/cinema__980x420",
+      "image_title": "Schweiz: Credit Suisse will bis zu 50 Milliarden Franken von Zentralbank leihen"
     },
     {
       "title": "Bankenkrise: Christian Linder sieht deutsches Kreditwesen nicht gefährdet",
@@ -87,11 +100,32 @@
       "image_title": "Bankenkrise: Christian Linder sieht deutsches Kreditwesen nicht gefährdet"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Geldanlage und Risiko: Noch kein Grund zur Bankenpanik",
-      "teaser": "Die Credit Suisse stürzt ab, die Silicon Valley Bank geht pleite. Bei Anlegern wächst die Angst vor einer Finanzkrise. Mit diesen Risiken müssen deutsche Sparer rechnen.",
-      "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-03/geldanlage-risiko-sparer-pleite-silicon-valley",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/silicon-valley-bank-finanzkrise-pleite-geld/cinema__980x420",
-      "image_title": "Geldanlage und Risiko: Noch kein Grund zur Bankenpanik"
+      "title": "Nachrichtenpodcast: Die Angst, dass Israels Demokratie zerbröselt",
+      "teaser": "Olaf Scholz empfängt heute Israels Ministerpräsident Benjamin Netanjahu in Berlin. Auch dort gibt es Protest gegen die geplante Justizreform. Und: Was kann GPT-4?",
+      "url": "https://www.zeit.de/politik/2023-03/benjamin-netanjahu-berlin-justizreform-proteste-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Die Angst, dass Israels Demokratie zerbröselt"
+    },
+    {
+      "title": "Israel: Izchak Herzog schlägt Kompromiss im Streit über Justizreform vor",
+      "teaser": "Israels Staatspräsident wollte im Streit über die geplante Justizreform vermitteln. Ministerpräsident Benjamin Netanjahu hat seine Vorschläge jedoch umgehend abgelehnt.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/israel-justizreform-herzog-netanjahu-kompromiss-proteste",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/israel-justizreform-herzog-netanjahu-kompromiss-proteste-bild/wide__822x462",
+      "image_title": "Israel: Izchak Herzog schlägt Kompromiss im Streit über Justizreform vor"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ernährung von Kindern: \"Zuckergetränke gelten als wesentliche Treiber für Diabetes\"",
+      "teaser": "Cem Özdemir möchte Kinder vor zu viel Zucker, Fett und Salz bewahren. Wie effektiv Werbeverbote wirken, erklärt Oliver Huizinga von der Deutschen Adipositas-Gesellschaft.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-03/ernaehrung-kinder-zucker-cem-oezdemir-oliver-huizinga",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-03/ernaehrung-kinder-zucker-cem-oezdemir-oliver-huizinga-bild/cinema__980x420",
+      "image_title": "Ernährung von Kindern: \"Zuckergetränke gelten als wesentliche Treiber für Diabetes\""
+    },
+    {
+      "title": "Ukraine-Überblick : USA erwägen Veröffentlichung von Bildmaterial zu Drohnenabsturz",
+      "teaser": "Die US-Regierung will Russlands Angaben zu dem Absturz einer ihrer Drohnen widerlegen. Die Ukraine bezeichnet die Vorwürfe aus Moskau als gezielte Provokation. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/ukraine-ueberblick-usa-bildmaterial-drohnen-zusammenstoss-russland-provokation",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/ukraine-ueberblick-usa-austin-milley/wide__822x462",
+      "image_title": "Ukraine-Überblick : USA erwägen Veröffentlichung von Bildmaterial zu Drohnenabsturz"
     },
     {
       "title": "Liveblog: Ukraine-Krieg: Strack-Zimmermann wirft Russland Erpressung bei Getreidedeal vor",
@@ -108,18 +142,11 @@
       "image_title": "Tötung einer Zwölfjährigen: Union fordert neue Debatte über Strafmündigkeitsalter"
     },
     {
-      "title": "Champions League: Eintracht Frankfurt scheidet im Achtelfinale aus",
-      "teaser": "Für Eintracht Frankfurt endet die erste Champions-League-Saison in Neapel. Liverpool scheidet gegen Real Madrid aus.",
-      "url": "https://www.zeit.de/sport/2023-03/champions-league-achtelfinale-neapel-eintracht-frankfurt",
-      "image_url": "https://img.zeit.de/sport/2023-03/champions-league-achtelfinale-neapel-eintracht-frankfurt-bild/wide__822x462",
-      "image_title": "Champions League: Eintracht Frankfurt scheidet im Achtelfinale aus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); GPT-4: Ein bisschen schlauer wirkt es schon",
-      "teaser": "GPT-4 soll weniger Fehler machen, mehr Kontext liefern und sogar Bilder erkennen. Ist die neue KI wirklich besser als ihr Vorgänger? Ein erster Test",
-      "url": "https://www.zeit.de/digital/internet/2023-03/gpt-4-open-ai-ki-test",
-      "image_url": "https://img.zeit.de/digital/2023-03/gpt-4-funktionen-test-bild/cinema__980x420",
-      "image_title": "GPT-4: Ein bisschen schlauer wirkt es schon"
+      "title": "SSC Neapel – Eintracht Frankfurt : Europapokal-Kater",
+      "teaser": "Jürgen Klopps Liverpool ist raus. Frankfurt auch. Nach zwei wilden Jahren im Europapokal verliert die Eintracht chancenlos in Neapel. In der Stadt wurde es hässlich.",
+      "url": "https://www.zeit.de/sport/2023-03/eintracht-frankfurt-ssc-neapel-champions-league-ausschreitungen",
+      "image_url": "https://img.zeit.de/sport/2023-03/eintracht-frankfurt-borre-neapel/cinema__980x420",
+      "image_title": "SSC Neapel – Eintracht Frankfurt : Europapokal-Kater"
     },
     {
       "title": "Migrationspolitik: Stephan Weil fordert Rücknahmeabkommen für abgelehnte Asylbewerber",
@@ -136,18 +163,17 @@
       "image_title": "Libyen: 2,5 Tonnen Uran in Libyen verschwunden"
     },
     {
-      "title": "Militärübung: Nordkorea feuert offenbar erneut ballistische Rakete ab",
-      "teaser": "Die Armeen der USA und Südkorea üben bei einem Manöver. Währenddessen hat Nordkorea erneut eine Rakete ins Meer geschossen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/militaeruebung-suedkorea-usa-nordkorea-rakete-test",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/militaeruebung-suedkorea-usa-nordkorea/wide__822x462",
-      "image_title": "Militärübung: Nordkorea feuert offenbar erneut ballistische Rakete ab"
+      "title": "Literatur : Lesen bis zum Horizont",
+      "teaser": "Auf 48 Seiten Bücher, die uns auf neue Gedanken bringen - von Karl Ove Knausgård, Brigitte Reimann, Axel Honneth und anderen. Die große Literaturbeilage zum Frühling.",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/12/packshot-23-12-1000x620/imagegroup/original__1000x620"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dating: Verlieben ist ein Akt des Widerstands",
-      "teaser": "Unsere Kolumnistin verabschiedet sich von One-Night-Stands und dankt allen durchschnittlichen Penissen. Wenn man weiß, was man will, muss man nur noch durchhalten.",
-      "url": "https://www.zeit.de/campus/2023-03/dating-liebe-sex-intimitaet",
-      "image_url": "https://img.zeit.de/campus/2023-03/dating-liebe-sex-intimitaet-frau/cinema__980x420",
-      "image_title": "Dating: Verlieben ist ein Akt des Widerstands"
+      "title": "Z+ (abopflichtiger Inhalt); GPT-4: Ein bisschen schlauer wirkt es schon",
+      "teaser": "GPT-4 soll weniger Fehler machen, mehr Kontext liefern und sogar Bilder erkennen. Ist die neue KI wirklich besser als ihr Vorgänger? Ein erster Test",
+      "url": "https://www.zeit.de/digital/internet/2023-03/gpt-4-open-ai-ki-test",
+      "image_url": "https://img.zeit.de/digital/2023-03/gpt-4-funktionen-test-bild/wide__822x462",
+      "image_title": "GPT-4: Ein bisschen schlauer wirkt es schon"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); VW ID.2: Elektrisch fürs Volk",
@@ -157,45 +183,11 @@
       "image_title": "VW ID.2: Elektrisch fürs Volk"
     },
     {
-      "title": "Videoplattform: US-Regierung soll mit landesweitem TikTok-Verbot drohen",
-      "teaser": "Die USA sollen dem chinesischen Konzern Bytedance ein Ultimatum gestellt haben. Der soll seine TikTok-Anteile verkaufen, sonst droht das landesweite Verbot der App.",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/usa-tiktok-verbot-bytedance-china",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/tiktok-app-usa-ultimatum/wide__822x462",
-      "image_title": "Videoplattform: US-Regierung soll mit landesweitem TikTok-Verbot drohen"
-    },
-    {
-      "title": "Literatur : Lesen bis zum Horizont",
-      "teaser": "Auf 48 Seiten Bücher, die uns auf neue Gedanken bringen - von Karl Ove Knausgård, Brigitte Reimann, Axel Honneth und anderen. Die große Literaturbeilage zum Frühling.",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2023/12/packshot-23-12-1000x620/imagegroup/original__1000x620"
-    },
-    {
-      "title": "Champions League: Fans randalieren vor Frankfurts Achtelfinalrückspiel in Neapel",
-      "teaser": "In Neapel ist es vor dem Spiel gegen Eintracht Frankfurt offenbar zu den befürchteten Ausschreitungen gekommen. Bundesinnenministerin Faeser verurteilt die Krawalle.",
-      "url": "https://www.zeit.de/sport/2023-03/randale-eintracht-frankfurt-ssc-neapel",
-      "image_url": "https://img.zeit.de/sport/2023-03/randale-eintracht-frankfurt-ssc-neapel-bild/wide__822x462",
-      "image_title": "Champions League: Fans randalieren vor Frankfurts Achtelfinalrückspiel in Neapel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Justizreform: Wie soll sich Deutschland jetzt gegenüber Israel verhalten?",
-      "teaser": "Hunderttausende protestieren in Israel gegen Netanjahus Justizreform. Wie mit dem Staat in Aufruhr umgehen? Darüber diskutieren drei Juden, die in Deutschland leben.",
-      "url": "https://www.zeit.de/2023/12/israel-justizreform-deutschland-benjamin-netanjahu-demokratie",
-      "image_url": "https://img.zeit.de/2023/12/israel-justizreform-deutschland-benjamin-netanjahu-demokratie-bild/cinema__980x420",
-      "image_title": "Justizreform: Wie soll sich Deutschland jetzt gegenüber Israel verhalten?"
-    },
-    {
-      "title": "Israel: Izchak Herzog schlägt Kompromiss im Streit über Justizreform vor",
-      "teaser": "Israels Staatspräsident wollte im Streit über die geplante Justizreform vermitteln. Ministerpräsident Benjamin Netanjahu hat seine Vorschläge jedoch umgehend abgelehnt.",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/israel-justizreform-herzog-netanjahu-kompromiss-proteste",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/israel-justizreform-herzog-netanjahu-kompromiss-proteste-bild/wide__822x462",
-      "image_title": "Israel: Izchak Herzog schlägt Kompromiss im Streit über Justizreform vor"
-    },
-    {
-      "title": "Proteste im Iran: Amnesty International berichtet von Folter an Kindern und Jugendlichen",
-      "teaser": "Die Menschenrechtsorganisation hat Schläge, Auspeitschungen, Elektroschocks und sexualisierte Gewalt dokumentiert. Das Ziel sei, den Protest der Jugend zu brechen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/iran-proteste-kinder-jugendliche-folter-amnesty",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/iran-proteste-kinder-jugendliche-folter-amnesty-bild/wide__822x462",
-      "image_title": "Proteste im Iran: Amnesty International berichtet von Folter an Kindern und Jugendlichen"
+      "title": "Militärübung: Nordkorea feuert offenbar erneut ballistische Rakete ab",
+      "teaser": "Die Armeen der USA und Südkorea üben bei einem Manöver. Währenddessen hat Nordkorea erneut eine Rakete ins Meer geschossen.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/militaeruebung-suedkorea-usa-nordkorea-rakete-test",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/militaeruebung-suedkorea-usa-nordkorea/wide__822x462",
+      "image_title": "Militärübung: Nordkorea feuert offenbar erneut ballistische Rakete ab"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sinn des Lebens: Wie ich lerne, mich zu entscheiden",
@@ -217,6 +209,34 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2021-03/michaeleen-doucleff-naturvoelker-erziehung-hunt-gather-parent",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2021-03/michaeleen-doucleff-naturvoelker-erziehung/wide__822x462",
       "image_title": "Bindungsorientiertes Aufwachsen : \"Kinder wollen und müssen lernen, wie das Erwachsenenleben geht\""
+    },
+    {
+      "title": "Videoplattform: US-Regierung soll mit landesweitem TikTok-Verbot drohen",
+      "teaser": "Die USA sollen dem chinesischen Konzern Bytedance ein Ultimatum gestellt haben. Der soll seine TikTok-Anteile verkaufen, sonst droht das landesweite Verbot der App.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/usa-tiktok-verbot-bytedance-china",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/tiktok-app-usa-ultimatum/wide__822x462",
+      "image_title": "Videoplattform: US-Regierung soll mit landesweitem TikTok-Verbot drohen"
+    },
+    {
+      "title": "Proteste im Iran: Amnesty International berichtet von Folter an Kindern und Jugendlichen",
+      "teaser": "Die Menschenrechtsorganisation hat Schläge, Auspeitschungen, Elektroschocks und sexualisierte Gewalt dokumentiert. Das Ziel sei, den Protest der Jugend zu brechen.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/iran-proteste-kinder-jugendliche-folter-amnesty",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/iran-proteste-kinder-jugendliche-folter-amnesty-bild/wide__822x462",
+      "image_title": "Proteste im Iran: Amnesty International berichtet von Folter an Kindern und Jugendlichen"
+    },
+    {
+      "title": "\"Broker\" von Hirokazu Koreeda: Mit Kind und Kegel und Kredithai",
+      "teaser": "Verlassene und vergessene Kinder stehen im Fokus der Arbeiten von Hirokazu Koreeda. Dennoch ist auch sein neuer Film \"Broker\" mehr Krimi und Komödie als Sozialdrama.",
+      "url": "https://www.zeit.de/kultur/film/2023-03/broker-hirokazu-koreeda-film",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/broker-hirokazu-koreeda-film-teaser/cinema__980x420",
+      "image_title": "\"Broker\" von Hirokazu Koreeda: Mit Kind und Kegel und Kredithai"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Dating: Verlieben ist ein Akt des Widerstands",
+      "teaser": "Unsere Kolumnistin verabschiedet sich von One-Night-Stands und dankt allen durchschnittlichen Penissen. Wenn man weiß, was man will, muss man nur noch durchhalten.",
+      "url": "https://www.zeit.de/campus/2023-03/dating-liebe-sex-intimitaet",
+      "image_url": "https://img.zeit.de/campus/2023-03/dating-liebe-sex-intimitaet-frau/wide__822x462",
+      "image_title": "Dating: Verlieben ist ein Akt des Widerstands"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sprengung der Nord-Stream-Pipelines: \"Die Bombe könnte auch meine Mama anbringen\"",
@@ -310,11 +330,11 @@
       "image_title": "Singvögel: Bei den Singvögeln singen nur die Männchen. Stimmt’s?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schwangerschaftsabbruch: Der Streit ist zurück",
-      "teaser": "Drei Jahrzehnte lang galt in Deutschland ein Kompromiss: Der Schwangerschaftsabbruch ist rechtswidrig – wird aber nicht geahndet.",
-      "url": "https://www.zeit.de/2023/12/schwangerschaftsabbruch-paragraf-218-abtreibung-selbstbestimmung-frauenrechte",
-      "image_url": "https://img.zeit.de/2023/12/der-streit-ist-zurueck-bild-1/wide__822x462",
-      "image_title": "Schwangerschaftsabbruch: Der Streit ist zurück"
+      "title": "Z+ (abopflichtiger Inhalt); Justizreform: Wie soll sich Deutschland jetzt gegenüber Israel verhalten?",
+      "teaser": "Hunderttausende protestieren in Israel gegen Netanjahus Justizreform. Wie mit dem Staat in Aufruhr umgehen? Darüber diskutieren drei Juden, die in Deutschland leben.",
+      "url": "https://www.zeit.de/2023/12/israel-justizreform-deutschland-benjamin-netanjahu-demokratie",
+      "image_url": "https://img.zeit.de/2023/12/israel-justizreform-deutschland-benjamin-netanjahu-demokratie-bild/wide__822x462",
+      "image_title": "Justizreform: Wie soll sich Deutschland jetzt gegenüber Israel verhalten?"
     },
     {
       "title": "Verlagsangebot: 7 Gründe, warum weniger Alkohol Körper und Geist guttut",
@@ -362,7 +382,7 @@
     },
     {
       "title": "Ukraine-Überblick: Russland will Drohne bergen, Regierung in Moskau plant Kriegssteuer",
-      "teaser": "Bis auf Unternehmen der Öl- und Gasbranche sollen russische Unternehmen ab Jahresende eine Kriegsabgabe zahlen. Frank-Walter Steinmeier besucht Estland. Das war der Tag. 109 Kommentare",
+      "teaser": "Bis auf Unternehmen der Öl- und Gasbranche sollen russische Unternehmen ab Jahresende eine Kriegsabgabe zahlen. Frank-Walter Steinmeier besucht Estland. Das war der Tag. 111 Kommentare",
       "url": "https://www.zeit.de/politik/ausland/2023-03/ukraine-ueberblick-frank-walter-steinmeier-estland-russland-kriegsabgabe",
       "image_url": "https://img.zeit.de/politik/ausland/2023-03/ukraine-krieg-russland-newsblog-live-bild-39/cinema__980x420",
       "image_title": "Ukraine-Überblick: Russland will Drohne bergen, Regierung in Moskau plant Kriegssteuer"
@@ -410,18 +430,18 @@
       "image_title": "Schweiz: Nationalbank sichert Credit Suisse Unterstützung zu"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Geldanlage und Risiko: Noch kein Grund zur Bankenpanik",
+      "teaser": "Die Credit Suisse stürzt ab, die Silicon Valley Bank geht pleite. Bei Anlegern wächst die Angst vor einer Finanzkrise. Mit diesen Risiken müssen deutsche Sparer rechnen.",
+      "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-03/geldanlage-risiko-sparer-pleite-silicon-valley",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/silicon-valley-bank-finanzkrise-pleite-geld/wide__822x462",
+      "image_title": "Geldanlage und Risiko: Noch kein Grund zur Bankenpanik"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Steigende Mieten • Das Beste aus Z+: Bauen, bauen, bauen und die Mieten steigen weiter",
       "teaser": "Mit Hunderttausenden neuen Wohnungen will die Bundesregierung das Problem steigender Mieten in den Griff kriegen. Unsere Datenanalyse zeigt, warum das scheitern wird.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/steigende-mieten-wohnungsbau-deutschland-grossstaedte",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/mieten-wohnungsbau-grossstaedte-1/wide__822x462",
       "image_title": "Steigende Mieten • Das Beste aus Z+: Bauen, bauen, bauen und die Mieten steigen weiter"
-    },
-    {
-      "title": "Bankenkrise: Aktien von Credit Suisse brechen zwischenzeitlich um 31 Prozent ein",
-      "teaser": "Die Großbank Credit Suisse gerät nach der Pleite der US-amerikanischen Silicon Valley Bank an der Börse unter Druck. Auch der Ölpreis und wichtige Indizes gaben nach.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/bankenkrise-credit-suisse-aktien-kursverfall",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/bankenkrise-credit-suisse-aktien-kursverfall-bild-3/wide__822x462",
-      "image_title": "Bankenkrise: Aktien von Credit Suisse brechen zwischenzeitlich um 31 Prozent ein"
     },
     {
       "title": "WirtschaftsWocheBankenkrise: Der 30-Prozent-Horror der Credit Suisse: Darum ist der Kursrutsch so gefährlich",
@@ -642,11 +662,11 @@
       "image_title": "Energiekostenzuschuss für Studierende: Website zur Beantragung der Energiepreispauschale zeitweise überlastet"
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Erbstreit: Hast du jung geerbt und es endete im Streit?",
@@ -719,25 +739,25 @@
       "image_title": "Amoklauf in Hamburg: Ohne Rücksicht auf Verluste"
     },
     {
+      "title": "Champions League: Eintracht Frankfurt scheidet im Achtelfinale aus",
+      "teaser": "Für Eintracht Frankfurt endet die erste Champions-League-Saison in Neapel. Liverpool scheidet gegen Real Madrid aus.",
+      "url": "https://www.zeit.de/sport/2023-03/champions-league-achtelfinale-neapel-eintracht-frankfurt",
+      "image_url": "https://img.zeit.de/sport/2023-03/champions-league-achtelfinale-neapel-eintracht-frankfurt-bild/cinema__980x420",
+      "image_title": "Champions League: Eintracht Frankfurt scheidet im Achtelfinale aus"
+    },
+    {
+      "title": "Champions League: Fans randalieren vor Frankfurts Achtelfinalrückspiel in Neapel",
+      "teaser": "In Neapel ist es vor dem Spiel gegen Eintracht Frankfurt offenbar zu den befürchteten Ausschreitungen gekommen. Bundesinnenministerin Faeser verurteilt die Krawalle.",
+      "url": "https://www.zeit.de/sport/2023-03/randale-eintracht-frankfurt-ssc-neapel",
+      "image_url": "https://img.zeit.de/sport/2023-03/randale-eintracht-frankfurt-ssc-neapel-bild/wide__822x462",
+      "image_title": "Champions League: Fans randalieren vor Frankfurts Achtelfinalrückspiel in Neapel"
+    },
+    {
       "title": "Toni Polster: Toni und die verschwundenen drei Tore",
       "teaser": "Für den einstigen Kultstürmer Toni Polster zählten immer nur Tore. Nun kämpft er mithilfe eines Promianwaltes um drei Treffer, die seinem Lebenswerk fehlen.",
       "url": "https://www.zeit.de/sport/2023-03/toni-polster-drei-tore-verschwunden",
-      "image_url": "https://img.zeit.de/sport/2023-03/toni-polster/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2023-03/toni-polster/wide__822x462",
       "image_title": "Toni Polster: Toni und die verschwundenen drei Tore"
-    },
-    {
-      "title": "Manchester City – RB Leipzig: Viel schöner kann Fußball nicht werden",
-      "teaser": "7:0! Manchester City filetiert RB Leipzig. Erling Haaland macht fünf mühelose Tore. Und wir müssen über die Handspielregel reden. Die Spielrückschau",
-      "url": "https://www.zeit.de/sport/2023-03/manchester-city-rb-leipzig-erling-haaland",
-      "image_url": "https://img.zeit.de/sport/2023-03/erling-haaland/wide__822x462",
-      "image_title": "Manchester City – RB Leipzig: Viel schöner kann Fußball nicht werden"
-    },
-    {
-      "title": "Champions League: RB Leipzig scheidet aus der Champions League aus",
-      "teaser": "Im Spiel gegen Manchester City waren die Leipziger chancenlos. Inter Mailand steht trotz Unentschieden im Viertelfinale der Champions League.",
-      "url": "https://www.zeit.de/sport/2023-03/leipzig-manchester-city-champions-league",
-      "image_url": "https://img.zeit.de/sport/2023-03/leipzig-manchester-city-champions-league-achtelfinale/wide__822x462",
-      "image_title": "Champions League: RB Leipzig scheidet aus der Champions League aus"
     },
     {
       "title": "Wochenmarkt: Was essen wir heute?",
@@ -789,36 +809,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Soziales: Umstrittene Rentenreform: Tag der Entscheidung in Frankreich",
-      "url": "https://www.zeit.de/news/2023-03/16/umstrittene-rentenreform-tag-der-entscheidung-in-frankreich"
+      "title": "Europa League: Leverkusen mit 2:0-Vorsprung in den Budapester Hexenkessel",
+      "url": "https://www.zeit.de/news/2023-03/16/leverkusen-mit-2-0-vorsprung-in-den-budapester-hexenkessel"
     },
     {
-      "title": "Russische Invasion: Krieg gegen die Ukraine: So ist die Lage",
-      "url": "https://www.zeit.de/news/2023-03/16/krieg-gegen-die-ukraine-so-ist-die-lage"
+      "title": "Diepholz: Trecker prallt gegen Baum und brennt komplett aus",
+      "url": "https://www.zeit.de/news/2023-03/16/trecker-prallt-gegen-baum-und-brennt-komplett-aus"
     },
     {
-      "title": "Soziales: Bundestag soll Finanzierung des 49-Euro-Tickets beschließen",
-      "url": "https://www.zeit.de/news/2023-03/16/bundestag-soll-finanzierung-des-49-euro-tickets-beschliessen"
+      "title": "Politikwissenschaft: Wissenschaftler hält Wahlrechtsreform für unbegründet",
+      "url": "https://www.zeit.de/news/2023-03/16/wissenschaftler-haelt-wahlrechtsreform-fuer-unbegruendet"
     },
     {
-      "title": "Bundesländer: Flüchtlinge, Energie, Infrastruktur: Länderchefs beraten",
-      "url": "https://www.zeit.de/news/2023-03/16/fluechtlinge-energie-infrastruktur-laenderchefs-beraten"
+      "title": "Soziales: Leichter Anstieg bei Auszubildenden in der Pflege",
+      "url": "https://www.zeit.de/news/2023-03/16/leichter-anstieg-bei-auszubildenden-in-der-pflege"
     },
     {
-      "title": "Diplomatie: Netanjahu besucht Scholz in Berlin - begleitet von Protesten",
-      "url": "https://www.zeit.de/news/2023-03/16/netanjahu-besucht-scholz-in-berlin-begleitet-von-protesten"
+      "title": "Fußball: Zusammenstöße von Neapel-Ultras mit Polizei",
+      "url": "https://www.zeit.de/news/2023-03/16/zusammenstoesse-von-neapel-ultras-mit-polizei"
     },
     {
-      "title": "Notfälle: Zylinder mit radioaktivem Cäsium-137 in Thailand vermisst",
-      "url": "https://www.zeit.de/news/2023-03/16/zylinder-mit-radioaktivem-caesium-137-in-thailand-vermisst"
+      "title": "Lebensmittel: Uni Oldenburg: Bei Grünkohl besteht weltweit große Vielfalt",
+      "url": "https://www.zeit.de/news/2023-03/16/uni-oldenburg-bei-gruenkohl-besteht-weltweit-grosse-vielfalt"
     },
     {
-      "title": "Kriminalität: Schule der getöteten Luise beginnt allmählich mit Unterricht",
-      "url": "https://www.zeit.de/news/2023-03/16/schule-der-getoeteten-luise-beginnt-allmaehlich-mit-unterricht"
+      "title": "FIFA-Kongress: Norwegen bringt Menschenrechtsfragen auf FIFA-Agenda",
+      "url": "https://www.zeit.de/news/2023-03/16/norwegen-bringt-menschenrechtsfragen-auf-fifa-agenda"
     },
     {
-      "title": "Drohnen-Absturz: USA: «Wollen keinen bewaffneten Konflikt mit Russland»",
-      "url": "https://www.zeit.de/news/2023-03/16/usa-koennten-bildmaterial-zu-drohnen-absturz-veroeffentlichen"
+      "title": "Hamburg: Puccinis «Il trittico» als Porträt einer Schauspielerin",
+      "url": "https://www.zeit.de/news/2023-03/16/puccinis-il-trittico-als-portraet-einer-schauspielerin"
     }
   ]
 }
