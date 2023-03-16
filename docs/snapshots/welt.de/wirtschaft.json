@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-16T15:13:33",
+  "timestamp": "2023-03-16T16:19:50",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -7,239 +7,339 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://www.welt.de/assets/section/section.app.13c60e71.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/head.module.19f5839c.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.ac2a209a.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.asadcdn.com/adlib/pages/welt.js?1",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.d681bd26.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Ein Verantwortlicher sitzt im Kanzleramt",
+      "teaser": "Das Bankenbeben macht die Menschheit ärmer. Verantwortlich dafür sind vor allem jene, die eine jahrelange Schuldenbonanza zugelassen haben. Jene, die einen Unterschied hätten machen können – und es unterließen. Der jetzige Bundeskanzler spielte dabei eine besonders unrühmliche Rolle.",
+      "url": "https://www.welt.de/wirtschaft/plus244325263/Bankenkrise-Ein-Verantwortlicher-sitzt-jetzt-im-Kanzleramt.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244325605/2757932357-ci23x11-w20/kombo-gersemann-scholz.jpg",
+      "image_title": "Als Finanzminister trieb Olaf Scholz das Schäuble-Prinzip auf die Spitze, erklärt WELT-Autor Olaf Gersemann",
+      "author": "Olaf Gersemann"
+    },
+    {
       "title": "Der große europäische Plan mit Lithium, Kobalt und Seltenen Erden",
+      "teaser": "Lithium, Kobalt und Seltene Erden werden künftig wichtiger als Öl und Gas. Bisher dominiert China den Handel. Doch die EU will das mit einem Gesetz rasch ändern. WELT erklärt, wie realistisch die großen Pläne sind – und inwieweit sie Europa wirklich unabhängig machen würden.",
       "url": "https://www.welt.de/wirtschaft/plus244297339/Rohstoffe-Der-grosse-europaeische-Plan-mit-Lithium-Kobalt-und-Seltenen-Erden.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244299675/8322502177-ci102l-w1024/French-Mining-Company-Imerys-Will-Open-A-Lithium-Mine-In-France-B.jpg",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244299675/8327932177-ci23x11-w20/French-Mining-Company-Imerys-Will-Open-A-Lithium-Mine-In-France-B.jpg",
       "image_title": "French Mining Company Imerys Will Open A Lithium Mine In France By 2028",
-      "topic": "Rohstoff-Abhängigkeit",
       "author": "Stefan Beutelsbacher"
     },
     {
       "title": "Habeck hält nur knapp das CO₂-Ziel ein. Muss er bald den Atom-Joker ziehen?",
+      "teaser": "Der Energiesektor hält die laut Klimagesetz erlaubte CO2-Menge nur extrem knapp ein. Weist der Expertenrat für Klimafragen dem Umweltbundesamt nur den kleinsten Rechenfehler nach, wäre der Wirtschaftsminister zu einem Sofortprogramm verpflichtet. Doch dafür gehen ihm die Lösungen aus.",
       "url": "https://www.welt.de/wirtschaft/plus244309351/Klimaschutz-Habeck-haelt-nur-knapp-das-CO2-Ziel-ein-Droht-eine-neue-Atom-Debatte.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244310121/8682507227-ci102l-w1024/Habeck-zum-Stresstest-Atomkraftwerk-Isar-2.jpg",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244310121/8687937227-ci23x11-w20/Habeck-zum-Stresstest-Atomkraftwerk-Isar-2.jpg",
       "image_title": "Isar 2 – eines von drei Atomkraftwerken, die noch am Netz sind",
-      "topic": "Klimaschutzgesetz",
       "author": "Daniel Wetzel"
     },
     {
       "title": "EU-Parlament stimmt für Sanierungszwang – und einen großen Nachteil für die Deutschen",
+      "teaser": "Die EU-Kommission will Eigentümer in ganz Europa dazu bringen, ihre Häuser und Wohnungen zu sanieren. Jetzt hat das Parlament zugestimmt. Robert Habeck dürfte es ebenfalls bald tun, auch wenn das Gesetz Deutschland genauso bestraft wie Sanierungsmuffel in Südeuropa.",
       "url": "https://www.welt.de/wirtschaft/plus244180089/EU-plant-Zwang-zur-Sanierung-und-einen-grossen-Nachteil-fuer-die-Deutschen.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244300167/8152501477-ci102l-w1024/Klima-Sanierung.jpg",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244300167/8157931477-ci23x11-w20/Klima-Sanierung.jpg",
       "image_title": "Dämmmaterial auf einer Baustelle",
-      "topic": "Wohngebäude",
       "author": "Stefan Beutelsbacher"
     },
     {
       "title": "„Ich bin Robert, das ist Cem“ – Die Dschungelshow der grünen Minister im Amazonas",
+      "teaser": "Robert Habeck und Cem Özdemir besuchen ein Dorf in Brasilien. Mit Projekten wie diesen soll nach den Vorstellungen der beiden grünen Minister der Regenwald gerettet werden. Doch im Dschungel prallt die Theorie der Deutschen auf die Wirklichkeit.",
       "url": "https://www.welt.de/wirtschaft/plus244300529/Habeck-und-Oezdemir-in-Brasilien-Die-Dschungelshow-der-gruenen-Minister.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244300557/4512507737-ci102l-w1024/Bundesminister-Habeck-und-Oezdemir-in-Brasilien.jpg",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244300557/4517937737-ci23x11-w20/Bundesminister-Habeck-und-Oezdemir-in-Brasilien.jpg",
       "image_title": "Bundesminister Habeck und Özdemir in Brasilien",
-      "topic": "Brasilien-Reise",
       "author": "Philipp Vetter"
     },
     {
-      "title": "Deutschland ist eine Hochbegabte mit Selbstzweifeln",
-      "url": "https://www.welt.de/wirtschaft/article244268251/Erfolgreiche-KI-Start-ups-aus-Deutschland-Smart-Steel-und-Aleph-Alpha.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244270339/1252502257-ci102l-w1024/Kombo-Weltspitze-wagen.jpg",
-      "image_title": "Die Balance zwischen Regulierung und Innovationsfreiheit ist noch nicht gefunden, kritisiert WELT-Gastautorin Silke Hahn",
-      "topic": "Mehr Weltspitze wagen",
-      "author": "Silke Hahn"
-    },
-    {
-      "title": "Brandstory",
+      "title": "So stellen Sie Ihre Heizung auf sparsam",
+      "teaser": "Den Thermostat in jedem Raum richtig einstellen: Das kann viel bringen. Wir zeigen, wie Sie ohne Aufwand (und ohne dass es zu kalt würde) beim Heizen sparen können.",
       "url": "https://www.welt.de/brandstory/",
-      "image_url": "https://img.welt.de/img/sponsored/eon/energiesparen/mobile243808197/0172503067-ci102l-w1024/POWERTEASER-Optik-05-png.jpg",
-      "topic": "ENERGIESPAREN"
+      "image_url": "https://img.welt.de/img/sponsored/eon/energiesparen/mobile243808197/0177933067-ci23x11-w20/POWERTEASER-Optik-05-png.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
       "title": "EZB erhöht Zinsen im Euroraum deutlich",
       "url": "https://www.welt.de/wirtschaft/video244330919/Trotz-Bank-Turbulenzen-EZB-erhoeht-Zinsen-im-Euroraum-deutlich.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244328437/0382501857-ci102l-w1024/Europaeischen-Zentralbank-in-Frankfurt-am-Main.jpg",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244328437/0387931857-ci16x9-w20/Europaeischen-Zentralbank-in-Frankfurt-am-Main.jpg",
       "image_title": "Europäischen Zentralbank in Frankfurt am Main",
-      "topic": "Trotz Bank-Turbulenzen",
       "author": "2 Min"
     },
     {
       "title": "„Volkswagen schließt die Lücke im unteren Kompaktsegment“",
       "url": "https://www.welt.de/wirtschaft/video244328553/Volkswagen-Das-kann-das-Elektroauto-ID-2.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244328849/3112502497-ci102l-w1024/399844372-jpg.jpg",
-      "topic": "Elektroauto ID.2",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244328849/3117932497-ci16x9-w20/399844372-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "8 Min"
     },
     {
       "title": "„Diese Finanzspritze ist offenkundig groß genug, um die Krise zu stoppen“",
       "url": "https://www.welt.de/wirtschaft/video244326995/Bankenbeben-Diese-Finanzspritze-ist-offenkundig-gross-genug-um-die-Krise-zu-stoppen.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244327187/6272507727-ci102l-w1024/Boerse-jpg.jpg",
-      "topic": "Bankenbeben",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244327187/6277937727-ci16x9-w20/Boerse-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "5 Min"
     },
     {
       "title": "Anleihe bei Notenbank von bis zu 50 Milliarden Franken",
       "url": "https://www.welt.de/wirtschaft/video244319921/Credit-Suisse-Anleihe-bei-Notenbank-von-bis-zu-50-Milliarden-Franken.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244319933/7192508727-ci102l-w1024/399888211-jpg.jpg",
-      "topic": "Crédit Suisse",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244319933/7197938727-ci16x9-w20/399888211-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "41 Sek"
     },
     {
       "title": "„Der Banken-Crash geht weiter und jetzt die Credit Suisse“",
       "url": "https://www.welt.de/wirtschaft/video244313427/Schweizer-Grossbank-Credit-Suisse-Dietmar-Deffner-erklaert-die-Gruende-fuer-den-Crash.html",
-      "image_url": "https://img.welt.de/img/incoming/mobile244314043/7092508077-ci102l-w1024/Start-deffner-jpg.jpg",
-      "topic": "Erste europäische Bank",
+      "image_url": "https://img.welt.de/img/incoming/mobile244314043/7097938077-ci16x9-w20/Start-deffner-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "3 Min"
     },
     {
-      "title": "Webwelt & Technik",
+      "title": "Diese Konkurrenz-Produkte sind mit Lego-Steinen kompatibel",
+      "teaser": "Mit den bunten Klemmbausteinen spielten schon Generationen von Kindern. Jetzt drängen andere Spielzeughersteller mit Lego-kompatiblen Produkten auf den Markt, die jede Sammlung ergänzen können.",
       "url": "https://www.welt.de/wirtschaft/webwelt/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile205731815/4857934087-ci23x11-w20/LEGO-Certified-Store-in-Southeast-Europe.jpg",
       "image_title": "Viele Klemmbausteine",
-      "topic": "Lego-Alternativen",
       "author": "Philipp Heinitz"
     },
     {
       "title": "Der absurde Fall des Teenie-Gründers, der der Lufthansa Konkurrenz machen wollte",
+      "teaser": "Adem Karagöz sorgte mit dem seiner geplanten Fluglinie Bavarian Airlines für Aufsehen. Nun sind neue brisante Details um das Unternehmen und den jungen Gründer selbst bekannt geworden. Unter anderem steht im Raum, Karagöz könnte in Wahrheit erst 15 Jahre sein.",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/plus244262739/Neue-brisante-Vorwuerfe-gegen-Bavarian-Airlines-Gruender.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/gruenderszene/mobile244320847/4267933967-ci23x11-w20/Compressed-line-of-planes-on-runway.jpg",
       "image_title": "Compressed line of planes on runway",
-      "topic": "„Bavarian Airlines“",
-      "author": "Georg Räth"
+      "author": "GründerszeneGeorg Räth"
     },
     {
-      "title": "Webwelt & Technik",
+      "title": "Laptop für Studenten: Darauf kommt es beim Kauf fürs Studium an",
+      "teaser": "Im Studium ist er nahezu unverzichtbar: Ein Laptop für Studenten muss heute einiges leisten können, damit aufwendige Recherche, Hausarbeiten und andere anfallende organisatorische Aufgaben effizient gemeistert werden können. Hier erfahren Sie, worauf es beim Kauf ankommt und mit welchen Modellen Studenten aktuell ein Schnäppchen machen können.",
       "url": "https://www.welt.de/wirtschaft/webwelt/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile199691000/2607938167-ci23x11-w20/Female-university-student-using-laptop-looking-out-window-in-stu.jpg",
       "image_title": "Junge Frau am Computer",
-      "topic": "Studenten-Laptop",
       "author": "Kristina Baum"
     },
     {
-      "title": "Webwelt & Technik",
+      "title": "Das neue Auto-Internet von VW und Co. wird für Tesla zum Problem",
+      "teaser": "Einige große Autobauer wollen zukünftig den Webbrowser Vivaldi in ihren Wagen installieren. Solche Anwendungen sollen die Internet-Nutzung des Bordcomputers erleichtern – und könnten Autos bald spürbar verändern. Indes droht Tesla ins Hintertreffen zu geraten.",
       "url": "https://www.welt.de/wirtschaft/webwelt/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile244284615/5557939597-ci23x11-w20/GettyImages-1410738783.jpg",
       "image_title": "Der Internetzugang im Auto wird „alles verändern“, prophezeit ein Tech-Pionier",
-      "topic": "Revolution im Fahrzeug?",
       "author": "Daniel Zwick"
     },
     {
-      "title": "Webwelt & Technik",
+      "title": "Game Boy, Vinyl und Tamagotchi – Wie Retro-Technik ihr Comeback feiert",
+      "teaser": "Taucht eine neue Technologie auf, führt das laut Forschern häufig zu einer Retro-Welle. Vom Tamagotchi bis hin zu Spielekonsolen gibt es für solche Nostalgie-Trends einige Beispiele. Woran das liegt – und warum die Regel für manche Produkte nicht gilt.",
       "url": "https://www.welt.de/wirtschaft/webwelt/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile244306845/0787931647-ci23x11-w20/30-Jahre-Gameboy.jpg",
       "image_title": "Dem Game Boy hat Nintendo wieder neues Leben eingehaucht",
-      "topic": "Plötzlich wieder da",
       "author": "Johannes Hülstrung"
     },
     {
-      "title": "Gründerszene",
+      "title": "Was sich Musik-Unternehmen schon jetzt von Metaverse-Konzerten versprechen",
+      "teaser": "Ein Berliner Start-up hat ein Hip-Hop-Konzert im Metaverse veranstaltet. Stargast: der Rapper Haftbefehl. Das skurrile Event ist ein Testballon für die Zukunft der Branche. Damit könnten sich auch neue Wege auftun, wie Künstler künftig Geld verdienen.",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/gruenderszene/mobile244285305/7207935577-ci23x11-w20/22nd-Openair-Frauenfeld-music-festival.jpg",
       "image_title": "22nd Openair Frauenfeld music festival",
-      "topic": "Virtuelle Zukunft?",
-      "author": "Nina Anika Klotz"
+      "author": "GründerszeneNina Anika Klotz"
     },
     {
-      "title": "Gründerszene",
+      "title": "Nachhilfe im TikTok-Format – Die Erfolgsformel der Lern-App mit sechs Millionen Nutzern",
+      "teaser": "Knowunity ist eine der reichweitenstärksten deutschen Lern-Apps. Die Anwendung ist wie ein soziales Netzwerk aufgebaut. Besonders aktive Lern-Influencer bekommen von der Nachhilfe-Plattform eine Art Aufwandsentschädigung.",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/gruenderszene/mobile243902947/9507938117-ci23x11-w20/10-years-old-blonde-school-boy-gaming-with-smart-phone.jpg",
       "image_title": "Die App Knowunity bietet Nachhilfe für Schüler an",
-      "topic": "Knowunity",
-      "author": "Lisa Ksienrzyk"
+      "author": "GründerszeneLisa Ksienrzyk"
     },
     {
-      "title": "Gründerszene",
+      "title": "Dieses Finanztool hilft Anlegern bei der Jagd auf Dividenden",
+      "teaser": "Aktien von Unternehmen, die möglichst hohe Dividenden ausschütten, sind vor allem bei jungen Anlegern gerade beliebt. Das Finanztool Divvydiary unterstützt diese Nutzer beim Investieren. Die Kernfunktion der Software ist allerdings nur auf den ersten Blick erstaunlich simpel.",
       "url": "https://www.welt.de/wirtschaft/gruenderszene/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/gruenderszene/mobile243901519/2447935087-ci23x11-w20/Close-up-of-male-professional-hands-using-mobile-phone.jpg",
       "image_title": "Divvydiary ist ein spezielles Finanztool für Dividendenrendite",
-      "topic": "Divvydiary",
-      "author": "Daniel Hüfner"
+      "author": "GründerszeneDaniel Hüfner"
     },
     {
-      "title": "Wirtschaft",
+      "title": "Eon deutet Preiserhöhungen bei Strom und Gas an",
+      "teaser": "„Wir müssen auf Dauer die Großhandelspreise an unsere Kundinnen und Kunden durchreichen“, sagt Eon-Chef Leonhard Birnbaum – und deutet damit höhere Strom- und Gaspreise an. Für bestimmte Kunden könne es aber auch Preissenkungen geben.",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Eon-Chef Leonhard Birnbaum bei der Bilanzpressekonferenz am Mittwoch in Essen",
-      "topic": "Energieversorger"
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244308421/2547937257-ci23x11-w20/Bilanzpressekonferenz-eon.jpg",
+      "image_title": "Eon-Chef Leonhard Birnbaum bei der Bilanzpressekonferenz am Mittwoch in Essen"
     },
     {
-      "title": "Wirtschaft",
+      "title": "Steinkohle statt Gas – 14 Kraftwerke kehrten wieder an den Markt zurück",
+      "teaser": "Auf dem Höhepunkt der Gaskrise erlaubte die Bundesregierung den Energieunternehmen, eine Zeit lang stillgelegte Steinkohlekraftwerke wieder an den Markt zu bringen. 14 Anlagen bieten seitdem wieder Strom an – vorausgesetzt, es lohnt sich für sie.",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Das Kohlekraftwerk Mehrum im niedersächsischen Landkreis Peine ist seit August 2022 als Marktrückkehrer wieder am Netz",
-      "topic": "Energiekrise"
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244210441/7407934557-ci23x11-w20/Sonnenaufgang-am-Kohlekraftwerk-Mehrum.jpg",
+      "image_title": "Das Kohlekraftwerk Mehrum im niedersächsischen Landkreis Peine ist seit August 2022 als Marktrückkehrer wieder am Netz"
     },
     {
       "title": "Der Irrtum vom großen Einkommensverlust durch die Krise",
+      "teaser": "Durch die hohen Kosten für Strom und Gas wächst die Furcht, in der energieintensiven Industrie könnten massenhaft Jobs vor dem Aus stehen. Gleichzeitig könnten hohe Verdienstausfälle drohen. Doch stimmt das? Der Blick auf die Forschung zeigt, dass der Staat den Strukturwandel zulassen sollte.",
       "url": "https://www.welt.de/wirtschaft/article244167139/Einkommen-Der-Irrtum-vom-grossen-Verlust-durch-die-Krise.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244184585/9567935927-ci23x11-w20/Kombo-Gako-Mueller-Energiekrise.jpg",
       "image_title": "Die Lage ist weniger düster ist, wie sie erscheint, kommentiert Steffen Müller vom Leibniz-Institut für Wirtschaftsforschung Halle (IWH)",
-      "topic": "Industrie im Umbruch",
       "author": "Steffen Müller"
     },
     {
-      "title": "Wirtschaft",
+      "title": "Kohle für Deutschlands Stromversorgung immer wichtiger",
+      "teaser": "Trotz aller Pläne zum Ausbau der erneuerbaren Energien: Kohle ist in Deutschland weiter die wichtigste Energiequelle. Der Anteil von Kohlestrom am Energiemix stieg im vergangenen Jahr durch die Abkopplung von russischem Gas auf ein Drittel.",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Das Kohlekraftwerk Mehrum im Landkreis Peine in Niedersachsen. Das Steinkohlekraftwerk ist seit August 2022 als ·Marktrückkehrer· wieder am Netz",
-      "topic": "Energieträger"
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244188097/8967939467-ci23x11-w20/Sonnenaufgang-am-Kohlekraftwerk-Mehrum.jpg",
+      "image_title": "Das Kohlekraftwerk Mehrum im Landkreis Peine in Niedersachsen. Das Steinkohlekraftwerk ist seit August 2022 als ·Marktrückkehrer· wieder am Netz"
     },
     {
       "title": "Wertverlust beim Eigenheim – wie Verkäufer die Energieeffizienz unterschätzen",
+      "teaser": "Fast alle Hauskäufer achten laut einer Studie inzwischen auf eine hohe Energieeffizienz. Doch das ist den Verkäufern kaum bewusst. Sie unterschätzen, wie wichtig die Modernisierung als Verkaufsargument geworden ist – und müssen Abschläge beim Preis fürchten.",
       "url": "https://www.welt.de/wirtschaft/plus244101093/Immobilien-Unterschaetzter-Faktor-wie-die-Energieeffizienz-den-Hauspreis-bestimmt.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile244101211/0947930727-ci23x11-w20/Happy-couple-standing-arm-in-arm-in-the-garden-looking-at-their-house.jpg",
       "image_title": "Für das Traumhaus braucht es die richtige Heizung und Dämmung",
-      "topic": "Gebäudesanierung",
       "author": "Sandra Hackenberg"
     },
     {
       "title": "Austauschpflicht für alle alten Heizungen? Wer jetzt mit dem Schlimmsten rechnen muss",
+      "teaser": "Jede neu eingebaute Heizung soll ab 2024 mindestens zu 65 Prozent aus erneuerbaren Energien gespeist werden. Doch wird deutlich: Der aktuelle Gesetzesentwurf geht noch weiter. Zusätzlich droht eine Austauschpflicht auch für funktionierende Geräte. Millionen Heizungen wären betroffen.",
       "url": "https://www.welt.de/wirtschaft/plus243928445/Austauschpflicht-fuer-alle-alten-Heizungen-Womit-Sie-ab-2026-rechnen-muessen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile243937501/8167930847-ci23x11-w20/Thermal-image-of-house-showing-loss-of-heat-from-open-windows.jpg",
       "image_title": "Getty ImagesGetty Images",
-      "topic": "Gebäude-Energie-Gesetz",
       "author": "Michael Fabricius"
     },
     {
       "title": "722 statt 144 Euro pro Monat – das sollten die geschockten Eprimo-Kunden wissen",
+      "teaser": "Die E.on-Tochter Eprimo schockt Gas- und Stromkunden derzeit mit Abschlagszahlungen, die zum Teil um das Zehnfache über den bisherigen Werten liegen. Bei den Verbraucherzentralen häufen sich die Beschwerden. Die können die Begründung des Versorgers nicht nachvollziehen. WELT hat nachgehakt.",
       "url": "https://www.welt.de/wirtschaft/plus243912347/Hohe-Gasrechnung-722-statt-144-Euro-was-geschockte-Eprimo-Kunden-wissen-muessen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile243914527/4937937187-ci23x11-w20/Energiepreise-Gas.jpg",
       "image_title": "Energiepreise - Gas",
-      "topic": "Horrende Gasrechnungen",
       "author": "Daniel Wetzel"
     },
     {
       "title": "„Ich habe Regierung und Hersteller vertraut, dass es keine großen Risiken gibt”",
+      "teaser": "Mehr als 333.000 Bundesbürger haben nach einer Corona-Impfung gesundheitliche Schäden gemeldet. Eine von ihnen ist Alina Adams. Ihr Leidensweg begann nach der Booster-Spritze. Ihr Kampf um Entschädigungen gleicht einem Spießrutenlauf. Doch jetzt werden die Stimmen der Unterstützer lauter.",
       "url": "https://www.welt.de/wirtschaft/plus243843025/Corona-Impfschaeden-Danach-war-fuer-mich-klar-dass-ich-klagen-will.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile243843619/2647934467-ci23x11-w20/Alina-Adams-Polch-impfgeschaedigt-durch-10.jpg",
       "image_title": "Seit der Corona-Impfung ist Alina Adams auf einen Rollstuhl angewiesen",
-      "topic": "Corona-Impfschäden",
       "author": "Anja Ettel"
     },
     {
       "title": "„Unsere nächsten Werke bauen wir in Amerika“",
+      "teaser": "Schaeffler-Chef Klaus Rosenfeld geht mit dem Glauben an die globale E-Mobilität hart ins Gericht. Sie bleibe eine Utopie der Europäer. Das Geschäft mit Verbrennern verkaufen – das kommt für den Manager gar nicht in Frage. Auch zum Standort Deutschland hat er eine klare Meinung.",
       "url": "https://www.welt.de/wirtschaft/plus243971997/Autozulieferer-Schaeffler-Unsere-naechsten-Werke-bauen-wir-in-Amerika.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile243998845/0837938007-ci23x11-w20/Key-Speakers-at-Federation-of-German-Industries-Conference-2.jpg",
       "image_title": "Klaus Rosenfeld ist einer der mächtigsten Männer in der deutschen Autoindustrie",
-      "topic": "Autozulieferer Schaeffler",
       "author": "Daniel Zwick"
     },
     {
       "title": "Sechs E-Autos fürs Volk? Das ist der klare Gewinner",
+      "teaser": "Es heißt, dass die guten Elektroautos für den Großteil der Verbraucher unbezahlbar sind. Umgekehrt seien die Pkw jenseits von Mercedes, Tesla oder Porsche nicht alltagstauglich. WELT hat sechs „Normalo-Modelle“ jeweils zwei Wochen lang getestet – und gravierende Unterschiede entdeckt.",
       "url": "https://www.welt.de/wirtschaft/plus242967211/Bezahlbares-E-Auto-6-Elektroautos-im-Vergleich-Das-ist-der-klare-Gewinner.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Elektro für Jedermann",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile243069421/5167931437-ci23x11-w20/DWO-Teaser-E-Autos-js.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Felix Eick"
     },
     {
-      "title": "Wirtschaft",
+      "title": "Champagner für alle!",
+      "teaser": "In Kooperation mit Statista zeigt WELT täglich einen Ausschnitt unseres Alltags in Zahlen. Heute zum Thema Champagner-Import.",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3922509907-ci102l-w1024/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
-      "topic": "Statista"
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Flughafenverband: 681 Flüge fallen aus",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244329857/Flughafenverband-681-Fluege-fallen-aus.html"
+    },
+    {
+      "title": "Warum die Credit Suisse kein Fall wie Lehman-Pleite ist",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244329805/Warum-die-Credit-Suisse-kein-Fall-wie-Lehman-Pleite-ist.html"
+    },
+    {
+      "title": "EZB entschlossen im Kampf gegen Inflation",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244329439/EZB-entschlossen-im-Kampf-gegen-Inflation.html"
+    },
+    {
+      "title": "49-Euro-Ticket nimmt vorletzte finanzielle Hürde",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244328397/49-Euro-Ticket-nimmt-vorletzte-finanzielle-Huerde.html"
+    },
+    {
+      "title": "Total verkauft Tankstellen in Deutschland und Niederlanden",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244328083/Total-verkauft-Tankstellen-in-Deutschland-und-Niederlanden.html"
+    },
+    {
+      "title": "Fünf Galeria-Filialen vor Schließung gerettet",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244326289/Fuenf-Galeria-Filialen-vor-Schliessung-gerettet.html"
+    },
+    {
+      "title": "Deutsche Börsenkonzerne schütten Rekord-Dividenden aus",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244326145/Deutsche-Boersenkonzerne-schuetten-Rekord-Dividenden-aus.html"
+    },
+    {
+      "title": "Energiepauschale: Über 300.000 Anträge auf Studi-Plattform",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244325829/Energiepauschale-Ueber-300-000-Antraege-auf-Studi-Plattform.html"
+    },
+    {
+      "title": "Mittel für Energiepreisbremse erst zu einem Viertel genutzt",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244325417/Mittel-fuer-Energiepreisbremse-erst-zu-einem-Viertel-genutzt.html"
+    },
+    {
+      "title": "RTL nach Gewinnrückgang vorsichtig",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244325161/RTL-nach-Gewinnrueckgang-vorsichtig.html"
+    },
+    {
+      "title": "Audi erwirtschaftet Rekordgewinn - Ausblick vorsichtig",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244324845/Audi-erwirtschaftet-Rekordgewinn-Ausblick-vorsichtig.html"
+    },
+    {
+      "title": "Fachkräftemangel: London weitet Visa für Bauarbeiter aus",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244324613/Fachkraeftemangel-London-weitet-Visa-fuer-Bauarbeiter-aus.html"
+    },
+    {
+      "title": "Rheinmetall erwartet höheres Wachstum",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244324495/Rheinmetall-erwartet-hoeheres-Wachstum.html"
+    },
+    {
+      "title": "Verbrenner-Aus: Lemke für schnelles Ende bei Streit mit FDP",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244322811/Verbrenner-Aus-Lemke-fuer-schnelles-Ende-bei-Streit-mit-FDP.html"
+    },
+    {
+      "title": "IG Metall will Warnstreiks bei Textilunternehmen verschärfen",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244322513/IG-Metall-will-Warnstreiks-bei-Textilunternehmen-verschaerfen.html"
+    },
+    {
+      "title": "Dax fängt sich nach EZB-Zinserhöhung wieder",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244321867/Dax-faengt-sich-nach-EZB-Zinserhoehung-wieder.html"
+    },
+    {
+      "title": "Weitere Demonstrationen und Streiks in Griechenland",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244320911/Weitere-Demonstrationen-und-Streiks-in-Griechenland.html"
+    },
+    {
+      "title": "Nur wenige US-Firmen geben Standort Deutschland gute Noten",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244320271/Nur-wenige-US-Firmen-geben-Standort-Deutschland-gute-Noten.html"
+    },
+    {
+      "title": "Steigende Zinsen: Die Antworten auf die wichtigsten Fragen",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244319523/Steigende-Zinsen-Die-Antworten-auf-die-wichtigsten-Fragen.html"
+    },
+    {
+      "title": "EU-Kommission stellt Industrie-Vorschläge vor",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244319513/EU-Kommission-stellt-Industrie-Vorschlaege-vor.html"
     }
   ]
 }
