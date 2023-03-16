@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-16T10:14:11",
+  "timestamp": "2023-03-16T11:10:58",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -7,13 +7,13 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/head.module.e1dc4fcb.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/head.module.2ec4b036.js",
       "id": null,
       "text": null
     },
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.be64681b.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.20f0f7b2.js",
       "id": null,
       "text": null
     },
@@ -25,12 +25,33 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.8c0834e4.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.53afec68.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "„In der Schule sind Ideologen am Werk“",
+      "teaser": "Der Paderborner Mathematikprofessor Bernhard Krötz vergleicht in seinem Youtube-Kanal den Schulunterricht in Indien mit dem in Nordrhein-Westfalen. Das Ergebnis seines Vergleichs fällt verheerend aus.",
+      "url": "https://www.welt.de/regionales/nrw/plus244142409/Mathe-Unterricht-In-der-Schule-sind-Ideologen-am-Werk.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile244142407/3077937187-ci23x11-w20/Bernhard-Kroetz-Meine-Woche.jpg",
+      "image_title": "Mathematikprofessor Bernhard Krötz vor einer Kreidetafel mit mathematischen Formeln",
+      "author": "Stefan Laurin"
+    },
+    {
+      "title": "Polizei sucht nach Mitwissern von Philipp F.",
+      "teaser": "Hätte der Amoklauf von Hamburg, bei dem acht Menschen starben, verhindert werden können? Diese Frage beschäftigt in der Hansestadt weiter Polizei und Staatsanwaltschaft. Sie suchen nach Mitwissern – unter anderem im Waffenclub von Philipp F.",
+      "url": "https://www.welt.de/regionales/hamburg/"
+    },
+    {
+      "title": "„Rein und ehrbar“ – und verstümmelt für den Rest des Lebens",
+      "teaser": "Seit zehn Jahren ist weibliche Beschneidung in Deutschland strafbar. Dennoch wächst die Zahl der Opfer – vor allem aufgrund von Zuwanderung. Die Politik unternimmt laut Experten zu wenig, um Frauen und Mädchen hierzulande zu schützen.",
+      "url": "https://www.welt.de/regionales/nrw/plus244263117/Beschneidung-Rein-und-ehrbar-und-fuer-den-Rest-des-Lebens-verstuemmelt.html",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile244263167/0387937547-ci23x11-w20/Razor-Blade-Cutting-Through-Surface.jpg",
+      "image_title": "Mehr als 100.000 Opfer weiblicher Genitalbeschneidung leben in Deutschland",
+      "author": "Till-Reimer Stoldt"
+    },
     {
       "title": "28-Jähriger nach Schüssen in Berlin festgenommen – weitere Verdächtige noch flüchtig",
       "teaser": "Zwei Personen wurden am Mittwoch in Berlin-Charlottenburg durch Schüsse verletzt. Die Tatverdächtigen flüchteten vom Tatort. Die Polizei konnte mittlerweile einen möglichen Tatbeteiligten festnehmen, nach weiteren Personen wird gesucht.",
@@ -50,31 +71,15 @@
       "title": "Die Frau mit dem bekloppten Pfau",
       "teaser": "Mit ihrem Debütroman „Der Pfau“ gelang der Hamburger Autorin Isabel Bogdan ein Bestseller. Der ist nun mit einem deutschen Starensemble fürs Kino verfilmt worden. Bogdan ist auch dabei. Unsere Kollegin hat sie getroffen.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244303297/5617933667-ci23x11-w20/Schriftstellerin-Isabel-Bogdan.jpg",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244303297/5617933667-ci16x9-w20/Schriftstellerin-Isabel-Bogdan.jpg",
       "image_title": "Hang zum Britischen, auch in Sachen Humor: Schriftstellerin Isabel Bogdan, hier im „Eaton Place Café und Tearoom“",
       "author": "Britta Schmeis"
-    },
-    {
-      "title": "„Rein und ehrbar“ – und verstümmelt für den Rest des Lebens",
-      "teaser": "Seit zehn Jahren ist weibliche Beschneidung in Deutschland strafbar. Dennoch wächst die Zahl der Opfer – vor allem aufgrund von Zuwanderung. Die Politik unternimmt laut Experten zu wenig, um Frauen und Mädchen hierzulande zu schützen.",
-      "url": "https://www.welt.de/regionales/nrw/plus244263117/Beschneidung-Rein-und-ehrbar-und-fuer-den-Rest-des-Lebens-verstuemmelt.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile244263167/0387937547-ci23x11-w20/Razor-Blade-Cutting-Through-Surface.jpg",
-      "image_title": "Mehr als 100.000 Opfer weiblicher Genitalbeschneidung leben in Deutschland",
-      "author": "Till-Reimer Stoldt"
-    },
-    {
-      "title": "„Manche zeigen sich völlig ohne Empathie, feiern sich für ihre Gewalt“",
-      "teaser": "Gewalttaten und Tötungen durch zwölf- oder 13-jährige Kinder wie in Freudenberg sind oft Beziehungstaten, wie Rechtspsychologe Dietmar Heubrock erklärt. Er stellt eine gefährliche Verschiebung unter Jugendlichen fest. Und kennt Warnsignale, auf die Eltern achten sollten.",
-      "url": "https://www.welt.de/politik/deutschland/plus244316387/Rechtspsychologe-zu-Freudenberg-Manche-zeigen-sich-voellig-ohne-Empathie-feiern-sich-fuer-ihre-Gewalt.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244317713/6447932557-ci23x11-w20/A-makeshift-memorial-of-flowers-and.jpg",
-      "image_title": "Blumen und Kerzen zum Gedenken an die zwölfjährige Luise",
-      "author": "Kevin Culina"
     },
     {
       "title": "Ökumenisches Gedenken für Amoklauf-Opfer – die Zeugen Jehovas sind empört",
       "teaser": "In einer Hamburger Hauptkirche soll es am Sonntag Fürbitten für die Opfer des Amokläufers Philipp F. geben. Doch die Glaubensgemeinschaft stellt sich den Umgang mit ihrem Schicksal ganz anders vor.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244315029/1607937717-ci16x9-w20/Hauptchor-Hauptkirche-Sankt-Petri-Hamburg-Deutschland.jpg",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244315029/1607937717-ci23x11-w20/Hauptchor-Hauptkirche-Sankt-Petri-Hamburg-Deutschland.jpg",
       "image_title": "Hauptchor, Hauptkirche Sankt Petri, Bei der Petrikirche, Hamburg, Deutschland"
     },
     {
@@ -92,14 +97,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244286155/5887930007-ci23x11-w20/Leg-3-Start-Cape-Town-Stopover-Team-Malizia-at-the-Ocean-Race-Ricardo-Pint.jpg",
       "image_title": "26/02/23 - Cape Town (ZAF) - Team Malizia at The Ocean Race - Cape Town Stopover - Leg 3 Start © Ricardo Pinto / Team Malizia",
       "author": "Tatjana Pokorny"
-    },
-    {
-      "title": "Was die gescheiterte Google-Suche nach einem Buch mit dem Hamburger Amoklauf zu tun hat",
-      "teaser": "Schon mehrere Wochen vor dem Amoklauf in einer Hamburger Gemeinde der Zeugen Jehovas gab es Hinweise auf die mentale Verfasstheit des späteren Täters Philipp F. – doch als zwei Beamte der Waffenbehörde dem nachgehen wollten, strauchelten sie bei der Internetrecherche.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244280327/6527931827-ci23x11-w20/Nach-dem-Amoklauf-in-Hamburg.jpg",
-      "image_title": "Blumen und Kerzen vor dem Eingangsbereich eines Gemeindehauses der Zeugen Jehovas.",
-      "author": "Jörn Lauterbach"
     },
     {
       "title": "CDU und SPD in Berlin wollen Milliarden für Klimaschutz ausgeben",
@@ -129,18 +126,18 @@
       "author": "Nikolaus Doll"
     },
     {
-      "title": "Geldstrafe für Grünen-Kommunalpolitiker nach Vortäuschen von Drohungen gegen sich selbst",
-      "teaser": "Ein nordrhein-westfälischer Kommunalpolitiker der Grünen hatte seit Juli 2022 mehrere vermeintlich rechtsextreme Drohungen, die er angeblich erhalten hatte, angezeigt. Diese waren jedoch nur vorgetäuscht – er wurde deshalb nun zu einer Geldstrafe in vierstelliger Höhe verurteilt.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244312717/0497935887-ci16x9-w20/Politischer-Jahresauftakt-von-Buendnis90-Die-Gruenen-in-Bremen-mi.jpg",
-      "image_title": "Der Einspruch des Grünen-Politikers gegen die Geldstrafe wurde am Mittwoch zurückgewiesen"
+      "title": "„Manche zeigen sich völlig ohne Empathie, feiern sich für ihre Gewalt“",
+      "teaser": "Gewalttaten und Tötungen durch zwölf- oder 13-jährige Kinder wie in Freudenberg sind oft Beziehungstaten, wie Rechtspsychologe Dietmar Heubrock erklärt. Er stellt eine gefährliche Verschiebung unter Jugendlichen fest. Und kennt Warnsignale, auf die Eltern achten sollten.",
+      "url": "https://www.welt.de/politik/deutschland/plus244316387/Rechtspsychologe-zu-Freudenberg-Manche-zeigen-sich-voellig-ohne-Empathie-feiern-sich-fuer-ihre-Gewalt.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244317713/6447932557-ci16x9-w20/A-makeshift-memorial-of-flowers-and.jpg",
+      "image_title": "Blumen und Kerzen zum Gedenken an die zwölfjährige Luise",
+      "author": "Kevin Culina"
     },
     {
-      "title": "„In der Schule sind Ideologen am Werk“",
-      "url": "https://www.welt.de/regionales/nrw/plus244142409/Mathe-Unterricht-In-der-Schule-sind-Ideologen-am-Werk.html",
-      "image_url": "https://img.welt.de/img/regionales/nrw/mobile244142407/3077937187-ci102l-w20/Bernhard-Kroetz-Meine-Woche.jpg",
-      "image_title": "Mathematikprofessor Bernhard Krötz vor einer Kreidetafel mit mathematischen Formeln",
-      "author": "Stefan Laurin"
+      "title": "Geldstrafe für Grünen-Kommunalpolitiker nach Vortäuschen von Drohungen gegen sich selbst",
+      "url": "https://www.welt.de/politik/deutschland/article244312343/Gruene-Geldstrafe-fuer-Politiker-nach-Vortaeuschen-von-Drohungen-gegen-sich-selbst.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244312717/0497935887-ci102l-w20/Politischer-Jahresauftakt-von-Buendnis90-Die-Gruenen-in-Bremen-mi.jpg",
+      "image_title": "Der Einspruch des Grünen-Politikers gegen die Geldstrafe wurde am Mittwoch zurückgewiesen"
     },
     {
       "title": "„Lang gewachsene Erfahrung, dass man mit kriminellem Verhalten durchkommt“",
@@ -357,84 +354,84 @@
       "image_title": "Erneut Proteste in Greifswald"
     },
     {
-      "title": "Oberlandesgericht enthebt umstrittene Schöffin aus Amt",
-      "url": "https://www.welt.de/regionales/thueringen/article244323669/Oberlandesgericht-enthebt-umstrittene-Schoeffin-aus-Amt.html"
+      "title": "Schulkinowochen eröffnet: 14 000 Schüler angemeldet",
+      "url": "https://www.welt.de/regionales/berlin/article244325361/Schulkinowochen-eroeffnet-14-000-Schueler-angemeldet.html"
     },
     {
-      "title": "Tesla stellt Antrag zum Ausbau der Fabrik in Grünheide",
-      "url": "https://www.welt.de/regionales/berlin/article244323375/Tesla-stellt-Antrag-zum-Ausbau-der-Fabrik-in-Gruenheide.html"
+      "title": "Pk vor Hoffenheim-Spiel: Hertha-Trainer Schwarz fehlt",
+      "url": "https://www.welt.de/regionales/berlin/article244325291/Pk-vor-Hoffenheim-Spiel-Hertha-Trainer-Schwarz-fehlt.html"
     },
     {
-      "title": "Handball-Nationalspielerin Smits verlängert in Bietigheim",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article244323493/Handball-Nationalspielerin-Smits-verlaengert-in-Bietigheim.html"
+      "title": "Mittelham verliert Achtelfinal-Einzel in Singapur",
+      "url": "https://www.welt.de/regionales/berlin/article244325219/Mittelham-verliert-Achtelfinal-Einzel-in-Singapur.html"
     },
     {
-      "title": "Sonne und Regen in Sicht: Bis 20 Grad am Freitag",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article244323299/Sonne-und-Regen-in-Sicht-Bis-20-Grad-am-Freitag.html"
+      "title": "Polizei nimmt nach Raubserie weitere Verdächtige fest",
+      "url": "https://www.welt.de/regionales/hessen/article244325375/Polizei-nimmt-nach-Raubserie-weitere-Verdaechtige-fest.html"
     },
     {
-      "title": "Landtag debattiert erneut über Härtefallfonds für Rentner",
-      "url": "https://www.welt.de/regionales/sachsen/article244323397/Landtag-debattiert-erneut-ueber-Haertefallfonds-fuer-Rentner.html"
+      "title": "Frühere Bundestagsvizepräsidentin Antje Vollmer ist tot",
+      "url": "https://www.welt.de/regionales/nrw/article244325195/Fruehere-Bundestagsvizepraesidentin-Antje-Vollmer-ist-tot.html"
     },
     {
-      "title": "Prozess gegen Bürgermeister von Langenzenn im Mai",
-      "url": "https://www.welt.de/regionales/bayern/article244323281/Prozess-gegen-Buergermeister-von-Langenzenn-im-Mai.html"
+      "title": "Heidenheims Schmidt: «Jetzt geht der Spaßrichtig los»",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article244325191/Heidenheims-Schmidt-Jetzt-geht-der-Spassrichtig-los.html"
     },
     {
-      "title": "Söder wirft Scholz bei Migration zu langes Nichtstun vor",
-      "url": "https://www.welt.de/regionales/bayern/article244323245/Soeder-wirft-Scholz-bei-Migration-zu-langes-Nichtstun-vor.html"
+      "title": "Hamburgs Finanzämter etwas langsamer - bundesweit an Spitze",
+      "url": "https://www.welt.de/regionales/hamburg/article244325237/Hamburgs-Finanzaemter-etwas-langsamer-bundesweit-an-Spitze.html"
     },
     {
-      "title": "Mehr Kinder sind in Sportvereinen in Schleswig-Holstein",
-      "url": "https://www.welt.de/regionales/hamburg/article244323247/Mehr-Kinder-sind-in-Sportvereinen-in-Schleswig-Holstein.html"
+      "title": "Heinold regt Sondervermögen für den Klimaschutz im Norden an",
+      "url": "https://www.welt.de/regionales/hamburg/article244325151/Heinold-regt-Sondervermoegen-fuer-den-Klimaschutz-im-Norden-an.html"
     },
     {
-      "title": "Verdi fordert 2,50 Euro mehr Stundenlohn im Einzelhandel",
-      "url": "https://www.welt.de/regionales/hessen/article244323223/Verdi-fordert-2-50-Euro-mehr-Stundenlohn-im-Einzelhandel.html"
+      "title": "Nürnberg Ice Tigers verlängern mit Verteidiger Shaw",
+      "url": "https://www.welt.de/regionales/bayern/article244325241/Nuernberg-Ice-Tigers-verlaengern-mit-Verteidiger-Shaw.html"
     },
     {
-      "title": "Mehr Sicherheit für Radfahrer gegen «Dooring»-Gefahr gefragt",
-      "url": "https://www.welt.de/regionales/hessen/article244323215/Mehr-Sicherheit-fuer-Radfahrer-gegen-Dooring-Gefahr-gefragt.html"
+      "title": "Nordsee wichtigste Kokain-Schmuggelroute nach Westeuropa",
+      "url": "https://www.welt.de/regionales/hamburg/article244325129/Nordsee-wichtigste-Kokain-Schmuggelroute-nach-Westeuropa.html"
     },
     {
-      "title": "Mehr Geld für blinde und gehörlose Menschen in Thüringen",
-      "url": "https://www.welt.de/regionales/thueringen/article244323207/Mehr-Geld-fuer-blinde-und-gehoerlose-Menschen-in-Thueringen.html"
+      "title": "Konzert von Jane Birkin in Elphi abgesagt",
+      "url": "https://www.welt.de/regionales/hamburg/article244325051/Konzert-von-Jane-Birkin-in-Elphi-abgesagt.html"
     },
     {
-      "title": "64-Jähriger stirbt bei einem Unfall auf der Arbeit",
-      "url": "https://www.welt.de/regionales/niedersachsen/article244323213/64-Jaehriger-stirbt-bei-einem-Unfall-auf-der-Arbeit.html"
+      "title": "Zahl der Erwerbstätigen in Thüringen leicht gestiegen",
+      "url": "https://www.welt.de/regionales/thueringen/article244324963/Zahl-der-Erwerbstaetigen-in-Thueringen-leicht-gestiegen.html"
     },
     {
-      "title": "Abgeordneter Blex klagt gegen AfD-Fraktion",
-      "url": "https://www.welt.de/regionales/nrw/article244322939/Abgeordneter-Blex-klagt-gegen-AfD-Fraktion.html"
+      "title": "175 Jahre nach Märzrevolution: Wochenende der Demokratie",
+      "url": "https://www.welt.de/regionales/berlin/article244324895/175-Jahre-nach-Maerzrevolution-Wochenende-der-Demokratie.html"
     },
     {
-      "title": "Deutlich mehr Kriminalität in Schleswig-Holstein 2022",
-      "url": "https://www.welt.de/regionales/hamburg/article244322683/Deutlich-mehr-Kriminalitaet-in-Schleswig-Holstein-2022.html"
+      "title": "Kiel-Coach Rapp: Walter-Sperre kein Vorteil für Holstein",
+      "url": "https://www.welt.de/regionales/hamburg/article244324779/Kiel-Coach-Rapp-Walter-Sperre-kein-Vorteil-fuer-Holstein.html"
     },
     {
-      "title": "Gladbach-Fragen unerwünscht: ZDF lädt Eberl aus",
-      "url": "https://www.welt.de/regionales/sachsen/article244322681/Gladbach-Fragen-unerwuenscht-ZDF-laedt-Eberl-aus.html"
+      "title": "Neumann warnt vor Rechtsextremismus und Islamismus",
+      "url": "https://www.welt.de/regionales/hessen/article244324787/Neumann-warnt-vor-Rechtsextremismus-und-Islamismus.html"
     },
     {
-      "title": "Ständchen vor dem Landtag: Politiker reihen sich in Chor ein",
-      "url": "https://www.welt.de/regionales/sachsen/article244322603/Staendchen-vor-dem-Landtag-Politiker-reihen-sich-in-Chor-ein.html"
+      "title": "Richterin aus «Reichsbürger»-Szene des Dienstes enthoben",
+      "url": "https://www.welt.de/regionales/berlin/article244324789/Richterin-aus-Reichsbuerger-Szene-des-Dienstes-enthoben.html"
     },
     {
-      "title": "Waffenhersteller Rheinmetall peilt höheres Wachstum an",
-      "url": "https://www.welt.de/regionales/nrw/article244322631/Waffenhersteller-Rheinmetall-peilt-hoeheres-Wachstum-an.html"
+      "title": "Jugendliche nach Rauchen von E-Zigarette bewusstlos",
+      "url": "https://www.welt.de/regionales/bayern/article244324771/Jugendliche-nach-Rauchen-von-E-Zigarette-bewusstlos.html"
     },
     {
-      "title": "Autofahrer flieht vor Polizei",
-      "url": "https://www.welt.de/regionales/hessen/article244322569/Autofahrer-flieht-vor-Polizei.html"
+      "title": "Bagger gestohlen: Polizei hofft aus Hinweise",
+      "url": "https://www.welt.de/regionales/hamburg/article244324705/Bagger-gestohlen-Polizei-hofft-aus-Hinweise.html"
     },
     {
-      "title": "Eintracht-Star Kolo Muani: «Mein Job ist hier in Frankfurt»",
-      "url": "https://www.welt.de/regionales/hessen/article244322559/Eintracht-Star-Kolo-Muani-Mein-Job-ist-hier-in-Frankfurt.html"
+      "title": "Drittes Duell in vier Wochen: Alba will Bayern schlagen",
+      "url": "https://www.welt.de/regionales/berlin/article244324791/Drittes-Duell-in-vier-Wochen-Alba-will-Bayern-schlagen.html"
     },
     {
-      "title": "Polarlichter am wolkenlosen Himmel über Magdeburg",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article244322629/Polarlichter-am-wolkenlosen-Himmel-ueber-Magdeburg.html"
+      "title": "Zahlreiche Krankschreibungen nach Corona-Infektion",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article244324707/Zahlreiche-Krankschreibungen-nach-Corona-Infektion.html"
     }
   ]
 }
