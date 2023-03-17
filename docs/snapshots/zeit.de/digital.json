@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-17T13:19:48",
+  "timestamp": "2023-03-17T14:11:38",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "SXSW: Die Stille mitten im Hype",
+      "teaser": "Alle reden aufgeregt über ChatGPT und künstliche Intelligenz. Was als Nächstes passiert? Da bleiben viele Vordenker auf der Techkonferenz SXSW ganz schön zurückhaltend.",
+      "url": "https://www.zeit.de/digital/2023-03/kuenstliche-intelligenz-sxsw-kevin-kelly-whurley",
+      "image_url": "https://img.zeit.de/digital/2023-03/sxsw-2023-ai-ki-ml-bild/cinema__980x420"
+    },
+    {
       "title": "KI bei Microsoft und Google: Was, wenn Sie E-Mails nie mehr selbst schreiben müssten?",
       "teaser": "Aus Hype wird Produkt: Google und Microsoft haben vorgestellt, wie sie Büroanwendungen mit generativer künstlicher Intelligenz aufpumpen wollen.",
       "url": "https://www.zeit.de/digital/2023-03/ki-microsoft-office-google-workspace-cloud",
-      "image_url": "https://img.zeit.de/digital/2023-03/google-microsoft-buero-ai-ki-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-03/google-microsoft-buero-ai-ki-bild/wide__822x462",
+      "image_title": "KI bei Microsoft und Google: Was, wenn Sie E-Mails nie mehr selbst schreiben müssten?"
     },
     {
       "title": "Moderatoren bei TikTok und Meta: Zusammen im Kampf gegen Trauma und Ausbeutung",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/tiktok-meta-moderatoren-gewerkschaft",
       "image_url": "https://img.zeit.de/digital/internet/2023-03/content-moderation/wide__822x462",
       "image_title": "Moderatoren bei TikTok und Meta: Zusammen im Kampf gegen Trauma und Ausbeutung"
-    },
-    {
-      "title": "Cybersicherheit: Neuseeland verbietet TikTok auf Geräten mit Zugang zum Parlamentsnetz",
-      "teaser": "Die chinesische App TikTok soll in Neuseeland von allen Geräten verschwinden, die Kontakt zum Netzwerk des Parlaments haben. Grund seien Sicherheitsbedenken.",
-      "url": "https://www.zeit.de/politik/ausland/2023-03/tiktok-neuseeland-regierung-geraete-netzwerk-zugang",
-      "image_url": "https://img.zeit.de/digital/2023-03/tiktok-neuseeland-regierung-geraete-netzwerk-zugang-bild/wide__822x462",
-      "image_title": "Cybersicherheit: Neuseeland verbietet TikTok auf Geräten mit Zugang zum Parlamentsnetz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, antwortet der Rechner",
@@ -154,6 +154,13 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/gpt-4-open-ai-ki-test"
     },
     {
+      "title": "Cybersicherheit: Neuseeland verbietet TikTok auf Geräten mit Zugang zum Parlamentsnetz",
+      "teaser": "Die chinesische App TikTok soll in Neuseeland von allen Geräten verschwinden, die Kontakt zum Netzwerk des Parlaments haben. Grund seien Sicherheitsbedenken.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/tiktok-neuseeland-regierung-geraete-netzwerk-zugang",
+      "image_url": "https://img.zeit.de/digital/2023-03/tiktok-neuseeland-regierung-geraete-netzwerk-zugang-bild/wide__822x462",
+      "image_title": "Cybersicherheit: Neuseeland verbietet TikTok auf Geräten mit Zugang zum Parlamentsnetz"
+    },
+    {
       "title": "GPT-4: Ein bisschen schlauer wirkt es schon",
       "teaser": "GPT-4 soll weniger Fehler machen, mehr Kontext liefern und sogar Bilder erkennen. Ist die neue KI wirklich besser als ihr Vorgänger? Ein erster Test",
       "url": "https://www.zeit.de/digital/internet/2023-03/gpt-4-open-ai-ki-test",
@@ -166,13 +173,6 @@
       "url": "https://www.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen",
       "image_url": "https://img.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen-bild/wide__822x462",
       "image_title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); ChatGPT • Das Beste aus Z+: Das kann GPT-4",
-      "teaser": "OpenAI hat ein Update für ChatGPT veröffentlicht. Die KI erstellt nun Websites aus Zeichnungen, die Antworten sollen klüger ausfallen. Ist das die erwartete Revolution?",
-      "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test",
-      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-openai-2/wide__822x462",
-      "image_title": "ChatGPT • Das Beste aus Z+: Das kann GPT-4"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -203,6 +203,13 @@
       "image_title": "Cyberangriff in Potsdam: Die Spur der Geisterrouter"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); ChatGPT • Das Beste aus Z+: Das kann GPT-4",
+      "teaser": "OpenAI hat ein Update für ChatGPT veröffentlicht. Die KI erstellt nun Websites aus Zeichnungen, die Antworten sollen klüger ausfallen. Ist das die erwartete Revolution?",
+      "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test",
+      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-openai-2/wide__822x462",
+      "image_title": "ChatGPT • Das Beste aus Z+: Das kann GPT-4"
+    },
+    {
       "title": "SXSW: Die Zukunft, nur halb so wild",
       "teaser": "Künstliche Intelligenz wird alles umkrempeln – selbst auf der US-Techkonferenz SXSW ist jede Menge Zukunftsangst zu hören. Warum Optimismus trotzdem angebracht ist.",
       "url": "https://www.zeit.de/digital/2023-03/sxsw-tech-konferenz-kuenstliche-intelligenz-zukunft",
@@ -217,13 +224,6 @@
       "image_title": "Pico 4: Die TikTok-Brille"
     },
     {
-      "title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative",
-      "teaser": "Meta arbeitet an Plänen für ein eigenes soziales Netzwerk. Man sehe Chancen für einen Twitter-Konkurrenten, hieß es. Der Dienst könnte mit Mastodon kompatibel sein.",
-      "url": "https://www.zeit.de/digital/internet/2023-03/twitter-konkurrenz-meta-facebook-netzwerk-textnachrichten",
-      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/wide__822x462",
-      "image_title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -231,11 +231,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Videoplattform: TikTok verbessert auf internationalen Druck seinen Datenschutz",
-      "teaser": "Der chinesische Kurzvideodienst will die Daten seiner Nutzer in Europa speichern, um mehr Transparenz zu schaffen. Die USA sind trotz ähnlicher Maßnahmen skeptisch.",
-      "url": "https://www.zeit.de/digital/internet/2023-03/tiktok-sicherheitsbedenken-china-datenschutz",
-      "image_url": "https://img.zeit.de/digital/internet/2023-03/tiktok-sicherheitsbedenken-china-datenschutz-bild-2/wide__822x462",
-      "image_title": "Videoplattform: TikTok verbessert auf internationalen Druck seinen Datenschutz"
+      "title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative",
+      "teaser": "Meta arbeitet an Plänen für ein eigenes soziales Netzwerk. Man sehe Chancen für einen Twitter-Konkurrenten, hieß es. Der Dienst könnte mit Mastodon kompatibel sein.",
+      "url": "https://www.zeit.de/digital/internet/2023-03/twitter-konkurrenz-meta-facebook-netzwerk-textnachrichten",
+      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/wide__822x462",
+      "image_title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
