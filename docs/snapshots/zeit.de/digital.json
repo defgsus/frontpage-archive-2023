@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-17T06:14:53",
+  "timestamp": "2023-03-17T07:11:46",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Cybersicherheit: Neuseeland verbietet TikTok auf Geräten mit Zugang zum Parlamentsnetz",
+      "teaser": "Die chinesische App TikTok soll in Neuseeland von allen Geräten verschwinden, die Kontakt zum Netzwerk des Parlaments haben. Grund seien Sicherheitsbedenken.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/tiktok-neuseeland-regierung-geraete-netzwerk-zugang",
+      "image_url": "https://img.zeit.de/digital/2023-03/tiktok-neuseeland-regierung-geraete-netzwerk-zugang-bild/cinema__980x420"
+    },
+    {
       "title": "GPT-4: Ein bisschen schlauer wirkt es schon",
       "teaser": "GPT-4 soll weniger Fehler machen, mehr Kontext liefern und sogar Bilder erkennen. Ist die neue KI wirklich besser als ihr Vorgänger? Ein erster Test",
       "url": "https://www.zeit.de/digital/internet/2023-03/gpt-4-open-ai-ki-test",
-      "image_url": "https://img.zeit.de/digital/2023-03/gpt-4-funktionen-test-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-03/gpt-4-funktionen-test-bild/wide__822x462",
+      "image_title": "GPT-4: Ein bisschen schlauer wirkt es schon"
     },
     {
       "title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen",
       "image_url": "https://img.zeit.de/digital/2023-03/chipmixer-geldwaesche-darknet-server-geschlossen-bild/wide__822x462",
       "image_title": "ChipMixer: Ermittler schließen größten Bitcoin-Geldwäschedienst im Darknet"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
-      "teaser": "OpenAI hat ein Update für ChatGPT veröffentlicht. Die KI erstellt nun Zeichnungen aus Websites, die Antworten sollen klüger ausfallen. Ist das die erwartete Revolution?",
-      "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test",
-      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-openai-2/wide__822x462",
-      "image_title": "ChatGPT: Das kann GPT-4"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, antwortet der Rechner",
@@ -154,6 +154,13 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/gpt-4-open-ai-ki-test"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
+      "teaser": "OpenAI hat ein Update für ChatGPT veröffentlicht. Die KI erstellt nun Zeichnungen aus Websites, die Antworten sollen klüger ausfallen. Ist das die erwartete Revolution?",
+      "url": "https://www.zeit.de/digital/2023-03/gpt-4-chatgpt-openai-test",
+      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-openai-2/wide__822x462",
+      "image_title": "ChatGPT: Das kann GPT-4"
+    },
+    {
       "title": "SXSW: Die Zukunft, nur halb so wild",
       "teaser": "Künstliche Intelligenz wird alles umkrempeln – selbst auf der US-Techkonferenz SXSW ist jede Menge Zukunftsangst zu hören. Warum Optimismus trotzdem angebracht ist.",
       "url": "https://www.zeit.de/digital/2023-03/sxsw-tech-konferenz-kuenstliche-intelligenz-zukunft",
@@ -166,13 +173,6 @@
       "url": "https://www.zeit.de/digital/games/2023-03/pico-4-vr-brille-tiktok-bytedance",
       "image_url": "https://img.zeit.de/digital/games/2023-03/pico-4-vr-brille-tiktok-bytedance-meta-foto/wide__822x462",
       "image_title": "Pico 4: Die TikTok-Brille"
-    },
-    {
-      "title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative",
-      "teaser": "Meta arbeitet an Plänen für ein eigenes soziales Netzwerk. Man sehe Chancen für einen Twitter-Konkurrenten, hieß es. Der Dienst könnte mit Mastodon kompatibel sein.",
-      "url": "https://www.zeit.de/digital/internet/2023-03/twitter-konkurrenz-meta-facebook-netzwerk-textnachrichten",
-      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/wide__822x462",
-      "image_title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -203,6 +203,13 @@
       "image_title": "Cyberangriff in Potsdam: Die Spur der Geisterrouter"
     },
     {
+      "title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative",
+      "teaser": "Meta arbeitet an Plänen für ein eigenes soziales Netzwerk. Man sehe Chancen für einen Twitter-Konkurrenten, hieß es. Der Dienst könnte mit Mastodon kompatibel sein.",
+      "url": "https://www.zeit.de/digital/internet/2023-03/twitter-konkurrenz-meta-facebook-netzwerk-textnachrichten",
+      "image_url": "https://img.zeit.de/digital/2023-03/facebook-konzern-meta-twitter-alternative/wide__822x462",
+      "image_title": "Meta: Facebook-Konzern erwägt dezentrale Twitter-Alternative"
+    },
+    {
       "title": "Videoplattform: TikTok verbessert auf internationalen Druck seinen Datenschutz",
       "teaser": "Der chinesische Kurzvideodienst will die Daten seiner Nutzer in Europa speichern, um mehr Transparenz zu schaffen. Die USA sind trotz ähnlicher Maßnahmen skeptisch.",
       "url": "https://www.zeit.de/digital/internet/2023-03/tiktok-sicherheitsbedenken-china-datenschutz",
@@ -217,13 +224,6 @@
       "image_title": "KI-Chatbot von Meta: Ein Llama auf Abwegen"
     },
     {
-      "title": "TikTok: App-Angst",
-      "teaser": "EU-Behörden verbannen TikTok von Dienstgeräten. Die USA überlegen gar, die App komplett zu verbieten. Ist das soziale Netzwerk wirklich eine chinesische Cyberwaffe?",
-      "url": "https://www.zeit.de/digital/datenschutz/2023-03/tiktok-regierungsbehoerden-usa-verbot-china",
-      "image_url": "https://img.zeit.de/digital/2023-03/tiktok-regierungsbehoerden-usa-verbot/wide__822x462",
-      "image_title": "TikTok: App-Angst"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -231,11 +231,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "NRW: Ermittler enttarnen internationales Hackernetzwerk",
-      "teaser": "Sie wurden weltweit gesucht – und nun von deutschen Ermittlern identifiziert. Die mutmaßlichen Täter sollen Netzwerke in Kliniken, Verlagen und Landkreisen gehackt haben.",
-      "url": "https://www.zeit.de/digital/2023-03/nordrhein-westfalen-ermittler-hacker-haftbefehl",
-      "image_url": "https://img.zeit.de/digital/2023-03/cyberkriminalitaet-duesseldorf/wide__822x462",
-      "image_title": "NRW: Ermittler enttarnen internationales Hackernetzwerk"
+      "title": "TikTok: App-Angst",
+      "teaser": "EU-Behörden verbannen TikTok von Dienstgeräten. Die USA überlegen gar, die App komplett zu verbieten. Ist das soziale Netzwerk wirklich eine chinesische Cyberwaffe?",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-03/tiktok-regierungsbehoerden-usa-verbot-china",
+      "image_url": "https://img.zeit.de/digital/2023-03/tiktok-regierungsbehoerden-usa-verbot/wide__822x462",
+      "image_title": "TikTok: App-Angst"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
