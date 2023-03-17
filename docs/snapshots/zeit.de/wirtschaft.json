@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-17T01:03:11",
+  "timestamp": "2023-03-17T02:34:16",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Bankenkrise: Deutsche Geldinstitute sind laut Bankenverband \"widerstandsfähig\"",
+      "teaser": "Droht auch in Deutschland der Zusammenbruch einer Bank wie in den USA? Nein, sagt der Bundesverband deutscher Banken. Sparer müssten sich keine Sorgen machen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/banken-finanzkrise-bankenverband-deutschland-zinsen",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/banken-finanzkrise-bankenverband-deutschland-zinsen-foto/cinema__980x420"
+    },
+    {
       "title": "Schleswig-Holstein: Gemeinde Sylt verbietet Bau neuer Ferienwohnungen",
       "teaser": "Zu viele Urlaubsdomizile, zu wenig Wohnraum für Dauerwohnen: Die Gemeinde Sylt verbietet deshalb Neubauten für Touristen. Das gilt aber nicht für alle Orte auf der Insel.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/schleswig-holstein-sylt-verbot-bau-ferienwohnungen-buergermeister",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/schleswig-holstein-sylt-verbot-bau-ferienwohnungen-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/schleswig-holstein-sylt-verbot-bau-ferienwohnungen-bild/wide__822x462",
+      "image_title": "Schleswig-Holstein: Gemeinde Sylt verbietet Bau neuer Ferienwohnungen"
     },
     {
       "title": "US-Bankenkrise: Großbanken unterstützen First Republic Bank mit 30 Milliarden Dollar",
@@ -66,14 +73,14 @@
       "title": "Europäische Zentralbank: Christine Lagarde im Zinsdilemma",
       "teaser": "Mit der Leitzinserhöhung stemmt sich die EZB gegen die Inflation und will Ruhe ausstrahlen. Sie riskiert aber, die Lage der Banken weiter zu verschärfen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/ezb-leitzins-erhoehung-inflation-finanzmaerkte",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/ezb-leitzins-erhoehung-inflation-finanzmaerkte-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/ezb-leitzins-erhoehung-inflation-finanzmaerkte-bild/cinema__980x420",
       "image_title": "Europäische Zentralbank: Christine Lagarde im Zinsdilemma"
     },
     {
       "title": "Credit Suisse: Gerade noch am Leben",
       "teaser": "In einer Nachtaktion rettet die Schweizerische Nationalbank die Großbank Credit Suisse – und verhindert so einen Flächenbrand. Aber ob das ausreicht, ist völlig offen.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/credit-suisse-rettungspaket-nationalbank",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/credit-suisse-rettungspaket-nationalbank-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/credit-suisse-rettungspaket-nationalbank-bild/wide__822x462",
       "image_title": "Credit Suisse: Gerade noch am Leben"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/galeria-karstadt-kaufhof-fuenf-warenhaeuser-gerettet",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/galeria-karstadt-kaufhof-warenhaeuser-fuenf-bild-2/wide__822x462",
       "image_title": "Warenhäuser: Fünf Filialen von Galeria Karstadt Kaufhof müssen doch nicht schließen"
-    },
-    {
-      "title": "Federal Reserve: Jetzt zeigen sich die Gefahren der Fed-Politik",
-      "teaser": "Notenbanken wie die Federal Reserve haben die Leitzinsen deutlich angezogen, um die Inflation zu bekämpfen. Nun könnte genau das zu einer neuen Finanzkrise führen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/federal-reserve-usa-notenbank-finanzkrise-schuld-silicon-valley-bank",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/federal-reserve-usa-notenbank-silicon-valley-2/wide__822x462",
-      "image_title": "Federal Reserve: Jetzt zeigen sich die Gefahren der Fed-Politik"
     },
     {
       "title": "Warenhauskette: Galeria Karstadt Kaufhof will 52 Filialen schließen",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Federal Reserve: Jetzt zeigen sich die Gefahren der Fed-Politik",
+      "teaser": "Notenbanken wie die Federal Reserve haben die Leitzinsen deutlich angezogen, um die Inflation zu bekämpfen. Nun könnte genau das zu einer neuen Finanzkrise führen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/federal-reserve-usa-notenbank-finanzkrise-schuld-silicon-valley-bank",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/federal-reserve-usa-notenbank-silicon-valley-2/wide__822x462",
+      "image_title": "Federal Reserve: Jetzt zeigen sich die Gefahren der Fed-Politik"
+    },
+    {
       "title": "TSMC: Chips, die Sicherheit vor einer Invasion bedeuteten",
       "teaser": "Taiwan ist der wichtigste Chiphersteller der Welt, bisher ein Schutz im Konflikt mit China. Doch nun verlagert der größte Produzent Teile des Geschäfts ins Ausland.",
       "url": "https://www.zeit.de/2023/12/tsmc-taiwan-china-chip-industrie-produktion",
@@ -220,14 +227,14 @@
       "title": "Finanzen: Viele deutsche Banken zahlen nach wie vor keine Tagesgeldzinsen",
       "teaser": "Die Zinsen auf Tagesgeld hängen in der Regel vom Leitzins ab. Obwohl die EZB diesen wohl abermals erhöhen wird, haben viele deutsche Banken ihre Zinsen nicht angepasst.",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-03/finanzen-tagesgeldzinsen-ezb-banken",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/finanzen-tagesgeldzinsen-ezb-banken-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/finanzen-tagesgeldzinsen-ezb-banken-bild/cinema__980x420",
       "image_title": "Finanzen: Viele deutsche Banken zahlen nach wie vor keine Tagesgeldzinsen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strompreis: Warum Sie Ihre nächste Stromrechnung an Markus Söder schicken sollten",
       "teaser": "Im Nordosten wird seit Jahren in grünen Strom und Leitungen investiert, in Bayern bedient man sich. Doch es ist politisch gewollt, dass der Strompreis unfair ist.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/strompreis-bayern-erneuerbare-energien-5vor8",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/strompreis-bayern/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/strompreis-bayern/wide__822x462",
       "image_title": "Strompreis: Warum Sie Ihre nächste Stromrechnung an Markus Söder schicken sollten"
     },
     {
@@ -257,13 +264,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/galeria-kaufhof-stellenabbau-innenstaedte-hubertus-heil",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/galeria-kaufhof-leipzig/wide__822x462",
       "image_title": "Warenhauskette: Hubertus Heil macht Galeria-Angestellten Mut"
-    },
-    {
-      "title": "Enertrag: Aus der Uckermark in die Welt",
-      "teaser": "Enertrag ist mit Ökostrom und Wasserstoff fast unbemerkt zun einem wichtigen Akteur der Energiewende geworden. Dabei wollte der Gründer eigentlich Atomkraftwerke bauen.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/enertrag-gruener-wasserstoff-oeko-strom-projektentwickler-energiewende",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/enertrag-gruener-wasserstoff-oeko-strom-projektentwickler-energiewende-1/wide__822x462",
-      "image_title": "Enertrag: Aus der Uckermark in die Welt"
     },
     {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
