@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-18T09:11:02",
+  "timestamp": "2023-03-18T10:11:44",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.sueddeutsche.de/assets/js/header-full-a543ce840049a2affa0d.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
       "id": null,
       "text": null
     },
@@ -154,14 +160,6 @@
       "author": "Alle Entwicklungen im Liveblog"
     },
     {
-      "title": "\"Nord Stream 2 war der größte politische Fehler der vergangenen 50 Jahre\"",
-      "teaser": "Seit langem reist der französischen Philosoph Bernard-Henri Lévy in Krisengebiete, zuletzt in die Ukraine. Im Interview erklärt er, warum ihm der Kampf dort Hoffnung für die Zukunft macht.",
-      "url": "https://sz-magazin.sueddeutsche.de/politik/bernard-henri-levy-ukraine-interview-92519",
-      "author": "Interview von Thomas Bärnthaler und Gabriela Herpell",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5769840/208x156",
-      "image_title": "SZ-Magazin"
-    },
-    {
       "title": "Hier wird geknirscht, gewütet und geholfen",
       "teaser": "Außerdem geht es um die Liebe zu Kurven, plötzliche Löcher im Gedächtnis und die Frage, ob Kunst anpassbar ist. Zehn Geschichten fürs Wochenende.",
       "url": "https://www.sueddeutsche.de/projekte/artikel/verlag/sz-weekender-lesegeschichten-referendariat-rennrad-hospiz-cancel-culture-e169167/",
@@ -181,25 +179,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5771196/208x156"
     },
     {
-      "title": "Sollten auch Kinder bestraft werden?",
-      "teaser": "Wer unter 14 Jahren ist, gilt in Deutschland als schuldunfähig. Im \"Fall Luise\" wird nun einmal mehr diskutiert, ob die Schwelle zur Strafmündigkeit gesenkt werden soll. Experten warnen.",
-      "url": "https://www.sueddeutsche.de/politik/fall-luise-debatte-strafmuendigkeit-1.5771035",
-      "author": "Constanze von Bullion",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5771103/208x156"
-    },
-    {
-      "title": "Irgendwann knallt's",
-      "teaser": "Hunderttausende Schreckschusspistolen sind in München im Umlauf. Niemand erfasst, wie viele und wer genau diese besitzt. Die Waffen lösen immer wieder spektakuläre Polizeieinsätze aus - zur Gefahr werden sie vor allem für die Träger.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-schreckschusswaffen-anstieg-1.5770816",
-      "author": "Trisha Balster, Leon Fried, Franz-Paul Helms und Viktoria Reich",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5770817/208x156"
-    },
-    {
-      "title": "Herausforderungen für den Kopf",
-      "teaser": "Entdecken Sie unsere Rätsel für Abonnentinnen und Abonnenten.",
-      "url": "https://www.sueddeutsche.de/raetsel/",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5707886/208x156",
-      "image_title": "Rätsel Illu SZ"
+      "title": "Die Zukunft des Wintersports",
+      "teaser": "Oberstdorf ist eines der größten deutschen Skigebiete und einer der meistbesuchten Tourismusorte. Jetzt aber sind sie dort irritiert: Wieso diskutieren alle, ob man noch Skifahren darf? Dabei arbeiten im Allgäu sogar Naturschützer mit den Bergbahnen Hand in Hand.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-oberstdorf-tourismus-ski-klimawandel-1.5770692",
+      "author": "Florian Fuchs, Oberstdorf",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5770695/600x337"
     },
     {
       "title": "Wie Schiffeversenken",
@@ -209,6 +193,13 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5197558/600x337"
     },
     {
+      "title": "Herausforderungen für den Kopf",
+      "teaser": "Entdecken Sie unsere Rätsel für Abonnentinnen und Abonnenten.",
+      "url": "https://www.sueddeutsche.de/raetsel/",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5707886/208x156",
+      "image_title": "Rätsel Illu SZ"
+    },
+    {
       "title": "Die Sonne scheint auf Media Island",
       "teaser": "Ein Jahr nach den Raketeneinschlägen nahe der Rennstrecke ist die Formel 1 zurück in Saudi-Arabien. Von Krieg oder Menschenrechtsverletzungen soll lieber nichts zu hören sein - doch Lewis Hamilton gelingt ein rhetorisches Meisterwerk.",
       "url": "https://www.sueddeutsche.de/sport/formel-1-saudi-arabien-menschenrechte-1.5770950",
@@ -216,25 +207,33 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5770951/208x156"
     },
     {
-      "title": "Unglaublich im wahrsten Sinne",
-      "teaser": "Die Sky-Doku \"Erfundene Wahrheit\" über den Fälscher Claas Relotius stellt die Frage: Wann ist Game Over?",
-      "url": "https://www.sueddeutsche.de/medien/claas-relotius-dokumentation-1.5770992",
-      "author": "Cornelius Pollmer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5771013/600x337"
+      "title": "Die Zukunft gehört den Müller-Lüdenscheidts",
+      "teaser": "Eltern können einen Doppelnamen wohl bald an ihre Kinder weitergeben. Und das dürfte erst der Anfang einer folgenreichen Revolution sein.",
+      "url": "https://www.sueddeutsche.de/panorama/doppelnamen-namensrecht-gesetzesaenderung-ehe-kinder-nachname-vorname-1.5771010",
+      "author": "Ronen Steinke",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5771091/600x337"
     },
     {
-      "title": "Welche Himbeerkonfitüre schmeckt am besten?",
-      "teaser": "Sie versüßt den Start in den Tag. Welche Konfitüre sich leicht verstreichen lässt und gut schmeckt. Zehn Marken im Test.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/kolumne/test-himbeerkonfituere-e998405/",
-      "author": "Marcel Grzanna",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5769971/208x156"
+      "title": "Als lägen unterm Ruhrgebiet queere Fetisch-Keller",
+      "teaser": "Eine Ausstellung in Berlin erkundet den Sex-Appeal der Industriefotografie im geteilten Deutschland. Diese und weitere Empfehlungen der Woche aus dem SZ-Feuilleton.",
+      "url": "https://www.sueddeutsche.de/kultur/dhm-die-frau-mit-dem-arm-mozart-the-economist-next-year-in-moscow-1.5769942",
+      "author": "SZ-Autorinnen und -Autoren",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5770618/208x156"
     },
     {
-      "title": "Veilchenduft für Sisi",
-      "teaser": "In Wien sperrt die älteste Parfümerie der Stadt zu, einst k.u.k.-Hoflieferant. Warum gibt sie auf - und wie viele ehemalige Lieferanten des Kaiserhauses gibt es heute noch?",
-      "url": "https://www.sueddeutsche.de/politik/oesterreich-j-b-filz-sohn-hoflieferant-parfuemerie-sisi-1.5769940",
-      "author": "Gerhard Fischer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5770666/600x337"
+      "title": "Bunte Bällchen",
+      "teaser": "Neben Kichererbsen wandern in die Falafel unseres Kochkolumnisten noch grüne Erbsen und rote sowie gelbe Linsen. Von einer Hülsenfrucht rät er aber eindringlich ab: Vorsicht Vergiftungsgefahr!",
+      "url": "https://sz-magazin.sueddeutsche.de/probier-doch-mal/bunte-falafel-mit-erbsen-linsen-und-kichererbsen-92523",
+      "author": "Hans Gerlach",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5769038/208x156",
+      "image_title": "Rainbow-Falafel"
+    },
+    {
+      "title": "Leben im alten Bahnhof",
+      "teaser": "Vor neun Jahren kauft Stefanie Kloos ein Stationshäuschen in Brandenburg. Das Gebäude gleicht einer Ruine, und dann ist da noch der Kampf mit der Bürokratie. Zu Besuch bei einer Frau, die sich ihren Traum erfüllt hat.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/stil/brandeburg-bahnhof-architektur-e488298/",
+      "author": "Miriam Dahlinger und Marlena Waldthausen (Fotos)",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5769959/600x337"
     },
     {
       "title": "Happy End für die Autonarrischen",
