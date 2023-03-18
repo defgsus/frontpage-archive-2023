@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-18T15:11:51",
+  "timestamp": "2023-03-18T16:15:06",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bitcoin: I love Bitcoin",
+      "teaser": "Unser Autor, Literaturkritiker von Beruf, begann irgendwann, sich auch für Zahlen zu interessieren. Wegen Bitcoin. Über den großen Reiz der wichtigsten Kryptowährung",
+      "url": "https://www.zeit.de/2023/12/bitcoin-kryptowaehrung-blockchain-interesse",
+      "image_url": "https://img.zeit.de/2023/12/bitcoin-kryptowaehrung-blockchain-interesse-teaserbild/cinema__980x420"
+    },
+    {
       "title": "Fox News: Kann der Sender noch Präsidenten machen?",
       "teaser": "Der konservative US-Sender Fox News wird vom Skandal um Trumps Wahllüge erschüttert, das Verhältnis zum Ex-Präsidenten ist angespannt. Welche Macht hat der Sender noch?",
       "url": "https://www.zeit.de/kultur/2023-03/fox-news-donald-trump-usa-medien-macht",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/fox-news-donald-trump-usa-medien-macht-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/fox-news-donald-trump-usa-medien-macht-bild/wide__822x462",
+      "image_title": "Fox News: Kann der Sender noch Präsidenten machen?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lars Eidinger: Letztes Lamm auf der Schlachtbank",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/kultur/2023-03/lars-eidinger-schauspieler-theater-shakespeare-sein-oder-nicht-sein",
       "image_url": "https://img.zeit.de/kultur/film/2023-03/lars-eidinger-schauspieler-theater-shakespeare-sein-oder-nicht-sein-bild/wide__822x462",
       "image_title": "Lars Eidinger: Letztes Lamm auf der Schlachtbank"
-    },
-    {
-      "title": "Sicherheitspolitik: Immer muss der Sheriff ran",
-      "teaser": "Selbst in Berlin wird nach der CDU gerufen, wenn sich die Bürger nach Sicherheit und Ordnung sehnen. Warum wird Sicherheit nie als linkes Projekt begriffen?",
-      "url": "https://www.zeit.de/kultur/2023-03/sicherheitspolitik-staat-linke-cdu",
-      "image_url": "https://img.zeit.de/politik/2023-03/wochenende-12-politisch-motiviert-neu-berlin/wide__822x462",
-      "image_title": "Sicherheitspolitik: Immer muss der Sheriff ran"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Edward Berger: \"Den deutschen Filmern fehlt oft die Radikalität\"",
@@ -106,20 +106,20 @@
       "url": "https://www.zeit.de/kultur/film/2023-03/oscars-2023-verleihung-live"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lars Eidinger: Letztes Lamm auf der Schlachtbank",
-      "url": "https://www.zeit.de/kultur/2023-03/lars-eidinger-schauspieler-theater-shakespeare-sein-oder-nicht-sein"
-    },
-    {
-      "title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen",
-      "url": "https://www.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters-antisemitismus"
-    },
-    {
-      "title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen",
-      "url": "https://www.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters-antisemitismus"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Wuppertal: Das neue Berlin heißt Wuppertal",
       "url": "https://www.zeit.de/2023/10/wuppertal-berlin-trend-christian-boros"
+    },
+    {
+      "title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen",
+      "url": "https://www.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters-antisemitismus"
+    },
+    {
+      "title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen",
+      "url": "https://www.zeit.de/kultur/musik/2023-03/pink-floyd-roger-waters-antisemitismus"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Lars Eidinger: Letztes Lamm auf der Schlachtbank",
+      "url": "https://www.zeit.de/kultur/2023-03/lars-eidinger-schauspieler-theater-shakespeare-sein-oder-nicht-sein"
     },
     {
       "title": "Gary Lineker: Suspendierter BBC-Sportmoderator soll wieder auf Sendung",
@@ -142,12 +142,12 @@
       "url": "https://www.zeit.de/2023/11/marc-uwe-kling-kaenguru-comics-pause"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lars Eidinger: Letztes Lamm auf der Schlachtbank",
-      "url": "https://www.zeit.de/kultur/2023-03/lars-eidinger-schauspieler-theater-shakespeare-sein-oder-nicht-sein"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Wuppertal: Das neue Berlin heißt Wuppertal",
       "url": "https://www.zeit.de/2023/10/wuppertal-berlin-trend-christian-boros"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Lars Eidinger: Letztes Lamm auf der Schlachtbank",
+      "url": "https://www.zeit.de/kultur/2023-03/lars-eidinger-schauspieler-theater-shakespeare-sein-oder-nicht-sein"
     },
     {
       "title": "Oscarverleihung: Viele Oscars für \"Everything Everywhere\" und \"Im Westen nichts Neues\"",
@@ -183,18 +183,18 @@
       "image_title": "Wenn aus Eltern Ältern werden"
     },
     {
+      "title": "Sicherheitspolitik: Immer muss der Sheriff ran",
+      "teaser": "Selbst in Berlin wird nach der CDU gerufen, wenn sich die Bürger nach Sicherheit und Ordnung sehnen. Warum wird Sicherheit nie als linkes Projekt begriffen?",
+      "url": "https://www.zeit.de/kultur/2023-03/sicherheitspolitik-staat-linke-cdu",
+      "image_url": "https://img.zeit.de/politik/2023-03/wochenende-12-politisch-motiviert-neu-berlin/wide__822x462",
+      "image_title": "Sicherheitspolitik: Immer muss der Sheriff ran"
+    },
+    {
       "title": "US-amerikanischer Schauspieler: Lance Reddick ist tot",
       "teaser": "Als prinzipientreuer Polizeikommandant jagte er in der Serie \"The Wire\" Drogendealer – und wurde damit bekannt. Nun ist Lance Reddick im Alter von 60 Jahren gestorben.",
       "url": "https://www.zeit.de/kultur/film/2023-03/schauspieler-lance-reddick-tot",
       "image_url": "https://img.zeit.de/kultur/2023-03/lance-reddick-ist-tot/wide__822x462",
       "image_title": "US-amerikanischer Schauspieler: Lance Reddick ist tot"
-    },
-    {
-      "title": "Fernsehen: Deutsche Welle kündigt Einsparungen und Stellenabbau an",
-      "teaser": "Der Bundeszuschuss für die Deutsche Welle fällt in diesem Jahr geringer aus, der Sender zieht Konsequenzen. Unter anderem wird der deutsche TV-Kanal linear eingestellt.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/deutsche-welle-einsparungen-stellenabbau",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einsparungen-stellenabbau-deutsche-welle-bild/wide__822x462",
-      "image_title": "Fernsehen: Deutsche Welle kündigt Einsparungen und Stellenabbau an"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ron DeSantis: Huhu, Ronnie!",
@@ -211,6 +211,13 @@
       "image_title": "\"Insomnia\" von Trettmann: Sein Name ist Stefan"
     },
     {
+      "title": "Fernsehen: Deutsche Welle kündigt Einsparungen und Stellenabbau an",
+      "teaser": "Der Bundeszuschuss für die Deutsche Welle fällt in diesem Jahr geringer aus, der Sender zieht Konsequenzen. Unter anderem wird der deutsche TV-Kanal linear eingestellt.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/deutsche-welle-einsparungen-stellenabbau",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/einsparungen-stellenabbau-deutsche-welle-bild/wide__822x462",
+      "image_title": "Fernsehen: Deutsche Welle kündigt Einsparungen und Stellenabbau an"
+    },
+    {
       "title": "Schwangerschaftsabbruch: Mathilda weiß genau, was sie tut",
       "teaser": "Auch wer das Recht auf Schwangerschaftsabbruch bejaht, denkt hier oft an Reue, Verzweiflung, Not, Alternativlosigkeit. Dabei ist diese Wahl schwer, aber oft befreiend.",
       "url": "https://www.zeit.de/kultur/2023-03/schwangerschaftsabbruch-abtreibung-legalisierung-frauen-10nach8",
@@ -221,14 +228,14 @@
       "title": "\"Luftkrieg: Naturgeschichte der Zerstörung\": Das Ungeheuerliche zeigen",
       "teaser": "Der Dokufilm \"Luftkrieg\" prangert die Massenzerstörung im Krieg an. Es ist ein Meisterwerk, das Fragen aufwirft. Auch solche, die es womöglich nicht beabsichtigt hat.",
       "url": "https://www.zeit.de/kultur/film/2023-03/luftkrieg-naturgeschichte-der-zerstoerung-sergei-loznitsa-rezension",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/luftkrieg/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/luftkrieg/cinema__980x420",
       "image_title": "\"Luftkrieg: Naturgeschichte der Zerstörung\": Das Ungeheuerliche zeigen"
     },
     {
       "title": "Kroatische Schriftstellerin: Dubravka Ugrešić ist tot",
       "teaser": "In ihrem Werk setzte Ugrešić sich mit dem Zerfall Jugoslawiens und dem darauffolgenden Nationalismus auseinander. Nun ist die Autorin im Alter von 73 Jahren gestorben.",
       "url": "https://www.zeit.de/kultur/literatur/2023-03/schriftstellerin-dubravka-ugresic-tot",
-      "image_url": "https://img.zeit.de/kultur/2023-03/schriftstellerin-dubravka-ugresic-tot-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-03/schriftstellerin-dubravka-ugresic-tot-bild/wide__822x462",
       "image_title": "Kroatische Schriftstellerin: Dubravka Ugrešić ist tot"
     },
     {
@@ -242,14 +249,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Young Mungo\" von Douglas Stuart: Discokugeln und reifes Obst",
       "teaser": "Der Schotte Douglas Stuart hat mit seinem Debütroman \"Shuggie Bain\" den Booker Prize gewonnen. Stuarts Folgeroman \"Young Mungo\" verliert sich nun in schiefen Metaphern.",
       "url": "https://www.zeit.de/2023/12/young-mungo-douglas-stuart-homophobie-glasgow-jugend",
-      "image_url": "https://img.zeit.de/2023/12/young-mungo-douglas-stuart-homophobie-glasgow-jugend-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/12/young-mungo-douglas-stuart-homophobie-glasgow-jugend-teaserbild/cinema__980x420",
       "image_title": "\"Young Mungo\" von Douglas Stuart: Discokugeln und reifes Obst"
     },
     {
       "title": "Mitteldeutscher Rundfunk: Gericht verhängt Bewährungsstrafe gegen früheren MDR-Unterhaltungschef",
       "teaser": "Wegen Betrugs und Bestechlichkeit hat das Landgericht Leipzig den früheren Fernsehmanager Udo Foht schuldig gesprochen. Er hatte die Vorwürfe teilweise eingeräumt.",
       "url": "https://www.zeit.de/kultur/film/2023-03/mdr-unterhaltungschef-udo-foht-bewaehrung-betrug",
-      "image_url": "https://img.zeit.de/kultur/2023-03/mdr-unterhaltungschef-udo-foht-bewaehrung-betrug-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-03/mdr-unterhaltungschef-udo-foht-bewaehrung-betrug-bild/wide__822x462",
       "image_title": "Mitteldeutscher Rundfunk: Gericht verhängt Bewährungsstrafe gegen früheren MDR-Unterhaltungschef"
     },
     {
@@ -263,14 +270,14 @@
       "title": "Lützerath: Was bleibt von Lützi?",
       "teaser": "Selbst Robert Habeck nannte Lützerath ein \"falsches Symbol\", der Klimaprotest dort wurde insgesamt viel kritisiert. Wollen wir es wirklich bei dieser Deutung belassen?",
       "url": "https://www.zeit.de/kultur/2023-03/luetzerath-erfahrung-aktivisten-robert-habeck-10nach8",
-      "image_url": "https://img.zeit.de/kultur/2023-03/luetzerath-erfahrung-aktivisten-robert-habeck-10nach8-2/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-03/luetzerath-erfahrung-aktivisten-robert-habeck-10nach8-2/cinema__980x420",
       "image_title": "Lützerath: Was bleibt von Lützi?"
     },
     {
       "title": "\"Extrapolations\": Manchmal passieren sogar schöne Dinge",
       "teaser": "Die starbesetzte Apple-Serie \"Extrapolations\" erzählt von der Klimakatastrophe als besonders langwierigen und langweiligen Prozess. Sie macht es also genau richtig.",
       "url": "https://www.zeit.de/kultur/film/2023-03/extrapolations-scott-z-burns-serie-klimawandel",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/extrapolations-scott-z-burns-serie-klimawandel-bild1/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/extrapolations-scott-z-burns-serie-klimawandel-bild1/wide__822x462",
       "image_title": "\"Extrapolations\": Manchmal passieren sogar schöne Dinge"
     },
     {
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/2023/12/medienbranche-schweiz-verlage-ringier-das-magazin",
       "image_url": "https://img.zeit.de/2023/12/medienbranche-schweiz-verlage-ringier-das-magazin-bild/wide__822x462",
       "image_title": "Medienbranche in der Schweiz: Verhaltensauffällige Chefs"
-    },
-    {
-      "title": "\"Broker\" von Hirokazu Koreeda: Mit Kind und Kegel und Kredithai",
-      "teaser": "Verlassene und vergessene Kinder stehen im Fokus der Arbeiten von Hirokazu Koreeda. Dennoch ist auch sein neuer Film \"Broker\" mehr Krimi und Komödie als Sozialdrama.",
-      "url": "https://www.zeit.de/kultur/film/2023-03/broker-hirokazu-koreeda-film",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/broker-hirokazu-koreeda-film-teaser/wide__822x462",
-      "image_title": "\"Broker\" von Hirokazu Koreeda: Mit Kind und Kegel und Kredithai"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Echtzeitalter\" von Tonio Schachinger: Die Welt von gestern",
@@ -358,10 +358,17 @@
       "image_title": "Studienorientierung: Sprache und Kultur studieren"
     },
     {
+      "title": "\"Broker\" von Hirokazu Koreeda: Mit Kind und Kegel und Kredithai",
+      "teaser": "Verlassene und vergessene Kinder stehen im Fokus der Arbeiten von Hirokazu Koreeda. Dennoch ist auch sein neuer Film \"Broker\" mehr Krimi und Komödie als Sozialdrama.",
+      "url": "https://www.zeit.de/kultur/film/2023-03/broker-hirokazu-koreeda-film",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/broker-hirokazu-koreeda-film-teaser/cinema__980x420",
+      "image_title": "\"Broker\" von Hirokazu Koreeda: Mit Kind und Kegel und Kredithai"
+    },
+    {
       "title": "Kommissar Borowski: Schauspieler Axel Milberg steigt beim Kieler \"Tatort\" aus",
       "teaser": "Nach mehr als 20 Jahren will Axel Milberg die Rolle des \"Tatort\"-Ermittlers Klaus Borowski Ende 2025 aufgeben. Seine bisherige Partnerin soll in den Fokus rücken.",
       "url": "https://www.zeit.de/kultur/film/2023-03/axel-milberg-tatort-klaus-borowski",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/axel-milberg-tatort-klaus-borowski-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/axel-milberg-tatort-klaus-borowski-bild/wide__822x462",
       "image_title": "Kommissar Borowski: Schauspieler Axel Milberg steigt beim Kieler \"Tatort\" aus"
     },
     {
@@ -370,13 +377,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-03/ted-lasso-appletv",
       "image_url": "https://img.zeit.de/wochenende/2022/wochenende/2022-02/wochenende-streaming-ted-lasso-aufmacher/wide__822x462",
       "image_title": "\"Ted Lasso\": Breaking Good"
-    },
-    {
-      "title": "Brendan Fraser: Der Zurückgekehrte",
-      "teaser": "Brendan Fraser hat für seine Rolle in \"The Whale\" den Oscar als Bester Hauptdarsteller erhalten. Ist die Ehrung schlüssig? Auf jeden Fall, trotz mancher Kritik.",
-      "url": "https://www.zeit.de/kultur/film/2023-03/brendan-fraser-the-whale-oscar",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/brendan-fraser-gewinner-beste-maennliche/wide__822x462",
-      "image_title": "Brendan Fraser: Der Zurückgekehrte"
     },
     {
       "title": "Pink-Floyd-Mitgründer: Bundesweite Proteste könnten Tournee von Roger Waters stoppen",
