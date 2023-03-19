@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-19T15:11:33",
+  "timestamp": "2023-03-19T16:15:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Drupal",
+      "url": "https://www.heise.de/news/Drupal-Sicherheitsluecke-koennte-Angreifern-die-Systemuebernahme-ermoeglichen-7550599.html"
+    },
+    {
       "title": "Array Networks SSL-VPN",
       "url": "https://www.heise.de/news/Kritisches-Leck-in-SSL-VPN-Gateway-von-Array-Networks-7548009.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Zero-Day-Luecke-und-mehr-als-100-Schwachstellen-7546150.html"
     },
     {
-      "title": "Patchday: Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-dichtet-aktiv-angegriffene-Sicherheitsluecken-ab-7545903.html"
+      "title": "Drupal-Sicherheitslücke könnte Angreifern die Systemübernahme ermöglichen",
+      "teaser": "Die US-Cyber-Sicherheitsbehörde CISA warnt vor einer Sicherheitslücke im Content-Management-System Drupal. Angreifer könnten verwundbare Systeme kapern.",
+      "url": "https://www.heise.de/news/Drupal-Sicherheitsluecke-koennte-Angreifern-die-Systemuebernahme-ermoeglichen-7550599.html"
+    },
+    {
+      "title": "FBI verhaftet vermeintlichen Inhaber und Admin von Datenhehler-Untergrundforum",
+      "teaser": "Das FBI hat diese Woche den vermeintlichen Inhaber und Administrator eines der größten Datenhehler-Foren verhaftet. Das Forum ist noch immer online.",
+      "url": "https://www.heise.de/news/FBI-verhaftet-vermeintlichen-Inhaber-und-Admin-von-Datenhehler-Untergrundforum-7550581.html",
+      "image_title": "Hände in Handschellen"
     },
     {
       "title": "Tausende Nutzer könnten Geld mit Krypto-Trading-App verloren haben",
@@ -146,16 +157,6 @@
       "teaser": "Die IT-Sicherheitslage für Verbraucher wird schlechter, berichtet das BSI. Das Verbraucherschutzministerium hofft auf eine neue EU-Verordnung.",
       "url": "https://www.heise.de/news/BSI-fordert-bessere-IT-Sicherheit-fuer-Verbraucher-7545818.html",
       "image_title": "Schatten zeigt mehrere Hände, die nach einem offenen Laptop greifen"
-    },
-    {
-      "title": "Ransomware-Gang: Lockbit droht SpaceX mit Veröffentlichung tausender Baupläne",
-      "teaser": "Die Lockbit-Cybergang ist offenbar bei einem SpaceX-Partnerunternehmen eingebrochen und konnte dort Baupläne entwenden. Sie droht nun mit der Veröffentlichung.",
-      "url": "https://www.heise.de/news/SpaceX-Lockbit-Cybergang-will-tausende-Bauplaene-veroeffentlichen-7545456.html"
-    },
-    {
-      "title": "Webbrowser: Firefox 111 dichtet 13 Sicherheitslücken ab",
-      "teaser": "Der Firefox 111 und dessen ESR-Version 102.9 bessern teils hochriskante Schwachstellen aus. Ein Update ist auch ohne viele neue Funktionen ratsam.",
-      "url": "https://www.heise.de/news/Webbrowser-Firefox-111-dichtet-13-Sicherheitsluecken-ab-7545380.html"
     },
     {
       "title": "Analyse: Warum die russischen Cybertruppen in der Ukraine gescheitert sind",
