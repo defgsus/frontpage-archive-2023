@@ -1,10 +1,16 @@
 {
-  "timestamp": "2023-03-20T10:14:33",
+  "timestamp": "2023-03-20T11:11:00",
   "url": "https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.asadcdn.com/adlib/pages/bild.js",
@@ -68,9 +74,15 @@
   ],
   "articles": [
     {
+      "title": "Ausgewiesene Frauen-Stellplätze : Was droht Männern, die darauf parken?",
+      "url": "https://www.bild.de/auto/auto-news/auto-news/frauenparkplaetze-wann-darf-ein-mann-dort-parken-83265736.bild.html",
+      "image_url": "https://images.bild.de/64146a1871ecde586ffa87b7/b1161562a5523a0aec890bb0697d822c,c4896ce2?w=656",
+      "image_title": "Frauenparkplätze: Wann darf ein Mann dort parken?"
+    },
+    {
       "title": "Upgrade für den Autoführerschein : Motorradfahren ohne Prüfung? So geht’s!",
       "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/motorradfahren-ohne-pruefung-so-gehts-upgrade-fuer-den-autofuehrerschein-83162094.bild.html",
-      "image_url": "https://images.bild.de/640b2f43a541b16f57ca5d75/a02e0a42bad23880afc3b2abf0b0caff,ad80b4f8?w=656",
+      "image_url": "https://images.bild.de/640b2f43a541b16f57ca5d75/8eba7de3b003fd3f98429f8f36cef26f,75dd2e5b?w=320",
       "image_title": "Motorradfahren ohne Prüfung? So geht’s! Upgrade für den Autoführerschein"
     },
     {
@@ -80,10 +92,8 @@
       "image_title": "VW T6 Multivan gebraucht kaufen: Nur EIN Diesel ist richtig gut"
     },
     {
-      "title": "Unfreiwilliger Tesla-Tausch : Hersteller-App entriegelt FREMDES Auto",
-      "url": "https://www.bild.de/auto/auto-news/auto-news/tesla-model-3-hersteller-app-oeffnet-und-startet-ein-fremdes-auto-83238456.bild.html",
-      "image_url": "https://images.bild.de/6414435171ecde586ffa8761/d1fadd5e6b823a13805b0fd5070063e4,201b1e10?w=320",
-      "image_title": "Tesla Model 3: Hersteller-App entriegelt FREMDES Auto"
+      "title": "Unfreiwilliger Tesla-Tausch Hersteller-App entriegelt FREMDES Auto",
+      "url": "https://www.bild.de/auto/auto-news/auto-news/tesla-model-3-hersteller-app-oeffnet-und-startet-ein-fremdes-auto-83238456.bild.html"
     },
     {
       "title": "Millionen-Schau im Automuseum Der Sechszylinder-BMW aus Eisenach wird 90",
@@ -92,10 +102,6 @@
     {
       "title": "Umfrage-Hammer zur Mobilitätswende 67 Prozent gegen Verbrenner-Aus ab 2035",
       "url": "https://www.bild.de/auto/auto-news/auto-news/verbrenner-aus-ab-2035-mehrheit-gegen-eu-plaene-zu-benziner-und-diesel-83236616.bild.html"
-    },
-    {
-      "title": "Ankaufsportale im Test Wo gibt’s am meisten Kohle für den Gebrauchten?",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/gebrauchtwagen-verkaufen-welches-online-portal-bringt-den-besten-preis-83229970.bild.html"
     },
     {
       "title": "Taycan-Akku nach dem Dauertest : Wie fit ist der E-Porsche?",
@@ -123,7 +129,13 @@
       "image_title": "„Gebt Gummi, Girls!“, Folge 1: Playmate Jndia (28) ist die schnellste Frau Europas"
     },
     {
-      "title": "Audi-Bosse im Doppel-Interview : Neue Verbrenner, neues Elektro-Einstiegsmodell",
+      "title": "Auto-Ankaufsportale im PraxisTest : Wo gibt’s am meisten Kohle für den Gebrauchten?",
+      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/gebrauchtwagen-verkaufen-welches-online-portal-bringt-den-besten-preis-83229970.bild.html",
+      "image_title": "Gebrauchtwagen verkaufen: Welches Online-Portal bringt den besten Preis?"
+    },
+    {
+      "title": "Audi-Bosse im Doppel-Interview : Neues E-Einstiegsmodell, neue Verbrenner",
+      "teaser": "AUTO BILD-Chef Robin Hornig trifft die Audi-Bosse:",
       "url": "https://www.bild.de/auto/auto-news/auto-news/audi-ceo-und-cto-im-interview-die-besten-verbrenner-kommen-noch-83230848.bild.html",
       "image_title": "Audi-CEO und CTO im Interview: „Die besten Verbrenner kommen noch!“"
     },
@@ -144,12 +156,6 @@
       "teaser": "Der TÜV liefert die erste Auswertung für vier beliebte Elektro-Modelle.",
       "url": "https://www.bild.de/auto/auto-news/auto-news/elektroautos-beim-tuev-tesla-model-3-mit-extremer-durchfallquote-83052420.bild.html",
       "image_title": "Elektroautos beim TÜV: Tesla Model 3 mit extremer Durchfallquote"
-    },
-    {
-      "title": "Krasser Preisanstieg bei allen Autos : VW Golf jetzt 366 Prozent teurer als vor 40 Jahren",
-      "teaser": "BILD zeigt am VW Golf, wie krass die Pkw-Preise seit Jahrzehnten nach oben schießen.",
-      "url": "https://www.bild.de/bild-plus/auto/auto-news/auto-news/krasser-preisanstieg-bei-allen-autos-vw-golf-jetzt-366-prozent-teurer-als-vor-40-83042654.bild.html",
-      "image_title": "Krasser Preisanstieg bei allen Autos: VW Golf jetzt 366 Prozent teurer als vor 40 Jahren"
     },
     {
       "title": "Land Rover Defender : Beinhart oder weichgespült?",
