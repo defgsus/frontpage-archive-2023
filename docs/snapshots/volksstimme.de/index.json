@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-21T15:10:09",
+  "timestamp": "2023-03-21T16:12:58",
   "url": "https://www.volksstimme.de/",
   "response": {
     "status": 200
@@ -38,6 +38,12 @@
   ],
   "articles": [
     {
+      "title": "Grausiger Fund in Burg: Toter Wolf am Stadtrand entdeckt",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/907bee3d-8369-4729-88a3-bfa84be74bbe.jpeg?rect=0%2C114%2C1215%2C683&width=100",
+      "image_title": "Dieser tote Jungwolf wurde am Burger Stadtrand aufgefunden.",
+      "topic": "Untersuchungen laufen"
+    },
+    {
       "title": "Polizei-Großaufgebot in Magdeburg: Was es mit dem Einsatz auf sich hat",
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/9b4b1fd2-c121-436c-bab3-b86e60cab8c7.jpeg?rect=128%2C0%2C768%2C768&width=100",
       "image_title": "Im Magdeburger Stadtteil Neustädter Feld ereignete sich ein Polizeieinsatz.",
@@ -50,12 +56,6 @@
       "topic": "Jerichower Land"
     },
     {
-      "title": "Video: Frau wird in Halle von Straßenbahn angefahren und schwer verletzt",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/6cca8af3-4c6d-4ceb-aacd-f90877376e1e.jpeg?rect=0%2C0%2C1600%2C900&width=100",
-      "image_title": "Eine Frau ist bei einem Zusammenstoß mit der Straßenbahn in Halle schwer verletzt worden.",
-      "topic": "Fußgängerin ins Krankenhaus gebracht"
-    },
-    {
       "title": "Zeitbombe Gorleben: Castoren mit Atommüll müssen Jahrzehnte länger halten",
       "url": "https://www.volksstimme.de/lokal/salzwedel/atomkraft-kein-endlager-in-gorleben-atommuell-radioaktivitaet-castoren-muessen-laenger-halten-3571149",
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/20/ce67b6b8-d51a-4c79-8136-7549f397c351.jpeg?rect=0%2C571%2C2190%2C628&width=100",
@@ -64,7 +64,7 @@
     },
     {
       "title": "Großes Medieninteresse an Besuch von Vizekanzler Robert Habeck in Wolmirstedt",
-      "url": "https://www.volksstimme.de/lokal/wolmirstedt/grosses-medieninteresse-an-besuch-von-vizekanzler-robert-habeck-in-wolmirstedt-3571582",
+      "url": "https://www.volksstimme.de/lokal/wolmirstedt/robert-habeck-in-wolmirstedt-vizekanzler-besucht-spatenstich-auf-baustelle-in-sachsen-anhalt-3571582",
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/c3c5fa14-83cd-493b-99af-9678e563917e.jpeg?rect=0%2C373%2C3936%2C1865&width=100",
       "image_title": "Vizekanzler Robert Habeck war am 21. März 2023 in Wolmirstedt. Dort nahm er am Spatenstich für einen Konverter-Neubau des Südost-Links teil.",
       "topic": "Spatenstich auf Baustelle"
@@ -82,6 +82,13 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/20/f49d6b1f-27dd-4083-8f3c-11ff62cda2e9.jpeg?rect=667%2C0%2C2667%2C2667&width=100",
       "image_title": "Sobald die Störung behoben ist, werden wir darüber informieren.",
       "topic": "Ausfall"
+    },
+    {
+      "title": "Video: Frau wird in Halle von Straßenbahn angefahren und schwer verletzt",
+      "url": "https://www.volksstimme.de/video/halle-frau-strassenbahn-angefahren-und-schwer-verletzt-video-3571423",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/6cca8af3-4c6d-4ceb-aacd-f90877376e1e.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Eine Frau ist bei einem Zusammenstoß mit der Straßenbahn in Halle schwer verletzt worden.",
+      "topic": "Fußgängerin ins Krankenhaus gebracht"
     },
     {
       "title": "Video: Investition und Umbau in Bernburg - Wie ein nachhaltiger Betriebshof entsteht",
@@ -110,13 +117,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/16/f05061ad-e1f7-4bd3-b188-a42d422e5786.png?rect=0%2C0%2C1500%2C844&width=100",
       "image_title": "Das Museum Petersberg zeigt bis zum 10. April die Sonderausstellung \"Eier der Welt - Welt der Eier\".",
       "topic": "Ostern"
-    },
-    {
-      "title": "Video: Warum es in Sachsen-Anhalt einen Ansturm auf Lagerboxen gibt",
-      "url": "https://www.volksstimme.de/video/self-storage-lagerboxen-zum-mieten-in-sachsen-anhalt-was-steckt-dahinter-3567193",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/15/f0a3d081-8849-4b72-9fb9-7126b93baf00.jpeg?rect=7%2C0%2C784%2C441&width=100",
-      "image_title": "Die Reste aus dem Leben in Hamburg: Klaus Lienig holt aus einer Selbstlagerbox die Dinge ab, die in Halle zunächst keinen Platz hatten.",
-      "topic": "Hallen voller Hausrat"
     },
     {
       "title": "Hat die CDU in Salzwedel keine Lust auf Politik?",
@@ -175,18 +175,46 @@
       "topic": "DDR-Plattenbauviertel"
     },
     {
+      "title": "In Genthin wird ein Drogeriemarkt neu gebaut",
+      "url": "https://www.volksstimme.de/lokal/genthin/in-genthin-wird-ein-drogeriemarkt-neu-gebaut-3571814",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/98761f48-32d5-452a-bdee-139128e114c5.jpeg?rect=4%2C377%2C3996%2C2213&width=100",
+      "image_title": "An der Genthiner Schollstraße gibt es Vorbereitungen für einen Neubau eines Drogieriemarktes.",
+      "topic": "Geschwister-Scholl-Straße"
+    },
+    {
+      "title": "Strohlaster kippt in Etgersleben um",
+      "url": "https://www.volksstimme.de/lokal/stassfurt/strohlaster-kippt-in-etgersleben-um-3571854",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/aa2fc67f-30cb-48f7-bf02-9a8cfd3af52e.jpeg?rect=0%2C109%2C1600%2C542&width=100",
+      "image_title": "Schwer verletzte wurde der Fahrer eines mit Stroh belandenen Lastwagens.",
+      "topic": "Verkehrsunfall"
+    },
+    {
+      "title": "Ermittlungen zu Bluttat in Genthin laufen noch",
+      "url": "https://www.volksstimme.de/lokal/genthin/ermittlungen-zu-bluttat-in-genthin-laufen-noch-3571808",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/b12ccd09-34f1-4950-91fa-427ab3ed392c.jpeg?rect=0%2C0%2C2748%2C1768&width=100",
+      "image_title": "Die Polizei ermittelt noch zum Fall der Getöteten 39-Jährigen vom 19. Januar.",
+      "topic": "39-Jährige erschossen"
+    },
+    {
+      "title": "Beschwerden über Chaos auf dem Friedhof Benneckenstein",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/beschwerden-uber-chaos-auf-dem-friedhof-benneckenstein-3571798",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/d1a98cd4-8410-4e4f-98c3-230ebc527b0a.jpeg?rect=104%2C88%2C520%2C562&width=100",
+      "image_title": "Auf der grünen Wiese auf Benneckensteins Friedhof soll bald wieder Ordnung herrschen.",
+      "topic": "Ordnung"
+    },
+    {
+      "title": "Hasselfelde: Zu wenig Autos, um Fußgängerweg zu rechtfertigen?",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/hasselfelde-zu-wenig-autos-um-fussgangerweg-zu-rechtfertigen-3571797",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/04a5c7aa-fabd-41ff-9a17-05eb51af20ca.jpeg?rect=0%2C220%2C2192%2C1103&width=100",
+      "image_title": "An der Blankenburger Straße in Hasselfelde soll kein Fußgängerüberweg errichtet werden, wie Anwohner es sich wünschen. Lediglich eine durchgezogene Linie will die Straßenverkehrsbehörde des Kreises zugestehen.",
+      "topic": "Straßenverkehr"
+    },
+    {
       "title": "Bekommt Genthin eine neue Grundschule mit bibeltreuem Unterricht?",
       "url": "https://www.volksstimme.de/lokal/genthin/bekommt-genthin-eine-neue-grundschule-mit-bibeltreuem-unterricht-3571791",
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/e06d45c9-79ba-4b64-bb85-36580bf5edab.jpeg?rect=0%2C0%2C3286%2C1990&width=100",
       "image_title": "In dieses Gebäude in der Brandenburger Straße, das einst das Amtsgericht beherbergte, soll die neue Freie Christliche Grundschule einziehen.",
       "topic": "Schule"
-    },
-    {
-      "title": "Grausiger Fund in Burg: Toter Wolf am Stadtrand entdeckt",
-      "url": "https://www.volksstimme.de/lokal/burg/grausiger-fund-in-burg-toter-wolf-am-stadtrand-entdeckt-3571790",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/907bee3d-8369-4729-88a3-bfa84be74bbe.jpeg?rect=15%2C97%2C1188%2C724&width=100",
-      "image_title": "Dieser Jungwolf wurde am Burger Stadtrand aufgefunden.",
-      "topic": "Untersuchungen laufen"
     },
     {
       "title": "Fahrer zu schnell losgefahren? Rentner stürzt im Bus der HVB",
@@ -215,34 +243,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/20/45a67ecc-c852-4316-bbed-e3075c99c3d9.jpeg?rect=0%2C46%2C1076%2C652&width=100",
       "image_title": "Mehr als 40 Händler werden zum Frühlingsmarkt am 4. April in der Innenstadt erwartet.",
       "topic": "Wochenmarkt"
-    },
-    {
-      "title": "Vereine bringen historische Orte in Tangerhütte auf Vordermann",
-      "url": "https://www.volksstimme.de/lokal/tangerhuette/vereine-bringen-historische-orte-in-tangerhutte-auf-vordermann-3571673",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/2ba475d6-6be6-440a-9a1b-6e307a5fae52.jpeg?rect=2%2C442%2C1496%2C920&width=100",
-      "image_title": "Arbeitseinsatz an den historischen Industriehallen.",
-      "topic": "Frühjahrsputz"
-    },
-    {
-      "title": "DDR-Vergangenheit: Zweiter Motion Comic für Jugendliche hat in Marienborn Premiere",
-      "url": "https://www.volksstimme.de/lokal/oschersleben/ddr-vergangenheit-zweiter-motion-comic-fur-jugendliche-hat-in-marienborn-premiere-3571704",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/53f956c2-7b2f-4a8b-b543-f19c747f2b97.jpeg?rect=244%2C3%2C1997%2C1257&width=100",
-      "image_title": "Szene aus dem neuen Motion Comic „Die Dichte der Freiheit“.",
-      "topic": "Gedenkstätte Deutsche Teilung"
-    },
-    {
-      "title": "Kandidatin aus Oschersleben fliegt aus TV-Show",
-      "url": "https://www.volksstimme.de/lokal/oschersleben/99-eine-r-schlaegt-sie-alle-sat-1-kandidatin-aus-oschersleben-fliegt-aus-tv-show-3571491",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/78f7576b-df37-46c0-b8f1-465db0280919.jpeg?rect=0%2C0%2C1634%2C1057&width=100",
-      "image_title": "Cinzia Cara aus Oschersleben hat an einer Sat.1-Show teilgenommen. Nach über 60 Spielrunden war für die 27-Jährige allerdings Schluss.",
-      "topic": "99 - Eine:r schlägt sie alle"
-    },
-    {
-      "title": "Oschersleberin kämpft in Sat.1-Show um 99.000 Euro",
-      "url": "https://www.volksstimme.de/lokal/oschersleben/99-eine-r-schlaegt-sie-alle-taetowiererin-aus-oschersleben-kaempft-bei-sat-1-show-um-tv-sieg-3555241",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/02/26/98e71ded-af42-4e9e-876e-5a21ec13710d.jpeg?rect=0%2C50%2C2275%2C1280&width=100",
-      "image_title": "Cinzia Cara aus Oschersleben betreibt ihr eigenes Tattoo-Studio in der Stadt. Schon seit einiger Zeit hatte die 27-Jährige den Wunsch, im Fernsehen aufzutreten.",
-      "topic": "„99 - Eine:r schlägt sie alle“"
     },
     {
       "title": "Ostern in Sachsen-Anhalt - Wo finden 2023 Osterfeuer statt?",
@@ -295,9 +295,9 @@
       "topic": "Bahnhof"
     },
     {
-      "title": "Florapark Magdeburg darf Einkaufsflächen nicht mehr erweitern",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/florapark-magdeburg-einkaufszentrum-darf-einkaufsflaeche-nicht-mehr-erweitern-3570500",
-      "topic": "Einzelhandel"
+      "title": "Polizei-Großaufgebot in Magdeburg: Was es mit dem Einsatz auf sich hat",
+      "url": "https://www.volksstimme.de/blaulicht/magdeburg/magdebrg-polizeieinsatz-neustaedter-feld-polizei-grossaufgebot-was-ist-passiert-3571678",
+      "topic": "Neustädter Feld"
     },
     {
       "title": "Junge Frau aus Klötze seit zwei Wochen vermisst: Polizei sucht sie in mehreren Bundesländern",
@@ -340,6 +340,13 @@
       "topic": "Polizei"
     },
     {
+      "title": "Dreieinhalb Jahre Haft nach tödlicher Attacke auf Hertha-Fan",
+      "url": "https://www.volksstimme.de/sport/fussball/dreieinhalb-jahre-haft-nach-todlicher-attacke-auf-hertha-fan-3571828",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/58a0462d-38ee-48c8-827f-6f720e146b42.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Mann aus Rostock wurde wegen Körperverletzung mit Todesfolge vom Berliner Landgericht verurteilt.",
+      "topic": "Bundesliga"
+    },
+    {
       "title": "U21-Profi Osterhage über Abend mit A-Team: „Schöne Geste“",
       "url": "https://www.volksstimme.de/sport/fussball/u21-profi-osterhage-uber-abend-mit-a-team-schone-geste-3571756",
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/b5728e55-0e71-4296-b69d-b1d0d881ed2e.jpeg?rect=0%2C95%2C2048%2C1152&width=100",
@@ -368,81 +375,84 @@
       "topic": "Handball-Ikone"
     },
     {
-      "title": "Heim-EM: Can und Ginter hoffen auf Sommermärchen 2024",
-      "url": "https://www.volksstimme.de/sport/fussball/heim-em-can-und-ginter-hoffen-auf-sommermarchen-2024-3571698",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/e4f3c4f2-a5e3-40b7-a61c-925bf12e08fc.jpeg?rect=0%2C147%2C2048%2C1152&width=100",
-      "image_title": "Erlebten die WM 2006 als Kinder mit: Matthias Ginter (l) und Emre Can (r).",
-      "topic": "Nationalmannschaft"
+      "title": "Viel Kritik an Heizungsaustausch - Habeck kompromissbereit",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/viel-kritik-an-heizungsaustausch-habeck-kompromissbereit-3571639",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/66ccc3a2-5dc0-41eb-86d0-c69d9ff9989e.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Mitarbeiter einer Sanitär- und Heizungsbaufirma installiert eine moderne Gasbrennwerttherme in einem Einfamilienhaus.",
+      "topic": "Klimakrise"
     },
     {
-      "title": "Neuwahl in Thailand: Ministerpräsident löst Parlament auf",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/neuwahl-in-thailand-ministerprasident-lost-parlament-auf-3571302",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/535b2914-f799-4f4a-8cb9-4f2e21e47a5d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Thailands Premierminister Prayuth Chan-o-cha hofft auf eine weitere Amtszeit.",
-      "topic": "Südostasien"
+      "title": "Ein Jahr Tesla-Werk in Deutschland",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/ein-jahr-tesla-werk-in-deutschland-3571373",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/3226927d-05bc-4b7d-a140-f253ded4dbad.jpeg?rect=0%2C179%2C2048%2C1152&width=100",
+      "image_title": "Karosserieteile aus Aluminium für das Elektrofahrzeug vom Typ Model Y.",
+      "topic": "Gigafactory"
     },
     {
-      "title": "Tausende Ärzte demonstrieren für mehr Geld",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/tausende-arzte-demonstrieren-fur-mehr-geld-3571757",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/ec053d65-5f0e-402d-89ee-0fb37be4b2a0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "„Come in and burnout“: Teilnehmerinnen und Teilnehmer des Warnstreiks in Hamburg.",
-      "topic": "Tarifstreit"
+      "title": "Ford zeigt erstes Pkw-E-Modell für Europa",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/ford-zeigt-erstes-pkw-e-modell-fur-europa-3571845",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/c7d7a313-bd2a-4e4b-a72f-17003b4359c7.jpeg?rect=0%2C89%2C2048%2C1152&width=100",
+      "image_title": "Die Ford-Werke GmbH stellt im Werk den neuen vollelektrischen Explorer vor, mit dem der Autobauer die Käufer in Europa begeistern will.",
+      "topic": "Elektromobilität"
     },
     {
-      "title": "Lindner lässt Baupläne für Finanzministerium überarbeiten",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/lindner-lasst-bauplane-fur-finanzministerium-uberarbeiten-3571243",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/b242a5a6-2aae-4a34-99f7-c247490efb81.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
-      "image_title": "Bundesfinanzminister Christian Lindner lässt prüfen: Wohnraum statt Erweiterungsbau?",
-      "topic": "Haushalt"
+      "title": "„So etwas wie euer Häuptling“",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/so-etwas-wie-euer-hauptling-3571820",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/c4f710f5-51cf-4d17-a28e-e0faaabb9e92.jpeg?rect=64%2C24%2C518%2C359&width=100",
+      "image_title": "<source>Britta Pedersen/dpa<sha1>q66rDd4-Dga88c2YoadnTf8bDh5</sha1>",
+      "topic": "Zur Person Robert Habeck"
     },
     {
-      "title": "Börsenanleger verdrängen weiter die Bankensorgen",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/borsenanleger-verdrangen-weiter-die-bankensorgen-3571426",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/0218a740-6831-4f92-a377-53db03dae644.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Der Dax ist der wichtigste Aktienindex in Deutschland.",
-      "topic": "Börse in Frankfurt"
+      "title": "Palmer protestiert bei Scholz wegen Migration",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/palmer-protestiert-bei-scholz-wegen-migration-3571819",
+      "topic": "Migration"
     },
     {
-      "title": "Ukraine-Krieg: So ist die Lage",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/ukraine-krieg-so-ist-die-lage-3571345",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/16d9bc0b-adc4-4d0c-b9d8-ef4f5b8c5430.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Ein ukrainischer Polizist geht in Awdijiwka vor einem brennenden Gebäude in Deckung.",
-      "topic": "Russische Invasion"
+      "title": "Line-up für „Hurricane“-Festival fast komplett",
+      "url": "https://www.volksstimme.de/panorama/line-up-fur-hurricane-festival-fast-komplett-3571865",
+      "topic": "Musik"
     },
     {
-      "title": "Habeck warnt vor „Kulturkampf“ beim Klimaschutz und Heizen",
-      "url": "https://www.volksstimme.de/panorama/habeck-warnt-vor-kulturkampf-beim-klimaschutz-und-heizen-3571782",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/3bde4137-9d91-44ca-ac03-4e495c8b96be.jpeg?rect=0%2C99%2C2048%2C1152&width=100",
-      "image_title": "Robert Habeck (Bündnis 90/Die Grünen), Bundesminister für Wirtschaft und Klimaschutz, gibt ein Statement ab.",
-      "topic": "Energie"
+      "title": "Unfall mit Fahrerflucht: Fahrradfahrerin leicht verletzt",
+      "url": "https://www.volksstimme.de/panorama/unfall-mit-fahrerflucht-fahrradfahrerin-leicht-verletzt-3571863",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/83eafe95-a611-45e5-bbbd-47cad0810934.jpeg?rect=0%2C93%2C2048%2C1152&width=100",
+      "image_title": "Radfahrer fahren auf einem Radweg.",
+      "topic": "Landkreis Oberhavel"
     },
     {
-      "title": "Über 220 neue Ladepunkte für E-Autos in Berlin verfügbar",
-      "url": "https://www.volksstimme.de/panorama/uber-220-neue-ladepunkte-fur-e-autos-in-berlin-verfugbar-3571778",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/17675cbc-2a6e-4828-8f2b-d352ddcf1ad2.jpeg?rect=0%2C69%2C2048%2C1152&width=100",
-      "image_title": "Ein Symbol markiert einen Parkplatz an einer Ladesäule für Elektroautos.",
-      "topic": "Elektroautos"
+      "title": "Umweltminister will mehr Wind- und Solarenergie",
+      "url": "https://www.volksstimme.de/panorama/umweltminister-will-mehr-wind-und-solarenergie-3571746",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/d10670b8-9ebb-436d-83e7-19ea8ba10947.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bernhard Stengele (Bündnis 90/Die Grünen), Umweltminister in Thüringen, spricht.",
+      "topic": "Klima"
     },
     {
-      "title": "Bremer ziehen wegen Gehwegparken vor Bundesgericht",
-      "url": "https://www.volksstimme.de/panorama/bremer-ziehen-wegen-gehwegparken-vor-bundesgericht-3571501",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/50ed3df7-f5b3-4b23-bd5a-86b26caf9304.jpeg?rect=0%2C76%2C2048%2C1152&width=100",
-      "image_title": "In einer Straße parken Autos auf dem Gehweg.",
-      "topic": "Verkehr"
+      "title": "Kylie Minogue hat ihre Hotpants im Museum besucht",
+      "url": "https://www.volksstimme.de/panorama/stars/kylie-minogue-hat-ihre-hotpants-im-museum-besucht-3571862",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/b9d1667e-b2fa-43ff-bdd9-f9743ede20b6.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Kylie Minogue war im Museum.",
+      "topic": "Popstar"
     },
     {
-      "title": "Erneut Bombenentschärfung an Friedenthaler Schleuse",
-      "url": "https://www.volksstimme.de/panorama/erneut-bombenentscharfung-an-friedenthaler-schleuse-3571773",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/3adf6528-c106-461f-9c64-962e3ceb8ea5.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Ein Blaulicht leuchtet auf dem Dach eines Polizeiwagens.",
-      "topic": "Polizeieinsatz"
+      "title": "Ei der Daus: Eierlikörhersteller streiten vor Gericht",
+      "url": "https://www.volksstimme.de/panorama/ei-der-daus-eierlikorhersteller-streiten-vor-gericht-3571868",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/57509a19-5f44-45d8-b3f2-72980016ccef.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Eine Figur der blinden Justitia.",
+      "topic": "Kurioses"
     },
     {
-      "title": "Schneider verärgert über Kritik am Intel-Standort",
-      "url": "https://www.volksstimme.de/panorama/schneider-verargert-uber-kritik-am-intel-standort-3571772",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/868be5af-5f4f-4a06-ab18-4a3c6306d8fa.jpeg?rect=0%2C19%2C2048%2C1152&width=100",
-      "image_title": "Carsten Schneider (SPD), Staatsminister und Beauftragter der Bundesregierung für Ostdeutschland, sitzt am Steuer eines ID.5.",
-      "topic": "Ostbeauftragter"
+      "title": "Vor 60 Jahren erschien das erste Beatles-Album",
+      "url": "https://www.volksstimme.de/kultur/musik/vor-60-jahren-erschien-das-erste-beatles-album-3571857",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/8621e8e3-31a0-4f43-83ad-22b626245862.jpeg?rect=0%2C448%2C2048%2C1152&width=100",
+      "image_title": "Das Plattencover von „Please Please Me“ von den Beatles.",
+      "topic": "Popgeschichte"
+    },
+    {
+      "title": "Die beobachtete Beobachterin",
+      "url": "https://www.volksstimme.de/kultur/die-beobachtete-beobachterin-3571822",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/92042d68-9ce8-485b-b439-c466844d9e2b.jpeg?rect=199%2C185%2C982%2C841&width=100",
+      "image_title": "Isabelle Huppert – hier eine Aufnahme aus dem Jahr 2017 – gehört zu den Ikonen des französischen Films.",
+      "topic": "Isabelle Huppert"
     },
     {
       "title": "Dave Gahan von Depeche Mode über Leben und Tod",
@@ -466,18 +476,18 @@
       "topic": "Neuerscheinungen"
     },
     {
-      "title": "Grimme-Preise für Böhmermann und das Sandmännchen",
-      "url": "https://www.volksstimme.de/kultur/grimme-preise-fur-bohmermann-und-das-sandmannchen-3571503",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/43c76cc8-69a2-49b5-8ffe-3577df8f9240.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Der Satiriker Jan Böhmermann wird erneut mit dem Grimme-Preis ausgezeichnet.",
-      "topic": "Fernsehen"
+      "title": "Bekommen jetzt viel mehr Diesel-Fahrer Schadenersatz?",
+      "url": "https://www.volksstimme.de/leben/auto/bekommen-jetzt-viel-mehr-diesel-fahrer-schadenersatz-3571466",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/91f8d2d0-3a18-40ce-8aa8-9efb4d21dcbc.jpeg?rect=0%2C100%2C2048%2C1152&width=100",
+      "image_title": "Abgase kommen aus dem Auspuff eines Autos.",
+      "topic": "Abgastechnik"
     },
     {
-      "title": "Bei Probe verletzt: Helene Fischer verschiebt ihren Tourstart",
-      "url": "https://www.volksstimme.de/kultur/musik/helene-fischer-schlager-rippenfraktur-start-rausch-tour-konzerte-fallen-aus-3571442",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/d0d80bca-0640-45d0-aa18-c23089b1c755.jpeg?rect=433%2C0%2C1670%2C1670&width=100",
-      "image_title": "Helene Fischer hat sich bei Proben eine Rippenfraktur zugezogen.",
-      "topic": "Rippenfraktur"
+      "title": "Google öffnet KI-Textroboter Bard für die Öffentlichkeit",
+      "url": "https://www.volksstimme.de/leben/google-offnet-ki-textroboter-bard-fur-die-offentlichkeit-3571807",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/4874a03c-d47a-4851-b368-aa83e0020e91.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Google ist bei der ersten Präsentation seines Chat-Bots Bard ein peinlicher Fehler unterlaufen.",
+      "topic": "In England und den USA"
     },
     {
       "title": "Tiktok erweitert Inhalte-Regeln vor US-Anhörung",
@@ -499,20 +509,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/e746221b-7b2d-49fc-8fdf-fa367e9f325b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
       "image_title": "Ein Schriftzug mit dem Logo von Google klebt im Pressezentrum der Koelnmesse auf einer Glasscheibe.",
       "topic": "Künstliche Intelligenz"
-    },
-    {
-      "title": "Boliviens Naturwunder: Weiße Wüsten und rote Lagunen",
-      "url": "https://www.volksstimme.de/leben/boliviens-naturwunder-weisse-wusten-und-rote-lagunen-3555380",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/a9d1bba9-23bf-4058-b157-1d315ddce278.jpeg?rect=0%2C124%2C2048%2C1152&width=100",
-      "image_title": "Das Salzhotel Playa Blanca liegt mitten in der Salar de Uyuni. Eine Stele erinnert daran, dass hier auch mal die Rallye Dakar Station machte.",
-      "topic": "Salz so weit das Auge reicht"
-    },
-    {
-      "title": "Mehr Kinder betroffen: Das sind Anzeichen für Scharlach",
-      "url": "https://www.volksstimme.de/leben/gesundheit/mehr-kinder-betroffen-das-sind-anzeichen-fur-scharlach-3571602",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/03/21/484eac06-7562-4b88-b955-87863e56963c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Immer mehr Kinder erkranken an Scharlach: Bei den typischen Symptomen sollte man direkt den Arzt aufsuchen.",
-      "topic": "Infekt"
     }
   ]
 }
