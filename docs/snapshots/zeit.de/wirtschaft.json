@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-21T16:13:19",
+  "timestamp": "2023-03-21T17:11:03",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
+      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
+      "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/cinema__980x420"
+    },
+    {
       "title": "Kritik aus der Wirtschaft: Unternehmen fordern schnelle Klarheit beim Verbrenner-Aus",
       "teaser": "Mehrere Firmen haben die Blockade des Verbrenner-Aus auf EU-Ebene kritisiert. Die Wirtschaft brauche Sicherheit. Die Bundesregierung erwartet eine Lösung bis Donnerstag.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/verbrenner-blockade-volvo-ford-vattenfall-eu-bundesregierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/blockade-verbrenner-aus-einigung-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/blockade-verbrenner-aus-einigung-bild/wide__822x462",
+      "image_title": "Kritik aus der Wirtschaft: Unternehmen fordern schnelle Klarheit beim Verbrenner-Aus"
     },
     {
       "title": "Vier Thesen zur Bankenkrise: Angst, Zeitbomben und die Gefahr der Größe",
@@ -66,14 +73,14 @@
       "title": "Statistisches Bundesamt: Deutschland produziert weniger Uhren",
       "teaser": "Knapp halb so viele Armband- und Kuckucksuhren wie noch 2011 hat Deutschland im Jahr 2021 produziert. Nur Wanduhren waren noch beliebter als in den letzten Jahren.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/uhren-produktion-deutschland-wanduhren-armbanduhren-kuckucksuhren",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutschland-wanduhren-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutschland-wanduhren-bild/cinema__980x420",
       "image_title": "Statistisches Bundesamt: Deutschland produziert weniger Uhren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Bildungschancen: Die Mittelschicht will gar keine Bildungsgerechtigkeit",
       "teaser": "Mehr Geld soll in das Bildungssystem fließen, wieder einmal. Doch Kinder aus prekären Verhältnissen werden erst aufsteigen, wenn die bürgerliche Mitte sie lässt.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/bildungschancen-soziale-herkunft-ungleichheit-mittelschicht",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/bildungschancen-bildungsgerechtigkeit/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/bildungschancen-bildungsgerechtigkeit/wide__822x462",
       "image_title": "Bildungschancen: Die Mittelschicht will gar keine Bildungsgerechtigkeit"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/vw-werk-usa-subventionen-zuschuss-south-carolina",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/vw-werk-usa-subventionen-zuschuss-south-carolina-bild/wide__822x462",
       "image_title": "Volkswagen: VW erhält knapp 1,3 Milliarden Dollar als Anreiz für Werk in den USA"
-    },
-    {
-      "title": "Wohnungsnot: Städte- und Gemeindebund rät zum Umzug aufs Land",
-      "teaser": "Das Leben in der Stadt ist zu teuer? Der Städte- und Gemeindebund empfiehlt, aufs Land zu ziehen. Dort stünden \"über 1,3 Millionen marktfähige Wohnungen\" leer.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/wohnungsnot-land-wohnungen-umzug-staedte-gemeindebund",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/wohnungsnot-land-wohnungen-umzug-staedte-gemeindebund-foto/wide__822x462",
-      "image_title": "Wohnungsnot: Städte- und Gemeindebund rät zum Umzug aufs Land"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strompreis: Warum Sie Ihre nächste Stromrechnung an Markus Söder schicken sollten",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Wohnungsnot: Städte- und Gemeindebund rät zum Umzug aufs Land",
+      "teaser": "Das Leben in der Stadt ist zu teuer? Der Städte- und Gemeindebund empfiehlt, aufs Land zu ziehen. Dort stünden \"über 1,3 Millionen marktfähige Wohnungen\" leer.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/wohnungsnot-land-wohnungen-umzug-staedte-gemeindebund",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/wohnungsnot-land-wohnungen-umzug-staedte-gemeindebund-foto/wide__822x462",
+      "image_title": "Wohnungsnot: Städte- und Gemeindebund rät zum Umzug aufs Land"
+    },
+    {
       "title": "Banken in der Krise: Aktienkurs der First Republic Bank stürzt nach Hilfsaktion ab",
       "teaser": "Große US-Banken haben sich zusammengetan, um die First Republic Bank zu stützen. Doch deren Aktienkurs sinkt drastisch – und Anleger wetten auf weiter sinkende Kurse.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/first-republic-bank-aktienkurs-wall-street",
@@ -218,16 +225,16 @@
     },
     {
       "title": "Bundesarbeitsministerium: Renten steigen um rund fünf Prozent",
-      "teaser": "In Ostdeutschland steigen die Renten zum 1. Juli um 5,86 Prozent, im Westen um 4,39. Damit soll in ganz Deutschland ein gleich hoher Rentenwert gelten.",
+      "teaser": "In Ostdeutschland steigen die Renten zum 1. Juli um 5,86 Prozent, im Westen um 4,39. Damit soll in ganz Deutschland ein gleich hoher Rentenwert gelten. 263 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-03/rente-erhoehung-prozent-ost-west-angleichung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/rente-erhoehung-preissteigerung-bundesarbeitsminister/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/rente-erhoehung-preissteigerung-bundesarbeitsminister/cinema__980x420",
       "image_title": "Bundesarbeitsministerium: Renten steigen um rund fünf Prozent"
     },
     {
       "title": "Bankenkrise: Scholz hält deutsches Bankensystem für \"gut aufgestellt\"",
-      "teaser": "Der Bundeskanzler hat das \"entschlossene Handeln\" der Schweizer Behörden in der Krise der Credit Suisse begrüßt. Die Situation sei mit der Krise 2008 nicht vergleichbar. 165 Kommentare",
+      "teaser": "Der Bundeskanzler hat das \"entschlossene Handeln\" der Schweizer Behörden in der Krise der Credit Suisse begrüßt. Die Situation sei mit der Krise 2008 nicht vergleichbar.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/olaf-scholz-credit-suisse-ubs",
-      "image_url": "https://img.zeit.de/politik/2023-03/olaf-scholz-bankenkrise-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-03/olaf-scholz-bankenkrise-bild/wide__822x462",
       "image_title": "Bankenkrise: Scholz hält deutsches Bankensystem für \"gut aufgestellt\""
     },
     {
@@ -257,13 +264,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/ruegen-lng-terminal-rwe-energie-ostsee-stralsund",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/rwe-lng-terminal-ruegen-bild/wide__822x462",
       "image_title": "Rügen: RWE beginnt mit Vorarbeiten für LNG-Terminals vor Rügen"
-    },
-    {
-      "title": "Schweizer Banken: UBS spricht offenbar mit Credit Suisse über Übernahme",
-      "teaser": "Die Schweizer Großbank UBS könnte der angeschlagenen Credit Suisse aus der Krise helfen. Laut einem Medienbericht sprechen die Institute über eine Übernahme.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-03/credit-suisse-ubs-uebernahme-banken-schweiz",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-03/credit-suisse-ubs-uebernahme-banken-schweiz-bild/wide__822x462",
-      "image_title": "Schweizer Banken: UBS spricht offenbar mit Credit Suisse über Übernahme"
     },
     {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
