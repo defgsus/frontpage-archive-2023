@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-22T08:14:54",
+  "timestamp": "2023-03-22T09:11:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.04b9b055f31f057eb6b8",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9bca1f13d95635f6f7de",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-acht-Sicherheitsluecken-ab-7611326.html"
+    },
     {
       "title": "Drupal",
       "url": "https://www.heise.de/news/Drupal-Sicherheitsluecke-koennte-Angreifern-die-Systemuebernahme-ermoeglichen-7550599.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Webkonferenzen-Hochriskante-Luecken-in-Zoom-7547291.html"
     },
     {
-      "title": "Patchday: Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-Zero-Day-Luecke-und-mehr-als-100-Schwachstellen-7546150.html"
+      "title": "Die heise Security Tour stellt die Vertrauensfrage für KI, Zero Trust & mehr",
+      "teaser": "Die Eintages-Konferenz hilft Security-Verantwortlichen dabei, ihre IT sicher zu halten. Mit spannenden Themen, praxisorientiert und herstellerunabhängig.",
+      "url": "https://www.heise.de/news/Die-heise-Security-Tour-stellt-die-Vertrauensfrage-fuer-KI-Zero-Trust-mehr-7587180.html",
+      "image_title": "heise Security Tour 2023"
     },
     {
       "title": "Webbrowser: Chrome-Update dichtet acht Sicherheitslücken ab",
@@ -151,12 +157,6 @@
       "teaser": "Lernen Sie an zwei Tagen, wie Sie Angriffe auf Ihr lokales Unternehmens-AD sicher erkennen und effektiv verhindern.",
       "url": "https://www.heise.de/news/iX-Workshop-Angriffsziel-lokales-Active-Directory-effiziente-Absicherung-7548102.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "Nicht nur Samsung-Smartphones: Exynos-Chips mit teils kritischen Zero-Day-Lücken",
-      "teaser": "Googles Project Zero findet Sicherheitslücken in Samsungs Modemchips für Smartphones. Für die Ausführung externer Software wird nur die Telefonnummer benötigt.",
-      "url": "https://www.heise.de/news/Nicht-nur-Samsung-Smartphones-Exynos-Chips-mit-teils-kritischen-Zero-Day-Luecken-7548678.html",
-      "image_title": "Mann bedient Handy neben einem Funkturm"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
