@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-22T14:10:42",
+  "timestamp": "2023-03-22T15:12:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
-      "title": "BSI fordert bessere IT-Sicherheit für Verbraucher",
-      "teaser": "Die IT-Sicherheitslage für Verbraucher wird schlechter, berichtet das BSI. Das Verbraucherschutzministerium hofft auf eine neue EU-Verordnung.",
-      "url": "https://www.heise.de/news/BSI-fordert-bessere-IT-Sicherheit-fuer-Verbraucher-7545818.html",
-      "image_title": "Schatten zeigt mehrere Hände, die nach einem offenen Laptop greifen"
+      "title": "Kein altes Eisen: E-Mail-Verkehr in Unternehmen wächst und wächst",
+      "teaser": "Chat statt E-Mails – mit Corona schrieben viele Beobachter den klassischen Posteingang ab. Jetzt zeigen die Zahlen: Sie lagen falsch.",
+      "url": "https://www.heise.de/news/Kein-altes-Eisen-E-Mail-Verkehr-in-Unternehmen-waechst-und-waechst-7589487.html",
+      "image_title": "Spam, E-Mail"
     },
     {
-      "title": "Raspberry Pico W: Webserver in PicoMite-Basic",
-      "teaser": "PicoMite Basic läuft sehr gut auf Picos. Dank des Pico-SDK 1.5, kann nun der WLAN-Chip auch unter dem populären PicoMite-Basic verwendet werden.",
-      "url": "https://www.heise.de/news/Raspberry-Pico-W-Webserver-in-PicoMite-Basic-7544310.html"
+      "title": "Crucial T700: Bisher schnellste SSD angekündigt",
+      "teaser": "Die erste PCI-Express-5.0-SSD mit Übertragungsraten von 12 GByte/s stammt vom Crucial. Die T700 soll ab Mai verfügbar sein.",
+      "url": "https://www.heise.de/news/Crucial-T700-Flotte-PCIe-5-0-SSD-kommt-im-Mai-7595674.html"
     },
     {
-      "title": "Banking-Trojaner: 400 Einrichtungen im Visier von Android-Malware",
-      "teaser": "IT-Forscher beobachten die Weiterentwicklung des Banking-Trojaners Xenomorph für Android. Inzwischen versteht er sich auf 400 Finanzinstitutionen.",
-      "url": "https://www.heise.de/news/Banking-Trojaner-Android-Malware-Xenomorph-versteht-sich-auf-400-Institutionen-7543682.html"
+      "title": "Die wahrscheinlich kleinste USB-Tastatur der Welt",
+      "teaser": "Das BB Q20 Keyboard ist eine Mini-Tastatur für den Anschluss per USB oder I2C, inklusive eines Trackpads, das auch als USB-HID-Maus arbeitet.",
+      "url": "https://www.heise.de/news/Die-wahrscheinlich-kleinste-USB-Tastatur-der-Welt-7564573.html",
+      "image_title": "Mini Tastaur Ansichten"
     },
     {
       "title": "Raspi Pi Pico W: Komfortabel programmieren mit CircuitPython",
@@ -53,10 +54,26 @@
       "image_title": ","
     },
     {
+      "title": "Amazon Linux 2023: neuer Name und Unterbau, aber alte Prinzipien",
+      "teaser": "Das neue Amazon Linux 2023 ist fertig – und ausschließlich für die Verwendung in AWS vorgesehen. Neu ist insbesondere der auf Fedora basierende Unterbau.",
+      "url": "https://www.heise.de/news/Amazon-Linux-2023-neuer-Name-und-Unterbau-aber-alte-Prinzipien-7622828.html"
+    },
+    {
+      "title": "WeAreDevelopers: Sir Tim Berners-Lee hält Keynote beim WAD World Congress Berlin",
+      "teaser": "Der Erfinder des World Wide Web hält beim WAD World Congress einen Vortrag: Die Veranstaltung findet am 27. und 28. Juli in Berlin statt.",
+      "url": "https://www.heise.de/news/WeAreDevelopers-Sir-Tim-Berners-Lee-haelt-Keynote-beim-WAD-World-Congress-Berlin-7619478.html",
+      "image_title": "WeAreDevelopers World Congress, Aftershow mit DJ Tiesto"
+    },
+    {
+      "title": "GitHub Copilot X: GPT-4-Assistent von der Kommandozeile bis zum Pull Request",
+      "teaser": "Auf der Basis von GPT-4 soll GitHubs Copilot X als universeller Entwicklungshelfer von der Kommandozeile über Pull Request bis zur Dokumentation unterstützen.",
+      "url": "https://www.heise.de/news/GitHub-Copilot-X-GPT-4-Assistent-von-der-Kommandozeile-bis-zum-Pull-Request-7622794.html"
+    },
+    {
       "title": "\"Man kann KI nicht am Papier erforschen\" – Hessen eröffnet KI-Innovationslabor",
       "teaser": "KI-Superrechner und Beratung: Diese Woche hat Hessen mit den Partnern hessian.ai und TU Darmstadt am GSI Helmholtzzentrum das KI-Innovationslabor eröffnet.",
       "url": "https://www.heise.de/news/Man-kann-KI-nicht-am-Papier-erforschen-Hessen-eroeffnet-KI-Innovationslabor-7596827.html",
-      "image_title": "Green IT Cube in Darmstadt am GSI Helmholtz-Zentrum"
+      "image_title": "Eröffnung des KI-Innovationslabors am Green IT Cube in Darmstadt auf dem Campus des GSI Helmholtz-Zentrum"
     },
     {
       "title": "Obst und Malware: Google suspendiert die Onlineshopping-App Pinduoduo",
@@ -77,7 +94,8 @@
     {
       "title": "Windows Snipping-Tool anfällig für \"Acropalypse\"",
       "teaser": "Anfang der Woche wurde eine \"Acropalypse\" genannte Lücke im Screenshot-Tool von Google Pixel-Phones bekannt. Das Windows 11 Snipping-Tool verhält sich ebenso.",
-      "url": "https://www.heise.de/news/Windows-Snipping-Tool-anfaellig-fuer-Acropalypse-7619561.html"
+      "url": "https://www.heise.de/news/Windows-Snipping-Tool-anfaellig-fuer-Acropalypse-7619561.html",
+      "image_title": "Bing Image Creator: Monster schreddert Laptop mit Windows-Logo"
     },
     {
       "title": "Mehr Zeit für die Alten und Kranken: Bill Gates hofft auf die KI-Revolution",
@@ -114,22 +132,6 @@
       "title": "Deutschlands erste KI-generierte Ausstellung stellt menschliche Kunst infrage",
       "teaser": "Eine fast komplett durch künstliche Intelligenz geschaffene Kunstausstellung zeigt unter anderem Kapitän Nemo aus Jules Vernes \"20.000 Meilen unter dem Meer\".",
       "url": "https://www.heise.de/news/Deutschlands-erste-KI-generierte-Ausstellung-stellt-menschliche-Kunst-infrage-7616533.html"
-    },
-    {
-      "title": "Cross-Plattform: Uno Platform 4.8 erleichtert den Start mit App Template Wizard",
-      "teaser": "Das Minor Release ist mit der zweiten Preview für .NET 8 kompatibel und ein neuer Wizard für Visual Studio hilft beim Erstellen eines Projekts.",
-      "url": "https://www.heise.de/news/Cross-Plattform-Uno-Platform-4-8-erleichtert-den-Start-mit-App-Template-Wizard-7615960.html"
-    },
-    {
-      "title": "Java-Plattform: Kritische Lücke in VMware Tanzu Spring Framework geschlossen",
-      "teaser": "Zwei Schwachstellen bedrohen das Spring Framework. Eine Lücke gilt als kritisch. Updates zum Schließen des Sicherheitslecks stehen bereit.",
-      "url": "https://www.heise.de/news/Java-Plattform-Kritische-Luecke-in-VMware-Tanzu-Spring-Framework-geschlossen-7614914.html"
-    },
-    {
-      "title": "Die heise Security Tour stellt die Vertrauensfrage für KI, Zero Trust & mehr",
-      "teaser": "Die Eintages-Konferenz hilft Security-Verantwortlichen dabei, ihre IT sicher zu halten. Mit spannenden Themen, praxisorientiert und herstellerunabhängig.",
-      "url": "https://www.heise.de/news/Die-heise-Security-Tour-stellt-die-Vertrauensfrage-fuer-KI-Zero-Trust-mehr-7587180.html",
-      "image_title": "heise Security Tour 2023"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
