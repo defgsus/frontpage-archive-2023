@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-23T15:12:10",
+  "timestamp": "2023-03-23T16:16:26",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -122,33 +128,67 @@
   ],
   "articles": [
     {
-      "title": "Streik soll Deutschland weitgehend lahmlegen",
-      "teaser": "Verdi und Eisenbahngewerkschaft rufen dazu auf, am Montag die Arbeit im Verkehrssektor niederzulegen. Bei der Bahn, an Flughäfen und im Nahverkehr droht Chaos. Der Frankfurter Flughafen hat schon mitgeteilt, dass kein Passagierbetrieb stattfinden wird.",
+      "title": "Bahn kündigt Einstellung des Fernverkehrs für Montag an",
+      "teaser": "Grund ist der Aufruf der Eisenbahngewerkschaft und Verdi, die Arbeit zu Wochenbeginn im Verkehrssektor großflächig niederzulegen. Auch an Flughäfen und im Nahverkehr droht Chaos. Der Frankfurter Flughafen hat schon mitgeteilt, dass kein Passagierbetrieb stattfinden wird.",
       "url": "https://www.sueddeutsche.de/politik/streik-27-maerz-verdi-evg-1.5774239",
       "author": "Benedikt Peters",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774245/1000x420",
-      "image_title": "Verdi"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774590/1000x420"
     },
     {
-      "title": "Im Machtzentrum der Russlandfreunde",
-      "teaser": "Moldau steht auf der Begehrlichkeitsliste des Kreml ganz oben: eingeschleuste Provokateure, gekaufte Rentnerdemos, Putins Propaganda. Eine Reise in ein Land, das doch eigentlich demokratisch ist.",
-      "url": "https://www.sueddeutsche.de/politik/moldau-russland-ukraine-putin-shor-partei-1.5771355",
-      "author": "Cathrin Kahlweit, Chișinău/Orhei/Comrat/Tiraspol",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5561463/600x337"
+      "title": "Hier regiert die Upperclass",
+      "teaser": "Großbritanniens Premier Rishi Sunak und seine Frau sind superreich. Das kann für ihn bei der Unterhaus-Wahl zum Problem werden. Nun hat er seine Steuererklärung veröffentlicht.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/rishi-sunak-steuererklaerung-grossbritannien-1.5774530",
+      "author": "Alexander Mühlauer, London",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774531/600x337"
     },
     {
       "title": "Die Konzerne verdienen so viel wie nie",
       "teaser": "Trotz Ukraine-Krieg, Energie- und Wirtschaftskrise, Inflation: Die großen deutschen Unternehmen melden Umsatz- und Gewinnrekorde. Besonders gut geht es einer Branche, die mitten im Umbruch steckt.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/dax-konzerne-gewinne-umsatz-rekorde-1.5774451",
+      "url": "https://www.sueddeutsche.de/wirtschaft/dax-konzerne-gewinne-umsatz-rekorde-krisen-krieg-1.5774451",
       "author": "Caspar Busse",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5536406/208x156"
     },
     {
-      "title": "Netanjahus Putsch von oben",
-      "teaser": "Der israelische Premier bringt den ersten Teil seiner Justizreform durch die Knesset - ein Gesetz in eigener Sache sozusagen. Es schützt ihn vor einer Amtsenthebung.",
-      "url": "https://www.sueddeutsche.de/meinung/israel-justizreform-benjamin-netanjahu-kommentar-1.5774233",
-      "author": "Alexandra Föderl-Schmid",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774234/600x337"
+      "title": "Proteste auf den Straßen - und eine Rüge aus Berlin",
+      "teaser": "Die Knesset hat ein Gesetz abgeschafft, das Israelis verbot, bestimmte Siedlungen im Westjordanland zu bewohnen. Es ist das Gegenteil der mit den Palästinensern vereinbarten Deeskalation. Im ganzen Land wird demonstriert - auch gegen die Justizreform.",
+      "url": "https://www.sueddeutsche.de/politik/israel-siedlungen-knesset-beschluss-eskalation-ruege-berlin-1.5774373",
+      "author": "Paul-Anton Krüger und Sina-Maria Schweikle, Berlin/München",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774544/600x337"
+    },
+    {
+      "title": "Trotz Haftbefehls: In Ungarn droht Putin keine Gefahr",
+      "teaser": "Der russische Präsident würde nicht verhaftet, wenn er nach Ungarn käme, sagt der Stabschef von Ministerpräsident Orbán. Selenskij hat das Gebiet Cherson nahe der Front besucht.",
+      "url": "https://www.sueddeutsche.de/politik/ukraine-krieg-newsblog-ungarn-haftbefehl-atomkraftwerk-saporischschja-medwedew-1.5768974",
+      "author": "Alle Entwicklungen im Liveblog",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774320/208x156",
+      "image_title": "Russian President Vladimir Putin delivers a speech during a ceremony in Moscow"
+    },
+    {
+      "title": "Claudia Roth zahlt Spesen nach",
+      "teaser": "Netflix bezahlte die Eintrittskarte der Staatsministerin für die Oscar-Nacht in Los Angeles. Nach SZ-Recherche begleicht sie nun die Rechnung.",
+      "url": "https://www.sueddeutsche.de/kultur/oscars-claudia-roth-netflix-1.5774428",
+      "author": "Susan Vahabzadeh",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774429/600x337"
+    },
+    {
+      "title": "Acht Wünsche, um die nächste Pandemie besser zu bewältigen",
+      "teaser": "Menschen auf der ganzen Welt werden wieder an einem neuartigen Erreger erkranken. Es ist nur eine Frage der Zeit. Wie wir uns darauf vorbereiten können? Wissenschaftlerinnen, Experten und Behörden haben konkrete Forderungen.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/pandemie-daten-corona-wunschzettel-kommunikation-digitalisierung-e958321/",
+      "author": "Sören Müller-Hansen, Illustrationen: Jessy Asmus",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5773346/600x337"
+    },
+    {
+      "title": "Wenn der Tiktok-Chef persönlich erscheinen muss",
+      "teaser": "Shou Zi Chew ist eigentlich ein Mann der Hinterzimmer. Doch nun muss er sich vor dem US-Kongress ins Kreuzverhör nehmen lassen, weil seine App in Amerika verkauft oder verboten werden soll.",
+      "url": "https://www.sueddeutsche.de/politik/tiktok-shou-zi-chew-usa-china-kongress-1.5774398",
+      "author": "Simon Hurtz",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774399/208x156"
+    },
+    {
+      "title": "Galeria Karstadt Kaufhof bekommt neuen Chef",
+      "teaser": "Der frühere Kaufhof-Chef Olivier van den Bossche soll in wenigen Wochen die Leitung des schwer angeschlagenen Warenhauskonzerns übernehmen.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/galeria-karstadt-kaufhof-chef-1.5774545",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774546/208x156"
     },
     {
       "title": "Wo Homosexuellen Haft oder sogar Hinrichtung droht",
@@ -159,46 +199,11 @@
       "image_title": "Schwule und Lesben, die anonym bleiben wollen, demonstrieren in Uganda gegen die Verfolgung queerer Menschen (Archivbild)."
     },
     {
-      "title": "Claudia Roth zahlt Spesen nach",
-      "teaser": "Netflix bezahlte die Eintrittskarte der Staatsministerin für die Oscar-Nacht in Los Angeles. Nach SZ-Recherche begleicht sie nun die Rechnung.",
-      "url": "https://www.sueddeutsche.de/kultur/oscars-claudia-roth-netflix-1.5774428",
-      "author": "Susan Vahabzadeh",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774429/600x337"
-    },
-    {
-      "title": "Reichsbürger-Razzia in München: Wen die Ermittler ins Visier nahmen",
-      "teaser": "Am Mittwoch durchsucht die Polizei die Wohnung von Ralph T. Niemeyer - während dieser sich in Moskau als Vertreter der deutschen Opposition geriert.",
-      "url": "https://www.sueddeutsche.de/muenchen/ralph-t-niemeyer-reichsbuerger-razzia-durchsuchung-muenchen-1.5774002",
-      "author": "Martin Bernstein",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774153/600x337"
-    },
-    {
-      "title": "Hacker attackieren Münchner Helmholtz-Zentrum",
-      "teaser": "Die Kommunikation der Forschungseinrichtung ist nachhaltig gestört. Selbst die Polizei konnte die Einrichtung zunächst nicht erreichen - und musste einen Beamten persönlich vorbeischicken, um nachzusehen, was dort los ist.",
-      "url": "https://www.sueddeutsche.de/muenchen/muenchen-helmholtz-zentrum-hacker-angriff-cybercrime-kommunikation-1.5774237",
-      "author": "Martin Bernstein",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774238/208x156"
-    },
-    {
-      "title": "Braun ist als Farbe für die AfD erlaubt",
-      "teaser": "Die CSU veröffentlichte vor einiger Zeit eine Umfrage und färbte den Balken für die AfD braun ein - deren Abgeordneter Stadler fühlte sich beleidigt und stellte Strafantrag. Doch die Staatsanwaltschaft hat nichts gegen die Farbe.",
-      "url": "https://www.sueddeutsche.de/bayern/afd-umfrage-balken-braun-staatsanwaltschaft-landtagswahl-bayern-csu-1.5774154",
-      "author": "Johann Osel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5685080/208x156"
-    },
-    {
       "title": "Fast tausendfache Wertsteigerung? Man muss sich nur die Zeit nehmen",
       "teaser": "Die Britin Nancy Gifford verkauft nach mehr als 100 Jahren ihr Elternhaus. Die Rendite kann sich sehen lassen - zumindest auf den ersten Blick.",
       "url": "https://www.sueddeutsche.de/wirtschaft/hausverkauf-england-rendite-schlagzeilen-1.5773769",
       "author": "Jakob Arnold",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5773782/600x337"
-    },
-    {
-      "title": "49-Euro-Ticket: Übergangslösung für Studierende",
-      "teaser": "Wer ein Semesterticket hat, soll nur den Differenzbetrag zahlen, um das neue, bundesweit gültige Deutschlandticket zu bekommen - darauf einigen sich die Länder. Eine Lösung für Kinder, Fahrräder und Hunde gibt es noch nicht.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/49-euro-ticket-studierende-semesterticket-upgrade-1.5774444",
-      "author": "Kassian Stroh, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774445/208x156"
     },
     {
       "title": "Eine Wucht namens Oberdorf",
@@ -215,39 +220,30 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5774281/208x156"
     },
     {
-      "title": "Warum Backen Typsache ist",
-      "teaser": "405, 1050 oder 1370? Das Zahlenwirrwarr bei Mehlsorten ist groß. Doch was bedeuten sie eigentlich und mit welchem Mehl werden Mürbe-, Biskuit- oder Hefeteig perfekt? Eine Konditor-Weltmeisterin, ein Bäcker und eine Müllerin erklären, worauf es ankommt.",
-      "url": "https://sz-magazin.sueddeutsche.de/essen-und-trinken/mehl-guide-mehlsorten-teig-92503",
-      "author": "Maria Sprenger",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5773421/600x337",
-      "image_title": "Mehl"
+      "title": "\"Weiterarbeiten wie bisher\"",
+      "teaser": "Nach den SZ-Enthüllungen zur Münchner Carl-Friedrich-von-Siemens-Stiftung gibt es neue Ungereimtheiten. Und 40 internationale Wissenschaftler fordern eine Untersuchung.",
+      "url": "https://www.sueddeutsche.de/kultur/carl-friedrich-von-siemens-stiftung-heinrich-meier-wissenschaft-1.5774389",
+      "author": "Jörg Häntzschel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774390/600x337"
     },
     {
-      "title": "Katzennetz spannen",
-      "teaser": "Wie viele Freiheiten Mieter und Vermieter in Wohnanlagen bei Haustieren haben, ist manchmal ist oft unterschiedlich geregelt. Aber manches gilt immer.",
-      "url": "https://www.sueddeutsche.de/stil/katze-balkon-vermieter-haltung-netz-1.5750964",
-      "author": "Stephanie Schmidt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5764075/208x156"
-    },
-    {
-      "title": "Fall Sonja Engelbrecht: Neue Hinweise nach Fernseh-Fahndung",
-      "teaser": "Zuschauer glauben zu wissen, wo die Decke, in die die Leiche der Schülerin eingewickelt war, verkauft wurde. Auch fallen konkrete Namen von Personen, die um 1995 im Raum Kipfenberg Renovierungsarbeiten durchgeführt haben.",
-      "url": "https://www.sueddeutsche.de/muenchen/sonja-engelbrecht-aktenzeichen-xy-hinweise-1.5774045",
-      "author": "Martin Bernstein",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5471761/208x156"
-    },
-    {
-      "title": "Geht gar nicht",
-      "teaser": "Die Stadt New York verändert ihr Logo. Die Bewohner Manhattans sind außer sich.",
-      "url": "https://www.sueddeutsche.de/kultur/i-love-new-york-neues-logo-1.5773248",
-      "author": "Andrian Kreye",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774176/208x156"
+      "title": "Ehestreit endet tödlich - Vater von vier Kindern festgenommen",
+      "teaser": "Nach dem Tod seiner Ehefrau ermittelt die Polizei in Marktheidenfeld gegen einen 35-Jährigen. Das Paar hatte sich zuvor lautstark gestritten und gegenseitig schwer verletzt.",
+      "url": "https://www.sueddeutsche.de/bayern/marktheidenfeld-polizei-toetung-ehestreit-unterfranken-bayern-1.5774265",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5633325/208x156"
     },
     {
       "title": "Einfach abschließen",
       "teaser": "John Legend gibt Tipps, wie man trotz Kleinkindern Sex haben kann, König Charles sucht einen Koch und Courteney Cox putzt ihren Stern.",
       "url": "https://www.sueddeutsche.de/panorama/promi-news-john-legend-sex-kinder-king-charles-iii-koch-1.5774224",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774230/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774230/208x156"
+    },
+    {
+      "title": "\"Reichsbürger\"-Razzia in München: Wen die Ermittler ins Visier nahmen",
+      "teaser": "Am Mittwoch durchsucht die Polizei die Wohnung von Ralph T. Niemeyer - während dieser sich in Moskau als Vertreter der deutschen Opposition geriert.",
+      "url": "https://www.sueddeutsche.de/muenchen/ralph-t-niemeyer-reichsbuerger-razzia-durchsuchung-muenchen-1.5774002",
+      "author": "Martin Bernstein",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5774153/600x337"
     },
     {
       "title": "Wo heute teure Autos parken, sollen Bäume wachsen",
