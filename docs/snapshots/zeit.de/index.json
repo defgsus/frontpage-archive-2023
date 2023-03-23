@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-23T13:18:41",
+  "timestamp": "2023-03-23T14:11:46",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -67,6 +67,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/stadtteile-standalone.f964a28c.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.e351a35f.mjs",
       "id": null,
       "text": null
@@ -74,10 +80,25 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Robert Habeck: Du sollst nicht mit Gas heizen!",
-      "teaser": "Viele Hausbesitzer sind wegen des geplanten Verbots von Öl- und Gasheizungen verunsichert, manche sogar in Panik. Auch Handwerker zweifeln an der Umsetzbarkeit.",
-      "url": "https://www.zeit.de/2023/13/robert-habeck-verbot-oel-gasheizungen",
-      "image_url": "https://img.zeit.de/2023/13/du-sollst-nicht-mit-gas-heizen-bild-1/cinema__980x420"
+      "title": "Bundeswehr: Wer Munition hat, ist klar im Vorteil",
+      "teaser": "Im Kampf gegen Russland verschießt die Ukraine mehr Munition, als in Europa produziert wird. Die EU will das nun ändern, allen voran Deutschland. Kann das gelingen?",
+      "url": "https://www.zeit.de/politik/deutschland/2023-03/munition-knappheit-eu-industrie-ukraine-krieg",
+      "image_url": "https://img.zeit.de/politik/2023-03/munition-knappheit-eu-industrie-ukraine-krieg-bild/cinema__1000x428",
+      "image_title": "munition-knappheit-eu-industrie-ukraine-krieg-bild"
+    },
+    {
+      "title": "Liveblog: Krieg in der Ukraine: Slowakei übergibt erste vier Kampfjets an die Ukraine",
+      "teaser": "Die Slowakei hat der Ukraine vier MiG-29-Kampfjets überstellt – neun weitere sollen folgen. Ungarn würde Wladimir Putin trotz Haftbefehls nicht festnehmen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/2023-03/ukraine-russland-konflikt-blogbild-7/cinema__980x420",
+      "image_title": "Krieg in der Ukraine: Slowakei übergibt erste vier Kampfjets an die Ukraine"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Weltordnung • Das Wichtigste aus Z+: Die Tage des Westens sind gezählt",
+      "teaser": "Auch wenn Russland seinen brutalen Angriffskrieg gegen die Ukraine nicht gewinnt, dürfte am Ende eine neue Weltordnung stehen. Und in dieser fällt Europa weit zurück.",
+      "url": "https://www.zeit.de/2023/10/weltordnung-westen-krieg-ukraine",
+      "image_url": "https://img.zeit.de/2023/10/weltordnung-westen-krieg-ukraine-teaser/cinema__980x420",
+      "image_title": "Weltordnung • Das Wichtigste aus Z+: Die Tage des Westens sind gezählt"
     },
     {
       "title": "Tarifverhandlungen: Großstreik am Montag – Ver.di und EVG wollen Verkehr lahmlegen",
@@ -101,6 +122,19 @@
       "image_title": "Frankreich: Tausende auf den Straßen – Schulen blockiert – Benzin wird knapp"
     },
     {
+      "title": "Politik : Soll die CSU abgeschafft werden? Und die Linke gleich dazu?",
+      "teaser": "Die Koalition hat ein neues Wahlrecht beschlossen. Der Demokratie droht großer Schaden.",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/packshot-23-13-1000x620.jpg/imagegroup/original__1000x620"
+    },
+    {
+      "title": "LGBTQ: Was das Gesetz gegen Homosexualität in Uganda bedeutet",
+      "teaser": "Homosexualität ist in Uganda verboten. Ein neues Gesetz sieht hohe Strafen vor bis hin zur Todesstrafe. Antworten auf die wichtigsten Fragen",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-03/uganda-anti-lgbtq-gesetz-homosexualitaet-faq",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-03/homosexualitaet-in-uganda-bild/wide__822x462",
+      "image_title": "LGBTQ: Was das Gesetz gegen Homosexualität in Uganda bedeutet"
+    },
+    {
       "title": "Freudenberg: \"Das sind keine eiskalten Killer\"",
       "teaser": "Auch wenn es schwer zu ertragen ist: Manche Taten lassen sich nicht erklären, sagt der Kinderpsychiater Marc Allroggen. Eine frühere Strafmündigkeit hält er für falsch.",
       "url": "https://www.zeit.de/gesellschaft/2023-03/freudenberg-luise-gewalt-psyche-marc-allroggen",
@@ -108,24 +142,23 @@
       "image_title": "Freudenberg: \"Das sind keine eiskalten Killer\""
     },
     {
-      "title": "Liveblog: Krieg in der Ukraine: Medwedew droht bei Verhaftung Putins mit Angriff auf Berlin",
-      "teaser": "Sollte der Haftbefehl gegen Putin in Deutschland vollstreckt werden, wäre das laut Medwedew eine Kriegserklärung. Ukraine deutet Gegenangriff auf Bachmut an. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-03/ukraine-krieg-russland-newsblog-live-bild-66/wide__822x462",
-      "image_title": "Krieg in der Ukraine: Medwedew droht bei Verhaftung Putins mit Angriff auf Berlin"
+      "title": "Razzia in Reutlingen: Mutmaßlicher Reichsbürger soll 22 Waffen besessen haben",
+      "teaser": "Bei dem Mann, der einen Polizisten bei einer Razzia verletzt haben soll, wurden viele Waffen gefunden. Innenminister Strobl sprach von einem \"perversen Waffenarsenal\".",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-03/reichsbuerger-razzia-reutlingen-22-waffen-thomas-strobl"
     },
     {
-      "title": "Politik : Soll die CSU abgeschafft werden? Und die Linke gleich dazu?",
-      "teaser": "Die Koalition hat ein neues Wahlrecht beschlossen. Der Demokratie droht großer Schaden.",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2023/packshot-23-13-1000x620.jpg/imagegroup/original__1000x620"
+      "title": "Bürgerschaftswahl in Bremen: Landeswahlausschuss lehnt AfD-Listen für Stadt Bremen endgültig ab",
+      "teaser": "Die AfD kann nicht an der Bürgerschaftswahl in der Stadt Bremen teilnehmen. Die Partei legte zwei konkurrierende Wahllisten vor, die Wahlleitung wies erneut ab.",
+      "url": "https://www.zeit.de/politik/2023-03/bremen-afd-wahllisten-buergerschaftswahl",
+      "image_url": "https://img.zeit.de/politik/2023-03/bremen-afd-wahllisten-buergerschaftswahl-bild/wide__822x462",
+      "image_title": "Bürgerschaftswahl in Bremen: Landeswahlausschuss lehnt AfD-Listen für Stadt Bremen endgültig ab"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reform des Namensrechts: Im Worst Case heißt man dann Marie-Agnes Strack-Zimmermann",
-      "teaser": "Justizminister Marco Buschmann will Paaren einen gemeinsamen Doppelnamen erlauben. Doch der Gesetzentwurf scheint nicht wirklich zu Ende gedacht.",
-      "url": "https://www.zeit.de/2023/13/namensrecht-reform-marco-buschmann-doppelnamen",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-03/namensrecht-reform-teaser/wide__822x462",
-      "image_title": "Reform des Namensrechts: Im Worst Case heißt man dann Marie-Agnes Strack-Zimmermann"
+      "title": "Z+ (abopflichtiger Inhalt); Robert Habeck: Du sollst nicht mit Gas heizen!",
+      "teaser": "Viele Hausbesitzer sind wegen des geplanten Verbots von Öl- und Gasheizungen verunsichert, manche sogar in Panik. Auch Handwerker zweifeln an der Umsetzbarkeit.",
+      "url": "https://www.zeit.de/2023/13/robert-habeck-verbot-oel-gasheizungen",
+      "image_url": "https://img.zeit.de/2023/13/du-sollst-nicht-mit-gas-heizen-bild-1/wide__822x462",
+      "image_title": "Robert Habeck: Du sollst nicht mit Gas heizen!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Baukosten • Das Beste aus Z+: Billiges Blech, lohnender Lehm",
@@ -140,13 +173,6 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-03/familientherapie-eltern-kinder-konflikte-hilfe",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-03/familientherapie-eltern-kinder-konflikte/cinema__980x420",
       "image_title": "Familientherapie: Bei euch läuft doch alles, oder?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Anti-Girlboss\" von Nadia Shehadeh: Ein Nickerchen bei der Arbeit soll schon Widerstand sein",
-      "teaser": "Besser doch keine Chefin werden: Die Autorin Nadia Shehadeh will in ihrem Buch \"Anti-Girlboss\" erklären, warum es feministisch ist, möglichst wenig im Job zu schuften.",
-      "url": "https://www.zeit.de/2023/12/anti-girlboss-nadia-shehadeh-arbeit-feminismus-kapitalismus",
-      "image_url": "https://img.zeit.de/2023/12/ein-nickerchen-als-widerstand-bild-2/wide__822x462",
-      "image_title": "\"Anti-Girlboss\" von Nadia Shehadeh: Ein Nickerchen bei der Arbeit soll schon Widerstand sein"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Selbstverwirklichung im Alter : Wie der Neustart im Alter gelingt",
@@ -191,18 +217,11 @@
       "image_title": "Jan Philipp Reemtsma: \"Erst mit Wieland wird die deutsche Literatur zur Weltliteratur\""
     },
     {
-      "title": "On-Demand-Verkehr: Fahrplan? Welcher Fahrplan?",
-      "teaser": "Ein Bus alle zehn Minuten: Auf dem Land lohnt sich das nicht. Shuttles, die nach Bedarf fahren, sind eine Lösung. Sie sind zwar teuer – doch das könnte sich bald ändern.",
-      "url": "https://www.zeit.de/mobilitaet/2023-03/on-demand-verkehr-ridepooling-autonomes-fahren-nahverkehr",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-03/on-demand-verkehr-ridepooling-autonomes-fahren-nahverkehr-knut/wide__822x462",
-      "image_title": "On-Demand-Verkehr: Fahrplan? Welcher Fahrplan?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fastenmonat • Das Beste aus Z+: Frohen Ramadan!",
-      "teaser": "Am 23. März beginnt der Fastenmonat. Wie viele Muslime leben in Deutschland und wie halten sie es mit der Religion? Eine Übersicht in Grafiken",
-      "url": "https://www.zeit.de/2023/12/ramadan-fastenmonat-muslime-deutschland-islam",
-      "image_url": "https://img.zeit.de/2023/12/ramadan-fastenmonat-muslime-deutschland-islam-teaser/wide__822x462",
-      "image_title": "Fastenmonat • Das Beste aus Z+: Frohen Ramadan!"
+      "title": "Z+ (abopflichtiger Inhalt); \"Anti-Girlboss\" von Nadia Shehadeh: Ein Nickerchen bei der Arbeit soll schon Widerstand sein",
+      "teaser": "Besser doch keine Chefin werden: Die Autorin Nadia Shehadeh will in ihrem Buch \"Anti-Girlboss\" erklären, warum es feministisch ist, möglichst wenig im Job zu schuften.",
+      "url": "https://www.zeit.de/2023/12/anti-girlboss-nadia-shehadeh-arbeit-feminismus-kapitalismus",
+      "image_url": "https://img.zeit.de/2023/12/ein-nickerchen-als-widerstand-bild-2/wide__822x462",
+      "image_title": "\"Anti-Girlboss\" von Nadia Shehadeh: Ein Nickerchen bei der Arbeit soll schon Widerstand sein"
     },
     {
       "title": "Extinction Rebellion: Klimaaktivisten schrauben rund 250 Autobahnschilder ab",
@@ -237,8 +256,8 @@
       "url": "https://www.zeit.de/politik/2023-03/ampel-streit-spd-fdp-robert-habeck"
     },
     {
-      "title": "Robert Habeck: Wie ein nörgelnder Ehepartner",
-      "url": "https://www.zeit.de/politik/deutschland/2023-03/robert-habeck-frust-die-gruenen-ampel-koalition"
+      "title": "Tarifverhandlungen: Großstreik am Montag – Ver.di und EVG wollen Verkehr lahmlegen",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/ver-di-und-evg-wollen-montag-bundesweit-oeffentlichen-verkehr-lahmlegen"
     },
     {
       "title": "Extinction Rebellion: Klimaaktivisten schrauben rund 250 Autobahnschilder ab",
@@ -279,8 +298,8 @@
       "url": "https://www.zeit.de/arbeit/2023-03/karriere-tipps-frauen-beruf-erfolg"
     },
     {
-      "title": "Robert Habeck: Wie ein nörgelnder Ehepartner",
-      "url": "https://www.zeit.de/politik/deutschland/2023-03/robert-habeck-frust-die-gruenen-ampel-koalition"
+      "title": "Tarifverhandlungen: Großstreik am Montag – Ver.di und EVG wollen Verkehr lahmlegen",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/ver-di-und-evg-wollen-montag-bundesweit-oeffentlichen-verkehr-lahmlegen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Karrieretipps • Das Beste aus Z+: \"Wenn niemand sagt, dass du schwierig bist, machst du etwas falsch\"",
@@ -496,7 +515,7 @@
     },
     {
       "title": "Berlin: Menschliche Knochen von Verbrechensopfern bestattet",
-      "teaser": "Tausende Knochenteile von Opfern, die für die Wissenschaft getötet wurden, sind in Berlin bestattet worden. Sie entstammen wohl der deutschen Nazi- und Kolonialzeit.",
+      "teaser": "Tausende Knochenteile von Opfern, die für die Wissenschaft getötet worden waren, sind in Berlin begraben worden. Sie entstammen wohl der deutschen Nazi- und Kolonialzeit.",
       "url": "https://www.zeit.de/wissen/geschichte/2023-03/bestattungen-verbrechen-opfer-nationalsozialismus-kolonialzeit-berlin",
       "image_url": "https://img.zeit.de/wissen/geschichte/2023-03/bestattungen-verbrechen-opfer-nationalsozialismus-kolonialzeit/cinema__980x420",
       "image_title": "Berlin: Menschliche Knochen von Verbrechensopfern bestattet"
@@ -636,11 +655,11 @@
       "image_title": "Vergiftungen im Iran: \"Sie versuchen alles, um uns zu brechen\""
     },
     {
-      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Masterarbeit: Der leichte Zwang, Dinge zu Ende zu bringen",
@@ -685,18 +704,18 @@
       "image_title": "Elektromobilität: Deutsche E-Auto-Exporte steigen deutlich"
     },
     {
+      "title": "On-Demand-Verkehr: Fahrplan? Welcher Fahrplan?",
+      "teaser": "Ein Bus alle zehn Minuten: Auf dem Land lohnt sich das nicht. Shuttles, die nach Bedarf fahren, sind eine Lösung. Sie sind zwar teuer – doch das könnte sich bald ändern.",
+      "url": "https://www.zeit.de/mobilitaet/2023-03/on-demand-verkehr-ridepooling-autonomes-fahren-nahverkehr",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-03/on-demand-verkehr-ridepooling-autonomes-fahren-nahverkehr-knut/wide__822x462",
+      "image_title": "On-Demand-Verkehr: Fahrplan? Welcher Fahrplan?"
+    },
+    {
       "title": "ICCT: Bericht zeigt \"verdächtig\" hohe Abgaswerte bei EU-Dieselautos",
       "teaser": "In der EU fahren Dieselautos mit deutlich zu hohem Abgasausstoß, zeigt eine Analyse des ICCT. Teilweise ergaben sich \"extreme\" gesundheitsschädliche Stickoxide.",
       "url": "https://www.zeit.de/mobilitaet/2023-03/icct-diesel-abgaswerte-stickoxide",
       "image_url": "https://img.zeit.de/mobilitaet/2023-03/icct-diesel-abgaswerte-stickoxide-bild/wide__822x462",
       "image_title": "ICCT: Bericht zeigt \"verdächtig\" hohe Abgaswerte bei EU-Dieselautos"
-    },
-    {
-      "title": "Extinction Rebellion: Klimaaktivisten schrauben rund 250 Autobahnschilder ab",
-      "teaser": "Aktivisten von Extinction Rebellion haben die Sache mit dem Tempolimit einfach selbst übernommen: Für viele Autofahrer hörten die Geschwindigkeitsbegrenzungen nicht auf.",
-      "url": "https://www.zeit.de/mobilitaet/2023-03/tempolimit-klimaaktivisten-extinction-rebellion-geschwindigkeitsbegrenzung-schilder",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-03/tempolimit-klimaaktivisten-extinction-rebellion-geschwindigkeitsbegrenzung-schilder-bild/wide__822x462",
-      "image_title": "Extinction Rebellion: Klimaaktivisten schrauben rund 250 Autobahnschilder ab"
     },
     {
       "title": "Warnstreik: Hamburger Hafen für große Schiffe gesperrt",
@@ -783,36 +802,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Gesundheit: Schülerrat fordert kostenlose Tampons an Schulen",
-      "url": "https://www.zeit.de/news/2023-03/23/schuelerrat-fordert-kostenlose-tampons-an-schulen"
+      "title": "Amtsgericht Tiergarten: Protest statt Prozess: Klimaaktivist fehlt vor Gericht",
+      "url": "https://www.zeit.de/news/2023-03/23/protest-statt-prozess-klimaaktivist-fehlt-vor-gericht"
     },
     {
-      "title": "Tarifstreit: Warnstreiks gehen weiter: Tausende bei Kundgebungen",
-      "url": "https://www.zeit.de/news/2023-03/23/warnstreiks-gehen-weiter-tausende-bei-kundgebungen"
+      "title": "ÖPNV: Angebot für Studierende bei 49-Euro-Ticket geplant",
+      "url": "https://www.zeit.de/news/2023-03/23/angebot-fuer-studierende-bei-49-euro-ticket-geplant"
     },
     {
-      "title": "Hubschraubereinsatz: Fahrzeuge in Autohaus in Leipzig brennen",
-      "url": "https://www.zeit.de/news/2023-03/23/fahrzeuge-in-autohaus-in-leipzig-brennen"
+      "title": "Polizei: Frau zieht Pistole und bedroht Barfrau",
+      "url": "https://www.zeit.de/news/2023-03/23/frau-zieht-pistole-und-bedroht-barfrau"
     },
     {
-      "title": "Ermittlungen: 300 Hinweise im Fall der ermordeten Sonja Engelbrecht",
-      "url": "https://www.zeit.de/news/2023-03/23/300-hinweise-im-fall-der-ermordeten-sonja-engelbrecht"
+      "title": "Streit um Immobilie: Streit um Ihme-Zentrum: Hannover beendet Deal mit Investor",
+      "url": "https://www.zeit.de/news/2023-03/23/streit-um-ihme-zentrum-hannover-beendet-deal-mit-investor"
     },
     {
-      "title": "Koalition: Landtag setzt umstrittene Änderungen im Kommunalrecht durch",
-      "url": "https://www.zeit.de/news/2023-03/23/landtag-setzt-umstrittene-aenderungen-im-kommunalrecht-durch"
+      "title": "Extremismus: Ermittler durchsuchen Wohnhaus des Schützen von Reutlingen",
+      "url": "https://www.zeit.de/news/2023-03/23/ermittler-durchsuchen-wohnhaus-des-schuetzen-von-reutlingen"
     },
     {
-      "title": "Gesundheit: Land fordert Krankenhaus-Rettungsprogramm des Bundes",
-      "url": "https://www.zeit.de/news/2023-03/23/land-fordert-krankenhaus-rettungsprogramm-des-bundes"
+      "title": "Zentralbank: Britische Notenbank hebt Leitzins weiter an",
+      "url": "https://www.zeit.de/news/2023-03/23/britische-notenbank-hebt-leitzins-weiter-an"
     },
     {
-      "title": "Prozess: Streit um Kündigung zwischen Hertha und Bobic",
-      "url": "https://www.zeit.de/news/2023-03/23/streit-um-kuendigung-zwischen-hertha-und-bobic"
+      "title": "Polizei: Erneut Waffenverbot an Bahnhöfen: Polizeikontrollen geplant",
+      "url": "https://www.zeit.de/news/2023-03/23/erneut-waffenverbot-an-bahnhoefen-polizeikontrollen-geplant"
     },
     {
-      "title": "Sportgericht: Hoffenheims Dabbur für drei Spiele gesperrt",
-      "url": "https://www.zeit.de/news/2023-03/23/hoffenheims-dabbur-fuer-drei-spiele-gesperrt"
+      "title": "Osnabrück: Auto prallt gegen Baum - Kinder schwer verletzt",
+      "url": "https://www.zeit.de/news/2023-03/23/auto-prallt-gegen-baum-kinder-schwer-verletzt"
     }
   ]
 }
