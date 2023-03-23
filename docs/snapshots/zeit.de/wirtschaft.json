@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-23T00:59:42",
+  "timestamp": "2023-03-23T02:08:05",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "US-Notenbank: Ist die Fed wieder zu optimistisch?",
+      "teaser": "Die US-Notenbank hat eine fast unlösbare Aufgabe: Sie muss die Inflation eindämmen und zugleich eine neue Bankenkrise verhindern. Nun stellt sich eine bange Frage.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/us-notenbank-fed-leitzins-bankenkrise-zinserhoehung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/us-notenbank-fed-leitzins-bankenkrise-zinserhoehung-bild/cinema__980x420"
+    },
+    {
       "title": "Inflation: Fed erhöht Leitzins erneut um 0,25 Prozentpunkte",
       "teaser": "US-Großbanken hatten sich angesichts der Bankenkrise eine \"Pause im Kampf gegen die Inflation\" gewünscht. Doch die Fed setzt ihre restriktive Geldpolitik fort.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/fed-erhoeht-leitzins-erneut-um-0-25-prozentpunkte",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/fed-erhoeht-leitzins-erneut-um-0-25-prozentpunkte-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/fed-erhoeht-leitzins-erneut-um-0-25-prozentpunkte-bild/wide__822x462",
+      "image_title": "Inflation: Fed erhöht Leitzins erneut um 0,25 Prozentpunkte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Auswirkungen der Bankenkrise: Die Welt geht unter, kaufen Sie meinen Fonds",
@@ -66,14 +73,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Frank Werneke: \"Das ist noch nicht das große Besteck\"",
       "teaser": "Ver.di-Chef Frank Werneke streikt mit seiner Gewerkschaft an Flughäfen, in Kitas und in Krankenhäusern. Übertreibt er? Nein, sagt Werneke, das sei noch lange nicht alles.",
       "url": "https://www.zeit.de/2023/13/frank-werneke-verdi-gewerkschaft-streiks",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/frank-werneke-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/frank-werneke-teaser/cinema__980x420",
       "image_title": "Frank Werneke: \"Das ist noch nicht das große Besteck\""
     },
     {
       "title": "Werbung: EU-Kommission plant Gesetz gegen Greenwashing",
       "teaser": "Klimafreundliches T-Shirt? CO₂-kompensierte Lieferung? Die EU-Kommission bemängelt, grüne Slogans seien \"viel zu oft ohne jeden Beweis\". Sie plant überprüfbare Standards.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/eu-werbung-greenwashing-mindeststandards-reparatur",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/eu-werbung-greenwashing-mindeststandards-reparatur-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/eu-werbung-greenwashing-mindeststandards-reparatur-bild/wide__822x462",
       "image_title": "Werbung: EU-Kommission plant Gesetz gegen Greenwashing"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/strom-gas-preisbremse-versorger-bundeskartellamt-verbraucherschutz",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/strom-gas-preisbremse-versorger-bundeskartellamt-verbraucherschutz-foto/wide__822x462",
       "image_title": "Strom- und Gaspreisbremse: Grundversorger erhalten voraussichtlich 3,3 Milliarden Euro vom Staat"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Credit Suisse: Credit verspielt",
-      "teaser": "Die Credit Suisse kämpft seit Jahren mit Skandalen, Missmanagement und Hybris. Für das Desaster verantwortlich sein will niemand. Die Folgen erbt die UBS als Käuferin.",
-      "url": "https://www.zeit.de/2023/13/credit-suisse-bankenkrise-ubs-uebernahme",
-      "image_url": "https://img.zeit.de/2023/13/credit-verspielt-bild-1/wide__822x462",
-      "image_title": "Credit Suisse: Credit verspielt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strompreis: Warum Sie Ihre nächste Stromrechnung an Markus Söder schicken sollten",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Credit Suisse: Credit verspielt",
+      "teaser": "Die Credit Suisse kämpft seit Jahren mit Skandalen, Missmanagement und Hybris. Für das Desaster verantwortlich sein will niemand. Die Folgen erbt die UBS als Käuferin.",
+      "url": "https://www.zeit.de/2023/13/credit-suisse-bankenkrise-ubs-uebernahme",
+      "image_url": "https://img.zeit.de/2023/13/credit-verspielt-bild-1/wide__822x462",
+      "image_title": "Credit Suisse: Credit verspielt"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bankenkrise: Ist mein Geld noch sicher?",
       "teaser": "Ein Bankenbeben kann heute mehr Wucht entfalten als früher. Auch, weil soziale Medien eine fatale Rolle spielen. Welche Folgen das für deutsche Sparer und Anleger hat.",
       "url": "https://www.zeit.de/2023/13/bankenkrise-sparer-anleger-sicherheit",
@@ -220,14 +227,14 @@
       "title": "Verbraucherpreise: Inflation in Großbritannien steigt wieder an",
       "teaser": "Die Inflationsrate in Großbritannien ist im Februar auf 10,4 Prozent gestiegen. Vor allem Gemüse ist derzeit teuer wie nie. Experten erwarten nun Zinserhöhungen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/inflation-grossbritannien-februar-verbraucherpreise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/inflation-grossbritannien-februar-verbraucherpreise-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/inflation-grossbritannien-februar-verbraucherpreise-bild-2/cinema__980x420",
       "image_title": "Verbraucherpreise: Inflation in Großbritannien steigt wieder an"
     },
     {
       "title": "Nachrichtenpodcast: Das Fed-Dilemma: Leitzins erhöhen oder Pausenknopf drücken?",
       "teaser": "Nach den Turbulenzen am Finanzmarkt blickt die Welt gespannt auf die nächsten Schritte der US-Währungshüter. Außerdem: Begann die Corona-Pandemie mit dem Marderhund?",
       "url": "https://www.zeit.de/wirtschaft/2023-03/finanzmarkt-zinsen-fed-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Das Fed-Dilemma: Leitzins erhöhen oder Pausenknopf drücken?"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/elektrogeraete-reparaturen-verbraucherschutz-ramona-pop",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/elektrogeraete-reparaturen-verbraucherschutz-ramona-pop-foto/wide__822x462",
       "image_title": "Defekte Elektrogeräte: Verbraucherschützer fordern staatliche Zuschüsse für Reparaturen"
-    },
-    {
-      "title": "US-Bank: Krisenbank First Republic könnte mit staatlicher Hilfe gerettet werden",
-      "teaser": "Der Aktienkurs steigt, doch die Lage bleibt prekär. Eine Pensionskasse verkauft ihre First-Republic-Anteile mit Verlust. Bei der Rettung könnte der Staat mitmischen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/first-republic-bank-usa-janet-yellen-aktien",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/first-republic-bank-usa-janet-yellen-aktien-foto/wide__822x462",
-      "image_title": "US-Bank: Krisenbank First Republic könnte mit staatlicher Hilfe gerettet werden"
     },
     {
       "title": "Kritik aus der Wirtschaft: Unternehmen fordern schnelle Klarheit beim Verbrenner-Aus",
