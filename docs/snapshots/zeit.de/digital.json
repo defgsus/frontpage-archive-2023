@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-24T10:12:54",
+  "timestamp": "2023-03-24T11:10:13",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Elektronische Patientenakte: Wenn alle erfahren, was einem fehlt",
+      "teaser": "Die elektronische Patientenakte soll sensible Daten an die Forschung weiterleiten, ohne Einwilligung der Patienten. Das besorgt Datenschützer – und lockt Hacker an.",
+      "url": "https://www.zeit.de/2023/13/elektronische-patientenakte-datenschutz-karl-lauterbach",
+      "image_url": "https://img.zeit.de/2023/13/wenn-alle-erfahren-was-einem-fehlt-bild-1/cinema__980x420"
+    },
+    {
       "title": "Soziale Medien: Twitter will alte Häkchen ab April entfernen",
       "teaser": "Die blauen Häkchen bei Twitter werden ab April kostenpflichtig. Wer das Zeichen behalten will, muss ein Abo abschließen. Besitzer Elon Musk will damit Einnahmen erhöhen.",
       "url": "https://www.zeit.de/digital/internet/2023-03/soziale-medien-twitter-haekchen",
-      "image_url": "https://img.zeit.de/digital/2023-03/twitter-haekchen-abo-kosten-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-03/twitter-haekchen-abo-kosten-bild/wide__822x462",
+      "image_title": "Soziale Medien: Twitter will alte Häkchen ab April entfernen"
     },
     {
       "title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche",
       "image_url": "https://img.zeit.de/digital/internet/2023-03/usa-social-media-jugendliche/wide__822x462",
       "image_title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein"
-    },
-    {
-      "title": "Elektroschrott: Reparieren, nicht neu kaufen",
-      "teaser": "Die EU-Kommission plant, Elektrogeräte bis zu zehn Jahre lang reparieren zu lassen. Manchen geht der Vorschlag im Kampf gegen den Elektroschrott aber nicht weit genug.",
-      "url": "https://www.zeit.de/digital/mobil/2023-03/eu-kommission-elektroschrott-reparatur-recht",
-      "image_url": "https://img.zeit.de/digital/mobil/2023-03/recht-reparatur-handy/wide__822x462",
-      "image_title": "Elektroschrott: Reparieren, nicht neu kaufen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, antwortet der Rechner",
@@ -102,8 +102,8 @@
       "image_title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Die KI hält sie nachts wach",
-      "url": "https://www.zeit.de/2023/12/kuenstliche-intelligenz-europa-ki-forschung-leam-feiyu-xu"
+      "title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein",
+      "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche"
     },
     {
       "title": "GPT-4: Ein bisschen schlauer wirkt es schon",
@@ -114,24 +114,24 @@
       "url": "https://www.zeit.de/digital/2023-03/usa-youtube-donald-trump-nutzerkonto"
     },
     {
-      "title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein",
-      "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche"
-    },
-    {
-      "title": "KI bei Microsoft und Google: Was, wenn Sie E-Mails nie mehr selbst schreiben müssten?",
-      "url": "https://www.zeit.de/digital/2023-03/ki-microsoft-office-google-workspace-cloud"
-    },
-    {
-      "title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion",
-      "url": "https://www.zeit.de/digital/2023-03/chatgpt-4-falschinformationen-verbreitung-newsguard"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Die KI hält sie nachts wach",
       "url": "https://www.zeit.de/2023/12/kuenstliche-intelligenz-europa-ki-forschung-leam-feiyu-xu"
     },
     {
       "title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein",
       "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche"
+    },
+    {
+      "title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion",
+      "url": "https://www.zeit.de/digital/2023-03/chatgpt-4-falschinformationen-verbreitung-newsguard"
+    },
+    {
+      "title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein",
+      "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Die KI hält sie nachts wach",
+      "url": "https://www.zeit.de/2023/12/kuenstliche-intelligenz-europa-ki-forschung-leam-feiyu-xu"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
@@ -150,8 +150,15 @@
       "url": "https://www.zeit.de/digital/2023-03/usa-youtube-donald-trump-nutzerkonto"
     },
     {
-      "title": "KI bei Microsoft und Google: Was, wenn Sie E-Mails nie mehr selbst schreiben müssten?",
-      "url": "https://www.zeit.de/digital/2023-03/ki-microsoft-office-google-workspace-cloud"
+      "title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein",
+      "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche"
+    },
+    {
+      "title": "Elektroschrott: Reparieren, nicht neu kaufen",
+      "teaser": "Die EU-Kommission plant, Elektrogeräte bis zu zehn Jahre lang reparieren zu lassen. Manchen geht der Vorschlag im Kampf gegen den Elektroschrott aber nicht weit genug.",
+      "url": "https://www.zeit.de/digital/mobil/2023-03/eu-kommission-elektroschrott-reparatur-recht",
+      "image_url": "https://img.zeit.de/digital/mobil/2023-03/recht-reparatur-handy/wide__822x462",
+      "image_title": "Elektroschrott: Reparieren, nicht neu kaufen"
     },
     {
       "title": "Kurzvideoplattform: TikTok-Chef sichert im US-Kongress Datensicherheit zu",
@@ -166,13 +173,6 @@
       "url": "https://www.zeit.de/digital/2023-03/tiktok-nancy-faeser-propaganda-daten",
       "image_url": "https://img.zeit.de/digital/2023-03/tiktok-nancy-faeser-propaganda-daten-bild/wide__822x462",
       "image_title": "Videoplattform: Bundesinnenministerin Nancy Faeser mahnt zu Wachsamkeit bei TikTok"
-    },
-    {
-      "title": "Facebook-Konzern: Umwelthilfe verklagt Meta wegen zögerlichem Vorgehen gegen Hassrede",
-      "teaser": "Meta soll teilweise erst nach Wochen Beschimpfungen und Drohungen löschen, sagt die Deutsche Umwelthilfe. Der Facebook-Konzern widerspricht, Hassrede sei \"inakzeptabel\".",
-      "url": "https://www.zeit.de/digital/2023-03/facebook-meta-klage-hassrede",
-      "image_url": "https://img.zeit.de/digital/2023-03/facebook-meta-klage/wide__822x462",
-      "image_title": "Facebook-Konzern: Umwelthilfe verklagt Meta wegen zögerlichem Vorgehen gegen Hassrede"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -203,6 +203,13 @@
       "image_title": "Cyberangriff in Potsdam: Die Spur der Geisterrouter"
     },
     {
+      "title": "Facebook-Konzern: Umwelthilfe verklagt Meta wegen zögerlichem Vorgehen gegen Hassrede",
+      "teaser": "Meta soll teilweise erst nach Wochen Beschimpfungen und Drohungen löschen, sagt die Deutsche Umwelthilfe. Der Facebook-Konzern widerspricht, Hassrede sei \"inakzeptabel\".",
+      "url": "https://www.zeit.de/digital/2023-03/facebook-meta-klage-hassrede",
+      "image_url": "https://img.zeit.de/digital/2023-03/facebook-meta-klage/wide__822x462",
+      "image_title": "Facebook-Konzern: Umwelthilfe verklagt Meta wegen zögerlichem Vorgehen gegen Hassrede"
+    },
+    {
       "title": "Character.AI: Als Michael Jackson mir einen Staubsauger andrehen wollte",
       "teaser": "Die Plattform Character.AI ermöglicht es, Chatbots zu erstellen, die Prominente imitieren. Das kann spaßig sein. Problematisch wird es, wenn die KI sich als Nazi ausgibt.",
       "url": "https://www.zeit.de/digital/internet/2023-03/character-ai-chatbot-ki-imitation-prominente",
@@ -217,13 +224,6 @@
       "image_title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion"
     },
     {
-      "title": "Bard: Google macht eigenen Chatbot weiteren Nutzern zugänglich",
-      "teaser": "Bard ist Googles Antwort auf ChatGPT – nutzen konnten ihn bisher nur wenige. Nun können sich User aus USA und Großbritannien für eine Beta-Testphase des Chatbots melden.",
-      "url": "https://www.zeit.de/digital/internet/2023-03/bard-google-ki-chatbot-betatest",
-      "image_url": "https://img.zeit.de/digital/2023-03/google-ki-chatbot-bard-bild/wide__822x462",
-      "image_title": "Bard: Google macht eigenen Chatbot weiteren Nutzern zugänglich"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -231,11 +231,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Bundesamt für Verfassungsschutz: Geheimdienste warnen vor Cyberspionage",
-      "teaser": "Der deutsche Verfassungsschutz und Südkoreas Nachrichtendienst NIS warnen vor einer Gruppe Cyberspione. Sie sollen Strategiepapiere von Außenministerien erbeutet haben.",
-      "url": "https://www.zeit.de/digital/2023-03/verfassungsschutz-cyberspionage-warnung-suedkorea-kimsuky",
-      "image_url": "https://img.zeit.de/politik/2023-03/verfassungsschutz-cyberspionage-warnung-suedkorea-kimsuky-in-digital-bild/wide__822x462",
-      "image_title": "Bundesamt für Verfassungsschutz: Geheimdienste warnen vor Cyberspionage"
+      "title": "Bard: Google macht eigenen Chatbot weiteren Nutzern zugänglich",
+      "teaser": "Bard ist Googles Antwort auf ChatGPT – nutzen konnten ihn bisher nur wenige. Nun können sich User aus USA und Großbritannien für eine Beta-Testphase des Chatbots melden.",
+      "url": "https://www.zeit.de/digital/internet/2023-03/bard-google-ki-chatbot-betatest",
+      "image_url": "https://img.zeit.de/digital/2023-03/google-ki-chatbot-bard-bild/wide__822x462",
+      "image_title": "Bard: Google macht eigenen Chatbot weiteren Nutzern zugänglich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
