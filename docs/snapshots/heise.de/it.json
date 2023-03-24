@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-24T07:10:33",
+  "timestamp": "2023-03-24T08:13:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.1789559c437552b38d96",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.5a5e515d6c9be31445d2",
       "id": null,
       "text": null
     },
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "30 Jahre Intel Pentium: Urahn der modernen x86-CPUs",
+      "teaser": "Am 22. März 1993 stellte Intel die CPU-Familie Pentium alias P5 vor. Sie brachte viele Neuerungen und war der Schlüssel zu Intels Server-Einstieg.",
+      "url": "https://www.heise.de/news/30-Jahre-Intel-Pentium-Urahn-der-modernen-x86-CPUs-7627807.html",
+      "image_title": "x86-CPU Intel Pentium 90"
+    },
+    {
       "title": "Kein altes Eisen: E-Mail-Verkehr in Unternehmen wächst und wächst",
       "teaser": "Chat statt E-Mails – mit Corona schrieben viele Beobachter den klassischen Posteingang ab. Jetzt zeigen die Zahlen: Sie lagen falsch.",
       "url": "https://www.heise.de/news/Kein-altes-Eisen-E-Mail-Verkehr-in-Unternehmen-waechst-und-waechst-7589487.html",
@@ -37,12 +43,6 @@
       "url": "https://www.heise.de/news/Crucial-T700-Flotte-PCIe-5-0-SSD-kommt-im-Mai-7595674.html"
     },
     {
-      "title": "Die wahrscheinlich kleinste USB-Tastatur der Welt",
-      "teaser": "Das BB Q20 Keyboard ist eine Mini-Tastatur für den Anschluss per USB oder I2C, inklusive eines Trackpads, das auch als USB-HID-Maus arbeitet.",
-      "url": "https://www.heise.de/news/Die-wahrscheinlich-kleinste-USB-Tastatur-der-Welt-7564573.html",
-      "image_title": "Mini Tastaur Ansichten"
-    },
-    {
       "title": "Teachable Machine: Eigenes KI-Modell trainieren mit Tools von Google",
       "teaser": "Ein Dienst von Google macht es zum Kinderspiel, mit Machine Learning eigene KI-Modelle zu erstellen. Wir zeigen, wie das schon mit einem mittelmäßigen PC geht.",
       "url": "https://www.heise.de/ratgeber/Teachable-Machine-Eigenes-KI-Modell-trainieren-mit-Tools-von-Google-7622111.html"
@@ -52,6 +52,18 @@
       "teaser": "Version 3 von Apples API für 3D-Apps und paralleles Rechnen auf der GPU stellt Tempo in den Vordergrund. Hier zeigen wir, wie man die Funktionen anwendet.",
       "url": "https://www.heise.de/hintergrund/Speed-Metal-Neue-Features-von-Apples-Metal-3-in-der-Praxis-7622847.html",
       "image_title": ","
+    },
+    {
+      "title": "We Are Developers! Das Frühjahrsmagazin 2023 ist da – Download kostenlos",
+      "teaser": "Die Frühjahrsausgabe der \"We Are Developers\"-Beilage zu c't und iX bietet Artikel zu Rust/Linux, Urheberrecht für KI-Bilder, ein Python-Tutorial und Mastodon.",
+      "url": "https://www.heise.de/news/We-Are-Developers-Das-Fruehjahrsmagazin-2023-ist-da-Download-kostenlos-7620905.html",
+      "image_title": "We Are Developers – Heise-Magazin als Beilage zu iX und c't, Frühjahr 1/2023"
+    },
+    {
+      "title": "Großes KI-Sprachmodell am eigenen Rechner: Ein LLaMA für die Westentasche?",
+      "teaser": "ChatGPT und GPT-4 sind Blackboxen. Daher lohnt es sich, ein offenes Modell auf dem eigenen Rechner auszuprobieren – mit Abstrichen sogar auf dem Raspi.",
+      "url": "https://www.heise.de/hintergrund/Grosses-KI-Sprachmodell-am-eigenen-Rechner-Ein-LLaMA-fuer-die-Westentasche-7624131.html",
+      "image_title": "Neural,Network,3d,Illustration.,Big,Data,And,Cybersecurity.,Data,Stream."
     },
     {
       "title": "Neues Mac & i-Webinar: Automatisiertes Deployment und Release-Management",
@@ -124,17 +136,6 @@
       "title": "Drei Fragen und Antworten: Wie programmiert es sich mit künstlicher Intelligenz?",
       "teaser": "Künstliche Intelligenz kann im Berufsalltag eine echte Stütze sein. Wie Programmierer von ChatGPT, Copilot & Co. profitieren können, zeigt unser Interview.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-Wie-programmiert-es-sich-mit-kuenstlicher-Intelligenz-7693781.html"
-    },
-    {
-      "title": "\"Shopping Suite\": Snap startet SaaS für Augmented-Reality-Anproben",
-      "teaser": "Die \"Shopping Suite\" ist eine Software von Snap, mit der Kunden via Augmented Reality etwa Kleidung und Accessoires anprobieren können. Sie kommt als SaaS.",
-      "url": "https://www.heise.de/news/Shopping-Suite-Snap-startet-SaaS-fuer-Augmented-Reality-Anproben-7612716.html"
-    },
-    {
-      "title": "Teslas Ladematte: Wie viel AirPower in der Wireless Charging Platform steckt",
-      "teaser": "Kurz vor Weihnachten kündigte Tesla eine Wireless Charging Platform an, die an Apples AirPower erinnerte. Jetzt ist die Ladematte verfügbar.",
-      "url": "https://www.heise.de/news/Teslas-Ladematte-Wie-viel-AirPower-in-der-Wireless-Charging-Platform-steckt-7701748.html",
-      "image_title": "Teslas Ladematte"
     },
     {
       "title": "Jacando ist Champion bei der \"Digitalen Personalakte\"",
