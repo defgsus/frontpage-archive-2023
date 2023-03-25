@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-25T09:10:09",
+  "timestamp": "2023-03-25T10:11:08",
   "url": "https://www.welt.de",
   "response": {
     "status": 200
@@ -13,6 +13,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244485224/0022502677-ci102l-w1024/Autobahn.jpg",
+      "image_title": "Autobahn",
+      "topic": "„Europa bleibt technologieneutral“"
+    },
     {
       "title": "„Habeck lässt alle Welt an seinem Frust teilnehmen. Es wird langsam kindisch“",
       "url": "https://www.welt.de/politik/deutschland/plus244468106/Friedrich-Merz-Gruene-fallen-zurueck-in-ihre-alten-Verhaltensmuster.html",
@@ -30,19 +37,19 @@
       "author": "Ibrahim Naber"
     },
     {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "FILE PHOTO: Gas bubbles from the Nord Stream 2 leak reaching surface of the Baltic Sea in the area shows a disturbance of well over one kilometre in diameter near Bornholm, Denmark, September 27, 2022. Danish Defence Command/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY/File Photo",
+      "topic": "Pipelines Nord Stream 1 und 2"
+    },
+    {
       "title": "Geschichte",
       "url": "https://www.welt.de/geschichte/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Polish_T-54A",
       "topic": "Oldtimer T-54/T-55",
       "author": "Johann Althaus"
-    },
-    {
-      "title": "Medwedew will „Auslandsagenten“-Einnahmen in Russland verbieten",
-      "url": "https://www.welt.de/politik/ausland/article244484350/Ukraine-News-Medwedew-will-Auslandsagenten-Einnahmen-in-Russland-verbieten.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Der ehemalige russische Präsident Dmitri Medwedew.",
-      "topic": "Ukraine-Krieg"
     },
     {
       "title": "Das steckt hinter dem plötzlichen Absturz der Deutsche-Bank-Aktie",
@@ -66,6 +73,14 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Kursgewinne mit Bitcoin",
       "author": "Daniel Eckert"
+    },
+    {
+      "title": "„Früher hatten 2 von 10 Kindern Entwicklungsauffälligkeiten. Heute sind es 6“",
+      "url": "https://www.welt.de/wirtschaft/karriere/bildung/plus244447190/Bereit-fuer-die-Grundschule-Frueher-hatten-2-von-10-Kindern-Entwicklungsauffaelligkeiten-Heute-sind-es-6.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Nicht alle Kitas bereiten Kinder vernünftig auf die Schule vor. Dabei gibt es gute Beispiele",
+      "topic": "Bereit für die Grundschule?",
+      "author": "Friederike Lübke"
     },
     {
       "title": "Die engen Grenzen der Meinungsfreiheit in Söder-Land",
@@ -100,6 +115,14 @@
       "author": "Tobias Kaiser"
     },
     {
+      "title": "„Das ist besorgniserregend“",
+      "url": "https://www.welt.de/gesundheit/plus244453358/Hefepilz-Erreger-beunruhigt-Gesundheitsbehoerden.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "SCHWERPUNKT Sorge um Pilz-Erreger Candida auris",
+      "topic": "Neuer Hefepilz breitet sich aus",
+      "author": "Walter Willems"
+    },
+    {
       "title": "Dämmt Robert Habeck selbst?",
       "url": "https://www.welt.de/kultur/plus244430488/ChatGPT-und-Deep-Fakes-Daemmt-Habeck-selbst-War-Putin-in-Mariupol-Wurde-Trump-verhaftet.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -129,14 +152,6 @@
       "author": "Harald Martenstein"
     },
     {
-      "title": "Männer und Frauen sind unterschiedlich – Das sollten wir feiern und nicht gleichmachen",
-      "url": "https://www.welt.de/vermischtes/plus244467802/Liebe-und-Partnerschaft-Maenner-und-Frauen-sind-unterschiedlich-Das-sollten-wir-feiern-und-nicht-gleichmachen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Portrait of a happy young couple in love, close-up. Getty ImagesGetty Images",
-      "topic": "Liebe und Partnerschaft",
-      "author": "Elke Naters"
-    },
-    {
       "title": "Den Bahn-Hassern fehlt es an Respekt",
       "url": "https://www.welt.de/wirtschaft/article244476674/Den-Bahn-Hassern-fehlt-es-an-Respekt.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -145,20 +160,36 @@
       "author": "Steffen Fründt"
     },
     {
-      "title": "Habeck ist nicht alleine schuld am Heizungs-Desaster",
-      "url": "https://www.welt.de/debatte/article244479942/Ampel-Streit-Habeck-ist-nicht-alleine-schuld-am-Heizungs-Desaster.html",
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "WELT-AM-SONNTAG-Chefredakteurin Dagmar Rosenfeld",
-      "topic": "Ampel-Streit",
-      "author": "Dagmar Rosenfeld"
+      "image_title": "Fußballtrainer Tuchel und Nagelsmann",
+      "topic": "Neuer Bayern-Trainer",
+      "author": "Sven Flohr"
     },
     {
-      "title": "Gesundheit",
-      "url": "https://www.welt.de/gesundheit/",
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "SCHWERPUNKT Sorge um Pilz-Erreger Candida auris",
-      "topic": "Neuer Hefepilz breitet sich aus",
-      "author": "Walter Willems"
+      "image_title": "126196411",
+      "topic": "Abserviert in München",
+      "author": "Udo Muras"
+    },
+    {
+      "title": "Borussia Dortmund",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "„Im Fußball erlebt man vieles, einiges blendet auch“, sagt Marius Wolf",
+      "topic": "Marius Wolf",
+      "author": "Julien Wolff"
+    },
+    {
+      "title": "Männer und Frauen sind unterschiedlich – Das sollten wir feiern und nicht gleichmachen",
+      "url": "https://www.welt.de/vermischtes/plus244467802/Liebe-und-Partnerschaft-Maenner-und-Frauen-sind-unterschiedlich-Das-sollten-wir-feiern-und-nicht-gleichmachen.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Portrait of a happy young couple in love, close-up. Getty ImagesGetty Images",
+      "topic": "Liebe und Partnerschaft",
+      "author": "Elke Naters"
     },
     {
       "title": "Reise",
@@ -312,9 +343,9 @@
       "topic": "Faeser zu EU-Asylreform"
     },
     {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "topic": "Nach jahrelanger Pause"
+      "title": "FC Bayern München",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/",
+      "topic": "Pressestimmen zu Nagelsmann"
     },
     {
       "title": "Berliner Polizei wirft Tassen weg, weil blauer Strich als rassistisch gilt",
@@ -584,6 +615,14 @@
       "author": "Matthias Kamann"
     },
     {
+      "title": "Habeck ist nicht alleine schuld am Heizungs-Desaster",
+      "url": "https://www.welt.de/debatte/article244479942/Ampel-Streit-Habeck-ist-nicht-alleine-schuld-am-Heizungs-Desaster.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "WELT-AM-SONNTAG-Chefredakteurin Dagmar Rosenfeld",
+      "topic": "Ampel-Streit",
+      "author": "Dagmar Rosenfeld"
+    },
+    {
       "title": "Hamburg",
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -597,14 +636,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Philipp Amthor, (CDU/CSU) spricht im Plenarsaal des Bundestags. Thema der Debatte ist die Stärkung der Bundespolizei.",
       "topic": "Philipp Amthor"
-    },
-    {
-      "title": "„Mit dem Vorschlag spielt Lisa Paus Eltern gegeneinander aus“",
-      "url": "https://www.welt.de/politik/deutschland/plus244451906/Kindergrundsicherung-Mit-dem-Vorschlag-spielt-Lisa-Paus-Eltern-gegeneinander-aus.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Setzt die Familienministerin ihren Plan durch, hätte das Nachteile für gut verdienende Eltern zur Folge",
-      "topic": "Plan der Familienministerin",
-      "author": "Sabine Menkens"
     },
     {
       "title": "Der umstrittene „Aktionsplan“ des Queer-Beauftragten",
