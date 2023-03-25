@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-25T10:11:26",
+  "timestamp": "2023-03-25T11:09:08",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Großstreik im Verkehr: Wirtschaftsweise zeigt Verständnis für Streik",
+      "teaser": "Die Kommunen sehen einen verkappten Generalstreik, während die Mehrheit der Menschen Verständnis zeigt. Die Ökonomin Monika Schnitzer verweist auf die hohe Inflation. 248 Kommentare",
+      "url": "https://www.zeit.de/politik/deutschland/2023-03/verkehrsstreik-kritik-staedtebund",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/verkehrsstreik-kritik-staedtebund-bild/cinema__980x420"
+    },
+    {
       "title": "Energiewende: Länder finden Windkraftflächen offenbar schneller als geplant",
-      "teaser": "Deutschland sucht Platz für neue Windkraftanlagen. Die Bundesländer müssen dafür Flächen ausweisen – und kommen laut einem Bericht schneller voran als vorgeschrieben. 105 Kommentare",
+      "teaser": "Deutschland sucht Platz für neue Windkraftanlagen. Die Bundesländer müssen dafür Flächen ausweisen – und kommen laut einem Bericht schneller voran als vorgeschrieben.",
       "url": "https://www.zeit.de/politik/2023-03/energiewende-bundeslaender-windkraft-flaechen-ausbau",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/windkraftanlagen-flaeche-ausbau-bundeslaender-bild-2/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/windkraftanlagen-flaeche-ausbau-bundeslaender-bild-2/wide__822x462",
+      "image_title": "Energiewende: Länder finden Windkraftflächen offenbar schneller als geplant"
     },
     {
       "title": "Andreas Scheuer: \"Die Konservativen sind immer an der Spitze des Fortschritts\"",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-03/andreas-scheuer-politikpodcast-ehrlich-jetzt",
       "image_url": "https://img.zeit.de/politik/2023-03/andreas-scheuer-politikpodcast-ehrlich-jetzt-aufmacher/wide__822x462",
       "image_title": "Andreas Scheuer: \"Die Konservativen sind immer an der Spitze des Fortschritts\""
-    },
-    {
-      "title": "Lukas Köhler: \"Autobahnen werden in Zukunft klimaneutrale Orte sein\"",
-      "teaser": "Vor dem Koalitionsausschuss gibt es Streit um den Klimaschutz. FDP-Fraktionsvize Lukas Köhler über Planungsbeschleunigung, Ölheizungen und die Stimmung in der Ampel",
-      "url": "https://www.zeit.de/politik/deutschland/2023-03/lukas-koehler-ampel-koalition-klimaschutz-heizung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/lukas-koehler/wide__822x462",
-      "image_title": "Lukas Köhler: \"Autobahnen werden in Zukunft klimaneutrale Orte sein\""
     },
     {
       "title": "USA: Donald Trump soll nach eigener Aussage festgenommen werden",
@@ -162,18 +162,18 @@
       "image_title": "Wagner-Chef: Der Sieg soll nur ihm allein gehören"
     },
     {
+      "title": "Lukas Köhler: \"Autobahnen werden in Zukunft klimaneutrale Orte sein\"",
+      "teaser": "Vor dem Koalitionsausschuss gibt es Streit um den Klimaschutz. FDP-Fraktionsvize Lukas Köhler über Planungsbeschleunigung, Ölheizungen und die Stimmung in der Ampel",
+      "url": "https://www.zeit.de/politik/deutschland/2023-03/lukas-koehler-ampel-koalition-klimaschutz-heizung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/lukas-koehler/cinema__980x420",
+      "image_title": "Lukas Köhler: \"Autobahnen werden in Zukunft klimaneutrale Orte sein\""
+    },
+    {
       "title": "Ukraine-Karte aktuell: Russische Angriffe auf Bachmut gehen offenbar zurück",
       "teaser": "Die russischen Truppen scheinen in Bachmut weiter die Initiative zu verlieren. Bald könnten die Wagner-Truppen in der Stadt durch reguläre Einheiten ersetzt werden.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
       "image_title": "Ukraine-Karte aktuell: Russische Angriffe auf Bachmut gehen offenbar zurück"
-    },
-    {
-      "title": "Großstreik im Verkehr: Städtebund kritisiert für Montag geplanten Großstreik",
-      "teaser": "Der bundesweite Warnstreik im Verkehr kommt laut den Kommunen \"einem Generalstreik ziemlich nahe\". Die meisten Menschen in Deutschland scheinen aber Verständnis zu haben.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-03/verkehrsstreik-kritik-staedtebund",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/verkehrsstreik-kritik-staedtebund-bild/wide__822x462",
-      "image_title": "Großstreik im Verkehr: Städtebund kritisiert für Montag geplanten Großstreik"
     },
     {
       "title": "Verantwortungsgemeinschaft: Floppt die Wahlverwandtschaft?",
@@ -205,7 +205,7 @@
     },
     {
       "title": "Ukraine-Überblick: Ukraine kritisiert UN-Bericht, Russland wirft Slowakei Verstoß vor",
-      "teaser": "Die Ukraine hat einem Bericht der Vereinten Nationen über Misshandlungen und Folter widersprochen. Russland wirft der Slowakei Vertragsbruch vor. Das war die Nacht. 118 Kommentare",
+      "teaser": "Die Ukraine hat einem Bericht der Vereinten Nationen über Misshandlungen und Folter widersprochen. Russland wirft der Slowakei Vertragsbruch vor. Das war die Nacht. 132 Kommentare",
       "url": "https://www.zeit.de/politik/ausland/2023-03/ukraine-ueberblick-un-bericht-slowakei-russland",
       "image_url": "https://img.zeit.de/politik/ausland/2023-03/ukraine-ueberblick-un-bericht-slowakei-russland-bild/cinema__980x420",
       "image_title": "Ukraine-Überblick: Ukraine kritisiert UN-Bericht, Russland wirft Slowakei Verstoß vor"
