@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-27T14:23:16",
+  "timestamp": "2023-03-27T15:13:40",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Künstliche Intelligenz: Europol warnt vor Missbrauch von ChatGPT durch Kriminelle",
+      "teaser": "KIs wie ChatGPT können den Sprachstil von bestimmten Personen oder Gruppen kopieren. Dies kann auch Verbrechern nützlich sein.So können sie Opfer besser täuschen.",
+      "url": "https://www.zeit.de/digital/internet/2023-03/chatgpt-europol-missbrauch-kriminelle-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-europol-missbrauch-kriminelle-kuenstliche-intelligenz-laptop/cinema__980x420"
+    },
+    {
       "title": "Kurznachrichtendienst: Elon Musk beziffert Wert von Twitter auf 20 Milliarden Dollar",
       "teaser": "Nach Angaben des Twitter-Eigentümers ist das Unternehmen nur die Hälfte des Kaufpreises vom Oktober 2022 wert. Zudem wurde der Quellcode der Plattform in Teilen geleakt.",
       "url": "https://www.zeit.de/digital/2023-03/twitter-elon-musk-datenleck",
-      "image_url": "https://img.zeit.de/digital/2023-03/twitter-bueros-chelsea/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-03/twitter-bueros-chelsea/wide__822x462",
+      "image_title": "Kurznachrichtendienst: Elon Musk beziffert Wert von Twitter auf 20 Milliarden Dollar"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); KI-Bildgenerator: Wie ein deutscher KI-Forscher das Silicon Valley verblüfft",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/2023-03/stable-diffusion-ki-bildgenerator-bjoern-ommer-open-source",
       "image_url": "https://img.zeit.de/digital/2023-03/zeit-online-hiroshi-watanabe-getty-images-bild/wide__822x462",
       "image_title": "KI-Bildgenerator: Wie ein deutscher KI-Forscher das Silicon Valley verblüfft"
-    },
-    {
-      "title": "ChatGPT: So funktioniert ChatGPT",
-      "teaser": "Ob Liebesbriefe oder Bewerbungen: ChatGPT schreibt im Handumdrehen Texte, die so gut sind wie die eines Menschen. Das schafft die KI in sechs Schritten.",
-      "url": "https://www.zeit.de/2023/13/chatgpt-kuenstliche-intelligenz-funktion-token",
-      "image_url": "https://img.zeit.de/wissen/2023-03/chatgpt-kuenstliche-intelligenz-teaser/wide__822x462",
-      "image_title": "ChatGPT: So funktioniert ChatGPT"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Hast du ein Bewusstsein? Ich denke schon, antwortet der Rechner",
@@ -102,8 +102,8 @@
       "image_title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion"
     },
     {
-      "title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion",
-      "url": "https://www.zeit.de/digital/2023-03/chatgpt-4-falschinformationen-verbreitung-newsguard"
+      "title": "ChatGPT: So funktioniert ChatGPT",
+      "url": "https://www.zeit.de/2023/13/chatgpt-kuenstliche-intelligenz-funktion-token"
     },
     {
       "title": "GPT-4: Ein bisschen schlauer wirkt es schon",
@@ -114,8 +114,8 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche"
     },
     {
-      "title": "ChatGPT: So funktioniert ChatGPT",
-      "url": "https://www.zeit.de/2023/13/chatgpt-kuenstliche-intelligenz-funktion-token"
+      "title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion",
+      "url": "https://www.zeit.de/digital/2023-03/chatgpt-4-falschinformationen-verbreitung-newsguard"
     },
     {
       "title": "ChatGPT: So funktioniert ChatGPT",
@@ -126,12 +126,12 @@
       "url": "https://www.zeit.de/digital/2023-03/stable-diffusion-ki-bildgenerator-bjoern-ommer-open-source"
     },
     {
-      "title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion",
-      "url": "https://www.zeit.de/digital/2023-03/chatgpt-4-falschinformationen-verbreitung-newsguard"
-    },
-    {
       "title": "ChatGPT: So funktioniert ChatGPT",
       "url": "https://www.zeit.de/2023/13/chatgpt-kuenstliche-intelligenz-funktion-token"
+    },
+    {
+      "title": "ChatGPT: GPT-4 produziert mehr Falschinformationen als Vorgängerversion",
+      "url": "https://www.zeit.de/digital/2023-03/chatgpt-4-falschinformationen-verbreitung-newsguard"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
@@ -154,6 +154,13 @@
       "url": "https://www.zeit.de/2023/13/chatgpt-kuenstliche-intelligenz-funktion-token"
     },
     {
+      "title": "ChatGPT: So funktioniert ChatGPT",
+      "teaser": "Ob Liebesbriefe oder Bewerbungen: ChatGPT schreibt im Handumdrehen Texte, die so gut sind wie die eines Menschen. Das schafft die KI in sechs Schritten.",
+      "url": "https://www.zeit.de/2023/13/chatgpt-kuenstliche-intelligenz-funktion-token",
+      "image_url": "https://img.zeit.de/wissen/2023-03/chatgpt-kuenstliche-intelligenz-teaser/wide__822x462",
+      "image_title": "ChatGPT: So funktioniert ChatGPT"
+    },
+    {
       "title": "\"Resident Evil 4\": Hat hier jemand eine Präsidententochter gesehen?",
       "teaser": "\"Resident Evil 4\" ist eines der besten Horrorgames der Videospielgeschichte. Nach 18 Jahren gibt es jetzt eine Neuauflage. Die wirkt wie eine Zeitreise – und das ist gut.",
       "url": "https://www.zeit.de/digital/games/2023-03/resident-evil-4-remake-capcom-action-horror-videospiel",
@@ -166,13 +173,6 @@
       "url": "https://www.zeit.de/digital/datenschutz/2023-03/tiktok-frankreich-verbot",
       "image_url": "https://img.zeit.de/digital/datenschutz/2023-03/tiktok-frankreich-verbot-bild/wide__822x462",
       "image_title": "Datenschutz: Frankreichs Regierung verbietet TikTok auf Diensthandys"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elektronische Patientenakte: Wenn alle erfahren, was einem fehlt",
-      "teaser": "Die elektronische Patientenakte soll sensible Daten an die Forschung weiterleiten, ohne Einwilligung der Patienten. Das besorgt Datenschützer – und lockt Hacker an.",
-      "url": "https://www.zeit.de/2023/13/elektronische-patientenakte-datenschutz-karl-lauterbach",
-      "image_url": "https://img.zeit.de/2023/13/wenn-alle-erfahren-was-einem-fehlt-bild-1/wide__822x462",
-      "image_title": "Elektronische Patientenakte: Wenn alle erfahren, was einem fehlt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -203,6 +203,13 @@
       "image_title": "Cyberangriff in Potsdam: Die Spur der Geisterrouter"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Elektronische Patientenakte: Wenn alle erfahren, was einem fehlt",
+      "teaser": "Die elektronische Patientenakte soll sensible Daten an die Forschung weiterleiten, ohne Einwilligung der Patienten. Das besorgt Datenschützer – und lockt Hacker an.",
+      "url": "https://www.zeit.de/2023/13/elektronische-patientenakte-datenschutz-karl-lauterbach",
+      "image_url": "https://img.zeit.de/2023/13/wenn-alle-erfahren-was-einem-fehlt-bild-1/wide__822x462",
+      "image_title": "Elektronische Patientenakte: Wenn alle erfahren, was einem fehlt"
+    },
+    {
       "title": "Soziale Medien: Twitter will alte Häkchen ab April entfernen",
       "teaser": "Die blauen Häkchen bei Twitter werden ab April kostenpflichtig. Wer das Zeichen behalten will, muss ein Abo abschließen. Besitzer Elon Musk will damit Einnahmen erhöhen.",
       "url": "https://www.zeit.de/digital/internet/2023-03/soziale-medien-twitter-haekchen",
@@ -217,13 +224,6 @@
       "image_title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein"
     },
     {
-      "title": "Elektroschrott: Reparieren, nicht neu kaufen",
-      "teaser": "Die EU-Kommission plant, Elektrogeräte bis zu zehn Jahre lang reparieren zu lassen. Manchen geht der Vorschlag im Kampf gegen den Elektroschrott aber nicht weit genug.",
-      "url": "https://www.zeit.de/digital/mobil/2023-03/eu-kommission-elektroschrott-reparatur-recht",
-      "image_url": "https://img.zeit.de/digital/mobil/2023-03/recht-reparatur-handy/wide__822x462",
-      "image_title": "Elektroschrott: Reparieren, nicht neu kaufen"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -231,11 +231,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Kurzvideoplattform: TikTok-Chef sichert im US-Kongress Datensicherheit zu",
-      "teaser": "Der Chef der Videoplattform TikTok, Shou Zi Chew, hat sich den Fragen von US-Abgeordneten gestellt. Die Vorsitzende des Handelsausschusses brachte heftige Vorwürfe vor.",
-      "url": "https://www.zeit.de/digital/2023-03/tiktok-chef-shou-zi-chew-anhoerung-us-kongress-datensicherheit",
-      "image_url": "https://img.zeit.de/digital/2023-03/tik-tik-datensicherheit-bild/wide__822x462",
-      "image_title": "Kurzvideoplattform: TikTok-Chef sichert im US-Kongress Datensicherheit zu"
+      "title": "Elektroschrott: Reparieren, nicht neu kaufen",
+      "teaser": "Die EU-Kommission plant, Elektrogeräte bis zu zehn Jahre lang reparieren zu lassen. Manchen geht der Vorschlag im Kampf gegen den Elektroschrott aber nicht weit genug.",
+      "url": "https://www.zeit.de/digital/mobil/2023-03/eu-kommission-elektroschrott-reparatur-recht",
+      "image_url": "https://img.zeit.de/digital/mobil/2023-03/recht-reparatur-handy/wide__822x462",
+      "image_title": "Elektroschrott: Reparieren, nicht neu kaufen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
@@ -252,6 +252,13 @@
       "image_title": "Fotos sortieren: Ach, war das schön!"
     },
     {
+      "title": "Künstliche Intelligenz: Europol warnt vor Missbrauch von ChatGPT durch Kriminelle",
+      "teaser": "KIs wie ChatGPT können den Sprachstil von bestimmten Personen oder Gruppen kopieren. Dies kann auch Verbrechern nützlich sein.So können sie Opfer besser täuschen.",
+      "url": "https://www.zeit.de/digital/internet/2023-03/chatgpt-europol-missbrauch-kriminelle-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/digital/2023-03/chatgpt-europol-missbrauch-kriminelle-kuenstliche-intelligenz-laptop/wide__822x462",
+      "image_title": "Künstliche Intelligenz: Europol warnt vor Missbrauch von ChatGPT durch Kriminelle"
+    },
+    {
       "title": "Soziale Medien: Twitter will alte Häkchen ab April entfernen",
       "teaser": "Die blauen Häkchen bei Twitter werden ab April kostenpflichtig. Wer das Zeichen behalten will, muss ein Abo abschließen. Besitzer Elon Musk will damit Einnahmen erhöhen.",
       "url": "https://www.zeit.de/digital/internet/2023-03/soziale-medien-twitter-haekchen",
@@ -264,13 +271,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-03/usa-utah-social-media-einschraenkungen-jugendliche",
       "image_url": "https://img.zeit.de/digital/internet/2023-03/usa-social-media-jugendliche/wide__822x462",
       "image_title": "USA: Erster Bundesstaat schränkt Social-Media-Nutzung von Jugendlichen ein"
-    },
-    {
-      "title": "Kurzvideoplattform: TikTok-Chef sichert im US-Kongress Datensicherheit zu",
-      "teaser": "Der Chef der Videoplattform TikTok, Shou Zi Chew, hat sich den Fragen von US-Abgeordneten gestellt. Die Vorsitzende des Handelsausschusses brachte heftige Vorwürfe vor.",
-      "url": "https://www.zeit.de/digital/2023-03/tiktok-chef-shou-zi-chew-anhoerung-us-kongress-datensicherheit",
-      "image_url": "https://img.zeit.de/digital/2023-03/tik-tik-datensicherheit-bild/wide__822x462",
-      "image_title": "Kurzvideoplattform: TikTok-Chef sichert im US-Kongress Datensicherheit zu"
     },
     {
       "title": "Facebook-Fanpage: Bundesregierung klagt gegen Facebook-Verbot durch Datenschützer",
