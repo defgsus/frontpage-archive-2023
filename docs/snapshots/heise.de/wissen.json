@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-27T09:12:52",
+  "timestamp": "2023-03-27T10:13:07",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -41,15 +41,31 @@
       "url": "https://www.heise.de/news/Weltklimarat-Jedes-Zehntelgrad-wird-wichtig-7556877.html"
     },
     {
+      "title": "Technische Zeichnungen erstellen: Teile mit FreeCAD bemaßen",
+      "teaser": "Wie man Pläne mit der kostenlosen Software FreeCAD erzeugt, zeigen wir in unserer kleinen Artikelserie. In dieser Folge bemaßen wir Teile.",
+      "url": "https://www.heise.de/ratgeber/Technische-Zeichnungen-erstellen-Teile-mit-FreeCAD-bemassen-7556347.html"
+    },
+    {
       "title": "Fehlalarme von Antivirus-Software korrigieren",
       "teaser": "Harmlose Software wird nicht selten von Virenscannern als Sicherheitsrisiko wahrgenommen. Wir waren erst selbst betroffen und haben das Verhalten hinterfragt.",
       "url": "https://www.heise.de/ratgeber/Fehlalarme-von-Antivirus-Software-korrigieren-7619526.html",
       "image_title": "Bild: kläffende Hunde, KI Midjourney Bearbeitung: c‘t"
     },
     {
-      "title": "Dürre in Deutschland: Stadt, Land – kein Fluss mehr!",
-      "teaser": "Warum müssen wir uns plötzlich Sorgen machen, ob noch genug Wasser zum Duschen, Ackern, Autobauen da ist? Die Situation in Berlin und Brandenburg zeigt's.",
-      "url": "https://www.heise.de/hintergrund/Duerre-in-Deutschland-Stadt-Land-ohne-Fluss-7592965.html"
+      "title": "Hybride Fortbewegung: Einrad rollt und fliegt",
+      "teaser": "Ein Einrad rollt durch schmale Lücken und überfliegt Hindernisse. Zum Einsatz kommen könnte es bei Rettungsaktionen, meinen Forscher.",
+      "url": "https://www.heise.de/news/Hybride-Fortbewegung-Einrad-rollt-und-fliegt-8114944.html"
+    },
+    {
+      "title": "KI-Sprachmodelle können Vorurteile selbst korrigieren – wenn man sie bittet",
+      "teaser": "Eine Studie des KI-Labors Anthropic zeigt, wie einfache Anweisungen große Sprachmodelle dazu bringen können, weniger toxische Inhalte zu produzieren.",
+      "url": "https://www.heise.de/news/KI-Sprachmodelle-koennen-Vorurteile-selbst-korrigieren-wenn-man-sie-bittet-7988363.html",
+      "image_title": "Face off - Mann nimmt sein Gesicht ab"
+    },
+    {
+      "title": "Smarthome: Fehler in Home-Assistant-Update von ESPHome",
+      "teaser": "Seit dem ersten Update von ESPHome 2023 fehlt in der Home-Assistant-Erweiterung die Boardauswahl. Ein Restore ist nötig, um den Fehler zu beseitigen.",
+      "url": "https://www.heise.de/ratgeber/Smarthome-Fehler-in-Home-Assistant-Update-von-ESPHome-8005669.html"
     },
     {
       "title": "Anti-Aging: Alkohol-abbauendes Enzym könnte für längeres Leben sorgen",
@@ -89,6 +105,11 @@
       "url": "https://www.heise.de/news/c-t-3003-ChatGPT-Klon-laeuft-lokal-auf-jedem-Rechner-Alpaca-LLaMA-ausprobiert-8004159.html"
     },
     {
+      "title": "Dürre in Deutschland: Stadt, Land – kein Fluss mehr!",
+      "teaser": "Warum müssen wir uns plötzlich Sorgen machen, ob noch genug Wasser zum Duschen, Ackern, Autobauen da ist? Die Situation in Berlin und Brandenburg zeigt's.",
+      "url": "https://www.heise.de/hintergrund/Duerre-in-Deutschland-Stadt-Land-ohne-Fluss-7592965.html"
+    },
+    {
       "title": "Sauberes Wasser und 16 Mikrowatt: Filtermembran erzeugt auch Strom",
       "teaser": "Forscher haben eine Membran entwickelt, die kleinste Partikel einfängt und zugleich als Mikrokraftwerk dient. Die Stromausbeute ist aber noch recht gering.",
       "url": "https://www.heise.de/hintergrund/Sauberes-Wasser-und-16-Mikrowatt-Neue-Filtermembran-erzeugt-auch-Strom-7729113.html"
@@ -108,28 +129,6 @@
       "title": "Word: Kein Subset-Menü im Symbol-Dialog",
       "teaser": "Ich möchte ein Symbol in Word einfügen. Der dafür übliche Dialog zeigt allerdings nicht alle Symbole an und das Subset-Ausklappmenü fehlt.",
       "url": "https://www.heise.de/ratgeber/Word-Kein-Subset-Menue-im-Symbol-Dialog-7609860.html"
-    },
-    {
-      "title": "Wasserkraft: Es geht auch fisch-freundlich",
-      "teaser": "Wasserkraft spielt in Deutschland nur eine untergeordnete Rolle. Forscher suchen nun neue Wege, um schonend und verlässlich Strom aus Strömung zu produzieren.",
-      "url": "https://www.heise.de/hintergrund/Wasserkraft-Es-geht-auch-fisch-freundlich-7711199.html"
-    },
-    {
-      "title": "Großes KI-Sprachmodell am eigenen Rechner: Ein LLaMA für die Westentasche?",
-      "teaser": "ChatGPT und GPT-4 sind Blackboxen. Daher lohnt es sich, ein offenes Modell auf dem eigenen Rechner auszuprobieren – mit Abstrichen sogar auf dem Raspi.",
-      "url": "https://www.heise.de/hintergrund/Grosses-KI-Sprachmodell-am-eigenen-Rechner-Ein-LLaMA-fuer-die-Westentasche-7624131.html",
-      "image_title": "Neural,Network,3d,Illustration.,Big,Data,And,Cybersecurity.,Data,Stream."
-    },
-    {
-      "title": "Deep Dive: Was hinter solarem Geoengineering steckt",
-      "teaser": "Mit Partikeln die Sonnenstrahlung dämpfen, hält Klima-Ökonom Gernot Wagner eigentlich für \"Wahnsinn\". Im Podcast erklärt er, warum er trotzdem daran forscht.",
-      "url": "https://www.heise.de/hintergrund/Deep-Dive-Was-hinter-solarem-Geoengineering-steckt-7700392.html"
-    },
-    {
-      "title": "Zeitumstellung: Deutsche wollen mehrheitlich nicht mehr an der Uhr drehen",
-      "teaser": "Eine überwiegende Mehrheit der Deutschen hat die Nase voll vom Umstellen der Uhren auf Sommer- oder Winterzeit, hat eine Umfrage von Yougov ergeben.",
-      "url": "https://www.heise.de/news/Umfrage-Mehrheit-der-Deutschen-wuerde-auf-Zeitumstellung-verzichten-7903647.html",
-      "image_title": "Frau mit einer Apple Watch"
     }
   ]
 }
