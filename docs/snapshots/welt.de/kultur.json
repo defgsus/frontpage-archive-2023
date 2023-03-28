@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-28T14:12:36",
+  "timestamp": "2023-03-28T15:13:52",
   "url": "https://www.welt.de/kultur/",
   "response": {
     "status": 200
@@ -13,6 +13,22 @@
     }
   ],
   "articles": [
+    {
+      "title": "Wenn Sie diese Wörter kennen, sind Sie kein Piefke",
+      "url": "https://www.welt.de/kultur/plus230530605/Oesterreich-Kein-Deutscher-kennt-diese-deutschen-Woerter.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile232350369/8302504387-ci102l-w1024/MOZART-GIRL-IN-VIENNA-AT-ST-STEPHENS-CHURCH.jpg",
+      "image_title": "MOZART GIRL IN VIENNA AT ST STEPHENS CHURCH",
+      "topic": "Das Deutsch der anderen",
+      "author": "Matthias Heine"
+    },
+    {
+      "title": "Kultur",
+      "url": "https://www.welt.de/kultur/",
+      "image_url": "https://img.welt.de/img/kultur/mobile212376331/8382507157-ci102l-w1024/January-1946-British-Crime-Author-Agatha-Christie-Mrs-Max-Mallowan-at-work-in-h.jpg",
+      "image_title": "Einen Tisch und eine Maschine, mehr brauchte Agatha Christie nicht zum Schreiben",
+      "topic": "Agatha Christie",
+      "author": "Peter Praschl"
+    },
     {
       "title": "Pop",
       "url": "https://www.welt.de/kultur/pop/",
@@ -28,22 +44,6 @@
       "image_title": "Schreiben mit einem Stift aus der Hölle: Joy Williams, Jahrgang 1944",
       "topic": "Joy Williams",
       "author": "Wieland Freund"
-    },
-    {
-      "title": "Film",
-      "url": "https://www.welt.de/kultur/kino/",
-      "image_url": "https://img.welt.de/img/kultur/kino/mobile244499340/9902503327-ci102l-w1024/Broker-Filmfoto-PLAION-PICTURES.jpg",
-      "image_title": "Szene aus \"Broker\"",
-      "topic": "Cannes-Gewinner",
-      "author": "Hanns-Georg Rodek"
-    },
-    {
-      "title": "„Wir waren täglich mit dem Tod konfrontiert“",
-      "url": "https://www.welt.de/kultur/pop/plus244464038/Martin-Gore-von-Depeche-Mode-im-Interview-Wir-waren-taeglich-mit-dem-Tod-konfrontiert.html",
-      "image_url": "https://img.welt.de/img/kultur/pop/mobile244464030/4022504617-ci102l-w1024/Depeche-Mode-Plattenfirma-Sony-Music-4.jpg",
-      "image_title": "„Ich bin im Herbst meines Lebens“: Martin Gore von Depeche Mode",
-      "topic": "Martin Gore von Depeche Mode",
-      "author": "Martin Scholz"
     },
     {
       "title": "Einzigartiger Planet",
@@ -92,6 +92,14 @@
       "author": "Matthias Heine"
     },
     {
+      "title": "Film",
+      "url": "https://www.welt.de/kultur/kino/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Szene aus \"Broker\"",
+      "topic": "Cannes-Gewinner",
+      "author": "Hanns-Georg Rodek"
+    },
+    {
       "title": "„Niemand sagt: Ich will Richard III. spielen, weil ich eine Behinderung habe“",
       "url": "https://www.welt.de/kultur/kino/plus244443268/Lars-Eidinger-Niemand-will-Richard-III-spielen-weil-er-eine-Behinderung-hat.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -121,14 +129,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Rennen, schießen, Schwerter schwingen: Keanu Reeves in „John Wick 4“",
       "topic": "„John Wick 4“",
-      "author": "Hanns-Georg Rodek"
-    },
-    {
-      "title": "Die geheimen Botschaften von „Im Westen nichts Neues“",
-      "url": "https://www.welt.de/kultur/plus244295499/Im-Westen-nichts-Neues-Die-geheimen-Botschaften-des-Oscar-Gewinners.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Daniel Brühl als Matthias Erzberger",
-      "topic": "Oscar-Gewinner",
       "author": "Hanns-Georg Rodek"
     },
     {
@@ -288,6 +288,14 @@
       "author": "6 Min"
     },
     {
+      "title": "„Wir waren täglich mit dem Tod konfrontiert“",
+      "url": "https://www.welt.de/kultur/pop/plus244464038/Martin-Gore-von-Depeche-Mode-im-Interview-Wir-waren-taeglich-mit-dem-Tod-konfrontiert.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "„Ich bin im Herbst meines Lebens“: Martin Gore von Depeche Mode",
+      "topic": "Martin Gore von Depeche Mode",
+      "author": "Martin Scholz"
+    },
+    {
       "title": "Warum wir römische Inschriften besser lesen können als die „deutsche Schrift“",
       "url": "https://www.welt.de/kultur/plus230253125/Altes-Rom-Warum-wir-roemische-Inschriften-besser-lesen-koennen-als-die-deutsche-Schrift.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -329,7 +337,7 @@
     },
     {
       "title": "Was Habeck meinte, als er von „durchstechen“ sprach",
-      "url": "https://www.welt.de/kultur/article244508980/Waermepumpen-Was-Habeck-meinte-als-er-von-durchstechen-sprach.html",
+      "url": "https://www.welt.de/kultur/plus244508980/Waermepumpen-Was-Habeck-meinte-als-er-von-durchstechen-sprach.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Ärger über den Durchstecher: Robert Habeck",
       "topic": "Wärmepumpen",
@@ -366,14 +374,6 @@
       "image_title": "Die Studie untersuchte auch Formen mit Genderstern",
       "topic": "Rechtschreibung",
       "author": "Dankwart Guratzsch"
-    },
-    {
-      "title": "Wenn Sie diese Wörter kennen, sind Sie kein Piefke",
-      "url": "https://www.welt.de/kultur/plus230530605/Oesterreich-Wenn-Sie-diese-deutschen-Woerter-kennen-sind-Sie-kein-Piefke.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "MOZART GIRL IN VIENNA AT ST STEPHENS CHURCH",
-      "topic": "Das Deutsch der anderen",
-      "author": "Matthias Heine"
     },
     {
       "title": "Kultur",
