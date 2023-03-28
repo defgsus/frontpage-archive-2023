@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-28T10:12:57",
+  "timestamp": "2023-03-28T11:10:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -33,7 +33,7 @@
   "articles": [
     {
       "title": "UpdateiPhoneiOS 16.4 ist da: Das sind die Neuerungen",
-      "teaser": "Release-Tag bei Apple: Mit einem größeren Update baut der Hersteller Funktionen aus und beseitigt Fehler auf iPhones, iPads, Macs und Apple Watches.",
+      "teaser": "Release-Tag bei Apple: Mit einem größeren Update erweitert der Hersteller die Funktionalität und beseitigt Fehler auf iPhones, iPads, Macs und Apple Watches.",
       "url": "https://www.heise.de/news/iOS-16-4-ist-da-Das-sind-die-Neuerungen-8118724.html",
       "image_title": "iPhone und MacBook installieren Updates"
     },
@@ -121,14 +121,15 @@
       "url": "https://www.heise.de/ratgeber/Schlank-guenstig-stromsparend-NAS-mit-Thin-Client-im-Eigenbau-7546763.html"
     },
     {
+      "title": "UpdateUS-Präsident Biden schränkt Einsatz kommerzieller Spyware ein",
+      "teaser": "Spyware ist oft verheerend für Menschenrechte und Demokatie. Das Weiße Haus schränkt nun den Einsatz durch US-Bundesbehörden ein. Es gibt allerdings Ausnahmen.",
+      "url": "https://www.heise.de/news/US-Praesident-Biden-schraenkt-Einsatz-kommerzieller-Spyware-ein-8129395.html",
+      "image_title": "Das Weiße Haus"
+    },
+    {
       "title": "DatenschutzSchufa verkürzt Speicherdauer für Einträge zu Privatinsolvenzen",
       "teaser": "Bisher speichert die Schufa drei Jahre lang Einträge zu abgeschlossenen Privatinsolvenzen. Diese Frist will sie nun verkürzen.",
       "url": "https://www.heise.de/news/Schufa-verkuerzt-Speicherdauer-fuer-Eintraege-zu-Privatinsolvenzen-8143103.html"
-    },
-    {
-      "title": "\"Acropalypse\"Microsoft korrigiert Fehler im Windows Snipping-Tool",
-      "teaser": "Die \"Acropalypse\" genannte Schwachstelle betrifft auch das Windows Snipping-Tool. Ein Update von Microsoft schließt die Lücke jetzt.",
-      "url": "https://www.heise.de/news/Microsoft-korrigiert-Acropalypse-Fehler-im-Windows-Snipping-Tool-8072177.html"
     },
     {
       "title": "Grenzen der Sprach-KI: ChatGPT zwischen Effizienz und Wunschdenken",
@@ -145,6 +146,34 @@
       "url": "https://www.heise.de/hintergrund/ChatGPT-Wie-KI-Regulierungen-der-EU-Grundrechtsverletzungen-verhindern-sollen-7543888.html"
     },
     {
+      "title": "iOS-Geräte als mobile Kontrollmonitore nutzen: Accsoons SeeMo im Test",
+      "teaser": "Accsoons SeeMo macht iPhones und iPads zu \"HDMI-Feldmonitoren\", die aufnehmen, streamen und weitere Tricks beherrschen. Das Ergebnis kann sich sehen lassen.",
+      "url": "https://www.heise.de/tests/iOS-Geraete-als-mobile-Kontrollmonitore-nutzen-Accsoons-SeeMo-im-Test-7546350.html",
+      "image_title": "!!!Aufmacher kommt von missi!!!"
+    },
+    {
+      "title": "Oh nein, nicht noch ein Meeting! Halt, da kann doch die KI teilnehmen",
+      "teaser": "Zoom weiß: In Videokonferenzen sind nicht alle Nutzer aktiv zugeschaltet. Jetzt sollen neue KI-Funktionen diesen Anwendern unter die Arme greifen.",
+      "url": "https://www.heise.de/news/Oh-nein-nicht-noch-ein-Meeting-Halt-da-kann-doch-die-KI-teilnehmen-8145070.html"
+    },
+    {
+      "title": "Joled ist pleite: Da waren es nur noch zwei OLED-Panel-Hersteller für Monitore",
+      "teaser": "Von Joled stammen die ersten OLED-Panels in PC-Monitoren. Jetzt schließt der Hersteller seine Pforten.",
+      "url": "https://www.heise.de/news/OLED-Displays-Hersteller-JOLED-ist-pleite-8146832.html",
+      "image_title": "LG-Monitor mit JOLED-Panel"
+    },
+    {
+      "title": "32-Bit-Modellpflege: Der Arduino UNO R4 kommt",
+      "teaser": "Arduino kündigt den UNO-4 an. Als Meilenstein soll das Board mit 32-Bit-CPU den geliebten und gehassten UNO-Formfaktor in die Gegenwart bringen.",
+      "url": "https://www.heise.de/news/32-Bit-Modellpflege-Der-Arduino-UNO-R4-kommt-8146655.html"
+    },
+    {
+      "title": "Disney: Metaverse-Abteilung angeblich von Stellenstreichungen betroffen",
+      "teaser": "Disney will 7000 Stellen streichen, um Kosten zu sparen. Laut dem Wall Street Journal betreffen die Kündigungen auch die Metaverse-Abteilung des Konzerns.",
+      "url": "https://www.heise.de/news/Disney-Metaverse-Abteilung-angeblich-von-Stellenstreichungen-betroffen-8146842.html",
+      "image_title": "Grand,Prairie,,Tx/usa,Oct,2019:,Disney,Plus,On,Smartphone,Screen"
+    },
+    {
       "title": "GPT-4: Microsofts Azure OpenAI Service bietet jetzt API-Zugriff",
       "teaser": "Per Rest-API und Azure OpenAI Service können Microsoft-Kunden das KI-Modell GPT-4 in eigene Anwendungen einbinden. Beim KI-Anbieter selbst geht das noch nicht.",
       "url": "https://www.heise.de/news/GPT-4-Microsofts-Azure-OpenAI-Service-bietet-jetzt-API-Zugriff-8145897.html"
@@ -159,6 +188,26 @@
       "title": "Enterprise Java: Eclipse Foundation startet JakartaEE Developer Survey 2023",
       "teaser": "Die jährliche Befragung zu Jakarta EE läuft bis zum 25. Mai. Sie dient der Arbeitsgruppe als Richtlinie für die Weiterentwicklung der Spezifikation.",
       "url": "https://www.heise.de/blog/Enterprise-Java-Eclipse-Foundation-startet-JakartaEE-Developer-Survey-2023-8006410.html"
+    },
+    {
+      "title": "Was es kostet, wie es istHeizen mit Split-Klimaanlagen statt Gas und Öl – eine Detailbetrachtung",
+      "teaser": "Mit dezentralen Klimaanlagen kann man auch heizen. Wie viel das im Vergleich zu Gas-/Öl-Heizungen kostet und was Sie beachten sollten.",
+      "url": "https://www.heise.de/ratgeber/Heizen-mit-Split-Klimaanlagen-statt-Gas-und-Oel-eine-Detailbetrachtung-7257086.html"
+    },
+    {
+      "title": "Wie es gehtWärmepumpe im Haus nachrüsten",
+      "teaser": "Eine Wärmepumpe als Zentralheizung funktioniert auch in Bestandshäusern. Unser Erfahrungsbericht zeigt, was das kostet und welche Rolle die Dämmung spielt.",
+      "url": "https://www.heise.de/ratgeber/Waermepumpe-nachruesten-Wie-es-geht-und-was-Sie-beachten-sollten-7096535.html"
+    },
+    {
+      "title": "Unauffällige SolaranlageFür wen Solardachziegel interessant sind",
+      "teaser": "Solarziegel integrieren sich nahtlos ins Dach. Eine Aufdachkonstruktion ist nicht nötig. Noch ist die Technik exotisch. Doch sie ist weiter als man denkt.",
+      "url": "https://www.heise.de/ratgeber/Solardachziegel-Fuer-wen-die-Technik-interessant-ist-was-sie-kostet-und-leistet-7460519.html"
+    },
+    {
+      "title": "heise+ Jahresabo",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Elektromobilität in der EU: Alle 60 km an wichtigen Straßen eine Ladestation",
@@ -187,26 +236,6 @@
       "teaser": "Aqaras Video-Türklingel unterstützt die Smart-Home-Plattformen von Amazon, Apple und Google. Aufnahmen landen wahlweise in der Cloud oder auf der Speicherkarte.",
       "url": "https://www.heise.de/tests/Smarte-Klingel-mit-HomeKit-und-SD-Karte-Aqara-Smart-Video-Doorbell-G4-im-Test-7487359.html",
       "image_title": "Aqara Smart Video Doorbell G4 neben Haustür"
-    },
-    {
-      "title": "Was es kostet, wie es istHeizen mit Split-Klimaanlagen statt Gas und Öl – eine Detailbetrachtung",
-      "teaser": "Mit dezentralen Klimaanlagen kann man auch heizen. Wie viel das im Vergleich zu Gas-/Öl-Heizungen kostet und was Sie beachten sollten.",
-      "url": "https://www.heise.de/ratgeber/Heizen-mit-Split-Klimaanlagen-statt-Gas-und-Oel-eine-Detailbetrachtung-7257086.html"
-    },
-    {
-      "title": "Wie es gehtWärmepumpe im Haus nachrüsten",
-      "teaser": "Eine Wärmepumpe als Zentralheizung funktioniert auch in Bestandshäusern. Unser Erfahrungsbericht zeigt, was das kostet und welche Rolle die Dämmung spielt.",
-      "url": "https://www.heise.de/ratgeber/Waermepumpe-nachruesten-Wie-es-geht-und-was-Sie-beachten-sollten-7096535.html"
-    },
-    {
-      "title": "Unauffällige SolaranlageFür wen Solardachziegel interessant sind",
-      "teaser": "Solarziegel integrieren sich nahtlos ins Dach. Eine Aufdachkonstruktion ist nicht nötig. Noch ist die Technik exotisch. Doch sie ist weiter als man denkt.",
-      "url": "https://www.heise.de/ratgeber/Solardachziegel-Fuer-wen-die-Technik-interessant-ist-was-sie-kostet-und-leistet-7460519.html"
-    },
-    {
-      "title": "heise+ Jahresabo",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Besuch in Peking: Tim Cook lobt Apples \"symbiotische Beziehung\" mit China",
@@ -253,6 +282,11 @@
       "url": "https://www.heise.de/news/E3-2023-Spielemesse-steht-nach-Ubisoft-Absage-auf-der-Kippe-8144010.html"
     },
     {
+      "title": "MIt sicherem Datenaustausch zur Digitalen Souveränität",
+      "teaser": "Digitale Souveränität bedeutet, eigene Daten und Informationen vor unbefugten Zugriffen oder Manipulation zu schützen. Welche Rolle der sichere Datenaustausch dabei spielt und wie Sie das in Ihrem Unternehmen konkret umsetzen können, erfahren Sie in dieser Webcast-Aufzeichnung (mit Demo!).",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/sicherer-datenaustausch-motor-fuer-die-digitale-souveraenitaet-4486/?source=HBSadersatz"
+    },
+    {
       "title": "Günstige Notebooks mit Low-End-Prozessoren im Test: Was sie leisten und taugen",
       "teaser": "Wir haben zwei Notebooks mit AMDs Ryzen 3 7320U und Intels Core i3-N305 ins Labor geholt und geklärt, was man bei Neugeräten um 600 Euro bekommt.",
       "url": "https://www.heise.de/tests/Guenstige-Notebooks-mit-Low-End-Prozessoren-im-Test-Was-sie-leisten-und-taugen-7609938.html"
@@ -280,11 +314,6 @@
       "image_title": "CryptoKit im Praxiseinsatz"
     },
     {
-      "title": "Sichere Softwareentwicklung – vom Code bis zur Cloud",
-      "teaser": "Damit Ihre Software von der Entwicklung bis hin zur Cloud sicher ist, muss der gesamte Anwendungszyklus von Anfang bis Ende betrachtet und entsprechende Maßnahmen ergriffen werden. Iin dieser Webcast-Aufzeichnung erfahren Sie, welche Punkte hierbei eine Rolle spielen und wie Sie die Herausforderungen in den Griff bekommen - mit Demo!",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/so-geht-sichere-softwareentwicklung-vom-code-bis-zur-cloud-4489/?source=hbsad-ersatz"
-    },
-    {
       "title": "Cashback: Wie man mit Apple-Geräten seine Steuererklärung macht",
       "teaser": "Die Daten fürs Finanzamt zusammentragen? Das geht inzwischen auch mit Mac, iPhone oder iPad. Wir zeigen, welche Apps und Möglichkeiten man hat.",
       "url": "https://www.heise.de/tests/Cashback-Wie-man-mit-Apple-Geraeten-seine-Steuererklaerung-macht-7620481.html",
@@ -309,34 +338,6 @@
       "title": "c't angezockt: Trockenes Ödland begrünen in \"Terra Nil\"",
       "teaser": "Wälder, Sümpfe, Flüsse und grüne Weiden: c't zockt hat das Umweltstrategie-Game Terra Nil angespielt und trockenes Ödland begrünt.",
       "url": "https://www.heise.de/news/c-t-angezockt-Trockenes-Oedland-begruenen-in-Terra-Nil-8122553.html"
-    },
-    {
-      "title": "Nachhaltigkeit im All: Welche Regeln sind nötig?",
-      "teaser": "Ist die Weltraumfahrt nachhaltig? Dieser Frage ging ein Workshop zum \"Neuen Weltraumzeitalter\" nach.",
-      "url": "https://www.heise.de/news/Neues-Weltraumzeitalter-Regeln-zur-Nachhaltigkeit-im-All-noetig-8141627.html"
-    },
-    {
-      "title": "Dienstag: Microsoft Teams ganz neu, USA reduzieren Spyware",
-      "teaser": "Microsoft Teams doppelt so schnell + US-Regierung schränkt Spyware ein + iOS 16.4 mit Neuerungen + EU-Rat zum Data Act + Kommentar zum geplatzten Verbrenner-Aus",
-      "url": "https://www.heise.de/news/Dienstag-Microsoft-Teams-ganz-neu-USA-verbieten-Spyware-8131887.html",
-      "image_title": "Microsoft-Logo an Bürofassade, dazu Text: DIENSTAG Microsoft Teams, Spionageprogramme, iOS 16.4, Europäisches Datengesetz & Verbrenner-Aus"
-    },
-    {
-      "title": "Geldwäsche-Vorwurf: US-Behörde will größte Kryptobörse Binance schließen",
-      "teaser": "Binance soll gute Kunden erklärt haben, wie sie Binance' eigene Compliance umgehen können. Der Befehl soll vom Firmenchef selbst gekommen sein.​",
-      "url": "https://www.heise.de/news/Geldwaesche-Vorwurf-US-Behoerde-will-groesste-Kryptoboerse-Binance-schliessen-8135250.html",
-      "image_title": "Binance-Logo und -Schriftzug"
-    },
-    {
-      "title": "Das neue Microsoft Teams ist da",
-      "teaser": "Die neue Version von Teams für Windows ist doppelt so schnell. Sie wird zunächst mit Geschäftskunden getestet. Updates für Mac und das Web sollen folgen.",
-      "url": "https://www.heise.de/news/Das-neue-Microsoft-Teams-ist-da-8126815.html",
-      "image_title": "Schild \"Microsoft\" an Einfahrt zu Firmencampus, dahinter Bäume"
-    },
-    {
-      "title": "Fahrrad legal zum E-Bike umbauen: Nachrüstsatz mit Motor & Akku ab 300 Euro",
-      "teaser": "E-Bike-Nachrüstsätze mit Front-, Heck- oder Mittelmotor samt Display und Akku gibt es ab 300 Euro. TechStage zeigt, was ein Pedelec-Umbausatz bietet.",
-      "url": "https://www.techstage.de/ratgeber/fahrrad-legal-zum-e-bike-umbauen-nachruestsatz-mit-motor-und-akku-ab-300-euro/kgwhfb3?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Zeitumstellung: Spart die Umstellung auf Sommerzeit Energie?",
@@ -712,19 +713,19 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-smartwatches-2023/1x7s4j4?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Panzer-Krieg: Gelassenheit ist in Moskau geschwunden",
-      "teaser": "Im März witzelte Ex-Präsident Medwedew noch über Rheinmetall. Nun kündigt Putin die Entsendung taktischer Atomwaffen nach Belarus an. Telepolis-Serie: Positionen der Mitglieder des Sicherheitsrats (Teil 5 und Schluss)",
-      "url": "https://www.heise.de/tp/features/Panzer-Krieg-Gelassenheit-ist-in-Moskau-geschwunden-8061725.html"
+      "title": "Wie Putin die Stationierung von Atomwaffen in Belarus begründet",
+      "teaser": "Russlands Präsident will Kernwaffen im Nachbarland stationieren. Als Begründung dient auch die deutsche \"nukleare Teilhabe\" im Rahmen der Nato. Doch das ist scheinbar ein Nebenaspekt.",
+      "url": "https://www.heise.de/tp/features/Wie-Putin-die-Stationierung-von-Atomwaffen-in-Belarus-begruendet-8078831.html"
     },
     {
-      "title": "Russland: Angriffe auf liberales Abtreibungsrecht",
-      "teaser": "Konservative attackieren Recht auf Abbruch von Schwangerschaften. Regierungspartei und Kirche einig. Was das mit der Propaganda einer \"russischen Welt\" und der Sowjetunion zu tun hat.",
-      "url": "https://www.heise.de/tp/features/Russland-Angriffe-auf-liberales-Abtreibungsrecht-8116215.html"
+      "title": "Weniger Öffentlichkeit für ZDF-Programmbeschwerden",
+      "teaser": "Öffentlich-rechtlicher Rundfunk: Wie steht es um Transparenz für die demokratische Kontrolle? Ausgerechnet bei Programmkritik hat das zuständige ZDF-Gremium sie zurückgeschraubt. Mitglieder des Fernsehrats finden das in Ordnung.",
+      "url": "https://www.heise.de/tp/features/Weniger-Oeffentlichkeit-fuer-ZDF-Programmbeschwerden-8112542.html"
     },
     {
-      "title": "Willkommen in Deutschlands schöner neuer Wasserstoffwelt",
-      "teaser": "Wasserstoff wird in Deutschland als \"Wundergas\" propagiert und gefördert. Eine neue Studie deckt die dreckigen Fakten hinter dem grünen Hype auf. Von Lobbys, indirekten Emissionen und Menschenrechtsverletzung.",
-      "url": "https://www.heise.de/tp/features/Willkommen-in-Deutschlands-schoener-neuer-Wasserstoffwelt-8116069.html"
+      "title": "Frankreich: Beinahe-Diktator Macron",
+      "teaser": "Proteste gegen Rentenreform. Der Staatspräsident zur Demokratie: \"Der Mob hat keine Legitimität gegenüber dem Volk, das sich durch seine gewählten Vertreter ausdrückt.\" Es ist die Gesellschaft, die er gegen sich hat.",
+      "url": "https://www.heise.de/tp/features/Frankreich-Beinahe-Diktator-Macron-8116455.html"
     },
     {
       "title": "Zeiterfassungssoftware im Vergleich",
