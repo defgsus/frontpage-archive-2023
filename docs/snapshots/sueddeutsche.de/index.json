@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-30T15:12:19",
+  "timestamp": "2023-03-30T16:15:32",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -84,6 +84,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -128,8 +134,8 @@
   ],
   "articles": [
     {
-      "title": "Im Netz der Krieger",
-      "teaser": "Russland verschiebt die Grenzen in Europa mit Panzern und Granatendonner. In der digitalen Welt aber greift der Kreml die Freiheit leise und unsichtbar an - nicht nur in der Ukraine. Exklusive Einblicke in die Waffenkammer von Putins Cyberarmee.",
+      "title": "Putins geheime Waffenkammer für den Cyberkrieg",
+      "teaser": "Der Kreml verschiebt die Grenzen in Europa mit Panzern und Raketen. In der digitalen Welt aber wird die Freiheit auf leisen Sohlen angegriffen - nicht nur in der Ukraine. Exklusive Einblicke in den Kampf mit Viren und Falschinformationen.",
       "url": "https://www.sueddeutsche.de/projekte/artikel/politik/cyberkrieg-russland-propaganda-desinformation-cyberattacke-wladimir-putin-recherche-leak-ukraine-ukrainekrieg-hacking-e585517/",
       "author": "SZ-Autoren",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5778818/1000x420",
@@ -144,33 +150,26 @@
       "image_title": "Teaser Elbrus"
     },
     {
+      "title": "\"Niemand will gebückte Gewerkschaften\"",
+      "teaser": "Verdi-Chef Frank Werneke kündigt im SZ-Interview neue Streiks an. Wenn die Schlichtung im öffentlichen Dienst scheitert, werden Erzieherinnen und Müllwerker wohl in ganz Deutschland die Arbeit niederlegen.",
+      "url": "https://www.sueddeutsche.de/politik/verdi-streik-oeffentlicher-dienst-frank-werneke-interview-1.5778683",
+      "author": "Alexander Hagelüken und Benedikt Peters",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5777260/600x337"
+    },
+    {
+      "title": "Alles Diebe und Schläger - oder nicht?",
+      "teaser": "Sie klauen, prügeln, verschicken Kinderpornografie: Die Anzahl der tatverdächtigen unter 14-Jährigen ist deutlich gestiegen. Warum das trotzdem nicht heißt, dass die Jugend krimineller wird.",
+      "url": "https://www.sueddeutsche.de/panorama/kinderkriminalitaet-pks-2022-jugendgewalt-1.5778883",
+      "author": "Veronika Wulf",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778884/208x156"
+    },
+    {
       "title": "\"Frontalangriff auf alle ausländischen Korrespondenten\"",
       "teaser": "Dem US-Journalisten Evan Gershkovich drohen bis zu 20 Jahre Haft, sollte er wegen Spionage verurteilt werden. Der Fall zeigt, in welche Gefahr die neue Rechtslage in Russland Berichterstatter bringt.",
       "url": "https://www.sueddeutsche.de/politik/russland-us-journalist-festgenommen-spionage-1.5778586",
       "author": "Silke Bigalke, Moskau",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778587/600x337",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778587/208x156",
       "image_title": "Der russische Geheimdienst FSB behauptet, der Journalist Evan Gershkovich (Archivbild) habe ein Unternehmen des militärisch-industriellen Komplexes in Russland ausspioniert."
-    },
-    {
-      "title": "Wie man beim Einkaufen noch mehr sparen kann",
-      "teaser": "Einkaufen ist teuer geworden, viel teurer. Gegen hohe Preise helfen eine gute Planung - und Tipps und Tricks von Experten.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/einkaufen-spartipps-inflation-lebensmittel-1.5778680",
-      "author": "Berrit Gräber",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5758921/208x156"
-    },
-    {
-      "title": "Plötzlich ist Bahnchef Lutz \"total happy\"",
-      "teaser": "Der Staatskonzern will das marode Netz sanieren - inzwischen ist klar, wie er das zumindest teilweise finanzieren soll. Bis die Bahnkunden ebenfalls glücklich sind, dürfte es noch ziemlich lange dauern.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/deutsche-bahn-bilanz-sanierung-probleme-1.5778766",
-      "author": "Kassian Stroh, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.4853940/600x337"
-    },
-    {
-      "title": "Wehe, wenn sie erwachsen sind",
-      "teaser": "Immer mehr Tatverdächtige sind Kinder oder Jugendliche. Das ist natürlich erschreckend - aber auch eine Verpflichtung.",
-      "url": "https://www.sueddeutsche.de/meinung/polizeiliche-kriminalitaetsstatistik-deutschland-jugendliche-verpflichtung-kommentar-1.5778724",
-      "author": "Kommentar von Robert Roßmann",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778725/290x163"
     },
     {
       "title": "\"Das war vielleicht das Dümmste, was ich je getan habe\"",
@@ -180,11 +179,26 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5778492/600x337"
     },
     {
+      "title": "Renovieren vier Mathematiker ein Bad",
+      "teaser": "Seit Jahrzehnten suchen Forscher nach einer Kachel, die den Boden bedeckt, ohne dass sich das Muster wiederholt. Nun scheint sie gefunden zu sein - die Form ist verblüffend einfach.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/wissen/mathematik-einstein-kachel-beweis-e337678/",
+      "author": "Christian J. Meier",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778585/600x337",
+      "image_title": "Bad Renovieren Mathematiker"
+    },
+    {
+      "title": "Heftiger Regenguss durchkreuzt das Protokoll",
+      "teaser": "Bei einem Besuch in einem Ökodorf müssen die königlichen Regenschirme gezückt werden. Das geplante Kälbchen-Streicheln fällt aus. Derweil entschuldigen sich die Franzosen, dass sie die royalen Reisepläne durcheinandergebracht haben.",
+      "url": "https://www.sueddeutsche.de/panorama/koenig-charles-deutschland-kaese-brandenburg-1.5776179",
+      "author": "Alle Entwicklungen im Liveblog",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778948/600x337"
+    },
+    {
       "title": "Einkaufen, aber schnell",
       "teaser": "Annette Lehnigk-Emden ist die Frau, die eines der größten Probleme des Verteidigungsministers endlich lösen soll: die Beschaffung von Waffen.",
       "url": "https://www.sueddeutsche.de/politik/lehnigk-emden-waffen-beschaffung-bundeswehr-pistorius-vertraege-1.5778731",
       "author": "Georg Ismar",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778732/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778732/208x156"
     },
     {
       "title": "Deutlich wie nie: Von der Leyens Kampfansage an China",
@@ -194,57 +208,35 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5778505/208x156"
     },
     {
-      "title": "Bolsonaro kehrt zurück",
-      "teaser": "Nach 89 Tagen in Florida USA landet der Ex-Präsident in der Hauptstadt Brasília. Was er nun plant, ist unklar.",
-      "url": "https://www.sueddeutsche.de/politik/rueckkehr-usa-bolsonaro-brasilien-1.5778842",
-      "author": "Thomas Kirchner und Benedikt Peters",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778843/600x337"
+      "title": "\"Ein absurdes Urteil - drakonischer geht es kaum\"",
+      "teaser": "Aus dem Transfer eines Juniorenspielers wird ein Rechtsfall, der den FC in seinen Grundfesten erschüttert. Nur noch der Cas könnte ein Transferverbot bis Sommer 2024 abwenden. Sportchef Keller spricht von einer Fifa-\"Farce\".",
+      "url": "https://www.sueddeutsche.de/sport/1-fc-koeln-jaka-cuber-potocnik-transferverbot-fifa-olimpia-ljubljana-1.5778946",
+      "author": "Philipp Selldorf, Köln",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778947/600x337"
     },
     {
-      "title": "Wie sich der Münchner Flughafen auf die Oster-Urlauber vorbereitet",
-      "teaser": "1,6 Millionen Passagiere wollen in den Süden fliegen. Klappt es diesmal ohne Pannen? Münchens Lufthansa-Chef Stefan Kreuzpaintner und Flughafen-Chef Jost Lammers über Schnell-Scanner, Solarmodule und die Personalsuche im Ausland.",
-      "url": "https://www.sueddeutsche.de/muenchen/flughafen-muenchen-lufthansa-osterferien-koffer-chaos-vorbereitung-1.5778480",
-      "author": "Interview von Rudolf Bögel",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778828/600x337"
+      "title": "Ersttäter, Fußballer, wenig Epo",
+      "teaser": "Das DFB-Sportgericht suspendiert HSV-Profi Mario Vuskovic wegen Dopings für zwei statt der üblichen vier Jahre. Doch die Causa geht in die nächste Instanz - und die Begründung der Richter dürfte neue Debatten hervorrufen.",
+      "url": "https://www.sueddeutsche.de/sport/dfb-mario-vuskovic-sportgericht-doping-wada-epo-erythropoetin-1.5778819",
+      "author": "Johannes Aumüller",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778820/208x156"
     },
     {
-      "title": "Münchner Regionalbischof Kopp wird neuer Landesbischof in Bayern",
-      "teaser": "Nach der gescheiterten Wahl vom Montag gab es eine tagelange Hängepartie. Nun wurde doch noch ein Nachfolger von Heinrich Bedford-Strohm bestimmt. Der Sieger ist nach der turbulenten Prozedur \"ziemlich platt\".",
-      "url": "https://www.sueddeutsche.de/bayern/wahl-evangelische-kirche-landesbischof-christian-kopp-bayern-1.5778291",
-      "author": "Annette Zoch",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778839/208x156"
+      "title": "\"Menschlich sympathisch, aber nicht sehr überzeugend\"",
+      "teaser": "Muss die NDR-Spitze nach dem verheerenden \"Klimabericht\" zurücktreten? Der langjährige Intendant Jobst Plog findet, darüber muss man reden.",
+      "url": "https://www.sueddeutsche.de/medien/jobst-plog-ndr-krise-klimabericht-1.5778716",
+      "author": "Interview von Claudia Tieschky",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778759/600x337"
     },
     {
-      "title": "Raus auf die große Bühne",
-      "teaser": "Frauenteams ziehen immer öfter für Spiele in große Stadien um - und setzen neue Maßstäbe. Die Europameisterschaft in England hat einen Schub bewirkt, was bleibt, ist die Frage der Nachhaltigkeit.",
-      "url": "https://www.sueddeutsche.de/sport/frauenfussball-entwicklung-beliebtheit-zuschauer-champions-league-1.5777059",
-      "author": "Anna Dreher",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5777060/600x337"
-    },
-    {
-      "title": "Der Fall Felix W.",
-      "teaser": "Die SpVgg Bayreuth suspendiert einen ihrer wichtigsten Abwehrspieler: Felix Weber, einst Kapitän des TSV 1860 München, soll stark alkoholisiert einen Polizisten angegriffen haben. Der Umgang mit dem Vorfall wirft Fragen auf.",
-      "url": "https://www.sueddeutsche.de/sport/3-liga-spvgg-bayreuth-tsv-1860-muenchen-felix-weber-polizistenangriff-1.5777393",
-      "author": "Christoph Leischwitz",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5777394/208x156"
-    },
-    {
-      "title": "\"Diese Freundschaft hat meiner Mutter viel bedeutet\"",
-      "teaser": "Auf Deutsch betont König Charles im Bundestag, wie wichtig die deutsch-britischen Beziehungen seien. Er scherzt über deutsch-britische Fußball-Duelle, spart aber auch dunkle Kapitel nicht aus.",
-      "url": "https://www.sueddeutsche.de/panorama/koenig-charles-deutschland-liveblog-1.5776179",
-      "author": "Alle Entwicklungen im Liveblog",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778471/600x337",
-      "image_title": "Britain's King Charles visits Germany"
-    },
-    {
-      "title": "\"Ich konnte gar nicht mehr irgendwie was sagen\"",
-      "teaser": "Motsi Mabuse verschlägt es beim Anblick von König Charles die Sprache, Sharon Stone erzählt von ihrem persönlichen Gender-Pay-Gap, und Aaron Hilmer muss beim Gemüseschneiden noch schneller werden.",
-      "url": "https://www.sueddeutsche.de/panorama/promis-koenig-charles-motsi-mabuse-sharon-stone-michael-douglas-berlin-promi-news-1.5778559",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778563/208x156"
+      "title": "Karl Dietrich Seikel gestorben",
+      "teaser": "Im Alter von 76 Jahren ist der langjährige Geschäftsführer des Spiegel-Verlags gestorben.",
+      "url": "https://www.sueddeutsche.de/medien/karl-dietrich-seikel-der-spiegel-frankfurter-allgemeine-zeitung-1.5778961",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5778962/208x156"
     },
     {
       "title": "Wie geht eine Beziehung zu dritt?",
-      "teaser": "Katrin, Danny und Karin leben zusammen, schlafen miteinander und ziehen gemeinsam den kleinen Matteo groß. Wie das funktioniert und wie es dazu kam.",
+      "teaser": "Katja, Danny und Karin leben zusammen, schlafen miteinander und ziehen gemeinsam den kleinen Matteo groß. Wie das funktioniert und wie es dazu kam.",
       "url": "https://www.sueddeutsche.de/projekte/artikel/jetzt/polyamorie-dreierbeziehung-throuple-partnerschaft-e238089/",
       "author": "Annika Säuberlich",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5778319/600x337",
