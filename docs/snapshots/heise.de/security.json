@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-30T12:23:32",
+  "timestamp": "2023-03-30T13:18:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VoIP 3CX",
+      "url": "https://www.heise.de/news/VoIP-Software-3CX-verteilt-Schadcode-nach-Sideloading-Angriff-8251933.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerkgeraete-von-Cisco-lahmlegen-7932241.html"
     },
@@ -44,24 +48,15 @@
       "url": "https://www.heise.de/news/Java-Plattform-Kritische-Luecke-in-VMware-Tanzu-Spring-Framework-geschlossen-7614914.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Chrome-Update-dichtet-acht-Sicherheitsluecken-ab-7611326.html"
-    },
-    {
-      "title": "VoIP-Software 3CX verteilt Schadcode nach Sideloading-Angriff",
-      "teaser": "Der Softphone-Client 3CXDesktopApp wurde durch Angreifer kompromittiert und entfaltete verdächtige Aktivitäten. Die Spur führt nach Nordkorea.​",
-      "url": "https://www.heise.de/news/VoIP-Software-3CX-verteilt-Schadcode-nach-Sideloading-Angriff-8251933.html"
+      "title": "Neue WLAN-Lücke MacStealer: Datenklau über Bande",
+      "teaser": "Eine Unterlassung im WLAN-Standard erlaubt Angriffe über die Energiesparfunktion. Das trifft alle Geräte, aber die Gefahr ist wohl gering.",
+      "url": "https://www.heise.de/news/Neue-WLAN-Luecke-MacStealer-Datenklau-ueber-Bande-8255816.html",
+      "image_title": "WLAN"
     },
     {
       "title": "Microsoft Defender: Achtung, Klick auf das gefährliche zoom.us festgestellt",
       "teaser": "Der Microsoft Defender ist nicht nur ein schnöder Virenscanner, sondern soll auch bei Klicks auf gefährliche Links warnen. Und dazu gehören … Zoom und Google?",
       "url": "https://www.heise.de/news/Microsoft-Defender-Zoom-und-Google-sind-zu-boese-8245303.html"
-    },
-    {
-      "title": "Azure-Lücke erlaubte Datenklau bei Millionen Office365-Kunden",
-      "teaser": "Durch eine Fehlkonfiguration ließ sich Schadcode in Bing-Suchergebnisse einschleusen, womit Daten von Office365-Nutzern gefährdet waren. Microsoft hat reagiert.",
-      "url": "https://www.heise.de/news/Azure-Luecke-erlaubte-Datenklau-bei-Millionen-Office365-Kunden-8248329.html",
-      "image_title": "Azure Modular Datacenter"
     },
     {
       "title": "Software Supply Chain: GitHub führt Funktion zum Erstellen von SBOMs ein",
@@ -79,6 +74,11 @@
       "title": "Remote PowerShell: Einfallstor bei Exchange Online jetzt mit Gnadenfrist",
       "teaser": "Ein halbes Jahr länger bleibt Administratoren, bis sie sich von ihren unsicheren PowerShell-cmdlets für Exchange Online verabschieden müssen.",
       "url": "https://www.heise.de/news/Remote-PowerShell-Einfallstor-bei-Exchange-Online-jetzt-mit-Gnadenfrist-8186790.html"
+    },
+    {
+      "title": "Der heise Security Crashkurs zum Schutz vor Ransomware",
+      "teaser": "Dieses praxisorientierte Webinar erklärt in zwei halben Tagen, wie die Angreifer aktuell vorgehen und wie Sie ihre Unternehmens-IT bestmöglich davor schützen.",
+      "url": "https://www.heise.de/news/Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-8146822.html"
     },
     {
       "title": "NIST nimmt Rust in die Liste der sichereren Programmiersprachen auf",
@@ -101,6 +101,12 @@
       "teaser": "Eine im Dark Web günstig angebotene Malware soll sensible Daten von Macs extrahieren und über den Messenger Telegram an Angreifer übermitteln.",
       "url": "https://www.heise.de/news/MacStealer-Mac-Malware-will-Passwoerter-und-Krypto-Wallets-klauen-8153293.html",
       "image_title": "Zwei Drachen versammeln sich um ein leuchtendes Apple-Logo"
+    },
+    {
+      "title": "Google möchte Laufzeiten für TLS-Zertifikate verkürzen",
+      "teaser": "Zertifikate für Web-Server sollen statt wie bisher ein Jahr nur noch maximal 90 Tage gültig sein, fordert Google – das hätte heftige Konsequenzen.",
+      "url": "https://www.heise.de/news/Google-moechte-Laufzeiten-fuer-TLS-Zertifikate-verkuerzen-8151372.html",
+      "image_title": "Zertifikat"
     },
     {
       "title": "Microsoft: Aktualisiert Exchange – oder es stellt den Dienst ein",
@@ -150,11 +156,6 @@
       "title": "Panne bei GitHub: Privater SSH-Schlüssel war öffentlich einsehbar",
       "teaser": "Der private SSH-Schlüssel von GitHub war wohl kurzfristig in einem öffentlichen Repository aufgetaucht und wurde nun durch einen neuen ersetzt.",
       "url": "https://www.heise.de/news/Panne-bei-GitHub-Privater-SSH-Schluessel-war-oeffentlich-einsehbar-8003623.html"
-    },
-    {
-      "title": "Erfolgreiche Kongressmesse: Cyberkriminelle hassen die secIT",
-      "teaser": "Die secIT 2023 hatte nicht nur inhaltlich einiges zu bieten, sie hat auch den bisherigen Besucherrekord gebrochen.",
-      "url": "https://www.heise.de/news/Erfolgreiche-Kongressmesse-Cyberkriminelle-hassen-die-secIT-7746916.html"
     },
     {
       "title": "Ransomware-Webinar am 3. und 4. Mai",
