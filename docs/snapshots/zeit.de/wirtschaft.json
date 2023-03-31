@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-03-31T04:14:24",
+  "timestamp": "2023-03-31T05:11:14",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Altersvorsorge: Sorge um finanzielle Absicherung im Alter wächst laut Umfrage",
+      "teaser": "Fast die Hälfte der unter 60-Jährigen fürchtet, im Alter zu wenig Geld zur Verfügung zu haben. Die Erwartungen haben sich laut einer Umfrage deutlich verschlechtert.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/altersvorsorge-finanzielle-absicherung-umfrage-sorgen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/altersvorsorge-absicherung-sorgen-umfrage-bild/cinema__980x420"
+    },
+    {
       "title": "CPTPP: Großbritannien meldet Beitritt zu transpazifischem Freihandelsbündnis",
       "teaser": "Die Regierung in London verkündet den größten Handelsdeal seit dem Brexit: Das Land schließt sich einem Abkommen von Pazifikanrainerstaaten an.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/cptpp-grossbritannien-transpazifisches-handelsabkommen-beitritt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/cptpp-grossbritannien-transpazifisches-handelsabkommen-beitritt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/cptpp-grossbritannien-transpazifisches-handelsabkommen-beitritt-bild/wide__822x462",
+      "image_title": "CPTPP: Großbritannien meldet Beitritt zu transpazifischem Freihandelsbündnis"
     },
     {
       "title": "Energieversorgung: Bundesnetzagentur rechnet mit vollen Gasspeichern zum kommenden Winter",
@@ -66,14 +73,14 @@
       "title": "Verbraucherschutz: EU-Parlament stimmt für strengere Regeln beim Onlineshopping",
       "teaser": "Onlinemarktplätze außerhalb der EU sollen laut Parlament künftig enger mit der Marktaufsicht kooperieren. Die Mitgliedsstaaten müssen den neuen Regeln noch zustimmen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/eu-parlament-online-einkaeufe-regeln",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/eu-parlament-online-einkaeufe-regeln-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/eu-parlament-online-einkaeufe-regeln-bild/cinema__980x420",
       "image_title": "Verbraucherschutz: EU-Parlament stimmt für strengere Regeln beim Onlineshopping"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deutsche-Telekom-Aktie: Ein Trauma in Magenta",
       "teaser": "Mit der Deutschen Telekom machten viele ihre erste und einzige Börsenerfahrung. Die Volksaktie floppte damals. Wer sie heute noch hält, kann sich dennoch freuen.",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-03/deutsche-telekom-aktie-aktienmarkt-usa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutsche-telekom-aktie-aktienmarkt-usa-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutsche-telekom-aktie-aktienmarkt-usa-bild/wide__822x462",
       "image_title": "Deutsche-Telekom-Aktie: Ein Trauma in Magenta"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/inflation-maerz-benzin-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/deutschland-inflation-benzin-und-heizoelpreise-bild/wide__822x462",
       "image_title": "Statistisches Bundesamt: Inflation in Deutschland sinkt im März auf 7,4 Prozent"
-    },
-    {
-      "title": "Energiekrise: Bund und Länder beschließen Hilfen für Heizöl- und Pelletkunden",
-      "teaser": "Wer mit Heizöl oder Pellets heizt, soll für 2022 rückwirkend Unterstützung bekommen können. Voraussetzung ist, dass sich die Kosten verdoppelt haben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/energiekrise-bund-laender-hilfen-heizoel-pellets",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/heizoel-bild/wide__822x462",
-      "image_title": "Energiekrise: Bund und Länder beschließen Hilfen für Heizöl- und Pelletkunden"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wärmepumpen in Europa: In den kältesten Ländern laufen die meisten Wärmepumpen",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Energiekrise: Bund und Länder beschließen Hilfen für Heizöl- und Pelletkunden",
+      "teaser": "Wer mit Heizöl oder Pellets heizt, soll für 2022 rückwirkend Unterstützung bekommen können. Voraussetzung ist, dass sich die Kosten verdoppelt haben.",
+      "url": "https://www.zeit.de/wirtschaft/2023-03/energiekrise-bund-laender-hilfen-heizoel-pellets",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/heizoel-bild/wide__822x462",
+      "image_title": "Energiekrise: Bund und Länder beschließen Hilfen für Heizöl- und Pelletkunden"
+    },
+    {
       "title": "Ifo Institut: Lieferengpässe in der Industrie lösen sich allmählich auf",
       "teaser": "Gut 40 Prozent der Industrieunternehmen haben im März von Lieferproblemen berichtet. Laut ifo Institut haben sie gelernt, mit der Rohstoffknappheit umzugehen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/ifo-institut-unternehmensumfrage-lieferengpaesse-rohstoffknappheit",
@@ -220,14 +227,14 @@
       "title": "Brasilien: Volkswagen verlässt Verhandlungstisch über Vorwurf der Sklavenarbeit",
       "teaser": "VW wird vorgeworfen, in den Siebzigern und Achtzigern Sklavenarbeit in Brasilien eingesetzt zu haben. Das Unternehmen lehnt offenbar eine außergerichtliche Einigung ab.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/volkswagen-lehnt-einigung-zu-sklavenarbeit-ab",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/volkswagen-lehnt-einigung-zu-sklavenarbeit-ab-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-03/volkswagen-lehnt-einigung-zu-sklavenarbeit-ab-bild/cinema__980x420",
       "image_title": "Brasilien: Volkswagen verlässt Verhandlungstisch über Vorwurf der Sklavenarbeit"
     },
     {
       "title": "Ampel-Koalition: Von wegen alles geklärt",
       "teaser": "Die Ampel-Koalition feiert die Gipfelergebnisse als großen Durchbruch. Doch ausgerechnet bei den zentralen Themen Heizen und Verkehr sind wichtige Fragen weiter offen.",
       "url": "https://www.zeit.de/wirtschaft/2023-03/koalitionsausschuss-ampel-koalition-einigung-heizung-verkehr",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/koalitionsausschuss-ampel-koalition-einigung-heizung-verkehr-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-03/koalitionsausschuss-ampel-koalition-einigung-heizung-verkehr-bild/wide__822x462",
       "image_title": "Ampel-Koalition: Von wegen alles geklärt"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/immobilienmarkt-immobilienpreise-sinken-bauzinsen-eigenheim-hauskauf",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/immobilienmarkt-immobilienpreise-sinken-bauzinsen-eigenheim-hauskauf-foto/wide__822x462",
       "image_title": "Immobilienmarkt: Selbst billige Häuser sind unerschwinglich"
-    },
-    {
-      "title": "Abhilfeklage: Kabinett bringt neue Form von Sammelklagen gegen Konzerne auf den Weg",
-      "teaser": "Verbraucher sollen künftig schneller entschädigt werden können. Mit seinem Entwurf zur sogenannten Abhilfeklage will Bundesjustizminister Buschmann die Justiz entlasten.",
-      "url": "https://www.zeit.de/wirtschaft/2023-03/abhilfeklage-verbraucher-sammelklagen-konzerne-kabinett-marco-buschmann",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-03/verbraucher-sammelklagen-konzerne-kabinett-marco-buschmann-bild/wide__822x462",
-      "image_title": "Abhilfeklage: Kabinett bringt neue Form von Sammelklagen gegen Konzerne auf den Weg"
     },
     {
       "title": "Markenrechtsstreit: Adidas zieht Einspruch gegen Logo von Black Lives Matter zurück",
