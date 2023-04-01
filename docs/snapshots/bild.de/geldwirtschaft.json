@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-01T06:14:14",
+  "timestamp": "2023-04-01T07:10:14",
   "url": "https://www.bild.de/geld/startseite/geld/geld-15683376.bild.html",
   "response": {
     "status": 200
@@ -74,22 +74,26 @@
   ],
   "articles": [
     {
+      "title": "Starke Veränderung im Herzen von Köln : So neu wird der Neumarkt",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/starke-veraenderung-im-herzen-von-koeln-so-neu-wird-der-neumarkt-83405122.bild.html",
+      "image_url": "https://images.bild.de/6426e2644dbd8173343467e9/5a9bc5fbd5413d56dac3050694cc936b,c660630a?w=656",
+      "image_title": "Starke Veränderung im Herzen von Köln: So neu wird der Neumarkt"
+    },
+    {
+      "title": "BILD exklusiv bei den Vorbereitungen : So läuft die Sprengung der Rahmede-Brücke",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/bild-exklusiv-bei-den-vorbereitungen-so-laeuft-die-sprengung-der-a45-bruecke-rah-83405808.bild.html",
+      "image_url": "https://images.bild.de/6426ed6105a8fc29b65195e6/77936f7bec29bc08dbde019e63c3ff7c,a0e4b8f5?w=320",
+      "image_title": "BILD exklusiv: So läuft die Sprengung der A45-Brücke Rahmede"
+    },
+    {
       "title": "Banken-Beben : Wie sicher ist unser Geld wirklich?",
       "url": "https://www.bild.de/video/clip/wirtschaft/immer-wieder-bankenkrisen-wie-sicher-ist-unser-geld-wirklich-83398624.bild.html",
-      "image_url": "https://images.bild.de/6426956b7fce3c70fd841fd5/15fd864a7d868af7480975e4689fa4a8,dd169c82?w=656",
+      "image_url": "https://images.bild.de/6426956b7fce3c70fd841fd5/fd8c53d332c7dc351cc4a49506ccb3ad,dd169c82?w=320",
       "image_title": "Banken in der Krise: Wie sicher ist unser Geld wirklich?"
     },
     {
-      "title": "Künstliche Intelligenz : Millionen Jobs in Gefahr",
-      "url": "https://www.bild.de/bild-plus/geld/mein-geld/mein-geld/kuenstliche-intelligenz-der-grosse-branchen-check-diese-berufe-werden-wegfallen-83372340.bild.html",
-      "image_url": "https://images.bild.de/6423ff635580ac60bdff585d/b7ff5eca9a3c752e8893bce17b3d3a2f,9793c0f7?w=320",
-      "image_title": "Künstliche Intelligenz: Diese Jobs werden wegfallen – Branchen im Check"
-    },
-    {
-      "title": "Aus persönlichen Gründen : Erste Geschäftsführerin verlässt Bosch",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/stuttgart-geschaeftsfuehrerin-albrecht-verlaesst-bosch-konzern-83390308.bild.html",
-      "image_url": "https://images.bild.de/64257fa3892165434a5756a9/dba19b282865036091162c2ba69365d0-miniSquare,d5e7854b?w=320",
-      "image_title": "Stuttgart: Geschäftsführerin Albrecht verlässt Bosch-Konzern"
+      "title": "Aus persönlichen Gründen Erste Geschäftsführerin verlässt Bosch",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/stuttgart-geschaeftsfuehrerin-albrecht-verlaesst-bosch-konzern-83390308.bild.html"
     },
     {
       "title": "Deutsche Börse Dax schließt deutlich höher",
@@ -98,10 +102,6 @@
     {
       "title": "Inflation „nur“ noch bei 7,4 Prozent – Experte sicher Das ist der Anfang vom Ende der Teuer-Krise",
       "url": "https://www.bild.de/politik/2023/politik/eilmeldung-inflation-in-deutschland-sinkt-auf-7-4-prozent-deutlicher-rueckgang-i-83389636.bild.html"
-    },
-    {
-      "title": "Job-Schock in Düsseldorf Vodafone Deutschland streicht 1300 Vollzeitstellen",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/duesseldorf-vodafone-deutschland-streicht-1300-jobs-83380452.bild.html"
     },
     {
       "title": "Taycan-Akku nach dem Dauertest : Wie fit ist der E-Porsche?",
@@ -129,9 +129,21 @@
       "image_title": "Energie-Manager wagt Prognose: Es gibt eine gute Nachricht für Strompreise der Zukunft"
     },
     {
+      "title": "Künstliche Intelligenz auf dem Vormarsch : Millionen Jobs in Gefahr",
+      "url": "https://www.bild.de/bild-plus/geld/mein-geld/mein-geld/kuenstliche-intelligenz-der-grosse-branchen-check-diese-berufe-werden-wegfallen-83372340.bild.html",
+      "image_title": "Künstliche Intelligenz: Diese Jobs werden wegfallen – Branchen im Check"
+    },
+    {
       "title": "Es geht um die Zustimmung zu AGB : Abgemahnt! Der Ober-Trickser von der Sparkasse",
+      "teaser": "Die Sparkasse Wittenberg hat Kunden einem Urteil zufolge böse reingelegt.",
       "url": "https://www.bild.de/ratgeber/sparfochs/sparfochs/agb-zustimmung-auf-ueberweisungen-sparkasse-wittenberg-abgemahnt-83371316.bild.html",
       "image_title": "AGB-Zustimmung auf Überweisungen: Sparkasse Wittenberg abgemahnt"
+    },
+    {
+      "title": "Job-Schock in Düsseldorf : Vodafone Deutschland streicht 1300 Vollzeitstellen",
+      "teaser": "Job-Schock in der Telekommunikationsbranche! Vodafone streicht in Deutschland 1300 Stellen.",
+      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-regional-politik-und-wirtschaft/duesseldorf-vodafone-deutschland-streicht-1300-jobs-83380452.bild.html",
+      "image_title": "Düsseldorf: Vodafone Deutschland streicht 1300 Jobs"
     },
     {
       "title": "Deutsche Börse : Dax schließt deutlich höher",
@@ -144,18 +156,6 @@
       "teaser": "Die Muttergesellschaft der Schuhhandelskette Reno hat Insolvenz angemeldet.",
       "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/schuhhaendler-reno-meldet-insolvenz-an-fast-1100-arbeitsplaetze-betroffen-83374214.bild.html",
       "image_title": "Reno meldet Insolvenz an: 1100 Arbeitsplätze des Schuhhändlers betroffen"
-    },
-    {
-      "title": "Es ging gegen Black Lives Matter : Adidas rudert im Streifen-Streit zurück",
-      "teaser": "Ein 146-Seiten-Antrag gegen die US-Bewegung wurde zurückgezogen.",
-      "url": "https://www.bild.de/geld/wirtschaft/wirtschaft/adidas-streifen-streit-mit-black-lives-matter-abgeblasen-sport-gigant-rudert-zur-83370570.bild.html",
-      "image_title": "Adidas: Streifen-Streit mit Black Lives Matter abgeblasen – Sport-Gigant rudert zurück"
-    },
-    {
-      "title": "Zins-Hammer! : Erste Bank gibt drei Prozent aufs Tagesgeld",
-      "teaser": "Lange Zeit mussten Sparer auf Zinsen verzichten, jetzt dreht sich der Wind ...",
-      "url": "https://www.bild.de/geld/wirtschaft/mein-geld/zins-hammer-erste-bank-gibt-3-prozent-aufs-tagesgeld-83361784.bild.html",
-      "image_title": "Zins-Hammer!: Erste Bank gibt drei Prozent aufs Tagesgeld"
     },
     {
       "title": "Strom- und Gaspreisbremse : Was Sie 2023 wirklich sparen können",
