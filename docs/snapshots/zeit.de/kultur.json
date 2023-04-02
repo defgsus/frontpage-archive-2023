@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-02T19:08:42",
+  "timestamp": "2023-04-02T20:11:14",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "\"Tatort\" Bremen: Dosenbier ist schlecht für die Umwelt",
+      "teaser": "Im neuen Bremer \"Tatort\" wird viel Auto gefahren und auf Fotowände gestarrt. Nebenbei muss Kommissarin Moormann ihre Halbschwester wieder auf Spur bringen.",
+      "url": "https://www.zeit.de/kultur/film/2023-04/tatort-bremen-donuts-kommissarin-moormann",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/tatort-bremen-donuts-kommissarin-moormann-teaserbild/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bücher von Sophie Lewis und Emilia Roig: Etwas Besseres als die biologische Familie",
       "teaser": "Schöne neue postfamiliäre Welt: Die Autorinnen Sophie Lewis und Emilia Roig plädieren in ihren neuen Büchern für die Abschaffung der Ehe und eine neue Art von Familie.",
       "url": "https://www.zeit.de/2023/12/familie-abschaffung-sophie-lewis-emilia-roig-feminismus",
-      "image_url": "https://img.zeit.de/2023/12/familie-abschaffung-sophie-lewis-emilia-roig-feminismus-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/12/familie-abschaffung-sophie-lewis-emilia-roig-feminismus-bild/wide__822x462",
+      "image_title": "Bücher von Sophie Lewis und Emilia Roig: Etwas Besseres als die biologische Familie"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Läuft bei uns: Die besten TV-Serien im April",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-03/serien-beef-tulsa-king-ziemlich-beste-stiefmutter",
       "image_url": "https://img.zeit.de/kultur/film/2023-03/serien-beef-tulsa-king-ziemlich-beste-stiefmutter-bild/wide__822x462",
       "image_title": "Läuft bei uns: Die besten TV-Serien im April"
-    },
-    {
-      "title": "Etty Hillesum: Das denkende Herz",
-      "teaser": "Endlich kann man die moderne Mystikerin Etty Hillesum auf Deutsch entdecken: Die Jüdin aus Amsterdam wurde zur Chronistin der Shoah – und zur Märtyrerin.",
-      "url": "https://www.zeit.de/2023/12/etty-hillesum-tagebuch-juedin-amsterdam-holocaust",
-      "image_url": "https://img.zeit.de/2023/12/das-denkende-herz-bild-5/wide__822x462",
-      "image_title": "Etty Hillesum: Das denkende Herz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Manta Manta – Zwoter Teil\": Brrrm, brrrrrrrm, hier kommt ein Debattenbeitrag",
@@ -122,8 +122,8 @@
       "url": "https://www.zeit.de/kultur/2023-03/deutschland-ukraine-krieg-selbstverstaendnis-westen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Köln: Gigantisches Klimakiller-Loch",
-      "url": "https://www.zeit.de/kultur/film/2023-03/tatort-koeln-abbruchkante-obduktionsbericht"
+      "title": "\"mixed people\": Schwarz in Österreich, weiß in Nigeria",
+      "url": "https://www.zeit.de/kultur/2023-03/mixed-people-multiethnische-menschen-hautfarbe-identitaet-minitta-kandlbauer"
     },
     {
       "title": "Frauen in Afghanistan: Die Bräute der Taliban",
@@ -158,8 +158,8 @@
       "url": "https://www.zeit.de/kultur/2023-03/pergamonmuseum-berlin-museumsinsel-sanierung-renovierung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tatort\" Köln: Gigantisches Klimakiller-Loch",
-      "url": "https://www.zeit.de/kultur/film/2023-03/tatort-koeln-abbruchkante-obduktionsbericht"
+      "title": "\"mixed people\": Schwarz in Österreich, weiß in Nigeria",
+      "url": "https://www.zeit.de/kultur/2023-03/mixed-people-multiethnische-menschen-hautfarbe-identitaet-minitta-kandlbauer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Vanilla-Girls: Besinnlich Kaffee getrunken und Yoga gemacht",
@@ -176,6 +176,13 @@
       "image_title": "Marc-Uwe Kling über die Känguru-Comics: \"Das Känguru liegt schon mal gern ein paar Tage in der Hängematte\""
     },
     {
+      "title": "Etty Hillesum: Das denkende Herz",
+      "teaser": "Endlich kann man die moderne Mystikerin Etty Hillesum auf Deutsch entdecken: Die Jüdin aus Amsterdam wurde zur Chronistin der Shoah – und zur Märtyrerin.",
+      "url": "https://www.zeit.de/2023/12/etty-hillesum-tagebuch-juedin-amsterdam-holocaust",
+      "image_url": "https://img.zeit.de/2023/12/das-denkende-herz-bild-5/wide__822x462",
+      "image_title": "Etty Hillesum: Das denkende Herz"
+    },
+    {
       "title": "Filmkomponist: Japanischer Musiker Ryuichi Sakamoto gestorben",
       "teaser": "Ryuichi Sakamoto schrieb Soundtracks für Filme wie \"Der letzte Kaiser\" und \"The Revenant\". Nun ist der japanische Musiker im Alter von 71 Jahren gestorben.",
       "url": "https://www.zeit.de/kultur/musik/2023-04/ryuichi-sakamoto-japanischer-fimkomponist-tot",
@@ -188,13 +195,6 @@
       "url": "https://www.zeit.de/kultur/2023-03/de-influencing-tiktok-konsum-social-media",
       "image_url": "https://img.zeit.de/kultur/2023-03/de-influencing-tiktok-konsum/wide__822x462",
       "image_title": "De-Influencing: TikTok wird sich selbst bewusst"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wladimir Putin: Das russische Rätsel",
-      "teaser": "Seit dem Ukraine-Krieg fragen sich alle, warum Putins Reich so aggressiv nach außen agiert – in jahrhundertelanger Tradition. Welche Antworten geben Historiker?",
-      "url": "https://www.zeit.de/2023/12/wladimir-putin-russland-imperialismus-geschichte-ukraine-krieg",
-      "image_url": "https://img.zeit.de/2023/12/das-russische-raetsel-bild-2/wide__822x462",
-      "image_title": "Wladimir Putin: Das russische Rätsel"
     },
     {
       "title": "Marta Dyachenko: Alles ist vergänglich, doch alles kann auch besser werden",
@@ -211,6 +211,13 @@
       "image_title": "Depression: Helden psychischer Erschöpfung"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Wladimir Putin: Das russische Rätsel",
+      "teaser": "Seit dem Ukraine-Krieg fragen sich alle, warum Putins Reich so aggressiv nach außen agiert – in jahrhundertelanger Tradition. Welche Antworten geben Historiker?",
+      "url": "https://www.zeit.de/2023/12/wladimir-putin-russland-imperialismus-geschichte-ukraine-krieg",
+      "image_url": "https://img.zeit.de/2023/12/das-russische-raetsel-bild-2/wide__822x462",
+      "image_title": "Wladimir Putin: Das russische Rätsel"
+    },
+    {
       "title": "\"Beverly Hills 90210\": Es gibt auch Porschefahrer, die keine Idioten sind",
       "teaser": "Autos in Fernsehserien sind ein schwieriges Thema, meistens sind sie nur für leere Schauwerte da. Anders war es mit einem Sportwagen in \"Beverly Hills 90210\".",
       "url": "https://www.zeit.de/kultur/film/2023-03/beverly-hills-90210-autos-kalle-guckt",
@@ -221,14 +228,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Amoklauf in Nashville: Tote Kinder können nicht lesen",
       "teaser": "Auch nach dem Amoklauf in Nashville sehen Republikaner nur eine Lösung: mehr Waffen. Was ist los mit einem Land, wo unliebsame Bücher als größte Gefahr für Kinder gelten?",
       "url": "https://www.zeit.de/kultur/2023-03/amoklauf-nashville-grundschule-republikaner-waffenrecht-usa",
-      "image_url": "https://img.zeit.de/politik/2023-03/wochenende-14-politisch-motiviert-nashville-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-03/wochenende-14-politisch-motiviert-nashville-bild/cinema__980x420",
       "image_title": "Amoklauf in Nashville: Tote Kinder können nicht lesen"
     },
     {
       "title": "Pergamonmuseum: Ein Museumskonzept der Siebzigerjahre – fürs Jahr 2037",
       "teaser": "Die Sanierung des Pergamonmuseums in Berlin wird viel teurer und dauert viel länger als geplant. Wie konnte es soweit kommen?",
       "url": "https://www.zeit.de/kultur/2023-03/pergamonmuseum-berlin-museumsinsel-sanierung-renovierung",
-      "image_url": "https://img.zeit.de/kultur/2023-03/pergamonmuseum-berlin-museumsinsel-sanierung/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-03/pergamonmuseum-berlin-museumsinsel-sanierung/wide__822x462",
       "image_title": "Pergamonmuseum: Ein Museumskonzept der Siebzigerjahre – fürs Jahr 2037"
     },
     {
@@ -242,14 +249,14 @@
       "title": "Aprilscherze: Einfach glauben und gut is",
       "teaser": "Der 1. April ist längst ein Scherz, denn veräppelt wird man nicht nur auf Twitter täglich: Alles könnte fake sein, von KI gemacht. Dabei möchte man doch gutgläubig sein.",
       "url": "https://www.zeit.de/kultur/2023-03/aprilscherze-twitter-elon-musk-papst-franziskus",
-      "image_url": "https://img.zeit.de/kultur/2023-03/aprilscherze-twitter-elon-musk-papst-franziskus-bild2/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-03/aprilscherze-twitter-elon-musk-papst-franziskus-bild2/cinema__980x420",
       "image_title": "Aprilscherze: Einfach glauben und gut is"
     },
     {
       "title": "USA: Verleumdungsklage gegen Fox News wird vor Gericht verhandelt",
       "teaser": "Ein Wahlmaschinenhersteller geht gegen Fox News vor, weil der US-Sender Donald Trumps Lüge vom Wahlbetrug propagiert hat. Ein Richter hat die Klage nun zugelassen.",
       "url": "https://www.zeit.de/kultur/film/2023-04/usa-verleumdungsklage-fox-news-anklage",
-      "image_url": "https://img.zeit.de/kultur/film/2023-04/fox-news-demo/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-04/fox-news-demo/wide__822x462",
       "image_title": "USA: Verleumdungsklage gegen Fox News wird vor Gericht verhandelt"
     },
     {
@@ -263,14 +270,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Aşk\" von Altın Gün: Reifenspuren im schmelzenden Asphalt",
       "teaser": "In anatolischen Volksweisen findet die türkisch-niederländische Band Altın Gün Anknüpfungspunkte für ihre Rockmusik. So vertraut und neu klingt gerade niemand sonst.",
       "url": "https://www.zeit.de/kultur/musik/2023-03/ask-altin-guen-psychedelic-folk-rock-amsterdam",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-03/ask-altin-guen-psychedelic-folk-rock-amsterdam-bild1/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-03/ask-altin-guen-psychedelic-folk-rock-amsterdam-bild1/cinema__980x420",
       "image_title": "\"Aşk\" von Altın Gün: Reifenspuren im schmelzenden Asphalt"
     },
     {
       "title": "\"Kill Boksoon\": Mama, die Mörderin",
       "teaser": "Morgens Schulbrote, abends Blutbad: In dem südkoreanischen Netflix-Thriller \"Kill Boksoon\" muss eine Auftragsmörderin Kind und Killen unter einen Hut bringen.",
       "url": "https://www.zeit.de/kultur/film/2023-03/kill-boksoon-netflix-action-thriller-heroic-bloodshed-suedkorea",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/kill-boksoon-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/kill-boksoon-2/wide__822x462",
       "image_title": "\"Kill Boksoon\": Mama, die Mörderin"
     },
     {
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/kultur/2023-03/kemal-kilicdaroglu-recep-tayyip-erdogan-tuerkei",
       "image_url": "https://img.zeit.de/kultur/2023-03/kemal-kilicdaroglu-recep-tayyip-erdogan-tuerkei-2/wide__822x462",
       "image_title": "Kemal Kılıçdaroğlu: So wie einst Barack Obama"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Dungeons & Dragons: Ehre unter Dieben\": Von dicken Drachen und guten Gags",
-      "teaser": "Nach über zehn Jahren erscheint wieder ein \"Dungeons-&-Dragons\"-Film im Kino. Zum ersten Mal ist er sogar gut.",
-      "url": "https://www.zeit.de/kultur/film/2023-03/dungeons-dragons-ehre-unter-dieben-film",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/dungeons-dragons-rezension-teaserbild/wide__822x462",
-      "image_title": "\"Dungeons & Dragons: Ehre unter Dieben\": Von dicken Drachen und guten Gags"
     },
     {
       "title": "\"Yellowstone\": Der Western, dem Republikaner vertrauen",
@@ -358,10 +358,17 @@
       "image_title": "Studienorientierung: Sprache und Kultur studieren"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Dungeons & Dragons: Ehre unter Dieben\": Von dicken Drachen und guten Gags",
+      "teaser": "Nach über zehn Jahren erscheint wieder ein \"Dungeons-&-Dragons\"-Film im Kino. Zum ersten Mal ist er sogar gut.",
+      "url": "https://www.zeit.de/kultur/film/2023-03/dungeons-dragons-ehre-unter-dieben-film",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/dungeons-dragons-rezension-teaserbild/cinema__980x420",
+      "image_title": "\"Dungeons & Dragons: Ehre unter Dieben\": Von dicken Drachen und guten Gags"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"The Ordinaries\": Aus den Rollen gefallen",
       "teaser": "Übersprudelndes Filmmärchen und scharfe Gesellschaftskritik: Die deutsche Regisseurin Sophie Linnenbaum erzählt in \"The Ordinaries\" vom Gefangensein in Rollen.",
       "url": "https://www.zeit.de/kultur/film/2023-03/the-ordinaries-gesellschaft-rollen-sophie-linnenbaum",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/the-ordinaries-gesellschaft-rollen-sophie-linnenbaum-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-03/the-ordinaries-gesellschaft-rollen-sophie-linnenbaum-teaserbild/wide__822x462",
       "image_title": "\"The Ordinaries\": Aus den Rollen gefallen"
     },
     {
@@ -370,13 +377,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-03/oeffentlich-rechtlicher-rundfunk-rbb-direktor-gehalt",
       "image_url": "https://img.zeit.de/kultur/2023-03/oeffentlich-rechtlicher-rundfunk-rbb-direktor-gehalt-bild/wide__822x462",
       "image_title": "Öffentlich-rechtlicher Rundfunk: Rbb senkt Vergütung für künftige Direktoren"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Succession\": Die Erben sind müde",
-      "teaser": "Die epochale Milliardärssatire \"Succession\" endet. Bald wird feststehen, wer den Medienkonzern Waystar Royco übernimmt. Falls noch jemand übrig bleibt, um zu erben.",
-      "url": "https://www.zeit.de/kultur/film/2023-03/succession-staffel-4-hbo-sky-jeremy-strong",
-      "image_url": "https://img.zeit.de/kultur/film/2023-03/succession-staffel-4-hbo-sky-jeremy-strong-bild1/wide__822x462",
-      "image_title": "\"Succession\": Die Erben sind müde"
     },
     {
       "title": "Dur-Dur Band Int.: Eine Band fordert ihre Kultur zurück",
