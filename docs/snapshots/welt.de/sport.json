@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-02T07:09:41",
+  "timestamp": "2023-04-02T08:13:24",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -14,6 +14,27 @@
   ],
   "articles": [
     {
+      "title": "Formel 1",
+      "url": "https://www.welt.de/sport/formel1/",
+      "image_url": "https://img.welt.de/img/sport/formel1/mobile244616512/8252505617-ci102l-w1024/F1-Grand-Prix-of-Australia.jpg",
+      "image_title": "Der nächste Sieg: Max Verstappen triumphiert in Australien",
+      "topic": "Großer Preis von Australien"
+    },
+    {
+      "title": "Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244616814/6412501867-ci102l-w1024/The-Ocean-Race-Team-Malizias-Skipper-Boris-Herrmann.jpg",
+      "image_title": "Boris Herrmann an Bord seines siegreichen Schiffes",
+      "topic": "Ocean Race"
+    },
+    {
+      "title": "FC Bayern München",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/fc-bayern-muenchen/mobile244616612/9602504447-ci102l-w1024/Bayern-Vorstand-aeussert-sich-Schlagzeilenlieferant-Kahn-kont.jpg",
+      "image_title": "Wer lügt? Wer sagt die Wahrheit? Oliver Kahn (l.) und Lothar Matthäus liefern sich einen heftigen Schlagabtausch",
+      "topic": "„Ich weiß, dass Kahn lügt“"
+    },
+    {
       "title": "Boxen",
       "url": "https://www.welt.de/sport/boxen/",
       "image_url": "https://img.welt.de/img/sport/boxen/mobile244616140/7542507117-ci102l-w1024/Boxing-In-London-Anthony-Joshua-v-Jermaine-Franklin.jpg",
@@ -26,29 +47,6 @@
       "image_url": "https://img.welt.de/img/sport/mobile244616012/2602509587-ci102l-w1024/FC-Bayern-Muenchen-v-Borussia-Dortmund-Bundesliga.jpg",
       "image_title": "FC Bayern München v Borussia Dortmund - Bundesliga",
       "topic": "„Ding ist noch nicht erledigt“"
-    },
-    {
-      "title": "„Noch viel mehr Spieler würden mir am liebsten an die Gurgel gehen“",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/borussia-moenchengladbach/plus244594330/Gladbach-Trainer-Farke-Noch-viel-mehr-Spieler-wuerden-mir-am-liebsten-an-die-Gurgel-gehen.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/borussia-moenchengladbach/mobile244597516/6752502627-ci102l-w1024/Borussia-Moenchengladbach-v-Sport-Club-Freiburg-Bundesliga.jpg",
-      "image_title": "Borussia Mönchengladbachs Trainer Daniel Farke",
-      "topic": "Daniel Farke",
-      "author": "Dirk Krümpelmann"
-    },
-    {
-      "title": "Sport",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile242912561/8642505237-ci102l-w1024/Dirk-Nowitzki.jpg",
-      "image_title": "Dirk Nowitzki",
-      "topic": "Als erster Deutscher"
-    },
-    {
-      "title": "Bundesliga",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/",
-      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile244615796/1602504727-ci102l-w1024/Bundesliga-Bayern-Munich-v-Borussia-Dortmund.jpg",
-      "image_title": "Bundesliga - Bayern Munich v Borussia Dortmund",
-      "topic": "BVB - FC Bayern",
-      "author": "Julien Wolff"
     },
     {
       "title": "Kaiserslauterns Last-Minute-Wahnsinn gegen Heidenheim – Die Highlights im Video",
@@ -113,6 +111,22 @@
       "topic": "40 Sekunden nach Ausgleich"
     },
     {
+      "title": "„Noch viel mehr Spieler würden mir am liebsten an die Gurgel gehen“",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/borussia-moenchengladbach/plus244594330/Gladbach-Trainer-Farke-Noch-viel-mehr-Spieler-wuerden-mir-am-liebsten-an-die-Gurgel-gehen.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Borussia Mönchengladbachs Trainer Daniel Farke",
+      "topic": "Daniel Farke",
+      "author": "Dirk Krümpelmann"
+    },
+    {
+      "title": "Bundesliga",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Bundesliga - Bayern Munich v Borussia Dortmund",
+      "topic": "BVB - FC Bayern",
+      "author": "Julien Wolff"
+    },
+    {
       "title": "Bundesliga",
       "url": "https://www.welt.de/sport/fussball/bundesliga/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -139,20 +153,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Sanitäter kämpften auf der Tribüne um das Leben des Zuschauers",
       "topic": "Trauriger Zwischenfall"
-    },
-    {
-      "title": "Bundesliga",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Timo Werner muss mit RB Leipzig eine klare Niederlage hinnehmen",
-      "topic": "Bundesliga"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Freude bei Thomas Müller (l.), Verzweiflung bei Marius Wolf",
-      "topic": "Topspiel im Liveticker"
     },
     {
       "title": "Fußball",
@@ -196,6 +196,27 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Fernando Alonso war im Training von Melbourne der Schnellste",
       "topic": "Formel 1"
+    },
+    {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Dirk Nowitzki",
+      "topic": "Als erster Deutscher"
+    },
+    {
+      "title": "Bundesliga",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Timo Werner muss mit RB Leipzig eine klare Niederlage hinnehmen",
+      "topic": "Bundesliga"
+    },
+    {
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Freude bei Thomas Müller (l.), Verzweiflung bei Marius Wolf",
+      "topic": "Topspiel im Liveticker"
     },
     {
       "title": "2. Bundesliga",
@@ -350,28 +371,6 @@
       "image_title": "Den BVB vor Augen: Bayern Münchens Trainer Thomas Tuchel bei der Vorbereitung auf das Topspiel gegen Borussia Dortmund",
       "topic": "FC Bayern gegen BVB",
       "author": "Julien Wolff"
-    },
-    {
-      "title": "„Aktuell haben wir ein lahmendes Pferd“",
-      "url": "https://www.welt.de/sport/formel1/plus244563130/Mercedes-Pilot-Aktuell-haben-wir-ein-lahmendes-Pferd.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "„Ich will Lewis Hamilton schlagen“, sagt George Russell",
-      "topic": "Mercedes-Pilot",
-      "author": "Michel Milewski"
-    },
-    {
-      "title": "2. Bundesliga",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Vom DFB verurteilt: HSV-Profi Mario Vuskovic",
-      "topic": "Mario Vuskovic"
-    },
-    {
-      "title": "Mit diesen Profi-Tipps wirst du zum besseren Beerpong-Spieler",
-      "url": "https://www.welt.de/sport/plus205245589/Beerpong-Mit-diesen-Profi-Tipps-wirst-du-ein-besserer-Spieler.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Das rät ein Spitzenspieler",
-      "author": "Rouven Chlebna"
     },
     {
       "title": "„Morgens als Erstes ein Glas Wasser mit Salz und Limettensaft“",
