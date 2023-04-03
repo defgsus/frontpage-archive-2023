@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-03T11:09:42",
+  "timestamp": "2023-04-03T12:21:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nextcloud",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Schwachstelle-in-Nextcloud-8515005.html"
+    },
+    {
       "title": "Nvidia",
       "url": "https://www.heise.de/news/Nvidia-schliesst-Sicherheitsluecken-in-Treibern-und-Verwaltungssoftware-8511759.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/VoIP-Software-3CX-verteilt-Schadcode-nach-Sideloading-Angriff-8251933.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennten-Netzwerkgeraete-von-Cisco-lahmlegen-7932241.html"
+      "title": "Western Digital meldet \"Netzwerk-Sicherheitsvorfall\"",
+      "teaser": "Western Digital hat einen Cyber-Einbruch gemeldet, den das Unternehmen aktuell untersucht. Es gibt bislang noch kaum Informationen.",
+      "url": "https://www.heise.de/news/Western-Digital-meldet-Netzwerk-Sicherheitsvorfall-8515140.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
+    },
+    {
+      "title": "Jetzt updaten: Kritische Schwachstelle in Nextcloud",
+      "teaser": "Eine als kritisch eingestufte Sicherheitslücke in der Kollaborationssoftware Nextcloud könnte Angreifern das Ausführen von Schadcode ermöglichen.",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Schwachstelle-in-Nextcloud-8515005.html"
     },
     {
       "title": "Geräteverwaltung HCL Bigfix dichtet DoS-Lücke ab",
@@ -143,16 +154,6 @@
       "title": "Remote PowerShell: Einfallstor bei Exchange Online jetzt mit Gnadenfrist",
       "teaser": "Ein halbes Jahr länger bleibt Administratoren, bis sie sich von ihren unsicheren PowerShell-cmdlets für Exchange Online verabschieden müssen.",
       "url": "https://www.heise.de/news/Remote-PowerShell-Einfallstor-bei-Exchange-Online-jetzt-mit-Gnadenfrist-8186790.html"
-    },
-    {
-      "title": "Der heise Security Crashkurs zum Schutz vor Ransomware",
-      "teaser": "Dieses praxisorientierte Webinar erklärt in zwei halben Tagen, wie die Angreifer aktuell vorgehen und wie Sie ihre Unternehmens-IT bestmöglich davor schützen.",
-      "url": "https://www.heise.de/news/Der-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-8146822.html"
-    },
-    {
-      "title": "NIST nimmt Rust in die Liste der sichereren Programmiersprachen auf",
-      "teaser": "Das National Institute for Standards and Technology (NIST) nimmt Rust wegen seines Ownership-Konzepts in die Liste der sichereren Programmiersprachen auf.",
-      "url": "https://www.heise.de/news/NIST-nimmt-Rust-in-die-Liste-der-sichereren-Programmiersprachen-auf-8174471.html"
     },
     {
       "title": "Ransomware-Webinar am 3. und 4. Mai",
