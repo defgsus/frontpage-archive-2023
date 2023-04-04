@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-04T02:07:09",
+  "timestamp": "2023-04-04T03:12:03",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Datenschutz: Australien verbietet Staatsdienern Nutzung von Tiktok auf Diensthandys",
+      "teaser": "Australien verbannt die Video-App TikTok von Regierungsgeräten. Der Eigentümer-Konzern ByteDance steht wegen seiner Nähe zur Regierung in Peking in der Kritik.",
+      "url": "https://www.zeit.de/digital/2023-04/tiktok-diensthandy-australien-verbot",
+      "image_url": "https://img.zeit.de/digital/2023-04/tiktok-datenschutz-bild/cinema__980x420"
+    },
+    {
       "title": "KI-Chatbot: Bundesdatenschutzbeauftragter hält Sperrung von ChatGPT für möglich",
       "teaser": "Italiens Datenschutzbehörde ist gegen ChatGPT vorgegangen. In Deutschland wäre dies dem Datenschutzbeauftragten zufolge auch denkbar. Das Digitalministerium lehnt das ab.",
       "url": "https://www.zeit.de/digital/2023-04/chatgpt-ki-chatbot-sperrung-italien-bundesdatenschutzbeauftragte",
-      "image_url": "https://img.zeit.de/digital/2023-04/chatgpt-ki-chatbot-sperrung-italien-datenschutz/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-04/chatgpt-ki-chatbot-sperrung-italien-datenschutz/wide__822x462",
+      "image_title": "KI-Chatbot: Bundesdatenschutzbeauftragter hält Sperrung von ChatGPT für möglich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Emily Bender über KI: \"Wir entfesseln eine Chaosmaschine\"",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/2023-04/emily-bender-ki-gefahr-ethik",
       "image_url": "https://img.zeit.de/digital/2023-04/emily-bender-ki-gefahr-ethik-bild/wide__822x462",
       "image_title": "Emily Bender über KI: \"Wir entfesseln eine Chaosmaschine\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Tetris\": Die Blöcke fallen",
-      "teaser": "Eines der berühmtesten Videospiele, der Kalte Krieg und Taron Egerton: Aus dieser Mischung könnte ein sehr guter Film entstehen. Leider schafft das \"Tetris\" nicht.",
-      "url": "https://www.zeit.de/digital/games/2023-04/tetris-film-apple-tv-taron-egerton-rezension",
-      "image_url": "https://img.zeit.de/digital/games/2023-04/tetris-film-apple-tv-taron-egerton-rezension-bild/wide__822x462",
-      "image_title": "\"Tetris\": Die Blöcke fallen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
@@ -162,6 +162,13 @@
       "url": "https://www.zeit.de/digital/2023-03/vulkan-files-russland-datenleak-hackerangriff"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Tetris\": Die Blöcke fallen",
+      "teaser": "Eines der berühmtesten Videospiele, der Kalte Krieg und Taron Egerton: Aus dieser Mischung könnte ein sehr guter Film entstehen. Leider schafft das \"Tetris\" nicht.",
+      "url": "https://www.zeit.de/digital/games/2023-04/tetris-film-apple-tv-taron-egerton-rezension",
+      "image_url": "https://img.zeit.de/digital/games/2023-04/tetris-film-apple-tv-taron-egerton-rezension-bild/wide__822x462",
+      "image_title": "\"Tetris\": Die Blöcke fallen"
+    },
+    {
       "title": "Kurznachrichtendienst: Twitter veröffentlicht Teile seines Quellcodes",
       "teaser": "Der US-Konzern Twitter verspricht \"eine neue Ära der Transparenz\". In einem ersten Schritt ist nun der Quellcode für den Empfehlungsalgorithmus öffentlich einsehbar.",
       "url": "https://www.zeit.de/digital/2023-03/twitter-quellcode-entwickler-transparenz",
@@ -174,13 +181,6 @@
       "url": "https://www.zeit.de/digital/2023-03/vulkan-files-cyberkrieg-russland-software-faq",
       "image_url": "https://img.zeit.de/digital/2023-03/vulkan-files-cyberkrieg-russland-software-faq-bild/wide__822x462",
       "image_title": "Vulkan Files: Ein Blick in den Werkzeugkasten der Staatshacker"
-    },
-    {
-      "title": "Chatbot: Italienische Datenschutzbehörde sperrt ChatGPT",
-      "teaser": "\"Mit sofortiger Wirkung\" ist ChatGPT in Italien gesperrt. Die Datenschutzbehörde des Landes kritisiert das Sammeln personenbezogener Daten sowie fehlenden Jugendschutz.",
-      "url": "https://www.zeit.de/digital/2023-03/chatbot-chatgpt-italien-datenschutz-sperre",
-      "image_url": "https://img.zeit.de/digital/2023-03/chatbot-chatgpt-italien-datenschutz/wide__822x462",
-      "image_title": "Chatbot: Italienische Datenschutzbehörde sperrt ChatGPT"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -211,6 +211,13 @@
       "image_title": "TikTok: App-Angst"
     },
     {
+      "title": "Chatbot: Italienische Datenschutzbehörde sperrt ChatGPT",
+      "teaser": "\"Mit sofortiger Wirkung\" ist ChatGPT in Italien gesperrt. Die Datenschutzbehörde des Landes kritisiert das Sammeln personenbezogener Daten sowie fehlenden Jugendschutz.",
+      "url": "https://www.zeit.de/digital/2023-03/chatbot-chatgpt-italien-datenschutz-sperre",
+      "image_url": "https://img.zeit.de/digital/2023-03/chatbot-chatgpt-italien-datenschutz/wide__822x462",
+      "image_title": "Chatbot: Italienische Datenschutzbehörde sperrt ChatGPT"
+    },
+    {
       "title": "Vulkan Files: Russland plant laut Medienberichten weltweite Cyberangriffe",
       "teaser": "Eine Moskauer IT-Firma arbeitet Medien zufolge mit russischen Geheimdiensten zusammen, um Hackerangriffe durchzuführen. Zu den Zielen zählten etwa Züge und Flughäfen.",
       "url": "https://www.zeit.de/digital/2023-03/vulkan-files-russland-datenleak-hackerangriff",
@@ -225,13 +232,6 @@
       "image_title": "Twitter: Was macht denn dieser Tweet da vorn?"
     },
     {
-      "title": "DSGVO: Für Livestreams im Schulunterricht gilt die Datenschutzgrundverordnung",
-      "teaser": "In die Teilnahme am Onlineunterricht mussten Schüler und Eltern während der Pandemie einwilligen, Lehrer nicht. Das sei korrekt, entschied der Europäische Gerichtshof.",
-      "url": "https://www.zeit.de/digital/2023-03/livestream-schule-unterricht-datenschutzgrundverordnung-dsgvo",
-      "image_url": "https://img.zeit.de/digital/2023-03/livestream-schule-unterricht-datenschutzgrundverordnung-dsgvo-bild/wide__822x462",
-      "image_title": "DSGVO: Für Livestreams im Schulunterricht gilt die Datenschutzgrundverordnung"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -239,11 +239,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Apple Music Classical: Meterweise Metadaten",
-      "teaser": "Apple bringt eine eigene App für klassische Musik heraus. Damit könnte Streaming für Klassikhörer endlich attraktiv werden. Leider schafft das die App nur halb.",
-      "url": "https://www.zeit.de/digital/mobil/2023-03/apple-music-classical-app-klassische-musik-streaming-dienst",
-      "image_url": "https://img.zeit.de/digital/mobil/2023-03/apple-music-classical-app-klassische-musik-streaming-dienst-bild/wide__822x462",
-      "image_title": "Apple Music Classical: Meterweise Metadaten"
+      "title": "DSGVO: Für Livestreams im Schulunterricht gilt die Datenschutzgrundverordnung",
+      "teaser": "In die Teilnahme am Onlineunterricht mussten Schüler und Eltern während der Pandemie einwilligen, Lehrer nicht. Das sei korrekt, entschied der Europäische Gerichtshof.",
+      "url": "https://www.zeit.de/digital/2023-03/livestream-schule-unterricht-datenschutzgrundverordnung-dsgvo",
+      "image_url": "https://img.zeit.de/digital/2023-03/livestream-schule-unterricht-datenschutzgrundverordnung-dsgvo-bild/wide__822x462",
+      "image_title": "DSGVO: Für Livestreams im Schulunterricht gilt die Datenschutzgrundverordnung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
@@ -309,6 +309,13 @@
       "image_title": "Chinesische App: EU-Parlament verbietet TikTok auf Dienstgeräten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Apple Music Classical: Meterweise Metadaten",
+      "teaser": "Apple bringt eine eigene App für klassische Musik heraus. Damit könnte Streaming für Klassikhörer endlich attraktiv werden. Leider schafft das die App nur halb.",
+      "url": "https://www.zeit.de/digital/mobil/2023-03/apple-music-classical-app-klassische-musik-streaming-dienst",
+      "image_url": "https://img.zeit.de/digital/mobil/2023-03/apple-music-classical-app-klassische-musik-streaming-dienst-bild/wide__822x462",
+      "image_title": "Apple Music Classical: Meterweise Metadaten"
+    },
+    {
       "title": "Elektroschrott: Reparieren, nicht neu kaufen",
       "teaser": "Die EU-Kommission plant, Elektrogeräte bis zu zehn Jahre lang reparieren zu lassen. Manchen geht der Vorschlag im Kampf gegen den Elektroschrott aber nicht weit genug.",
       "url": "https://www.zeit.de/digital/mobil/2023-03/eu-kommission-elektroschrott-reparatur-recht",
@@ -321,13 +328,6 @@
       "url": "https://www.zeit.de/digital/mobil/2023-02/artifact-news-app-social-media",
       "image_url": "https://img.zeit.de/digital/mobil/2023-02/artifact-app-news/wide__822x462",
       "image_title": "App Artifact: TikTok für Text"
-    },
-    {
-      "title": "Samsung Galaxy Unpacked: Viel Kamera und wenig Neues",
-      "teaser": "Auf S22 folgt S23: Samsung stellt neue Smartphones vor, die große Überraschung bleibt aus. Klar wird, dass sich das Unternehmen als Premiumanbieter neben Apple sieht.",
-      "url": "https://www.zeit.de/digital/mobil/2023-02/samsung-galaxy-unpacked-smartphones-galaxy-s23-ultra-launch",
-      "image_url": "https://img.zeit.de/digital/mobil/2023-02/samsung-galaxy-unpacked-smartphones-galaxy-bild/wide__822x462",
-      "image_title": "Samsung Galaxy Unpacked: Viel Kamera und wenig Neues"
     },
     {
       "title": "\"Resident Evil 4\": Hat hier jemand eine Präsidententochter gesehen?",
