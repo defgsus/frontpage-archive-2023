@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-04T17:08:44",
+  "timestamp": "2023-04-04T18:12:26",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Internet: Hacker greifen Websites von Bundesministerium und zwei Ländern an",
+      "teaser": "Mecklenburg-Vorpommern, Sachsen-Anhalt und das Bundesentwicklungsministerium berichten von angegriffenen Websites. Dahinter könnten russische Hacker stecken.",
+      "url": "https://www.zeit.de/digital/2023-04/internet-cyberangriffe-sachsen-anhalt-bundesentwicklungsministerium",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-04/hacker-cyberangriffe-sachsen-anhalt-bundesentwicklungsministerium-bild/cinema__980x420"
+    },
+    {
       "title": "Bundesamt für Justiz: Verfahren gegen Twitter wegen Umgang mit Beleidigungen eingeleitet",
       "teaser": "Twitter soll beleidigende Tweets trotz Beschwerden nicht rechtzeitig entfernt haben. Jetzt prüft das Bundesamt für Justiz, ob ein \"systemisches Versagen\" vorliegt.",
       "url": "https://www.zeit.de/politik/ausland/2023-04/twitter-beleidigung-verfahren-beschwerde-bundesamt-fuer-justiz",
-      "image_url": "https://img.zeit.de/digital/2023-04/twitter-beleidigung-verfahren-beschwerden-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-04/twitter-beleidigung-verfahren-beschwerden-bild/wide__822x462",
+      "image_title": "Bundesamt für Justiz: Verfahren gegen Twitter wegen Umgang mit Beleidigungen eingeleitet"
     },
     {
       "title": "Künstliche Intelligenz: Eine KI-Pause ist keine Lösung",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/2023/15/kuenstliche-intelligenz-entwicklung-technologie-kontrolle",
       "image_url": "https://img.zeit.de/2023/15/kuenstliche-intelligenz-entwicklung-technologie-kontrolle-bild/wide__822x462",
       "image_title": "Künstliche Intelligenz: Eine KI-Pause ist keine Lösung"
-    },
-    {
-      "title": "Energieeffizienz: Bitkom warnt vor Abwanderung von Rechenzentren wegen Abwärmeregelung",
-      "teaser": "Die Bundesregierung will Rechenzentren verpflichten, ihre Abwärme besser zu nutzen. Der Digitalverband Bitkom befürchtet negative Folgen für den IT-Standort Deutschland.",
-      "url": "https://www.zeit.de/digital/2023-04/bitkom-rechenzentren-abwanderung-energieeffizienz-unternehmen",
-      "image_url": "https://img.zeit.de/digital/2023-04/bitkom-rechenzentren-abwanderung-energieeffizienz-unternehmen-bild/wide__822x462",
-      "image_title": "Energieeffizienz: Bitkom warnt vor Abwanderung von Rechenzentren wegen Abwärmeregelung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
@@ -162,6 +162,13 @@
       "url": "https://www.zeit.de/digital/2023-03/vulkan-files-russland-datenleak-hackerangriff"
     },
     {
+      "title": "Energieeffizienz: Bitkom warnt vor Abwanderung von Rechenzentren wegen Abwärmeregelung",
+      "teaser": "Die Bundesregierung will Rechenzentren verpflichten, ihre Abwärme besser zu nutzen. Der Digitalverband Bitkom befürchtet negative Folgen für den IT-Standort Deutschland.",
+      "url": "https://www.zeit.de/digital/2023-04/bitkom-rechenzentren-abwanderung-energieeffizienz-unternehmen",
+      "image_url": "https://img.zeit.de/digital/2023-04/bitkom-rechenzentren-abwanderung-energieeffizienz-unternehmen-bild/wide__822x462",
+      "image_title": "Energieeffizienz: Bitkom warnt vor Abwanderung von Rechenzentren wegen Abwärmeregelung"
+    },
+    {
       "title": "Datenschutz: Australien verbietet Staatsdienern Nutzung von TikTok auf Diensthandys",
       "teaser": "Australien verbannt die Video-App TikTok von Regierungsgeräten. Der Eigentümer-Konzern ByteDance steht wegen seiner Nähe zur Regierung in Peking in der Kritik.",
       "url": "https://www.zeit.de/digital/2023-04/tiktok-diensthandy-australien-verbot",
@@ -174,13 +181,6 @@
       "url": "https://www.zeit.de/digital/2023-04/chatgpt-ki-chatbot-sperrung-italien-bundesdatenschutzbeauftragte",
       "image_url": "https://img.zeit.de/digital/2023-04/chatgpt-ki-chatbot-sperrung-italien-datenschutz/wide__822x462",
       "image_title": "KI-Chatbot: Bundesdatenschutzbeauftragter hält Sperrung von ChatGPT für möglich"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Emily Bender über KI: \"Wir entfesseln eine Chaosmaschine\"",
-      "teaser": "Muss man Angst vor superintelligenten Maschinen haben? Blödsinn, sagt die KI-Ethikerin Emily Bender. Gefährlich seien Systeme wie GPT-4 aus ganz anderen Gründen.",
-      "url": "https://www.zeit.de/digital/2023-04/emily-bender-ki-gefahr-ethik",
-      "image_url": "https://img.zeit.de/digital/2023-04/emily-bender-ki-gefahr-ethik-bild/wide__822x462",
-      "image_title": "Emily Bender über KI: \"Wir entfesseln eine Chaosmaschine\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -211,6 +211,13 @@
       "image_title": "TikTok: App-Angst"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Emily Bender über KI: \"Wir entfesseln eine Chaosmaschine\"",
+      "teaser": "Muss man Angst vor superintelligenten Maschinen haben? Blödsinn, sagt die KI-Ethikerin Emily Bender. Gefährlich seien Systeme wie GPT-4 aus ganz anderen Gründen.",
+      "url": "https://www.zeit.de/digital/2023-04/emily-bender-ki-gefahr-ethik",
+      "image_url": "https://img.zeit.de/digital/2023-04/emily-bender-ki-gefahr-ethik-bild/wide__822x462",
+      "image_title": "Emily Bender über KI: \"Wir entfesseln eine Chaosmaschine\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Tetris\": Die Blöcke fallen",
       "teaser": "Eines der berühmtesten Videospiele, der Kalte Krieg und Taron Egerton: Aus dieser Mischung könnte ein sehr guter Film entstehen. Leider schafft das \"Tetris\" nicht.",
       "url": "https://www.zeit.de/digital/games/2023-04/tetris-film-apple-tv-taron-egerton-rezension",
@@ -225,13 +232,6 @@
       "image_title": "Kurznachrichtendienst: Twitter veröffentlicht Teile seines Quellcodes"
     },
     {
-      "title": "Vulkan Files: Ein Blick in den Werkzeugkasten der Staatshacker",
-      "teaser": "Unterlagen einer russischen Softwarefirma verraten viel darüber, wie Russland seine Cyberangriffe plant. Was Sie über das Leak wissen sollten.",
-      "url": "https://www.zeit.de/digital/2023-03/vulkan-files-cyberkrieg-russland-software-faq",
-      "image_url": "https://img.zeit.de/digital/2023-03/vulkan-files-cyberkrieg-russland-software-faq-bild/wide__822x462",
-      "image_title": "Vulkan Files: Ein Blick in den Werkzeugkasten der Staatshacker"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -239,11 +239,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Chatbot: Italienische Datenschutzbehörde sperrt ChatGPT",
-      "teaser": "\"Mit sofortiger Wirkung\" ist ChatGPT in Italien gesperrt. Die Datenschutzbehörde des Landes kritisiert das Sammeln personenbezogener Daten sowie fehlenden Jugendschutz.",
-      "url": "https://www.zeit.de/digital/2023-03/chatbot-chatgpt-italien-datenschutz-sperre",
-      "image_url": "https://img.zeit.de/digital/2023-03/chatbot-chatgpt-italien-datenschutz/wide__822x462",
-      "image_title": "Chatbot: Italienische Datenschutzbehörde sperrt ChatGPT"
+      "title": "Vulkan Files: Ein Blick in den Werkzeugkasten der Staatshacker",
+      "teaser": "Unterlagen einer russischen Softwarefirma verraten viel darüber, wie Russland seine Cyberangriffe plant. Was Sie über das Leak wissen sollten.",
+      "url": "https://www.zeit.de/digital/2023-03/vulkan-files-cyberkrieg-russland-software-faq",
+      "image_url": "https://img.zeit.de/digital/2023-03/vulkan-files-cyberkrieg-russland-software-faq-bild/wide__822x462",
+      "image_title": "Vulkan Files: Ein Blick in den Werkzeugkasten der Staatshacker"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
