@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-04T12:21:36",
+  "timestamp": "2023-04-04T13:15:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.90277a4a870db63f02b5",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.cd3c15c3b8c26e03e963",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Patchday: Android",
+      "url": "https://www.heise.de/news/Patchday-Google-dichtet-kritische-Lecks-in-Android-ab-8522365.html"
+    },
     {
       "title": "Nextcloud",
       "url": "https://www.heise.de/news/Jetzt-updaten-Kritische-Schwachstelle-in-Nextcloud-8515005.html"
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Wordpress-Hochriskante-Luecke-in-Elementor-Pro-wird-angegriffen-8384344.html"
     },
     {
-      "title": "VoIP 3CX",
-      "url": "https://www.heise.de/news/VoIP-Software-3CX-verteilt-Schadcode-nach-Sideloading-Angriff-8251933.html"
+      "title": "Sophos Web Appliance: Kritische Sicherheitslücke erlaubt Codeschmuggel",
+      "teaser": "Sophos hat in der Web Appliance (SWA) Sicherheitslücken geschlossen, die Angreifern etwa das Ausführen beliebigen Codes ermöglichen.",
+      "url": "https://www.heise.de/news/Sophos-Web-Appliance-Kritische-Sicherheitsluecke-erlaubt-Codeschmuggel-8525279.html",
+      "image_title": "Young,It,Engeneer,Business,Man,With,Thin,Modern,Aluminium,Laptop"
+    },
+    {
+      "title": "Patchday: Android-Lücken mit kritischem Risiko gestopft",
+      "teaser": "Zum April-Patchday hat Google Sicherheitslücken im Android-Betriebssystem geschlossen, die die Entwickler teils als kritisch einstufen.",
+      "url": "https://www.heise.de/news/Patchday-Google-dichtet-kritische-Lecks-in-Android-ab-8522365.html",
+      "image_title": "Aufmacher Android-Patchday"
     },
     {
       "title": "c't-Webinar zu rechtlichen Aspekten beim Einsatz von KI-Generatoren am 24. Mai",
@@ -140,16 +152,6 @@
       "teaser": "Eine Unterlassung im WLAN-Standard erlaubt Angriffe über die Energiesparfunktion. Das trifft alle Geräte, aber die Gefahr ist wohl gering.",
       "url": "https://www.heise.de/news/Neue-WLAN-Luecke-MacStealer-Datenklau-ueber-Bande-8255816.html",
       "image_title": "WLAN"
-    },
-    {
-      "title": "VoIP-Software 3CX verteilt Schadcode nach Sideloading-Angriff",
-      "teaser": "Der Softphone-Client 3CXDesktopApp wurde durch Angreifer kompromittiert und entfaltete verdächtige Aktivitäten. Die Spur führt nach Nordkorea.​",
-      "url": "https://www.heise.de/news/VoIP-Software-3CX-verteilt-Schadcode-nach-Sideloading-Angriff-8251933.html"
-    },
-    {
-      "title": "Microsoft Defender: Achtung, Klick auf das gefährliche zoom.us festgestellt",
-      "teaser": "Der Microsoft Defender ist nicht nur ein schnöder Virenscanner, sondern soll auch bei Klicks auf gefährliche Links warnen. Und dazu gehören … Zoom und Google?",
-      "url": "https://www.heise.de/news/Microsoft-Defender-Zoom-und-Google-sind-zu-boese-8245303.html"
     },
     {
       "title": "Ransomware-Webinar am 3. und 4. Mai",
