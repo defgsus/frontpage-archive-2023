@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-05T20:13:05",
+  "timestamp": "2023-04-05T21:11:16",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "CDU- und Linke-Politiker"
+    },
     {
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -34,14 +39,9 @@
       "topic": "Wunsiedel in Bayern"
     },
     {
-      "title": "Ausland",
-      "url": "https://www.welt.de/politik/ausland/",
-      "topic": "Besuch in Kiew"
-    },
-    {
-      "title": "FC Bayern München",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/",
-      "topic": "Nach Kritik von Matthäus"
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "topic": "DFB-Pokal"
     },
     {
       "title": "Kick-off",
@@ -73,16 +73,16 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
     },
     {
-      "title": "„Der Engpass ist nicht das Handwerk, sondern verlässliche Rahmenbedingungen“",
-      "url": "https://www.welt.de/politik/deutschland/video244663716/Austausch-der-Heizungen-Handwerk-nicht-der-Engpass-sondern-die-Rahmenbedingungen.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Austausch der Heizungen"
-    },
-    {
       "title": "„Gelände ist abgesperrt und wird abgesperrt bleiben. Parallel laufen Befragungen“",
       "url": "https://www.welt.de/vermischtes/kriminalitaet/video244674626/Polizei-zu-totem-Maedchen-in-Wunsiedel-Gelaende-ist-abgesperrt-Parallel-laufen-Befragungen.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Totes Mädchen in Wunsiedel"
+    },
+    {
+      "title": "„Der Engpass ist nicht das Handwerk, sondern verlässliche Rahmenbedingungen“",
+      "url": "https://www.welt.de/politik/deutschland/video244663716/Austausch-der-Heizungen-Handwerk-nicht-der-Engpass-sondern-die-Rahmenbedingungen.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Austausch der Heizungen"
     },
     {
       "title": "„Es geht darum, Lieferengpässe zu lösen. Das zeigt der Entwurf überhaupt nicht“",
@@ -95,6 +95,20 @@
       "url": "https://www.welt.de/vermischtes/kriminalitaet/video244674242/Wunsiedel-Staatsanwalt-aeussert-sich-zu-toter-Zehnjaehriger-in-Kinderhilfe-Einrichtung.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Wunsiedel in Oberfranken"
+    },
+    {
+      "title": "„Bei den Älteren haben wir sehr viel mehr fahrende Trinker als trinkende Fahrer“",
+      "url": "https://www.welt.de/politik/deutschland/video244674502/Null-Promille-Grenze-Bei-Aelteren-mehr-fahrende-Trinker-als-trinkende-Fahrer.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Siegfried Brockmann spricht bei einer Pressekonferenz",
+      "topic": "Null-Promille-Grenze"
+    },
+    {
+      "title": "„Im Kern ist es die Mannschaft, die Probleme hat“",
+      "url": "https://www.welt.de/sport/video244671454/Bayern-scheitert-im-DFB-Pokal-Im-Kern-ist-es-die-Mannschaft-die-Probleme-hat.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Autorenfoto NEU DIE WELT Fotoshooting 2016 Julien Wolff Foto: Claudius Pflug",
+      "topic": "Bayern scheitert im DFB-Pokal"
     },
     {
       "title": "„Der Staatsanwalt in New York ist ein Demokrat“",
@@ -117,22 +131,10 @@
       "topic": "Historische Anklage"
     },
     {
-      "title": "„Wir hatten eine solche Situation in Deutschland – Das war eine Frage der politischen Hygiene“",
-      "url": "https://www.welt.de/politik/ausland/video244657866/Anklage-gegen-Trump-Juergen-Hardt-sagt-wir-hatten-eine-solche-Situation-in-Deutschland.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Anklage gegen Trump"
-    },
-    {
       "title": "„Das Land ist gespalten. Und Trump profitiert davon. Die Wahlkampfkasse sprudelt“",
       "url": "https://www.welt.de/politik/ausland/video244657808/Erik-Kirschbaum-zur-Anklage-gegen-Trump-Das-Land-ist-gespalten-Und-Trump-profitiert-davon.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Historische Anklage"
-    },
-    {
-      "title": "„Wir sind auf den Technologiewandel im Heizungskeller nicht vorbereitet“",
-      "url": "https://www.welt.de/wirtschaft/video244648958/Waermewende-Wir-sind-auf-den-Technologiewandel-im-Heizungskeller-nicht-vorbereitet.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Wärmewende"
     },
     {
       "title": "„Enorm starkes Militär, weil man dort bei aller Neutralität immer sehr alarmiert war“",
@@ -140,19 +142,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Marie-Agnes Strack-Zimmermann",
       "topic": "Finnland nun Nato-Mitglied"
-    },
-    {
-      "title": "„Zu Impfstoffnebenwirkungen und -komplikationen wurde nichts gesagt“",
-      "url": "https://www.welt.de/politik/deutschland/video244650566/Corona-Expertenrat-beendet-Arbeit-Zu-Impfstoffnebenwirkungen-wurde-nichts-gesagt.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Aus für Corona-Expertenrat"
-    },
-    {
-      "title": "„Militärisch sehr stark aufgestellt. Finnland hat ein Konzept der totalen Verteidigung“",
-      "url": "https://www.welt.de/politik/ausland/video244649586/Nato-Beitritt-Finnlands-Clemens-Wergin-erklaert-Finnlands-Konzept-der-totalen-Verteidigung.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Finnish Army",
-      "topic": "Nato-Beitritt Finnlands"
     }
   ]
 }
