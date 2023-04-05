@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-05T04:13:42",
+  "timestamp": "2023-04-05T05:11:11",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Tarifrunde: IG-Metall will Vier-Tage-Woche in Stahlindustrie durchsetzen",
+      "teaser": "Die IG-Metall will in der nächsten Tarifrunde weitreichende Forderungen durchsetzen. Die Gewerkschaft will die Branche so auch für Jüngere attraktiver machen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/ig-metall-vier-tage-woche-stahlindustrie-lohn-verhandlungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-04/ig-metall-forderungen-stahlindustrie/cinema__980x420"
+    },
+    {
       "title": "Tarifkonflikt: Gewerkschaftschef ruft Arbeitgeber zu Zugeständnissen auf",
       "teaser": "Die Arbeitgeber müssten sich auf die Beschäftigten im öffentlichen Dienst zubewegen, sagte Verdi-Chef Frank Wernecke. Noch vor Ostern soll die Schlichtung beginnen.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/tarifkonflikt-gewerkschaften-schlichtung-frank-wernecke",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/frank-wernecke-verdi-tarifstreit/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/frank-wernecke-verdi-tarifstreit/wide__822x462",
+      "image_title": "Tarifkonflikt: Gewerkschaftschef ruft Arbeitgeber zu Zugeständnissen auf"
     },
     {
       "title": "Wettbewerbsrecht: Bundesregierung will Kartellamt schnelleren Eingriff ermöglichen",
@@ -66,14 +73,14 @@
       "title": "Russlands Wirtschaft: Diesen Text schrieb Evan Gershkovich vor seiner Verhaftung in Russland",
       "teaser": "Der Reporter des \"Wall Street Journal\" wurde wegen angeblicher Spionage verhaftet. Wir dokumentieren seinen jüngsten Text über den Niedergang der russischen Wirtschaft.",
       "url": "https://www.zeit.de/2023/15/russland-wirtschaft-energie-export-inflation",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/russland-wirtschaft-energie-export/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/russland-wirtschaft-energie-export/cinema__980x420",
       "image_title": "Russlands Wirtschaft: Diesen Text schrieb Evan Gershkovich vor seiner Verhaftung in Russland"
     },
     {
       "title": "Satelliten: US-Raumfahrtunternehmen Virgin Orbit stellt Insolvenzantrag",
       "teaser": "Virgin Orbit aus den USA ist auf Satellitenstarts spezialisiert. Anfang des Jahres scheiterte eine Mission, daraufhin brach das Geschäft ein.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/virgin-orbit-usa-raumfahrt-insolvenz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/virgin-orbit-usa-raumfahrt-insolvenz-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/virgin-orbit-usa-raumfahrt-insolvenz-bild/wide__822x462",
       "image_title": "Satelliten: US-Raumfahrtunternehmen Virgin Orbit stellt Insolvenzantrag"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/exporte-deutschland-anstieg-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/exporte-deutschland-anstieg-statistisches-bundesamt-bild/wide__822x462",
       "image_title": "Statistisches Bundesamt: Deutsche Exporte legen im Februar kräftig zu"
-    },
-    {
-      "title": "Energie: Haushalte verbrauchen acht Prozent weniger Strom",
-      "teaser": "Hohe Energiepreise und Sparaufrufe haben 2022 offenbar viele Bürger bewogen, auf ihren Stromverbrauch zu achten. Analysten sehen noch viel mehr Einsparpotenzial.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/energiekrise-stromverbrauch-privathaushalte-gesunken",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/energiekrise-stromverbrauch-privathaushalte-gesunken-bild/wide__822x462",
-      "image_title": "Energie: Haushalte verbrauchen acht Prozent weniger Strom"
     },
     {
       "title": "Russlands Wirtschaft: Diesen Text schrieb Evan Gershkovich vor seiner Verhaftung in Russland",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Energie: Haushalte verbrauchen acht Prozent weniger Strom",
+      "teaser": "Hohe Energiepreise und Sparaufrufe haben 2022 offenbar viele Bürger bewogen, auf ihren Stromverbrauch zu achten. Analysten sehen noch viel mehr Einsparpotenzial.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/energiekrise-stromverbrauch-privathaushalte-gesunken",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/energiekrise-stromverbrauch-privathaushalte-gesunken-bild/wide__822x462",
+      "image_title": "Energie: Haushalte verbrauchen acht Prozent weniger Strom"
+    },
+    {
       "title": "Süßwarenindustrie: Schokoladenhersteller in Deutschland erhöhen Produktion",
       "teaser": "Der Pro-Kopf-Konsum von Schokolade ist gestiegen– auf 9,56 Kilo im vergangenen Jahr. Die Hersteller fahren derweil ihre Produktion hoch und bereiten sich auf Ostern vor.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/schokolade-suesswaren-produktion",
@@ -220,14 +227,14 @@
       "title": "Potsdamer Platz: Sony-Center in Berlin bekommt neuen Namen",
       "teaser": "Das Berliner Sony-Center am Potsdamer Platz heißt bereits anders – aber nur vorübergehend. Bis zur Wiedereröffnung im Sommer 2024 soll ein neuer Name entwickelt werden.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/sony-center-berlin-potsdamer-platz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/sony-center-berlin-potsdamer-platz-name/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/sony-center-berlin-potsdamer-platz-name/cinema__980x420",
       "image_title": "Potsdamer Platz: Sony-Center in Berlin bekommt neuen Namen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Börse: Dividenden sind keine Geschenke",
       "teaser": "Anleger freuen sich derzeit wieder über hohe Dividenden. Dabei haben sie von denen nicht so viel, wie sie denken. Über einen alten Irrglauben",
       "url": "https://www.zeit.de/2023/14/dividenden-boerse-anleger-aktienmarkt",
-      "image_url": "https://img.zeit.de/2023/14/dividenden-sind-keine-geschenke-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/14/dividenden-sind-keine-geschenke-bild-1/wide__822x462",
       "image_title": "Börse: Dividenden sind keine Geschenke"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-03/wirtschaftspodcast-yasmin-fahimi-gewerkschaften-streiks",
       "image_url": "https://img.zeit.de/wirtschaft/2023-03/wirtschaftspodcast-yasmin-fahimi-gewerkschaften-streiks-1/wide__822x462",
       "image_title": "Podcast: Ist das eine Blase?: \"Wir sind kampfbereit\""
-    },
-    {
-      "title": "Fleisch: Fleischkonsum in Deutschland geht um vier Kilo pro Kopf zurück",
-      "teaser": "52 Kilo im Jahr: Der Fleischkonsum der Deutschen sank 2022 auf das niedrigste Niveau seit Aufzeichnungsbeginn. Ein Grund könnte der wachsende Markt an Alternativen sein.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/fleisch-verzehr-pflanzlich-ersatz",
-      "image_url": "https://img.zeit.de/gesundheit/2023-04/fleisch-verzehr-pflanzlich/wide__822x462",
-      "image_title": "Fleisch: Fleischkonsum in Deutschland geht um vier Kilo pro Kopf zurück"
     },
     {
       "title": "Credit-Suisse-Übernahme: UBS plant offenbar großen Stellenabbau",
