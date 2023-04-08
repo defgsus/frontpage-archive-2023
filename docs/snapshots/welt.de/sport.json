@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-08T09:10:12",
+  "timestamp": "2023-04-08T10:10:52",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -14,8 +14,23 @@
   ],
   "articles": [
     {
+      "title": "Golf",
+      "url": "https://www.welt.de/sport/golf/",
+      "image_url": "https://img.welt.de/img/sport/mobile244704688/3552500207-ci102l-w1024/Golf-US-Masters-in-Augusta.jpg",
+      "image_title": "Am 17. Loch des Masters in Augusta entwurzelten die Pinien, die als Flachwurzler besonders anfällig sind, wenn starke Winde die Kronen erfassen",
+      "topic": "Masters in Augusta"
+    },
+    {
+      "title": "Bundesliga",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/",
+      "image_url": "https://img.welt.de/img/sport/mobile244703072/1292504387-ci102l-w1024/Trainingslager-von-Borussia-Moenchengladbach.jpg",
+      "image_title": "Neue Möglichkeiten im Sommer?Mönchengladbachs Trainer Daniel Farke (links) und Sportdirektor Roland Virkus",
+      "topic": "Borussia Mönchengladbach",
+      "author": "Oliver Müller"
+    },
+    {
       "title": "Sind Sie ein Träumer, Herr Bach?",
-      "url": "https://www.welt.de/sport/olympia/plus244695940/Russland-und-das-IOC-vor-Olympia-2024-PLUS-Sa-frueh-Sind-Sie-ein-Traeumer-Herr-Bach.html",
+      "url": "https://www.welt.de/sport/olympia/plus244695940/Russland-und-das-IOC-vor-Olympia-2024-Sind-Sie-ein-Traeumer-Herr-Bach.html",
       "image_url": "https://img.welt.de/img/sport/olympia/mobile244696488/0212506007-ci102l-w1024/IOC-Chef-Thomas-Bach-l-und-Wladimir-Putin.jpg",
       "image_title": "Thomas Bach schüttelt bei einem Treffen im Kreml Wladimir Putins Hand. Der Umgang mit Russland bringt dem IOC-Präsidenten viel Kritik ein",
       "topic": "Russland und das IOC",
@@ -33,20 +48,6 @@
       "image_url": "https://img.welt.de/img/sport/mobile244679210/1762500977-ci102l-w1024/Fussball-DDR-Italien-2-2-1969-in-Berlin.jpg",
       "image_title": "Aus vollem Lauf: DDR-Stürmer Eberhard Vogel (r) zieht 1969 gegen Italien im Berliner Walter-Ulbricht-Stadion ab",
       "topic": "Eberhard Vogel"
-    },
-    {
-      "title": "Handball",
-      "url": "https://www.welt.de/sport/handball/",
-      "image_url": "https://img.welt.de/img/sport/handball/mobile244700282/4232500757-ci102l-w1024/THW-Kiel-vs-SC-Magdeburg-Handball-DHB-Pokal-Viertelfinale-Sa.jpg",
-      "image_title": "Der SC Magdeburg traf im Handball-Pokal-Viertelfinale Anfang Februar schon auf den THW Kiel, gewann 34:35 nach Verlängerung",
-      "topic": "Topspiel THW – Magdeburg"
-    },
-    {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/sport/fussball/mobile244698814/3612502677-ci102l-w1024/Hermann-Gerland.jpg",
-      "image_title": "Hermann Gerlands Auftritt im „Doppelpass“ am vergangenen Wochenende findet nun überraschend noch Nachhall",
-      "topic": "Effenberg über Gerland"
     },
     {
       "title": "Weltklasse-Schach bei WELT – die zweite K.o.-Runde im Re-Live",
@@ -118,6 +119,13 @@
       "author": "46 Sek"
     },
     {
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Hermann Gerlands Auftritt im „Doppelpass“ am vergangenen Wochenende findet nun überraschend noch Nachhall",
+      "topic": "Effenberg über Gerland"
+    },
+    {
       "title": "Sport",
       "url": "https://www.welt.de/sport/",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -152,14 +160,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Benny Henrichs in seinem auf TikTok geosteten Video nach dem DFB-Pokalspiel gegen Borussia Dortmund",
       "topic": "RB Leipzig"
-    },
-    {
-      "title": "FC Bayern München",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Bayern Münchens Mittelfeldspieler Joshua Kimmich (rechts)",
-      "topic": "Schmach im DFB-Pokal",
-      "author": "Julien Wolff"
     },
     {
       "title": "Fußball",
@@ -203,6 +203,13 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "George Russell und sein Mercedes waren überraschend schnell",
       "topic": "Großer Preis von Australien"
+    },
+    {
+      "title": "Handball",
+      "url": "https://www.welt.de/sport/handball/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Der SC Magdeburg traf im Handball-Pokal-Viertelfinale Anfang Februar schon auf den THW Kiel, gewann 34:35 nach Verlängerung",
+      "topic": "Topspiel THW – Magdeburg"
     },
     {
       "title": "Golf",
@@ -272,6 +279,14 @@
       "image_title": "portrait of an active senior man doing exercise in the city of Berlin",
       "topic": "Ökotrophologin",
       "author": "Rouven Chlebna"
+    },
+    {
+      "title": "FC Bayern München",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Bayern Münchens Mittelfeldspieler Joshua Kimmich (rechts)",
+      "topic": "Schmach im DFB-Pokal",
+      "author": "Julien Wolff"
     },
     {
       "title": "Was nach dem Verzicht mit Körper und Geist geschieht",
@@ -368,21 +383,6 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "Daniel Theis (Mitte, neben NBA-Kollege Denis Schröder) schmiedet zusammen mit Bundestrainer Gordon Herbert eine Allianz für die Baskteball-WM in Indonesien, Japan sowie auf den Philippinen",
       "topic": "Turnier in Asien"
-    },
-    {
-      "title": "DFB Pokal",
-      "url": "https://www.welt.de/sport/fussball/dfb-pokal/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Pavard sah für seine Unsportlichkeit die Gelbe Karte",
-      "topic": "Das Aus im Viertelfinale"
-    },
-    {
-      "title": "„Es fehlt an der Bildung für einen gesunden Lebensstil“",
-      "url": "https://www.welt.de/sport/plus244630698/Technogym-Fitnessgeraete-Es-fehlt-an-der-Bildung-fuer-einen-gesunden-Lebensstil.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Viele Menschen halten sich fit, schaden sich durch falsches Training aber eher",
-      "topic": "Weltmarktführer Technogym",
-      "author": "Julien Wolff"
     },
     {
       "title": "„Ohne ausreichende Proteinversorgung kann man sich das Training fast sparen“",
