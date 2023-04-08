@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-08T18:12:56",
+  "timestamp": "2023-04-08T19:08:19",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -14,8 +14,15 @@
   ],
   "articles": [
     {
+      "title": "Sport",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile244711658/8062500677-ci102l-w1024/Hertha-BSC-RB-Leipzig.jpg",
+      "image_title": "Viel Kampf, wenig Spiel - Hertha und Leipzig liefern sich ein verbissen geführtes Duell"
+    },
+    {
       "title": "Weltklasse-Schach exklusiv bei WELT – Das Halbfinale jetzt live",
       "url": "https://www.welt.de/sport/schach/plus244508782/Schach-Armageddon-Championship-Series-live-bei-WELT-hier-anmelden.html",
+      "image_url": "https://img.welt.de/img/sport/schach/mobile244655078/5322504867-ci102l-w1024/AVD57056.jpg",
       "topic": "Armageddon Championship Series"
     },
     {
@@ -41,12 +48,11 @@
       "author": "Zoë Ettinger"
     },
     {
-      "title": "Handball",
-      "url": "https://www.welt.de/sport/handball/",
-      "image_url": "https://img.welt.de/img/sport/handball/mobile244704578/8112508317-ci102l-w1024/THW-Kiel-vs-Fuechse-Berlin-Handball-Bundesliga-Spieltag-24-S.jpg",
-      "image_title": "THW Kiels Torwart Niklas Landin fiebert dem Spitzenspiel der Handball-Bundesliga gegen den SC Magedeburg entgegen",
-      "topic": "Niklas Landin",
-      "author": "Dirk Schlickmann"
+      "title": "Hertha-Trainer schäumt nach Leipzigs Siegtor vor Wut – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/video244674614/Hertha-BSC-RB-Leipzig-Highlights-Zusammenfassung-im-Video-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/bundesliga/mobile244711626/6902500597-ci102l-w1024/Hertha-BSC-RB-Leipzig.jpg",
+      "image_title": "Hertha BSC - RB Leipzig",
+      "topic": "Foul-Diskussion"
     },
     {
       "title": "Jetzt live – Weltklasse-Schach bei WELT",
@@ -101,13 +107,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile244708856/3512505247-ci102l-w1024/Eintracht-Braunschweig-1-FC-Kaiserslautern.jpg",
       "image_title": "Eintracht Braunschweig - 1. FC Kaiserslautern",
       "topic": "Sehenswertes Siegtor"
-    },
-    {
-      "title": "Furioser HSV feiert Sechs-Tore-Party gegen Hannover – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video244674472/Hamburger-SV-Hannover-96-Highlights-Zusammenfassung-im-Video-2-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile244708768/6102504677-ci102l-w1024/Hamburger-SV-v-Hannover-96-Second-Bundesliga.jpg",
-      "image_title": "Hamburger SV v Hannover 96 - Second Bundesliga",
-      "topic": "Kantersieg im Nordderby"
     },
     {
       "title": "Bundesliga",
@@ -195,6 +194,14 @@
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "image_title": "George Russell und sein Mercedes waren überraschend schnell",
       "topic": "Großer Preis von Australien"
+    },
+    {
+      "title": "Handball",
+      "url": "https://www.welt.de/sport/handball/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "THW Kiels Torwart Niklas Landin fiebert dem Spitzenspiel der Handball-Bundesliga gegen den SC Magedeburg entgegen",
+      "topic": "Niklas Landin",
+      "author": "Dirk Schlickmann"
     },
     {
       "title": "Basketball",
@@ -370,13 +377,6 @@
       "topic": "DFB-Pokal"
     },
     {
-      "title": "Fußball",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Enzo Millot jubelt nach seinem Siegtreffer für den VfB Stuttgart",
-      "topic": "DFB-Pokal"
-    },
-    {
       "title": "„Ohne ausreichende Proteinversorgung kann man sich das Training fast sparen“",
       "url": "https://www.welt.de/sport/fitness/plus244001331/Fitness-Ohne-Proteinversorgung-kann-man-sich-das-Training-fast-sparen.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -465,6 +465,13 @@
       "author": "Julien Wolff"
     },
     {
+      "title": "Furioser HSV feiert Sechs-Tore-Party gegen Hannover – Die Highlights im Video",
+      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video244674472/Hamburger-SV-Hannover-96-Highlights-Zusammenfassung-im-Video-2-Bundesliga.html",
+      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile244708768/6102504677-ci102l-w1024/Hamburger-SV-v-Hannover-96-Second-Bundesliga.jpg",
+      "image_title": "Hamburger SV v Hannover 96 - Second Bundesliga",
+      "topic": "Kantersieg im Nordderby"
+    },
+    {
       "title": "„Katastrophal“ – BVB zieht radikales Fazit nach Aus im DFB-Pokal",
       "url": "https://www.welt.de/sport/fussball/video244686364/Katastrophal-BVB-zieht-radikales-Fazit-nach-Aus-im-DFB-Pokal.html",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile244686476/7992501087-ci102l-w1024/RB-Leipzig-Borussia-Dortmund.jpg",
@@ -522,13 +529,6 @@
       "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile244622090/9962500087-ci102l-w1024/1-FC-Magdeburg-Hansa-Rostock.jpg",
       "image_title": "1. FC Magdeburg - Hansa Rostock",
       "topic": "Patzer, Platzverweis, Pleite"
-    },
-    {
-      "title": "Kaiserslauterns Last-Minute-Wahnsinn gegen Heidenheim – Die Highlights im Video",
-      "url": "https://www.welt.de/sport/fussball/2-bundesliga/video244547950/1-FC-Kaiserslautern-1-FC-Heidenheim-Highlights-Last-Minute-Wahnsinn-am-Betze-2-Bundesliga.html",
-      "image_url": "https://img.welt.de/img/sport/fussball/2-bundesliga/mobile244621480/4802505277-ci102l-w1024/1-FC-Kaiserslautern-1-FC-Heidenheim.jpg",
-      "image_title": "1. FC Kaiserslautern - 1. FC Heidenheim",
-      "topic": "Spektakuläres Comeback"
     }
   ]
 }
