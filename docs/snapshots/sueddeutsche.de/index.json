@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-11T16:14:52",
+  "timestamp": "2023-04-11T17:09:31",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -122,11 +128,18 @@
   ],
   "articles": [
     {
+      "title": "Warum Macron sich für einen Sieger hält",
+      "teaser": "Trotz heftiger Kritik an seinem Interview: Frankreichs Präsident beharrt auf seiner Idee der europäischen Autonomie gegenüber den USA.",
+      "url": "https://www.sueddeutsche.de/politik/macron-usa-china-europaeische-autonomie-biden-1.5792860",
+      "author": "Josef Kelnberger, Brüssel",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5793233/1000x420"
+    },
+    {
       "title": "So genau wissen die USA über Russlands Militär Bescheid",
       "teaser": "Neben modernster Technik hat die US-Regierung sehr gute Quellen - diese Menschen könnten nun in Gefahr sein. Auch für die Ukraine hat das Leak wohl ernsthafte Konsequenzen.",
       "url": "https://www.sueddeutsche.de/politik/leak-krieg-usa-russland-militaer-geheimdokumente-ukraine-1.5792845",
       "author": "Matthias Kolb",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792846/1000x420"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792846/600x337"
     },
     {
       "title": "Der unwahrscheinlichste Ort, um Geheimnisse zu verraten",
@@ -136,48 +149,31 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5792747/208x156"
     },
     {
-      "title": "\"Zutiefst verstörend\"",
-      "teaser": "Der Dalai Lama fordert ein Kind auf, seine \"Zunge zu lutschen\" - und entschuldigt sich nach einem Shitstorm: Er \"necke\" eben gerne. Missbrauchsbetroffene kritisieren das als Verharmlosung.",
-      "url": "https://www.sueddeutsche.de/politik/buddhismus-dalai-lama-1.5792950",
-      "author": "Annette Zoch",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792951/208x156"
-    },
-    {
       "title": "Der Kulturkampf um Abtreibungen eskaliert",
       "teaser": "Ein konservativer Richter in Texas hat die Zulassung des Abtreibungs-Medikaments Mifepriston aufgehoben. Das Justizministerium und mehrere Bundesstaaten gehen gegen das Urteil vor.",
       "url": "https://www.sueddeutsche.de/politik/usa-kulturkampf-abtreibungen-mifepriston-1.5793050",
       "author": "Christian Zaschke, New York",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5793051/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5793051/208x156"
     },
     {
-      "title": "Zu schwach für die Nato?",
-      "teaser": "Eine voll ausgestattete Heeresdivision bis 2025 - so lautet ein deutsches Versprechen an das Verteidigungsbündnis. Von der Realität sieht der Inspekteur des Heeres diese Zusage weit entfernt.",
-      "url": "https://www.sueddeutsche.de/politik/bundeswehr-nato-heeresdivision-alfons-mais-1.5792676",
-      "author": "Mike Szymanski, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792677/208x156"
+      "title": "\"Zutiefst verstörend\"",
+      "teaser": "Der Dalai Lama fordert ein Kind auf, seine \"Zunge zu lutschen\" - und entschuldigt sich nach einem Shitstorm: Er \"necke\" eben gerne. Missbrauchsbetroffene kritisieren das als Verharmlosung.",
+      "url": "https://www.sueddeutsche.de/politik/buddhismus-dalai-lama-1.5792950",
+      "author": "Annette Zoch",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792951/600x337"
     },
     {
-      "title": "Netanjahu tritt die Flucht nach vorn an",
-      "teaser": "Im Innern demonstrieren die Gegner, im Äußeren schließen sich die Feinde zusammen. In seiner Not versucht Israels Premier einen Befreiungsschlag - und wirkt dabei fast verzweifelt.",
-      "url": "https://www.sueddeutsche.de/politik/netanjahu-gallant-hisbollah-hamas-iran-1.5792665",
-      "author": "Peter Münch, Tel Aviv",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792713/600x337",
-      "image_title": "Vor zwei Wochen hat Israels Premierminister Benjamin Netanjahu (M.) Verteidigungsminister Joav Gallant (r.) gefeuert. Nun will er alle \"Unstimmigkeiten\" hinter sich lassen. (Archivbild)"
+      "title": "Der Ausstieg ist erst der Anfang",
+      "teaser": "Das Ende der Kernkraftwerke ist eine historische Zäsur und ein Sieg für die Anti-AKW-Bewegung. Aber bis zur echten Energiewende bleibt noch einiges zu tun.",
+      "url": "https://www.sueddeutsche.de/meinung/kernkraftwerk-ausstieg-cdu-gruene-fdp-anti-akw-bewegung-kommentar-1.5792895",
+      "author": "Kommentar von Constanze von Bullion",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5651672/600x337"
     },
     {
-      "title": "Wie man selbstbewusster wird",
-      "teaser": "Egal ob Job oder Dating: Oft wäre man gern gelassener. Aber wie geht das? Eine Psychologin erklärt, welche Rolle die Körperhaltung dabei spielt und warum man für einen selbstbewussten Auftritt nicht laut sein muss.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/jetzt/psychologie-selbstbewusstsein-e092636/",
-      "author": "Interview von Stefan Sommer",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792809/600x337",
-      "image_title": "jtzt Service_Selbstsicherheit Symbolbild / Foto: Pexels/The framestreet"
-    },
-    {
-      "title": "Genossen gegen Genossen",
-      "teaser": "Große Koalition oder nicht? In der Berliner SPD wird leidenschaftlich bis hart über diese Frage gestritten. Die CDU macht dabei alles richtig: Sie schweigt.",
-      "url": "https://www.sueddeutsche.de/politik/berlin-giffey-cdu-1.5792884",
-      "author": "Jan Heidtmann, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5780597/208x156"
+      "title": "Zinswende bringt EU-Haushalt durcheinander",
+      "teaser": "Mit dem Corona-Wiederaufbaufonds stellt die EU-Kommission Hunderte Milliarden Euro bereit - auf Pump. Bei den Zinskosten hat sich die Behörde offenbar verkalkuliert.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/eu-finanzen-corona-1.5792864",
+      "author": "Jan Diesteldorf, Brüssel"
     },
     {
       "title": "Das Vermächtnis des Zeus",
@@ -187,24 +183,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5521328/600x337"
     },
     {
-      "title": "Das steckt hinter dem \"plastikfreien Spargel\"",
-      "teaser": "Ackerfolien sind im Gemüseanbau längst Standard. Sie beschleunigen die Ernte und kurbeln das Geschäft an. Trotzdem gibt es einzelne Höfe, die sich dem Kunststoff verweigern. Warum?",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-schrobenhausen-spargel-folien-landwirtschaft-1.5790486",
-      "author": "Thomas Balbierer, Schrobenhausen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5790488/600x337"
-    },
-    {
       "title": "Der Herr der Labels",
       "teaser": "Warum Twitter-Chef Elon Musk die britische BBC völlig irreführend \"staatlich finanziert\" nennt - und was die dagegen tut.",
       "url": "https://www.sueddeutsche.de/kultur/rundfunkgebuehr-twitter-medien-1.5792807",
       "author": "Philipp Bovermann",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5793013/208x156"
-    },
-    {
-      "title": "Vulkanausbruch auf Kamtschatka gefährdet Flugverkehr",
-      "teaser": "Nach dem Ausbruch des Vulkans Schiwelutsch in Nordostasien ist die höchste Warnstufe für die Luftfahrt ausgegeben worden. Die Bewohner der russischen Halbinsel Kamtschatka erleben den stärksten Ascheregen seit 60 Jahren.",
-      "url": "https://www.sueddeutsche.de/panorama/vulkan-vulkanausbruch-flugverkehr-kamtschatka-schiwelutsch-1.5792717",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792718/208x156"
     },
     {
       "title": "Guardiolas treuer Leutnant",
@@ -214,11 +197,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5791147/600x337"
     },
     {
-      "title": "\"Die Hertha ist ein Sanierungsfall\"",
-      "teaser": "Hertha-Geschäftsführer Thomas Herrich erklärt, warum er die Personalkosten um ein Drittel reduzieren muss, nachdem der Klub über seine Verhältnisse gelebt hat - und macht klar, wo er das größte Einsparpotenzial in Berlin sieht.",
-      "url": "https://www.sueddeutsche.de/sport/hertha-herrich-interview-1.5792525",
-      "author": "Interview von Javier Cáceres und Uwe Ritzer, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792526/208x156"
+      "title": "Ein klassischer Held",
+      "teaser": "Kaum bekannt, aber fast unüberwindbar: Dank der Paraden von Ersatz-Torwart Kevin Reich zieht Ingolstadt gegen Mannheim ins DEL-Finale ein. Dabei ist dies die bislang \"schwerste Saison\" seiner Karriere - weil er in Gedanken bei seinem Bruder ist.",
+      "url": "https://www.sueddeutsche.de/sport/del-playoffs-eishockey-ingolstadt-mannheim-reich-1.5792983",
+      "author": "Christian Bernhard",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5793173/208x156"
     },
     {
       "title": "Bis der Arzt kommt",
@@ -226,13 +209,6 @@
       "url": "https://www.sueddeutsche.de/kultur/metallica-heavy-metal-72-seasons-1.5792743",
       "author": "Joachim Hentschel",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5792745/600x337"
-    },
-    {
-      "title": "Herausforderungen für den Kopf",
-      "teaser": "Entdecken Sie unsere Rätsel für Abonnentinnen und Abonnenten.",
-      "url": "https://www.sueddeutsche.de/raetsel/",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5707886/208x156",
-      "image_title": "Rätsel Illu SZ"
     },
     {
       "title": "Volksschauspielerin Lotti Krekel ist tot",
@@ -248,10 +224,26 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5295185/208x156"
     },
     {
-      "title": "\"Ich mache, was ich will\"",
-      "teaser": "Halle Berry traut ihren Augen nicht, Freddy Quinn traut sich, und Olivia Jones traut dem deutschen ESC-Beitrag einiges zu.",
-      "url": "https://www.sueddeutsche.de/panorama/promis-promi-news-halle-berry-freddy-quinn-olivia-jones-alexander-lambsdorff-1.5792587",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5523574/600x337"
+      "title": "Herausforderungen für den Kopf",
+      "teaser": "Entdecken Sie unsere Rätsel für Abonnentinnen und Abonnenten.",
+      "url": "https://www.sueddeutsche.de/raetsel/",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5707886/208x156",
+      "image_title": "Rätsel Illu SZ"
+    },
+    {
+      "title": "Pablo Escobär",
+      "teaser": "Ja, ein Bär auf Kokain. Viel Kokain. Und ja: basierend auf wahren Begebenheiten - oder was man mittlerweile eben so dafür ausgibt. Der Hollywood-Tierfilm \"Cocaine Bear\".",
+      "url": "https://www.sueddeutsche.de/kultur/cocaine-bear-kritik-1.5782921",
+      "author": "Jakob Biazza",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792982/208x156"
+    },
+    {
+      "title": "Wie man selbstbewusster wird",
+      "teaser": "Egal ob Job oder Dating: Oft wäre man gern gelassener. Aber wie geht das? Eine Psychologin erklärt, welche Rolle die Körperhaltung dabei spielt und warum man für einen selbstbewussten Auftritt nicht laut sein muss.",
+      "url": "https://www.sueddeutsche.de/projekte/artikel/jetzt/psychologie-selbstbewusstsein-e092636/",
+      "author": "Interview von Stefan Sommer",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5792809/600x337",
+      "image_title": "jtzt Service_Selbstsicherheit Symbolbild / Foto: Pexels/The framestreet"
     },
     {
       "title": "\"Man fühlt sich schon verarscht\"",
