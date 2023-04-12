@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-12T12:21:53",
+  "timestamp": "2023-04-12T13:15:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "BIOS-Lücken Lenovo-Laptops",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatches-BIOS-Luecken-gefaehrden-Lenovo-Laptops-8948481.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Firefox-112-Funktionsverbesserungen-und-22-Schwachstellen-weniger-8935930.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-infizieren-Windows-mit-Nokoyawa-Ransomware-8935888.html"
+      "title": "Microsoft: Update von Windows Subsystem für Android ergänzt Bild-in-Bild-Modus",
+      "teaser": "Das Windows Subsystem für Android hat neben Sicherheitsupdates aus Android 13 etwa Unterstützung für den Bild-in-Bild-Modus erhalten. Auch der Kernel ist neu.",
+      "url": "https://www.heise.de/news/Microsoft-Update-von-Windows-Subsystem-fuer-Android-ergaenzt-Bild-in-Bild-Modus-8948185.html"
+    },
+    {
+      "title": "Warten auf Sicherheitspatches: BIOS-Lücken gefährden Lenovo-Laptops",
+      "teaser": "Angreifer könnten Lenovo-Laptops attackieren und im schlimmsten Fall Schadcode ausführen. Updates sind noch nicht verfügbar.",
+      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatches-BIOS-Luecken-gefaehrden-Lenovo-Laptops-8948481.html"
     },
     {
       "title": "Cyber-Vorfall: SD Worx nimmt Dienste in Vereinigten Königreich vom Netz",
@@ -141,17 +151,6 @@
       "title": "Angriff auf Verschlüsselung: Empörung über neue Vorstöße von USA und EU",
       "teaser": "Tech-Vertreter und Bürgerrechtler reagieren empört auf die Initiative der USA und der EU, Sollbruchstellen für sichere Kommunikation in die Technik einzubauen.",
       "url": "https://www.heise.de/news/Crypto-Wars-Protest-gegen-neuen-transatlantischen-Angriff-auf-Verschluesselung-8798397.html"
-    },
-    {
-      "title": "CAN-Hack: Diebe klauen Autos über Netzwerkprotokoll ohne Schlüssel",
-      "teaser": "Bei einem CAN-Injection-Angriff auf das Bussystem Controller Area Network reicht ein umgebauter Bluetooth-Lautsprecher, um das \"Smart Key\"-System auszutricksen.",
-      "url": "https://www.heise.de/news/CAN-Hack-Diebe-klauen-Autos-ueber-Netzwerkprotokoll-ohne-Schluessel-8792329.html"
-    },
-    {
-      "title": "Aktiver Exploit: iOS, macOS und iPadOS dringend aktualisieren",
-      "teaser": "Apple hat am Karfreitag iOS und iPadOS 16.4.1 sowie macOS 13.3.1 vorgelegt. Es werden Fehler behoben sowie Lücken gestopft, die bereits aktiv ausgenutzt wurden.",
-      "url": "https://www.heise.de/news/iOS-macOS-iPadOS-Notfall-und-Bugfix-Update-8791690.html",
-      "image_title": "Apple-Logo"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
