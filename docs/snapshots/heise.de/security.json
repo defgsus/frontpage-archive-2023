@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-12T09:11:26",
+  "timestamp": "2023-04-12T10:12:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
+    },
+    {
+      "title": "Patchday Fortinet",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-kritische-und-hochriskante-Luecken-8939457.html"
+    },
+    {
       "title": "Firefox",
       "url": "https://www.heise.de/news/Firefox-112-Funktionsverbesserungen-und-22-Schwachstellen-weniger-8935930.html"
     },
@@ -40,12 +48,19 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-infizieren-Windows-mit-Nokoyawa-Ransomware-8935888.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-19-zum-Teil-kritische-Sicherheitslecks-ab-8931365.html"
+      "title": "Software Supply Chain: Googles deps.dev-API ermittelt Open-Source-Dependencies",
+      "teaser": "Eine neue API gibt Zugriff auf die Metadaten des Projekts Open Source Insights von Google, das Dependencies für Open-Source-Pakete darstellt.",
+      "url": "https://www.heise.de/news/Software-Supply-Chain-Googles-deps-dev-API-ermittelt-Open-Source-Dependencies-8935896.html"
     },
     {
-      "title": "vm2",
-      "url": "https://www.heise.de/news/Exploit-Code-Schadcode-koennte-aus-JavaScript-Sandbox-vm2-ausbrechen-8875269.html"
+      "title": "Patchday: Kritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
+      "teaser": "Wer Anwendungen von Adobe nutzt, sollte diese aus Sicherheitsgründen auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
+    },
+    {
+      "title": "Patchday: Fortinet schließt kritische und hochriskante Lücken",
+      "teaser": "Am April-Patchday liefert Fortinet für zahlreiche Produkte Sicherheitsupdates aus. Eine der damit geschlossenen Lücken stuft der Hersteller als kritisch ein.",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-kritische-und-hochriskante-Luecken-8939457.html"
     },
     {
       "title": "heise Security Tour in Köln - nur noch bis Montag zum Frühbuchertarif",
@@ -135,21 +150,6 @@
       "title": "BIG direkt: Cyberangriff legt Krankenkasse lahm",
       "teaser": "Cybercrime mit Folgen: Von den jüngsten Vorfällen bei einer Krankenkasse, einem IT-Dienstleister und einem Verkehrsverbund sind viele Menschen betroffen.",
       "url": "https://www.heise.de/news/BIG-direkt-Cyberangriff-legt-Krankenkasse-lahm-8652160.html"
-    },
-    {
-      "title": "DDoS-Angriffe auf offizielle Websites: BSI warnt Bundesländer",
-      "teaser": "Offizielle Webseiten in mindestens acht Bundesländern wurden diese Woche attackiert. Das Bundesamt für Sicherheit in der Informationstechnik kümmert sich darum.",
-      "url": "https://www.heise.de/news/DDoS-Angriffe-auf-offizielle-Websites-BSI-warnt-Bundeslaender-8651458.html"
-    },
-    {
-      "title": "Trellix-Agent ermöglicht Rechteausweitung am System",
-      "teaser": "Der Agent von Trellix – dem Zusammenschluss von McAfee und FireEye – ermöglicht Angreifern, ihre Rechte im System auszuweiten. Ein Update schließt die Lücke.",
-      "url": "https://www.heise.de/news/Trellix-Agent-ermoeglicht-Rechteausweitung-am-System-8645652.html"
-    },
-    {
-      "title": "HP LaserJet-Drucker über Workaround absichern, Patch erst in 90 Tagen",
-      "teaser": "Angreifer könnten eine kritische Schwachstelle in rund 50 HP-Druckern der LaserJet-Serie ausnutzen. Geräte sind aber nur unter bestimmten Bedingungen bedroht.",
-      "url": "https://www.heise.de/news/HP-LaserJet-Drucker-ueber-Workaround-absichern-Patch-erst-in-90-Tagen-8646282.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
