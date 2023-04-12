@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-12T13:15:02",
+  "timestamp": "2023-04-12T14:10:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.3ac0b020fb72970580b8",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4abae743163a9e0403bd",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "NTP",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
+    },
     {
       "title": "BIOS-Lücken Lenovo-Laptops",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatches-BIOS-Luecken-gefaehrden-Lenovo-Laptops-8948481.html"
@@ -44,11 +48,18 @@
       "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-kritische-und-hochriskante-Luecken-8939457.html"
     },
     {
-      "title": "Firefox",
-      "url": "https://www.heise.de/news/Firefox-112-Funktionsverbesserungen-und-22-Schwachstellen-weniger-8935930.html"
+      "title": "BSI warnt vor kritischen Zero-Day-Lücken im NTP-Server",
+      "teaser": "Ein IT-Forscher hat fünf Sicherheitslücken im Zeitserver NTP gemeldet. Das BSI stuft die Lücken als kritisch ein. Ein Update steht bislang noch nicht bereit.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
     },
     {
-      "title": "Microsoft: Update von Windows Subsystem für Android ergänzt Bild-in-Bild-Modus",
+      "title": "Forum der Media-Center-Software Kodi nach Hack offline",
+      "teaser": "Unbekannte Angreifer haben die Datenbank des Kodi-Forums inklusive Passwörter kopiert. Mittlerweile werden die Daten zum Verkauf angeboten.",
+      "url": "https://www.heise.de/news/Forum-der-Media-Center-Software-Kodi-nach-Hack-offline-8948515.html",
+      "image_title": "Iranische Hacker sollen Dutzende deutsche Universitäten ausspioniert haben"
+    },
+    {
+      "title": "Microsoft: Windows Subsystem für Android bringt Bild-in-Bild und neuen Kernel",
       "teaser": "Das Windows Subsystem für Android hat neben Sicherheitsupdates aus Android 13 etwa Unterstützung für den Bild-in-Bild-Modus erhalten. Auch der Kernel ist neu.",
       "url": "https://www.heise.de/news/Microsoft-Update-von-Windows-Subsystem-fuer-Android-ergaenzt-Bild-in-Bild-Modus-8948185.html"
     },
@@ -141,16 +152,6 @@
       "title": "Jetzt patchen! ALPHV-Ransomware schlüpft durch Veritas-Backup-Lücken",
       "teaser": "Angreifer nehmen derzeit drei Sicherheitslücken in Veritas Backup Exec ins Visier. Patches sind verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-ALPHV-Ransomware-schluepft-durch-Veritas-Backup-Luecken-8875233.html"
-    },
-    {
-      "title": "Microsoft Defender: Firefox-Performance-Bremse nach fünf Jahren gelöst",
-      "teaser": "Microsofts Defender hat für hohe Prozessorlast gesorgt, wenn Firefox aktiv war. Den Bug hat Microsoft jetzt nach fünf Jahren behoben.",
-      "url": "https://www.heise.de/news/Microsoft-fixt-fuenf-Jahre-alten-Performance-Bug-in-Firefox-durch-Defender-8861436.html"
-    },
-    {
-      "title": "Angriff auf Verschlüsselung: Empörung über neue Vorstöße von USA und EU",
-      "teaser": "Tech-Vertreter und Bürgerrechtler reagieren empört auf die Initiative der USA und der EU, Sollbruchstellen für sichere Kommunikation in die Technik einzubauen.",
-      "url": "https://www.heise.de/news/Crypto-Wars-Protest-gegen-neuen-transatlantischen-Angriff-auf-Verschluesselung-8798397.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-12T13:14:58",
+  "timestamp": "2023-04-12T14:10:31",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.893c2b52701d240b24cf",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.ce2352a08f269920945e",
       "id": null,
       "text": null
     }
@@ -53,13 +53,46 @@
       "url": "https://www.heise.de/hintergrund/Arbeitsrecht-Unbefriedigende-Rechtslage-fuer-Whistleblower-in-Deutschland-8921627.html"
     },
     {
+      "title": "Kubernetes 1.27 wechselt vollständig zur neuen Container Image Registry",
+      "teaser": "Unter dem Motto \"Chill Vibes\" liegt das erste Kubernetes-Release des Jahres vor. Es friert die alte Registry k8s.gcr.io ein und stabilisiert einige Features.",
+      "url": "https://www.heise.de/news/Kubernetes-1-27-wechselt-vollstaendig-zur-neuen-Container-Image-Registry-8948099.html"
+    },
+    {
+      "title": "Der günstigste 27-Zoll-Monitor mit Mini-LED & 4K: KTC M27P20P im TechStage-Test",
+      "teaser": "Der KTC M27P20P hat ein 27-Zoll-Display mit Mini-LEDs, 4K, 160 Hz und USB-C-Passthrough. Was das Modell aus China sonst noch alles kann, zeigt TechStage.",
+      "url": "https://www.techstage.de/test/der-guenstigste-27-zoll-monitor-mit-mini-led-und-4k-ktc-m27p20p-im-test/wsspepf?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "WebAssembly: Runtime Wasmer erhält WCGI für serverseitige Entwicklung",
+      "teaser": "Die Macher der Laufzeitumgebung Wasmer kündigen mit WCGI eine Technik an, mit der das Common Gateway Interface direkt mit WASI zusammenarbeiten kann.",
+      "url": "https://www.heise.de/news/WebAssembly-Runtime-Wasmer-erhaelt-WCGI-fuer-serverseitige-Entwicklung-8939893.html"
+    },
+    {
+      "title": "BSI warnt vor kritischen Zero-Day-Lücken im NTP-Server",
+      "teaser": "Ein IT-Forscher hat fünf Sicherheitslücken im Zeitserver NTP gemeldet. Das BSI stuft die Lücken als kritisch ein. Ein Update steht bislang noch nicht bereit.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
+    },
+    {
+      "title": "DPReview bleibt als Archiv online",
+      "teaser": "Die durch Kameratests beliebte Webseite DPReview wird doch nicht ganz abgeschaltet. Zumindest die bisherigen Inhalte bleiben erhalten.",
+      "url": "https://www.heise.de/news/DPReview-bleibt-als-Archiv-online-8948566.html",
+      "image_title": "Vergleichsbild von vier Kameras bei DPReview"
+    },
+    {
+      "title": "Forum der Media-Center-Software Kodi nach Hack offline",
+      "teaser": "Unbekannte Angreifer haben die Datenbank des Kodi-Forums inklusive Passwörter kopiert. Mittlerweile werden die Daten zum Verkauf angeboten.",
+      "url": "https://www.heise.de/news/Forum-der-Media-Center-Software-Kodi-nach-Hack-offline-8948515.html",
+      "image_title": "Iranische Hacker sollen Dutzende deutsche Universitäten ausspioniert haben"
+    },
+    {
       "title": "GeForce RTX 4070: Nvidias günstigste Ada-Grafikkarte",
-      "teaser": "Die RTX-4000-Familie wächst um ein weiteres Mitglied: Nvidia stellt die GeForce RTX 4070 mit 12 GByte Grafikspeicher vor.",
+      "teaser": "Die RTX-4000-Familie wächst um eine günstigere Variante: Nvidia stellt die GeForce RTX 4070 mit 12 GByte Grafikspeicher vor.",
       "url": "https://www.heise.de/news/GeForce-RTX-4070-Nvidias-guenstigste-Ada-Grafikkarte-8666204.html",
       "image_title": "GeForce RTX 4070 Ti Herstellerkarten"
     },
     {
-      "title": "Microsoft: Update von Windows Subsystem für Android ergänzt Bild-in-Bild-Modus",
+      "title": "Microsoft: Windows Subsystem für Android bringt Bild-in-Bild und neuen Kernel",
       "teaser": "Das Windows Subsystem für Android hat neben Sicherheitsupdates aus Android 13 etwa Unterstützung für den Bild-in-Bild-Modus erhalten. Auch der Kernel ist neu.",
       "url": "https://www.heise.de/news/Microsoft-Update-von-Windows-Subsystem-fuer-Android-ergaenzt-Bild-in-Bild-Modus-8948185.html"
     },
@@ -99,37 +132,6 @@
       "teaser": "Apple trennt künftig bei den Betas stärker zwischen Entwicklern und Nicht-Entwicklern. Nach iPhone und iPad folgen jetzt Apple Watch und Mac.",
       "url": "https://www.heise.de/news/Apple-fuehrt-neue-Beta-Installationsmethode-auch-auf-Mac-und-Apple-Watch-ein-8947132.html",
       "image_title": "Aufgeklapptes MacBook"
-    },
-    {
-      "title": "Software Supply Chain: Googles deps.dev-API ermittelt Open-Source-Dependencies",
-      "teaser": "Eine neue API gibt Zugriff auf die Metadaten des Projekts Open Source Insights von Google, das Dependencies für Open-Source-Pakete darstellt.",
-      "url": "https://www.heise.de/news/Software-Supply-Chain-Googles-deps-dev-API-ermittelt-Open-Source-Dependencies-8935896.html"
-    },
-    {
-      "title": "Patchday: Kritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
-      "teaser": "Wer Anwendungen von Adobe nutzt, sollte diese aus Sicherheitsgründen auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
-    },
-    {
-      "title": "iPhone 15 Pro: Apple wirft umstrittene Tastenänderung angeblich über Bord",
-      "teaser": "Aufgrund ungelöster technischer Probleme muss Apple eine der größten geplanten Neuerungen des iPhone 15 Pro zurückdrehen, heißt es aus der Lieferkette.",
-      "url": "https://www.heise.de/news/iPhone-15-Pro-Apple-wirft-umstrittene-Tastenaenderung-angeblich-ueber-Bord-8939654.html",
-      "image_title": "iPhone mit Lautstärketasten und Stummschalter"
-    },
-    {
-      "title": "Krankschreibung per Telefon: Warum es für eine Fortsetzung schlecht aussieht",
-      "teaser": "Während der Coronakrise war es Patienten möglich, sich telefonisch krankschreiben zu lassen. Verschiedene Parteien fordern ein Fortbestehen dieser Möglichkeit.",
-      "url": "https://www.heise.de/news/Telefon-AU-Warum-Forderungen-nach-einer-Verlaengerung-ins-Leere-laufen-8935233.html"
-    },
-    {
-      "title": "Twitter Übernahme \"schmerzhaft\": Elon Musk gibt der BBC spontan ein Interview",
-      "teaser": "Er habe Twitter nur gekauft, weil er musste. In einem Interview mit der BBC spricht Elon Musk über die Geschehnisse, seit er den Kurznachrichtendienst besitzt.",
-      "url": "https://www.heise.de/news/Twitter-Uebernahme-schmerzhaft-Elon-Musk-gibt-der-BBC-spontan-ein-Interview-8939488.html"
-    },
-    {
-      "title": "Patchday: Fortinet schließt kritische und hochriskante Lücken",
-      "teaser": "Am April-Patchday liefert Fortinet für zahlreiche Produkte Sicherheitsupdates aus. Eine der damit geschlossenen Lücken stuft der Hersteller als kritisch ein.",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-kritische-und-hochriskante-Luecken-8939457.html"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
