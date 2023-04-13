@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-13T15:11:37",
+  "timestamp": "2023-04-13T16:13:23",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,7 +32,7 @@
   ],
   "articles": [
     {
-      "title": "live#heiseshowTeure Clouds, Tesla-Spitzel-Späßchen, Atomausstieg",
+      "title": "#heiseshowTeure Clouds, Tesla-Spitzel-Späßchen, Atomausstieg",
       "teaser": "Diese Woche in der #heiseshow: Microsoft erhöht seine Cloud-Preise. Außerdem: Schabernack mit Tesla-Kameraaufnahmen und Deutschland vollendet den Atomausstieg.",
       "url": "https://www.heise.de/news/heiseshow-Teure-Clouds-Tesla-Spitzel-Spaesschen-Atomausstieg-8941372.html"
     },
@@ -49,7 +49,7 @@
     },
     {
       "title": "ChatGPTItalienische Datenschutzbehörde stellt Bedingungen für Betrieb",
-      "teaser": "Nachdem ChatGPT in Italien gesperrt wurde, könnte das System bald wieder erlaubt sein. Dazu muss OpenAI Forderungen der dortigen Datenschutzbehörde nachkommen.",
+      "teaser": "Nachdem ChatGPT in Italien vorübergehend gesperrt wurde, könnte es bald wieder erlaubt sein. Dazu muss OpenAI Forderungen der Datenschutzbehörde nachkommen.",
       "url": "https://www.heise.de/news/ChatGPT-Italienische-Datenschutzbehoerde-stellt-Bedingungen-fuer-Betrieb-8953957.html"
     },
     {
@@ -145,6 +145,26 @@
       "image_title": ","
     },
     {
+      "title": "Vertrauenswürdige KI: Aleph Alpha baut Faktenprüfung in eigenes Modell ein",
+      "teaser": "AtMan soll Ergebnisse von KI-Systemen durch Quellenangaben nachvollziehbar machen. KI-generierte Informationen ließen sich so auf faktische Korrektheit prüfen.",
+      "url": "https://www.heise.de/news/Vertrauenswuerdige-KI-Aleph-Alpha-baut-Faktenpruefung-in-eigenes-Modell-ein-8952833.html"
+    },
+    {
+      "title": "Identitätsmanagement: Keycloak reift im Inkubator der Cloud-native Community",
+      "teaser": "Mit neuem Quarkus-Unterbau soll das IAM-Tool Keycloak im CNCF-Inkubator noch tiefer in das Cloud-native Ökosystem rund um Kubernetes integriert werden.",
+      "url": "https://www.heise.de/news/Identitaetsmanagement-Keycloak-reift-im-Inkubator-der-Cloud-native-Community-8956541.html"
+    },
+    {
+      "title": "Stimmungsvoll und malerisch: Unschärfe in der Fotografie gekonnt einsetzen",
+      "teaser": "Autorin Pia Parolin zeigt, wie die Unschärfe auch Sinnbild für Dynamik und das Vergängliche sein kann.",
+      "url": "https://www.heise.de/ratgeber/Fototechnik-Unschaerfe-Ein-verschwommener-Blick-auf-die-Welt-8941645.html"
+    },
+    {
+      "title": "Kein Ding der Unmöglichkeit: Warum mit Ladybird jetzt ein neuer Browser entsteht",
+      "teaser": "Als mit Ladybird ein komplett neuer Webbbrowser das Licht der Welt erblickte, stießen die Entwickler auf viel Skepsis. Zu Unrecht, meint Andreas Kling.",
+      "url": "https://www.heise.de/news/Kein-Ding-der-Unmoeglichkeit-Warum-mit-Ladybird-jetzt-ein-neuer-Browser-entsteht-8955496.html"
+    },
+    {
       "title": "Kurz informiert: Klimaschutz, ICT-Kompetenz, Spyware, Innogames",
       "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
       "url": "https://www.heise.de/news/Kurz-informiert-Klimaschutz-ICT-Kompetenz-Spyware-Innogames-8950543.html"
@@ -156,7 +176,7 @@
     },
     {
       "title": "ChatGPT: Italienische Datenschutzbehörde stellt Bedingungen für Betrieb",
-      "teaser": "Nachdem ChatGPT in Italien gesperrt wurde, könnte das System bald wieder erlaubt sein. Dazu muss OpenAI Forderungen der dortigen Datenschutzbehörde nachkommen.",
+      "teaser": "Nachdem ChatGPT in Italien vorübergehend gesperrt wurde, könnte es bald wieder erlaubt sein. Dazu muss OpenAI Forderungen der Datenschutzbehörde nachkommen.",
       "url": "https://www.heise.de/news/ChatGPT-Italienische-Datenschutzbehoerde-stellt-Bedingungen-fuer-Betrieb-8953957.html",
       "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
     },
@@ -165,27 +185,6 @@
       "teaser": "KPMG sollte 2019 Bilanzen von Wirecard unter die Lupe nehmen. Jetzt schildern die Wirtschaftsprüfer im Prozess, wann die \"Alarmglocken\" angingen.",
       "url": "https://www.heise.de/news/Wirecard-Prozess-Wer-soll-denn-das-Geld-sonst-haben-Kim-Jong-Il-vielleicht-8954571.html",
       "image_title": "Brennendes Wirecard-Logo"
-    },
-    {
-      "title": "Dolly 2.0: großes KI-Sprachmodell frei verfügbar auch für kommerziellen Einsatz",
-      "teaser": "Databricks hat ausgehend von EleutherAIs Forschungsserie Pythia ein feingetuntes großes Sprachmodell erstellt. Code, Datensatz und Gewichte sind Open Source.",
-      "url": "https://www.heise.de/news/Dolly-2-0-grosses-KI-Sprachmodell-frei-verfuegbar-auch-fuer-kommerziellen-Einsatz-8949302.html",
-      "image_title": "Dolly 2.0, Logo zum großen Sprachmodell von Databricks"
-    },
-    {
-      "title": "\"Der Herr Der Ringe: Gollum\", \"Age Of Wonders 4\": Neue PC-Spiele im Mai 2023",
-      "teaser": "Der Gaming-Monat Mai hat unter anderem \"Der Herr der Ringe: Gollum\", \"Age of Wonders 4\" und \"Darkest Dungeon II\" im Gepäck.",
-      "url": "https://www.heise.de/news/Der-Herr-Der-Ringe-Gollum-Age-Of-Wonders-4-Neue-PC-Spiele-im-Mai-2023-8948726.html"
-    },
-    {
-      "title": "Private Cloud: OpenStack 27 Antelope im Test",
-      "teaser": "Ein neues Management-GUI nimmt Gestalt an. Der geänderte Releasezyklus soll es Distributoren erleichtern, Updates für OpenStack bereitzustellen.",
-      "url": "https://www.heise.de/tests/Private-Cloud-mit-OpenStack-Antelope-Update-in-der-Uebersicht-8929270.html"
-    },
-    {
-      "title": "Plug-in-Hybridmodell BMW XM Red Label",
-      "teaser": "Nach dem an sich schon argen Power-SUV XM legt BMW zügig eine Haustuning-Variante nach. Der stärkste Serien-BMW aller Zeiten verfügt über einen Dünenmodus.",
-      "url": "https://www.heise.de/news/Plug-in-Hybridmodell-BMW-XM-Red-Label-8955007.html"
     },
     {
       "title": "Sofortbildkameras im Vergleichstest: Polaroid gegen Fujifilm und Canon",
@@ -207,6 +206,27 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Dolly 2.0: großes KI-Sprachmodell frei verfügbar auch für kommerziellen Einsatz",
+      "teaser": "Databricks hat ausgehend von EleutherAIs Forschungsserie Pythia ein feingetuntes großes Sprachmodell erstellt. Code, Datensatz und Gewichte sind Open Source.",
+      "url": "https://www.heise.de/news/Dolly-2-0-grosses-KI-Sprachmodell-frei-verfuegbar-auch-fuer-kommerziellen-Einsatz-8949302.html",
+      "image_title": "Dolly 2.0, Logo zum großen Sprachmodell von Databricks"
+    },
+    {
+      "title": "\"Der Herr Der Ringe: Gollum\", \"Age Of Wonders 4\": Neue PC-Spiele im Mai 2023",
+      "teaser": "Der Gaming-Monat Mai hat unter anderem \"Der Herr der Ringe: Gollum\", \"Age of Wonders 4\" und \"Darkest Dungeon II\" im Gepäck.",
+      "url": "https://www.heise.de/news/Der-Herr-Der-Ringe-Gollum-Age-Of-Wonders-4-Neue-PC-Spiele-im-Mai-2023-8948726.html"
+    },
+    {
+      "title": "Private Cloud: OpenStack 27 Antelope im Test",
+      "teaser": "Ein neues Management-GUI nimmt Gestalt an. Der geänderte Releasezyklus soll es Distributoren erleichtern, Updates für OpenStack bereitzustellen.",
+      "url": "https://www.heise.de/tests/Private-Cloud-mit-OpenStack-Antelope-Update-in-der-Uebersicht-8929270.html"
+    },
+    {
+      "title": "Plug-in-Hybridmodell BMW XM Red Label",
+      "teaser": "Nach dem an sich schon argen Power-SUV XM legt BMW zügig eine Haustuning-Variante nach. Der stärkste Serien-BMW aller Zeiten verfügt über einen Dünenmodus.",
+      "url": "https://www.heise.de/news/Plug-in-Hybridmodell-BMW-XM-Red-Label-8955007.html"
     },
     {
       "title": "Bundesregierung will Angestellte besser vor Überwachung schützen",
@@ -258,6 +278,11 @@
       "image_title": "Time,Glitch,Concept.,Hypnotising,Watch,On,A,Chain,Swinging,Above"
     },
     {
+      "title": "Risikobasierte Authentifizierung – einfach, schnell und sicher",
+      "teaser": "Um Missbrauch von Daten zu verhindern, braucht es eine starke Authentifizierung. Wir stellen Ihnen in diesem Webcast eine Lösung vor, die kontinuierlich Signale aus dem Kontext der Authentifizierung analysiert, damit Risiko und Vertrauen bewertet und so für Sicherheit sorgt, ohne die User zu nerven.",
+      "url": "https://business-services.heise.de/security/authentifizierungs-zugangssysteme/beitrag/risikobasierte-authentifizierung-einfach-schnell-und-sicher-4494/?source=hbsad_ersatz"
+    },
+    {
       "title": "AlertSicherheitsupdates: Netzwerkanalysetool Wireshark anfällig für DoS-Attacken",
       "teaser": "Die Wireshark-Entwickler haben zwei neue Versionen des Tools veröffentlicht. Darin haben sie unter anderem drei Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
@@ -278,11 +303,6 @@
       "teaser": "Für Ethereums Proof-of-Stake-Verfahren muss man als Teilnehmer eine Einlage zahlen. Mit einem Protokoll-Update kann das Geld jetzt auch wieder abgehoben werden.",
       "url": "https://www.heise.de/news/Ethereum-Update-Staker-koennen-jetzt-ihr-Geld-abheben-8949518.html",
       "image_title": "Ethereum,(eth),Cryptocurrency,Coin,In,Front,Of,An,Abstract,Blue"
-    },
-    {
-      "title": "Sichere Softwareentwicklung – vom Code bis zur Cloud",
-      "teaser": "Damit Ihre Software von der Entwicklung bis hin zur Cloud sicher ist, muss der gesamte Anwendungszyklus von Anfang bis Ende betrachtet und entsprechende Maßnahmen ergriffen werden. Iin dieser Webcast-Aufzeichnung erfahren Sie, welche Punkte hierbei eine Rolle spielen und wie Sie die Herausforderungen in den Griff bekommen - mit Demo!",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/so-geht-sichere-softwareentwicklung-vom-code-bis-zur-cloud-4489/?source=hbsad-ersatz"
     },
     {
       "title": "Tongyi Qianwen – Alibaba veröffentlicht Sprachmodell",
@@ -314,26 +334,6 @@
       "title": "Elektroauto: ZF schließt Vertrag zur Lieferung von Siliziumkarbid-Halbleitern",
       "teaser": "Wegen des großen Auftragsvolumens bei der Elektromobilität geht ZF eine Partnerschaft mit STMicroelectronics bei Halbleitern für seine Leistungselektronik ein.",
       "url": "https://www.heise.de/news/Elektroauto-ZF-schliesst-Vertrag-zur-Lieferung-von-Siliziumkarbid-Halbleitern-8949426.html"
-    },
-    {
-      "title": "Videospiele: Deutsches Studio Innogames entlässt 75 Mitarbeiter",
-      "teaser": "Das Hamburger Entwicklerstudio Innogames entlässt fast jeden fünften Mitarbeiter. Die zweitgrößte deutsche Spielefirma erhofft sich künftig mehr Effizienz.",
-      "url": "https://www.heise.de/news/Spielemarkt-Innogames-streicht-75-Stellen-8949468.html"
-    },
-    {
-      "title": "software-architektur.tv: Cloud Native – was und warum?",
-      "teaser": "heise Developer präsentiert den Videocast zur Softwarearchitektur: In dieser Episode geht es um Cloud Native und wieso Projekte auf die Cloud setzen sollten.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Cloud-Native-was-und-warum-8947144.html"
-    },
-    {
-      "title": "Forscher optimieren Bewegungsverhalten von Schaben mit Arduino",
-      "teaser": "Schaben harren gerne in dunklen, kalten Räumen aus. Das versuchen japanische Wissenschaftler zu ändern und stimulieren sie zum Laufen.",
-      "url": "https://www.heise.de/news/Forscher-optimieren-Bewegungsverhalten-von-Schaben-mit-Arduino-8949284.html"
-    },
-    {
-      "title": "iOS 17: Mehr Details zu möglichen Neuerungen",
-      "teaser": "Die nächste Version des iPhone-Betriebssystems wird im Juni gezeigt. Nun gibt es frische Infos, welche Verbesserungen Apple plant.",
-      "url": "https://www.heise.de/news/iOS-17-Mehr-Details-zu-moeglichen-Neuerungen-8949240.html"
     },
     {
       "title": "EU-Cloud-Wettbewerber: Microsofts Preissteigerungen reichen an Erpressung",
@@ -506,6 +506,11 @@
       "url": "https://www.heise.de/hintergrund/Mit-Ultraschall-gegen-Mikroplastik-8325373.html"
     },
     {
+      "title": "Videospiele: Deutsches Studio Innogames entlässt 75 Mitarbeiter",
+      "teaser": "Das Hamburger Entwicklerstudio Innogames entlässt fast jeden fünften Mitarbeiter. Die zweitgrößte deutsche Spielefirma erhofft sich künftig mehr Effizienz.",
+      "url": "https://www.heise.de/news/Spielemarkt-Innogames-streicht-75-Stellen-8949468.html"
+    },
+    {
       "title": "heise Jobs IT Tag in Frankfurt am Main am 20. April 2023",
       "teaser": "Am 20. April findet in Frankfurt am Main der heise Jobs IT Tag statt. Neben vielen Jobangeboten und Ausstellern gibt es dort auch einen Lebenslaufcheck.",
       "url": "https://www.heise.de/news/heise-Jobs-IT-Tag-in-Frankfurt-am-Main-am-20-April-2023-8941467.html"
@@ -519,11 +524,6 @@
       "title": "Jetzt bewerben: IT-Stipendium Sommersemester 2023 – nicht nur für Informatiker",
       "teaser": "Heise Medien vergibt zusammen mit e-fellows.net Stipendien für Studierende im Fach Informatik und verwandter Disziplinen. Die Bewerbungsfrist endet am 14. Mai.",
       "url": "https://www.heise.de/news/Jetzt-bewerben-IT-Stipendium-Sommersemester-2023-nicht-nur-fuer-Informatiker-8934015.html"
-    },
-    {
-      "title": "Heil rechnet 2024 mit \"deutlicher Steigerung\" des Mindestlohns",
-      "teaser": "Der Arbeitsminister erwartet ab 2024 einen wesentlich höheren Mindestlohn – und schaltet sich damit in eine immer wieder heiß diskutierte Debatte ein.",
-      "url": "https://www.heise.de/news/Heil-rechnet-2024-mit-deutlicher-Steigerung-des-Mindestlohns-8883770.html"
     },
     {
       "title": "Twitter, Corona-Warn-App, Homeoffice | #heiseshow",
@@ -708,24 +708,24 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-e-scooter-im-test/1wx49v3?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Empörung über Macron aus den falschen Gründen",
+      "teaser": "Die autoritäre Innenpolitik des französischen Präsidenten zerstört Leben. Deutsche Politiker und Medien stört seine Entspannungspolitik gegenüber China. Die folgt der gaullistischen Tradition.",
+      "url": "https://www.heise.de/tp/features/Empoerung-ueber-Macron-aus-den-falschen-Gruenden-8948967.html"
+    },
+    {
+      "title": "Europa: Der dritte mögliche Pol?",
+      "teaser": "Die Entrüstung über Macrons Äußerungen: Er fordert eine eigene Position Europas gegenüber den USA und China. Die Transatlantiker geben sich schockiert. Was, wenn sie es sich zu einfach machen?",
+      "url": "https://www.heise.de/tp/features/Europa-Der-dritte-moegliche-Pol-8948620.html"
+    },
+    {
       "title": "Russlands Vorstoß an der Südostflanke der Nato",
       "teaser": "Russland vermittelt zwischen Damaskus und Ankara. Für 3,5 Millionen Syrer in der Türkei sind das keine guten Nachrichten. Griechenland motiviert das zu einem Mega-Bauvorhaben.",
       "url": "https://www.heise.de/tp/features/Russlands-Vorstoss-an-der-Suedostflanke-der-Nato-8903940.html"
     },
     {
-      "title": "Warum das Nachdenken über Alternativen zum Kapitalismus nicht extremistisch ist",
-      "teaser": "\"Gegen alle Projekte des Todes, der Gier und der Krankheit\": Eindrücke vom einer Konferenz, die wegen \"PKK-Nähe\" nicht in den Räumen der Uni Hamburg stattfinden konnte.",
-      "url": "https://www.heise.de/tp/features/Warum-das-Nachdenken-ueber-Alternativen-zum-Kapitalismus-nicht-extremistisch-ist-8903934.html"
-    },
-    {
-      "title": "Das Ende einer Zinswende, die es nie gab",
-      "teaser": "Die Niedrigzinspolitik der Zentralbanken hat über Jahre eine Zombiewirtschaft erschaffen. Deren Rettung erfordert noch mehr billiges Geld und die Finanzmärkte jubeln. Ein Gastbeitrag.",
-      "url": "https://www.heise.de/tp/features/Das-Ende-einer-Zinswende-die-es-nie-gab-8939432.html"
-    },
-    {
-      "title": "Webhosting-Vergleich: So finden Sie den passenden Hosting-Anbieter",
-      "teaser": "Wer eine Website online verfügbar machen möchte, ist auf einen Webhoster angewiesen. Zwischen den Anbietern gibt es zum Teil erhebliche Unterschiede.",
-      "url": "https://www.heise.de/download/specials/Webhosting-Vergleich-So-finden-Sie-den-passenden-Hosting-Anbieter-6037473"
+      "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2023 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "ChatGPT",
