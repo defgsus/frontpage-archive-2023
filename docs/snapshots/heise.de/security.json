@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-13T08:14:38",
+  "timestamp": "2023-04-13T09:11:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Jenkins Plugins",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Jenkins-Plug-ins-verwundbar-viele-Updates-stehen-noch-aus-8949204.html"
+    },
+    {
       "title": "NTP",
       "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
     },
@@ -44,8 +48,19 @@
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
     },
     {
-      "title": "Patchday Fortinet",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-kritische-und-hochriskante-Luecken-8939457.html"
+      "title": "Spyware-Kampagne: Unsichtbare Kalender-Einladungen konnten iPhone knacken",
+      "teaser": "Journalisten, Politiker und Aktivisten wurden unbemerkt von Spionagetechnik der Firma QuaDream angegriffen. Geklickt werden musste nicht.",
+      "url": "https://www.heise.de/news/Spyware-Kampagne-Unsichtbare-Kalender-Einladungen-konnten-iPhone-knacken-8949226.html"
+    },
+    {
+      "title": "Softwareentwicklung: Jenkins-Plug-ins verwundbar, viele Updates stehen noch aus",
+      "teaser": "Software-Entwicklungsumgebungen mit Jenkins sind attackierbar. Bislang sind nur wenige betroffene Plug-ins abgesichert.",
+      "url": "https://www.heise.de/news/Softwareentwicklung-Jenkins-Plug-ins-verwundbar-viele-Updates-stehen-noch-aus-8949204.html"
+    },
+    {
+      "title": "BSI-Studie: Gängige Mikrocontroller sind für Hardware-Angriffe anfällig",
+      "teaser": "Bei Hardware-Sicherheitstoken und Krypto-Wallets, smarten Schlössern und Kassensystemen haben Hacker leichtes Spiel, warnen Fraunhofer-Forscher im BSI-Auftrag.",
+      "url": "https://www.heise.de/news/BSI-Studie-Gaengige-Mikrocontroller-sind-fuer-Hardware-Angriffe-anfaellig-8949244.html"
     },
     {
       "title": "Störung auf der Webseite der Tagesschau",
@@ -136,23 +151,6 @@
       "title": "Cyberattacke auf KFC, Pizza Hut und Taco Bell",
       "teaser": "Während eines IT-Sicherheitsvorfalls bei Yum! Brands konnten Angreifer auf Interna zugreifen. Persönliche Kundendaten sollen aber nicht betroffen sein.",
       "url": "https://www.heise.de/news/Cyberattacke-auf-KFC-Pizza-Hut-und-Taco-Bell-8932461.html"
-    },
-    {
-      "title": "Microsoft: AI-Unterstützung in Microsoft Office teilweise schon aktiv",
-      "teaser": "Microsoft hat KI-Unterstützung in Form von Copilot angekündigt. Unbekannte KI-Dateien hat Microsoft Office jetzt teilweise schon installiert und aktiviert.",
-      "url": "https://www.heise.de/news/Microsoft-Office-AI-Unterstuetzung-teilweise-schon-aktiviert-8927848.html",
-      "image_title": "Smartphone mit Bing-Suche und der Aufforderung \"Ask me anything\""
-    },
-    {
-      "title": "iX-Workshop: KRITIS – Spezielle Prüfverfahrenskompetenz für § 8a BSIG",
-      "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive optionaler, direkt anschließender Abschlussprüfung. Mit 10 % Frühbucherrabatt bis 24.4.",
-      "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Spezielle-Pruefverfahrenskompetenz-fuer-8a-BSIG-8657154.html",
-      "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Studie: Kriminelle schmuggeln Trojaner-Apps ab 2000 US-Dollar in Google Play",
-      "teaser": "Für die Abzocke von Android-Nutzern bieten Kriminelle in Untergrundforen All-in-one-Trojaner-Pakete zum Verkauf an.",
-      "url": "https://www.heise.de/news/Studie-Kriminelle-schmuggeln-Trojaner-Apps-ab-2000-US-Dollar-in-Google-Play-8927162.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
