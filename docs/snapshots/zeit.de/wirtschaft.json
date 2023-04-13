@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-13T20:12:05",
+  "timestamp": "2023-04-13T21:10:07",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "ARD-Deutschlandtrend: Mehrheit der Deutschen ist gegen Atomausstieg",
+      "teaser": "Am Wochenende gehen in Deutschland die letzten Atomkraftwerke vom Netz. 59 Prozent der Bundesbürger sind dagegen. Grund ist vor allem die Sorge um höhere Energiepreise.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/mehrheit-deutschland-gegen-abschaltung-kernkraftwerk-atomkraft",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/mehrheit-deutschland-gegen-abschaltung-kernkraftwerk-atomkraft-bild/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rüstungsexporte nach Russland: Deutsche Wertarbeit für Wladimir Putins Raketen",
       "teaser": "Zolldaten aus Russland zeigen: Auch nach dem Überfall auf die Ukraine landen Werkzeuge und Maschinenteile deutscher Hersteller bei der russischen Rüstungsindustrie.",
       "url": "https://www.zeit.de/2023/16/ruestungsexporte-russland-ukraine-krieg-mittelstaendische-unternehmen-sanktionen",
-      "image_url": "https://img.zeit.de/2023/16/deutsche-wertarbeit-fuer-putins-raketen-bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/16/deutsche-wertarbeit-fuer-putins-raketen-bild-1/wide__822x462",
+      "image_title": "Rüstungsexporte nach Russland: Deutsche Wertarbeit für Wladimir Putins Raketen"
     },
     {
       "title": "Frühjahrstagung von IWF und Weltbank : IWF optimistisch trotz schwacher Wachstumsprognose",
@@ -64,16 +71,16 @@
     },
     {
       "title": "Cosco: China warnt vor Politisierung des Einstiegs bei Hamburger Terminal",
-      "teaser": "Die umstrittene Cosco-Beteiligung am Terminal Tollerort steht wieder infrage. Chinas Regierung fürchtet, dass sie \"zu etwas über Ideologie oder Sicherheit\" gemacht wird.",
+      "teaser": "Die umstrittene Cosco-Beteiligung am Terminal Tollerort steht wieder infrage. Chinas Regierung fürchtet, dass sie \"zu etwas über Ideologie oder Sicherheit\" gemacht wird. 110 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-04/china-cosco-hamburger-hafen-terminal",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/china-cosco-hamburger-hafen-terminal-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/china-cosco-hamburger-hafen-terminal-bild/cinema__980x420",
       "image_title": "Cosco: China warnt vor Politisierung des Einstiegs bei Hamburger Terminal"
     },
     {
       "title": "Intel in Magdeburg: Bundesregierung will offenbar höhere Investitionen für Intel-Standort",
       "teaser": "Intel baut in Magdeburg eine Chipfabrik. Die Bundesregierung subventioniert großzügig. Doch gestiegene Energiepreise treiben die Kosten in die Höhe.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/intel-fabrik-magdeburg-chiphersteller-investition-bundesregierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-04/subventionen-chipfabrik-intel-magdeburg-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-04/subventionen-chipfabrik-intel-magdeburg-bild/wide__822x462",
       "image_title": "Intel in Magdeburg: Bundesregierung will offenbar höhere Investitionen für Intel-Standort"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/industrie-dihk-produktionsverlagerung-ausland-kosten",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/industrieunternehmen-ausland-bild/wide__822x462",
       "image_title": "Industrie: DIHK warnt vor zunehmender Produktionsverlagerung ins Ausland"
-    },
-    {
-      "title": "Preise: Inflation in Deutschland sinkt auf tiefsten Stand seit August 2022",
-      "teaser": "Niedrigere Benzin- und Heizölpreise drücken die Inflation auf 7,4 Prozent. Die Energiekosten werden aber inzwischen mit den erhöhten Preisen seit Kriegsbeginn verglichen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/inflation-preise-statistisches-bundesamt-teuerung-tiefststand",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/inflation-benzinpreise-bild/wide__822x462",
-      "image_title": "Preise: Inflation in Deutschland sinkt auf tiefsten Stand seit August 2022"
     },
     {
       "title": "Leserumfrage: Wie viel Strom verbraucht Ihre Wärmepumpe?",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Preise: Inflation in Deutschland sinkt auf tiefsten Stand seit August 2022",
+      "teaser": "Niedrigere Benzin- und Heizölpreise drücken die Inflation auf 7,4 Prozent. Die Energiekosten werden aber inzwischen mit den erhöhten Preisen seit Kriegsbeginn verglichen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/inflation-preise-statistisches-bundesamt-teuerung-tiefststand",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/inflation-benzinpreise-bild/wide__822x462",
+      "image_title": "Preise: Inflation in Deutschland sinkt auf tiefsten Stand seit August 2022"
+    },
+    {
       "title": "Atomausstieg: Energiebranche drängt auf den Bau neuer Gaskraftwerke",
       "teaser": "Um die Versorgung nach dem Atomausstieg zu gewährleisten, müssten dringend neue Kraftwerke gebaut werden, fordert die Branche. Doch es fehle an Anreizen, zu investieren.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/atomausstieg-gaskraftwerk-wasserstoff-versorgung-energiebranche",
@@ -220,14 +227,14 @@
       "title": "Hamburger Hafen: Containerterminal in Hamburg als kritische Infrastruktur registriert",
       "teaser": "Ein Containerterminal des Betreibers HHLA wurde als schützenswerte Infrastruktur neu bewertet. Das könnte Folgen für den Einstieg des chinesischen Konzerns Cosco haben.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/hamburg-hafen-terminal-kritische-infrastruktur-cosco",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/hamburg-hafen-terminal-kritische-infrastruktur/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/hamburg-hafen-terminal-kritische-infrastruktur/cinema__980x420",
       "image_title": "Hamburger Hafen: Containerterminal in Hamburg als kritische Infrastruktur registriert"
     },
     {
       "title": "ifo Institut: Immer weniger Firmen wollen Preise erhöhen",
       "teaser": "Der monatlichen Umfrage des ifo-Instituts zufolge planen weniger Firmen Preiserhöhungen. Die Wirtschaftsforscher erwarten nun einen Rückgang der Inflation.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/ifo-institut-unternehmen-preise-inflation",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/ifo-institut-unternehmen-preise-inflation-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/ifo-institut-unternehmen-preise-inflation-bild/wide__822x462",
       "image_title": "ifo Institut: Immer weniger Firmen wollen Preise erhöhen"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/credit-suisse-notuebernahme-ubs-sondersitzung-parlament-ablehnung",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/credit-suisse-notuebernahme-ubs-sondersitzung-parlament-ablehnung-bild/wide__822x462",
       "image_title": "Sondersitzung: Schweizer Parlament lehnt Rettung der Credit-Suisse-Bank vorerst ab"
-    },
-    {
-      "title": "Atomkraftausstieg: Mehrheit in Umfrage gegen Abschaltung letzter Atomkraftwerke",
-      "teaser": "Am Samstag sollen die letzten deutschen Atomkraftwerke vom Netz gehen. Eine Mehrheit hält das laut einer Umfrage für falsch – jeder Vierte fordert sogar mehr Atomkraft.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/atomkraft-ausstieg-kernkraft-energieversorgung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-04/atomkraft-atomausstieg-kernkraft-energieversorgung-bild/wide__822x462",
-      "image_title": "Atomkraftausstieg: Mehrheit in Umfrage gegen Abschaltung letzter Atomkraftwerke"
     },
     {
       "title": "Insolvente Warenhauskette: Ver.di bestreikt zahlreiche Galeria-Kaufhof-Filialen",
