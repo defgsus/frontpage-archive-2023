@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-13T05:10:35",
+  "timestamp": "2023-04-13T06:14:31",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -70,6 +70,12 @@
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.e351a35f.mjs",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/gehaelter-gemeinden/static/assets/standalone.795ef760.mjs",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
@@ -83,15 +89,8 @@
       "title": "China-Reise: Baerbock will in China \"gemeinsame europäische Überzeugung\" betonen",
       "teaser": "Eine militärische Eskalation mit Taiwan bezeichnet die Außenministerin vor ihrer Reise als inakzeptabel. China habe eine \"besondere Verantwortung für den Weltfrieden\".",
       "url": "https://www.zeit.de/politik/ausland/2023-04/baerbock-china-reise-ukraine-taiwan",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-04/baerbock-china-reise-ukraine-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-04/baerbock-china-reise-ukraine-taiwan-bild/wide__822x462",
       "image_title": "China-Reise: Baerbock will in China \"gemeinsame europäische Überzeugung\" betonen"
-    },
-    {
-      "title": "Nachrichtenpodcast: Will Baerbock eine neue China-Strategie?",
-      "teaser": "Bei dem Besuch von Außenministerin Annalena Baerbock in China stehen viele brisante Themen auf der Tagesordnung. Und: Gibt es Hoffnung auf ein Ende des Krieges im Jemen?",
-      "url": "https://www.zeit.de/politik/2023-04/aussenministerin-annalena-baerbock-china-strategie-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Will Baerbock eine neue China-Strategie?"
     },
     {
       "title": "Ukraine-Überblick: Selenskyj gedenkt Soldaten, Geheimdienste erwarten 2023 keinen Frieden",
@@ -101,18 +100,25 @@
       "image_title": "Ukraine-Überblick: Selenskyj gedenkt Soldaten, Geheimdienste erwarten 2023 keinen Frieden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukraine-Krieg: Die neuen Verteidigungslinien offenbaren die Angst Russlands",
-      "teaser": "Die russischen Streitkräfte bereiten sich auf die Frühjahrsoffensive der Ukraine vor. Der Kreml setzt dabei auf die Defensive: Es fehlt an Artillerie und Munition.",
-      "url": "https://www.zeit.de/politik/ausland/2023-04/ukraine-krieg-russland-verteidigungsstellungen-fruehjahrsoffensive",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-04/ukraine-krieg-russland-verteidigungsstellungen-fruehjahrsoffensive-bild/wide__822x462",
-      "image_title": "Ukraine-Krieg: Die neuen Verteidigungslinien offenbaren die Angst Russlands"
+      "title": "Veröffentlichte Geheimdokumente: Quelle der Geheimdienst-Leaks soll auf einer US-Militärbasis arbeiten",
+      "teaser": "Ein Bericht enthüllt die angebliche Identität eines Mannes, der mutmaßlich US-Dokumente zum Ukraine-Krieg veröffentlichte. Er soll die Inhalte auf Discord geteilt haben.",
+      "url": "https://www.zeit.de/politik/ausland/2023-04/usa-geheimdienst-leaks-quelle-dokumente-militaerbasis",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-04/usa-leak-geheimdokumente-bild/wide__822x462",
+      "image_title": "Veröffentlichte Geheimdokumente: Quelle der Geheimdienst-Leaks soll auf einer US-Militärbasis arbeiten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gewalt gegen Lehrer: \"Der Schüler ging mit der Schere auf mich los\"",
-      "teaser": "Was ist in den Klassenzimmern los? Lehrkräfte werden häufiger von Eltern bedroht oder von Schülern geschlagen. Drei Lehrer erzählen von Übergriffen im Unterricht.",
-      "url": "https://www.zeit.de/arbeit/2023-04/gewalt-gegen-lehrer-schule-jugendliche-eltern-was-tun",
-      "image_url": "https://img.zeit.de/arbeit/2023-04/gewalt-gegen-lehrer/cinema__980x420",
-      "image_title": "Gewalt gegen Lehrer: \"Der Schüler ging mit der Schere auf mich los\""
+      "title": "Waldzerstörung: Für Gold und Kohle verschwindet immer mehr Wald",
+      "teaser": "Forscher haben in einer Studie untersucht, wie viel Wald durch den Bergbau abgeholzt wird. Einer der wichtigsten Treiber: die deutsche Industrie – nicht die Energiewende.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-04/wald-zerstoerung-bergbau-entwaldung-amazonas-abholzung",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-04/wald-zerstoerung-bergbau-entwaldung-amazonas/wide__822x462",
+      "image_title": "Waldzerstörung: Für Gold und Kohle verschwindet immer mehr Wald"
+    },
+    {
+      "title": "Klimapolitik: Der Klimaschutz muss politischer werden!",
+      "teaser": "Nach der Aufweichung des Klimagesetzes müssen Klimaschützer anders vorgehen, um Erfolg zu haben. Sie sollten sich ein Beispiel an Unternehmen oder Gewerkschaften nehmen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-04/klimapolitik-klimaschutz-erderwaermung-gesetz-5vor8",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-04/klimapolitik-klimaschutz-erderwaermung-gesetz-5vor8-2/cinema__980x420",
+      "image_title": "Klimapolitik: Der Klimaschutz muss politischer werden!"
     },
     {
       "title": "USA: Donald Trump verklagt Ex-Anwalt auf eine halbe Milliarde US-Dollar",
@@ -127,6 +133,13 @@
       "url": "https://www.zeit.de/politik/ausland/2023-04/usa-tennessee-zweiter-abgeordneter-zurueck-parlament",
       "image_url": "https://img.zeit.de/politik/ausland/2023-04/usa-tennessee-zweiter-abgeordneter-zurueck-parlament-bild/wide__822x462",
       "image_title": "Tennessee: Zweiter ausgeschlossener Abgeordneter darf zurück in den Kongress"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Gewalt gegen Lehrer: \"Der Schüler ging mit der Schere auf mich los\"",
+      "teaser": "Was ist in den Klassenzimmern los? Lehrkräfte werden häufiger von Eltern bedroht oder von Schülern geschlagen. Drei Lehrer erzählen von Übergriffen im Unterricht.",
+      "url": "https://www.zeit.de/arbeit/2023-04/gewalt-gegen-lehrer-schule-jugendliche-eltern-was-tun",
+      "image_url": "https://img.zeit.de/arbeit/2023-04/gewalt-gegen-lehrer/wide__822x462",
+      "image_title": "Gewalt gegen Lehrer: \"Der Schüler ging mit der Schere auf mich los\""
     },
     {
       "title": "Künstliche Intelligenz : Was kann der Mensch besser?",
@@ -166,7 +179,7 @@
       "title": "Atomausstieg: Energiebranche drängt auf den Bau neuer Gaskraftwerke",
       "teaser": "Um die Versorgung nach dem Atomausstieg zu gewährleisten, müssten dringend neue Kraftwerke gebaut werden, fordert die Branche. Doch es fehle an Anreizen, zu investieren.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/atomausstieg-gaskraftwerk-wasserstoff-versorgung-energiebranche",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/atomausstieg-gaskraftwerk-wasserstoff-versorgung-energiebranche-foto/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/ausland/2023-04/atomausstieg-gaskraftwerk-wasserstoff-versorgung-energiebranche-bild/wide__822x462",
       "image_title": "Atomausstieg: Energiebranche drängt auf den Bau neuer Gaskraftwerke"
     },
     {
@@ -237,12 +250,12 @@
       "url": "https://www.zeit.de/politik/ausland/2023-04/ukraine-krieg-kriegsgefangene-enthauptung-kriegsverbrechen-russland"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Generation Z: \"Junge Menschen wollen nicht weniger arbeiten\"",
-      "url": "https://www.zeit.de/campus/2023-04/generation-z-arbeit-enzo-weber"
-    },
-    {
       "title": "China: Xi fordert Armee zur Einübung \"tatsächlicher Kampfhandlungen\" auf",
       "url": "https://www.zeit.de/politik/ausland/2023-04/china-armee-tatsaechliche-kampfhandlungen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Opioid-Krise in den USA: Ein Land betäubt sich",
+      "url": "https://www.zeit.de/politik/ausland/2023-04/opioid-krise-usa-fentanyl-drogentote"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dalai Lama: Die Zunge allein ist nicht der Skandal",
@@ -287,8 +300,8 @@
       "image_title": "Cannabis: Bundesregierung bringt Cannabislegalisierung auf den Weg"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Generation Z: \"Junge Menschen wollen nicht weniger arbeiten\"",
-      "url": "https://www.zeit.de/campus/2023-04/generation-z-arbeit-enzo-weber"
+      "title": "China: Xi fordert Armee zur Einübung \"tatsächlicher Kampfhandlungen\" auf",
+      "url": "https://www.zeit.de/politik/ausland/2023-04/china-armee-tatsaechliche-kampfhandlungen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Generation Z: \"Junge Menschen wollen nicht weniger arbeiten\"",
@@ -299,8 +312,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-04/christian-lindner-haushalt-sparen-armut"
     },
     {
-      "title": "China: Xi fordert Armee zur Einübung \"tatsächlicher Kampfhandlungen\" auf",
-      "url": "https://www.zeit.de/politik/ausland/2023-04/china-armee-tatsaechliche-kampfhandlungen"
+      "title": "Z+ (abopflichtiger Inhalt); Opioid-Krise in den USA: Ein Land betäubt sich",
+      "url": "https://www.zeit.de/politik/ausland/2023-04/opioid-krise-usa-fentanyl-drogentote"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Opioid-Krise in den USA: Ein Land betäubt sich",
@@ -318,11 +331,11 @@
       "image_title": "Arbeitszeitbetrug: \"Ich arbeite effektiv zehn von 40 Stunden in der Woche\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Reiseziele • Das Beste aus Z+: Bitte von der Bucketlist streichen",
+      "title": "Z+ (abopflichtiger Inhalt); Reiseziele: Bitte von der Bucketlist streichen",
       "teaser": "Las Vegas, Australien, der Vatikan: Manche Reisen, Orte und Restaurants, von denen man immer träumte, enttäuschen. Wir warnen Sie vor und nennen gute Alternativen.",
       "url": "https://www.zeit.de/entdecken/reisen/2023-04/reiseziele-las-vegas-vatikan-marokko-bucket-list",
       "image_url": "https://img.zeit.de/entdecken/2023-04/reiseziele-las-vegas-vatikan-marokko-bucket-list-bild/wide__822x462",
-      "image_title": "Reiseziele • Das Beste aus Z+: Bitte von der Bucketlist streichen"
+      "image_title": "Reiseziele: Bitte von der Bucketlist streichen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburgs Nachbarländer: Hanseatisch hochnäsig",
@@ -580,9 +593,11 @@
       "image_title": "Gesundheitssystem: Kassenärzte-Chef befürwortet in einzelnen Fällen Notaufnahmegebühr"
     },
     {
-      "title": "EU-Kommission: EU-Vorschläge gegen Kindesmissbrauch sind Studie zufolge unwirksam",
+      "title": "EU-Kommission: EU-Vorschlag zur Chatkontrolle ist Studie zufolge unwirksam",
       "teaser": "Mit ihrer Gesetzesinitiative will die EU-Kommission Kinder schützen. Einer Studie zufolge sind die Maßnahmen aber unzureichend und verletzen auch Grundrechte.",
-      "url": "https://www.zeit.de/digital/2023-04/eu-kommission-studie-kindesmissbrauch"
+      "url": "https://www.zeit.de/digital/2023-04/eu-kommission-studie-kindesmissbrauch",
+      "image_url": "https://img.zeit.de/politik/2023-04/eu-kommission-studie-kindesmissbrauch-bild/cinema__980x420",
+      "image_title": "EU-Kommission: EU-Vorschlag zur Chatkontrolle ist Studie zufolge unwirksam"
     },
     {
       "title": "Games: Deutscher Computerspielmarkt 2022 stabil geblieben",
@@ -620,11 +635,11 @@
       "image_title": "Gino Emnes: \"Es ist toll, Menschen auf der Bühne zu haben, die aussehen wie ich\""
     },
     {
-      "title": "Verlagsangebot: Das internationale Osterquiz",
-      "teaser": "Happy Easter! Wissen Sie, wie Ostern in Italien, Frankreich oder Spanien gefeiert wird? Wir haben fünf knifflige Fragen vorbereitet. Testen Sie Ihr Wissen!",
-      "url": "https://freundederzeit.typeform.com/osterquiz",
-      "image_url": "https://img.zeit.de/administratives/2023-04/internationale-osterquiz-teaser/wide__822x462",
-      "image_title": "Verlagsangebot: Das internationale Osterquiz"
+      "title": "Verlagsangebot: Englischquiz – Achtung, falsche Freunde!",
+      "teaser": "Take good care! In diesem Englischquiz begegnen Ihnen fünf falsche Freunde. Erkennen Sie alle? Testen Sie Ihr Englischwissen!",
+      "url": "https://freundederzeit.typeform.com/falsefriends",
+      "image_url": "https://img.zeit.de/administratives/2023-03/freunde-der-zeit-englischquiz-bild/wide__822x462",
+      "image_title": "Verlagsangebot: Englischquiz – Achtung, falsche Freunde!"
     },
     {
       "title": "Royal Family: Prinz Harry kommt zu Charles' Krönung",
@@ -655,11 +670,11 @@
       "image_title": "Podcast \"Und was macht die Uni?\": \"Ich musste schon als Kind den Esel spielen\""
     },
     {
-      "title": "Verlagsangebot Nicht nur irgendwas studieren",
-      "teaser": "Studieren! Aber was? Der Studiuminteressentest unterstützt Unschlüssige bei ihrer Suche nach dem passenden Studium, basierend auf den eigenen Interessen.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.textbild.schwarzer-hut_nichtnurirgendwas.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=sit_textbild_schwarzer-hut_nichtnurirgendwas_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-2-klein/brooke-cagle-tlg2hcpitze-unsplash-197.jpg",
-      "image_title": "Nicht nur irgendwas studieren"
+      "title": "Verlagsangebot Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Markus Dobler über das Masterpraktikum: \"Manchmal hilft nur in Deckung gehen oder kündigen\"",
@@ -802,36 +817,36 @@
       "image_title": "Neues Spiel: Eckchen"
     },
     {
-      "title": "Vorschau: Wechselhaftes Wetter in Sachsen erwartet",
-      "url": "https://www.zeit.de/news/2023-04/13/wechselhaftes-wetter-in-sachsen-erwartet"
+      "title": "Champions League: Kroos nach 2:0 gegen Chelsea: Können zufrieden sein",
+      "url": "https://www.zeit.de/news/2023-04/13/kroos-nach-2-0-gegen-chelsea-koennen-zufrieden-sein"
     },
     {
-      "title": "Ausstattung: OLG-Chef: Justiz braucht mehr Unterstützung für Umbrüche",
-      "url": "https://www.zeit.de/news/2023-04/13/olg-chef-justiz-braucht-mehr-unterstuetzung-fuer-umbrueche"
+      "title": "Regionalverband Saarbrücken: Vier Verletzte nach Wohnhausbrand: Ursache unklar",
+      "url": "https://www.zeit.de/news/2023-04/13/vier-verletzte-nach-wohnhausbrand-ursache-unklar"
     },
     {
-      "title": "Außenhandel: Chinas Exporte schnellen unerwartet in die Höhe",
-      "url": "https://www.zeit.de/news/2023-04/13/chinas-exporte-schnellen-unerwartet-in-die-hoehe"
+      "title": "Champions-League-Spiel: Berichte: Bayern-Chefs beraten nach Auseinandersetzung",
+      "url": "https://www.zeit.de/news/2023-04/13/berichte-bayern-chefs-beraten-nach-auseinandersetzung"
     },
     {
-      "title": "Geschmacksrichtung: Deutsches Weininstitut: Trend geht zu trockenen Weinen",
-      "url": "https://www.zeit.de/news/2023-04/13/deutsches-weininstitut-trend-geht-zu-trockenen-weinen"
+      "title": "Wetterbericht: Gewitter, Regen und Windböen in Sachsen-Anhalt erwartet",
+      "url": "https://www.zeit.de/news/2023-04/13/gewitter-regen-und-windboeen-in-sachsen-anhalt-erwartet"
     },
     {
-      "title": "Internet: Breitband-Gerangel um den Glasfaserausbau der Telekom",
-      "url": "https://www.zeit.de/news/2023-04/13/breitband-gerangel-um-den-glasfaserausbau-der-telekom"
+      "title": "Wetterbericht: Viel Wind und Regen in Rheinland-Pfalz und dem Saarland",
+      "url": "https://www.zeit.de/news/2023-04/13/viel-wind-und-regen-in-rheinland-pfalz-und-dem-saarland"
     },
     {
-      "title": "Flutkatastrophe: Ermittlungen gegen Pföhler bis Herbst abgeschlossen",
-      "url": "https://www.zeit.de/news/2023-04/13/ermittlungen-gegen-pfoehler-bis-herbst-abgeschlossen"
+      "title": "Vorschau: Ungemütliches Wetter am Donnerstag in NRW",
+      "url": "https://www.zeit.de/news/2023-04/13/ungemuetliches-wetter-am-donnerstag-in-nrw"
     },
     {
-      "title": "Osterferien: Reisende kehren zurück: Volle Straßen und Flughäfen erwartet",
-      "url": "https://www.zeit.de/news/2023-04/13/reisende-kehren-zurueck-volle-strassen-und-flughaefen-erwartet"
+      "title": "Dämmerungszeit: Zeitumstellung: Polizei warnt vor höherem Wildunfallrisiko",
+      "url": "https://www.zeit.de/news/2023-04/13/zeitumstellung-polizei-warnt-vor-hoeherem-wildunfallrisiko"
     },
     {
-      "title": "Rechtes Gedankengut : Völkische Siedler in der Heide: Verfassungsschutz beobachtet",
-      "url": "https://www.zeit.de/news/2023-04/13/voelkische-siedler-in-der-heide-verfassungsschutz-beobachtet"
+      "title": "Wetterbericht: Windiger und regnerischer Donnerstag in Hessen",
+      "url": "https://www.zeit.de/news/2023-04/13/windiger-und-regnerischer-donnerstag-in-hessen"
     }
   ]
 }
