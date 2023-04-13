@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-13T11:09:22",
+  "timestamp": "2023-04-13T12:22:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Wireshark",
+      "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
+    },
+    {
       "title": "Jenkins Plugins",
       "url": "https://www.heise.de/news/Softwareentwicklung-Jenkins-Plug-ins-verwundbar-viele-Updates-stehen-noch-aus-8949204.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatches-BIOS-Luecken-gefaehrden-Lenovo-Laptops-8948481.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
+      "title": "Sicherheitsupdates: Netzwerkanalysetool Wireshark anfällig für DoS-Attacken",
+      "teaser": "Die Wireshark-Entwickler haben zwei neue Versionen des Tools veröffentlicht. Darin haben sie unter anderem drei Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
+    },
+    {
+      "title": "Googles Sicherheitsversprechen für Open-Source-Software: Assured OSS",
+      "teaser": "Der Service für Open-Source-Pakete, die Google ausgiebig getestet hat und in den eigenen Entwicklungszyklus einbindet, ist jetzt verfügbar und kostenlos.",
+      "url": "https://www.heise.de/news/Googles-Sicherheitsversprechen-fuer-Open-Source-Software-Assured-OSS-8949288.html"
     },
     {
       "title": "Spyware-Kampagne: Unsichtbare Kalender-Einladungen konnten iPhone knacken",
@@ -89,6 +99,11 @@
       "teaser": "Keine großen, aber viele kleine Neuerungen bringt Android 14. Dünn wird die Luft für veraltete Apps.",
       "url": "https://www.heise.de/news/Android-14-Beta-ist-da-fuer-Tests-mit-Pixel-Handys-8949003.html",
       "image_title": "Ein grüner Android steht vor dem Google-Hauptquartier (Glasgebäude Hintergrund)"
+    },
+    {
+      "title": "BSI warnt vor kritischen Zero-Day-Lücken im NTP-Server",
+      "teaser": "Ein IT-Forscher hat fünf Sicherheitslücken im Zeitserver NTP gemeldet. Das BSI stuft die Lücken als kritisch ein. Ein Update steht bislang noch nicht bereit.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
     },
     {
       "title": "Forum der Media-Center-Software Kodi nach Hack offline",
@@ -136,21 +151,6 @@
       "title": "Patchday: Angreifer infizieren Windows mit Nokoyawa-Ransomware",
       "teaser": "Microsoft hat wichtige Sicherheitsupdates für etwa Azure, Dynamics 365 und Windows veröffentlicht.",
       "url": "https://www.heise.de/news/Patchday-Angreifer-infizieren-Windows-mit-Nokoyawa-Ransomware-8935888.html"
-    },
-    {
-      "title": "US-Datenleck zu Ukraine-Krieg: Pentagon will \"jeden Stein umdrehen\"",
-      "teaser": "Nach einem Datenleck in den USA, bei dem Informationen zum Ukraine-Krieg offengelegt wurden, versucht die US-Regierung sich in Schadensbegrenzung.",
-      "url": "https://www.heise.de/news/Nach-Datenleck-Pentagon-will-jeden-Stein-umdrehen-8935856.html"
-    },
-    {
-      "title": "Patchday: SAP meldet 19 teils kritische Sicherheitslücken",
-      "teaser": "Im April hat SAP 19 Schwachstellen in den eigenen Produkten mit Sicherheitsmeldungen bedacht. Davon stuft der Hersteller zwei als kritisch ein.",
-      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-19-zum-Teil-kritische-Sicherheitslecks-ab-8931365.html"
-    },
-    {
-      "title": "Cyberattacke auf KFC, Pizza Hut und Taco Bell",
-      "teaser": "Während eines IT-Sicherheitsvorfalls bei Yum! Brands konnten Angreifer auf Interna zugreifen. Persönliche Kundendaten sollen aber nicht betroffen sein.",
-      "url": "https://www.heise.de/news/Cyberattacke-auf-KFC-Pizza-Hut-und-Taco-Bell-8932461.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
