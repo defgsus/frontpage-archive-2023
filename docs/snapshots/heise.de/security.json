@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-14T08:14:07",
+  "timestamp": "2023-04-14T09:11:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.6f79624570013a8c8021",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.02bd387badfa6f5a681d",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "QueueJumper-Lücke Windows",
+      "url": "https://www.heise.de/news/Jetzt-patchen-QueueJumper-Luecke-gefaehrdet-hunderttausende-Windows-Systeme-8961420.html"
+    },
     {
       "title": "Juniper",
       "url": "https://www.heise.de/news/Juniper-Zahlreiche-Sicherheits-Updates-fuer-teils-kritische-Luecken-8951334.html"
@@ -44,8 +48,20 @@
       "url": "https://www.heise.de/news/Softwareentwicklung-Jenkins-Plug-ins-verwundbar-viele-Updates-stehen-noch-aus-8949204.html"
     },
     {
-      "title": "NTP",
-      "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
+      "title": "Jetzt patchen! QueueJumper-Lücke gefährdet hunderttausende Windows-Systeme",
+      "teaser": "Sicherheitsforscher haben nach weltweiten Scans über 400.000 potenziell angreifbare Windows-Systeme entdeckt. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-QueueJumper-Luecke-gefaehrdet-hunderttausende-Windows-Systeme-8961420.html"
+    },
+    {
+      "title": "Western Digital: Angebliche Einbrecher verlangen achtstelliges Lösegeld",
+      "teaser": "Nachdem Western Digital Anfang des Monats Opfer eines Cyber-Angriffs wurde, sind die Dienste jetzt wieder voll verfügbar. Die Einbrecher fordern jetzt Lösegeld.",
+      "url": "https://www.heise.de/news/Western-Digital-Angebliche-Einbrecher-verlangen-achtstelliges-Loesegeld-8956928.html",
+      "image_title": "Geld, Münzen, Währung, Kryptowährung, Bitcoin"
+    },
+    {
+      "title": "Passwortschutz umgehbar: Drupal-Modul Protected Pages verwundbar",
+      "teaser": "Angreifer könnten auf eigentlich durch Passwörter abgeschottete Drupal-Websites zugreifen. Ein Sicherheitsupdate ist verfügbar.",
+      "url": "https://www.heise.de/news/CMS-Drupal-Sicherheitsmodul-Protected-Pages-gefaehrdet-Websites-8959518.html"
     },
     {
       "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -138,22 +154,6 @@
       "title": "Warten auf Sicherheitspatches: BIOS-Lücken gefährden Lenovo-Laptops",
       "teaser": "Angreifer könnten Lenovo-Laptops attackieren und im schlimmsten Fall Schadcode ausführen. Updates sind noch nicht verfügbar.",
       "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatches-BIOS-Luecken-gefaehrden-Lenovo-Laptops-8948481.html"
-    },
-    {
-      "title": "Cyber-Vorfall: SD Worx nimmt Dienste in Vereinigten Königreich vom Netz",
-      "teaser": "Nach der Erkennung ungewöhnlicher Aktivitäten im Netz hat der Personalverwalter SD Worx die Dienste im Vereinigten Königreich und Irland offline genommen.",
-      "url": "https://www.heise.de/news/Cyber-Vorfall-SD-Worx-nimmt-Dienste-in-Vereinigten-Koenigreich-vom-Netz-8941382.html",
-      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
-    },
-    {
-      "title": "Software Supply Chain: Googles deps.dev-API ermittelt Open-Source-Dependencies",
-      "teaser": "Eine neue API gibt Zugriff auf die Metadaten des Projekts Open Source Insights von Google, das Dependencies für Open-Source-Pakete darstellt.",
-      "url": "https://www.heise.de/news/Software-Supply-Chain-Googles-deps-dev-API-ermittelt-Open-Source-Dependencies-8935896.html"
-    },
-    {
-      "title": "Patchday: Kritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
-      "teaser": "Wer Anwendungen von Adobe nutzt, sollte diese aus Sicherheitsgründen auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
