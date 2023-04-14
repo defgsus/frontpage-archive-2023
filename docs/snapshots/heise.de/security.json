@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-14T07:10:44",
+  "timestamp": "2023-04-14T08:14:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Juniper",
+      "url": "https://www.heise.de/news/Juniper-Zahlreiche-Sicherheits-Updates-fuer-teils-kritische-Luecken-8951334.html"
+    },
+    {
       "title": "Wireshark",
       "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/BSI-warnt-vor-kritischen-Zero-Day-Luecken-im-NTP-Server-8948528.html"
     },
     {
-      "title": "BIOS-Lücken Lenovo-Laptops",
-      "url": "https://www.heise.de/news/Warten-auf-Sicherheitspatches-BIOS-Luecken-gefaehrden-Lenovo-Laptops-8948481.html"
+      "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+      "teaser": "Durch die Analyse aktueller Angriffstechniken die Anfälligkeit der eigenen IT und die Effektivität von Schutzmaßnahmen besser bewerten lernen. Rabatt bis 7.5.",
+      "url": "https://www.heise.de/news/iX-Workshop-Cybersicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-8947927.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
+    },
+    {
+      "title": "Netzwerkausrüster Juniper verteilt viele Sicherheits-Aktualisierungen",
+      "teaser": "In diversen Produkten des Netzwerkausrüsters Juniper klaffen Sicherheitslücken, die der Hersteller mit Updates schließt. Sie sollten zügig installiert werden.",
+      "url": "https://www.heise.de/news/Juniper-Zahlreiche-Sicherheits-Updates-fuer-teils-kritische-Luecken-8951334.html",
+      "image_title": "Young,It,Engeneer,Business,Man,With,Thin,Modern,Aluminium,Laptop"
     },
     {
       "title": "Nach Pentagon-Leck: FBI nimmt 21-jährigen Militärangehörigen fest",
@@ -142,16 +154,6 @@
       "title": "Patchday: Kritische Schadcode-Lücken in Adobe-Anwendungen geschlossen",
       "teaser": "Wer Anwendungen von Adobe nutzt, sollte diese aus Sicherheitsgründen auf den aktuellen Stand bringen.",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-in-Adobe-Anwendungen-geschlossen-8935948.html"
-    },
-    {
-      "title": "Patchday: Fortinet schließt kritische und hochriskante Lücken",
-      "teaser": "Am April-Patchday liefert Fortinet für zahlreiche Produkte Sicherheitsupdates aus. Eine der damit geschlossenen Lücken stuft der Hersteller als kritisch ein.",
-      "url": "https://www.heise.de/news/Patchday-Fortinet-schliesst-kritische-und-hochriskante-Luecken-8939457.html"
-    },
-    {
-      "title": "Firefox 112: Funktionsverbesserungen – und 22 Schwachstellen weniger",
-      "teaser": "In Firefox 112 dichten die Entwickler 22 Sicherheitslücken ab. Es gibt aber auch Funktionsverbesserungen. Firefox ESR und Thunderbird kommen auf Stand 102.10.",
-      "url": "https://www.heise.de/news/Firefox-112-Funktionsverbesserungen-und-22-Schwachstellen-weniger-8935930.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
