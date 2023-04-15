@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-15T05:10:26",
+  "timestamp": "2023-04-15T06:13:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Notfall-Update-Google-patcht-Zero-Day-Luecke-8964465.html"
+    },
+    {
       "title": "QueueJumper-Lücke Windows",
       "url": "https://www.heise.de/news/Jetzt-patchen-QueueJumper-Luecke-gefaehrdet-hunderttausende-Windows-Systeme-8961420.html"
     },
@@ -44,14 +48,15 @@
       "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
     },
     {
-      "title": "Jenkins Plugins",
-      "url": "https://www.heise.de/news/Softwareentwicklung-Jenkins-Plug-ins-verwundbar-viele-Updates-stehen-noch-aus-8949204.html"
-    },
-    {
       "title": "Raidforums: Niederländische Polizei warnt und beobachtet ehemalige Nutzer",
       "teaser": "Die niederländische Polizei kontaktiert ehemalige Mitglieder des Daten-Hehlerforums \"Raidforums\" und fordert sie auf, illegal geladene Daten zu löschen.",
       "url": "https://www.heise.de/news/Raidforums-Niederlaendische-Polizei-warnt-und-beobachtet-ehemalige-Nutzer-8963421.html",
       "image_title": "Raidforums"
+    },
+    {
+      "title": "VoIP-Software von 3CX: Erste Analyse-Ergebnisse",
+      "teaser": "3CX hat erste Ergebnisse der IT-Sicherheitsspezialisten von Mandiant bezüglich des Einbruchs und Lieferkettenangriffs auf die VoIP-Software herausgegeben.",
+      "url": "https://www.heise.de/news/3CX-Erste-Analyse-Ergebnisse-nach-dem-Einbruch-8962595.html"
     },
     {
       "title": "Western Digital: Dienste wieder verfügbar, Erpresser fordern jetzt Lösegeld",
@@ -151,11 +156,6 @@
       "teaser": "Unbekannte Angreifer haben die Datenbank des Kodi-Forums inklusive Passwörter kopiert. Mittlerweile werden die Daten zum Verkauf angeboten.",
       "url": "https://www.heise.de/news/Forum-der-Media-Center-Software-Kodi-nach-Hack-offline-8948515.html",
       "image_title": "Iranische Hacker sollen Dutzende deutsche Universitäten ausspioniert haben"
-    },
-    {
-      "title": "Microsoft: Windows Subsystem für Android bringt Bild-in-Bild und neuen Kernel",
-      "teaser": "Das Windows Subsystem für Android hat neben Sicherheitsupdates aus Android 13 etwa Unterstützung für den Bild-in-Bild-Modus erhalten. Auch der Kernel ist neu.",
-      "url": "https://www.heise.de/news/Microsoft-Update-von-Windows-Subsystem-fuer-Android-ergaenzt-Bild-in-Bild-Modus-8948185.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
