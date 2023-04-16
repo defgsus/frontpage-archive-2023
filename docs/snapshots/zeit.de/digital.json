@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-15T23:10:53",
+  "timestamp": "2023-04-16T01:00:47",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Digitalisierung: Volker Wissing fordert rasche Regulierung von Künstlicher Intelligenz",
+      "teaser": "Der Digitalminister plädiert dafür, dass die EU gemeinsame Regeln für KI-Anwendungen aufstellt. Ein ChatGPT-Verbot wie in Italien sei \"der völlig falsche Weg\".",
+      "url": "https://www.zeit.de/digital/2023-04/digitalisierung-volker-wissing-regulierung-kuenstliche-intelligenz",
+      "image_url": "https://img.zeit.de/digital/2023-04/kuenstliche-intelligenz/cinema__980x420"
+    },
+    {
       "title": "Strafverfolgung: Bundeskriminalamt verfolgte Tausende Fälle von Hass im Internet",
       "teaser": "Bis Ende März haben die Ermittler knapp 7.500 Fälle geprüft. Drei Viertel der gemeldeten Inhalte leiteten sie zur weiteren Strafverfolgung in die Bundesländer weiter.",
       "url": "https://www.zeit.de/digital/internet/2023-04/internet-hass-hetze-bundeskriminalamt-ermittlungen",
-      "image_url": "https://img.zeit.de/digital/internet/2023-04/internet-hass-hetze-bundeskriminalamt-ermittlungen-foto/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/internet/2023-04/internet-hass-hetze-bundeskriminalamt-ermittlungen-foto/wide__822x462",
+      "image_title": "Strafverfolgung: Bundeskriminalamt verfolgte Tausende Fälle von Hass im Internet"
     },
     {
       "title": "Twitter : Abokunden können bei Twitter 10.000 Zeichen lange Tweets schreiben",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/2023-04/twitter-twitterblue-elon-musk-abonnement",
       "image_url": "https://img.zeit.de/digital/2023-04/twitter-twitterblue-elon-musk-abonnement-bild/wide__822x462",
       "image_title": "Twitter : Abokunden können bei Twitter 10.000 Zeichen lange Tweets schreiben"
-    },
-    {
-      "title": "Risiken von KI: Mehr als die Hälfte der Deutschen hat Angst vor KI",
-      "teaser": "Überwachung, Desinformation, allgemeine Bedrohung: Viele Menschen befürchten Schlimmes durch künstliche Intelligenz. Auf den Staat vertrauen dabei nur wenige.",
-      "url": "https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira",
-      "image_url": "https://img.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-bild/wide__822x462",
-      "image_title": "Risiken von KI: Mehr als die Hälfte der Deutschen hat Angst vor KI"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Das kann GPT-4",
@@ -162,6 +162,13 @@
       "url": "https://www.zeit.de/digital/internet/2023-04/soziale-medien-justizministerium-hass-internet"
     },
     {
+      "title": "Risiken von KI: Mehr als die Hälfte der Deutschen hat Angst vor KI",
+      "teaser": "Überwachung, Desinformation, allgemeine Bedrohung: Viele Menschen befürchten Schlimmes durch künstliche Intelligenz. Auf den Staat vertrauen dabei nur wenige.",
+      "url": "https://www.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-kira",
+      "image_url": "https://img.zeit.de/digital/2023-04/ki-risiken-angst-umfrage-forschung-bild/wide__822x462",
+      "image_title": "Risiken von KI: Mehr als die Hälfte der Deutschen hat Angst vor KI"
+    },
+    {
       "title": "EU-Kommission: EU-Vorschlag zur Chatkontrolle ist Studie zufolge unwirksam",
       "teaser": "Mit ihrer Gesetzesinitiative will die EU-Kommission Kinder schützen. Einer Studie zufolge sind die Maßnahmen aber unzureichend und verletzen auch Grundrechte.",
       "url": "https://www.zeit.de/digital/2023-04/eu-kommission-studie-kindesmissbrauch",
@@ -174,13 +181,6 @@
       "url": "https://www.zeit.de/digital/2023-04/computer-internet-spiele-game-corona",
       "image_url": "https://img.zeit.de/digital/2023-04/computer-internet-spiele-game-corona-bild/wide__822x462",
       "image_title": "Games: Deutscher Computerspielmarkt 2022 stabil geblieben"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Yoshua Bengio : Nun fürchten sich sogar die Erfinder",
-      "teaser": "Der Informatiker Yoshua Bengio ist einer der Pioniere des maschinellen Lernens. Nun fordert er, die Entwicklung künstlicher Intelligenz zu pausieren. Wovor hat er Angst?",
-      "url": "https://www.zeit.de/2023/16/kuenstliche-intelligenz-entwicklung-offener-brief-regulierung-yoshua-bengio",
-      "image_url": "https://img.zeit.de/2023/16/ki-gefahren-informatiker-teaserbild/wide__822x462",
-      "image_title": "Yoshua Bengio : Nun fürchten sich sogar die Erfinder"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Handysucht: Nein, Sie sind (sehr wahrscheinlich) nicht smartphonesüchtig",
@@ -211,6 +211,13 @@
       "image_title": "TikTok: App-Angst"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Yoshua Bengio : Nun fürchten sich sogar die Erfinder",
+      "teaser": "Der Informatiker Yoshua Bengio ist einer der Pioniere des maschinellen Lernens. Nun fordert er, die Entwicklung künstlicher Intelligenz zu pausieren. Wovor hat er Angst?",
+      "url": "https://www.zeit.de/2023/16/kuenstliche-intelligenz-entwicklung-offener-brief-regulierung-yoshua-bengio",
+      "image_url": "https://img.zeit.de/2023/16/ki-gefahren-informatiker-teaserbild/wide__822x462",
+      "image_title": "Yoshua Bengio : Nun fürchten sich sogar die Erfinder"
+    },
+    {
       "title": "Elon Musk: Twitter-Belegschaft auf 1.500 Angestellte geschrumpft",
       "teaser": "Seit der Übernahme von Twitter hat Elon Musk viele Mitarbeiterinnen und Mitarbeiter entlassen. Weniger als ein Fünftel der Angestellten konnte den Job behalten.",
       "url": "https://www.zeit.de/digital/2023-04/twitter-elon-musk-kuendigung-mitarbeiter-8000-1500",
@@ -225,13 +232,6 @@
       "image_title": "Soziale Medien: Bundesjustizministerium plant Accountsperren bei digitalem Hass"
     },
     {
-      "title": "Z+ (registrierungspflichtiger Inhalt); NFT: Dieser Unternehmer bringt den Karneval ins Metaverse",
-      "teaser": "Vampir, Bär, Prinzessin: Normalerweise verkauft Deiters Karnevalskostüme. Doch seit Kurzem bietet das Unternehmen auch rein digitale NFT an – und das Geschäft läuft gut.",
-      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2023/01/nfts-metaversum-herbert-geiss-deiters-karneval",
-      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2023/01/echte-fruende-bild-1/wide__822x462",
-      "image_title": "NFT: Dieser Unternehmer bringt den Karneval ins Metaverse"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -239,11 +239,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Elon Musk: Ehemalige Manager von Twitter verklagen früheren Arbeitgeber",
-      "teaser": "Bei der Übernahme des Twitter-Konzerns hat Elon Musk die Chefetage entlassen. Nun klagen die früheren Manager Rechtskosten ein, die ihnen bei Twitter entstanden sind.",
-      "url": "https://www.zeit.de/digital/2023-04/twitter-elon-musk-klage-fruehere-manager-parag-agrawal",
-      "image_url": "https://img.zeit.de/digital/2023-04/twitter-elon-musk-klage-fruehere-manager-parag-agrawal-bild/wide__822x462",
-      "image_title": "Elon Musk: Ehemalige Manager von Twitter verklagen früheren Arbeitgeber"
+      "title": "Z+ (registrierungspflichtiger Inhalt); NFT: Dieser Unternehmer bringt den Karneval ins Metaverse",
+      "teaser": "Vampir, Bär, Prinzessin: Normalerweise verkauft Deiters Karnevalskostüme. Doch seit Kurzem bietet das Unternehmen auch rein digitale NFT an – und das Geschäft läuft gut.",
+      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2023/01/nfts-metaversum-herbert-geiss-deiters-karneval",
+      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2023/01/echte-fruende-bild-1/wide__822x462",
+      "image_title": "NFT: Dieser Unternehmer bringt den Karneval ins Metaverse"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
