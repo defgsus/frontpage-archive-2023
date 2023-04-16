@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-16T08:13:01",
+  "timestamp": "2023-04-16T09:10:23",
   "url": "https://www.bild.de/politik/startseite/politik/politik-16804552.bild.html",
   "response": {
     "status": 200
@@ -74,16 +74,20 @@
   ],
   "articles": [
     {
+      "title": "Durchbruch im Tarifstreit : Pistorius bekommt ein Milliarden-Problem",
+      "url": "https://www.bild.de/politik/inland/politik-inland/tarifstreit-pistorius-bekommt-jetzt-ein-milliarden-problem-83572586.bild.html",
+      "image_url": "https://images.bild.de/643b9aebd4112a201eb4b928/ba68a88d9be877ce208c89ee940db3f7,d6c4005a?w=656",
+      "image_title": "Tarifstreit: Pistorius bekommt jetzt ein Milliarden-Problem"
+    },
+    {
       "title": "Bis zu 60 000 Euro : Italiener planen Knallhart-Strafen für Klima-Kleber",
       "url": "https://www.bild.de/politik/ausland/politik-ausland/italiener-planen-knallhart-strafen-fuer-klima-aktivisten-bis-zu-60000-euro-83572404.bild.html",
       "image_url": "https://images.bild.de/643aa03773a2965df43132fb/aff0688859f40003fa315a2c78f8977b,7f0f914d?w=320",
       "image_title": "Italiener planen Knallhart-Strafen für Klima-Aktivisten: Bis zu 60 000 Euro!"
     },
     {
-      "title": "Trotz Atom-Aus : Söder plant AKW-Alleingang",
-      "url": "https://www.bild.de/politik/inland/politik/trotz-atom-aus-soeder-plant-akw-alleingang-83568140.bild.html",
-      "image_url": "https://images.bild.de/643abdc673a2965df431332d/3aaf94a0ec37709b5808d24fe23af69a,7222d1cd?w=320",
-      "image_title": "Trotz Atom-Aus: Söder plant AKW-Alleingang"
+      "title": "Trotz Atom-Aus Söder plant AKW-Alleingang",
+      "url": "https://www.bild.de/politik/inland/politik/trotz-atom-aus-soeder-plant-akw-alleingang-83568140.bild.html"
     },
     {
       "title": "Bundeswehr-Flieger statt Bahnfahrt 230-Kilometer-Flug für mehr als 30 Politiker!",
@@ -92,10 +96,6 @@
     {
       "title": "China probt schon den Krieg Pentagon-Leaks enthüllen Taiwans Schwachstelle",
       "url": "https://www.bild.de/politik/ausland/politik-ausland/china-probt-schon-den-krieg-pentagon-leaks-enthuellen-taiwans-schwachstelle-83571546.bild.html"
-    },
-    {
-      "title": "30 Minuten nach seiner Rettung starb er Putins Raketen töten Jungen (2)",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/krieg-in-der-ukraine-wladimir-putins-raketen-toeten-jungen-2-83571780.bild.html"
     },
     {
       "title": "BILD an der griechisch-türkischen Grenze : Über diese Mauer spricht ganz Europa!",
@@ -142,7 +142,13 @@
       "image_title": "Atom-Aus: Hier lacht Deutschlands größter AKW-Gegner über die Abschaltungen"
     },
     {
+      "title": "30 Minuten nach seiner Rettung starb er : Putins Raketen töten Jungen (2)",
+      "url": "https://www.bild.de/politik/ausland/politik-ausland/krieg-in-der-ukraine-wladimir-putins-raketen-toeten-jungen-2-83571780.bild.html",
+      "image_title": "Krieg in der Ukraine: Wladimir Putins Raketen töten Jungen (2)"
+    },
+    {
       "title": "Heftige Kämpfe in der Hauptstadt : Putsch-Versuch im Sudan",
+      "teaser": "In Sudans Hauptstadt Khartum kommt es zu Kämpfen zwischen der Armee und der RSF.",
       "url": "https://www.bild.de/politik/ausland/politik-ausland/sudan-heftige-kaempfe-und-putschversuch-in-der-hauptstadt-khartum-83566682.bild.html",
       "image_title": "Sudan: Heftige Kämpfe und Putschversuch in der Hauptstadt Khartum"
     },
@@ -171,15 +177,15 @@
       "image_title": "Nach Baerbock-Klartext: Ampel-Zoff um unseren China-Kurs"
     },
     {
-      "title": "Schlag gegen chinesische App : Erstes US-Parlament beschließt Tiktok-Verbot",
-      "teaser": "Im Januar kommenden Jahres könnte die chinesische App verboten sein.",
-      "url": "https://www.bild.de/politik/ausland/politik-ausland/tiktok-erstes-us-parlament-beschliesst-verbot-der-chinesischen-app-83564426.bild.html",
-      "image_title": "Tiktok: Erstes US-Parlament beschließt Verbot der chinesischen App"
+      "title": "Wenn das Geld für gesunde Ernährung fehlt : Inflation kann krank machen",
+      "url": "https://www.bild.de/geld/wirtschaft/politik-inland/wenn-das-geld-fuer-gesunde-ernaehrung-fehlt-inflation-kann-krank-machen-83567692.bild.html",
+      "image_title": "Wenn das Geld für gesunde Ernährung fehlt: Inflation kann krank machen"
     },
     {
-      "title": "Mehrheit findet : Technik hat Leben komplizierter gemacht",
+      "title": "Mehrheit findet : Technik hat das Leben komplizierter gemacht",
+      "teaser": "Die Deutschen sind keine Digital-Muffel. Trotzdem ist ihr Leben komplizierter geworden.",
       "url": "https://www.bild.de/geld/wirtschaft/politik/mehrheit-findet-technik-hat-das-leben-komplizierter-gemacht-83568290.bild.html",
-      "image_title": "Mehrheit findet: Technik hat Leben komplizierter gemacht"
+      "image_title": "Mehrheit findet: Technik hat das Leben komplizierter gemacht"
     },
     {
       "title": "Rezession „äußerst wahrscheinlich“ : Horror-Kurve kündigt neue Wirtschaftskrise an",
@@ -198,12 +204,6 @@
       "teaser": "Zwei Abstürze mit 346 Toten – das ist die Bilanz der 737 Max. Nun gibt‘s neue Probleme.",
       "url": "https://www.bild.de/geld/wirtschaft/politik-ausland/fertigungsmaengel-neue-probleme-bei-ungluecksflieger-boeing-737-max-83551166.bild.html",
       "image_title": "Fertigungsmängel: Neue Probleme bei Unglücksflieger Boeing 737 Max"
-    },
-    {
-      "title": "Top-Profiteure der KI-Revolution : Diese 10 Aktien treiben den nächsten Börsen-Boom",
-      "teaser": "Künstliche Intelligenz (KI) wird alles revolutionieren. Verpassen Sie den Trend nicht!",
-      "url": "https://www.bild.de/bild-plus/geld/wirtschaft/politik-inland/top-profiteure-der-ki-revolution-diese-10-aktien-treiben-den-naechsten-boersen-b-83346620.bild.html",
-      "image_title": "Top-Profiteure der KI-Revolution: Diese 10 Aktien treiben den nächsten Börsen-Boom"
     },
     {
       "title": "Neues Chaos! : Das miese Spiel mit unseren Gas-Heizungen",
