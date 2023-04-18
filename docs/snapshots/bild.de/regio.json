@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-18T00:56:40",
+  "timestamp": "2023-04-18T02:01:57",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
@@ -74,6 +74,11 @@
   ],
   "articles": [
     {
+      "title": "Staatsanwalt über Sicht des Angeklagten : „Tabitha hatte ihr Lebensrecht verwirkt“",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/17-jaehrige-in-ludwigsburg-erwuergt-tabithas-ex-schweigt-im-mordprozess-83590294.bild.html",
+      "image_title": "17-Jährige in Ludwigsburg erwürgt: Tabithas Ex schweigt im Mordprozess"
+    },
+    {
       "title": "Vermutlich war es Mord : Leiche in Berliner Bordell gefunden",
       "url": "https://www.bild.de/regional/berlin/berlin-aktuell/mordkommission-ermittelt-leiche-in-berliner-bordell-gefunden-83594462.bild.html",
       "image_title": "Vermutlich war es Mord: Leiche in Berliner Bordell gefunden"
@@ -82,11 +87,6 @@
       "title": "Skandal um toten Geistlichen : Missbrauchspfarrer küsste junge Frauen und Schüler",
       "url": "https://www.bild.de/regional/saarland/saarland-news/skandal-um-toten-geistlichen-missbrauchspfarrer-kuesste-junge-frauen-und-schuele-83587098.bild.html",
       "image_title": "Friedrichsthal – Skandal um toten Geistlichen: Missbrauchspfarrer küsste junge Frauen und Schüler"
-    },
-    {
-      "title": "Nach tödlicher Jogger-Attacke : Braunbär-Spuren in Deutschland entdeckt!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-toedlicher-jogger-attacke-braunbaer-spuren-in-bayern-entdeckt-83593526.bild.html",
-      "image_title": "Nach tödlicher Jogger-Attacke: Braunbär-Spuren in Deutschland entdeckt!"
     },
     {
       "title": "Wer kennt sie? : Berliner Polizei sucht diese vier Frauen!",
@@ -276,7 +276,13 @@
       "image_title": "Immer wieder Scherff: Der Hansa-Pechvogel"
     },
     {
-      "title": "BILD bei der Disney-Schau in der Kleinen Olympiahalle : Volles Haus für Mickey Maus",
+      "title": "Nach tödlicher Jogger-Attacke : Braunbär-Spuren in Deutschland entdeckt!",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nach-toedlicher-jogger-attacke-braunbaer-spuren-in-bayern-entdeckt-83593526.bild.html",
+      "image_title": "Nach tödlicher Jogger-Attacke: Braunbär-Spuren in Deutschland entdeckt!"
+    },
+    {
+      "title": "BILD bei der Disney-Schau in der Oly-Halle : Volles Haus für Mickey Maus",
+      "teaser": "Micky feiert, Goofy winkt und ein Klonkrieger hält Wache. „Disney“ feiert 100. Geburtstag, zeigt eine Mega-Ausstellung.",
       "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bild-bei-der-disney-schau-in-der-kleinen-oly-halle-volles-haus-fuer-mickey-maus-83594022.bild.html",
       "image_title": "BILD bei der Disney-Schau in der Kleinen Oly-Halle: Volles Haus für Mickey Maus"
     },
@@ -287,13 +293,13 @@
       "image_title": "Söder will Abschuss erleichtern: Bayern nimmt den Wolf ins Visier"
     },
     {
-      "title": "Überfall auf Geldtransporter : Maskenmänner mit Millionenbeute?",
-      "teaser": "Nach einem Überfall auf einen Geldtransporter in der Oberpfalz sucht die Polizei mit einem Großaufgebot nach zwei maskierten Tätern.",
+      "title": "Überfall auf Geldtransporter vor Supermarkt : Maskenmänner mit Millionenbeute?",
       "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/ueberfall-auf-geldtransporter-maskenmaenner-mit-millionenbeute-83593562.bild.html",
       "image_title": "Überfall auf Geldtransporter: Maskenmänner mit Millionenbeute?"
     },
     {
-      "title": "Premiere in Rosenheim : Michael Link macht jetzt Theater",
+      "title": "Musical-Premiere : Michael Link macht jetzt Theater",
+      "teaser": "Der Musikmanager steht beim TAM Ost auf der Bühne",
       "url": "https://www.bild.de/regional/muenchen/muenchen-leute/premiere-in-rosenheim-michael-link-macht-jetzt-theater-83591272.bild.html",
       "image_title": "Premiere in Rosenheim: Michael Link macht jetzt Theater"
     },
@@ -302,12 +308,6 @@
       "teaser": "Pfingsten 2009 verlor Bernd Gans seine Tochter Ines bei einem Flugzeugabsturz.",
       "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/vater-schockiert-ines-starb-bei-absturz-freispruch-fuer-air-france-83588240.bild.html",
       "image_title": "Vater schockiert: Ines starb bei Absturz – Freispruch für Air France"
-    },
-    {
-      "title": "Sieben Verletzte in Bayern : US-Militärfahrzeuge legen Crash hin",
-      "teaser": "Zu einem Unfall von Fahrzeugen der U.S. Army ist es am Montag auf einer bayerischen Autobahn gekommen.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/sieben-verletzte-in-bayern-us-militaerfahrzeuge-legen-massen-crash-hin-83586616.bild.html",
-      "image_title": "Sieben Verletzte in Bayern: US-Militärfahrzeuge legen Massen-Crash hin"
     },
     {
       "title": "Neuer Rettungs-Plan : Darum setzt Reis auf die Aufstiegs-Helden",
@@ -361,13 +361,7 @@
       "image_title": "Corona-Impfschaden: Frau nach Impfung im Rollstuhl – 1. Fall vor Gericht"
     },
     {
-      "title": "Staatsanwalt sicher : Tabitha musste wegen Trennung sterben",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/17-jaehrige-in-ludwigsburg-erwuergt-tabithas-ex-schweigt-im-mordprozess-83590294.bild.html",
-      "image_title": "17-Jährige in Ludwigsburg erwürgt: Tabithas Ex schweigt im Mordprozess"
-    },
-    {
-      "title": "Ausgerechneter! : Penis-Polizist war für gutes Benehmen zuständig!",
-      "teaser": "Andreas Renner sollte Kollegen die richtigen Werte vermitteln. Nun kommt er vor Gericht.",
+      "title": "Ausgerechnet er! : Penis-Polizist sollte Kollegen Werte vermitteln",
       "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/sex-skandal-in-der-polizei-andreas-renner-war-fuer-gute-sitten-zustaendig-83589552.bild.html",
       "image_title": "Sex-Skandal in der Polizei: Andreas Renner war für gute Sitten zuständig"
     },
@@ -376,6 +370,12 @@
       "teaser": "Schwerer Verkehrsunfall auf der Schlierbacher Landstraße am Montagabend gegen 18.30 Uhr.",
       "url": "https://www.bild.de/regional/stuttgart/muenchen-regional-politik-und-wirtschaft/schwerer-unfall-in-heidelberg-klein-laster-rammt-radler-mit-kind-83594210.bild.html",
       "image_title": "Schwerer Unfall in Heidelberg: Klein-Laster rammt Radler mit Kind"
+    },
+    {
+      "title": "Mini-Fässer, mehr Rad-Stellplätze und neue Gondeln : So schön wird es auf dem Wasen",
+      "teaser": "Der Duft von gebrannten Mandeln und Zuckerwatte fegt wieder über den Wasen.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/das-ist-neu-auf-dem-wasen-mini-faesser-mehr-rad-stellplaetze-und-neue-gondeln-83590982.bild.html",
+      "image_title": "Das ist neu auf dem Wasen: Mini-Fässer, mehr Rad-Stellplätze und neue Gondeln"
     },
     {
       "title": "FC Rot-Weiß Erfurt happy : Endlich trifft Seidemann wieder",
