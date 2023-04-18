@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-18T08:15:01",
+  "timestamp": "2023-04-18T09:11:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Trend Micro Security",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Trend-Micro-Security-als-Schadcode-Schlupfloch-8969449.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Notfall-Update-Google-patcht-Zero-Day-Luecke-8964465.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Juniper-Zahlreiche-Sicherheits-Updates-fuer-teils-kritische-Luecken-8951334.html"
     },
     {
-      "title": "Wireshark",
-      "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
+      "title": "Sicherheitsupdates: Trend Micro Security als Schadcode-Schlupfloch",
+      "teaser": "Es gibt ein wichtiges Update für die Anti-Viren-Anwendung Trend Micro Security für Windows.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Trend-Micro-Security-als-Schadcode-Schlupfloch-8969449.html"
     },
     {
       "title": "Verbraucherzentralen: Vorsicht bei (zu guten) Online-Festgeld-Angeboten",
@@ -148,11 +153,6 @@
       "teaser": "Entwarnung: Nach der BSI-Warnung vor einer kritischen Lücke in NTP kommen IT-Experten bei der Analyse auf eine geringere Bedrohung. NTP will Patches liefern.",
       "url": "https://www.heise.de/news/NTP-Schwachstelle-Offenbar-weniger-bedrohlich-als-zunaechst-vermutet-8949340.html",
       "image_title": "Time,Glitch,Concept.,Hypnotising,Watch,On,A,Chain,Swinging,Above"
-    },
-    {
-      "title": "Sicherheitsupdates: Netzwerkanalysetool Wireshark anfällig für DoS-Attacken",
-      "teaser": "Die Wireshark-Entwickler haben zwei neue Versionen des Tools veröffentlicht. Darin haben sie unter anderem drei Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Netzwerkanalysetool-Angreifer-koennten-Wireshark-crashen-lassen-8949661.html"
     },
     {
       "title": "Log4Shell: Open Source als Gefahr für die Software-Lieferkette",
