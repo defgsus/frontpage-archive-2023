@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-18T15:13:52",
+  "timestamp": "2023-04-18T16:13:14",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,6 +78,12 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -122,18 +128,25 @@
   ],
   "articles": [
     {
-      "title": "Klimaschutz im Blindflug",
-      "teaser": "Die Koalition gibt Milliarden für den Klimaschutz aus. Doch wie wirksam die Maßnahmen sind, weiß sie nicht so genau. Jetzt meldet sich der Bundesrechnungshof.",
-      "url": "https://www.sueddeutsche.de/politik/klimaschutz-bundesrechnungshof-klimahaushalt-1.5806803",
-      "author": "Michael Bauchmüller",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5285771/1000x420"
+      "title": "Der Ton wird rauer",
+      "teaser": "Schneller als erwartet eskaliert die Rhetorik zwischen dem Westen und Peking. Auf dem Spielplan steht: die Mutter aller ideologischen Schlachten.",
+      "url": "https://www.sueddeutsche.de/meinung/g7-china-japan-internationale-beziehungen-kommentar-1.5807066",
+      "author": "Kommentar von Stefan Kornelius",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5807067/1000x420"
     },
     {
       "title": "\"Dort drüben habe ich auch einen versteckelt\"",
-      "teaser": "Der frühere Freiburger Erzbischof und ehemalige Vorsitzende der Bischofskonferenz, Robert Zollitsch, soll sexuellen Missbrauch vertuscht haben, so eine neue Studie. Sein Nachfolger hat ihn nun in Rom angezeigt.",
+      "teaser": "Der frühere Freiburger Erzbischof und ehemalige Vorsitzende der Bischofskonferenz, Robert Zollitsch, soll laut einem Prüfungsbericht sexuellen Missbrauch vertuscht haben. Sein Nachfolger hat ihn nun in Rom angezeigt.",
       "url": "https://www.sueddeutsche.de/politik/freiburg-zollitsch-katholische-kirche-missbrauch-1.5806749",
       "author": "Annette Zoch",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5807013/600x337"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.1908178/600x337"
+    },
+    {
+      "title": "Die Realitäten des Professor Meyen",
+      "teaser": "Der umstrittene Kommunikationswissenschaftler und Herausgeber einer Querdenker-Zeitung spricht bei einer Vorlesung die Entwicklungen der vergangenen Wochen an - und erzählt von einer persönliche Krise.",
+      "url": "https://www.sueddeutsche.de/muenchen/michael-meyen-lmu-muenchen-vorlesung-1.5807101",
+      "author": "Moritz Baumstieger",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5779599/208x156"
     },
     {
       "title": "Warum die USA Steuerprämien für VW und BMW streichen",
@@ -143,11 +156,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5806605/208x156"
     },
     {
-      "title": "Der Ton wird rau",
-      "teaser": "Schneller als erwartet eskaliert die Rhetorik zwischen dem Westen und Peking. Auf dem Spielplan steht: Die Mutter aller ideologischen Schlachten.",
-      "url": "https://www.sueddeutsche.de/meinung/g7-china-japan-internationale-beziehungen-kommentar-1.5807066",
-      "author": "Kommentar von Stefan Kornelius",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5807067/290x163"
+      "title": "Bern bleibt hart",
+      "teaser": "Die Schweiz werde Kiew aufgrund der Neutralitätspflicht weiter keine Rüstung liefern, sagt Präsident Berset bei seinem Besuch in Berlin. Bundeskanzler Scholz lässt Unverständnis durchblicken.",
+      "url": "https://www.sueddeutsche.de/politik/schweiz-munition-fuer-die-ukraine-1.5806794",
+      "author": "Daniel Brössler, Berlin",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5806795/208x156"
     },
     {
       "title": "Putin reist in annektierte Gebiete",
@@ -157,11 +170,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5806951/208x156"
     },
     {
-      "title": "Berner Härte",
-      "teaser": "Die Schweiz werde Kiew aufgrund der Neutralitätspflicht weiter keine Rüstung liefern, sagt Präsident Berset bei seinem Deutschlandbesuch. Bundeskanzler Scholz lässt Unverständnis durchblicken.",
-      "url": "https://www.sueddeutsche.de/politik/schweiz-munition-fuer-die-ukraine-1.5806794",
-      "author": "Daniel Brössler, Berlin",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5806795/208x156"
+      "title": "US-Journalist bleibt in Haft",
+      "teaser": "Erstmals nach seiner Festnahme steht Evan Gershkovich in Moskau vor einem Gericht. Seine Freilassung wird abgelehnt, Russlands Regierung beharrt auf ihren Spionage-Vorwürfen.",
+      "url": "https://www.sueddeutsche.de/politik/gershkovich-journalist-russland-1.5806963",
+      "author": "Silke Bigalke, Moskau",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5806964/600x337"
     },
     {
       "title": "Die rätselhafte Flucht des Artjom Uss",
@@ -171,19 +184,24 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5806430/600x337"
     },
     {
-      "title": "Wie gefährlich sind Braunbären?",
-      "teaser": "Es ist extrem selten, dass Braunbären Menschen angreifen. Doch es kommt vor, wie der Fall von Gaia zeigt, die in Italien einen Jogger getötet hat. Hätte die Tragödie verhindert werden können?",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/panorama/gaia-baeren-braunbaeren-tiere-italien-e814192/",
-      "author": "Tina Baier",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5806947/600x337",
-      "image_title": "Brown Bear Ursus arctos Admiralty Island Tongass National Forest Southeast Alaska Alaska Unit"
+      "title": "Konfliktparteien im Sudan vereinbaren Feuerpause",
+      "teaser": "Zivilisten sollen sich während der 24-stündigen Waffenruhe in Sicherheit bringen. In der Hauptstadt gehen Lebensmittel aus.",
+      "url": "https://www.sueddeutsche.de/politik/sudan-waffenstillstand-1.5807047",
+      "author": "Bernd Dörries, Kapstadt"
     },
     {
-      "title": "Die Union wagt den Befreiungsschlag",
-      "teaser": "Nach jahrelanger Lähmung macht sich die CDU auf den Weg, das Steuerrecht zu reformieren. Nur der Bundesfinanzminister hat die Zeichen der Zeit immer noch nicht erkannt.",
-      "url": "https://www.sueddeutsche.de/meinung/steuern-cdu-christian-lindner-friedrich-merz-kommentar-1.5806563",
-      "author": "Kommentar von Claus Hulverscheidt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5806885/290x163"
+      "title": "Klimaschutz im Blindflug",
+      "teaser": "Die Koalition gibt Milliarden für den Klimaschutz aus. Doch wie wirksam die Maßnahmen sind, weiß sie nicht so genau. Jetzt meldet sich der Bundesrechnungshof.",
+      "url": "https://www.sueddeutsche.de/politik/klimaschutz-bundesrechnungshof-klimahaushalt-1.5806803",
+      "author": "Michael Bauchmüller",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5285771/208x156"
+    },
+    {
+      "title": "Wölfe und Bären schrecken die Politik auf",
+      "teaser": "Ministerpräsident Söder will noch im April eine Verordnung vorlegen, wie der Abschuss von Wölfen erleichtert werden kann. Die Staatsregierung reagiert so auf wachsende Sorgen von Kommunalpolitikern und Bauern. Doch dem Vorhaben stehen hohe Hürden entgegen.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-wolf-soeder-staatsregierung-1.5807128",
+      "author": "Andreas Glas, Matthias Köpf und Christian Sebald",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5807129/208x156"
     },
     {
       "title": "Holocaust-Gedenken mit iranischem Ehrengast",
@@ -193,31 +211,11 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5806971/208x156"
     },
     {
-      "title": "Einigkeit und Stress und Freiheit",
-      "teaser": "Im BDZV hat der Streit um Ex-Verbandspräsident Mathias Döpfner offenbar einen weiteren Verlag zum Austritt bewegt.",
-      "url": "https://www.sueddeutsche.de/medien/bdzv-verlegerverband-doepfner-noz-elstermann-1.5806682",
-      "author": "Aurelie von Blazekovic",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5594654/208x156"
-    },
-    {
       "title": "Der Großmeister sieht aus wie ein Novize",
       "teaser": "Der Kenianer Eliud Kipchoge hat auf dem tückischen Kurs in Boston erst zum dritten Mal das Nachsehen auf der Langstrecke. Nur ein Ausrutscher, wie er versichert?",
       "url": "https://www.sueddeutsche.de/sport/boston-marathon-2023-eliud-kipchoge-niederlage-1.5807023",
       "author": "Johannes Knuth",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5807026/600x337"
-    },
-    {
-      "title": "Die totale Selbstdemontage verhindert",
-      "teaser": "Präsident und Ultras der SSC Neapel versöhnen sich auf einem Friedensgipfel - und Victor Osimhen ist noch rechtzeitig genesen für das Rückspiel in der Champions League gegen Milan.",
-      "url": "https://www.sueddeutsche.de/sport/champions-league-italien-neapel-milan-rueckspiel-1.5804352",
-      "author": "Oliver Meiler, Rom",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5807137/208x156"
-    },
-    {
-      "title": "\"Den Menschen ist nicht klar, wie viel wir kuscheln\"",
-      "teaser": "Paris Hilton und ihr Mann nehmen täglich ein gemeinsames Bad. Georg Gänswein tat die Vernichtung der Briefe von Benedikt XVI. weh. Und ein Fußballer namens Finne fördert Fairplay.",
-      "url": "https://www.sueddeutsche.de/panorama/promis-paris-hilton-carter-reum-georg-gaenswein-papst-benedikt-kylie-jenner-1.5806377",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5436270/208x156"
     },
     {
       "title": "Die beste Küche der Adria",
