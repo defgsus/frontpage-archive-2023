@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-18T17:08:43",
+  "timestamp": "2023-04-18T18:14:22",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Laut Bericht"
+    },
     {
       "title": "Ukrainisches Militär berichtet von schweren Kämpfen um Bachmut",
       "url": "https://www.welt.de/politik/ausland/article244862318/Ukraine-News-Ukrainisches-Militaer-berichtet-von-schweren-Kaempfen-um-Bachmut.html",
@@ -31,17 +36,20 @@
     {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
-      "topic": "Kreml-Chef"
-    },
-    {
-      "title": "Deutschland",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "topic": "Migrationspolitik"
+      "topic": "„Mechanismen“ vereinbart"
     },
     {
       "title": "Panorama",
       "url": "https://www.welt.de/vermischtes/",
       "topic": "Sachsen-Anhalt"
+    },
+    {
+      "title": "Deffner und Zschäpitz",
+      "url": "https://www.welt.de/podcasts/deffner-und-zschaepitz/",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Dietmar Deffner und Holger Zschäpitz geben jede Woche Übersicht über das Börsengeschehen",
+      "topic": "Podcast",
+      "author": "Holger Zschäpitz"
     },
     {
       "title": "Kick-off",
@@ -60,16 +68,8 @@
       "author": "Klaus Boldt"
     },
     {
-      "title": "Aha!",
-      "url": "https://www.welt.de/podcasts/aha-zehn-minuten-alltags-wissen/",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "image_title": "Wissenschafts-Redakteurin Elisabeth Krafft",
-      "topic": "Zehn Minuten Alltagswissen",
-      "author": "Elisabeth Krafft"
-    },
-    {
-      "title": "Jetzt live im Fernsehen",
-      "url": "https://www.welt.de/mediathek/video240048663/Das-WELT-TV-Programm-im-Livestream.html",
+      "title": "Aktuelle Nachrichten",
+      "url": "https://www.welt.de/politik/ausland/video244879382/WELT-Aktuelle-Nachrichten.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
     },
     {
@@ -77,6 +77,13 @@
       "url": "https://www.welt.de/politik/deutschland/video244876312/Jens-Spahn-bei-WELT-Vorgaenge-die-frueher-ein-Skandal-waren-sind-hier-Alltag.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Jens Spahn im WELT-Interview"
+    },
+    {
+      "title": "„Reihenweise absurde und irreführende Äußerungen der Innenministerin“",
+      "url": "https://www.welt.de/politik/deutschland/video244872916/Bayerns-Innenminister-bei-WELT-Absurde-und-irrefuehrende-Aeusserungen-der-Innenministerin.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "image_title": "Joachim Herrmann",
+      "topic": "Bayerns Innenminister bei WELT"
     },
     {
       "title": "„Eigentlich ist das hier eine Erdogan-Hochburg. Die Stimmung hat sich gedreht“",
