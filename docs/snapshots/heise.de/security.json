@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-19T10:12:25",
+  "timestamp": "2023-04-19T11:09:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.6cb8218a3e62c2f6805e",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.d021b9746a4f0a72193d",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Dell-Laptops",
+      "url": "https://www.heise.de/news/Verspaetete-BIOS-Updates-Dell-sichert-Laptops-gegen-moegliche-Attacken-ab-8971821.html"
+    },
     {
       "title": "Oracle",
       "url": "https://www.heise.de/news/Critical-Patch-Update-Oracle-kuemmert-sich-um-433-Sicherheitsluecken-8971485.html"
@@ -44,18 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Trend-Micro-Security-als-Schadcode-Schlupfloch-8969449.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Notfall-Update-Google-patcht-Zero-Day-Luecke-8964465.html"
-    },
-    {
-      "title": "Critical Patch Update: Oracle kümmert sich um 433 Sicherheitslücken",
-      "teaser": "Der Softwarehersteller Oracle hat für seine Anwendungen zahlreiche Sicherheitsupdates veröffentlicht. Einige Lücken gelten als kritisch.",
-      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracle-kuemmert-sich-um-433-Sicherheitsluecken-8971485.html"
-    },
-    {
-      "title": "Zero-Day-Lücke: Google schließt weitere ausgenutzte Sicherheitlücke in Chrome",
-      "teaser": "Im Webbrowser Chrome greifen Cyberkriminelle eine neue Zero-Day-Lücke in freier Wildbahn an. Google verteilt Software-Updates, um die Lücke zu schließen.",
-      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-neue-Zero-Day-Luecke-in-Chrome-8971427.html"
+      "title": "Verspätete BIOS-Updates: Dell sichert Laptops gegen mögliche Attacken ab",
+      "teaser": "BIOS-Updates für unter anderem Dell-Modelle der Alienware- und Inspiron-Serien schließen zwei Sicherheitslücken.",
+      "url": "https://www.heise.de/news/Verspaetete-BIOS-Updates-Dell-sichert-Laptops-gegen-moegliche-Attacken-ab-8971821.html"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory effizient absichern",
@@ -92,6 +87,11 @@
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
+      "title": "Unterwanderte Webseiten verteilen Malware mit gefälschten Chrome-Fehlermeldungen",
+      "teaser": "IT-Forscher haben eine Malware-Kampagne entdeckt, bei der Schadsoftware von Webseiten verteilt wird, die als Google-Chrome-Fehlermeldung aufgemacht sind.",
+      "url": "https://www.heise.de/news/Malware-Monero-Miner-mit-gefaelschten-Chrome-Fehlermeldungen-eingeschleust-8970142.html"
+    },
+    {
       "title": "Sicherheitsupdates: Trend Micro Security macht Windows-PCs verwundbar",
       "teaser": "Es gibt ein wichtiges Update für die Anti-Viren-Anwendung Trend Micro Security für Windows.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Trend-Micro-Security-als-Schadcode-Schlupfloch-8969449.html"
@@ -122,6 +122,11 @@
       "url": "https://www.heise.de/news/Zero-Day-Pinduoduo-konnte-Daten-stehlen-und-Malware-installieren-8968204.html"
     },
     {
+      "title": "Nur noch wenige Plätze: heise Security Crashkurs zum Schutz vor Ransomware",
+      "teaser": "Das praxisorientierte Webinar erklärt in zwei halben Tagen, wie die Angreifer konkret vorgehen und wie Sie ihre Unternehmens-IT bestmöglich davor schützen.",
+      "url": "https://www.heise.de/news/Nur-noch-wenige-Plaetze-heise-Security-Crashkurs-zum-Schutz-vor-Ransomware-8965858.html"
+    },
+    {
       "title": "Juice Jacking: FBI warnt ohne Anlass vor öffentlichen USB-Ladestationen",
       "teaser": "Angreifer könnten USB-Ladestationen an Flughäfen & Co. kompromittieren, um so Malware auf Smartphones zu schieben. Das ist jedoch nicht wirklich aktuell.",
       "url": "https://www.heise.de/news/FBI-warnt-vor-Juice-Jacking-Attacken-an-oeffentlichen-USB-Ladestationen-8966067.html"
@@ -146,11 +151,6 @@
       "title": "Cyberangriff auf Rüstungskonzern Rheinmetall",
       "teaser": "Der Rüstungskonzern Rheinmetall ist Opfer eines Cyberangriffs geworden. Betroffen ist das zivile Geschäft im Automotive-Sektor, nicht das militärische Geschäft.",
       "url": "https://www.heise.de/news/Rheinmetall-Ruestungskonzern-ist-Opfer-eines-Cyberangriffs-geworden-8964506.html"
-    },
-    {
-      "title": "Zero-Day-Lücke: Google aktualisiert Webbrowser Chrome außer der Reihe",
-      "teaser": "Google hat ein Notfall-Update für den Webbrowser Chrome herausgegeben. Es schließt unter anderem eine Zero-Day-Schwachstelle, die bereits angegriffen wird.",
-      "url": "https://www.heise.de/news/Notfall-Update-Google-patcht-Zero-Day-Luecke-8964465.html"
     },
     {
       "title": "2FA-Pflicht bei GitHub: Interview mit Sicherheitschef Mike Hanley",
