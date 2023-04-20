@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-20T17:10:15",
+  "timestamp": "2023-04-20T18:14:13",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Triola: Made for the U.S.A.",
+      "teaser": "So gut wie jeder im Osten kennt die Triola, nun soll sie die USA erobern. Unser Autor war dabei, als das Instrument auf der Musikmesse NAMM in Anaheim präsentiert wurde.",
+      "url": "https://www.zeit.de/2023/17/triola-namm-musikmesse-usa",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-04/triola-namm-musikmesse-usa-teaserfoto/cinema__980x420"
+    },
+    {
       "title": "\"Evil Dead Rise\": Lust auf Schmutz",
       "teaser": "Einst war der Horrorfilm \"Evil Dead\" ein Aufreger, mit dem sich sogar die Justiz befasste. Im neuen Teil \"Evil Dead Rise\" wird lustvoll, aber recht skandalfrei rumgesaut.",
       "url": "https://www.zeit.de/kultur/musik/2023-04/evil-dead-rise-horror-film-alyssa-sutherland-fantasy",
-      "image_url": "https://img.zeit.de/kultur/film/2023-04/evil-dead-rise-horror-film-teaser/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/film/2023-04/evil-dead-rise-horror-film-teaser/wide__822x462",
+      "image_title": "\"Evil Dead Rise\": Lust auf Schmutz"
     },
     {
       "title": "\"Dialog mit den jungen Leuten\": Der Geist braucht Ruhe",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/2023/17/dialog-junge-leute-literatur-philosophie",
       "image_url": "https://img.zeit.de/2023/17/dialog-junge-leute-literatur-philosophie-bild/wide__822x462",
       "image_title": "\"Dialog mit den jungen Leuten\": Der Geist braucht Ruhe"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Benjamin von Stuckrad-Barre: Was es mit dir macht",
-      "teaser": "Benjamin von Stuckrad-Barre hat im Berliner Ensemble seinen neuen Roman \"Noch wach?\" vorgestellt, Sie wissen schon, Medienhaus und so. Es war überraschend berührend.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-04/benjamin-von-stuckrad-barre-noch-wach-roman-berliner-ensemble",
-      "image_url": "https://img.zeit.de/kultur/2023-04/benjamin-von-stuckrad-barre-noch-wach/wide__822x462",
-      "image_title": "Benjamin von Stuckrad-Barre: Was es mit dir macht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Noch wach?\" von Benjamin von Stuckrad-Barre • Das Beste aus Z+: Sein Pakt mit dem Turm",
@@ -118,8 +118,8 @@
       "url": "https://www.zeit.de/kultur/2023-04/axel-springer-mathias-doepfner-julian-reichelt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Noch wach?\" von Benjamin von Stuckrad-Barre • Das Beste aus Z+: Sein Pakt mit dem Turm",
-      "url": "https://www.zeit.de/2023/17/noch-wach-benjamin-von-stuckrad-barre-axel-springer-me-too"
+      "title": "Z+ (abopflichtiger Inhalt); Brad Pitt: Kleines Heim, Glück allein",
+      "url": "https://www.zeit.de/kultur/2023-04/brad-pitt-haustausch-villa"
     },
     {
       "title": "Geld geben: Wirklich nett sein",
@@ -146,8 +146,8 @@
       "url": "https://www.zeit.de/2023/16/mathias-doepfner-axel-springer-interne-dokumente"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Noch wach?\" von Benjamin von Stuckrad-Barre • Das Beste aus Z+: Sein Pakt mit dem Turm",
-      "url": "https://www.zeit.de/2023/17/noch-wach-benjamin-von-stuckrad-barre-axel-springer-me-too"
+      "title": "Z+ (abopflichtiger Inhalt); Brad Pitt: Kleines Heim, Glück allein",
+      "url": "https://www.zeit.de/kultur/2023-04/brad-pitt-haustausch-villa"
     },
     {
       "title": "Öffentlich-rechtlicher Rundfunk: Junge Liberale fordern Ende von Unterhaltungsshows",
@@ -176,6 +176,13 @@
       "image_title": "Marc-Uwe Kling über die Känguru-Comics: \"Das Känguru liegt schon mal gern ein paar Tage in der Hängematte\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Benjamin von Stuckrad-Barre: Was es mit dir macht",
+      "teaser": "Benjamin von Stuckrad-Barre hat im Berliner Ensemble seinen neuen Roman \"Noch wach?\" vorgestellt, Sie wissen schon, Medienhaus und so. Es war überraschend berührend.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-04/benjamin-von-stuckrad-barre-noch-wach-roman-berliner-ensemble",
+      "image_url": "https://img.zeit.de/kultur/2023-04/benjamin-von-stuckrad-barre-noch-wach/wide__822x462",
+      "image_title": "Benjamin von Stuckrad-Barre: Was es mit dir macht"
+    },
+    {
       "title": "\"Roter Himmel\": Liebe ist der Stoff, der uns retten könnte",
       "teaser": "Christian Petzold hat mit \"Roter Himmel\" einen leichtfüßig ernsten Film gedreht. Der erzählt von einem untragisch scheiternden, oft ziemlich komischen Helden.",
       "url": "https://www.zeit.de/2023/17/roter-himmel-christian-petzold-kino-film",
@@ -188,13 +195,6 @@
       "url": "https://www.zeit.de/2023/17/dieter-bohlen-comeback-tour",
       "image_url": "https://img.zeit.de/2023/17/dieter-bohlen-comeback-tour-bild/wide__822x462",
       "image_title": "Dieter Bohlen: \"Wie findet ihr das, ihr Schnuckelhasen?\""
-    },
-    {
-      "title": "Homofeindlichkeit: Bolschoi-Theater streicht Stück über Tanzlegende Rudolf Nurejew",
-      "teaser": "Nach politischem Druck verliert ein beliebtes Ballett seinen Platz am Spielplan des Moskauer Theaters. Grund ist das Verbot von Propaganda \"nicht traditioneller Werte\".",
-      "url": "https://www.zeit.de/kultur/2023-04/homofeindlichkeit-russland-moskau-bolschoi-theater",
-      "image_url": "https://img.zeit.de/kultur/2023-04/homofeindlichkeit-russland-moskau-bolschoi-theater-bild-3/wide__822x462",
-      "image_title": "Homofeindlichkeit: Bolschoi-Theater streicht Stück über Tanzlegende Rudolf Nurejew"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Museum der Moderne: \"Man möchte da unbedingt rein\"",
@@ -211,6 +211,13 @@
       "image_title": "Fran Lebowitz: \"Mich interessiert grundsätzlich nicht, was andere Leute tun\""
     },
     {
+      "title": "Homofeindlichkeit: Bolschoi-Theater streicht Stück über Tanzlegende Rudolf Nurejew",
+      "teaser": "Nach politischem Druck verliert ein beliebtes Ballett seinen Platz am Spielplan des Moskauer Theaters. Grund ist das Verbot von Propaganda \"nicht traditioneller Werte\".",
+      "url": "https://www.zeit.de/kultur/2023-04/homofeindlichkeit-russland-moskau-bolschoi-theater",
+      "image_url": "https://img.zeit.de/kultur/2023-04/homofeindlichkeit-russland-moskau-bolschoi-theater-bild-3/wide__822x462",
+      "image_title": "Homofeindlichkeit: Bolschoi-Theater streicht Stück über Tanzlegende Rudolf Nurejew"
+    },
+    {
       "title": "\"Perlen\" von Blond: Wut und Glitzer im Gesicht",
       "teaser": "Grapscher in der Disco, Dickpics im Chatverlauf und Männerregen auf Festivals: Die Synthpop-Gruppe Blond singt von ihrem Schicksal als vermeintliche Frauenband.",
       "url": "https://www.zeit.de/kultur/musik/2023-04/blond-perlen-album-synthpop",
@@ -221,14 +228,14 @@
       "title": "Western mit Alec Baldwin: Dreh an \"Rust\" wird nach Tod von Kamerafrau fortgesetzt",
       "teaser": "Beim Dreh zum Western \"Rust\" wurde Halyna Hutchins mit einem Requisitenrevolver erschossen. Bei den weiteren Filmarbeiten sind funktionierende Waffen untersagt.",
       "url": "https://www.zeit.de/kultur/film/2023-04/westernfilm-rust-fortgesetzt-tote-kamerafrau-alec-baldwin",
-      "image_url": "https://img.zeit.de/kultur/2023-04/westernfilm-rust-fortgesetzt-tote-kamerafrau-alec-baldwin-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-04/westernfilm-rust-fortgesetzt-tote-kamerafrau-alec-baldwin-bild/cinema__980x420",
       "image_title": "Western mit Alec Baldwin: Dreh an \"Rust\" wird nach Tod von Kamerafrau fortgesetzt"
     },
     {
       "title": "\"Infinity Pool\": Verstörend, brutal, großartig",
       "teaser": "Ein Mensch vervielfältigt und tötet sich immer wieder. Brandon Cronenbergs \"Infinity Pool\" zeigt den Kannibalismus der sozialen Medien als Horrorfilm.",
       "url": "https://www.zeit.de/kultur/film/2023-04/infinity-pool-doppelgaenger-david-cronenberg",
-      "image_url": "https://img.zeit.de/kultur/film/2023-04/infinity-pool-doppelgaenger-david-cronenberg-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-04/infinity-pool-doppelgaenger-david-cronenberg-teaser/wide__822x462",
       "image_title": "\"Infinity Pool\": Verstörend, brutal, großartig"
     },
     {
@@ -242,14 +249,14 @@
       "title": "\"Was ist Zivilisation?\": Mesopotamische Markenware",
       "teaser": "Der Archäologe David Wengrow zeigt, welche Ähnlichkeiten moderne Gesellschaften mit denen des alten Orients haben. Dennoch wirkt das Buch in Teilen aus der Zeit gefallen.",
       "url": "https://www.zeit.de/kultur/literatur/2023-04/was-ist-zivilisation-david-wengrow-rezension",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-04/was-ist-zivilisation-david-wengrow-rezension-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-04/was-ist-zivilisation-david-wengrow-rezension-bild/cinema__980x420",
       "image_title": "\"Was ist Zivilisation?\": Mesopotamische Markenware"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Prozess gegen Fox News: Die Lüge lebt weiter",
       "teaser": "Fox News zahlt eine irre Summe, um nicht vor Gericht als Verbreiter von Trump-Lügen dazustehen. Der Wert eines Prozesses hätte sich aber mit Geld nicht beziffern lassen.",
       "url": "https://www.zeit.de/kultur/2023-04/fox-news-prozess-dominion-verleumdung",
-      "image_url": "https://img.zeit.de/kultur/2023-04/fox-news-prozess-dominion-verleumdung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-04/fox-news-prozess-dominion-verleumdung-bild/wide__822x462",
       "image_title": "Prozess gegen Fox News: Die Lüge lebt weiter"
     },
     {
@@ -263,14 +270,14 @@
       "title": "Disney: Die missionarische Traumfabrik",
       "teaser": "Die Walt Disney Company wird in diesem Jahr 100 Jahre alt. Der Unterhaltungskonzern produziert nicht bloß Filme, Serien, Comics, Freizeitvergnügen. Er ist eine Religion.",
       "url": "https://www.zeit.de/kultur/film/2023-04/disney-micky-mouse-filme",
-      "image_url": "https://img.zeit.de/kultur/film/2023-04/disney-micky-mouse/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2023-04/disney-micky-mouse/cinema__980x420",
       "image_title": "Disney: Die missionarische Traumfabrik"
     },
     {
       "title": "Claudia Roth: Neues Museum in Berlin soll \"Vorbild für Nachhaltigkeit\" sein",
       "teaser": "Claudia Roth hat überarbeitete Pläne für das Museum des 20. Jahrhunderts vorgestellt. Der umstrittene Bau soll umweltfreundlicher werden. Dafür wird er mehr kosten.",
       "url": "https://www.zeit.de/kultur/2023-04/claudia-roth-museum-20-jahrhundert-kunst",
-      "image_url": "https://img.zeit.de/kultur/2023-04/claudia-roth-museum-20-jahrhundert-kunst-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-04/claudia-roth-museum-20-jahrhundert-kunst-bild/wide__822x462",
       "image_title": "Claudia Roth: Neues Museum in Berlin soll \"Vorbild für Nachhaltigkeit\" sein"
     },
     {
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/kultur/2023-04/kanada-rundfunk-cbc-twitter",
       "image_url": "https://img.zeit.de/kultur/2023-04/kanada-rundfunk-cbc-twitter-bild/wide__822x462",
       "image_title": "Soziale Netzwerke: Kanadas öffentlich-rechtlicher Sender verlässt ebenfalls Twitter"
-    },
-    {
-      "title": "Filmbranche: Hollywoodautoren stimmen mit großer Mehrheit für Streiks",
-      "teaser": "Steht Hollywood vor einem Arbeitskampf? Die Drehbuchautoren fordern mehr Geld, die Studios wollen die Ausgaben senken. Im Mai könnte es zu Arbeitsniederlegungen kommen.",
-      "url": "https://www.zeit.de/kultur/film/2023-04/hollywood-drehbuchautoren-film-streiks-gewerkschaften",
-      "image_url": "https://img.zeit.de/kultur/film/2023-04/hollywood-drehbuchautoren-film-streiks-gewerkschaften-foto/wide__822x462",
-      "image_title": "Filmbranche: Hollywoodautoren stimmen mit großer Mehrheit für Streiks"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schönheitsideale auf Social Media: Fiktive Gesichter",
@@ -358,10 +358,17 @@
       "image_title": "Studienorientierung: Sprache und Kultur studieren"
     },
     {
+      "title": "Filmbranche: Hollywoodautoren stimmen mit großer Mehrheit für Streiks",
+      "teaser": "Steht Hollywood vor einem Arbeitskampf? Die Drehbuchautoren fordern mehr Geld, die Studios wollen die Ausgaben senken. Im Mai könnte es zu Arbeitsniederlegungen kommen.",
+      "url": "https://www.zeit.de/kultur/film/2023-04/hollywood-drehbuchautoren-film-streiks-gewerkschaften",
+      "image_url": "https://img.zeit.de/kultur/film/2023-04/hollywood-drehbuchautoren-film-streiks-gewerkschaften-foto/cinema__980x420",
+      "image_title": "Filmbranche: Hollywoodautoren stimmen mit großer Mehrheit für Streiks"
+    },
+    {
       "title": "\"Empire of Light\": Von Sentimentalität durchdrungen",
       "teaser": "Das Kino als Zufluchtsort für Arbeiterklasse, Einwanderer und soziale Außenseiter: Sam Mendes' Film \"Empire of Light\" verfällt leider in wohlfeile Symbolik und Kitsch.",
       "url": "https://www.zeit.de/2023/16/empire-of-light-film-sam-mendes-regisseur",
-      "image_url": "https://img.zeit.de/2023/16/ein-imperium-zerfaellt-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/16/ein-imperium-zerfaellt-bild-1/wide__822x462",
       "image_title": "\"Empire of Light\": Von Sentimentalität durchdrungen"
     },
     {
@@ -370,13 +377,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-04/oeffentlich-rechtlicher-rundfunk-ard-zdf-junge-liberale-florian-silbereisen",
       "image_url": "https://img.zeit.de/kultur/film/2023-04/oeffentlich-rechtliche-sender-ard-zdf-junge-liberale/wide__822x462",
       "image_title": "Öffentlich-rechtlicher Rundfunk: Junge Liberale fordern Ende von Unterhaltungsshows"
-    },
-    {
-      "title": "\"Tatort\" Hamburg: Geißendörfer und Rilke sind Buddys",
-      "teaser": "Der \"Tatort\" mit Wotan Wilke Möhring will die Lebenswirklichkeit von Menschen ohne Aufenthaltstitel beleuchten. Dabei macht er es sich am Ende etwas zu leicht.",
-      "url": "https://www.zeit.de/kultur/film/2023-04/tatort-hamburg-verborgen-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2023-04/tatort-hamburg-verborgen-obduktionsbericht-teaserbild/wide__822x462",
-      "image_title": "\"Tatort\" Hamburg: Geißendörfer und Rilke sind Buddys"
     },
     {
       "title": "US-Jazzmusiker: Jazzpianist Ahmad Jamal ist tot",
