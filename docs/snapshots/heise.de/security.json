@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-20T11:09:54",
+  "timestamp": "2023-04-20T12:21:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.5ed0252b9cd7ed4dc8b6",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.347c5f0c51c632407b68",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Foxit PDF",
+      "url": "https://www.heise.de/news/Mehrere-Schadcode-Luecken-in-Foxit-PDF-geschlossen-8974063.html"
+    },
     {
       "title": "Dell-Laptops",
       "url": "https://www.heise.de/news/Verspaetete-BIOS-Updates-Dell-sichert-Laptops-gegen-moegliche-Attacken-ab-8971821.html"
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-neue-Zero-Day-Luecke-in-Chrome-8971427.html"
     },
     {
-      "title": "Trend Micro Security",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Trend-Micro-Security-als-Schadcode-Schlupfloch-8969449.html"
+      "title": "Mehrere Schadcode-Lücken in Foxit PDF geschlossen",
+      "teaser": "Wer Foxit PDF Reader oder PDF Editor unter Windows nutzt, ist angreifbar.",
+      "url": "https://www.heise.de/news/Mehrere-Schadcode-Luecken-in-Foxit-PDF-geschlossen-8974063.html"
+    },
+    {
+      "title": "Vermehrte Angriffe auf Cisco Router und Switche mit Cisco IOS und IOS-XE",
+      "teaser": "Mehrere Sicherheitsbehörden und Cisco selbst warnen vor der gehäuften Ausnutzung alter Schwachstellen in Cisco IOS und IOS-XE.",
+      "url": "https://www.heise.de/news/Vermehrte-Angriffe-auf-Cisco-Router-und-Switche-mit-Cisco-IOS-und-IOS-XE-8973626.html"
     },
     {
       "title": "Softwaresicherheit: Mit KI gegen Softwarefehler",
@@ -140,16 +150,6 @@
       "title": "NRW zählte 28 Cyber-Angriffe gegen Ministerien, Landesbetriebe und Behörden",
       "teaser": "Die Landesregierung in NRW zählte im vergangenen Jahr 28 Cyber-Angriffe auf Einrichtungen des Landes. Lediglich eine davon hatte größere Auswirkungen.",
       "url": "https://www.heise.de/news/NRW-zaehlte-28-Cyber-Angriffe-gegen-Ministerien-Landesbetriebe-und-Behoerden-8969418.html"
-    },
-    {
-      "title": "Erste LockBit-Version für macOS aufgetaucht",
-      "teaser": "Der Ransomware-Platzhirsch diversifiziert weiter. Ein erstes Sample für Macs mit Apples Silicon-Plattform ist nun aufgetaucht, aber noch harmlos.",
-      "url": "https://www.heise.de/news/Erste-LockBit-Version-fuer-macOS-aufgetaucht-8968161.html"
-    },
-    {
-      "title": "Zero-Click-Exploit: Israelischer Spyware-Hersteller QuaDream macht dicht",
-      "teaser": "Erst vorige Woche exponierten Sicherheitsforscher den mächtigen Staatstrojaner Reign von QuaDream. Jetzt stellt die Firma ihre Aktivitäten in Israel ein.",
-      "url": "https://www.heise.de/news/Zero-Click-Exploit-Israelischer-Spyware-Hersteller-QuaDream-macht-dicht-8968998.html"
     },
     {
       "title": "2FA-Pflicht bei GitHub: Interview mit Sicherheitschef Mike Hanley",
