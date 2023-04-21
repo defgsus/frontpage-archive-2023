@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-21T10:12:04",
+  "timestamp": "2023-04-21T11:09:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Cisco-Industrial-Network-Director-und-Modeling-Labs-8975027.html"
+    },
+    {
       "title": "VMware Aria Operations for Logs",
       "url": "https://www.heise.de/news/Root-Luecken-bedrohen-Analysetool-VMware-Aria-Operations-for-Logs-8974868.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Verspaetete-BIOS-Updates-Dell-sichert-Laptops-gegen-moegliche-Attacken-ab-8971821.html"
     },
     {
-      "title": "Oracle",
-      "url": "https://www.heise.de/news/Critical-Patch-Update-Oracle-kuemmert-sich-um-433-Sicherheitsluecken-8971485.html"
+      "title": "Kritische Lücken bedrohen Cisco Industrial Network Director und Modeling Labs",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für mehrere Cisco-Produkte. Zwei Schwachstellen gelten als kritisch.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Cisco-Industrial-Network-Director-und-Modeling-Labs-8975027.html"
     },
     {
       "title": "VoIP-Anbieter 3CX: Die doppelte Supply-Chain-Attacke",
@@ -144,12 +149,6 @@
       "teaser": "Die Überwachungs-Software kam einer Analyse zufolge über Systemdienste wie HomeKit und iMessage auf iPhones. Apples Lockdown-Modus kann aber schützen.",
       "url": "https://www.heise.de/news/iPhones-still-infiziert-Pegasus-Spyware-war-auch-gegen-iOS-16-erfolgreich-8971140.html",
       "image_title": "Lockdown-Modus benachrichtigt über Home-Zugriff"
-    },
-    {
-      "title": "US-Behörde: Schwachstelle in altem macOS wird für Angriffe ausgenutzt",
-      "teaser": "Nach Informationen der Cyber-Sicherheitsbehörde gibt es Hinweise auf aktiv durchgeführte Angriffe. Für sehr alte Macs liegen keine Patches vor.",
-      "url": "https://www.heise.de/news/Alte-Macs-mit-Luecke-US-Sicherheitsbehoerde-warnt-vor-aktiven-Angriffen-8970903.html",
-      "image_title": "MacBook mit macOS 10.12 Sierra."
     },
     {
       "title": "2FA-Pflicht bei GitHub: Interview mit Sicherheitschef Mike Hanley",
