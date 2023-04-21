@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-21T13:14:06",
+  "timestamp": "2023-04-21T14:10:27",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -7,13 +7,13 @@
   "scripts": [
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/head.module.63894d40.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/head.module.02b31f2f.js",
       "id": null,
       "text": null
     },
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.9be464fe.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.1e0a051c.js",
       "id": null,
       "text": null
     },
@@ -25,12 +25,28 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.cb036a54.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.0bc17e4d.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Die Kohlendioxid-Speicher des Meeres",
+      "teaser": "Sie speichern CO₂ und sind Lebensraum für zahlreiche Meeresbewohner: Kieler Forscher pflanzen Seegraswiesen und suchen nach Arten, die mit der steigenden Ostseetemperatur klarkommen. Seegras hat aber noch mehr Vorteile.",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile244919376/5617935047-ci23x11-w20/Aussaat-von-Seegras-in-der-Kieler-Foerde-8.jpg",
+      "image_title": "Forscher des Geomar-Instituts legen neue Seegraswiesen in der Ostsee an, die zur Bindung von CO₂ dienen",
+      "author": "André Klohn"
+    },
+    {
+      "title": "So finden Anleger den grünen Sparplan fürs ganze Leben",
+      "teaser": "Deutsche Anleger lieben Indexfonds. Doch vielen reicht die Standard-Variante nicht mehr, sie verlangen nach nachhaltigen ETF-Sparplänen. So einfach lässt sich die perfekte Anlage-Idee allerdings nicht transformieren. Welche Indizes sich hier lohnen und was es zu beachten gibt.",
+      "url": "https://www.welt.de/finanzen/",
+      "image_url": "https://img.welt.de/img/finanzen/mobile244932222/3717934377-ci23x11-w20/DWO-Teaser-iShares-cg-jpg.jpg",
+      "image_title": "Nachhaltige Investmentfonds sind bei Anlegern zunehmend gefragt",
+      "author": "Holger Zschäpitz"
+    },
     {
       "title": "Mittelmotor-Alternative von Hepha – Dieses E-Bike ist ein Langstreckenläufer",
       "teaser": "Das Hepha Trekking 7 Performance kommt mit einem Mittelmotor in Eigenentwicklung. Im Test überzeugt das E-Bike mit leistungsstarkem Akku und gutem Preis-Leistungs-Verhältnis. Das Rad sieht allerdings komfortabler aus, als es sich fährt.",
@@ -50,26 +66,10 @@
     {
       "title": "„Mich besorgt, dass Deutschland ernsthaft glaubt, es könne weitermachen wie bisher“",
       "teaser": "In der Chemieindustrie wandern viele Unternehmen ins Ausland ab. Schuld seien zu hohe Energiepreise und ein „Gesetzes-Tsunami“, kritisiert Covestro-Chef Markus Steilemann. Er will am Standort Deutschland festhalten – stellt dafür aber Bedingungen.",
-      "url": "https://www.welt.de/wirtschaft/",
+      "url": "https://www.welt.de/wirtschaft/plus244831818/Covestro-Chef-Steilemann-Deindustrialisierung-hat-bereits-eingesetzt.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile244831926/2637935327-ci23x11-w20/Dr-Markus-Steilemann.jpg",
       "image_title": "Dr. Markus Steilemann",
       "author": "Anja Ettel"
-    },
-    {
-      "title": "Der neue Zorn auf die CDU – „Wir wollen unser Land nicht verlassen müssen“",
-      "teaser": "Bundeskanzler Scholz und Wirtschaftsminister Habeck sagen beim Verbandstag der Familienunternehmer kurzfristig ab. Trotz der Enttäuschung richtet sich die Hauptkritik gegen die Union. Der anwesende Finanzminister nutzt die Gelegenheit für harte Worte.",
-      "url": "https://www.welt.de/wirtschaft/plus244909030/Fuer-mich-klingt-das-nicht-nach-CDU-sondern-nach-DDR-aetzt-Lindner.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244913052/7397937867-ci23x11-w20/Familienunternehmer-Tage-2023-4.jpg",
-      "image_title": "Reinhold von Eben-Worlée, scheidender Präsident des Verbandes·“Die Familienunternehmer“, findet beim Jahrestreffen des Verbands der Familienunternehmer klare Worte",
-      "author": "Philipp Vetter"
-    },
-    {
-      "title": "Warum Magdeburg zur High-End-Chip-Produktionsstätte Europas werden soll",
-      "teaser": "Sachsen-Anhalts Wirtschaftsminister will Intels neueste Chipfabrik schnell nach Magdeburg holen. Intel hofft auf satte EU-Subventionen. Doch es gibt skeptische Stimmen, ob Brüssel damit die Lücke zu den Konkurrenten schließen kann. Die Zeit jedenfalls spielt für den US-Konzern.",
-      "url": "https://www.welt.de/wirtschaft/plus244911666/Chips-Act-Magdeburg-soll-High-End-Chip-Produktionsstaette-Europas-werden.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile244912212/0807936277-ci23x11-w20/A-rendering-shows-early-plans-for-two-ne.jpg",
-      "image_title": "So könnte die Fabrik in Magdeburg aussehen, in der Intel 2027 produzieren will",
-      "author": "Stefan Beutelsbacher"
     },
     {
       "title": "Dr. Frank Umbach spricht im WELT-Interview über den Heizungszoff",
@@ -251,6 +251,26 @@
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
+      "title": "Die Kohlendioxid-Speicher des Meeres",
+      "url": "https://www.welt.de/wissenschaft/article244919382/Klimaschutz-Seegraswiesen-der-Ostsee-sind-optimale-Kohlendioxid-Speicher.html"
+    },
+    {
+      "title": "So finden Anleger den grünen Sparplan fürs ganze Leben",
+      "url": "https://www.welt.de/finanzen/article244926886/Nachhaltige-ETFs-So-finden-Anleger-den-gruenen-Sparplan-fuers-ganze-Leben.html"
+    },
+    {
+      "title": "Mittelmotor-Alternative von Hepha – Dieses E-Bike ist ein Langstreckenläufer",
+      "url": "https://www.welt.de/wirtschaft/webwelt/article244866400/Hepha-Trekking-7-im-Test-So-gut-ist-das-E-Bike-mit-Mittelmotor.html"
+    },
+    {
+      "title": "„Der gesellschaftliche Zusammenhalt in Deutschland steht auf dem Spiel“",
+      "url": "https://www.welt.de/wirtschaft/plus244889976/Heizung-Der-gesellschaftliche-Zusammenhalt-in-Deutschland-steht-auf-dem-Spiel.html"
+    },
+    {
+      "title": "„Mich besorgt, dass Deutschland ernsthaft glaubt, es könne weitermachen wie bisher“",
+      "url": "https://www.welt.de/wirtschaft/plus244831818/Covestro-Chef-Steilemann-Deindustrialisierung-hat-bereits-eingesetzt.html"
+    },
+    {
       "title": "Börsenturbulenzen: Geldvermögen 2022 gesunken",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244927142/Boersenturbulenzen-Geldvermoegen-2022-gesunken.html"
     },
@@ -259,12 +279,40 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244926480/Mehr-SUVs-mehr-BEVs-Autos-werden-groesser-und-schwerer.html"
     },
     {
+      "title": "Der neue Zorn auf die CDU – „Wir wollen unser Land nicht verlassen müssen“",
+      "url": "https://www.welt.de/wirtschaft/plus244909030/Fuer-mich-klingt-das-nicht-nach-CDU-sondern-nach-DDR-aetzt-Lindner.html"
+    },
+    {
       "title": "130.000 Besucher bei Hannover Messe",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244925802/130-000-Besucher-bei-Hannover-Messe.html"
     },
     {
+      "title": "Warum Magdeburg zur High-End-Chip-Produktionsstätte Europas werden soll",
+      "url": "https://www.welt.de/wirtschaft/plus244911666/Chips-Act-Magdeburg-soll-High-End-Chip-Produktionsstaette-Europas-werden.html"
+    },
+    {
+      "title": "Frustrierte Mitarbeiter – die Wagenburg Tchibo bröckelt",
+      "url": "https://www.welt.de/wirtschaft/plus244868416/Einzelhandel-Frustrierte-Mitarbeiter-die-Wagenburg-Tchibo-broeckelt.html"
+    },
+    {
+      "title": "Pro Lebensjahr 4 Monate länger arbeiten – die neuen Renten-Pläne der CDU",
+      "url": "https://www.welt.de/wirtschaft/article244891872/Rente-CDU-will-Eintritt-an-Lebenserwartung-koppeln-und-neuen-Riester-Ersatz.html"
+    },
+    {
       "title": "Verband: Zahl der Hobbybrauer in Deutschland steigt",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244923162/Verband-Zahl-der-Hobbybrauer-in-Deutschland-steigt.html"
+    },
+    {
+      "title": "Europas großer Bildungs-Aufsteiger – und was Deutschland von ihm lernen kann",
+      "url": "https://www.welt.de/wirtschaft/plus244671576/Polen-Was-Deutschland-von-Europas-Bildungs-Aufsteiger-lernen-kann.html"
+    },
+    {
+      "title": "Das Ende der Sharing-Illusion",
+      "url": "https://www.welt.de/wirtschaft/plus244704524/Carsharing-und-E-Roller-Das-Ende-der-Sharing-Illusion.html"
+    },
+    {
+      "title": "Mit „Sehr geehrte Damen und Herren“ machen Sie schon den ersten Fehler",
+      "url": "https://www.welt.de/wirtschaft/karriere/plus240385593/Bewerbung-Mit-Sehr-geehrte-Damen-und-Herren-machen-Sie-gleich-den-ersten-Fehler.html"
     },
     {
       "title": "Zweiter Tag Warnstreiks an Flughäfen - Nun auch in Stuttgart",
@@ -283,52 +331,44 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244916940/SAP-waechst-in-der-Cloud-und-punktet-mit-Lizenzen.html"
     },
     {
-      "title": "Dax tritt auf der Stelle",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244916606/Dax-tritt-auf-der-Stelle.html"
+      "title": "Dax gibt leicht nach",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244916606/Dax-gibt-leicht-nach.html"
+    },
+    {
+      "title": "Belastungen und Entlastungen – Diese Grafiken zeigen Deutschlands Steuer-Realität",
+      "url": "https://www.welt.de/wirtschaft/plus244705302/Steuer-Realitaet-in-Deutschland-Dreifache-Abgabe-gleicher-Lohn.html"
+    },
+    {
+      "title": "„Gute Nachrichten gab es zuletzt 2011“ – das ist die neue Chefin der Familienunternehmer",
+      "url": "https://www.welt.de/wirtschaft/plus244900930/Marie-Christine-Ostermann-Das-ist-die-neue-Chefin-der-Familienunternehmer.html"
+    },
+    {
+      "title": "Musks „Starship“-Riesenrakete explodiert bei erstem Testflug",
+      "url": "https://www.welt.de/wirtschaft/article244906826/SpaceX-Musks-Starship-Rakete-explodiert-bei-erstem-Testflug.html"
+    },
+    {
+      "title": "„Immer mehr Geld aus dem Nichts“",
+      "url": "https://www.welt.de/wirtschaft/plus244885538/Banker-Leonhard-Fischer-Muessen-ein-Bankensystem-nicht-zwangsweise-am-Leben-erhalten.html"
+    },
+    {
+      "title": "Deutschland vor dem Fitnessstudio-Beben",
+      "url": "https://www.welt.de/wirtschaft/plus244503004/McFit-Co-Deutschland-vor-dem-Fitnessstudio-Beben.html"
+    },
+    {
+      "title": "„Die Menschen wollen wieder persönliche Nachrichten verschicken“",
+      "url": "https://www.welt.de/wirtschaft/article244838806/Kartenmacherei-Der-wundersame-Aufstieg-der-personalisierbaren-Papeterie.html"
+    },
+    {
+      "title": "Jobkiller KI? In diesen Berufen können Roboter die Lücke am Arbeitsmarkt füllen",
+      "url": "https://www.welt.de/wirtschaft/plus244898088/KI-In-diesen-Berufen-koennen-Roboter-die-Luecke-am-Arbeitsmarkt-fuellen.html"
+    },
+    {
+      "title": "Gefallener Superstar Sartorius und Chancen mit Chips aus Europa",
+      "url": "https://www.welt.de/podcasts/alles-auf-aktien/article244914090/Alles-auf-Aktien-Infineon-ASML-Intel-Chancen-mit-Chips-aus-Europa.html"
     },
     {
       "title": "Twitter entfernt kostenlose Verifikationshäkchen",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244914080/Twitter-entfernt-kostenlose-Verifikationshaekchen.html"
-    },
-    {
-      "title": "Warnstreiks: Mit welchen Auswirkungen zu rechnen ist",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244914070/Warnstreiks-Mit-welchen-Auswirkungen-zu-rechnen-ist.html"
-    },
-    {
-      "title": "Warnstreik beendet - Bahngewerkschaft zieht positive Bilanz",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244914060/Warnstreik-beendet-Bahngewerkschaft-zieht-positive-Bilanz.html"
-    },
-    {
-      "title": "Scholz und Habeck verteidigen Rügener LNG-Pläne",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244913624/Scholz-und-Habeck-verteidigen-Ruegener-LNG-Plaene.html"
-    },
-    {
-      "title": "Bahn-Warnstreik am Freitag - Womit Reisende rechnen müssen",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244913468/Bahn-Warnstreik-am-Freitag-Womit-Reisende-rechnen-muessen.html"
-    },
-    {
-      "title": "Laden, wenn es günstig ist: Plan für digitale Stromzähler",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244908370/Laden-wenn-es-guenstig-ist-Plan-fuer-digitale-Stromzaehler.html"
-    },
-    {
-      "title": "Staubsaugerfirma klagt vor EuGH auf Millionen-Schadenersatz",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244906974/Staubsaugerfirma-klagt-vor-EuGH-auf-Millionen-Schadenersatz.html"
-    },
-    {
-      "title": "Verbände schlagen Alarm: Wohnungsneubau vor dem Kollaps",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244902494/Verbaende-schlagen-Alarm-Wohnungsneubau-vor-dem-Kollaps.html"
-    },
-    {
-      "title": "Milliarden für Aktionäre: Unternehmen geben Rekord-Dividende",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244900606/Milliarden-fuer-Aktionaere-Unternehmen-geben-Rekord-Dividende.html"
-    },
-    {
-      "title": "Dax leidet unter schwachen Autowerten",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244897980/Dax-leidet-unter-schwachen-Autowerten.html"
-    },
-    {
-      "title": "BGH beanstandet Reservierungsgebühr von Immobilienmaklern",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article244896724/BGH-beanstandet-Reservierungsgebuehr-von-Immobilienmaklern.html"
     }
   ]
 }
