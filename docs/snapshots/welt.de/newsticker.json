@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-22T16:13:36",
+  "timestamp": "2023-04-22T17:09:25",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Fußball",
+      "url": "https://www.welt.de/sport/fussball/",
+      "topic": "Bundesliga"
+    },
     {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
@@ -37,11 +42,6 @@
       "title": "Deutschland",
       "url": "https://www.welt.de/politik/deutschland/",
       "topic": "Ab dem 18. Geburtstag"
-    },
-    {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
-      "topic": "Medikamente knapp"
     },
     {
       "title": "Podcasts",
@@ -71,6 +71,12 @@
       "title": "Jetzt im Fernsehen",
       "url": "https://www.welt.de/mediathek/video152403616/Das-WELT-TV-Programm-im-Livestream.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png"
+    },
+    {
+      "title": "„Wahrscheinlichste Angriffsrichtung: Die Landbrücke zwischen Mariupol und der Krim“",
+      "url": "https://www.welt.de/politik/ausland/video244944112/Fruehjahrsoffensive-Angriffsrichtung-Die-Landbruecke-zwischen-Mariupol-und-der-Krim.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Frühjahrsoffensive der Ukraine"
     },
     {
       "title": "„Deutschland ist langsam geworden aufgrund der Regierungszeit von Angela Merkel“",
