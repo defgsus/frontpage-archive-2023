@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-24T09:12:03",
+  "timestamp": "2023-04-24T10:12:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.fcb03fb7bb59d42d8d9e",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.bbb5e1825cd02b8e6e27",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Nvidia",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Nvidia-schuetzt-mehrere-Produkte-vor-moeglichen-Attacken-8976961.html"
+    },
     {
       "title": "Solarwinds",
       "url": "https://www.heise.de/news/Solarwinds-Zwei-hochriskante-Luecken-mit-Update-geschlossen-8976832.html"
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Kritische-Luecken-bedrohen-Cisco-Industrial-Network-Director-und-Modeling-Labs-8975027.html"
     },
     {
-      "title": "VMware Aria Operations for Logs",
-      "url": "https://www.heise.de/news/Root-Luecken-bedrohen-Analysetool-VMware-Aria-Operations-for-Logs-8974868.html"
-    },
-    {
-      "title": "Solarwinds: Zwei hochriskante Lücken mit Update geschlossen",
-      "teaser": "Solarwinds stopft mit Software-Updates mehrere Sicherheitslücken, zwei davon gelten als hochriskant. IT-Verantwortliche sollten zügig aktualisieren.",
-      "url": "https://www.heise.de/news/Solarwinds-Zwei-hochriskante-Luecken-mit-Update-geschlossen-8976832.html",
-      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
+      "title": "Sicherheitspatches: Angreifer könnten Nvidia Cuda, DGX-1 & Co. attackieren",
+      "teaser": "Nvidia hat wichtige Sicherheitsupdates für verschiedene Produkte veröffentlicht. Admins sollten schnell handeln.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Nvidia-schuetzt-mehrere-Produkte-vor-moeglichen-Attacken-8976961.html"
     },
     {
       "title": "Have-I-been-pwned: 2 Millionen Datensätze von Transferdienst Terravision ergänzt",
@@ -63,6 +62,11 @@
       "teaser": "Lernen Sie an zwei Vormittagen, wie Sie Ihre IT-Produkte auf die Prüfung und Zertifizierung nach Standards wie CC, BSZ und NESAS vorbereiten Noch Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-8974483.html",
       "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
+    },
+    {
+      "title": "\"Notstart\" über CAN-Bus-Hack: Altes Nokia-Handy erlaubt Auto-Diebstahl per Klick",
+      "teaser": "Der jüngst aufgezeigte CAN-Injection-Angriff auf das Bussystem Controller Area Network zieht weitere Kreise. Es tauchen immer mehr Kits zum \"Notstarten\" auf.",
+      "url": "https://www.heise.de/news/CAN-Bus-Hack-Altes-Nokia-Handy-unterstuetzt-Auto-Diebstahl-per-Klick-8976444.html"
     },
     {
       "title": "XWorm RAT: Avira-Sicherheitsexperten warnen vor Malware",
@@ -146,11 +150,6 @@
       "title": "Microsoft Defender mit neuer Schutzfunktion und abgestelltem Fehlalarm",
       "teaser": "Microsoft hat dem Defender ein neues Schutzmodul spendiert, der den Rechnerstart absichern soll. Dabei wurde der Fehlalarm vor deaktiviertem Schutz abgestellt.",
       "url": "https://www.heise.de/news/Microsoft-Fehlerhafte-Fehlermeldung-abgestellt-neue-Funktion-ergaenzt-8971956.html"
-    },
-    {
-      "title": "Security-Hersteller einig: Schlechte Kommunikation und KI bedrohen hiesige IT​",
-      "teaser": "Cisco und Cohesity haben Reports veröffentlicht, die eine düsteres Bild der Security in Deutschland zeichnen – Entwicklungen im KI-Bereich verschärfen die Lage.",
-      "url": "https://www.heise.de/news/Security-Hersteller-einig-Schlechte-Kommunikation-und-KI-bedrohen-hiesige-IT-8971892.html"
     },
     {
       "title": "2FA-Pflicht bei GitHub: Interview mit Sicherheitschef Mike Hanley",
