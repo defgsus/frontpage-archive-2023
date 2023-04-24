@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-24T08:15:19",
+  "timestamp": "2023-04-24T09:12:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1829e56071d1d17d732d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.fcb03fb7bb59d42d8d9e",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Solarwinds",
+      "url": "https://www.heise.de/news/Solarwinds-Zwei-hochriskante-Luecken-mit-Update-geschlossen-8976832.html"
+    },
     {
       "title": "Papercut MF/NG",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Druck-Management-Loesung-Papercut-MF-NG-8976755.html"
@@ -44,16 +48,13 @@
       "url": "https://www.heise.de/news/Root-Luecken-bedrohen-Analysetool-VMware-Aria-Operations-for-Logs-8974868.html"
     },
     {
-      "title": "Foxit PDF",
-      "url": "https://www.heise.de/news/Mehrere-Schadcode-Luecken-in-Foxit-PDF-geschlossen-8974063.html"
+      "title": "Solarwinds: Zwei hochriskante Lücken mit Update geschlossen",
+      "teaser": "Solarwinds stopft mit Software-Updates mehrere Sicherheitslücken, zwei davon gelten als hochriskant. IT-Verantwortliche sollten zügig aktualisieren.",
+      "url": "https://www.heise.de/news/Solarwinds-Zwei-hochriskante-Luecken-mit-Update-geschlossen-8976832.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
-      "title": "Jetzt patchen! Angreifer attackieren Druck-Management-Lösung Papercut MF/NG",
-      "teaser": "Eine kritische Sicherheitslücke gefährdet Systeme, auf denen Papercut läuft. Sicherheitsupdates sind verfügbar.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Druck-Management-Loesung-Papercut-MF-NG-8976755.html"
-    },
-    {
-      "title": "Flughafentransferdienst Terravision: Über 2 Millionen Datensätze kompromittiert",
+      "title": "Have-I-been-pwned: 2 Millionen Datensätze von Transferdienst Terravision ergänzt",
       "teaser": "Der Flughafentransferdienstleister Terravision wurde im Februar Opfer eines Datenlecks. Die dabei abgeflossenen Informationen betreffen über 2 Millionen Kunden.",
       "url": "https://www.heise.de/news/Flughafentransferdienst-Terravision-Ueber-2-Millionen-Datensaetze-kompromittiert-8976701.html"
     },
@@ -62,6 +63,11 @@
       "teaser": "Lernen Sie an zwei Vormittagen, wie Sie Ihre IT-Produkte auf die Prüfung und Zertifizierung nach Standards wie CC, BSZ und NESAS vorbereiten Noch Plätze frei.",
       "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-8974483.html",
       "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
+    },
+    {
+      "title": "XWorm RAT: Avira-Sicherheitsexperten warnen vor Malware",
+      "teaser": "Sicherheitsexperten von Avira warnen vor der Malware XWorm RAT",
+      "url": "https://www.heise.de/news/XWorm-RAT-Avira-Sicherheitsexperten-warnen-vor-Malware-8976282.html"
     },
     {
       "title": "GitHub-Updates: Private Schwachstellenmeldungen und Regeln für Branches",
@@ -145,11 +151,6 @@
       "title": "Security-Hersteller einig: Schlechte Kommunikation und KI bedrohen hiesige IT​",
       "teaser": "Cisco und Cohesity haben Reports veröffentlicht, die eine düsteres Bild der Security in Deutschland zeichnen – Entwicklungen im KI-Bereich verschärfen die Lage.",
       "url": "https://www.heise.de/news/Security-Hersteller-einig-Schlechte-Kommunikation-und-KI-bedrohen-hiesige-IT-8971892.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Dell sichert seit 2022 verwundbare Laptops erst jetzt ab",
-      "teaser": "BIOS-Updates für unter anderem Dell-Modelle der Alienware- und Inspiron-Serien schließen zwei Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Verspaetete-BIOS-Updates-Dell-sichert-Laptops-gegen-moegliche-Attacken-ab-8971821.html"
     },
     {
       "title": "2FA-Pflicht bei GitHub: Interview mit Sicherheitschef Mike Hanley",
