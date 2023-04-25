@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-25T11:09:44",
+  "timestamp": "2023-04-25T12:21:54",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Inflation in Großbritannien: Preise rauf, Lebensstandard runter",
+      "teaser": "Großbritannien verzeichnet die höchste Inflation aller G7-Staaten, vor allem bei den Lebensmitteln. Viele Haushalte können sich das nicht mehr leisten.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/grossbritannien-inflation-kostenkrise-verbraucherpreise",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/tesco-2/cinema__980x420"
+    },
+    {
       "title": "Steuerpolitik: Deutschland hat zweithöchste Steuer- und Abgabenlast der OECD-Staaten",
       "teaser": "Ein Paar mit Kindern muss 40 Prozent der Einkommen abführen, Alleinstehende rund 47,8 Prozent: Nur in Belgien sind Steuern und Abgaben höher. Die OECD sieht Reformbedarf.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/oecd-deutschland-steuern-abgaben-paare",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/oecd-deutschland-steuern-abgaben-paare-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/oecd-deutschland-steuern-abgaben-paare-bild/wide__822x462",
+      "image_title": "Steuerpolitik: Deutschland hat zweithöchste Steuer- und Abgabenlast der OECD-Staaten"
     },
     {
       "title": "Statistisches Bundesamt: Baubranche verzeichnet mehr Aufträge – für Straßen",
@@ -66,14 +73,14 @@
       "title": "Arbeitszeiterfassung: Die Entmenschlichung des Arbeitsplatzes",
       "teaser": "Die geplante Zeiterfassung wird Beschäftigte gängeln, statt ihnen zu helfen. Arbeitnehmer motiviert man durch Vertrauen, nicht durch Überregulierung.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/arbeitszeiterfassung-gesetz-kontrolle-produktivitaet",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/arbeitszeiterfassung-gesetz-kontrolle-produktivitaet-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/arbeitszeiterfassung-gesetz-kontrolle-produktivitaet-bild/cinema__980x420",
       "image_title": "Arbeitszeiterfassung: Die Entmenschlichung des Arbeitsplatzes"
     },
     {
       "title": "Postfilialen: Deutsche Post besetzt wieder mehr Pflichtfilialen",
       "teaser": "Jede Gemeinde mit mehr als 2.000 Einwohnern muss laut Gesetz eine Postfiliale haben. Mitte April waren 145 Standorte unbesetzt – deutlich weniger als noch Ende Januar.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/deutsche-post-filialen-pflicht-besser-erfuellt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/deutsche-post-filialen-pflicht-besser-erfuellt-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/deutsche-post-filialen-pflicht-besser-erfuellt-bild/wide__822x462",
       "image_title": "Postfilialen: Deutsche Post besetzt wieder mehr Pflichtfilialen"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/viessmann-uebernahme-waermepumpen-carrier-global",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-04/viessmann-uebernahme-waermepumpen-carrier-global-bild/wide__822x462",
       "image_title": "Carrier Global: US-Konzern will Wärmepumpenhersteller Viessmann übernehmen"
-    },
-    {
-      "title": "Globale Staatsverschuldung: Die Gefahr der hohen Schulden",
-      "teaser": "Der Internationale Währungsfonds warnt vor einer globalen Schuldenkrise. Bedrohlich sei die Lage vor allem für Entwicklungsländer. Nun soll ein Runder Tisch helfen.",
-      "url": "https://www.zeit.de/2023/17/globale-staatsverschuldung-iwf-schuldenkrise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/globale-staatsverschuldung-iwf-schuldenkrise-bild/wide__822x462",
-      "image_title": "Globale Staatsverschuldung: Die Gefahr der hohen Schulden"
     },
     {
       "title": "Bund und Kommunen: Einigung im Tarifstreit im öffentlichen Dienst",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Globale Staatsverschuldung: Die Gefahr der hohen Schulden",
+      "teaser": "Der Internationale Währungsfonds warnt vor einer globalen Schuldenkrise. Bedrohlich sei die Lage vor allem für Entwicklungsländer. Nun soll ein Runder Tisch helfen.",
+      "url": "https://www.zeit.de/2023/17/globale-staatsverschuldung-iwf-schuldenkrise",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/globale-staatsverschuldung-iwf-schuldenkrise-bild/wide__822x462",
+      "image_title": "Globale Staatsverschuldung: Die Gefahr der hohen Schulden"
+    },
+    {
       "title": "Bundesbank-Studie: Privatvermögen in zehn Jahren um mehr als 120.000 Euro gestiegen",
       "teaser": "Immobilien, Autos, Sparkonten – das Nettovermögen deutscher Haushalte hat laut Bundesbank einen Höchstwert erreicht. Ein Grund: In der Corona-Pandemie wurde viel gespart.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/bundesbank-studie-vermoegen-rekord-immobilien-sparen",
@@ -220,14 +227,14 @@
       "title": "Kindergrundsicherung: Familienpolitik ist kein Wirrwarr",
       "teaser": "Der Streit über die Kindergrundsicherung befördert alte Mythen zur Familienpolitik. Sie ist besser als ihr Ruf. Der Sozialstaat wurde nicht von Wahnsinnigen aufgebaut.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/kindergrundsicherung-lisa-paus-christian-lindner-sozialpolitik-ampel-koalition",
-      "image_url": "https://img.zeit.de/politik/2023-04/kindergrundsicherung-lisa-paus-christian-lindner-sozialpolitik-ampel-koalition-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-04/kindergrundsicherung-lisa-paus-christian-lindner-sozialpolitik-ampel-koalition-bild-2/cinema__980x420",
       "image_title": "Kindergrundsicherung: Familienpolitik ist kein Wirrwarr"
     },
     {
       "title": "Tiffany & Co. Flagship Store: New Yorks Kathedrale des Luxus",
       "teaser": "An der berühmtesten Einkaufsmeile der Welt eröffnet Tiffany & Co. ein gigantisches Juweliergeschäft. Die Besitzer haben richtig erkannt: Konsum ist unsere neue Religion.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/tiffany-flagship-store-new-york-kathedrale-luxus",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/tiffanys-new-york-flaggschiff-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/tiffanys-new-york-flaggschiff-bild/wide__822x462",
       "image_title": "Tiffany & Co. Flagship Store: New Yorks Kathedrale des Luxus"
     },
     {
@@ -259,13 +266,6 @@
       "image_title": "PCK Schwedt: Bundesregierung bekommt mehr Rechte bei Treuhandverwaltung"
     },
     {
-      "title": "Rheinland-Pfalz: Fracht- und Passagiergeschäft am Flughafen Hahn sollen weiter bestehen",
-      "teaser": "Die Triwo AG übernimmt den Hunsrücker Flughafen samt seinen 400 Beschäftigten. Neben dem Flugverkehr soll auch die Wartung ein Schwerpunkt an dem Standort sein.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/rheinland-pfalz-flughafen-hahn-hunsrueck",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/rheinland-pfalz-flughafen-hahn/wide__822x462",
-      "image_title": "Rheinland-Pfalz: Fracht- und Passagiergeschäft am Flughafen Hahn sollen weiter bestehen"
-    },
-    {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
       "teaser": "Entdecken Sie den ZEIT ONLINE Stellenmarkt mit spannenden Stellenangeboten aus Wissenschaft, Forschung, Öffentliches und Gesellschaft.",
       "url": "https://jobs.zeit.de/?wt_zmc=fix.int.aca.zeit.de.wirtschafts-ressort.parkett_unternehmen.teaser.bild_text.x&utm_medium=fix&utm_source=zeit.de_aca_int&utm_campaign=wirtschafts-ressort&utm_content=parkett_unternehmen_teaser_bild_text_x",
@@ -295,7 +295,7 @@
     },
     {
       "title": "WirtschaftsWocheViessmann: Hier gerät ein kleines Juwel in amerikanische Hände",
-      "teaser": "Der überraschende Verkauf des Familienunternehmens Viessmann an die Amerikaner von Carrier Global ist ein Fanal für die Umbrüche am Heizungsmarkt – für Viessmann ist er aber fast typisch und folgerichtig.",
+      "teaser": "Die überraschenden Verkaufsabsichten des Familienunternehmens Viessmann an die Amerikaner von Carrier Global ist ein Fanal für die Umbrüche am Heizungsmarkt – für Viessmann ist er aber fast typisch und folgerichtig.",
       "url": "https://www.wiwo.de/unternehmen/industrie/viessmann-hier-geraet-ein-kleines-juwel-in-amerikanische-haende/29112926.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/viessmann-usa-mst/29113252/5-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Viessmann: Hier gerät ein kleines Juwel in amerikanische Hände"
