@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-26T05:10:51",
+  "timestamp": "2023-04-26T06:14:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Workstation&Fusion",
+      "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Hersteller-stopft-kritische-Zero-Day-Luecke-8979106.html"
+    },
+    {
       "title": "Zyxel",
       "url": "https://www.heise.de/news/Zyxel-schliesst-teils-kritische-Sicherheitsluecken-in-Firewalls-und-Access-Points-8977831.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Solarwinds-Zwei-hochriskante-Luecken-mit-Update-geschlossen-8976832.html"
     },
     {
-      "title": "Papercut MF/NG",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Druck-Management-Loesung-Papercut-MF-NG-8976755.html"
+      "title": "VMware Workstation und Fusion: Hersteller stopft kritische Zero-Day-Lücke",
+      "teaser": "VMware stopft teils kritische Sicherheitslücken in Workstation und Fusion. Da sie auf der Pwn2Own-Konferenz vorgeführt wurden, handelt es sich um Zero-Days.",
+      "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Hersteller-stopft-kritische-Zero-Day-Luecke-8979106.html"
     },
     {
       "title": "Google Authenticator: Einmal-Codes im Google Konto gespeichert",
@@ -149,11 +154,6 @@
       "title": "Proton Pass: Neuer Passwortmanager startet Beta-Phase",
       "teaser": "Mit Proton Pass geht ein neuer Passwortmanager an den Start. Die Entwickler wollen mit einer vollständigen Verschlüsselung aller Eingabefelder punkten.",
       "url": "https://www.heise.de/news/Proton-Pass-Neuer-Passwortmanager-startet-Beta-Phase-8974269.html"
-    },
-    {
-      "title": "Mehrere Schadcode-Lücken in Foxit PDF geschlossen",
-      "teaser": "Wer Foxit PDF Reader oder PDF Editor unter Windows nutzt, ist angreifbar.",
-      "url": "https://www.heise.de/news/Mehrere-Schadcode-Luecken-in-Foxit-PDF-geschlossen-8974063.html"
     },
     {
       "title": "Apple-ID mit Hardware-Token schützen: Mein Schlüssel zu Apple",
