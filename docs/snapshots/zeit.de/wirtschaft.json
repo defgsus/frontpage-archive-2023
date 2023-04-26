@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-25T23:11:43",
+  "timestamp": "2023-04-26T00:58:30",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Öffentlicher Nahverkehr: Ver.di ruft in fünf Bundesländern zu Warnstreiks bei Bus und Bahn auf",
+      "teaser": "Pendler müssen sich in Teilen Deutschlands am Mittwoch auf Verspätungen einstellen. In mehreren Bundesländern werden Beschäftigte des Nahverkehrs die Arbeit niederlegen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/streik-oepnv-verdi-eisenbahn-tarifvertrag-2",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/streik-oepnv-verdi-eisenbahn-tarifvertrag/cinema__980x420"
+    },
+    {
       "title": "Quartalszahlen: Microsoft übertrifft mit Quartalsgewinn Prognosen",
       "teaser": "Vor allem wegen des florierenden Cloud-Geschäfts strich Microsoft im ersten Quartal satte Gewinne ein. Die Aktie des Softwarekonzerns stieg nachbörslich um fünf Prozent.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/microsoft-quartalszahlen-gewinn-umsatzsteigerung",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-04/microsoft-quartalszahlen-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-04/microsoft-quartalszahlen-bild/wide__822x462",
+      "image_title": "Quartalszahlen: Microsoft übertrifft mit Quartalsgewinn Prognosen"
     },
     {
       "title": "Familienunternehmen: US-Konzern kauft große Teile des Wärmepumpenherstellers Viessmann",
@@ -66,14 +73,14 @@
       "title": "EPI: Bankeninitiative will 2024 neues europäisches Bezahlsystem starten",
       "teaser": "2024 sollen in mehreren europäischen Ländern Zahlungen über eine Wallet des Anbieters EPI möglich sein. Eine Pilotphase starte Ende 2023 in Deutschland und Frankreich.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/bankeninitiative-epi-2024-bezahlsystem-europa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/bankeninitiative-epi-2024-bezahlsystem-europa-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/bankeninitiative-epi-2024-bezahlsystem-europa-bild/cinema__980x420",
       "image_title": "EPI: Bankeninitiative will 2024 neues europäisches Bezahlsystem starten"
     },
     {
       "title": "Tiffany & Co. Flagship Store: New Yorks Kathedrale des Luxus",
       "teaser": "An der berühmtesten Einkaufsmeile der Welt eröffnet Tiffany & Co. ein gigantisches Juweliergeschäft. Die Besitzer haben richtig erkannt: Konsum ist unsere neue Religion.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/tiffany-flagship-store-new-york-kathedrale-luxus",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/tiffanys-new-york-flaggschiff-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/tiffanys-new-york-flaggschiff-bild/wide__822x462",
       "image_title": "Tiffany & Co. Flagship Store: New Yorks Kathedrale des Luxus"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/gefaehrliche-pestizide-eu-export-basf-syngenta",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/gefaehrliche-pestizide-eu-export-basf-syngenta-bild/wide__822x462",
       "image_title": "Gefährliche Pestizide: Giftregen aus deutscher Produktion"
-    },
-    {
-      "title": "Inflation in Großbritannien: Preise rauf, Lebensstandard runter",
-      "teaser": "Großbritannien verzeichnet die höchste Inflation aller G7-Staaten, vor allem bei den Lebensmitteln. Viele Haushalte können sich das nicht mehr leisten.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/grossbritannien-inflation-kostenkrise-verbraucherpreise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/grossbritannien-inflation-kostenkrise-verbraucherpreise-bild/wide__822x462",
-      "image_title": "Inflation in Großbritannien: Preise rauf, Lebensstandard runter"
     },
     {
       "title": "Bund und Kommunen: Einigung im Tarifstreit im öffentlichen Dienst",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Inflation in Großbritannien: Preise rauf, Lebensstandard runter",
+      "teaser": "Großbritannien verzeichnet die höchste Inflation aller G7-Staaten, vor allem bei den Lebensmitteln. Viele Haushalte können sich das nicht mehr leisten.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/grossbritannien-inflation-kostenkrise-verbraucherpreise",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/grossbritannien-inflation-kostenkrise-verbraucherpreise-bild/wide__822x462",
+      "image_title": "Inflation in Großbritannien: Preise rauf, Lebensstandard runter"
+    },
+    {
       "title": "Steuerpolitik: Deutschland hat zweithöchste Steuer- und Abgabenlast der OECD-Staaten",
       "teaser": "Ein Paar mit Kindern muss 40 Prozent der Einkommen abführen, Alleinstehende rund 47,8 Prozent: Nur in Belgien sind Steuern und Abgaben höher. Die OECD sieht Reformbedarf.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/oecd-deutschland-steuern-abgaben-paare",
@@ -220,14 +227,14 @@
       "title": "Postfilialen: Deutsche Post besetzt wieder mehr Pflichtfilialen",
       "teaser": "Jede Gemeinde mit mehr als 2.000 Einwohnern muss laut Gesetz eine Postfiliale haben. Mitte April waren 145 Standorte unbesetzt – deutlich weniger als noch Ende Januar.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/deutsche-post-filialen-pflicht-besser-erfuellt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/deutsche-post-filialen-pflicht-besser-erfuellt-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/deutsche-post-filialen-pflicht-besser-erfuellt-bild/cinema__980x420",
       "image_title": "Postfilialen: Deutsche Post besetzt wieder mehr Pflichtfilialen"
     },
     {
       "title": "Carrier Global: US-Konzern will Wärmepumpenhersteller Viessmann übernehmen",
-      "teaser": "Ein deutsches Familienunternehmen könnte seine Eigenständigkeit verlieren. Viessmann, Hersteller von Heizungen, soll laut Berichten von Carrier Global übernommen werden. 759 Kommentare",
+      "teaser": "Ein deutsches Familienunternehmen könnte seine Eigenständigkeit verlieren. Viessmann, Hersteller von Heizungen, soll laut Berichten von Carrier Global übernommen werden.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/viessmann-uebernahme-waermepumpen-carrier-global",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-04/viessmann-uebernahme-waermepumpen-carrier-global-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-04/viessmann-uebernahme-waermepumpen-carrier-global-bild/wide__822x462",
       "image_title": "Carrier Global: US-Konzern will Wärmepumpenhersteller Viessmann übernehmen"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/2023/17/globale-staatsverschuldung-iwf-schuldenkrise",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/globale-staatsverschuldung-iwf-schuldenkrise-bild/wide__822x462",
       "image_title": "Globale Staatsverschuldung: Die Gefahr der hohen Schulden"
-    },
-    {
-      "title": "Bundesbank-Studie: Privatvermögen in zehn Jahren um mehr als 120.000 Euro gestiegen",
-      "teaser": "Immobilien, Autos, Sparkonten – das Nettovermögen deutscher Haushalte hat laut Bundesbank einen Höchstwert erreicht. Ein Grund: In der Corona-Pandemie wurde viel gespart.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/bundesbank-studie-vermoegen-rekord-immobilien-sparen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/bundesbank-studie-vermoegen-rekord-immobilien-sparen-bild/wide__822x462",
-      "image_title": "Bundesbank-Studie: Privatvermögen in zehn Jahren um mehr als 120.000 Euro gestiegen"
     },
     {
       "title": "ifo-Geschäftsklimaindex: \"Die Sorgen der Unternehmen lassen nach\"",
