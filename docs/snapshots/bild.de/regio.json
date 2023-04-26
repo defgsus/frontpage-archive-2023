@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-04-26T17:10:18",
+  "timestamp": "2023-04-26T18:14:05",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,385 +19,46 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.b9fce410.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.fa090ea8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/pages/_.3cdb0f35.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.4a6a799d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/vendors/app.9264bf26.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.8991345f.js",
-      "id": null,
+      "type": "text/javascript",
+      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
+      "id": "trm-teaserbox-aASwv34hTcbne",
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Publikumsliebling Sandra : Liebes-Comeback nach „Prominent getrennt“",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/prominent-getrennt-influencerin-sandra-die-siegerin-der-herzen-83686930.bild.html",
-      "image_title": "Prominent getrennt: Influencerin Sandra, die Siegerin der Herzen"
-    },
-    {
-      "title": "Knallhart-Urteil nach Gemälde-Klebe-Aktion : 4 Monate Haft für Klima-Chaotin",
-      "url": "https://www.bild.de/regional/berlin/berlin-regional-politik-und-wirtschaft/4-monate-haft-fuer-klima-chaotin-nach-gemaelde-klebe-aktion-83701208.bild.html",
-      "image_title": "Berlin: 4 Monate Haft für Klima-Chaotin nach Gemälde-Klebe-Aktion"
-    },
-    {
-      "title": "Er tötete seine Lehrerin : Schüler (17) stranguliert sich in Jugend-Knast",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/herford-er-toetete-lehrerin-schueler-stranguliert-sich-in-jva-83701598.bild.html",
-      "image_title": "Herford: Er tötete Lehrerin – Schüler stranguliert sich in JVA"
-    },
-    {
-      "title": "Frühling wird zum Totalausfall : Absturz-Prognose für den Mai",
-      "url": "https://www.bild.de/news/wetter/wetter/wetter-schockprognose-fuer-den-mai-wird-der-fruehling-zum-totalausfall-83667102.bild.html",
-      "image_title": "Wetter-Schockprognose für den Mai: Wird der Frühling zum Totalausfall?"
-    },
-    {
-      "title": "22-Jähriger in U-Haft : Darum wurde der Überfall zur Geiselnahme",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/berlin-ueberfall-wurde-zu-geiselnahme-weil-taeter-mehr-geld-wollten-83687114.bild.html",
-      "image_title": "Berlin: Überfall wurde zu Geiselnahme, weil Täter mehr Geld wollten"
-    },
-    {
-      "title": "Beihilfe zum Mord in 3518 Fällen : Verurteilter KZ-Wachmann mit 102 Jahren gestorben",
-      "teaser": "Der verurteilte ehemalige KZ-Wachmann Josef S. ist gestorben.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/verurteilter-kz-wachmann-josef-s-mit-102-jahren-gestorben-83704728.bild.html",
-      "image_title": "Verurteilter KZ-Wachmann Josef S. mit 102 Jahren gestorben"
-    },
-    {
-      "title": "Bushido-Arafat-Prozess, Tag 95 : „Hier wird versucht, das Gericht zu verarschen!“",
-      "teaser": "Zwischen Bushido und Clan-Chef Arafat Abou-Chaker fliegen wieder die Fetzen vor Gericht.",
-      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/bushido-prozess-tag-95-wird-versucht-das-gericht-zu-verarschen-83691660.bild.html",
-      "image_title": "Bushido-Prozess, Tag 95: „Wird versucht, das Gericht zu verarschen!“"
-    },
-    {
-      "title": "Er griff wahllos Passanten an : Hier stoppt die Polizei einen irren Axt-Angreifer",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/bremen-hier-stoppt-die-polizei-einen-axt-angreifer-83704860.bild.html",
-      "image_title": "Bremen: Hier stoppt die Polizei einen Axt-Angreifer"
-    },
-    {
-      "title": "Mädchen (5) macht Sensationsfund in Kita : Das ist der Feuersteindolch von Syke",
-      "teaser": "Vergangene Woche machte ein kleines Mädchen (5) beim Spielen ein Sensationsfund.",
-      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/feuersteindolch-von-syke-maedchen-5-macht-sensationsfund-in-kita-83705204.bild.html",
-      "image_title": "Feuersteindolch von Syke: Mädchen (5) macht Sensationsfund in Kita"
-    },
-    {
-      "title": "Trotz Top-Konkurrenz : Der Werder-Trumpf im Kownacki-Poker",
-      "teaser": "Wird ER der erste Neuzugang der kommenden Saison? Die Bremer sind heiß auf Dawid Kownacki.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/werder-bremen/werder-bremen-trotz-top-konkurrenz-der-trumpf-im-kampf-um-dawid-kownacki-83701410.bild.html",
-      "image_title": "Werder Bremen: Trotz Top-Konkurrenz: Der Trumpf im Kampf um Dawid Kownacki"
-    },
-    {
-      "title": "Gericht verhandelt Corona-Strafen : Knöllchen-Wahnsinn bei Olympia-Party",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-um-corona-strafen-bei-olympia-party-fuer-bobfahrer-francesco-friedrich-83703424.bild.html",
-      "image_title": "Prozess um Corona-Strafen bei Olympia-Party für Bobfahrer Francesco Friedrich"
-    },
-    {
-      "title": "Darunter auch zehn Kinder : Polizei stoppt Schleuser mit 29 Flüchtlingen",
-      "teaser": "Als er die Polizei entdeckte, trat der Fahrer (50) des Transporters aufs Gas!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/schleuser-verhaftet-polizei-stoppt-transporter-mit-30-fluechtlingen-83694908.bild.html",
-      "image_title": "Schleuser verhaftet: Polizei stoppt Transporter mit 29 Flüchtlingen"
-    },
-    {
-      "title": "Blockade im Feierabend-Verkehr : Staatsanwalt klagt Klima-Kleber (19) an",
-      "teaser": "Für einen Klima-Kleber (19) hat eine Blockade in Dresden jetzt ein juristisches Nachspiel.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/klima-kleber-staatsanwalt-klagt-19-jaehrigen-nach-strassenblockladen-an-83699002.bild.html",
-      "image_title": "Dresden: Staatsanwalt klagt Klima-Kleber (19) nach Straßenblockaden an"
-    },
-    {
-      "title": "10 000 Euro Strafe, wer keine Mitnahme-Behälter hat : Mehrweg-Polizei in Dresden auf Imbiss-Streife",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-kontrolliert-mehrweg-pflicht-in-der-gastronomie-83704982.bild.html",
-      "image_title": "Dresden kontrolliert Mehrweg-Pflicht in der Gastronomie"
-    },
-    {
-      "title": "Tourismus-Chefs fordern : Knipst Dresdens Skyline das Licht wieder an!",
-      "teaser": "Sachsens Finanzminister Hartmut Vorjohann (59, CDU) macht den Geiz-Johann!",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/dresden-skyline-weiter-im-dunkeln-83687384.bild.html",
-      "image_title": "Dresden: Skyline weiter im Dunkeln"
-    },
-    {
-      "title": "9,5 Millionen Euro : Dynamo Dresden stellt Werbe-Rekord auf",
-      "teaser": "Dynamo Dresden hat für die Saison 2023/24 sowohl für die 2. Bundesliga als auch für die 3. Liga die jeweilige Lizenz erhalten.",
-      "url": "https://www.bild.de/sport/fussball/fussball/9-5-millionen-euro-dynamo-dresden-stellt-werbe-rekord-auf-83704748.bild.html",
-      "image_title": "9,5 Millionen Euro: Dynamo Dresden stellt Werbe-Rekord auf"
-    },
-    {
-      "title": "Trainer-Legenden und Fans aus dem Häuschen : Funkel, Meier und Fans feiern die Ticket-Sensation",
-      "url": "https://www.bild.de/sport/fussball/fortuna-duesseldorf/fortuna-duesseldorf-funkel-meier-und-fans-feiern-die-ticket-sensation-83706048.bild.html",
-      "image_title": "Fortuna Düsseldorf: Funkel, Meier und Fans feiern die Ticket-Sensation"
-    },
-    {
-      "title": "Statt 20-Millionen-Füllkrug : Gladbachs wahre Stürmer-Liste!",
-      "teaser": "Niclas Füllkrug ist wohl zu teuer. Gladbachs wahre Stürmer-Liste – nur mit BILDplus!",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-gladbachs-wahre-stuermer-liste-83692476.bild.html",
-      "image_title": "Borussia Mönchengladbach: Gladbachs wahre Stürmer-Liste!"
-    },
-    {
-      "title": "„Für ihren unermüdlichen Einsatz“ : Merkel bekommt NRW-Staatspreis",
-      "teaser": "Hohe Auszeichnung für die Ex-Kanzlerin Angela Merkel (68, CDU)!",
-      "url": "https://www.bild.de/regional/duesseldorf/duesseldorf-aktuell/duesseldorf-koeln-angela-merkel-bekommt-staatspreis-von-nrw-83703282.bild.html",
-      "image_title": "Düsseldorf/Köln: Angela Merkel bekommt Staatspreis von NRW"
-    },
-    {
-      "title": "Mit Lachgas und Ecstasy betäubt : Vergewaltigte Ticket-Kontrolleur Schulmädchen?",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/mit-lachgas-betaeubt-vergewaltigte-ticket-kontrolleur-schulmaedchen-83687478.bild.html",
-      "image_title": "Mit Lachgas betäubt: Vergewaltigte Ticket-Kontrolleur Schulmädchen?"
-    },
-    {
-      "title": "Spediteur gibt Lohn-Zusage : Trucker beenden 100 000 Euro-Streik auf Raststätte",
-      "teaser": "60 Lkw-Fahrer haben fünf Wochen lang bei Darmstadt gestreikt. Nun gibt's Geld!",
-      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/spediteur-gibt-lohn-zusage-trucker-beenden-100-000-euro-streik-83703920.bild.html",
-      "image_title": "Spediteur gibt Lohn-Zusage: Trucker beenden 100 000 Euro-Streik"
-    },
-    {
-      "title": "Vergewaltigungsdroge Lachgas : Kinderbetreuer fiel über Halbschwester her",
-      "teaser": "Eine Grillparty mit Alkohol und Lachgas wurde Marlena O. (18) zum Verhängnis!",
-      "url": "https://www.bild.de/bild-plus/regional/frankfurt/frankfurt-aktuell/vergewaltigungsdroge-lachgas-kinderbetreuer-fiel-ueber-halbschwester-her-83699556.bild.html",
-      "image_title": "Vergewaltigungsdroge Lachgas: Kinderbetreuer fiel über Halbschwester her"
-    },
-    {
-      "title": "Ehefrau zeigt Staatsanwalt an : Sohn (8) schlafwandelnd missbraucht?",
-      "url": "https://www.bild.de/bild-plus/news/inland/news-inland/luebeck-anzeige-durch-ehefrau-hat-staatsanwalt-sohn-8-schlafwandelnd-missbraucht-83686380.bild.html",
-      "image_title": "Lübeck: Anzeige durch Ehefrau: Hat Staatsanwalt Sohn (8) schlafwandelnd missbraucht?"
-    },
-    {
-      "title": "Polizistin belastet Justizsenatorin : Osterburg rechnete Gallina-Reise ab",
-      "teaser": "Die Frage wird immer brennender: Was wusste die Justizsenatorin?",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/polizistin-belastet-senatorin-osterburg-rechnete-gallina-reise-ab-83705386.bild.html",
-      "image_title": "Polizistin belastet Senatorin: Osterburg rechnete Gallina-Reise ab"
-    },
-    {
-      "title": "Patriotismus-Zoff in Hamburg : AfD geht auf Präsidentin los",
-      "teaser": "Harte Debatte um Patriotismus – im Mittelpunkt: Carola Veit (49, SPD).",
-      "url": "https://www.bild.de/regional/hamburg/hamburg-regional-politik-und-wirtschaft/patriotismus-zoff-in-hamburg-afd-geht-auf-praesidentin-los-83703526.bild.html",
-      "image_title": "Patriotismus-Zoff in Hamburg: AfD geht auf Präsidentin los"
-    },
-    {
-      "title": "Hannovers neue Ziele : Leitl jagt jetzt Zimbo und Dabro",
-      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-hat-neues-ziel-stefan-leitl-jagt-zimmermann-und-dabrowski-83705962.bild.html",
-      "image_title": "Hannover 96 hat neues Ziel: Stefan Leitl jagt Zimmermann und Dabrowski"
-    },
-    {
-      "title": "Doppelmord in Wennigsen : Diese Indizien sprechen gegen den Angeklagten",
-      "teaser": "Die Staatsanwältin forderte die Höchststrafe für den Iraker (24)!",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/doppelmord-in-wennigsen-diese-indizien-sprechen-gegen-den-angeklagten-83702856.bild.html",
-      "image_title": "Doppelmord in Wennigsen: Diese Indizien sprechen gegen den Angeklagten"
-    },
-    {
-      "title": "Buntes Programm hinterm Hauptbahnhof : Mit Kunst und Sport gegen Schmuddelplätze",
-      "teaser": "Die Schmuddelplätze an Hannovers Hauptbahnhof sollen aufgewertet werden.",
-      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/plan-gegen-drogenszene-hannovers-bahnhofsplaetze-werden-aufgewertet-83702980.bild.html",
-      "image_title": "Plan gegen Drogenszene: Hannovers Bahnhofsplätze werden aufgewertet"
-    },
-    {
-      "title": "Domina Anika (36) packt ihre Kunden aus : In meinem Schoß weinen Stars und Politiker",
-      "url": "https://www.bild.de/bild-plus/regional/koeln/koeln-aktuell/zu-domina-anika-kommen-die-promis-in-meinem-schoss-weinen-stars-und-politiker-83700360.bild.html",
-      "image_title": "Zu Domina Anika kommen die Promis: In meinem Schoß weinen Stars und Politiker"
-    },
-    {
-      "title": "„Let's Dance“-Kandidatin : Ex-„Bachelorette“ Sharon Battiste wird Tänzerin",
-      "teaser": "Werdegang und Liebesleben der ehemaligen „Bachelorette“ gibt es hier im Überblick.",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/lets-dance-2023-sharon-battiste-so-tanzt-die-ex-bachelorette-80409712.bild.html",
-      "image_title": "Sharon Battiste bei „Let's Dance“ 2023: Bestwertung beim Salsa-thon"
-    },
-    {
-      "title": "Seit Dienstag auf der Flucht : Straftäter aus Forensik gefasst!",
-      "teaser": "Ein am Dienstag aus der Forensik in Düren (NRW) geflohener Patient wurde gefasst.",
-      "url": "https://www.bild.de/regional/koeln/ruhrgebiet-aktuell/polizei-sucht-forensik-patienten-aus-dueren-83692568.bild.html",
-      "image_title": "Aus Forensik in Düren geflohener Straftäter gefasst"
-    },
-    {
-      "title": "Wettbieten um Krauß : Warum RB Leipzig plötzlich mehr kassieren könnte",
-      "url": "https://www.bild.de/sport/fussball/rb-leipzig/schalke-04-warum-rb-leipzig-mit-tom-krauss-mehr-kassieren-koennte-83705358.bild.html",
-      "image_title": "Schalke 04: Warum RB Leipzig mit Tom Krauß mehr kassieren könnte"
-    },
-    {
-      "title": "Don Chung nach 39 Jahren weg : Elefanten-Abschied im Leipziger Zoo",
-      "teaser": "Im Zoo wurde am Mittwoch Elefantenkuh Don Chung (40) verabschiedet.",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/don-chung-nach-39-jahren-weg-elefanten-abschied-im-leipziger-zoo-83705290.bild.html",
-      "image_title": "Don Chung nach 39 Jahren weg: Elefanten-Abschied im Leipziger Zoo"
-    },
-    {
-      "title": "Rettungseinsatz in Leipzig : Mann (31) mit Kajak gekentert – Klinik!",
-      "teaser": "Am Morgen ist ein Mann mit seinem Kajak auf der Kleinen Luppe gekentert!",
-      "url": "https://www.bild.de/regional/leipzig/leipzig-news/rettungseinsatz-mann-in-leipzig-mit-kanu-gekentert-klinik-83699886.bild.html",
-      "image_title": "Rettungseinsatz: Mann (31) in Leipzig mit Kajak gekentert – Klinik!"
-    },
-    {
-      "title": "Polizei fahndet nach diesem Rostocker Jungen : Justin (12) spurlos verschwunden",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/polizei-sucht-vermisstes-kind-in-rostock-justin-12-spurlos-verschwunden-83705830.bild.html",
-      "image_title": "Polizei sucht vermisstes Kind in Rostock: Justin (12) spurlos verschwunden"
-    },
-    {
-      "title": "Hansa Rostock : Darum bringt der Fürth-Sieg neue Zuversicht",
-      "teaser": "Zwar ist Rostock weiter Vorletzter. Trotzdem ist der Optimismus zurück. BILD sagt, warum.",
-      "url": "https://www.bild.de/sport/fussball/hansa-rostock/hansa-rostock-darum-bringt-der-fuerth-sieg-neue-zuversicht-83705822.bild.html",
-      "image_title": "Hansa Rostock: Darum bringt der Fürth-Sieg neue Zuversicht"
-    },
-    {
-      "title": "Bald weniger Anbaufläche, Vieh und Höfe : Werden Landwirte zu Bauernopfern des Klimas?",
-      "teaser": "Moor geht vor! Ackerbau und Viehzucht sind in Mecklenburg-Vorpommern auf dem Rückzug.",
-      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/klimaschutz-werden-landwirte-zu-bauernopfern-83697456.bild.html",
-      "image_title": "Klimaschutz: Werden Landwirte zu Bauernopfern?"
-    },
-    {
-      "title": "Wolf und Bär bei Oberaudorf : „Wir haben Angst um unsere Kinder“",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/wolf-und-baer-bei-oberaudorf-wir-haben-angst-um-unsere-kinder-83702114.bild.html",
-      "image_title": "Wolf und Bär bei Oberaudorf: „Wir haben Angst um unsere Kinder“"
-    },
-    {
-      "title": "Musiker wegen Tabak-Marke verklagt : Rapper „Haftbefehl\" hat Beef wegen „Brudi\"",
-      "teaser": "Rauchiger Gerichtsstress für Rapper „Haftbefehl\"!",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-regional-politik-und-wirtschaft/muenchen-rapper-haftbefehl-verklagt-wegen-tabakmarke-brudi-83704996.bild.html",
-      "image_title": "München: Rapper „Haftbefehl\" verklagt wegen Tabakmarke „Brudi\""
-    },
-    {
-      "title": "Fall „Badewannen-Mord\" erneut vor Gericht : Hausmeister weist jede Schuld von sich",
-      "teaser": "Der wegen der Ermordung einer 87-Jährigen Verurteilte bezeichnet sich als unschuldig.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/badewannen-mord-erneut-vor-gericht-hausmeister-weist-schuld-von-sich-83698698.bild.html",
-      "image_title": "München: Badewannen-Mord vor Gericht: Hausmeister weist Schuld von sich"
-    },
-    {
-      "title": "Für den Saison-Schlussspurt des FCN : Hecking fordert Monster-Serie",
-      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-fuer-den-saison-schlussspurt-des-fcn-hecking-fordert-monster-serie-83704538.bild.html",
-      "image_title": "FCN: Für den Saison-Schlussspurt des FCN: Hecking fordert Monster-Serie"
-    },
-    {
-      "title": "Unser ÖPNV besser als in München : Unsere Busse und Bahnen sind top!",
-      "teaser": "Gute Noten für Busse und Bahnen in unserer Stadt – Platz 3 in Deutschland!",
-      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/unser-oepnv-besser-als-in-muenchen-unsere-busse-und-bahnen-sind-top-83703732.bild.html",
-      "image_title": "Unser ÖPNV besser als in München: Unsere Busse und Bahnen sind top!"
-    },
-    {
-      "title": "Rassismus-Streit auf der Wiesn : Bürgermeisterin will Umbemalung finanzieren",
-      "teaser": "Katrin Habenschaden (Grüne) attackiert auch den Oktoberfest-Chef und die CSU.",
-      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/rassismus-streit-auf-dem-oktoberfest-zahlt-muenchen-fuer-umbemalung-83698650.bild.html",
-      "image_title": "Rassismus-Streit auf dem Oktoberfest: Zahlt München für Umbemalung?"
-    },
-    {
-      "title": "Sterne-Koch Anthony Sarpong sorgt fürs leibliche Wohl : Dieses Altersheim ist Luxus pur",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/dortmund-luxus-altersheim-am-phoenixsee-hat-sogar-einen-sterne-koch-83703786.bild.html",
-      "image_title": "Dortmund: Luxus-Altersheim am Phoenixsee hat sogar einen Sterne-Koch"
-    },
-    {
-      "title": "Nach Pannen-Bombensprengung in Essen : Wer zahlt denn jetzt den Schaden?",
-      "teaser": "Nach der missglückten Bomben-Sprengung in Essen bleiben bei Anwohnern viele Fragen zurück.",
-      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/nach-pannen-bombensprengung-in-essen-wer-zahlt-denn-jetzt-den-schaden-83706362.bild.html",
-      "image_title": "Nach Pannen-Bombensprengung in Essen: Wer zahlt denn jetzt den Schaden?"
-    },
-    {
-      "title": "Für die Schalke-Rettung : Das ist die Reis-Streichliste",
-      "teaser": "Was Schalke braucht? Veränderung! Deshalb könnte Reis die Startelf gegen Werder umschmeißen.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/schalke/fuer-die-rettung-von-schalke-04-das-ist-die-streichliste-von-thomas-reis-83705742.bild.html",
-      "image_title": "Für die Rettung von Schalke 04: Das ist die Streichliste von Thomas Reis"
-    },
-    {
-      "title": "Stadt Saarbrücken macht Hoffnung : Bald auch wieder Pedelecs zum Leihen?",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/saarbruecken-stadt-macht-hoffnung-bald-auch-wieder-pedelecs-zum-leihen-83703582.bild.html",
-      "image_title": "Saarbrücken: Stadt macht Hoffnung: Bald auch wieder Pedelecs zum Leihen?"
-    },
-    {
-      "title": "Nach BILD-Bericht : Männerballett hat neue Tänzer",
-      "teaser": "Sie haben sich vermehrt! „Die Lumumbas“ haben endlich neue Mitglieder gefunden.",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/ottweiler-nach-bild-bericht-maennerballett-hat-neue-taenzer-83702294.bild.html",
-      "image_title": "Ottweiler: Nach BILD-Bericht: Männerballett hat neue Tänzer"
-    },
-    {
-      "title": "1 Jahr nach Urteil : Suspendierter OB kassiert immer noch",
-      "teaser": "Über ein Jahr nach seiner Verurteilung läuft das Disziplinaverfahren immer noch",
-      "url": "https://www.bild.de/regional/saarland/saarland-news/1-jahr-nach-urteil-suspendierter-homburger-ob-kassiert-immer-noch-83701878.bild.html",
-      "image_title": "1 Jahr nach Urteil: Suspendierter Homburger OB kassiert immer noch"
-    },
-    {
-      "title": "Rundum doof gelaufen! : 450 000-Euro- Rettungsweg nicht nutzbar",
-      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/wittenberg-sachsen-anhalt-450-000-euro-rettungsweg-nicht-nutzbar-83704804.bild.html",
-      "image_title": "Wittenberg, Sachsen-Anhalt: 450 000-Euro-Rettungsweg nicht nutzbar"
-    },
-    {
-      "title": "Beste Freundin von getöteter Kezhia (19) : „Tino wollte nur Sex, das hat sie gestört“",
-      "teaser": "Sie haben gemeinsam gelacht, geweint und Geheimnisse geteilt.",
-      "url": "https://www.bild.de/bild-plus/regional/sachsen-anhalt/sachsen-anhalt-news/kloetze-freundin-kezhia-erkannte-nicht-dass-er-sie-nur-ausnutzt-83690590.bild.html",
-      "image_title": "Klötze: Freundin: Kezhia erkannte nicht, „dass er sie nur ausnutzt“"
-    },
-    {
-      "title": "11 Taten in Ostdeutschland aufgeklärt : Polizei überführt Automaten-Bomber",
-      "teaser": "Die Polizei konnte Automaten-Sprengungen in Sachsen, Sachsen-Anhalt und Thüringen klären.",
-      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/geldautomaten-gesprengt-polizei-klaert-taten-in-ostdeutschland-auf-83700214.bild.html",
-      "image_title": "Geldautomaten gesprengt: Polizei klärt Taten in Ostdeutschland auf"
-    },
-    {
-      "title": "Stuttgarter Kabel-Dynastie : Fabrikant Lapp stirbt bei Motorrad-Unfall",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/stuttgarter-kabel-dynastie-siegbert-lapp-stirbt-bei-motorrad-unfall-83704154.bild.html",
-      "image_title": "Stuttgarter Kabel-Dynastie: Siegbert Lapp stirbt bei Motorrad-Unfall"
-    },
-    {
-      "title": "9 überraschende Fakten : Hier gilt das Deutschland-Ticket auch im Fernverkehr",
-      "teaser": "In Baden-Württemberg darf man auch in schnellere Züge steigen.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/hier-gilt-das-deutschland-ticket-auch-im-fernverkehr-83704452.bild.html",
-      "image_title": "Hier gilt das Deutschland-Ticket auch im Fernverkehr"
-    },
-    {
-      "title": "Internationales Trickfilmfestival : Diese Filme gibt’s gratis auf dem Schlossplatz",
-      "teaser": "Bis Sonntag laufen Animationsfilme auf der Open Air LED-Leinwand in Stuttgart.",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/trickfilmfestival-diese-filme-gibts-gratis-auf-dem-schlossplatz-83702150.bild.html",
-      "image_title": "Trickfilmfestival: Diese Filme gibt’s gratis auf dem Schlossplatz"
-    },
-    {
-      "title": "20 000 Euro für Klima-Irrsinn : Stadt baut Fahrspur mit Parkbänken zu",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/erfurt-stadt-baut-fahrspur-mit-parkbaenken-zu-83703136.bild.html",
-      "image_title": "Erfurt: Klima-Irrsinn – Stadt baut Fahrspur mit Parkbänken zu"
-    },
-    {
-      "title": "21 Jahre nach Schul-Amok in Erfurt : „Die Wunden sind noch nicht verheilt“",
-      "teaser": "Hunderte gedachten am Mittwoch den 16 Opfern des Amoklaufs von 2002 in Erfurt.",
-      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/21-jahre-nach-amoklauf-erfurt-gedenkt-der-opfer-des-schulmassakers-83698380.bild.html",
-      "image_title": "21 Jahre nach Amoklauf: Erfurt gedenkt der Opfer des Schulmassakers"
-    },
-    {
-      "title": "FC Carl Zeiss Jena : Von einem Ost-Rivalen! Erster Neuer steht fest",
-      "teaser": "Bei Regionalligist Carl Zeiss Jena steht der erste Neuzugang schon fest.",
-      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fc-carl-zeiss-jena-von-einem-ost-rivalen-erste-neuer-steht-fest-83697558.bild.html",
-      "image_title": "FC Carl Zeiss Jena: Von einem Ost-Rivalen! Erste Neuer steht fest"
-    }
-  ]
+  "articles": []
 }
