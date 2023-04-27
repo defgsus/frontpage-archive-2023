@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-27T11:09:42",
+  "timestamp": "2023-04-27T12:21:08",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PrestaShop",
+      "url": "https://www.heise.de/news/Onlineshop-System-PrestaShop-Angreifer-koennten-Datenbank-manipulieren-8980645.html"
+    },
+    {
       "title": "VMware Workstation&Fusion",
       "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Hersteller-stopft-kritische-Zero-Day-Luecke-8979106.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Nvidia-schuetzt-mehrere-Produkte-vor-moeglichen-Attacken-8976961.html"
     },
     {
-      "title": "Solarwinds",
-      "url": "https://www.heise.de/news/Solarwinds-Zwei-hochriskante-Luecken-mit-Update-geschlossen-8976832.html"
+      "title": "Onlineshop-System PrestaShop: Angreifer könnten Datenbank manipulieren",
+      "teaser": "Eine kritische Sicherheitslücke bedroht mit PrestaShop erstellte Onlineshops. Abgesicherte Versionen sind verfügbar.",
+      "url": "https://www.heise.de/news/Onlineshop-System-PrestaShop-Angreifer-koennten-Datenbank-manipulieren-8980645.html"
     },
     {
       "title": "c't-Webinar: Rechtliche Sicherheit beim Einsatz von ChatGPT, Midjourney & Co.",
@@ -53,15 +58,15 @@
       "url": "https://www.heise.de/news/c-t-Webinar-Rechtliche-Sicherheit-beim-Einsatz-von-ChatGPT-Midjourney-Co-8979347.html"
     },
     {
-      "title": "Google Authenticator: Kehrtwende nach Klartext-Synchronisierung",
-      "teaser": "Der Google Authenticator überträgt bei der Synchronisierung des wichtigen Geheimnisses Klartext. Jetzt kündigt Google an, E2E-Verschlüsselung nachzurüsten.",
-      "url": "https://www.heise.de/news/Google-Authenticator-Ende-zu-Ende-Verschluesselung-in-Planung-8980559.html"
-    },
-    {
       "title": "Feature mit Bug: Microsoft Edge telefoniert besuchte Seiten nach Hause​",
       "teaser": "\"Folgen von Creator\". Die neue Funktion im Microsoft-Browser hat offenbar unerwünschte Nebenwirkungen: Edge schickt die URLs besuchter Seiten an eine Bing-API.​",
       "url": "https://www.heise.de/news/Feature-mit-Bug-Microsoft-Edge-telefoniert-besuchte-Seiten-nach-Hause-8980355.html",
       "image_title": "Edge,Of,Smartphone,With,Microsoft,Bing,Search,Engine,Website,In"
+    },
+    {
+      "title": "Google Authenticator: Warnung - Backup der geheimen \"Saat\" im Klartext",
+      "teaser": "Google spendierte dem Authenticator ein Backup der Geheimnisse, die zur Erstellung der Einmalpasswörter nötig sind. Google bekommt diese Daten aber im Klartext.",
+      "url": "https://www.heise.de/news/Google-Authenticator-Warnung-Backup-der-geheimen-Saat-im-Klartext-8979932.html"
     },
     {
       "title": "Nach NRW-Abi-Panne: Sicherheitslücke auf Schulserver enthüllt tausende Nutzer",
@@ -146,11 +151,6 @@
       "title": "XWorm RAT: Avira-Sicherheitsexperten warnen vor Malware",
       "teaser": "Sicherheitsexperten von Avira warnen vor der Malware XWorm RAT",
       "url": "https://www.heise.de/news/XWorm-RAT-Avira-Sicherheitsexperten-warnen-vor-Malware-8976282.html"
-    },
-    {
-      "title": "GitHub-Updates: Private Schwachstellenmeldungen und Regeln für Branches",
-      "teaser": "Gleich drei neue Funktionen hat GitHub veröffentlicht. Sie verbessern die Sicherheit und machen die Arbeit mit Branches komfortabler.",
-      "url": "https://www.heise.de/news/GitHub-Updates-Private-Schwachstellenmeldungen-und-Regeln-fuer-Branches-8976202.html"
     },
     {
       "title": "Apple-ID mit Hardware-Token schützen: Mein Schlüssel zu Apple",
