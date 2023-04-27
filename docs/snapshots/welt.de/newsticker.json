@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-27T21:10:55",
+  "timestamp": "2023-04-27T22:09:36",
   "url": "https://www.welt.de/newsticker/",
   "response": {
     "status": 200
@@ -13,6 +13,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Deutschland",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "topic": "Familienministerium"
+    },
     {
       "title": "Ausland",
       "url": "https://www.welt.de/politik/ausland/",
@@ -32,11 +37,6 @@
       "title": "Flüchtlinge",
       "url": "https://www.welt.de/politik/fluechtlinge/",
       "topic": "Neue Asyl-Zahlen"
-    },
-    {
-      "title": "Wirtschaft",
-      "url": "https://www.welt.de/wirtschaft/",
-      "topic": "Verbraucherpreise steigen"
     },
     {
       "title": "Kriminalität",
@@ -80,6 +80,12 @@
       "topic": "Hajo Funke zur Wahl Wegners"
     },
     {
+      "title": "„Früher war Deutschland Champions League. Dann Europa League. Jetzt Abstiegskandidat“",
+      "url": "https://www.welt.de/wirtschaft/video245045888/Carsten-Maschmeyer-bei-WELT-Frueher-war-Deutschland-Champions-League-Jetzt-Abstiegskandidat.html",
+      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
+      "topic": "Carsten Maschmeyer bei WELT"
+    },
+    {
       "title": "Debatte um den Abschuss von Problemtieren",
       "url": "https://www.welt.de/vermischtes/video245042160/Schutzstatus-von-Woelfen-Debatte-um-den-Abschuss-von-Problemtieren.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
@@ -110,12 +116,6 @@
       "url": "https://www.welt.de/wirtschaft/video245019872/Viessmann-verkauft-Klima-Sparte-Zukunftsaussichten-des-Standorts-Deutschland-nicht-gut.html",
       "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
       "topic": "Viessmann-Deal"
-    },
-    {
-      "title": "Konsum von Tabak und Alkohol weiter auf hohem Niveau",
-      "url": "https://www.welt.de/vermischtes/video245016318/Suchtbericht-Konsum-von-Tabak-und-Alkohol-weiter-auf-hohem-Niveau.html",
-      "image_url": "https://www.welt.de/assets/images/global/lazy-picture-placeholder-01c4eedaca.png",
-      "topic": "Suchtbericht"
     },
     {
       "title": "Droht der Ausverkauf einer deutschen Schüsseltechnologie?",
