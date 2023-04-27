@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-27T07:10:37",
+  "timestamp": "2023-04-27T08:13:50",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,9 +32,10 @@
   ],
   "articles": [
     {
-      "title": "VerschlüsselungGoogle Authenticator: Warnung - Backup der geheimen \"Saat\" im Klartext",
-      "teaser": "Google spendierte dem Authenticator ein Backup der Geheimnisse, die zur Erstellung der Einmalpasswörter nötig sind. Google bekommt diese Daten aber im Klartext.",
-      "url": "https://www.heise.de/news/Google-Authenticator-Warnung-Backup-der-geheimen-Saat-im-Klartext-8979932.html"
+      "title": "AST SpacemobileErstes Satelliten-Telefonat mit normalem Handy",
+      "teaser": "Das erste Telefongespräch direkt via Satellit mit einem nicht modifizierten Smartphone ist AST Spacemobile gelungen. Dessen Satellit hat eine enorme Antenne.",
+      "url": "https://www.heise.de/news/Erstes-Satelliten-Telefonat-mit-normalem-Handy-8980447.html",
+      "image_title": "Darstellung des Salliten, im Hintergrund die Erdkugel"
     },
     {
       "title": "IT-Security Apple-ID mit Hardware-Token schützen",
@@ -43,10 +44,14 @@
       "image_title": "Sicherheitsschlüssel,"
     },
     {
-      "title": "AST SpacemobileErstes Satelliten-Telefonat mit normalem Handy",
-      "teaser": "Das erste Telefongespräch direkt via Satellit mit einem nicht modifizierten Smartphone ist AST Spacemobile gelungen. Dessen Satellit hat eine enorme Antenne.",
-      "url": "https://www.heise.de/news/Erstes-Satelliten-Telefonat-mit-normalem-Handy-8980447.html",
-      "image_title": "Darstellung des Salliten, im Hintergrund die Erdkugel"
+      "title": "VerschlüsselungGoogle Authenticator: Warnung - Backup der geheimen \"Saat\" im Klartext",
+      "teaser": "Google spendierte dem Authenticator ein Backup der Geheimnisse, die zur Erstellung der Einmalpasswörter nötig sind. Google bekommt diese Daten aber im Klartext.",
+      "url": "https://www.heise.de/news/Google-Authenticator-Warnung-Backup-der-geheimen-Saat-im-Klartext-8979932.html"
+    },
+    {
+      "title": "Google AuthenticatorEnde-zu-Ende-Verschlüsselung in Planung",
+      "teaser": "Der Google Authenticator überträgt bei der Synchronisierung des wichtigen Geheimnisses Klartext. Jetzt kündigt Google an, E2E-Verschlüsselung nachzurüsten.",
+      "url": "https://www.heise.de/news/Google-Authenticator-Ende-zu-Ende-Verschluesselung-in-Planung-8980559.html"
     },
     {
       "title": "Cyber-Angriff auf BitmarckEinige Krankenkassen-Dienste gestört",
@@ -87,9 +92,9 @@
       "image_title": "KI Midjourney Bearbeitung c’t"
     },
     {
-      "title": "EnergieNeue Wärmequelle für Wärmepumpen: die Fassade",
+      "title": "EnergieFassade liefert Wärme für Wärmepumpen",
       "teaser": "Neue Fassaden-Elemente sollen Erdsonden und Luft-Wärmetauscher für Wärmepumpen überflüssig machen.",
-      "url": "https://www.heise.de/hintergrund/Neue-Waermequelle-fuer-Waermepumpen-die-Fassade-8979476.html",
+      "url": "https://www.heise.de/hintergrund/Fassade-liefert-Waerme-fuer-Waermepumpen-8979476.html",
       "image_title": "Waermepumpe"
     },
     {
@@ -144,7 +149,22 @@
       "image_title": ", KI Midjourney Bearbeitung: c't"
     },
     {
-      "title": "Google Authenticator: Ende-zu-Ende-Verschlüsselung in Planung",
+      "title": "c't-Webinar: Rechtliche Sicherheit beim Einsatz von ChatGPT, Midjourney & Co.",
+      "teaser": "Für Klarheit bei datenschutzrechtlichen und urheberrechtlichen Fragen beim Einsatz von KI-Generatoren soll ein praxisnahes c't-Webinar am 24. Mai sorgen.",
+      "url": "https://www.heise.de/news/c-t-Webinar-Rechtliche-Sicherheit-beim-Einsatz-von-ChatGPT-Midjourney-Co-8979347.html"
+    },
+    {
+      "title": "Wasserkraft: Wie Deutschland verlässlich und schonend Strom produzieren könnte",
+      "teaser": "Wasserkraft spielt in Deutschland nur eine kleine Rolle – zu gering die geografischen Potenziale, zu groß die ökologischen Probleme. Doch es geht auch anders.",
+      "url": "https://www.heise.de/hintergrund/Wasserkraft-Wie-Deutschland-verlaesslich-und-schonend-Strom-produzieren-koennte-8243954.html"
+    },
+    {
+      "title": "heise meets … Blinder Glaube an Buzzwords führt in die Irre",
+      "teaser": "Das unkritische Nachplappern und Nachahmen von Trends oder Schlagwörtern geht schnell nach hinten los, meint Unternehmer und Coach Lars Vollmer im Podcast.",
+      "url": "https://www.heise.de/news/heise-meets-Blinder-Glaube-an-Buzzwords-fuehrt-in-die-Irre-8980419.html"
+    },
+    {
+      "title": "Google Authenticator: Kehrtwende nach Klartext-Synchronisierung",
       "teaser": "Der Google Authenticator überträgt bei der Synchronisierung des wichtigen Geheimnisses Klartext. Jetzt kündigt Google an, E2E-Verschlüsselung nachzurüsten.",
       "url": "https://www.heise.de/news/Google-Authenticator-Ende-zu-Ende-Verschluesselung-in-Planung-8980559.html"
     },
@@ -172,23 +192,6 @@
       "url": "https://www.heise.de/tests/Schreibprogramme-fuer-Autoren-und-Vielschreiber-Fuenf-Tools-im-Vergleich-8975664.html"
     },
     {
-      "title": "Amzon beendet Gesundheitsdienst Halo und kündigt Entlassungen an",
-      "teaser": "Amazons Gesundheitsdienst Halo wird eingestellt. Die Halo-Geräte funktionieren dann nicht mehr. Es gibt aber Rückerstattungen für betroffene Kunden.",
-      "url": "https://www.heise.de/news/Entlassungen-Amazon-stellt-Fitnessdienst-Halo-ein-8980492.html"
-    },
-    {
-      "title": "Neue Wärmequelle für Wärmepumpen: die Fassade",
-      "teaser": "Neue Fassaden-Elemente sollen Erdsonden und Luft-Wärmetauscher für Wärmepumpen überflüssig machen.",
-      "url": "https://www.heise.de/hintergrund/Neue-Waermequelle-fuer-Waermepumpen-die-Fassade-8979476.html",
-      "image_title": "Waermepumpe"
-    },
-    {
-      "title": "Donnerstag: Meta mit Nutzerrekord und Umsatzplus, Handy mit Satellitenzugang",
-      "teaser": "Meta-Apps mit mehr Werbung + Satelliten-Telefonat mit normalem Handy + Batterieelektrische Fähren in Modulbauweise + Bosch mit US-Chipfabrik + #heiseshow",
-      "url": "https://www.heise.de/news/Donnerstag-Meta-mit-Nutzerrekord-und-Umsatzplus-Handy-mit-Satellitenzugang-8980473.html",
-      "image_title": "Ein Satellit umkreist die Erde; Donnerstag: Meta-Wachstum, Satelliten-Telefonat, Elektro-Fähren, Bosch-Chipfabrik & #heiseshow"
-    },
-    {
       "title": "Smartphone runderneuert: Wann sich Refurbished-Geräte wirklich lohnen",
       "teaser": "Mehr und mehr Händler locken mit Gebrauchtgeräten, die wie neu, aber billiger sein sollen. Wie sinnvoll und nachhaltig ist der Kauf von Refurbished-Smartphones?",
       "url": "https://www.heise.de/ratgeber/Smartphone-runderneuert-Lohnt-der-Refurbished-Kauf-8972130.html"
@@ -208,6 +211,23 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Amazon beendet Gesundheitsdienst Halo und kündigt Entlassungen an",
+      "teaser": "Amazons Gesundheitsdienst Halo wird eingestellt. Die Halo-Geräte funktionieren dann nicht mehr. Es gibt aber Rückerstattungen für betroffene Kunden.",
+      "url": "https://www.heise.de/news/Entlassungen-Amazon-stellt-Fitnessdienst-Halo-ein-8980492.html"
+    },
+    {
+      "title": "Fassade liefert Wärme für Wärmepumpen",
+      "teaser": "Neue Fassaden-Elemente sollen Erdsonden und Luft-Wärmetauscher für Wärmepumpen überflüssig machen.",
+      "url": "https://www.heise.de/hintergrund/Fassade-liefert-Waerme-fuer-Waermepumpen-8979476.html",
+      "image_title": "Waermepumpe"
+    },
+    {
+      "title": "Donnerstag: Meta mit Nutzerrekord und Umsatzplus, Handy mit Satellitenzugang",
+      "teaser": "Meta-Apps mit mehr Werbung + Satelliten-Telefonat mit normalem Handy + Batterieelektrische Fähren in Modulbauweise + Bosch mit US-Chipfabrik + #heiseshow",
+      "url": "https://www.heise.de/news/Donnerstag-Meta-mit-Nutzerrekord-und-Umsatzplus-Handy-mit-Satellitenzugang-8980473.html",
+      "image_title": "Ein Satellit umkreist die Erde; Donnerstag: Meta-Wachstum, Satelliten-Telefonat, Elektro-Fähren, Bosch-Chipfabrik & #heiseshow"
     },
     {
       "title": "Batterieelektrische Fähren in Modulbauweise – die Medstraum ist schon unterwegs",
@@ -267,6 +287,11 @@
       "image_title": "Kamera-Auto für Apple Maps, gesehen im Juni 2020 in Köln"
     },
     {
+      "title": "Ein ganzheitlicher Ansatz für mehr Energieeffizienz & Nachhaltigkeit",
+      "teaser": "In puncto Energieeffizienz und Nachhaltigkeit stehen Wirtschaft und Gesellschaft vor riesigen Herausforderungen. Dieser Themenkomplex ist für eine erfolgreiche Geschäftsstrategie zur Wachstumsförderung von großer Bedeutung – und hat inzwischen auch für Unternehmensvorstände hohe Priorität.",
+      "url": "https://it-kenner.heise.de/zukunft-der-arbeit/hybrides-arbeiten/ein-ganzheitlicher-ansatz-fuer-mehr-energieeffizienz-nachhaltigkeit/?utm_source=heise&utm_medium=hbsad&utm_campaign=Die_Zukunft_der_Arbeit"
+    },
+    {
       "title": "Video-Workshop Adobe Lightroom: Bilder in Photoshop weiter bearbeiten",
       "teaser": "In dieser Ausgabe zeigen wir Ihnen, wie Sie Bilder aus Lightroom an Photoshop überführen, aber weiter dort verwalten. Das spart Zeit.",
       "url": "https://www.heise.de/hintergrund/Video-Workshop-Adobe-Lightroom-Bilder-in-Photoshop-weiter-bearbeiten-8947126.html"
@@ -281,11 +306,6 @@
       "title": "Google Authenticator: Warnung - Backup der geheimen \"Saat\" im Klartext",
       "teaser": "Google spendierte dem Authenticator ein Backup der Geheimnisse, die zur Erstellung der Einmalpasswörter nötig sind. Google bekommt diese Daten aber im Klartext.",
       "url": "https://www.heise.de/news/Google-Authenticator-Warnung-Backup-der-geheimen-Saat-im-Klartext-8979932.html"
-    },
-    {
-      "title": "Ein ganzheitlicher Ansatz für mehr Energieeffizienz & Nachhaltigkeit",
-      "teaser": "In puncto Energieeffizienz und Nachhaltigkeit stehen Wirtschaft und Gesellschaft vor riesigen Herausforderungen. Dieser Themenkomplex ist für eine erfolgreiche Geschäftsstrategie zur Wachstumsförderung von großer Bedeutung – und hat inzwischen auch für Unternehmensvorstände hohe Priorität.",
-      "url": "https://it-kenner.heise.de/zukunft-der-arbeit/hybrides-arbeiten/ein-ganzheitlicher-ansatz-fuer-mehr-energieeffizienz-nachhaltigkeit/?utm_source=heise&utm_medium=hbsad&utm_campaign=Die_Zukunft_der_Arbeit"
     },
     {
       "title": "Naturfotografin des Jahres 2023 gekürt",
@@ -324,22 +344,6 @@
       "teaser": "Pipelines, GitOps-Templates und -Sets in Weave GitOps sollen Entwicklern mehr Freiheit verschaffen und die Produktivität in der Software Supply Chain erhöhen.",
       "url": "https://www.heise.de/news/Software-Supply-Chain-Weave-GitOps-liefert-Automatisierungstools-fuer-Developer-8980106.html",
       "image_title": "Software-Supply-Chain: Weave GitOps liefert Automatisierungstools für Developer"
-    },
-    {
-      "title": "Umfrage: Frauenanteil in der Techbranche bleibt niedrig",
-      "teaser": "Der Frauenanteil in hiesigen ITK-Firmen liegt laut Bitkom-Umfrage bei 15 Prozent an der Gesamtbelegschaft. Beim IT-Fachpersonal ist der Anteil noch niedriger.",
-      "url": "https://www.heise.de/news/Umfrage-Frauenanteil-in-der-Techbranche-bleibt-niedrig-8980168.html"
-    },
-    {
-      "title": "Top 6: Die besten Radar- und Blitzerwarner – Saphe vor Ooono",
-      "teaser": "Die neueste Generation der Warner für Blitzer und Gefahren im Straßenverkehr basiert auf Daten einer aktiven Community. Wir haben sechs Lösungen getestet.",
-      "url": "https://www.techstage.de/bestenliste/top-6-die-besten-radar-und-blitzerwarner-saphe-vor-ooono/y926r7z?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Cyber-Angriff auf Bitmarck: Einige Krankenkassen-Dienste gestört",
-      "teaser": "Einige Krankenkassen haben derzeit mit technischen Störungen zu kämpfen. Sie gehen auf Cyber-Attacken auf den IT-Dienstleister Bitmarck zurück.",
-      "url": "https://www.heise.de/news/Cyber-Angriff-auf-Bitmarck-Einige-Krankenkassen-Dienste-gestoert-8978360.html",
-      "image_title": "Medicine,Doctor,Working,Digital,Tablet,For,Medical,Record,Of,Patient"
     },
     {
       "title": "Erfundenes Schumacher-Interview: \"Die Aktuelle\"-Chefin wegen KI-Text entlassen",
@@ -511,6 +515,11 @@
       "url": "https://www.heise.de/news/Assistenzroboter-zum-Fuettern-kann-mit-fast-jeder-Mahlzeit-umgehen-8962464.html"
     },
     {
+      "title": "Umfrage: Frauenanteil in der Techbranche bleibt niedrig",
+      "teaser": "Der Frauenanteil in hiesigen ITK-Firmen liegt laut Bitkom-Umfrage bei 15 Prozent an der Gesamtbelegschaft. Beim IT-Fachpersonal ist der Anteil noch niedriger.",
+      "url": "https://www.heise.de/news/Umfrage-Frauenanteil-in-der-Techbranche-bleibt-niedrig-8980168.html"
+    },
+    {
       "title": "AR-BrilleAllwissend dank ChatGPT",
       "teaser": "Studierende haben ein OpenAI-Sprachmodell mit einer AR-Brille kombiniert. Die Sprach-KI wird so zum Sozial-Coach.",
       "url": "https://www.heise.de/news/Allwissend-dank-ChatGPT-8978858.html"
@@ -518,18 +527,12 @@
     {
       "title": "Entlassungen: Red Hat will vier Prozent der Stellen streichen",
       "teaser": "Auch beim zu IBM gehörigen Linux-Spezialisten Red Hat gibt es eine Kürzungsrunde: Bis zu vier Prozent der Belegschaft soll es treffen.",
-      "url": "https://www.heise.de/news/Entlassungen-Red-Hat-will-vier-Prozent-der-Stellen-streichen-8978460.html",
-      "image_title": "Red,Hat,Logo,And,Sign,On,Open-source,Software,Company,Office,Linux,Rhel,Red Hat"
+      "url": "https://www.heise.de/news/Entlassungen-Red-Hat-will-vier-Prozent-der-Stellen-streichen-8978460.html"
     },
     {
       "title": "Studie im Support: KI-Chatbots machen vor allem Geringqualifizierte produktiver",
       "teaser": "Im KI-Hype geht es auch immer wieder um die Folgen für den Arbeitsmarkt. Eine Studie zeigt, welche Konsequenzen eine Einführung derartiger Technik haben kann.",
       "url": "https://www.heise.de/news/Studie-im-Support-KI-Chatbots-machen-vor-allem-Geringqualifizierte-produktiver-8977854.html"
-    },
-    {
-      "title": "EinsparungenGoogle stoppt Bau des Campuses in San José",
-      "teaser": "Der gigantische Campus in San José wird zunächst nicht gebaut. Google hat den Start auf unbestimmte Zeit verschoben.",
-      "url": "https://www.heise.de/news/Google-stoppt-Bau-des-Campus-in-San-Jose-8977113.html"
     },
     {
       "title": "Kurz informiert vom 21.04.2023 by heise online",
@@ -610,26 +613,27 @@
       "url": "https://www.heise.de/news/Smarthome-Erste-Firma-steigt-aus-dem-neuen-Standard-Matter-aus-8975602.html"
     },
     {
+      "title": "Lebenswandel am Polarkreis: Deichtorhallen Hamburg stellen Ragnar Axelsson aus",
+      "teaser": "Die Eiswüsten des Nordens sind das Zuhause von Ragnar Axelsson. Doch das Leben dort verändert sich. Er dokumentiert den Wandel in ausdrucksstarkem Schwarzweiß.",
+      "url": "https://www.heise.de/news/Lebenswandel-am-Polarkreis-Deichtorhallen-Hamburg-stellen-Ragnar-Axelsson-aus-8977020.html"
+    },
+    {
+      "title": "Naturfotografin des Jahres 2023 gekürt",
+      "teaser": "Zwei Greifvögel auf einem Strommast, die sich nichts zu sagen haben, überzeugten die Jury der Gesellschaft für Naturfotografie.",
+      "url": "https://www.heise.de/news/Naturfotografin-des-Jahres-2023-gekuert-8979482.html",
+      "image_title": "Das Foto zeigt zwei Greifvögel, die auf einem Strommast sitzen und in entgegengesetzte Richtungen schauen."
+    },
+    {
+      "title": "Vom Fotoreporter zum Rettungssanitäter – ein Interview mit Knut Gielen",
+      "teaser": "Als Fotoreporter war Knut Gielen jahrelang in der ganzen Welt unterwegs. Heute arbeitet er als Rettungssanitäter in Hamburg. Ein Gespräch.",
+      "url": "https://www.heise.de/ratgeber/Vom-Fotoreporter-zum-Rettungssanitaeter-ein-Interview-mit-Knut-Gielen-8979461.html",
+      "image_title": "Ein Fotoreporter sitzt in einem amerikanischen Kampfjet mit geöffneter Glashaube."
+    },
+    {
       "title": "Extrem begehrt: Pentax K-3 III Monochrome bereits zum zweiten Mal ausverkauft",
       "teaser": "Die neue APS-C-Spiegelreflexkamera ist bei Kunden so beliebt, dass Ricoh Imaging erneut den Ausverkauf der Pentax K-3 III Monochrome in Japan melden muss.",
       "url": "https://www.heise.de/news/Extrem-begehrt-Pentax-K-3-III-Monochrome-bereits-zum-zweiten-Mal-ausverkauft-8978888.html",
       "image_title": "Die Pentax K3 Monochrom vor dunklem Hintergrund"
-    },
-    {
-      "title": "Wandkalender: Acht Druckdienstleister im Test",
-      "teaser": "Fotos kommen im großen Format am besten zur Geltung, doch auch Optik und Haptik tragen zum Bildeindruck bei. Wir haben acht DIN-A3-Wandkalender getestet.",
-      "url": "https://www.heise.de/ratgeber/Wandkalender-Acht-Druckdienstleister-im-Test-8973774.html",
-      "image_title": ","
-    },
-    {
-      "title": "Mavic 3 ProDJI stellt Mavic-Drohne mit drei Kameras vor",
-      "teaser": "Dank drei Kameras soll man bei DJIs neuer Mavic 3 Pro im Flug zwischen verschiedenen Brennweiten wechseln und auch weit entfernte Objekte aufnehmen können. ​",
-      "url": "https://www.heise.de/news/DJI-Mavic-3-Pro-Neue-Drohne-mit-drei-Kameras-8978028.html"
-    },
-    {
-      "title": "c’t Fotografie Fotowettbewerb Eingerahmt: Die Sieger stehen fest!",
-      "teaser": "Im c’t Fotografie Fotowettbewerb \"Eingerahmt\" haben die Mitglieder der Fotogalerie NilsSch, Patrick Ehlen und berberbeard auf die ersten drei Plätze gewählt.",
-      "url": "https://www.heise.de/news/c-t-Fotografie-Fotowettbewerb-Eingerahmt-Die-Sieger-stehen-fest-8977618.html"
     },
     {
       "title": "IT-Security-Experte werdenSo machen Sie Karriere in der IT-Sicherheitsbranche",
@@ -722,24 +726,24 @@
       "url": "https://www.techstage.de/angebote/die-besten-photovoltaik-deals-powerstation-solarpanel-balkonkraftwerk-und-co/klmsnfr?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ziviler Gehorsam, nicht Ungehorsam ist unser Problem",
-      "teaser": "Die \"Letzte Generation\" steht am Pranger, zu Unrecht. Regelbruch und Widerstand sind das Schwungrad des historischen Fortschritts. Warum Medien und Politik Ungehorsam nur in der Vergangenheitsform feiern.",
-      "url": "https://www.heise.de/tp/features/Ziviler-Gehorsam-nicht-Ungehorsam-ist-unser-Problem-8980409.html"
-    },
-    {
-      "title": "Sanktionen gegen Russland: Yuan kratzt am US-Dollar",
-      "teaser": "US-Finanzministerin Yellen macht sich Sorgen, dass Dollar-Hegemonie geschwächt wird. Moskau lässt sich Atomkraftwerk in chinesischer Währung bezahlen.",
-      "url": "https://www.heise.de/tp/features/Sanktionen-gegen-Russland-Yuan-kratzt-am-US-Dollar-8979066.html"
-    },
-    {
       "title": "Gift in Erdbeeren und Nudeln – Klage gegen Pestizide",
       "teaser": "Lebensmittelproben geben Anlass zur Sorge. Umweltverbände haben juristische Schritt eingeleitet. Ziel ist ein konsequenter Ausstieg aus der Nutzung der gefährlichen Stoffe.",
       "url": "https://www.heise.de/tp/features/Gift-in-Erdbeeren-und-Nudeln-Klage-gegen-Pestizide-8980423.html"
     },
     {
-      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
-      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
-      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
+      "title": "Ziviler Gehorsam, nicht Ungehorsam ist unser Problem",
+      "teaser": "Die \"Letzte Generation\" steht am Pranger, zu Unrecht. Regelbruch und Widerstand sind das Schwungrad des historischen Fortschritts. Warum Medien und Politik Ungehorsam nur in der Vergangenheitsform feiern.",
+      "url": "https://www.heise.de/tp/features/Ziviler-Gehorsam-nicht-Ungehorsam-ist-unser-Problem-8980409.html"
+    },
+    {
+      "title": "Jahrbuch Sucht: Deutschland, deine Drogen",
+      "teaser": "Laut Suchtbericht sinkt der Konsum von Alkohol und Tabak. Auf relativ hohem Niveau ist er noch immer. Was ein kritischer Jugendrichter zur Gefährlichkeit von Alkohol verglichen mit Cannabis sagt.",
+      "url": "https://www.heise.de/tp/features/Jahrbuch-Sucht-Deutschland-deine-Drogen-8980194.html"
+    },
+    {
+      "title": "Handwerkersoftware im Vergleich",
+      "teaser": "Rechnungen, Auftragskalkulationen, Angebotserstellung: Mit passender Software lassen sich im Handwerk Prozesse optimieren und Aufgaben vereinfachen.",
+      "url": "https://www.heise.de/download/specials/Handwerkersoftware-im-Vergleich-7206873"
     },
     {
       "title": "ChatGPT",
