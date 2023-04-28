@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-28T03:12:27",
+  "timestamp": "2023-04-28T04:13:47",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Tarifkonflikt: Gewerkschaft EVG droht der Bahn mit Langzeit-Streiks",
+      "teaser": "Mindestens 650 Euro mehr Gehalt fordert die EVG von der Bahn und anderen Zugunternehmen. Gibt es keine Lösung, soll es wieder Streiks geben – wenn nötig: \"wochenlang\".",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/evg-bahn-zug-streik-tarifstreit-gewerkschaft",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/evg-bahn-zug-streik-tarifstreit-gewerkschaft-foto/cinema__980x420"
+    },
+    {
       "title": "Stabilitätspakt: EU-Schuldenregeln könnten Investitionen in den Klimaschutz hemmen",
       "teaser": "In den USA sieht ein Gesetz Milliarden für Investitionen in den Klimaschutz vor. Europa steht sich in dieser Frage einer Analyse zufolge selbst im Weg.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/eu-schuldenregeln-analyse-investitionen-klimaschutz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/windraeder-klimaschutz-investitionen/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/windraeder-klimaschutz-investitionen/wide__822x462",
+      "image_title": "Stabilitätspakt: EU-Schuldenregeln könnten Investitionen in den Klimaschutz hemmen"
     },
     {
       "title": "Atomkraft aus Russland: Im Kern von Russland abhängig",
@@ -66,14 +73,14 @@
       "title": "Ölhandel: Iranische Marine hält Öltanker im Golf von Oman fest",
       "teaser": "Erneut hat der Iran einen Öltanker beschlagnahmt. Der Fall birgt Eskalationspotenzial: Das Schiff war auf dem Weg Richtung USA.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/iran-oeltanker-beschlagnahmt-usa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/iran-oeltanker-beschlagnahmt-usa-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/iran-oeltanker-beschlagnahmt-usa-bild/cinema__980x420",
       "image_title": "Ölhandel: Iranische Marine hält Öltanker im Golf von Oman fest"
     },
     {
       "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
       "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
       "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
       "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/rueckgang-inflation-preise-konjunktur-einzelhandel",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/inflation-preise-bild/wide__822x462",
       "image_title": "ifo Institut: Experten rechnen mit sehr langsamem Rückgang der Inflation"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Inflation: Wo in Deutschland die Ernährungsarmut droht",
-      "teaser": "Lebensmittel werden teurer. Deshalb müssen viele Haushalte ihr Budget für Essen und Trinken überziehen, wie neue Daten zeigen. Besonders der Osten ist betroffen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/inflation-lebensmittel-bundeslaender-vergleich",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/inflation-lebensmittel-bundeslaender-vergleich-bild/wide__822x462",
-      "image_title": "Inflation: Wo in Deutschland die Ernährungsarmut droht"
     },
     {
       "title": "Bund und Kommunen: Einigung im Tarifstreit im öffentlichen Dienst",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Inflation: Wo in Deutschland die Ernährungsarmut droht",
+      "teaser": "Lebensmittel werden teurer. Deshalb müssen viele Haushalte ihr Budget für Essen und Trinken überziehen, wie neue Daten zeigen. Besonders der Osten ist betroffen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-04/inflation-lebensmittel-bundeslaender-vergleich",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/inflation-lebensmittel-bundeslaender-vergleich-bild/wide__822x462",
+      "image_title": "Inflation: Wo in Deutschland die Ernährungsarmut droht"
+    },
+    {
       "title": "Streit um Heizungen: Die Wärmepumpe als Weltanschauung",
       "teaser": "Bürgerliche, liberale und rechtspopulistische Parteien bremsen bei der Klimawende. Und machen den Bürgern Angst vor Neuem und falsche Versprechen.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/streit-um-heizungen-url-heizungen-streit-waermepumpen-viessmann-heizungsstreit-5vor8",
@@ -220,14 +227,14 @@
       "title": "Stabilitätspakt: EU-Kommission will Regeln für Schuldenabbau lockern",
       "teaser": "Die EU hat ihre Pläne für weniger strenge Schuldenregeln vorgestellt. Sie will Ländern mehr Zeit einräumen. Bundesfinanzminister Lindner will dem so nicht zustimmen.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/eu-kommission-vorschlag-schuldenabbau-christian-lindner",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/eu-kommission-vorschlag-schuldenabbau-christian-lindner-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/eu-kommission-vorschlag-schuldenabbau-christian-lindner-bild/cinema__980x420",
       "image_title": "Stabilitätspakt: EU-Kommission will Regeln für Schuldenabbau lockern"
     },
     {
       "title": "Wärmepumpen: Kanzler wertet US-Einstieg bei Viessmann positiv",
-      "teaser": "Eine \"gute Nachricht\": Die Viessmann-Übernahme kann aus Sicht von Olaf Scholz die Wärmepumpenproduktion steigern. Konkurrent Vaillant will \"aus eigener Kraft\" wachsen. 377 Kommentare",
+      "teaser": "Eine \"gute Nachricht\": Die Viessmann-Übernahme kann aus Sicht von Olaf Scholz die Wärmepumpenproduktion steigern. Konkurrent Vaillant will \"aus eigener Kraft\" wachsen.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/viessmann-usa-olaf-scholz-waermepumpem-vaillant",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/viessmann-usa-olaf-scholz-waermepumpem-vaillant-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/viessmann-usa-olaf-scholz-waermepumpem-vaillant-bild/wide__822x462",
       "image_title": "Wärmepumpen: Kanzler wertet US-Einstieg bei Viessmann positiv"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/regierung-hebt-wachstumsprognose-fuer-2023-auf-0-4-prozent-an",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/regierung-hebt-wachstumsprognose-fuer-2023-auf-0-4-prozent-an-bild/wide__822x462",
       "image_title": "Konjunkturprognose: Regierung hebt Wachstumsprognose für 2023 auf 0,4 Prozent an"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Viessmann: Yeah, die Amerikaner übernehmen",
-      "teaser": "Der Verkauf von Viessmann an einen US-Konzern ist kein Skandal, sondern eine nötige Entwicklung, die am Ende die Preise sinken lässt. Das sollte gerade die FDP wissen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/viessmann-verkauf-waermepumpen-markt-usa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/viessmann-verkauf-waermepumpen/wide__822x462",
-      "image_title": "Viessmann: Yeah, die Amerikaner übernehmen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Viessmann-Verkauf: Lobbyieren bis zum Geht-nicht-mehr",
