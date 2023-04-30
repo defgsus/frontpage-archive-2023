@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-04-30T16:12:53",
+  "timestamp": "2023-04-30T17:09:13",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.9b6b1c5f53863f1225ca.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -170,25 +176,25 @@
   ],
   "articles": [
     {
-      "title": "Wie wir essen : Der Burger ist nicht mehr King",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/lieber-bio-und-fleischersatz-ueber-trends-in-der-ernaehrung-18834907.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "Post-Chef im Interview : „Die Produktion kommt nicht zurück nach Europa“",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/abschied-von-post-chef-frank-appel-die-produktion-kommt-nicht-zurueck-nach-europa-18856729.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Abschiedskulisse: Frank Appel zieht aus dem Post-Tower aus."
     },
     {
-      "title": "Wie wir essen : Bitte heute keine Kohlsuppe",
-      "url": "https://www.faz.net/aktuell/feuilleton/deutschland-und-seine-sehr-besonderen-ernaehrungsgewohnheiten-18834844.html"
+      "title": "Managergehälter : Wie viel Geld die Dax-Chefs einstreichen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dax-managergehaelter-wie-viel-geld-die-chefs-einstreichen-18837509.html"
     },
     {
-      "title": "2:0 gegen Hertha BSC : Die Bayern mühen sich zurück auf Platz eins",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-nach-2-0-gegen-hertha-bsc-bundesliga-erster-18826767.html",
+      "title": "2:0 gegen Hertha BSC : Die Krise des FC Bayern ist noch nicht vorbei",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-nach-2-0-gegen-hertha-bsc-wieder-bundesliga-erster-18826767.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Serge Gnabry (links) findet die Lücke in der Berliner Abwehr für die Bayern."
     },
     {
-      "title": "Neues Angebot für Reisende : Was Bahnfahrer zum Deutschlandticket wissen müssen",
-      "url": "https://www.faz.net/aktuell/finanzen/deutschlandticket-was-bahnfahrer-wissen-muessen-18838475.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Regionalbahn im Hamburger Hauptbahnhof"
+      "title": "Wie wir essen : Der Burger ist nicht mehr King",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/lieber-bio-und-fleischersatz-ueber-trends-in-der-ernaehrung-18834907.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Roger Waters in Frankfurt : Eine Stadt in der Sackgasse",
@@ -263,21 +269,10 @@
       "image_title": "Für eine Familie hat der Staat andere Förderinstrumente in der Altersvorsorge vorgesehen als für Alleinstehende."
     },
     {
-      "title": "„Tatort“ aus Zürich : Kriminelle Wohltäter",
-      "url": "https://www.faz.net/aktuell/trailer-seilschaft-18855287.html",
+      "title": "Karl-Lagerfeld-Ausstellung : Sie ist das Gedächtnis des Meisters",
+      "url": "https://www.faz.net/aktuell/stil/mode-design/new-york-karl-lagerfeld-ausstellung-im-metropolitan-museum-18853181.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Ermittlerinnen Tessa Ott (Carol Schuler, re.) und Isabelle Grandjean (Anna Pieri Zuercher) am Tatort."
-    },
-    {
-      "title": "Bundesliga im Liveticker : Wolfsburg furios gegen konfuse Mainzer",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Lamine Yamal ist gerade 15 : „Das Wunderkind von Barça schreibt Geschichte“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/lamine-yamal-mit-debuet-fuer-fc-barcelona-im-alter-von-15-jahren-18859711.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Lamine Yamal war gerade 15 Jahre alt bei seinem Debüt für den FC Barcelona."
+      "image_title": "„Er war so klar in seiner Arbeit“: Anita Briey richtet in der Pariser Lagerfeld-Zentrale alte Kleider her – und schneidert manche verlorenen Modelle neu."
     },
     {
       "title": "Ermittlungen laufen : Radfahrer stirbt nach Sturz über E-Roller",
@@ -286,10 +281,33 @@
       "image_title": "Mitten auf dem Gehweg: E-Scooter sind nicht unumstritten."
     },
     {
+      "title": "Vorfall in Portugal : Streit zwischen Brieftaubenzüchtern eskaliert – vier Tote",
+      "url": "https://www.faz.net/aktuell/gesellschaft/menschen/vorfall-in-portugal-vier-tote-bei-streit-zwischen-brieftaubenzuechtern-18860002.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "In der Brieftaubenzucht steckt viel Herzblut."
+    },
+    {
+      "title": "Kundgebung in Thüringen : Polizei ermittelt nach AfD-Demo wegen Übergriff auf Reporter",
+      "url": "https://www.faz.net/aktuell/politik/inland/nach-afd-demo-polizei-ermittelt-wegen-uebergriff-auf-reporter-18859968.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Björn Höcke, Vorsitzender der AfD in Thüringen, spricht bei der Veranstaltung „Zukunft für Deutschland“ auf dem Theaterplatz und hält eine rote Karte in der Hand. Nach Polizeiangaben nahmen etwa 1000 Menschen an der AfD- Veranstaltung teil."
+    },
+    {
       "title": "Immobilienpreise : Sylt wird günstiger, Usedom teurer",
       "url": "https://www.faz.net/aktuell/finanzen/immobilienpreise-an-nord-und-ostsee-sinken-vielerorts-18859329.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Trotz sinkender Preise weiter teuer: Reetdachhäuser auf Sylt"
+    },
+    {
+      "title": "Bundesliga im Liveticker : Was fällt Mainz jetzt in Wolfsburg noch ein?",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Zweite Bundesliga : Der HSV steht sich mal wieder selbst im Weg",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/hsv-droht-nach-niederlage-bei-1-fc-magdeburg-relegation-in-2-bundesliga-18859664.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Robert Glatzel und der Hamburger SV verlieren in Magdeburg."
     },
     {
       "title": "Zwischenfall in letzter Runde : Formel 1 entgeht in Baku einer „großen Katastrophe“",
@@ -322,12 +340,12 @@
       "image_title": "Teilnehmer eines Marsches durch Bangui zur Unterstützung der russischen Präsenz in der Zentralafrikanischen Republik"
     },
     {
-      "title": "Leipziger Buchmesse 2023 : Sie ist wieder da!",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/themen/leipziger-buchmesse-2023-sie-ist-wieder-da-18859848.html"
+      "title": "Hans Anand Pant im Interview : Was ist in der Bildung eigentlich gerecht?",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/hans-anand-pant-im-interview-was-ist-in-der-bildung-eigentlich-gerecht-18850523.html"
     },
     {
-      "title": "Boris Palmer : Eklat mit Ansage",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/boris-palmers-eklat-auf-der-frankfurter-migrationskonferenz-18859452.html"
+      "title": "Leipziger Buchmesse 2023 : Sie ist wieder da!",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/themen/leipziger-buchmesse-2023-sie-ist-wieder-da-18859848.html"
     },
     {
       "title": "Transgenerationale Traumata : Omas Narbe in mir",
@@ -444,10 +462,10 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/harald-welzer-reicht-studie-zu-die-vierte-gewalt-nach-18853838.html"
     },
     {
-      "title": "Schach-Weltmeister aus China : Ding Liren schafft den großen Sprung",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/ding-liren-erster-schachweltmeister-aus-china-nach-sieg-ueber-nepo-18859755.html",
+      "title": "Lamine Yamal ist gerade 15 : „Das Wunderkind von Barça schreibt Geschichte“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/lamine-yamal-mit-debuet-fuer-fc-barcelona-im-alter-von-15-jahren-18859711.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "König der Schachspieler: Ding Liren"
+      "image_title": "Lamine Yamal war gerade 15 Jahre alt bei seinem Debüt für den FC Barcelona."
     },
     {
       "title": "Formel 1 in Aserbaidschan : Verstappens Pech ist das Glück des Sergio Pérez",
@@ -456,16 +474,16 @@
       "image_title": "„Da hattest du ein bisschen Pech“, sagte Sieger Sergio Pérez (rechts) zum Zweiten Max Verstappen."
     },
     {
-      "title": "Radrennen Eschborn–Frankfurt : „Das ist ja schrecklich. Hast du kein Auto?“",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/radrennen-eschborn-frankfurt-was-hobbyradler-beachten-sollten-18857133.html",
+      "title": "Schach-Weltmeister aus China : Ding Liren schafft den großen Sprung",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/ding-liren-erster-schachweltmeister-aus-china-nach-sieg-ueber-nepo-18859755.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Beim Rennen Frankfurt–Eschborn fahren seit jeher auch Jedermänner mit. (Bild von 2012)"
+      "image_title": "König der Schachspieler: Ding Liren"
     },
     {
-      "title": "Drohungen nach BVB-Spiel : Schiedsrichter Stegemann stellt Strafantrag",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-drohungen-gegen-schiedsrichter-stegemann-und-familie-18859611.html",
+      "title": "Erster Sieg im Euro-Cup : Deutsches Handball-Team glänzt gegen Spanien",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/handball-euro-cup-deutschland-besiegt-spanien-in-berlin-18859933.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Schiedsrichter Stegemann, hier im Gespräch mit BVB-Spieler Reus: Ihm und seiner Familie sei „sehr konkret gedroht“ worden."
+      "image_title": "Juri Knorr zeigte gegen Spanien eine starke Leistung."
     },
     {
       "title": "Barack Obama in Zürich : „Es ist immer ein Filter zwischen mir und den Leuten“",
@@ -504,6 +522,12 @@
       "image_title": "Harte Arbeit: Die Gewerkschaft IG Metall hält die Stahlindustrie geeignet für eine Viertagewoche."
     },
     {
+      "title": "Neues Angebot für Reisende : Was Bahnfahrer zum Deutschlandticket wissen müssen",
+      "url": "https://www.faz.net/aktuell/finanzen/deutschlandticket-was-bahnfahrer-wissen-muessen-18838475.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Regionalbahn im Hamburger Hauptbahnhof"
+    },
+    {
       "title": "Sicherheit im Strassenverkehr : Blindenverband plädiert für besser erkennbare E-Auto-Geräusche",
       "url": "https://www.faz.net/aktuell/wirtschaft/sehbehindertenverband-fuer-besser-wahrnehmbare-e-auto-geraeusche-18859327.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -526,12 +550,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/der-asus-konzern-aus-taiwan-stoesst-in-die-gesundheit-vor-18790858.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Künftig mehr als Laptops: Besucher des Asus-Auftritts auf der Konsumgütermesse IFA 2022"
-    },
-    {
-      "title": "Daimler-Managerin Buttler : Sie bringt Lastwagen das autonome Fahren bei",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-daimler-lastwagen-das-autonome-fahren-beibringen-will-18836109.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "DaimlerTruck-Managerin Joanna Buttler mit dem Prototypen eines autonomen Lastwagens"
     },
     {
       "title": "Per Bieterverfahren : USA wollen Krisenbank First Republic wohl durch Verkauf retten",
@@ -558,33 +576,28 @@
       "image_title": "Börsenhändler in New York Für sie sind die Inflationserwartungen wichtiger als die tatsächliche Teuerung."
     },
     {
+      "title": "„Tatort“ aus Zürich : Kriminelle Wohltäter",
+      "url": "https://www.faz.net/aktuell/trailer-seilschaft-18855287.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Ermittlerinnen Tessa Ott (Carol Schuler, re.) und Isabelle Grandjean (Anna Pieri Zuercher) am Tatort."
+    },
+    {
       "title": "Antisemitismus im „Guardian“? : Richard Sharp, ein Krake und ein Schweinekopf",
       "url": "https://www.faz.net/aktuell/feuilleton/medien/antisemitismus-kitik-an-guardian-karikatur-mit-sharp-und-johnson-18859740.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kam von Goldman Sachs zur BBC: Richard Sharp"
     },
     {
+      "title": "Boris Palmer : Eklat mit Ansage",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/boris-palmers-eklat-auf-der-frankfurter-migrationskonferenz-18859452.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Tübingens Oberbürgermeister Boris Palmer am Freitag auf der Konferenz „Die Migration steuern, Pluralität gestalten“ in Frankfurt"
+    },
+    {
       "title": "Visionen für die Bahn : Auf einer Schiene in die Zukunft",
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/zukunft-der-schiene-ausstellung-futurails-im-db-museum-nuernberg-18855612.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Idee gefällt auch heute: Vor Jahrzehnten kombinierte der Illustrator Günter Radtke einen an den Hyperloop erinnernden Röhrenzug mit einer Monorail-Bahn."
-    },
-    {
-      "title": "Zum Tod von Peter Lilienthal : 95 Jahre, was für ein Leben!",
-      "url": "https://www.faz.net/aktuell/feuilleton/filmclip-david-18858348.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Peter Lilienthal, geboren am 27. November 1927 in Berlin, gestorben am 28. April 2023 in München, im November 1999 in München"
-    },
-    {
-      "title": "Frankfurter Anthologie : Ludwig Tieck: Ohne Titel",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/frankfurter-anthologie/frankfurter-anthologie-ohne-titel-von-ludwig-tieck-18857017.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Hans Anand Pant im Interview : Was ist in der Bildung eigentlich gerecht?",
-      "url": "https://www.faz.net/aktuell/karriere-hochschule/hans-anand-pant-im-interview-was-ist-in-der-bildung-eigentlich-gerecht-18850523.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Blick ins Studienlabor: In der Lehrerausbildung spielt die Videoanalyse der realen Unterrichtssituation eine große Rolle."
     },
     {
       "title": "Leistungsprämien in der Schule : So sollen Lehrer gelockt werden",
@@ -597,6 +610,12 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/dgb-chefin-fahimi-sieht-in-viertagewoche-keine-allgemeine-loesung-18858834.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Yasmin Fahimi bei einer Kundgebung zum Weltfrauentag: Über die Einführung einer Viertagewoche müsse je nach Branche entschieden werden, sagt die DGB-Vorsitzende."
+    },
+    {
+      "title": "Kolumne „Mein Urteil“ : Bewerbungsgespräch nur online führen – ist das zulässig?",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/mein-urteil/bewerbungsgespraeche-online-fuehren-zulaessig-18821765.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sich online bewerben ist längst Standard, aber auch das entscheidende Gespräch „nur“ online führen? Das hat einen Bewerber misstrauisch gemacht. ."
     },
     {
       "title": "F.A.Z.-Stellenmarkt : Finanzwesen: Jobs finden",
@@ -671,12 +690,6 @@
       "image_title": "Blick auf den Morteratschgletscher: Nach einem verheerenden Jahr für die Alpengletscher lassen die neuesten Messungen minimal aufatmen."
     },
     {
-      "title": "Karl-Lagerfeld-Ausstellung : Sie ist das Gedächtnis des Meisters",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/new-york-karl-lagerfeld-ausstellung-im-metropolitan-museum-18853181.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Er war so klar in seiner Arbeit“: Anita Briey richtet in der Pariser Lagerfeld-Zentrale alte Kleider her – und schneidert manche verlorenen Modelle neu."
-    },
-    {
       "title": "Krönung am 6. Mai : Neue Krönungsrobe für Queen Camilla enthüllt",
       "url": "https://www.faz.net/aktuell/stil/mode-design/neue-kroenungsrobe-fuer-queen-camilla-enthuellt-18859354.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -686,6 +699,12 @@
       "title": "Mikroskopische Aufnahmen : Ein Universum im Kleinen",
       "url": "https://www.faz.net/aktuell/stil/mikroskopische-aufnahmen-von-eye-of-science-18827030.html",
       "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Gasthof Krone in Waldenbuch : Vielfältige Aromen",
+      "url": "https://www.faz.net/aktuell/stil/essen-trinken/restaurants/gasthof-krone-in-waldenbuch-mit-sternekoch-erik-metzger-restaurant-kritik-18835148.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Loin vom Skrei mit Buttermilch, Jalapeno, Kohlrabi, Büsumer Krabben, Koriander und Camargue-Reis"
     },
     {
       "title": "F.A.Z. Machtprobe : Schicksalswahl in der Türkei: Ist Erdogan am Ende?",
@@ -734,16 +753,16 @@
       "image_title": "Vermutlich Brandstiftung: Teilweise zerstörte Flüchtlingsunterkunft in Roßdorf bei Darmstadt am 30. April 2023"
     },
     {
-      "title": "Zweite Bundesliga : Darmstadt 98 kommt dem Aufstieg ganz nah",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/sv-darmstadt-98-siegt-bei-holstein-kiel-und-steht-vor-bundesliga-aufstieg-18824549.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Darmstadt 98 gewinnt auch das Spiel in Kiel."
-    },
-    {
       "title": "Andreas Gabalier in Frankfurt : Nachglühen nach der Gabalier-Gaudi",
       "url": "https://www.faz.net/aktuell/rhein-main/andreas-gabalier-in-frankfurt-nachgluehen-nach-der-gabalier-gaudi-18859585/andreas-gabalier-in-der-18859622.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Andreas Gabalier in der Festhalle in Frankfurt im April 2023"
+    },
+    {
+      "title": "Zweite Bundesliga : Darmstadt 98 kommt dem Aufstieg ganz nah",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/sv-darmstadt-98-siegt-bei-holstein-kiel-und-steht-vor-bundesliga-aufstieg-18824549.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Darmstadt 98 gewinnt auch das Spiel in Kiel."
     },
     {
       "title": "Premiere in Frankfurt : Händels Kopfkino auf der Opernbühne",
@@ -890,6 +909,12 @@
       "image_title": "Vom Zuschauer für den Akteur: Das Exemplar der „Spektator“-Briefe mit der Widmung von Martha Troeltsch an den früheren Reichskanzler Max Prinz von Baden."
     },
     {
+      "title": "Daimler-Managerin Buttler : Sie bringt Lastwagen das autonome Fahren bei",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/wie-daimler-lastwagen-das-autonome-fahren-beibringen-will-18836109.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "DaimlerTruck-Managerin Joanna Buttler mit dem Prototypen eines autonomen Lastwagens"
+    },
+    {
       "title": "Markt und Staat : Die Demokratie braucht unsere Hilfe",
       "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/daron-acemoglu-erklaert-wieso-markt-und-staat-zusammenarbeiten-muessen-18837168.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -900,12 +925,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/konjunktur-in-deutschland-ist-enttaeuschend-der-lahme-mann-europas-18854966.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Container im Hamburger Hafen"
-    },
-    {
-      "title": "Stromverbrauch : Im ersten Quartal war jede zweite Kilowattstunde grün",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/stromverbrauch-im-ersten-quartal-war-jede-zweite-kilowattstunde-gruen-18854640.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ökostrom am Horizont: Windräder haben zuletzt viel Energie erzeugt."
     },
     {
       "title": "Schweigeurlaub in Südtirol : „Jetzt sei doch mal still!“",
@@ -957,11 +976,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Gasthof Krone in Waldenbuch : Vielfältige Aromen",
-      "teaser": "Mit etwas mehr Selbstbewusstsein könnte Sternekoch Erik Metzger ein paar Zutaten weglassen – ohne das farbige Spiel mit der Vielfalt der Aromen zurückzunehmen. Die Kolumne Hier spricht der Gast.",
+      "title": "Wie wir essen : Bitte heute keine Kohlsuppe",
+      "teaser": "Wochentags Wirsing und am Sonntag Brühe in Tassen: Ein kleiner Abriss über Entwicklungen und Hintergründe unserer sehr besonderen Ernährungsgewohnheiten in Teil 2 der Serie über unsere Ernährungslage.",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Loin vom Skrei mit Buttermilch, Jalapeno, Kohlrabi, Büsumer Krabben, Koriander und Camargue-Reis"
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Arzneimittelknappheit : Versorgungsmangel mit Antibiotika-Säften laut Kinderärzten „prekär“",
