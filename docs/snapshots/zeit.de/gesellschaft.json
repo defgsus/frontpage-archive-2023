@@ -1,9 +1,347 @@
 {
-  "timestamp": "2023-05-01T09:12:02",
+  "timestamp": "2023-05-01T10:12:47",
   "url": "https://www.zeit.de/gesellschaft/index",
   "response": {
-    "status": 500
+    "status": 200
   },
-  "scripts": [],
-  "articles": []
+  "scripts": [
+    {
+      "type": null,
+      "src": "https://consent-cdn.zeit.de/wrapperMessagingWithoutDetection.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cl.k5a.io/6156f4770662411b5d525213.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.1df8c7e85c233a8579ff.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.1ce45711b3d3846e1028.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/images.19b0bc7a900aff4f1e87.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/promise.0e142034ed1c06e1b4aa.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.zeit.de/p/zeit.web/js/site.13dfdb62eb0e48fcb7c8.js",
+      "id": null,
+      "text": null
+    }
+  ],
+  "articles": [
+    {
+      "title": "Krönung von Charles III.: Premierminister wünscht sich Neuseeland als Republik",
+      "teaser": "Kurz vor den Krönungsfeierlichkeiten stellt Chris Hipkins in Frage, ob sein Land der britischen Krone unterstellt sein sollte. Auch in Großbritannien gibt es neue Kritik.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-05/kroenung-charles-iii-neuseeland-hipkins",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-05/kroenung-charles-iii-neuseeland-hipkins-bild/cinema__980x420"
+    },
+    {
+      "title": "Russischer Modeschöpfer: \"Roter Dior\" Slawa Saizew mit 85 Jahren gestorben",
+      "teaser": "Der russische Modedesigner Slawa Saizew ist tot. Laut einer Sprecherin war er zuvor lange krank. Seine Kleider trugen auch die Frauen von zwei russischen Präsidenten.",
+      "url": "https://www.zeit.de/gesellschaft/2023-05/slawa-saized-modeschoepfer-tod",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-05/slawa-saizew-modedesigner/wide__822x462",
+      "image_title": "Russischer Modeschöpfer: \"Roter Dior\" Slawa Saizew mit 85 Jahren gestorben"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter",
+      "teaser": "Ein Gericht stellt fest: Die Stadt Duisburg hätte Janine S. nie ihre kleine Lara wegnehmen dürfen. Doch das Mädchen wohnt seit Jahren bei Pflegeeltern. Was nun?",
+      "url": "https://www.zeit.de/2023/18/jugendamt-duisburg-rechtswidrige-inobhutnahme",
+      "image_url": "https://img.zeit.de/2023/18/wer-gibt-mir-meine-tochter-zurueck-bild-1/wide__822x462",
+      "image_title": "Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter"
+    },
+    {
+      "title": "Erfurt: Polizei ermittelt nach AfD-Demo wegen Übergriff auf Reporter",
+      "teaser": "Am Rande einer Veranstaltung der AfD in Thüringen ist ein Journalist attackiert worden. Ein Security-Mann, der ihn begleitete, hat offenbar Schlimmeres verhindern können. 259 Kommentare",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/erfurt-reporter-angriff-afd-kundgebung-polizei-ermittlung",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/afd-erfurt-bild/cinema__980x420",
+      "image_title": "Erfurt: Polizei ermittelt nach AfD-Demo wegen Übergriff auf Reporter"
+    },
+    {
+      "title": "Podcast-Festival 2023: \"Kinder haben keine Lobby\"",
+      "teaser": "Im unendlichen Interviewpodcast ist Armin Maiwald zu Gast. Der Fernsehproduzent, Regisseur und Mit-Erfinder der \"Sendung mit der Maus\" entscheidet, wann alles gesagt ist.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/armin-maiwald-interviewpodcast-alles-gesagt",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/podcastfestival-2023-alles-gesagt-armin-maiwald-abend-2/wide__822x462",
+      "image_title": "Podcast-Festival 2023: \"Kinder haben keine Lobby\""
+    },
+    {
+      "title": "Hessen: Brandstiftung nach Feuer in geplanter Flüchtlingsunterkunft vermutet",
+      "teaser": "Ein Feuer in noch unbewohnten Containern für Flüchtlinge in Hessen soll vorsätzlich gelegt worden sein. Innenministerin Nancy Faeser fordert harte Strafen für die Täter.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/hessen-brand-fluechtlingsunterkunft-rossdorf-container-brandstiftung",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/brand-fluechtlingsunterkunft-hessen-bild/wide__822x462",
+      "image_title": "Hessen: Brandstiftung nach Feuer in geplanter Flüchtlingsunterkunft vermutet"
+    },
+    {
+      "title": "Mittelmeer: Vierjähriges Mädchen nach Überfall auf Migrantenboot vermisst",
+      "teaser": "Nahe der italienischen Insel Lampedusa sollen tunesische Fischer ein Migrantenboot überfallen haben, ein Kleinkind fiel ins Wasser. Der Rest der Menschen wurde gerettet.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/mittelmeer-migrantenboot-lampedusa-vierjaehrige-vermisst",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/migranten-boot-mittelmeer-bild/wide__822x462",
+      "image_title": "Mittelmeer: Vierjähriges Mädchen nach Überfall auf Migrantenboot vermisst"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: \"Tut uns leid\", sagen sie im Chor",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-protest-strassenverkehr",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-protest-4/wide__822x462",
+      "image_title": "Letzte Generation: \"Tut uns leid\", sagen sie im Chor"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter",
+      "url": "https://www.zeit.de/2023/18/jugendamt-duisburg-rechtswidrige-inobhutnahme",
+      "image_url": "https://img.zeit.de/2023/18/wer-gibt-mir-meine-tochter-zurueck-bild-1/wide__822x462",
+      "image_title": "Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna-bild/wide__822x462",
+      "image_title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Trauma in der Familie: \"Ich muss sehen, wohin mit meiner Wut\"",
+      "url": "https://www.zeit.de/zeit-verbrechen/2023/20/trauma-familie-familiengeschichte-kriminalitaet-psychatrie"
+    },
+    {
+      "title": "Berlin: Klimaaktivisten der Letzten Generation wieder frei",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-klimaaktivisten-gewahrsam"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter",
+      "url": "https://www.zeit.de/2023/18/jugendamt-duisburg-rechtswidrige-inobhutnahme"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Klimaprotest in Berlin: Blockiert ist viel mehr als nur die Straße",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/klimaprotest-berlin-letzte-generation-debatte"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: \"Tut uns leid\", sagen sie im Chor",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-protest-strassenverkehr"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: \"Tut uns leid\", sagen sie im Chor",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-protest-strassenverkehr"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter",
+      "url": "https://www.zeit.de/2023/18/jugendamt-duisburg-rechtswidrige-inobhutnahme"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindesentzug durch das Jugendamt • Das Wichtigste aus Z+: Vom harten Kampf einer Mutter",
+      "url": "https://www.zeit.de/2023/18/jugendamt-duisburg-rechtswidrige-inobhutnahme"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Trauma in der Familie: \"Ich muss sehen, wohin mit meiner Wut\"",
+      "url": "https://www.zeit.de/zeit-verbrechen/2023/20/trauma-familie-familiengeschichte-kriminalitaet-psychatrie"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Klimaprotest in Berlin: Blockiert ist viel mehr als nur die Straße",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/klimaprotest-berlin-letzte-generation-debatte"
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna"
+    },
+    {
+      "title": "Berlin: Klimaaktivisten der Letzten Generation wieder frei",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-klimaaktivisten-gewahrsam"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: \"Tut uns leid\", sagen sie im Chor",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/letzte-generation-berlin-protest-strassenverkehr"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Klimaprotest in Berlin: Blockiert ist viel mehr als nur die Straße",
+      "teaser": "Was der Höhepunkt des Klimaprotests werden soll, könnte zum Tiefpunkt werden: Die Berliner Aktionen der Letzten Generation markieren den Stillstand der Klimadebatte.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/klimaprotest-berlin-letzte-generation-debatte",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/klimaprotest-berlin-letzte-generation-debatte-bild/wide__822x462",
+      "image_title": "Klimaprotest in Berlin: Blockiert ist viel mehr als nur die Straße"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Grundstücksstreit in Rangsdorf: Der Traum vom Haus ist aus",
+      "teaser": "Eine Frau kauft bei einer Zwangsversteigerung ein Grundstück und baut ein Haus. Der frühere Eigentümer meldet sich – und die Familie verliert ihr Zuhause. Wer ist schuld?",
+      "url": "https://www.zeit.de/zeit-verbrechen/2023/20/grundstuecksstreit-rangsdorf-familie-zwangsversteigerung-justiz",
+      "image_url": "https://img.zeit.de/zeit-verbrechen/2023/20/grundstuecksstreit-rangsdorf-familie-zwangsversteigerung-justiz-teaserbild/wide__822x462",
+      "image_title": "Grundstücksstreit in Rangsdorf: Der Traum vom Haus ist aus"
+    },
+    {
+      "title": "ZEIT ONLINE Podcast-Quiz: ZEIT ONLINE sucht die Podcast-Nerds",
+      "teaser": "Welches Lied erklang im \"Politikteil\"? Wer orakelt im Wirtschaftspodcast? Und wann ist im Schnitt \"alles gesagt\"? Testen Sie Ihr Wissen im Quiz zum Podcast-Festival.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/zeit-online-podcast-festival-2023-quiz",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/zeit-online-podcast-festival-2023-quiz-bild/cinema__980x420",
+      "image_title": "ZEIT ONLINE Podcast-Quiz: ZEIT ONLINE sucht die Podcast-Nerds"
+    },
+    {
+      "title": "Lehrermangel: \"Man eröffnet jetzt neue zweit- und drittklassige Ausbildungswege\"",
+      "teaser": "In einem Bundesland sollen nun auch Bewerber ohne Abitur Lehrkräfte werden. Der Bildungsexperte und Linkenabgeordnete Thomas Lippmann warnt vor Billiglehrern.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/lehramt-studiengang-lehrermangel-lippmann-interview",
+      "image_url": "https://img.zeit.de/gesellschaft/deutschland/2023-04/lehramt-studiengang-lehrermangel-lippmann-interview-bild/wide__822x462",
+      "image_title": "Lehrermangel: \"Man eröffnet jetzt neue zweit- und drittklassige Ausbildungswege\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Trauma in der Familie: \"Ich muss sehen, wohin mit meiner Wut\"",
+      "teaser": "Eine Großmutter und ihre Enkelin treffen sich nach Jahren des Schweigens, um über ihre desolate Familiengeschichte zu sprechen. Im Raum steht ein furchtbarer Vorwurf.",
+      "url": "https://www.zeit.de/zeit-verbrechen/2023/20/trauma-familie-familiengeschichte-kriminalitaet-psychatrie",
+      "image_url": "https://img.zeit.de/zeit-verbrechen/2023/20/trauma-familie-familiengeschichte-kriminalitaet-psychatrie-teaser/wide__822x462",
+      "image_title": "Trauma in der Familie: \"Ich muss sehen, wohin mit meiner Wut\""
+    },
+    {
+      "title": "AnzeigeZu zweit in Richtung Zukunft!",
+      "teaser": "Gemeinsam den Alltag meistern und schöne Dinge erleben, wer möchte das nicht? Finden Sie Ihr persönliches Glück schon heute und registrieren Sie sich hier kostenfrei!",
+      "url": "https://partnersuche.zeit.de/",
+      "image_url": "https://img.zeit.de/angebote/Links/Bilder/partnersuche-bild/wide__822x462",
+      "image_title": "Zu zweit in Richtung Zukunft!"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Solange wir leben\": \"Du glaubst doch auch nicht an Gott\"",
+      "teaser": "Sein Vater überlebte die Shoah, verliebte sich in eine Nichtjüdin und kam ihretwegen nach Deutschland. David Safier entfaltet die dramatische Geschichte seiner Eltern.",
+      "url": "https://www.zeit.de/2023/18/solange-wir-leben-david-safier-familie-holocaust",
+      "image_url": "https://img.zeit.de/2023/18/du-glaubst-doch-auch-nicht-an-gott-bild-1/wide__822x462",
+      "image_title": "\"Solange wir leben\": \"Du glaubst doch auch nicht an Gott\""
+    },
+    {
+      "title": "Mittelmeer: Deutsche Motorjacht rettet 47 Geflüchtete aus Seenot",
+      "teaser": "Die \"Nadir\" nahm im Mittelmeer Migranten aus einem überfüllten Stahlboot an Bord. Es war bereits der dritte Einsatz der Organisation Resqship in dieser Woche.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/mittelmeer-fluechtlinge-resqship-nadir-lampedusa",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-04/mittelmeer-fluechtlinge-resquship-nadir-lampedusa-47-bild/wide__822x462",
+      "image_title": "Mittelmeer: Deutsche Motorjacht rettet 47 Geflüchtete aus Seenot"
+    },
+    {
+      "title": "Kriminalpodcast: \"Vom Durchschnittsbürger zum Kindermörder\"",
+      "teaser": "Bürgerliche Gemeinde. Behütetes Zuhause. Trotzdem werden zwei Kinder tief in der Nacht grausam ermordet. Aber warum?",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/kinder-mord-buergerliche-gemeinde-nacht-kriminalpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/kinder-mord-buergerliche-gemeinde-nacht-kriminalpodcast-bild/square-padded",
+      "image_title": "Kriminalpodcast: \"Vom Durchschnittsbürger zum Kindermörder\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); PKK: Ist dieser Mann ein Terrorist?",
+      "teaser": "In Frankfurt steht ein Kurde vor Gericht, weil er Geld für den Kampf gegen den türkischen Staat gesammelt haben soll.",
+      "url": "https://www.zeit.de/2023/18/pkk-deutschland-kurden-tuerkei",
+      "image_url": "https://img.zeit.de/2023/18/ist-dieser-mann-ein-terrorist-bild-1/wide__822x462",
+      "image_title": "PKK: Ist dieser Mann ein Terrorist?"
+    },
+    {
+      "title": "Karla Paul: \"Zum Bücherlesen ist das Bett mein Lieblingsort\"",
+      "teaser": "Im Wochenendpodcast geht es dieses Mal vor allem ums Lesen. Zu Gast ist die Autorin und Kritikerin Karla Paul, die unter anderem von ihren liebsten Buchläden schwärmt.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/karla-paul-lesen-wochenende-tipps-podcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/karla-paul-lesen-wochenende-tipps-podcast-bild/wide__822x462",
+      "image_title": "Karla Paul: \"Zum Bücherlesen ist das Bett mein Lieblingsort\""
+    },
+    {
+      "title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!",
+      "teaser": "Monatelang hat sich das Selbstbestimmungsgesetz verzögert – wegen Schreckensszenarien für Frauensaunen. Mit der Lebensrealität von trans Menschen hat das nichts zu tun.",
+      "url": "https://www.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/selbstbestimmungsgesetz-trans-menschen-frauensauna-bild/wide__822x462",
+      "image_title": "Selbstbestimmungsgesetz: Das ist doch kein Saunaschutzgesetz!"
+    },
+    {
+      "title": "Wunsiedel: Weiterer Verdächtiger nach Tötung von Zehnjähriger verhaftet",
+      "teaser": "Im Fall des getöteten Mädchens aus Wunsiedel ermittelt die Polizei gegen einen weiteren Verdächtigen. Es bestehe der Verdacht eines Tötungs- und eines Sexualdeliktes.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/wunsiedel-maedchen-kinderheim-verdaechtiger",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/tod-maedchen-kinderheim-wunsiedel-bild/wide__822x462",
+      "image_title": "Wunsiedel: Weiterer Verdächtiger nach Tötung von Zehnjähriger verhaftet"
+    },
+    {
+      "title": "Verlagsangebot: Heute studieren, was morgen wichtig ist",
+      "teaser": "Wie tickt die Gesellschaft? In der Suchmaschine für Studiengänge finden sich zahlreiche Studiengänge, die sich mit gesellschaftlichen Fragen beschäftigen.",
+      "url": "https://studiengaenge.zeit.de/studienangebote?suche=gesellschaft&wt_zmc=fix.int.zonpmr.gesellschaft-ressort.verlagsteaser-ressort.suma.bildtext.stifte.x&utm_medium=fix&utm_source=gesellschaft-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_stifte_x",
+      "image_url": "https://img.zeit.de/angebote/Links/ressort-teaser-oa/oa-bilder/stoa1-gesellschaft/wide__822x462",
+      "image_title": "Studienorientierung: Heute studieren, was morgen wichtig ist"
+    },
+    {
+      "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
+      "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
+      "url": "https://www.zeit.de/serie/stoerungsmelder/",
+      "image_url": "https://img.zeit.de/gesellschaft/2021-08/stoerungsmelder-header/cinema__980x420",
+      "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
+    },
+    {
+      "title": "Shishatabak Brudi von Haftbefehl: Sorry, Chabo",
+      "teaser": "Haftbefehl mag das Wort Brudi geprägt haben – als Markennamen für seinen Tabak hat er es zu spät gesichert. Nun verklagt ihn ein Shishaladen auf Unterlassung.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/haftbefehl-brudi-shishatabak-klage-muenchen",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-04/haftbefehl-brudi-shishatabak/wide__822x462",
+      "image_title": "Shishatabak Brudi von Haftbefehl: Sorry, Chabo"
+    },
+    {
+      "title": "Familienministerium: Lisa Paus soll Teilzeitmöglichkeit für Freiwilligendienste planen",
+      "teaser": "Freiwilligendienste müssen bisher in Vollzeit absolviert werden. Um das Angebot attraktiver zu gestalten, will die Bundesfamilienministerin Lockerungen durchsetzen.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/familienministerium-freiwilligendienste-angebot-teilzeit",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-04/freiwilligendienste-teilzeit-familienministerium/wide__822x462",
+      "image_title": "Familienministerium: Lisa Paus soll Teilzeitmöglichkeit für Freiwilligendienste planen"
+    },
+    {
+      "title": "Letzte Generation: Berliner Gericht verurteilt Klimaaktivistin zu vier Monaten Haft",
+      "teaser": "Bisher erhielten Aktivisten der Letzten Generation oft Geldstrafen. Nun muss eine 24-Jährige in Haft, weil sie sich an ein Gemälde klebte und eine Straße blockierte.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-04/amtsgericht-berlin-tiergarten-haftstrafe-klimaaktivistin-letzte-generation",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-04/amtsgericht-berlin-tiergarten-haftstrafe-klimaaktivistin-letzte-generation-bild-2/wide__822x462",
+      "image_title": "Letzte Generation: Berliner Gericht verurteilt Klimaaktivistin zu vier Monaten Haft"
+    },
+    {
+      "title": "Rechtsextremismus an Brandenburger Schule: \"Was mache ich, wenn ihr wieder weg seid?\"",
+      "teaser": "Hakenkreuze an den Wänden, rechte Lieder auf den Fluren. Der Fall in Brandenburg überrasche sie nicht, erzählt Saskia Mette, die Schüler gegen Rechtsextremismus wappnet.",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/rechtsextremismus-brandenburger-schule-brandbrief-lehrkraefte",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-04/rechtsextremismus-brandenburger-schule-brandbrief-lehrkraefte-bild/wide__822x462",
+      "image_title": "Rechtsextremismus an Brandenburger Schule: \"Was mache ich, wenn ihr wieder weg seid?\""
+    },
+    {
+      "title": "Nordrhein-Westfalen: Hendrik Wüst entschuldigt sich für Technikpanne vor Abiturprüfungen",
+      "teaser": "Wegen technischer Probleme mussten in Nordrhein-Westfalen Abiklausuren kurzfristig verschoben werden. \"Das darf nicht passieren\", sagt Ministerpräsident Hendrik Wüst.",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/abitur-nrw-verschiebung-hendrik-wuest-entschuldigung",
+      "image_url": "https://img.zeit.de/politik/2023-04/nrw-abiturpruefungen-verschiebung-hendrik-wuest-entschuldigung-bild/wide__822x462",
+      "image_title": "Nordrhein-Westfalen: Hendrik Wüst entschuldigt sich für Technikpanne vor Abiturprüfungen"
+    },
+    {
+      "title": "Abiturprüfungen: Nordrhein-Westfalen verschiebt Abi-Klausuren",
+      "teaser": "Wegen einer technischen Störung mussten die Abiturprüfungen in Nordrhein-Westfalen auf Freitag verschoben werden. Lehrer konnten die Prüfungsaufgaben nicht herunterladen.",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/abitur-verschoben-nordrhein-westfalen",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-04/nrw-abi-verschoben-bild/wide__822x462",
+      "image_title": "Abiturprüfungen: Nordrhein-Westfalen verschiebt Abi-Klausuren"
+    },
+    {
+      "title": "Tag der Arbeit: Wir strengen uns an, und das ist anstrengend",
+      "teaser": "Eine Arbeitswelt der Zukunft fordert eine neue Erzählung über Zeit und Geld. Die alte hat uns schließlich nicht bis in die Gegenwart gebracht.",
+      "url": "https://www.zeit.de/kultur/2023-04/berufswahl-ausbildung-arbeitszeit-care-arbeit",
+      "image_url": "https://img.zeit.de/kultur/2023-04/arbeit-birgit-birnbacher/wide__822x462",
+      "image_title": "Tag der Arbeit: Wir strengen uns an, und das ist anstrengend"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Juniorprofessorin: \"Mein Mann hat für mich zurückgesteckt\"",
+      "teaser": "Marine, 35, verdient als Juniorprofessorin 5.000 Euro im Monat, ihr Mann hat ein deutlich geringeres Gehalt. Mit ihrem ETF-Sparplan haben sie 30.000 Euro umgesetzt.",
+      "url": "https://www.zeit.de/arbeit/2023-04/juniorprofessorin-etf-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2023-04/juniorprofessorin-etf/wide__822x462",
+      "image_title": "Juniorprofessorin: \"Mein Mann hat für mich zurückgesteckt\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kindergrundsicherung: Dieser Streit ist eher eine Kinderverunsicherung",
+      "teaser": "FDP und Grüne streiten noch immer über die Kindergrundsicherung. Dabei sind sich die Parteien im Grunde einig, was genau soll dann das Gezanke?",
+      "url": "https://www.zeit.de/2023/18/kindergrundsicherung-finanzierung-ampel-streit",
+      "image_url": "https://img.zeit.de/2023/18/kindergrundsicherung-finanzierung-ampel-streit-teaserbild/wide__822x462",
+      "image_title": "Kindergrundsicherung: Dieser Streit ist eher eine Kinderverunsicherung"
+    }
+  ]
 }
