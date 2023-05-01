@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-01T10:12:33",
+  "timestamp": "2023-05-01T11:09:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Illumina",
+      "url": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html"
+    },
+    {
       "title": "Grafana",
       "url": "https://www.heise.de/news/Datenvisualisierung-Grafana-Update-schliesst-hochriskante-Sicherheitsluecke-8981605.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Hersteller-stopft-kritische-Zero-Day-Luecke-8979106.html"
     },
     {
-      "title": "Zyxel",
-      "url": "https://www.heise.de/news/Zyxel-schliesst-teils-kritische-Sicherheitsluecken-in-Firewalls-und-Access-Points-8977831.html"
+      "title": "Medizin-Geräte: Warnung vor kritischer Sicherheitslücke in Illumina-Software",
+      "teaser": "Die US-IT-Sicherheitsbehörde CISA warnt vor kritischen Sicherheitslücken in den medizinischen Geräten von Illumina. Angreifer könnten die Kontrolle übernehmen.",
+      "url": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html"
     },
     {
       "title": "Play Store: Google will Schäden in Milliardenhöhe verhindert haben",
@@ -150,11 +155,6 @@
       "title": "VMware Workstation und Fusion: Hersteller stopft kritische Zero-Day-Lücke",
       "teaser": "VMware stopft teils kritische Sicherheitslücken in Workstation und Fusion. Da sie auf der Pwn2Own-Konferenz vorgeführt wurden, handelt es sich um Zero-Days.",
       "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Hersteller-stopft-kritische-Zero-Day-Luecke-8979106.html"
-    },
-    {
-      "title": "Google Authenticator: Einmal-Codes im Google Konto gespeichert",
-      "teaser": "Googles Zwei-Faktor-Authentifizierungs-App Authenticator speichert künftig Einmal-Codes auch im Google-Konto. Die Funktion ist optional.",
-      "url": "https://www.heise.de/news/Google-Authenticator-Passcodes-im-Google-Konto-gespeichert-8978311.html"
     },
     {
       "title": "Einfallstor iPhone-PIN: Sicherheit am seidenen Faden",
