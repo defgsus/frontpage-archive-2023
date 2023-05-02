@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-02T09:11:02",
+  "timestamp": "2023-05-02T10:12:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,18 +42,29 @@
       "url": "https://www.heise.de/news/LLaVA-Multimodales-offenes-KI-Modell-auf-LLaMA-Basis-liest-Bilder-und-Sprache-8974975.html"
     },
     {
+      "title": "Code visualisieren: Mit Python Turtle einfach Programmieren lernen",
+      "teaser": "Aller Programmieranfang ist schwer. Doch in Python hilft eine eingebaute Schildkröte dabei, komplexe Konzepte zu visualisieren.",
+      "url": "https://www.heise.de/ratgeber/Python-Turtle-Einfach-Programmieren-lernen-mit-Schildkroete-8982046.html"
+    },
+    {
       "title": "Ausprobiert: Phishing trotz Zwei-Faktor-Authentifizierung",
       "teaser": "Phishing bleibt für Hacker die erste Wahl, um fremde Zugangsdaten abzugreifen und den zweiten Faktor zu umgehen. Wir beschreiben, wie so ein Angriff abläuft.",
       "url": "https://www.heise.de/ratgeber/Ausprobiert-Phishing-trotz-Zwei-Faktor-Authentifizierung-8981919.html",
       "image_title": ", Andreas Martini"
     },
     {
-      "title": "2FA absichern: So schützen Sie sich vor Angriffen auf den zweiten Faktor",
-      "teaser": "Benutzerkonten mit einem zusätzlichen Faktor zu schützen, ist eine gute Idee. Wir zeigen, wie Sie Ihre Accounts abdichten und das Angriffsrisiko minimieren.",
-      "url": "https://www.heise.de/ratgeber/2FA-absichern-So-schuetzen-Sie-sich-vor-Angriffen-auf-den-zweiten-Faktor-8977133.html"
+      "title": "Softwareentwicklung: Patterns für nebenläufige Anwendungen",
+      "teaser": "Im Bereich der Concurrency gibt es viele bewährte Muster. Sie befassen sich mit Synchronisierungsproblemen, aber auch mit Concurrency-Architekturen.",
+      "url": "https://www.heise.de/blog/Softwareentwicklung-Patterns-fuer-nebenlaeufige-Anwendungen-8980395.html",
+      "image_title": "Gleisanlagen in Maschen im Gegenlicht"
     },
     {
-      "title": "Ende einer Intel-Ära: \"Core Ultra\" beerbt \"Core i\"",
+      "title": "Mastodon: Fokus auf Hauptinstanz Mastodon.social für mehr Wachstum",
+      "teaser": "Das Mastodon-Netzwerk setzt sich aus tausenden Instanzen zusammen, es dominiert aber klar die des Gründers. Nun soll die noch weiter in den Vordergrund rücken.",
+      "url": "https://www.heise.de/news/Mastodon-Weniger-Dezentralisierung-fuer-leichteren-Einstieg-und-mehr-Wachstum-8984400.html"
+    },
+    {
+      "title": "Ende einer Ära: Intel gibt \"Core i\"-Namen auf",
       "teaser": "15 Jahre nach den ersten Core i7 bereitet Intel dem ikonischen \"i\" offenbar ein Ende. Die nächste Prozessorgeneration erscheint unter neuen Namen.",
       "url": "https://www.heise.de/news/Ende-eine-Intel-Aera-Core-Ultra-beerbt-Core-i-8984425.html",
       "image_title": "Prozessor Intel Core i5 auf Motherboard"
@@ -63,6 +74,11 @@
       "teaser": "DevOps-Prozesse auf Anwendungsebene um automatisierte Sicherheitsprüfungen ergänzen. Ein praxisorientierter Online-Workshop am 13. und 14. Juni. Rabatt bis 16.5",
       "url": "https://www.heise.de/news/iX-Workshop-DevSecOps-Automatisierte-Sicherheitstests-fuer-Webanwendungen-8979793.html",
       "image_title": "Workshop DevSecOps: Automatisierte Sicherheitstests für die Webentwicklung"
+    },
+    {
+      "title": "2FA absichern: So schützen Sie sich vor Angriffen auf den zweiten Faktor",
+      "teaser": "Benutzerkonten mit einem zusätzlichen Faktor zu schützen, ist eine gute Idee. Wir zeigen, wie Sie Ihre Accounts abdichten und das Angriffsrisiko minimieren.",
+      "url": "https://www.heise.de/ratgeber/2FA-absichern-So-schuetzen-Sie-sich-vor-Angriffen-auf-den-zweiten-Faktor-8977133.html"
     },
     {
       "title": "IT-Security: Wie Angreifer die Zwei-Faktor-Authentifizierung aushebeln",
@@ -121,23 +137,6 @@
       "teaser": "US-Forschern ist es gelungen, im fMRT-Scan anhand der Hirnaktivität von Probanden festzustellen, welchen Text sie lesen oder welchen Stummfilm sie schauen.",
       "url": "https://www.heise.de/news/GPT-hilft-beim-Gedankenlesen-8984055.html",
       "image_title": "Ai,(artificial,Intelligence),Concept.,Contents,Concept.,Social,Networking,Service.,Streaming"
-    },
-    {
-      "title": "KI-Pionier Hinton verlässt Google, um unabhängig über Risiken der KI zu reden",
-      "teaser": "Der angesehene Forscher Geoffrey Hinton hat seinen Job bei Google gekündigt, um vor den Risiken der künstlichen Intelligenz zu warnen.",
-      "url": "https://www.heise.de/news/KI-Pionier-Geoffrey-Hinton-verlaesst-Google-8984065.html"
-    },
-    {
-      "title": "Datenanalyse: Bibliothek erweitert Pandas um KI-Schnittstelle",
-      "teaser": "Die unter Datenanalysten beliebte Pandas-Bibliothek kann jetzt mit Large-Language-Modulen genutzt werden. Aktuell funktioniert es mit GPT von Open AI.",
-      "url": "https://www.heise.de/news/Datenanalyse-Bibliothek-erweitert-Pandas-um-KI-Schnittstelle-8984025.html",
-      "image_title": "Panda"
-    },
-    {
-      "title": "Corona-Warn-App: Keine Warnungen mehr, nur noch Verwaltung der Impfzertifikate",
-      "teaser": "Die Warnfunktion der Corona-Warn-App ist abgeschaltet, ab Juni geht sie in einen Schlafmodus und bekommt keine Updates mehr.",
-      "url": "https://www.heise.de/news/Corona-Warn-App-bis-auf-weiteres-stillgelegt-8984033.html",
-      "image_title": "Corona-Warn-App: Datenschutz und persönliche Betroffenheit erhöhen Akzeptanz"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
