@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-02T06:14:31",
+  "timestamp": "2023-05-02T07:10:31",
   "url": "https://www.welt.de/politik/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.7d260753.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.83b44bdb.js",
       "id": null,
       "text": null
     },
@@ -25,12 +25,27 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.6431029a.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.a466a5b3.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Warum die Lage am Ende beinahe eskalierte",
+      "teaser": "Die „Revolutionäre 1. Mai Demonstration“ in Berlin verlief weitgehend störungsfrei. Die Polizei sprach von dem vielleicht friedlichsten Maifeiertag seit dem ersten Ausbruch der Krawalle im Jahr 1987. Doch am späteren Abend gab es doch noch Scharmützel.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile245101360/5507932077-ci23x11-w20/1-Mai-Demonstrationen-Berlin.jpg",
+      "image_title": "An der „Revolutionären 1. Mai Demonstration“ beteiligten sich laut Polizei rund 12.000 Teilnehmer",
+      "author": "Alexander Dinger"
+    },
+    {
+      "title": "Syrien meldet einen getöteten Soldaten nach israelischen Angriffen",
+      "teaser": "Mit Raketen soll Israel am Montag den Flughafen der syrischen Stadt Aleppo beschossen haben. Das meldet die staatliche syrische Nachrichtenagentur. Auch ein Munitionslager ist wohl in Brand geraten.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile245102556/4007937207-ci23x11-w20/Syrien-eroeffnet-den-internationalen-Flughafen-Aleppo.jpg",
+      "image_title": "Internationalen Flughafen Aleppo zur Wiedereröffnung im Jahr 2020"
+    },
     {
       "title": "„Frau Faeser führt die Öffentlichkeit wieder mal an der Nase herum“",
       "teaser": "Die Ampel-Regierung plant, sich innerhalb der EU für Asylverfahren an den Außengrenzen einzusetzen. Doch nicht alle Grüne halten die Einigung für tragbar. Und während der Union der Vorstoß nicht weit genug geht, befürchtet die Linke, „unmenschliche Lager wie Moria“.",
@@ -54,21 +69,6 @@
       "image_title": "Bundeswirtschaftsminister Habeck in Kiel"
     },
     {
-      "title": "Annalena Klartext",
-      "teaser": "Deutliche Worte statt diplomatischer Floskeln. Diesen Ruf hat Bundesaußenministerin Annalena Baerbock international. China, Russland, Türkei – die Grünen-Politikerin zeigt ihren Gesprächspartnern rote Linien auf. Eine Strategie, mit der sie mehrere Ziele verfolgt.",
-      "url": "https://www.welt.de/politik/ausland/plus245093810/Annalena-Baerbock-Was-hinter-dem-Klartext-der-Aussenministerin-steckt.html",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile245093804/2727935477-ci23x11-w20/BMin-Baerbock-in-der-Ukraine.jpg",
-      "image_title": "Bundesaussenministerin Annalena Baerbock (Buendnis 90 Die Gruenen) besucht eine zerstoerte Heizkesselanlage in Charkiw. Charkiw, 10.01.2023.",
-      "author": "Hans von der Burchard"
-    },
-    {
-      "title": "SPD fordert „kräftigen“ Anstieg des Mindestlohnes",
-      "teaser": "Die Mindestlohnkommission soll bis Ende Juni eine Lohnuntergrenze festlegen. Die SPD würde deutliche Lohnsteigerungen begrüßen und plädiert dafür, diese in verschiedenen Branchen zu berücksichtigen.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile245092212/4877935537-ci23x11-w20/Symbolfoto-zu-Geld-und-Geldscheinen.jpg",
-      "image_title": "Die SPD unterstütze die Forderungen der Gewerkschaften nach Lohnerhöhungen"
-    },
-    {
       "title": "Berliner Polizei spricht von „erstaunlich friedlichem“ Verlauf",
       "url": "https://www.welt.de/politik/deutschland/video245102680/Demonstrationen-am-1-Mai-Berliner-Polizei-spricht-von-erstaunlich-friedlichem-Verlauf.html",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile245102658/3797931137-ci16x9-w20/1-Mai-Demonstrationen-Berlin.jpg",
@@ -83,8 +83,8 @@
       "author": "5 Min"
     },
     {
-      "title": "Laut US-Geheimdienst sind seit Anfang Dezember 20.000 Russen bei Bachmut gefallen",
-      "url": "https://www.welt.de/politik/ausland/video245099754/Jetzt-live-Laut-US-Geheimdienst-sind-seit-Anfang-Dezember-20-000-Russen-bei-Bachmut-gefallen.html",
+      "title": "Laut US-Geheimdienst sind 20.000 Russen bei Bachmut gefallen",
+      "url": "https://www.welt.de/politik/ausland/video245099754/Jetzt-live-Laut-US-Geheimdienst-sind-20-000-Russen-bei-Bachmut-gefallen.html",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile245102774/8057934327-ci16x9-w1000/405913360-jpg.jpg"
     },
     {
@@ -100,6 +100,13 @@
       "image_url": "https://img.welt.de/img/videos/mobile245100796/2377934267-ci16x9-w20/Boris-Palmer-tritt-bei-den-Gruenen-aus.jpg",
       "image_title": "Boris Palmer tritt bei den Grünen aus",
       "author": "35 Sek"
+    },
+    {
+      "title": "SPD fordert „kräftigen“ Anstieg des Mindestlohnes",
+      "teaser": "Die Mindestlohnkommission soll bis Ende Juni eine Lohnuntergrenze festlegen. Die SPD würde deutliche Lohnsteigerungen begrüßen und plädiert dafür, diese in verschiedenen Branchen zu berücksichtigen.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile245092212/4877935537-ci23x11-w20/Symbolfoto-zu-Geld-und-Geldscheinen.jpg",
+      "image_title": "Die SPD unterstütze die Forderungen der Gewerkschaften nach Lohnerhöhungen"
     },
     {
       "title": "„Keine Obergrenzendebatten. Damit senden wir zwangsläufig falsche Signale“",
@@ -124,14 +131,6 @@
       "image_title": "Fridays For Future Protest Against FDP Political Party"
     },
     {
-      "title": "Warum die Lage am Ende beinahe eskalierte",
-      "teaser": "Die „Revolutionäre 1. Mai Demonstration“ in Berlin verlief weitgehend störungsfrei. Die Polizei sprach von dem vielleicht friedlichsten Maifeiertag seit dem ersten Ausbruch der Krawalle im Jahr 1987. Doch am späteren Abend gab es doch noch Scharmützel.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile245101360/5507932077-ci23x11-w20/1-Mai-Demonstrationen-Berlin.jpg",
-      "image_title": "An der „Revolutionären 1. Mai Demonstration“ beteiligten sich laut Polizei rund 12.000 Teilnehmer",
-      "author": "Alexander Dinger"
-    },
-    {
       "title": "„Werden es auf Dauer nicht durchhalten, alles zu subventionieren“",
       "teaser": "Bei der Frage nach einer Subventionierung des Industriestrompreises zeigt sich der Kanzler zurückhaltend. Eine solche Politik werde am Ende „nicht gut ausgehen“, so Scholz. Versprechungen wolle er nicht machen, „höchstens nachschauen, wo man etwas nachsteuern müsse“.",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -144,6 +143,14 @@
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile245100652/4207933627-ci23x11-w20/Warnstreiks-im-Schienenverkehr-Frankfurt-Main.jpg",
       "image_title": "Mehrere ICE in einem Depot (Symbolbild)"
+    },
+    {
+      "title": "Annalena Klartext",
+      "teaser": "Deutliche Worte statt diplomatischer Floskeln. Diesen Ruf hat Bundesaußenministerin Annalena Baerbock international. China, Russland, Türkei – die Grünen-Politikerin zeigt ihren Gesprächspartnern rote Linien auf. Eine Strategie, mit der sie mehrere Ziele verfolgt.",
+      "url": "https://www.welt.de/politik/ausland/plus245093810/Annalena-Baerbock-Was-hinter-dem-Klartext-der-Aussenministerin-steckt.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile245093804/2727935477-ci23x11-w20/BMin-Baerbock-in-der-Ukraine.jpg",
+      "image_title": "Bundesaussenministerin Annalena Baerbock (Buendnis 90 Die Gruenen) besucht eine zerstoerte Heizkesselanlage in Charkiw. Charkiw, 10.01.2023.",
+      "author": "Hans von der Burchard"
     },
     {
       "title": "Abschreckung durch Vergeltung? – Jetzt ändert die Nato ihre Strategie",
@@ -181,13 +188,6 @@
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile245100650/9357931377-ci23x11-w20/FRANCE-POLITICS-MAY-DAY-PENSIONS-DEMO.jpg",
       "image_title": "Randalierer zündeten am Rande der Demonstrationen in Paris auch eine Station für Leihfahrräder an"
-    },
-    {
-      "title": "Fehlende Bademäntel und Pantoffel – 13.000-Euro-Rechnung für Ex-Premier Liz Truss",
-      "teaser": "Nach der Arbeit kommt das Vergnügen. Das war wohl auch das Credo der britischen Ex-Außenministerin Truss, als sie sich im vergangenen Sommer im „Cheveing House“ in Kent auf ihre Amtszeit vorbereitete. Am Abend folgten ausgelassene Partys, für deren Ausmaß sie nun aufkommen soll.",
-      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
-      "image_url": "https://img.welt.de/img/incoming/mobile245094958/9797936097-ci23x11-w20/406471699.jpg",
-      "image_title": "Die britische Ex-AUßenministerin Liz Truss, soll nun 12.000 Pfund für gestohlene Bademäntel und Pantoffeln zahlen"
     },
     {
       "title": "„So geht es nicht weiter“ – Boris Palmer kündigt nach umstrittenen Äußerungen Auszeit an",
@@ -233,6 +233,13 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile245060228/4347930787-ci23x11-w20/DWO-Teaser-wagenknecht-aw.jpg",
       "image_title": "Sahra Wagenknecht (Linke)",
       "author": "Luisa Hofmeier"
+    },
+    {
+      "title": "Fehlende Bademäntel und Pantoffel – 13.000-Euro-Rechnung für Ex-Premier Liz Truss",
+      "teaser": "Nach der Arbeit kommt das Vergnügen. Das war wohl auch das Credo der britischen Ex-Außenministerin Truss, als sie sich im vergangenen Sommer im „Cheveing House“ in Kent auf ihre Amtszeit vorbereitete. Am Abend folgten ausgelassene Partys, für deren Ausmaß sie nun aufkommen soll.",
+      "url": "https://www.welt.de/vermischtes/weltgeschehen/",
+      "image_url": "https://img.welt.de/img/incoming/mobile245094958/9797936097-ci23x11-w20/406471699.jpg",
+      "image_title": "Die britische Ex-AUßenministerin Liz Truss, soll nun 12.000 Pfund für gestohlene Bademäntel und Pantoffeln zahlen"
     },
     {
       "title": "„Umso mehr Respekt habe ich vor Deutschland“",
@@ -359,14 +366,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile245025314/9837931087-ci23x11-w20/DWO-Teaser-KI-Arbeitswelt-jb-jpg.jpg",
       "image_title": "Martin Krzywdzinski ist Arbeitssoziologe und forscht am Wissenschaftszentrum Berlin zu Globalisierung und technologischem Wandel in der Arbeitswelt",
       "author": "Luisa Hofmeier"
-    },
-    {
-      "title": "Der Ärger der CDU mit einer „linken Kampagne“",
-      "teaser": "Es ist eine Geschichte wie aus einer Fernsehserie: Ein junger Schauspieler tritt in die CDU ein, um die Partei von innen zu verändern. Doch bei seinem Kreisverband wird er nie gesehen. Dafür klagt er mit einer NGO gegen den Einfluss von „Lobbyisten“ in der Partei. War alles nur eine Kampagne?",
-      "url": "https://www.welt.de/politik/deutschland/plus245077966/Der-Aerger-der-CDU-mit-einem-Tatort-Schauspieler.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile245077960/5127937447-ci23x11-w20/CDU-Party-Headquarters-In-Berlin-Konrad-Adenauer-Haus-2.jpg",
-      "image_title": "Die CDU-Zentrale, das Konrad-Adenauer-Haus in Berlin: Die Parteispitze fragt sich, aus welchen Motiven ein Schauspieler in die CDU eingetreten ist",
-      "author": "Sebastian Beug"
     },
     {
       "title": "Ein entscheidender Irrtum – und dann ist es für Kinder zu spät",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-02T06:14:34",
+  "timestamp": "2023-05-02T07:10:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Apache, Oracle, TP-Link",
+      "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-TP-Link-Archer-Apache-Log4j2-und-Oracle-Weblogic-8984237.html"
+    },
+    {
       "title": "Illumina",
       "url": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Onlineshop-System-PrestaShop-Angreifer-koennten-Datenbank-manipulieren-8980645.html"
     },
     {
-      "title": "VMware Workstation&Fusion",
-      "url": "https://www.heise.de/news/VMware-Workstation-und-Fusion-Hersteller-stopft-kritische-Zero-Day-Luecke-8979106.html"
+      "title": "Angriffe auf Lücken in TP-Link Archer, Apache Log4j2 und Oracle Weblogic",
+      "teaser": "Angreifer nutzen Sicherheitslücken in TP-Link Archer, Apache Log4j2 und Oracle Weblogic aus, um Zugriff auf Netzwerke von Opfern zu erlangen.",
+      "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-TP-Link-Archer-Apache-Log4j2-und-Oracle-Weblogic-8984237.html"
+    },
+    {
+      "title": "NRW Schulministerium: Noch mehr Sicherheitslücken gefunden",
+      "teaser": "Das NRW-Schulministerium hat erklärt, dass noch mehr Sicherheitslücken gefunden wurden und das beauftragte Sicherheitsteam von Ernst & Young weitersuche.",
+      "url": "https://www.heise.de/news/NRW-Schulministerium-Noch-mehr-Sicherheitsluecken-gefunden-8984214.html",
+      "image_title": "Digital,Classroom,Concept,For,Online,Education.,Modern,Classroom,Desks,On"
     },
     {
       "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern",
@@ -146,16 +157,6 @@
       "teaser": "Einige Krankenkassen haben derzeit mit technischen Störungen zu kämpfen. Sie gehen auf Cyber-Attacken auf den IT-Dienstleister Bitmarck zurück.",
       "url": "https://www.heise.de/news/Cyber-Angriff-auf-Bitmarck-Einige-Krankenkassen-Dienste-gestoert-8978360.html",
       "image_title": "Medicine,Doctor,Working,Digital,Tablet,For,Medical,Record,Of,Patient"
-    },
-    {
-      "title": "Nach NRW-Abi-Panne: Sicherheitslücke auf Schulserver enthüllt tausende Nutzer",
-      "teaser": "Nach den massiven Download-Störungen beim Abitur in Nordrhein-Westfalen musste Schulministerin Dorothee Feller nun auch noch ein größeres Datenleck einräumen.",
-      "url": "https://www.heise.de/news/Nach-NRW-Abi-Panne-Sicherheitsluecke-auf-Schulserver-enthuellt-tausende-Nutzer-8979984.html"
-    },
-    {
-      "title": "Lesetipp: Zu Besuch im virtuellen Crypto Museum",
-      "teaser": "Im Crypto Museum tauchen Besucher online in die Geschichte der verschlüsselten Kommunikation ein.",
-      "url": "https://www.heise.de/news/Lesetipp-Zu-Besuch-im-virtuellen-Crypto-Museum-8970804.html"
     },
     {
       "title": "Einfallstor iPhone-PIN: Sicherheit am seidenen Faden",
