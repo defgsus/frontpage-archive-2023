@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-03T08:14:20",
+  "timestamp": "2023-05-03T09:11:29",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -32,6 +32,21 @@
   ],
   "articles": [
     {
+      "title": "Klimaaktivistin klagt gegen Klebeverbot – mit Erfolg",
+      "teaser": "Die Polizei Berlin hatte einer Klimaaktivistin untersagt, sich festzukleben. Sie legte vor dem Verwaltungsgericht jedoch Beschwerde ein und bekam Recht. Aus dem Verbot ginge nicht hervor, welche Straßen gemeint seien, erklärte das Gericht.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/regionales/berlin/mobile245049402/2567932167-ci23x11-w20/Proteste-der-Letzten-Generation-in-Berlin.jpg",
+      "image_title": "Ein Polizeibeamter löst die Hand eines Klimaaktivisten von der Straße"
+    },
+    {
+      "title": "Säkularer Islam fordert Ende der Zusammenarbeit mit Zentralrat der Muslime",
+      "teaser": "In einem Brief an Bundesinnenministerin Nancy Faeser fordert der Verein Säkularer Islam, die Kooperationen mit dem Zentralrat der Muslime sofort einzustellen. Anlass ist das vom Verfassungsschutz als extremistisch eingestufte Islamische Zentrum Hamburg.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile244019059/2787931707-ci23x11-w20/Islamisches-Zentrum-Hamburg-Imam-Ali-Moschee-Hamburg.jpg",
+      "image_title": "Das Islamische Zentrum Hamburg ist in der Imam-Ali-Moschee angesiedelt",
+      "author": "Jana Werner"
+    },
+    {
       "title": "Der Flügel in Flammen, die Stimme brennt",
       "teaser": "Sir Elton Hercules John überzeugt auf seiner „Farewell Yellow Brick Road Tour“ in Hamburg restlos – mit einer exquisiten Band und 24 Hits von 13 Alben aus seiner mehr als ein halbes Jahrhundert währenden Karriere.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -52,21 +67,6 @@
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile245119754/7217939677-ci23x11-w20/Suche-nach-weiteren-Leichenteilen-in-Hamburger-Kanal.jpg",
       "image_title": "Taucher der Hamburger Polizei holten im Januar die Leichenteile aus der Elbe, nachdem ein Angler eine Tüte mit menschlichen Überresten entdeckt hatte"
-    },
-    {
-      "title": "Söder steht für Kanzlerkandidatur „nicht zur Verfügung“",
-      "teaser": "Markus Söder hat Spekulationen über eine mögliche Kanzlerkandidatur zurückgewiesen. In der Sendung „Markus Lanz“ erklärte der CSU-Chef in deutlichen Worten, dass das Thema für ihn erledigt sei. Die besten Chancen räumt er dem CDU-Vorsitzenden Friedrich Merz ein.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile245119742/9007934987-ci23x11-w20/Gemeinsame-Kabinettssitzung-von-Bayern-und-NRW.jpg",
-      "image_title": "Sein Platz ist in Bayern: CSU-Chef Markus Söder will sich nicht noch einmal für die Kanzlerkandidatur der Union bewerben"
-    },
-    {
-      "title": "Verzweifelt, verwundbar – und kaum Chancen auf Rückkehr",
-      "teaser": "Gerade hatte er noch große Hoffnungen – jetzt steckt Boris Palmer in seiner schwersten Krise. Der Eklat von Frankfurt markiert das wohl letzte Kapitel einer Entfremdung zwischen ihm und den Grünen. Er sei am Boden zerstört, sagen Freunde. Einige Parteikollegen wollen die Tür aber offen lassen.",
-      "url": "https://www.welt.de/politik/deutschland/plus245114022/Boris-Palmer-Verzweifelt-verwundbar-und-kaum-Chancen-auf-Rueckkehr.html",
-      "image_url": "https://img.welt.de/img/incoming/mobile245114928/4227938837-ci23x11-w20/OB-Wahl-2022-Podiumsdiskussion-von-Podium-Fridays-for-Future-Tuebingen.jpg",
-      "image_title": "Tübingens Oberbürgermeister Boris Palmer (parteilos)",
-      "author": "Claus Christian Malzahn"
     },
     {
       "title": "Durchgangsstraße darf für Digital-Messe OMR gesperrt werden",
@@ -113,16 +113,10 @@
       "image_title": "Bekennende Anarchusten waren am Tierpark Hagenbeck unterwegs und wurden eng durch Polizisten begleitet"
     },
     {
-      "title": "Klimaaktivistin klagt gegen Klebeverbot – mit Erfolg",
-      "teaser": "Die Polizei Berlin hatte einer Klimaaktivistin untersagt, sich festzukleben. Sie legte vor dem Verwaltungsgericht jedoch Beschwerde ein und bekam Recht. Aus dem Verbot ginge nicht hervor, welche Straßen gemeint seien, erklärte das Gericht.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/regionales/berlin/mobile245049402/2567932167-ci16x9-w20/Proteste-der-Letzten-Generation-in-Berlin.jpg",
-      "image_title": "Ein Polizeibeamter löst die Hand eines Klimaaktivisten von der Straße"
-    },
-    {
       "title": "Linke Demos in Berlin – Polizisten mit Flaschen und Böllern beworfen",
-      "url": "https://www.welt.de/vermischtes/article245090630/Berlin-Linke-Demo-Polizisten-mit-Flaschen-und-Boellern-beworfen.html",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile245090628/5877939897-ci102l-w20/Protests-ahead-of-May-Day-in-Berlin.jpg",
+      "teaser": "In der Nacht zu Samstag hatte es Zerstörungen durch Randalierer in Berlin-Mitte gegeben. Am Tag vor dem 1. Mai zogen zwei Demonstrationen durch die Hauptstadt. Auf einer Friedensdemo forderten Teilnehmer eine „Niederlage der Nato“. Auf einer „queer-feministischen Demo“ wurden Polizisten mit Flaschen beworfen.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile245090628/5877939897-ci16x9-w20/Protests-ahead-of-May-Day-in-Berlin.jpg",
       "image_title": "Die „queer-feministische Demo“ in Kreuzberg"
     },
     {
@@ -142,6 +136,13 @@
       "url": "https://www.welt.de/politik/deutschland/article245060338/Berlin-Zehn-elf-oder-zwoelf-AfD-Angaben-fuer-Wegner-Wahl-widersprechen-sich.html",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile245061390/5757936527-ci102l-w20/GERMANY-POLITICS-BERLIN.jpg",
       "image_title": "Kai Wegner"
+    },
+    {
+      "title": "„Die SPD in Berlin zeigt, dass sie kein verlässlicher Partner ist“, schreibt der SPD-Mann",
+      "url": "https://www.welt.de/politik/deutschland/article245043924/Berlin-Die-SPD-in-Berlin-zeigt-dass-sie-kein-verlaesslicher-Partner-ist-schreibt-der-SPD-Mann.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile245044042/3267932557-ci102l-w20/Berlin-Parliament-votes-to-choose-new-Berlin-Mayor.jpg",
+      "image_title": "Berlin Parliament votes to choose new Berlin Mayor",
+      "author": "Sabine Menkens"
     },
     {
       "title": "Autofahrer flieht und lässt toten Beifahrer und verletzten 13-Jährigen zurück",
@@ -179,10 +180,16 @@
       "author": "Christiane Hoffmans"
     },
     {
+      "title": "Söder steht für Kanzlerkandidatur „nicht zur Verfügung“",
+      "teaser": "Markus Söder hat Spekulationen über eine mögliche Kanzlerkandidatur zurückgewiesen. In der Sendung „Markus Lanz“ erklärte der CSU-Chef in deutlichen Worten, dass das Thema für ihn erledigt sei. Die besten Chancen räumt er dem CDU-Vorsitzenden Friedrich Merz ein.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile245119742/9007934987-ci16x9-w20/Gemeinsame-Kabinettssitzung-von-Bayern-und-NRW.jpg",
+      "image_title": "Sein Platz ist in Bayern: CSU-Chef Markus Söder will sich nicht noch einmal für die Kanzlerkandidatur der Union bewerben"
+    },
+    {
       "title": "Zwischen Hoffnung und Resignation",
-      "teaser": "Manfred Genditzki saß 13 Jahre lang wegen eines Mordes, den er womöglich nie begangen hat, im Gefängnis. Ihm wird vorgeworfen, seine 87 Jahre alte Nachbarin getötet zu haben. Nun wird der Fall zum dritten Mal aufgerollt. Hat sich die Justiz verrannt?",
       "url": "https://www.welt.de/vermischtes/plus245077434/Der-Fall-Genditzki-Zwischen-Hoffnung-und-Resignation.html",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile245077432/8167931767-ci16x9-w20/Manfred-Genditzki-im-Treppenhaus-des-Hau-2.jpg",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile245077432/8167931767-ci102l-w20/Manfred-Genditzki-im-Treppenhaus-des-Hau-2.jpg",
       "image_title": "Manfred Genditzki im Treppenhaus seiner Anwältin in München",
       "author": "Gisela Friedrichsen"
     },
@@ -206,11 +213,12 @@
       "author": "Nikolaus Doll"
     },
     {
-      "title": "„Menschenfeindliches Verhalten“ – Boykott-Aufruf gegen Gloria von Thurn und Taxis",
-      "url": "https://www.welt.de/politik/deutschland/plus244921504/Regensburg-Boykott-Aufruf-gegen-Gloria-von-Thurn-und-Taxis.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244922508/1997933297-ci102l-w20/Eroeffnung-Bayreuther-Richard-Wagner-Festspiele-2022-Roter-Teppich.jpg",
-      "image_title": "Fürstin Gloria von Thurn und Taxis",
-      "author": "Dominik Kalus"
+      "title": "Verzweifelt, verwundbar – und kaum Chancen auf Rückkehr",
+      "teaser": "Gerade hatte er noch große Hoffnungen – jetzt steckt Boris Palmer in seiner schwersten Krise. Der Eklat von Frankfurt markiert das wohl letzte Kapitel einer Entfremdung zwischen ihm und den Grünen. Er sei am Boden zerstört, sagen Freunde. Einige Parteikollegen wollen die Tür aber offen lassen.",
+      "url": "https://www.welt.de/politik/deutschland/plus245114022/Boris-Palmer-Verzweifelt-verwundbar-und-kaum-Chancen-auf-Rueckkehr.html",
+      "image_url": "https://img.welt.de/img/incoming/mobile245114928/4227938837-ci23x11-w20/OB-Wahl-2022-Podiumsdiskussion-von-Podium-Fridays-for-Future-Tuebingen.jpg",
+      "image_title": "Tübingens Oberbürgermeister Boris Palmer (parteilos)",
+      "author": "Claus Christian Malzahn"
     },
     {
       "title": "„Lang anhaltende Belastung“ – Boris Palmer tritt bei den Grünen aus",
@@ -226,14 +234,6 @@
       "image_url": "https://img.welt.de/img/incoming/mobile245016050/7847938897-ci23x11-w20/Buergermeister-Ryyan-Alshebl-Schwaben-si.jpg",
       "image_title": "„Die Menschen haben mich nicht gewählt, weil ich bei den Grünen bin“, sagt Ostelsheims nächster Bürgermeister Ryaan Alshebl",
       "author": "Frédéric Schwilden"
-    },
-    {
-      "title": "Ein Polizist, seine besonderen Vorlieben – und eine kleine Staatsaffäre",
-      "teaser": "Baden-Württembergs mächtigster Polizist beriet junge Beamtinnen als Mentor und lud zu Sektrunden ins Büro. Eine der Frauen soll er sexuell genötigt und dabei einen Fetisch ins Spiel gebracht haben. Die Beweislage ist aber strittig. WELT hat vor dem Prozess mehr als 1200 Aktenseiten ausgewertet.",
-      "url": "https://www.welt.de/politik/deutschland/plus244904338/Ein-Polizist-seine-besonderen-Vorlieben-und-eine-kleine-Staatsaffaere-in-Baden-Wuerttemberg.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile244906754/3287930157-ci23x11-w20/Reportage-von-I-Naber-Der-Mann-heisst-A-6.jpg",
-      "image_title": "Stuttgart, 12. November 2021: Katja D. und Andreas Renner in dessen Büro",
-      "author": "Ibrahim Naber"
     },
     {
       "title": "Tod eines 14-Jährigen – Staatsanwaltschaft klagt Gleichaltrigen an",
@@ -387,6 +387,74 @@
       "image_title": "Gegner und Befürworter der Unterbringung von Flüchtlingen und Migranten demonstriereten Ende März in der Stadt"
     },
     {
+      "title": "Gruppe überquert Gleise und wird fast von ICE erfasst",
+      "url": "https://www.welt.de/regionales/hessen/article245115608/Gruppe-ueberquert-Gleise-und-wird-fast-von-ICE-erfasst.html"
+    },
+    {
+      "title": "Wirtschaftsminister: Erdgas wird noch gebraucht",
+      "url": "https://www.welt.de/regionales/niedersachsen/article245123746/Wirtschaftsminister-Erdgas-wird-noch-gebraucht.html"
+    },
+    {
+      "title": "Gerüchte um Zukunft von Xabi Alonso mehren sich",
+      "url": "https://www.welt.de/regionales/nrw/article245123606/Geruechte-um-Zukunft-von-Xabi-Alonso-mehren-sich.html"
+    },
+    {
+      "title": "Importerlaubnis für nicht zugelassene Kinder-Antibiotika",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article245123586/Importerlaubnis-fuer-nicht-zugelassene-Kinder-Antibiotika.html"
+    },
+    {
+      "title": "Polizeiaktion in Berlin: MV will Vorgehen überprüfen",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article245123428/Polizeiaktion-in-Berlin-MV-will-Vorgehen-ueberpruefen.html"
+    },
+    {
+      "title": "Ludwigshafen am stärksten versiegelte Stadt in Deutschland",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article245123310/Ludwigshafen-am-staerksten-versiegelte-Stadt-in-Deutschland.html"
+    },
+    {
+      "title": "Waren, Güstrow und Parchim: Dichteste Bebauung in MV",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article245123090/Waren-Guestrow-und-Parchim-Dichteste-Bebauung-in-MV.html"
+    },
+    {
+      "title": "Warnstreik stoppt Bus- und Straßenbahnverkehr in Bremen",
+      "url": "https://www.welt.de/regionales/niedersachsen/article245103496/Warnstreik-stoppt-Bus-und-Strassenbahnverkehr-in-Bremen.html"
+    },
+    {
+      "title": "FDP: Kritik an Diskussion über Vier-Tage-Woche in Verwaltung",
+      "url": "https://www.welt.de/regionales/berlin/article245122908/FDP-Kritik-an-Diskussion-ueber-Vier-Tage-Woche-in-Verwaltung.html"
+    },
+    {
+      "title": "Schaalseemaränen sollen wieder im Schaalsee heimisch werden",
+      "url": "https://www.welt.de/regionales/hamburg/article245122778/Schaalseemaraenen-sollen-wieder-im-Schaalsee-heimisch-werden.html"
+    },
+    {
+      "title": "Umweltminister: Schutz von Borkum hat höchste Bedeutung",
+      "url": "https://www.welt.de/regionales/niedersachsen/article245122738/Umweltminister-Schutz-von-Borkum-hat-hoechste-Bedeutung.html"
+    },
+    {
+      "title": "Meta Janssen-Kucz: Greenpeace-Protest friedlich und legitim",
+      "url": "https://www.welt.de/regionales/niedersachsen/article245122726/Meta-Janssen-Kucz-Greenpeace-Protest-friedlich-und-legitim.html"
+    },
+    {
+      "title": "Finale: BR Volleys reisen mit Respekt nach Friedrichshafen",
+      "url": "https://www.welt.de/regionales/berlin/article245122588/Finale-BR-Volleys-reisen-mit-Respekt-nach-Friedrichshafen.html"
+    },
+    {
+      "title": "Steigende Zinsen beflügeln Bauspargeschäft",
+      "url": "https://www.welt.de/regionales/hessen/article245122512/Steigende-Zinsen-befluegeln-Bauspargeschaeft.html"
+    },
+    {
+      "title": "SC Potsdam: «Müssen die Eigenfehlerquote runterschrauben»",
+      "url": "https://www.welt.de/regionales/berlin/article245122444/SC-Potsdam-Muessen-die-Eigenfehlerquote-runterschrauben.html"
+    },
+    {
+      "title": "TV-Quote geringer als im Viertelfinale",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article245122438/TV-Quote-geringer-als-im-Viertelfinale.html"
+    },
+    {
+      "title": "AOK: Weniger Schlaganfallbehandlungen in Krankenhäusern",
+      "url": "https://www.welt.de/regionales/hamburg/article245122462/AOK-Weniger-Schlaganfallbehandlungen-in-Krankenhaeusern.html"
+    },
+    {
       "title": "Viele Unfälle: Überholmanöver und E-Bikes im Polizei-Visier",
       "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article245122420/Viele-Unfaelle-Ueberholmanoever-und-E-Bikes-im-Polizei-Visier.html"
     },
@@ -397,74 +465,6 @@
     {
       "title": "Sonne und warmes Wetter in Rheinland-Pfalz und im Saarland",
       "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article245121944/Sonne-und-warmes-Wetter-in-Rheinland-Pfalz-und-im-Saarland.html"
-    },
-    {
-      "title": "Ex-Audi-Chef Stadler kündigt Geständnis an",
-      "url": "https://www.welt.de/regionales/bayern/article245121914/Ex-Audi-Chef-Stadler-kuendigt-Gestaendnis-an.html"
-    },
-    {
-      "title": "Anklage gegen Attentäter von Halle wegen Geiselnahme in JVA",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article245121880/Anklage-gegen-Attentaeter-von-Halle-wegen-Geiselnahme-in-JVA.html"
-    },
-    {
-      "title": "Landtagspräsidentin: Polizei wird Greenpeace-Aktion beenden",
-      "url": "https://www.welt.de/regionales/niedersachsen/article245121872/Landtagspraesidentin-Polizei-wird-Greenpeace-Aktion-beenden.html"
-    },
-    {
-      "title": "Herrmann: Wichtige Ermittlungsergebnisse zu Mafia-Einsatz",
-      "url": "https://www.welt.de/regionales/bayern/article245121840/Herrmann-Wichtige-Ermittlungsergebnisse-zu-Mafia-Einsatz.html"
-    },
-    {
-      "title": "Mafia-U-Ausschuss-Obfrau: `Ndrangheta stärker bekämpfen",
-      "url": "https://www.welt.de/regionales/thueringen/article245121746/Mafia-U-Ausschuss-Obfrau-Ndrangheta-staerker-bekaempfen.html"
-    },
-    {
-      "title": "Gericht: Verletzung bei Sprung in Pool ist Arbeitsunfall",
-      "url": "https://www.welt.de/regionales/bayern/article245114652/Gericht-Verletzung-bei-Sprung-in-Pool-ist-Arbeitsunfall.html"
-    },
-    {
-      "title": "Polizei meldet zahlreiche Motorrad-Unfälle in NRW",
-      "url": "https://www.welt.de/regionales/nrw/article245100256/Polizei-meldet-zahlreiche-Motorrad-Unfaelle-in-NRW.html"
-    },
-    {
-      "title": "Zerstörte Kabel an Stellwerk: Bundespolizei sucht Zeugen",
-      "url": "https://www.welt.de/regionales/nrw/article245121688/Zerstoerte-Kabel-an-Stellwerk-Bundespolizei-sucht-Zeugen.html"
-    },
-    {
-      "title": "Auto fährt in Baustellenabsicherung: Fahrer schwer verletzt",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article245121544/Auto-faehrt-in-Baustellenabsicherung-Fahrer-schwer-verletzt.html"
-    },
-    {
-      "title": "Gasleitung versehentlich angebaggert: 37 Menschen evakuiert",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article245121472/Gasleitung-versehentlich-angebaggert-37-Menschen-evakuiert.html"
-    },
-    {
-      "title": "Münzwurf und Zaunsprung: Günter kritisiert Fans und Silva",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article245120194/Muenzwurf-und-Zaunsprung-Guenter-kritisiert-Fans-und-Silva.html"
-    },
-    {
-      "title": "185.000 Menschen mit jüngerer Migrationsgeschichte",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article245106656/185-000-Menschen-mit-juengerer-Migrationsgeschichte.html"
-    },
-    {
-      "title": "Unbekannter überfällt Bank in Itzehoe",
-      "url": "https://www.welt.de/regionales/hamburg/article245121416/Unbekannter-ueberfaellt-Bank-in-Itzehoe.html"
-    },
-    {
-      "title": "«Morden im Norden» kommt erstmals als Spielfilm in die ARD",
-      "url": "https://www.welt.de/regionales/hamburg/article245121372/Morden-im-Norden-kommt-erstmals-als-Spielfilm-in-die-ARD.html"
-    },
-    {
-      "title": "Fristende: Noch rund 900.000 Grundsteuererklärungen fehlen",
-      "url": "https://www.welt.de/regionales/bayern/article245121352/Fristende-Noch-rund-900-000-Grundsteuererklaerungen-fehlen.html"
-    },
-    {
-      "title": "Fliegerbombe gefunden: Entschärfung am Donnerstag",
-      "url": "https://www.welt.de/regionales/berlin/article245121346/Fliegerbombe-gefunden-Entschaerfung-am-Donnerstag.html"
-    },
-    {
-      "title": "Warnstreik stoppt Bus- und Straßenbahnverkehr in Bremen",
-      "url": "https://www.welt.de/regionales/niedersachsen/article245103496/Warnstreik-stoppt-Bus-und-Strassenbahnverkehr-in-Bremen.html"
     }
   ]
 }
