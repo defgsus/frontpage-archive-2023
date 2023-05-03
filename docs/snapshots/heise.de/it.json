@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-03T13:13:33",
+  "timestamp": "2023-05-03T14:10:14",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,25 @@
   ],
   "articles": [
     {
+      "title": "Ende einer Ära: Intel gibt \"Core i\"-Namen auf",
+      "teaser": "15 Jahre nach den ersten Core i7 bereitet Intel dem ikonischen \"i\" offenbar ein Ende. Die nächste Prozessorgeneration erscheint unter neuen Namen.",
+      "url": "https://www.heise.de/news/Ende-eine-Intel-Aera-Core-Ultra-beerbt-Core-i-8984425.html",
+      "image_title": "Prozessor Intel Core i5 auf Motherboard"
+    },
+    {
+      "title": "Alles weg außer Surface: Microsoft stellt eigene PC-Peripherie ein",
+      "teaser": "Die meisten Tastaturen, Mäuse und anderen Peripheriegeräte von Microsoft befinden sich im Abverkauf, darunter etwa das Microsoft Ergonomic Keyboard.",
+      "url": "https://www.heise.de/news/Alles-weg-ausser-Surface-Microsoft-stellt-eigene-PC-Peripherie-ein-8985011.html"
+    },
+    {
       "title": "Samsung: Speicher und Chips machen Rekordverlust",
       "teaser": "Die Chipproduktion bei Samsung hat Anfang 2023 ein riesiges Minus erwirtschaftet. Die Aussichten bleiben vorerst schlecht.",
       "url": "https://www.heise.de/news/Samsung-Halbleitersparte-in-der-3-Milliarden-Krise-8982511.html"
     },
     {
-      "title": "Klingt sogar ziemlich gut: Neues Kompressionsformat Quite Okay Audio",
-      "teaser": "Das Quite Okay Audio Format will fast wie verlustfreie Formate klingen und schneller komprimieren als andere Formate. Jetzt gibt es eine Spezifikation.",
-      "url": "https://www.heise.de/news/Klingt-sogar-ziemlich-gut-Neues-Kompressionsformat-Quite-Okay-Audio-8982379.html",
-      "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
-    },
-    {
-      "title": "LLaVA: Multimodales offenes KI-Modell auf LLaMA-Basis liest Bilder und Sprache",
-      "teaser": "Die Forschungsdemo des Large Language and Vision Assistant erlaubt Usern das Hochladen eigener Bilder zum Testen multimodaler Fähigkeiten und sammelt Feedback.",
-      "url": "https://www.heise.de/news/LLaVA-Multimodales-offenes-KI-Modell-auf-LLaMA-Basis-liest-Bilder-und-Sprache-8974975.html"
+      "title": "Innendämmung zum Energiesparen: Was sie bringt, was sie kostet und die Risiken",
+      "teaser": "Innendämmung erhielt durch einen dummen Zufall einen schlechten Ruf. In der Praxis hat sie sich seit über hundert Jahren gut bewährt. Eine praktische Analyse.",
+      "url": "https://www.heise.de/hintergrund/Innendaemmung-zum-Energiesparen-Was-sie-bringt-was-sie-kostet-und-die-Risiken-8974505.html"
     },
     {
       "title": "Betriebssystem per USB-Stick auswählen: Linux oder Windows booten",
@@ -48,21 +53,32 @@
       "image_title": ", Collage c’t / KI Midjourney"
     },
     {
-      "title": "Recherchetools: Wie Sprach-KIs beim Sichten von Forschungsarbeiten unterstützen",
-      "teaser": "Es ist mühsam, den Stand von Forschungsthemen zu überblicken und wissenschaftliche Texte zu lesen. Sprach-KIs helfen beim Recherchieren und beantworten Fragen.",
-      "url": "https://www.heise.de/tests/Recherchetools-Wie-Sprach-KIs-beim-Sichten-von-Forschungsarbeiten-unterstuetzen-8977449.html",
-      "image_title": "KI Stable Diffusion Bearbeitung: c't"
+      "title": "SoftMaker Office 2024: Büro-Software im öffentlichen Betatest",
+      "teaser": "Das Office-Paket von SoftMaker ist als Betaversion ab sofort frei verfügbar. Jeder kann die Bürosoftware SoftMaker Office 2024 gratis installieren und testen.",
+      "url": "https://www.heise.de/news/SoftMaker-Office-2024-Buero-Software-im-oeffentlichen-Betatest-8985840.html"
     },
     {
-      "title": "Innendämmung zum Energiesparen: Was sie bringt, was sie kostet und die Risiken",
-      "teaser": "Innendämmung erhielt durch einen dummen Zufall einen schlechten Ruf. In der Praxis hat sie sich seit über hundert Jahren gut bewährt. Eine praktische Analyse.",
-      "url": "https://www.heise.de/hintergrund/Innendaemmung-zum-Energiesparen-Was-sie-bringt-was-sie-kostet-und-die-Risiken-8974505.html"
+      "title": "Firmware-TPM: faulTPM knackt AMD-CPUs nach drei Stunden lokalem Zugriff",
+      "teaser": "TPMs sollen Geheimnisse wie kryptographische Schlüssel schützen. IT-Forscher haben jetzt mit \"faulTPM\" unbefugten Zugriff auf AMDs Firmware-TPM erlangt.",
+      "url": "https://www.heise.de/news/faulTPM-Angriff-auf-AMDs-Firmware-TPM-etwa-zum-Knacken-von-Bitlocker-8985704.html"
+    },
+    {
+      "title": "Künstliche Intelligenz: Eigene Chatbots mit Copilot und Semantic Kernel bauen",
+      "teaser": "Microsofts Copilot-Chat-Beispielapp liefert Developern die Vorlage zum Integrieren oder Bauen eigner KI-Chat-Bots auf Basis von Large-Language-Modellen.",
+      "url": "https://www.heise.de/news/Kuenstliche-Intelligenz-Eigene-Chatbots-mit-Copilot-und-Semantic-Kernel-bauen-8985936.html",
+      "image_title": "Ai(artificial,Intelligence),Concept. Bard, ChatGPT, KI, Chatbot"
     },
     {
       "title": "Wordpress: Automatische Beiträge auf Twitter nicht mehr möglich",
       "teaser": "Inhalte auf Wordpress konnten bislang automatisch komplett auf Twitter eingestellt werden. Das ist nun nicht mehr möglich. Grund sind die API-Preise.",
       "url": "https://www.heise.de/news/Wordpress-Automatische-Beitraege-auf-Twitter-nicht-mehr-moeglich-8985863.html",
       "image_title": "Twitter,Company,Logo,On,The,Smartphone,Screen,In,A,Dark"
+    },
+    {
+      "title": "Recherchetools: Wie Sprach-KIs beim Sichten von Forschungsarbeiten unterstützen",
+      "teaser": "Es ist mühsam, den Stand von Forschungsthemen zu überblicken und wissenschaftliche Texte zu lesen. Sprach-KIs helfen beim Recherchieren und beantworten Fragen.",
+      "url": "https://www.heise.de/tests/Recherchetools-Wie-Sprach-KIs-beim-Sichten-von-Forschungsarbeiten-unterstuetzen-8977449.html",
+      "image_title": "KI Stable Diffusion Bearbeitung: c't"
     },
     {
       "title": "Chrome 113 unterstützt als erster Browser WebGPU",
@@ -117,23 +133,6 @@
       "teaser": "heise Security bietet erstmals vertiefende Workshops für Security-Verantwortliche. Die Palette reicht von M365 sicher einsetzen bis zu KRITIS-Vorgaben umsetzen.",
       "url": "https://www.heise.de/news/Security-Workshops-Recht-fuer-Admins-KRITS-Vorgaben-umsetzen-und-mehr-8984967.html",
       "image_title": "heise Security Tour 2023"
-    },
-    {
-      "title": "HP-Drucker: Hochriskante Sicherheitslücken in mehreren Laserjet Pro/MFPs",
-      "teaser": "Mehrere hochriskante Schwachstellen in einigen HP Laserjet Pro/MFP-Modellen ermöglichen Angreifern, Schadcode einzuschleusen und ihre Rechte auszuweiten.",
-      "url": "https://www.heise.de/news/HP-Drucker-Hochriskante-Sicherheitsluecken-in-mehreren-Laserjet-Pro-MFPs-8985460.html"
-    },
-    {
-      "title": "\"Monopoly Market\": Stilllegung von Darknet-Marktplatz führt zu 288 Festnahmen",
-      "teaser": "Bereits vor anderthalb Jahren wurde der Darknet-Marktplatz \"Monopoly Market\" ausgehoben. Sichergestellte Daten führten seitdem zu bereits fast 300 Festnahmen.",
-      "url": "https://www.heise.de/news/Drogenhandel-im-Darknet-Monopoly-Market-stillgelegt-288-Personen-verhaftet-8985394.html",
-      "image_title": "A,Lot,Of,Bitcoin,Crypto,Currency,Gold,Bitcoin,Btc,Bit"
-    },
-    {
-      "title": "Neue macOS-Malware klaut Browser-Daten, Schlüsselbund und mehr",
-      "teaser": "Eine auf Telegram aufgetauchte neue Malware soll macOS-Nutzern Daten stehlen. Zum Glück ist sie nicht besonders schlau programmiert.",
-      "url": "https://www.heise.de/news/Neue-macOS-Malware-klaut-Browser-Daten-Schluesselbund-und-mehr-8984079.html",
-      "image_title": "Atomic macOS Stealer"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
