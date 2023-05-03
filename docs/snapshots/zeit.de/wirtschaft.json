@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-03T02:04:34",
+  "timestamp": "2023-05-03T03:12:18",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Verteidigung: EU-Geld soll Rüstungsindustrie zu mehr Munitionsproduktion bewegen",
+      "teaser": "Die EU will die Produktion von Munition in Europa mit einer Milliarde Euro fördern. Das soll die Verteidigungsfähigkeit Europas verbessern – und der Ukraine helfen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/ruestungsindustrie-eu-munition-ukraine-verteidigung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/munition-front-ukraine/cinema__980x420"
+    },
+    {
       "title": "Coronavirus: Polen will bestellten Impfstoff nicht mehr haben",
       "teaser": "Polen fordert vom Impfstoffhersteller Pfizer, sich \"solidarisch\" zu verhalten. Bestehende Verträge will das Land beenden, es brauche die Impfdosen nicht mehr.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/polen-gesundheitsminister-impfstoff-pfizer-vertraege",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/polen-pfizer-impfdosen-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/polen-pfizer-impfdosen-bild/wide__822x462",
+      "image_title": "Coronavirus: Polen will bestellten Impfstoff nicht mehr haben"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wohneigentum: Tschüss Eigenheim",
@@ -66,14 +73,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: Die Letzte Generation ist noch viel zu gemäßigt",
       "teaser": "Die Klimaaktivisten verkämpfen sich mit ihrem Ruf nach einem Tempolimit und nach einem 9-Euro-Ticket. Ihre Forderungen sind viel zu zurückhaltend und zu klein gedacht.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/letze-generation-forderungen-klimaaktivismus-felix-ekardt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/letzte-generation-forderungen-klimaaktivismus-felix-ekardt/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/letzte-generation-forderungen-klimaaktivismus-felix-ekardt/cinema__980x420",
       "image_title": "Letzte Generation: Die Letzte Generation ist noch viel zu gemäßigt"
     },
     {
       "title": "Preise: Inflation in Eurozone steigt leicht auf 7,0 Prozent",
       "teaser": "Die Verbraucherpreise haben sich im April wieder etwas erhöht. Es wird eine weitere Zinsanhebung durch die Europäische Zentralbank am Donnerstag erwartet.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/inflation-eurozone-preise-verbraucher-ezb",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/verbraucher-preise-konjunktur-zinsen-ezb-europa-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/verbraucher-preise-konjunktur-zinsen-ezb-europa-bild/wide__822x462",
       "image_title": "Preise: Inflation in Eurozone steigt leicht auf 7,0 Prozent"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/boerse/2023-05/dax-aktienindex-zinserhoehung-punkte",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/dax-aktienindex-zinserhoehung-notenbank-bild/wide__822x462",
       "image_title": "Aktienindex: Dax steigt über 16.000 Punkte"
-    },
-    {
-      "title": "Inflation: Umsatz im Einzelhandel sinkt weiter",
-      "teaser": "Die stark gestiegenen Preise sind besonders beim Einzelhandel spürbar, der Abwärtstrend setzt sich fort. Besonders bei Lebensmittel gibt es einen kräftigen Rückgang.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/einzelhandel-deutschland-umsatzminus-abwaertstrend",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/einzelhandel-deutschland-umsatzminus-abwaertstrend-bild/wide__822x462",
-      "image_title": "Inflation: Umsatz im Einzelhandel sinkt weiter"
     },
     {
       "title": "Viessmann-Wärmepumpen: Robert Habeck kündigt Prüfung von Viessmann-Verkauf an",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Inflation: Umsatz im Einzelhandel sinkt weiter",
+      "teaser": "Die stark gestiegenen Preise sind besonders beim Einzelhandel spürbar, der Abwärtstrend setzt sich fort. Besonders bei Lebensmittel gibt es einen kräftigen Rückgang.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/einzelhandel-deutschland-umsatzminus-abwaertstrend",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/einzelhandel-deutschland-umsatzminus-abwaertstrend-bild/wide__822x462",
+      "image_title": "Inflation: Umsatz im Einzelhandel sinkt weiter"
+    },
+    {
       "title": "Installateure für Heizungen: Gas, Wasser, Gold",
       "teaser": "Jahrzehntelang haben Installateure Öl- und Gasheizungen verbaut und gutes Geld damit verdient. Von Wärmepumpen wurde eher abgeraten, auch wegen intransparenter Geschäfte.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-04/installateure-heizungen-waermepumpen-gasheizungen-waermewende",
@@ -218,16 +225,16 @@
     },
     {
       "title": "Arbeitszeit: Hubertus Heil gegen Viertagewoche in allen Branchen",
-      "teaser": "Der Bundesarbeitsminister findet eine kürzere Arbeitswoche nur in Einzelfällen sinnvoll. Ein starres System sei falsch. Wichtig sei mehr \"Flexibilität im Lebensverlauf\".",
+      "teaser": "Der Bundesarbeitsminister findet eine kürzere Arbeitswoche nur in Einzelfällen sinnvoll. Ein starres System sei falsch. Wichtig sei mehr \"Flexibilität im Lebensverlauf\". 372 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-04/arbeitszeit-vier-tage-woche-hubertus-heil-bundesarbeitsminister",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/arbeitszeit-viertagewoche-hubertus-heil-industrie-kritik/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/arbeitszeit-viertagewoche-hubertus-heil-industrie-kritik/cinema__980x420",
       "image_title": "Arbeitszeit: Hubertus Heil gegen Viertagewoche in allen Branchen"
     },
     {
       "title": "Änderungen im Mai 2023: Start des Deutschlandtickets und Abschied von der Corona-Warn-App",
-      "teaser": "Die Corona-Warn-App sagt langsam Servus, Vodafone erhöht die Preise und das 49-Euro-Ticket startet. Was sich im Mai ändert – und wie Sie sich vor Fakebanken schützen. 195 Kommentare",
+      "teaser": "Die Corona-Warn-App sagt langsam Servus, Vodafone erhöht die Preise und das 49-Euro-Ticket startet. Was sich im Mai ändert – und wie Sie sich vor Fakebanken schützen.",
       "url": "https://www.zeit.de/wirtschaft/2023-04/deutschlandticket-corona-warn-app-google-amazon-internet-vertrag-vodafone-verbrauchertipps",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/deutschlandticket-corona-warn-app-google-amazon-internet-vertrag-vodafone-verbrauchertipps-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-04/deutschlandticket-corona-warn-app-google-amazon-internet-vertrag-vodafone-verbrauchertipps-bild/wide__822x462",
       "image_title": "Änderungen im Mai 2023: Start des Deutschlandtickets und Abschied von der Corona-Warn-App"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-04/innenstadte-veroedung-galeria-fussgaengerzone",
       "image_url": "https://img.zeit.de/wirtschaft/2023-04/innenstadte-veroedung-galeria/wide__822x462",
       "image_title": "Innenstädte: Betreutes Sterben"
-    },
-    {
-      "title": "Arbeitsmarkt: Deutlich mehr Leiharbeiter und unsicher Beschäftigte",
-      "teaser": "Mehr als ein Fünftel aller Arbeitenden in Deutschland sind atypisch beschäftigt – ohne feste Stelle, bei oft zu niedrigem Lohn. Ihre Zahl steigt.",
-      "url": "https://www.zeit.de/wirtschaft/2023-04/atypische-beschaeftigung-befristet-teilzeit-statistik",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-04/atypische-beschaeftigung-befristet-teilzeit-statistik-bild/wide__822x462",
-      "image_title": "Arbeitsmarkt: Deutlich mehr Leiharbeiter und unsicher Beschäftigte"
     },
     {
       "title": "Immobilienkonzern: Vonovia verkauft Anteil an Immobilienportfolio",
