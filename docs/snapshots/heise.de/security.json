@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-04T08:14:16",
+  "timestamp": "2023-05-04T09:11:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Fortinet",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-Gefaehrliche-Luecken-in-Netzwerkhardware-geschlossen-8986618.html"
+    },
+    {
       "title": "HP Laserjet",
       "url": "https://www.heise.de/news/HP-Drucker-Hochriskante-Sicherheitsluecken-in-mehreren-Laserjet-Pro-MFPs-8985460.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-TP-Link-Archer-Apache-Log4j2-und-Oracle-Weblogic-8984237.html"
     },
     {
-      "title": "Illumina",
-      "url": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html"
+      "title": "Virenschutz: Avira stört Firefox",
+      "teaser": "Zahlreiche Firefox-Nutzer haben Probleme beim Aufrufen von Webseiten. Der Störenfried ist der Avira-Virenschutz.",
+      "url": "https://www.heise.de/news/Virenschutz-Avira-stoert-Firefox-8986601.html"
+    },
+    {
+      "title": "Patchday Fortinet: Angreifer könnten eigene Befehle ausführen",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Produkte von Fortinet. Keine Lücke gilt als kritisch.",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-Gefaehrliche-Luecken-in-Netzwerkhardware-geschlossen-8986618.html"
     },
     {
       "title": "iX-Workshop: Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
@@ -147,18 +157,6 @@
       "title": "Medizin-Geräte: Warnung vor kritischer Sicherheitslücke in Illumina-Software",
       "teaser": "Die US-IT-Sicherheitsbehörde CISA warnt vor kritischen Sicherheitslücken in den medizinischen Geräten von Illumina. Angreifer könnten die Kontrolle übernehmen.",
       "url": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html"
-    },
-    {
-      "title": "Play Store: Google will Schäden in Milliardenhöhe verhindert haben",
-      "teaser": "Google hat seinen Play Store aufgeräumt und dabei allerhand Richtlinienverstöße festgestellt. 1,4 Millionen Apps hat der Internetriese daher nicht zugelassen.",
-      "url": "https://www.heise.de/news/Play-Store-Google-will-Schaeden-in-Milliardenhoehe-verhindert-haben-8983494.html",
-      "image_title": "March,27,,2019,,Brazil.,Google,Play,Logo,On,Your,Mobile"
-    },
-    {
-      "title": "Krpyto-Wallets leergeräumt: Einbruch in AT&T-Mailkonten durch API",
-      "teaser": "Cyberkriminelle haben Zugang zu einer API von AT&T erhalten, wodurch sie in Mail-Konten einbrechen konnten. Von dort aus räumten sie Krypto-Wallets leer.",
-      "url": "https://www.heise.de/news/Krypto-Wallets-leergeraeumt-Cyberkriminelle-brachen-in-Mail-Konten-ein-8981929.html",
-      "image_title": "Bitcoin,And,Cryptocurrency,Cybersecurity,Concept,With,Hacker,Behind,The,Unsecured,Diebstahl,Hack,Thief,"
     },
     {
       "title": "heise Security Tour 2023",
