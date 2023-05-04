@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-04T11:10:07",
+  "timestamp": "2023-05-04T12:21:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.433b7710416cf5f9cd06",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d848c0e42df3935e4b65",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Veritas InfoScale Operations Manager",
+      "url": "https://www.heise.de/news/Gefaehrliche-Luecke-in-Veritas-InfoScale-Operations-Manager-mit-Huerden-8986979.html"
+    },
     {
       "title": "Patchday Fortinet",
       "url": "https://www.heise.de/news/Patchday-Fortinet-Gefaehrliche-Luecken-in-Netzwerkhardware-geschlossen-8986618.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Google-stopft-hochriskante-Luecken-in-Android-8984888.html"
     },
     {
-      "title": "Apache, Oracle, TP-Link",
-      "url": "https://www.heise.de/news/Angriffe-auf-Luecken-in-TP-Link-Archer-Apache-Log4j2-und-Oracle-Weblogic-8984237.html"
+      "title": "Gefährliche Lücke in Veritas InfoScale Operations Manager mit Hürden",
+      "teaser": "Die Entwickler haben in der Cloud-Management-Plattform Veritas InfoScale Operations Manager zwei Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Gefaehrliche-Luecke-in-Veritas-InfoScale-Operations-Manager-mit-Huerden-8986979.html"
     },
     {
       "title": "Virenschutz: Avira stört Firefox",
@@ -152,11 +157,6 @@
       "teaser": "Ein erfahrener Pentester stellt die häufigsten Sicherheitslücken in Webanwendungen vor und erklärt, wie man sich erfolgreich schützt.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-8979776.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Medizin-Geräte: Warnung vor kritischer Sicherheitslücke in Illumina-Software",
-      "teaser": "Die US-IT-Sicherheitsbehörde CISA warnt vor kritischen Sicherheitslücken in den medizinischen Geräten von Illumina. Angreifer könnten die Kontrolle übernehmen.",
-      "url": "https://www.heise.de/news/Medizin-Geraete-Warnung-vor-kritischer-Sicherheitsluecke-in-Illumina-Software-8983960.html"
     },
     {
       "title": "heise Security Tour 2023",

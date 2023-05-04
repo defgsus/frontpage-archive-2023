@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-04T11:10:14",
+  "timestamp": "2023-05-04T12:21:34",
   "url": "https://www.welt.de/kultur/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "„Von Menschen gemacht“ ist das neue „Bio“",
+      "teaser": "Der Streik von Hollywoods Autoren betrifft auch die Comedy-Welt: Late-Night-Superstars wie Stephen Colbert und Jimmy Fallon bekommen keine Witze mehr geliefert. Chat GPT könnte dafür die Lösung sein. Doch den generierten Sprüchen mangelt es an mehr als nur Humor.",
+      "url": "https://www.welt.de/kultur/article245133546/Comedy-und-KI-Von-Menschen-gemacht-ist-das-neue-Bio.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile245134558/4877937817-ci23x11-w20/The-Late-Show-with-Stephen-Colbert.jpg",
+      "image_title": "Late-Night-Host Stephen Colbert",
+      "author": "Lena Karger"
+    },
+    {
       "title": "Warum all die empathischen Menschen die neuen Narzissten sind",
       "teaser": "Kaum eine Fähigkeit wird heute so gehypt wie die Empathie. Einfühlung ist Trend, jede Krise wird mit einem Gang zum Therapeuten beantwortet. Doch die Schattenseiten der Tugend blieben bislang weitgehend unthematisiert. Warum die Gefahren jetzt stärker in den Blick rücken.",
       "url": "https://www.welt.de/kultur/plus241011637/Psychologie-Warum-all-die-empathischen-Menschen-die-neuen-Narzissten-sind.html",
@@ -54,14 +62,6 @@
       "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/boulevard_nt/mobile244966748/6087930747-ci23x11-w20/The-Whale.jpg",
       "image_title": "Für seine Rolle in «The Whale» wurde Brendan Fraser als bester Hauptdarsteller mit einem Oscar ausgezeichnet.",
       "author": "Cosima Lutz"
-    },
-    {
-      "title": "Was man tun kann, um sein gefühltes Alter zu senken",
-      "teaser": "Meine futuristische Waage weiß, wie alt ich mich fühle: deutlich jünger, als mein Pass behauptet. Tatsächlich belegen Studien, dass das subjektive Alter enormen Einfluss auf das objektive hat. Aber es geht um mehr als gute Laune gegen Körperfett. Die Forschung nennt es Zufriedenheitsparadox.",
-      "url": "https://www.welt.de/kultur/article245004944/Psychologie-Was-man-tun-kann-um-sein-gefuehltes-Alter-zu-senken.html",
-      "image_url": "https://img.welt.de/img/kultur/mobile245005536/0547934767-ci23x11-w20/Portrait-of-smiling-young-woman-with-hand-in-her-hair-on-jetty.jpg",
-      "image_title": "Was kann man tun, um sein gefühltes Alter zu senken?",
-      "author": "Eva Biringer"
     },
     {
       "title": "Ihre Landkarten verhindern Konflikte",
@@ -263,14 +263,6 @@
       "author": "Marie-Luise Goldmann"
     },
     {
-      "title": "Am Horizont zeichnet sich nichts Geringeres ab als das Ende des Kapitalismus",
-      "teaser": "Die Bedrohung durch eine erweiterte KI ist sehr ernst. Sie wird den Kapitalismus so sehr verändern, dass uns am Ende nur die Wahl zwischen zwei Systemen bleibt: einer neuen Form des Kommunismus oder ein unkontrollierbares Chaos.",
-      "url": "https://www.welt.de/kultur/plus244773852/KI-Am-Horizont-zeichnet-sich-etwas-ab-es-ist-das-Ende-des-Kapitalismus.html",
-      "image_url": "https://img.welt.de/img/kultur/mobile244778894/6777939347-ci23x11-w20/Kombo-Zizek-Posthumanismus.jpg",
-      "image_title": "Slavoj Zizek künstliche Intelligenz",
-      "author": "Slavoj Žižek"
-    },
-    {
       "title": "Harry Belafonte im Alter von 96 gestorben",
       "url": "https://www.welt.de/kultur/video245003130/Saenger-Entertainer-Aktivist-Harry-Belafonte-im-Alter-von-96-gestorben.html",
       "image_url": "https://img.welt.de/img/kultur/mobile244998920/4277931477-ci16x9-w20/Harry-Belafonte-3.jpg",
@@ -305,6 +297,14 @@
       "author": "29 Sek"
     },
     {
+      "title": "Was man tun kann, um sein gefühltes Alter zu senken",
+      "teaser": "Meine futuristische Waage weiß, wie alt ich mich fühle: deutlich jünger, als mein Pass behauptet. Tatsächlich belegen Studien, dass das subjektive Alter enormen Einfluss auf das objektive hat. Aber es geht um mehr als gute Laune gegen Körperfett. Die Forschung nennt es Zufriedenheitsparadox.",
+      "url": "https://www.welt.de/kultur/article245004944/Psychologie-Was-man-tun-kann-um-sein-gefuehltes-Alter-zu-senken.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile245005536/0547934767-ci23x11-w20/Portrait-of-smiling-young-woman-with-hand-in-her-hair-on-jetty.jpg",
+      "image_title": "Was kann man tun, um sein gefühltes Alter zu senken?",
+      "author": "Eva Biringer"
+    },
+    {
       "title": "Wir Weicheier",
       "teaser": "Für die Generationen von Y bis Z ist der Boomer das Feindbild schlechthin. Eine humorlose Witzfigur, die noch bei Facebook umherirrt. Dabei werden auch die Jüngeren noch erfahren, wie es ist, die eigene Welt zu verlieren – und was sie von uns Alten lernen können.",
       "url": "https://www.welt.de/kultur/plus244964074/Boomer-Sind-wir-die-Generation-der-Weicheier.html",
@@ -336,9 +336,9 @@
       "author": "Don Alphonso"
     },
     {
-      "title": "Auch ich werde von männlichen Oberkörpern sexuell stimuliert",
+      "title": "Das Schlimmste, was passieren kann, ist, dass ein Mann in seine Hose ejakuliert",
       "teaser": "Endlich dürfen sich Frauen im Schwimmbad „oben ohne“ zeigen. Doch nicht alle sind von der Idee begeistert. Wie die Kritik Männer infantilisiert, wo sich der Feminismus irrt, und warum sexuelle Fantasien nicht die Gesetzeslage bestimmen sollten.",
-      "url": "https://www.welt.de/kultur/plus245109254/Oben-ohne-im-Freibad-Auch-ich-werde-von-maennlichen-Oberkoerpern-sexuell-stimuliert.html",
+      "url": "https://www.welt.de/kultur/plus245109254/Oben-ohne-im-Freibad-Das-Schlimmste-was-passieren-kann-ist-dass-ein-Mann-in-seine-Hose-ejakuliert.html",
       "image_url": "https://img.welt.de/img/kultur/mobile245130710/4717939057-ci23x11-w20/GettyImages-1056334230.jpg",
       "image_title": "Welchem Zweck dient die Brust?",
       "author": "Mirna Funk"
@@ -413,14 +413,6 @@
       "image_url": "https://img.welt.de/img/kultur/literarischewelt/mobile245118672/8187932647-ci23x11-w20/Albert-Camus-2.jpg",
       "image_title": "Albert Camus in jüngeren Jahren",
       "author": "Tilman Krause"
-    },
-    {
-      "title": "Die Enthüllung",
-      "teaser": "Hat Benjamin von Stuckrad-Barre mit „Noch wach?“ einen Anti-Springer-Roman geschrieben? Über die Stärken eines Romans, die blinden Flecken einer aufgeregten Debatte und die Frage, was es bedeutet, „kein Arschloch“ zu sein.",
-      "url": "https://www.welt.de/kultur/literarischewelt/",
-      "image_url": "https://img.welt.de/img/kultur/mobile245054374/3527936507-ci23x11-w20/Benjamin-von-Stuckrad-Barre-liest-in-Berlin-aus-seinem-Buch-Noch-Wach-2023.jpg",
-      "image_title": "+honorarpflichtig+++ 19.04.2023 - Berlin - Benjamin von Stuckrad Barre zur Buchvorstellung und Lesung seines neuen Buches - Noch Wach im Berliner Ensemble.",
-      "author": "Mara Delius"
     },
     {
       "title": "Tortenguss auf die Realität – Die WELT des Takashi Murakami",
