@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-05T06:15:24",
+  "timestamp": "2023-05-05T07:10:19",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Metaverse: Seine schöne neue Welt ist ein Ödland",
+      "teaser": "Mark Zuckerbergs virtuelle Parallelwelt Metaverse ist gescheitert, sie hat kaum User und keine Aura. Die wertet eine andere Technologie gerade um: künstliche Intelligenz.",
+      "url": "https://www.zeit.de/2023/19/kuenstliche-intelligenz-metaverse-mark-zuckerberg-virtual-reality-nfts",
+      "image_url": "https://img.zeit.de/2023/19/kuenstliche-intelligenz-metaverse-mark-zuckerberg-virtual-reality-nfts-teaser/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Katja Hoyer: \"Das Experiment DDR wird hier in Großbritannien sehr ernst genommen\"",
       "teaser": "Die Historikerin Katja Hoyer erobert das britische Publikum mit einem Buch über die DDR. Warum diese im Vereinigten Königreich anders gesehen wird, erklärt sie hier.",
       "url": "https://www.zeit.de/2023/19/katja-hoyer-grossbritannien-ddr-geschichte",
-      "image_url": "https://img.zeit.de/2023/19/das-interesse-an-deutscher-geschichte-ist-gross-bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/19/das-interesse-an-deutscher-geschichte-ist-gross-bild-1/wide__822x462",
+      "image_title": "Katja Hoyer: \"Das Experiment DDR wird hier in Großbritannien sehr ernst genommen\""
     },
     {
       "title": "Éric Vuillard: Ausbeuter ohne Scham",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/2023/19/eric-vuillard-ein-ehrenhafter-abgang-indo-china-krieg-frankreich",
       "image_url": "https://img.zeit.de/2023/19/ausbeuter-ohne-scham-bild-1/wide__822x462",
       "image_title": "Éric Vuillard: Ausbeuter ohne Scham"
-    },
-    {
-      "title": "Ed Sheeran: Popstar Ed Sheeran gewinnt Plagiatsprozess",
-      "teaser": "Ed Sheeran war beschuldigt worden, Teile eines Marvin-Gaye-Songs verwendet zu haben. Ein New Yorker Gericht urteilte, er habe \"Thinking Out Loud\" eigenständig erschaffen.",
-      "url": "https://www.zeit.de/kultur/musik/2023-05/ed-sheeran-new-york-plagiat",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-05/ed-sheeran-popstar-plagiatsprozess/wide__822x462",
-      "image_title": "Ed Sheeran: Popstar Ed Sheeran gewinnt Plagiatsprozess"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Männerrechtsbewegung: Willkommen in der Mannosphäre",
@@ -183,18 +183,18 @@
       "image_title": "Lukas Bärfuss: Ein Frauenleben"
     },
     {
+      "title": "Ed Sheeran: Popstar Ed Sheeran gewinnt Plagiatsprozess",
+      "teaser": "Ed Sheeran war beschuldigt worden, Teile eines Marvin-Gaye-Songs verwendet zu haben. Ein New Yorker Gericht urteilte, er habe \"Thinking Out Loud\" eigenständig erschaffen.",
+      "url": "https://www.zeit.de/kultur/musik/2023-05/ed-sheeran-new-york-plagiat",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-05/ed-sheeran-popstar-plagiatsprozess/wide__822x462",
+      "image_title": "Ed Sheeran: Popstar Ed Sheeran gewinnt Plagiatsprozess"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Music\" von Angela Schanelec: Die Schönheit eines Bilderrätsels",
       "teaser": "Angela Schanelecs Filme sind auf unangestrengte Weise radikal. Ihr Berlinale-Preisträger \"Music\", der nun in die Kinos kommt, ist eine kluge Variation des Ödipus-Mythos.",
       "url": "https://www.zeit.de/2023/19/music-angela-schanelec-oedipus-mythos-film-berlinale",
       "image_url": "https://img.zeit.de/2023/19/music-angela-schanelec-oedipus-mythos-film-berlinale-teaser/wide__822x462",
       "image_title": "\"Music\" von Angela Schanelec: Die Schönheit eines Bilderrätsels"
-    },
-    {
-      "title": "Selda Bağcan: Eine Frau mit Gitarre",
-      "teaser": "Seit 50 Jahren prägt Selda Bağcan das Leben in Türkei und türkischer Diaspora. Elf Präsidenten hat die Protestsängerin inzwischen erlebt. Treffen mit einer Unbeugsamen",
-      "url": "https://www.zeit.de/kultur/musik/2023-05/selda-bagcan-musikerin-tuerkische-volksmusik-oezguen-muezik-protestsaengerin",
-      "image_url": "https://img.zeit.de/kultur/2023-05/selda-bagcan-musikerin-tuerkei/wide__822x462",
-      "image_title": "Selda Bağcan: Eine Frau mit Gitarre"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Shonda Rhimes: \"Ich wollte mich selbst in Bridgerton sehen\"",
@@ -211,6 +211,13 @@
       "image_title": "Boris Palmer: In seinem Element"
     },
     {
+      "title": "Selda Bağcan: Eine Frau mit Gitarre",
+      "teaser": "Seit 50 Jahren prägt Selda Bağcan das Leben in Türkei und türkischer Diaspora. Elf Präsidenten hat die Protestsängerin inzwischen erlebt. Treffen mit einer Unbeugsamen",
+      "url": "https://www.zeit.de/kultur/musik/2023-05/selda-bagcan-musikerin-tuerkische-volksmusik-oezguen-muezik-protestsaengerin",
+      "image_url": "https://img.zeit.de/kultur/2023-05/selda-bagcan-musikerin-tuerkei/wide__822x462",
+      "image_title": "Selda Bağcan: Eine Frau mit Gitarre"
+    },
+    {
       "title": "\"Bittere Brunnen\" von Regina Scheer: Das Leben einer Revolutionärin",
       "teaser": "Regina Scheer hat eine faszinierende Biografie über die Kommunistin Hertha Gordon-Walcher geschrieben. Man liest \"Bittere Brunnen\" wie einen historischen Pageturner.",
       "url": "https://www.zeit.de/2023/19/bittere-brunnen-regina-scheer-hertha-gordon-walcher-revolution-kommunismus",
@@ -221,14 +228,14 @@
       "title": "Filmförderung: \"Die Angst hat zu lange für kollektives Schweigen gesorgt\"",
       "teaser": "In ihrem Appell \"Angst essen Kino auf\" fordern junge Filmschaffende mehr Geld und bessere Arbeitsbedingungen. Hier erzählen die Initiatorinnen, was sich ändern muss.",
       "url": "https://www.zeit.de/kultur/film/2023-05/angst-essen-kino-auf-appell-filmfoerderung",
-      "image_url": "https://img.zeit.de/kultur/film/2023-05/angst-essen-kino-auf-appell/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2023-05/angst-essen-kino-auf-appell/cinema__980x420",
       "image_title": "Filmförderung: \"Die Angst hat zu lange für kollektives Schweigen gesorgt\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hans Abich: Ärger auf dem Fernseh-Olymp",
       "teaser": "Ein Gutachten bestätigt die ZEIT-Enthüllungen zum ehemaligen ARD-Programmdirektor Hans Abich.",
       "url": "https://www.zeit.de/2023/19/hans-abich-ard-programmdirektor-nationalsozialismus",
-      "image_url": "https://img.zeit.de/kultur/2023-05/hans-abich-ard-programmdirektor-nationalsozialismus-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-05/hans-abich-ard-programmdirektor-nationalsozialismus-bild/wide__822x462",
       "image_title": "Hans Abich: Ärger auf dem Fernseh-Olymp"
     },
     {
@@ -242,14 +249,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Verführung\" von Lukas Bärfuss: Was aus dem Gigolo wurde, der die Millionenerbin betrog",
       "teaser": "Der alte, weiße, graue Mann: Ulrich Matthes spielt einen Hochstapler in der Uraufführung des Stücks \"Verführung\" von Lukas Bärfuss am Deutschen Theater in Berlin.",
       "url": "https://www.zeit.de/2023/19/verfuehrung-lukas-baerfuss-deutsches-theater-berlin-lange-nacht-der-autorinnen",
-      "image_url": "https://img.zeit.de/2023/19/was-aus-dem-gigolo-wurde-der-die-millionenerbin-betrog-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/19/was-aus-dem-gigolo-wurde-der-die-millionenerbin-betrog-bild-1/cinema__980x420",
       "image_title": "\"Verführung\" von Lukas Bärfuss: Was aus dem Gigolo wurde, der die Millionenerbin betrog"
     },
     {
       "title": "Kunstpodcast \"Augen zu\": Basquiat – der ungekrönte König?",
       "teaser": "Wie aus dem Nichts stieg Jean-Michel Basquiat im New York der Achtzigerjahre in den Olymp auf. Wer war dieser erste Schwarze amerikanische Superstar der Kunst?",
       "url": "https://www.zeit.de/kultur/2023-05/malerei-jean-michel-basquiat-kunstpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-05/kunstpodcast-jean-michel-basquiat-bild-3/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-05/kunstpodcast-jean-michel-basquiat-bild-3/wide__822x462",
       "image_title": "Kunstpodcast \"Augen zu\": Basquiat – der ungekrönte König?"
     },
     {
@@ -263,14 +270,14 @@
       "title": "Leihmutterschaft: Die Freiheit, über den eigenen Körper zu bestimmen",
       "teaser": "In der Debatte über Leihmutterschaft trifft ein marktliberaler Impuls den patriarchalen Anspruch auf gebärende Körper. Eine feministische Kritik muss ganz anders sein.",
       "url": "https://www.zeit.de/kultur/2023-05/leihmutterschaft-feminismus-selbstbestimmung-10vor8",
-      "image_url": "https://img.zeit.de/kultur/2023-05/leihmutterschaft-feminismus-selbstbestimmung/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-05/leihmutterschaft-feminismus-selbstbestimmung/cinema__980x420",
       "image_title": "Leihmutterschaft: Die Freiheit, über den eigenen Körper zu bestimmen"
     },
     {
       "title": "Ex-\"Bild\"-Chefredakteur: Julian Reichelt erwirkt einstweilige Verfügung gegen NDR-Sendung",
       "teaser": "Die NDR-Sendung \"Reschke Fernsehen\" hatte über Vorwürfe des Machtmissbrauchs gegen Ex-\"Bild\"-Chef Reichelt berichtet. Ein Gericht untersagt nun mehrere Behauptungen.",
       "url": "https://www.zeit.de/kultur/film/2023-05/julian-reichelt-ndr-einstweilige-verfuegung-ehemaliger-bild-chef",
-      "image_url": "https://img.zeit.de/kultur/2023-05/julian-reichelt-ndr-einstweilige-verfuegung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-05/julian-reichelt-ndr-einstweilige-verfuegung-bild/wide__822x462",
       "image_title": "Ex-\"Bild\"-Chefredakteur: Julian Reichelt erwirkt einstweilige Verfügung gegen NDR-Sendung"
     },
     {
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/kultur/musik/2023-05/gordon-lightfoot-saenger-tod",
       "image_url": "https://img.zeit.de/kultur/musik/2023-05/gordon-lightfoot/wide__822x462",
       "image_title": "\"If You Could Read My Mind\": Kanadischer Folksänger Gordon Lightfoot ist tot"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Neue Kinder- und Jugendbücher: Funkensprühend",
-      "teaser": "Erschütternd, berührend oder urkomisch: Diese sechs neuen Kinder- und Jugendbücher – etwa von Saša Stanišić und Alex Wheatle – werden junge Lesende in den Bann ziehen.",
-      "url": "https://www.zeit.de/2023/18/neue-kinder-und-jugendbuecher-2023-empfehlungen-literatur",
-      "image_url": "https://img.zeit.de/2023/18/da-springt-der-funke-ueber-bild-1/wide__822x462",
-      "image_title": "Neue Kinder- und Jugendbücher: Funkensprühend"
     },
     {
       "title": "\"White House Plumbers\": All die komischen Männer des Präsidenten",
@@ -337,18 +337,18 @@
       "image_title": "Belarus: Nichts weiter als ein Kollateralschaden"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Neue Kinder- und Jugendbücher: Funkensprühend",
+      "teaser": "Erschütternd, berührend oder urkomisch: Diese sechs neuen Kinder- und Jugendbücher – etwa von Saša Stanišić und Alex Wheatle – werden junge Lesende in den Bann ziehen.",
+      "url": "https://www.zeit.de/2023/18/neue-kinder-und-jugendbuecher-2023-empfehlungen-literatur",
+      "image_url": "https://img.zeit.de/2023/18/da-springt-der-funke-ueber-bild-1/cinema__980x420",
+      "image_title": "Neue Kinder- und Jugendbücher: Funkensprühend"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Epistemische Ungerechtigkeit\" von Miranda Fricker: Den Unterdrückten glauben, aber mit gutem Grund",
       "teaser": "Glaubt den Frauen! Für solche Slogans scheint die Philosophin Miranda Fricker im Buch \"Epistemische Ungerechtigkeit\" Gründe zu liefern. Doch man sollte genauer lesen.",
       "url": "https://www.zeit.de/2023/18/epistemische-ungerechtigkeit-miranda-fricker-moral",
-      "image_url": "https://img.zeit.de/2023/18/epistemische-ungerechtigkeit-miranda-fricker-moral-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/18/epistemische-ungerechtigkeit-miranda-fricker-moral-teaserbild/wide__822x462",
       "image_title": "\"Epistemische Ungerechtigkeit\" von Miranda Fricker: Den Unterdrückten glauben, aber mit gutem Grund"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gulraiz Sharif: \"Ischwör, du bist voll mutig, Bruder\"",
-      "teaser": "Gulraiz Sharif ist Lehrer. Dank seines Debütromans wird er als literarische Sensation gefeiert. Eine Begegnung in Oslo",
-      "url": "https://www.zeit.de/2023/18/ey-hoer-mal-gulraiz-sharif-pakistan-migration-oslo",
-      "image_url": "https://img.zeit.de/2023/18/ischwoer-du-bist-voll-mutig-bruder-bild-1/wide__822x462",
-      "image_title": "Gulraiz Sharif: \"Ischwör, du bist voll mutig, Bruder\""
     },
     {
       "title": "Anzeige: Sprache und Kultur studieren",
