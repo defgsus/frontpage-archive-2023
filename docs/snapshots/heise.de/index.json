@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-06T06:13:17",
+  "timestamp": "2023-05-06T07:10:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -141,19 +141,24 @@
       "url": "https://www.heise.de/tests/Rechner-fuer-Musikproduktion-Bauvorschlag-fuer-eine-optimale-Audio-Workstation-8974294.html"
     },
     {
+      "title": "Zeitreise: Die Bilder der Woche (KW 18)",
+      "teaser": "Die Bilder der vergangenen Woche warfen einen (unbeabsichtigten) Blick zurück in das Jahr 2014.",
+      "url": "https://www.heise.de/news/Zeitreise-Die-Bilder-der-Woche-KW-18-8988460.html"
+    },
+    {
       "title": "c't Fotografie: Freunde und Familie porträtieren – entspannt, natürlich, schön",
       "teaser": "Attraktive Bilder sind nicht nur eine Frage des geübten Models. Mit den richtigen Techniken setzen Sie auch Nicht-Models gekonnt in Szene.",
       "url": "https://www.heise.de/news/c-t-Fotografie-Freunde-und-Familie-portraetieren-entspannt-natuerlich-schoen-8986026.html"
     },
     {
-      "title": "Gehackt trotz 2-Faktor-Login: Wie man sich dagegen schützt | c’t uplink 48.2c",
-      "teaser": "Im Podcast sprechen wir über 2FA, die Zweifaktor-Authentifizierung: Wie richtet man sie ein, wie funktionieren Phishing-Angriffe darauf, was bringt FIDO2.",
-      "url": "https://www.heise.de/news/Gehackt-trotz-2-Faktor-Login-Wie-man-sich-dagegen-schuetzt-c-t-uplink-48-2c-8970929.html"
-    },
-    {
       "title": "Supply-Chain-Angriffe: Wie sie funktionieren und wie man sich schützt",
       "teaser": "Was Sie über Cyberangriffe auf Lieferketten wissen sollten, wie Sie sich am besten verteidigen und was Sie aus Praxisfällen lernen können.",
       "url": "https://it-kenner.heise.de/secure-it-fuer-unternehmen/bedrohungen/supply-chain-angriffe-wie-sie-funktionieren-und-wie-man-sich-schuetzt/?utm_source=heise&utm_medium=nat_teas&utm_campaign=secure_it_fuer_unternehmen"
+    },
+    {
+      "title": "Gehackt trotz 2-Faktor-Login: Wie man sich dagegen schützt | c’t uplink 48.2c",
+      "teaser": "Im Podcast sprechen wir über 2FA, die Zweifaktor-Authentifizierung: Wie richtet man sie ein, wie funktionieren Phishing-Angriffe darauf, was bringt FIDO2.",
+      "url": "https://www.heise.de/news/Gehackt-trotz-2-Faktor-Login-Wie-man-sich-dagegen-schuetzt-c-t-uplink-48-2c-8970929.html"
     },
     {
       "title": "Déjà-vu: Hacker offenbaren Sicherheitslücken in Depressions-App",
@@ -182,11 +187,6 @@
       "url": "https://www.heise.de/news/Groessere-Erweiterung-Diese-20-neuen-Spiele-bietet-Apple-im-Abodienst-Arcade-an-8988984.html"
     },
     {
-      "title": "c't 3003: Die gefährlichste Malware aller Zeiten",
-      "teaser": "Malware gibt es schon länger als das Internet. c't 3003 hat sich angeschaut, wie sich die Viren, Würmer und Trojaner in den letzten Jahren verändert haben.",
-      "url": "https://www.heise.de/news/c-t-3003-Die-gefaehrlichste-Malware-aller-Zeiten-8661099.html"
-    },
-    {
       "title": "Smartphone runderneuert: Wann sich Refurbished-Geräte wirklich lohnen",
       "teaser": "Mehr und mehr Händler locken mit Gebrauchtgeräten, die wie neu, aber billiger sein sollen. Wie sinnvoll und nachhaltig ist der Kauf von Refurbished-Smartphones?",
       "url": "https://www.heise.de/ratgeber/Smartphone-runderneuert-Lohnt-der-Refurbished-Kauf-8972130.html"
@@ -205,6 +205,11 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "c't 3003: Die gefährlichste Malware aller Zeiten",
+      "teaser": "Malware gibt es schon länger als das Internet. c't 3003 hat sich angeschaut, wie sich die Viren, Würmer und Trojaner in den letzten Jahren verändert haben.",
+      "url": "https://www.heise.de/news/c-t-3003-Die-gefaehrlichste-Malware-aller-Zeiten-8661099.html"
     },
     {
       "title": "Wie man Messing-Typenschilder fräst",
@@ -270,14 +275,14 @@
       "url": "https://www.heise.de/news/Developer-Snapshots-Programmierer-News-in-ein-zwei-Saetzen-8975153.html"
     },
     {
-      "title": "Welche Ideologie hinter Geoffrey Hintons Warnungen steckt",
-      "teaser": "KI-Pionier Geoffrey Hinton verwendet bei seinen Warnungen vor einer übermächtigen KI Argumente einer umstrittenen Bewegung.",
-      "url": "https://www.heise.de/meinung/Welche-Ideologie-hinter-Geoffrey-Hintons-Warnungen-steckt-8988646.html"
-    },
-    {
       "title": "AMD oder Intel? Die richtige CPU für Ihren dedizierten Server",
       "teaser": "Dedizierte Server lassen die Schranken des Shared Webhostings hinter sich. Als Root- oder Managed Server bieten sie hohe Leistung und volle Kontrolle – und können mit AMD- oder Intel-Prozessoren gemietet werden. Lesen Sie, welche CPU am besten für welche Anwendung passt.",
       "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/infrastruktur/beitrag/amd-oder-intel-die-richtige-cpu-fuer-ihren-dedizierten-server-4499/?source=hbsad"
+    },
+    {
+      "title": "Welche Ideologie hinter Geoffrey Hintons Warnungen steckt",
+      "teaser": "KI-Pionier Geoffrey Hinton verwendet bei seinen Warnungen vor einer übermächtigen KI Argumente einer umstrittenen Bewegung.",
+      "url": "https://www.heise.de/meinung/Welche-Ideologie-hinter-Geoffrey-Hintons-Warnungen-steckt-8988646.html"
     },
     {
       "title": "Für eine bessere Softwarequalität: Jetzt für den German Testing Day registrieren",
@@ -326,11 +331,6 @@
       "title": "Cross-Plattform-Entwicklung: Capacitor 5 ist mit Android 13 kompatibel",
       "teaser": "Ab August 2023 benötigen neue Apps im Google Play Store Android 13 als Zielplattform und Capacitor passt sich entsprechend an. Auch für iOS gibt es Änderungen.",
       "url": "https://www.heise.de/news/Cross-Plattform-Entwicklung-Capacitor-5-ist-mit-Android-13-kompatibel-8988094.html"
-    },
-    {
-      "title": "Windräder der Zukunft könnten viel höher sein als bisher",
-      "teaser": "Windenergie könnte künftig \"eine Etage höher\" als bisher gewonnen werden. Auf dem Weg dorthin wurde nun der größte Windmessmast der Welt eröffnet.",
-      "url": "https://www.heise.de/news/300-Meter-hoher-Windmessmast-soll-Erkenntnisse-fuer-bessere-Wind-Ausbeute-bringen-8988224.html"
     },
     {
       "title": "Ende einer Ära: Intel gibt \"Core i\"-Namen auf",
@@ -711,19 +711,19 @@
       "url": "https://www.techstage.de/angebote/die-besten-photovoltaik-deals-powerstation-solarpanel-balkonkraftwerk-und-co/klmsnfr?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Zeit für Gasheizungen in den USA ist gezählt",
-      "teaser": "New York ist der erste Bundesstaat, der verbieten wird, Neubauten ans Gasnetz anzuschließen. Wie in Zukunft geheizt und gekocht werden kann, zeigen Berechnungen. Warum ist Dänemark Vorbild?",
-      "url": "https://www.heise.de/tp/features/Zeit-fuer-Gasheizungen-in-den-USA-ist-gezaehlt-8987537.html"
+      "title": "Absatzbewegung aus den US-Teasuries",
+      "teaser": "Staatsanleihen: Vertrauen in die USA sinkt. China diversifiziert seine Währungsreserven.",
+      "url": "https://www.heise.de/tp/features/Absatzbewegung-aus-den-US-Teasuries-8988694.html"
     },
     {
-      "title": "Erdogan und die Türkei-Wahl: Der kranke Mann vom Bosporus",
-      "teaser": "Trotz Dementis: Gesundheit des Präsidenten der Türkei offensichtlich angeschlagen. Wiederwahl in Gefahr. Das sind die geopolitischen Folgen.",
-      "url": "https://www.heise.de/tp/features/Erdogan-und-die-Tuerkei-Wahl-Der-kranke-Mann-vom-Bosporus-8985388.html"
+      "title": "Gershkovich und Assange: Wann Journalismus ein Verbrechen ist – und wann nicht",
+      "teaser": "Dem Reporter vom Wall Street Journal droht ein Spionageprozess in Russland. Biden und die EU sind empört, verlangen die sofortige Freilassung. Und was ist mit Assange?",
+      "url": "https://www.heise.de/tp/features/Gershkovich-und-Assange-Wann-Journalismus-ein-Verbrechen-ist-und-wann-nicht-8987555.html"
     },
     {
-      "title": "Die schmutzige Wahrheit hinter Flüssiggas-Importen aus den USA",
-      "teaser": "LNG-Terminals und Fracking: Menschen in den USA leiden unter dem Exportboom. Denn das Gas-Business vergiftet wichtige Lebensräume und das Klima. Was Betroffene Europa vorwerfen.",
-      "url": "https://www.heise.de/tp/features/Die-schmutzige-Wahrheit-hinter-Fluessiggas-Importen-aus-den-USA-8986341.html"
+      "title": "Medien: Weitere russische Schiffe bei Nord-Stream-Leitungen",
+      "teaser": "Auch russische Marine vor Ort. Spekulation über Operationen unter Wasser. Immer mehr Theorien über mögliche Verantwortliche für Anschlag.",
+      "url": "https://www.heise.de/tp/features/Medien-Weitere-russische-Schiffe-bei-Nord-Stream-Leitungen-8985875.html"
     },
     {
       "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
