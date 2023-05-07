@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-07T14:09:41",
+  "timestamp": "2023-05-07T15:12:04",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -56,7 +56,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Quiche dich mal wieder ein",
+      "title": "Z+ Kein Penthouse in Kiew",
+      "teaser": "Wer eine Wohnung in der ukrainischen Hauptstadt sucht, achtet auf Kriterien wie einen Keller. Wie sucht man in Zeiten des Krieges ein geeignetes Apartment?",
+      "url": "https://www.zeit.de/zeit-magazin/2023/19/kiew-wohnungen-finden-penthouse-ukraine-luftangriffe",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/19/3-zimmer-kueche-keller-bild-1/wide__822x462",
+      "image_title": "Wohnungen in Kiew: Kein Penthouse in Kiew"
+    },
+    {
+      "title": "Z+ Spargelquiche: Quiche dich mal wieder ein",
       "teaser": "Wie du dich bettest, so schmeckst du? Im Falle dieses Rezeptes macht es sich grüner Spargel auf der Quiche gemütlich – und das Ergebnis kann sich wirklich essen lassen.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-05/spargel-quiche-koch-mal-wieder-sonntagsessen",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-04/sonntagsessen-quiche-gruener-spargel-teser/wide__822x462",
@@ -77,23 +84,16 @@
       "image_title": "Einrichtungen für Menschen mit Behinderung: Unter Aufsicht"
     },
     {
-      "title": "Kleidungsgröße ändern: Wenn man den Gürtel enger schnallen muss",
-      "teaser": "\"Rose, immer wieder stelle ich fest, dass mir alte Klamotten nicht mehr gut passen! Was kann ich tun, damit sie wieder ordentlich sitzen?\" – fragt Marta.",
-      "url": "https://www.zeit.de/entdecken/2023-05/kleidungsgroesse-aendern-second-hand-lifehack",
-      "image_url": "https://img.zeit.de/entdecken/2023-05/wochenende-19-frag-rose-bild-teaser/wide__822x462",
-      "image_title": "Kleidungsgröße ändern: Wenn man den Gürtel enger schnallen muss"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Italienische Küche: Der Maestro der Pasta",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/04/italienische-kueche-mimmo-corcione-youtube-kochen-venetien",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-04/italienische-kueche-mimmo-corcione-youtube-kochen-venetien-bild/tile__315x394",
-      "image_title": "Italienische Küche: Der Maestro der Pasta"
+      "title": "Kleidungsgröße ändern: Wenn man den Gürtel enger schnallen muss",
+      "url": "https://www.zeit.de/entdecken/2023-05/kleidungsgroesse-aendern-second-hand-lifehack",
+      "image_url": "https://img.zeit.de/entdecken/2023-05/wochenende-19-frag-rose-bild-teaser/tile__315x394",
+      "image_title": "Kleidungsgröße ändern: Wenn man den Gürtel enger schnallen muss"
     },
     {
       "title": "Der Apfel braucht inzwischen selbst einen Doktor",
@@ -204,6 +204,12 @@
       "image_title": "Börsenvideos auf YouTube: Der Aktiencrash als Schlafmittel"
     },
     {
+      "title": "Italienische Küche: Der Maestro der Pasta",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/04/italienische-kueche-mimmo-corcione-youtube-kochen-venetien",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-04/italienische-kueche-mimmo-corcione-youtube-kochen-venetien-bild/tile__315x394",
+      "image_title": "Italienische Küche: Der Maestro der Pasta"
+    },
+    {
       "title": "Z+ Erdbeerkuchen mit weißer Schokolade: Das Beste, was frischen Erdbeeren passieren kann",
       "url": "https://www.zeit.de/zeit-magazin/2023/19/erdbeerkuchen-weisse-schokolade-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/2023/19/suess-wie-der-sommer-bild-1/tile__315x394",
@@ -258,12 +264,6 @@
       "image_title": "Arancini: Frittiert schmeckt alles besser"
     },
     {
-      "title": "Z+ Komplimente: Das Kompliment ist kompliziert geworden",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-04/komplimente-ehrlichkeit-kommunikation",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-04/komplimente-ehrlichkeit-kommunikation-bild/tile__315x394",
-      "image_title": "Komplimente: Das Kompliment ist kompliziert geworden"
-    },
-    {
       "title": "Z+ Krönung von Charles III. : Die Macht des abwesenden Gastes",
       "url": "https://www.zeit.de/zeit-magazin/2023-05/koenig-charles-iii-kroenung-herzogin-meghan-markle"
     },
@@ -300,10 +300,17 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-05/spargel-konsum-kosten-gen-z"
     },
     {
+      "title": "Z+ Komplimente: Das Kompliment ist kompliziert geworden",
+      "teaser": "Gute Komplimente sind eine Kunst, schlechte können viel zerstören. Kann man alles lernen. Das Problem ist: Man muss die netten Worte auch annehmen können.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-04/komplimente-ehrlichkeit-kommunikation",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-04/komplimente-ehrlichkeit-kommunikation-bild/square__460x460",
+      "image_title": "Komplimente: Das Kompliment ist kompliziert geworden"
+    },
+    {
       "title": "Z+ Romanze: \"Wenn wir uns sahen, waren wir einander die Welt\"",
       "teaser": "Eine Leipziger Studentin verliebt sich in einen Mann aus Nantes. Jedes Treffen wird zum Rausch. Doch die Melancholie, dass diese Liebe nicht dauern wird, schwingt mit.",
       "url": "https://www.zeit.de/zeit-magazin/2023/18/romanze-ausland-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-04/romanze-ausland-liebeskolumne-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-04/romanze-ausland-liebeskolumne-bild/wide__822x462",
       "image_title": "Romanze: \"Wenn wir uns sahen, waren wir einander die Welt\""
     },
     {
@@ -329,9 +336,8 @@
     },
     {
       "title": "Z+ Abby Gennet: Kennen Sie dieses Poster?",
-      "teaser": "In den 2000ern umgab dieses Poster ein Hauch von Verruchtheit, gewährte es doch Einblick in den wohl intimsten Raum überhaupt. Die Fotos entstanden in einer wilden Nacht.",
       "url": "https://www.zeit.de/zeit-magazin/2023/18/abby-gennet-fotografie-poster",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/18/kennen-sie-dieses-poster-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/18/kennen-sie-dieses-poster-bild-1/tile__315x394",
       "image_title": "Abby Gennet: Kennen Sie dieses Poster?"
     },
     {
@@ -345,12 +351,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/04/sterne-restaurant-tulus-lotrek-max-strohe-michelin-koch",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-04/sterne-restaurant-tulus-lotrek-max-strohe-michelin-koch-teaser/tile__315x394",
       "image_title": "Sternerestaurant: \"Lecker ist ein tolles Wort\""
-    },
-    {
-      "title": "Z+ Feiertage: Das perfekte lange Wochenende mit Kindern",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-04/feiertage-langes-wochenende-familie-tipps",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-04/feiertage-langes-wochenende-familie/tile__315x394",
-      "image_title": "Feiertage: Das perfekte lange Wochenende mit Kindern"
     },
     {
       "title": "Z+ Lange Ehe: Wie lange halte ich meinen Mann noch aus?",
