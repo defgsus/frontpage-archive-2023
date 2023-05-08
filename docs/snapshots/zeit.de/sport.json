@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-08T15:12:02",
+  "timestamp": "2023-05-08T16:15:57",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "LeBron James und Steph Curry: Die Größten der Gegenwart",
+      "teaser": "Ein Jahrzehnt lang teilten sie NBA-Titel unter sich auf, nun messen sich LeBron James und Steph Curry noch mal. Es sind wohl die letzten Züge einer großen Sportrivalität.",
+      "url": "https://www.zeit.de/sport/2023-05/lebron-james-steph-curry-nba-playoffs",
+      "image_url": "https://img.zeit.de/sport/2023-05/lebron-james-steph-curry/cinema__980x420"
+    },
+    {
       "title": "Eishockey-WM: Was Sie über die Eishockey-WM 2023 wissen müssen",
       "teaser": "Modus, Gastgeber, Favoriten, Chancen der Deutschen: Am Freitag beginnt die diesjährige Eishockey-Weltmeisterschaft der Männer. Alles Wissenswerte im Überblick",
       "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-2023-finnland-lettland-faq",
-      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-2023-finnland-lettland-faq-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-2023-finnland-lettland-faq-bild/wide__822x462",
+      "image_title": "Eishockey-WM: Was Sie über die Eishockey-WM 2023 wissen müssen"
     },
     {
       "title": "Bundesligarückschau: Gefühlstabellenführer ist der BVB",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-05/bundesliga-bayern-muenchen-borussia-dortmund-gefuehle-tabellenfuehrung",
       "image_url": "https://img.zeit.de/sport/2023-05/bundesliga-bayern-muenchen-borussia-dortmund-gefuehle-tabellenfuehrung-bild/wide__822x462",
       "image_title": "Bundesligarückschau: Gefühlstabellenführer ist der BVB"
-    },
-    {
-      "title": "Bundesliga, 31. Spieltag – Sonntag: Dortmund gewinnt gegen Wolfsburg",
-      "teaser": "Das Titelrennen in der Fußballbundesliga bleibt spannend: Der BVB gewinnt souverän gegen Wolfsburg und verkürzt den Abstand zu Bayern München. Die Spielberichte",
-      "url": "https://www.zeit.de/sport/2023-05/bundesliga-31-spieltag-sonntag-dortmund-wolfsburg",
-      "image_url": "https://img.zeit.de/sport/2023-05/bundesliga-31-spieltag-sonntag-dortmund-wolfsburg-bild/wide__822x462",
-      "image_title": "Bundesliga, 31. Spieltag – Sonntag: Dortmund gewinnt gegen Wolfsburg"
     },
     {
       "title": "Paris Saint-Germain: Messi raus",
@@ -91,6 +91,13 @@
       "image_title": "SSC Neapel: \"Hast du gesehen? Du bist Meister von Italien!\""
     },
     {
+      "title": "Bundesliga, 31. Spieltag – Sonntag: Dortmund gewinnt gegen Wolfsburg",
+      "teaser": "Das Titelrennen in der Fußballbundesliga bleibt spannend: Der BVB gewinnt souverän gegen Wolfsburg und verkürzt den Abstand zu Bayern München. Die Spielberichte",
+      "url": "https://www.zeit.de/sport/2023-05/bundesliga-31-spieltag-sonntag-dortmund-wolfsburg",
+      "image_url": "https://img.zeit.de/sport/2023-05/bundesliga-31-spieltag-sonntag-dortmund-wolfsburg-bild/wide__822x462",
+      "image_title": "Bundesliga, 31. Spieltag – Sonntag: Dortmund gewinnt gegen Wolfsburg"
+    },
+    {
       "title": "FC Bayern München: Kein bisschen Lässigkeit",
       "teaser": "Die Bayern wirken weiter angeschlagen und schlagbar, gewinnen aber und bauen ihren Vorsprung in der Tabelle vorerst aus. Und Werder stellt einen Negativrekord auf.",
       "url": "https://www.zeit.de/sport/2023-05/bundesliga-werder-bremen-bayern-muenchen-meisterschaft",
@@ -105,13 +112,6 @@
       "image_title": "Bundesliga 31. Spieltag – Samstag: Bayern legt im Titelrennen vor"
     },
     {
-      "title": "Stadionnamen: Für immer AOL Arena",
-      "teaser": "Ein Stadionsponsor trauert, weil Fans nicht seinen Namen sagen wollen. Unser Kolumnist möchte sich mit Lachsschnittchen im VIP-Bereich Tränen aus den Augen tupfen.",
-      "url": "https://www.zeit.de/sport/2023-05/stadionnamen-imtech-arena-volksparkstadion-hamburger-sv",
-      "image_url": "https://img.zeit.de/sport/2023-05/stadionnamen-imtech-arena-volksparkstadion-hamburger-sv-bild/wide__822x462",
-      "image_title": "Stadionnamen: Für immer AOL Arena"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -119,11 +119,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Bundesliga, 31. Spieltag – Freitag: Schalke schlägt Mainz durch Treffer in der 102. Minute",
-      "teaser": "Durch den Sieg beim FSV Mainz 05 verlässt der FC Schalke 04 vorerst die Abstiegsplätze. Der 1. FC Köln hat sich mit 2:1 im Derby gegen Bayer Leverkusen behauptet.",
-      "url": "https://www.zeit.de/sport/2023-05/bundesliga-31-spieltag-freitag-leverkusen-koeln-mainz-schalke",
-      "image_url": "https://img.zeit.de/sport/2023-05/schalke-mainz-leverkusen-koeln-fussball-bundesliga-foto/wide__822x462",
-      "image_title": "Bundesliga, 31. Spieltag – Freitag: Schalke schlägt Mainz durch Treffer in der 102. Minute"
+      "title": "Stadionnamen: Für immer AOL Arena",
+      "teaser": "Ein Stadionsponsor trauert, weil Fans nicht seinen Namen sagen wollen. Unser Kolumnist möchte sich mit Lachsschnittchen im VIP-Bereich Tränen aus den Augen tupfen.",
+      "url": "https://www.zeit.de/sport/2023-05/stadionnamen-imtech-arena-volksparkstadion-hamburger-sv",
+      "image_url": "https://img.zeit.de/sport/2023-05/stadionnamen-imtech-arena-volksparkstadion-hamburger-sv-bild/wide__822x462",
+      "image_title": "Stadionnamen: Für immer AOL Arena"
     },
     {
       "title": "Fußballpodcast: İlkay Gündoğan und seine unsichtbare Fähigkeit",
@@ -147,6 +147,13 @@
       "image_title": "Psychische Gesundheit: Sport macht glücklicher als gedacht"
     },
     {
+      "title": "Bundesliga, 31. Spieltag – Freitag: Schalke schlägt Mainz durch Treffer in der 102. Minute",
+      "teaser": "Durch den Sieg beim FSV Mainz 05 verlässt der FC Schalke 04 vorerst die Abstiegsplätze. Der 1. FC Köln hat sich mit 2:1 im Derby gegen Bayer Leverkusen behauptet.",
+      "url": "https://www.zeit.de/sport/2023-05/bundesliga-31-spieltag-freitag-leverkusen-koeln-mainz-schalke",
+      "image_url": "https://img.zeit.de/sport/2023-05/schalke-mainz-leverkusen-koeln-fussball-bundesliga-foto/wide__822x462",
+      "image_title": "Bundesliga, 31. Spieltag – Freitag: Schalke schlägt Mainz durch Treffer in der 102. Minute"
+    },
+    {
       "title": "Groundhopping: Hopperinnen am Elfenstein",
       "teaser": "Unsere Autorin betreibt Groundhopping, das Besuchen von Fußballspielen in möglichst vielen Ligen und Ländern. In Island erlebt sie ein stimmungsvolles Reykjavíker Derby.",
       "url": "https://www.zeit.de/kultur/2023-05/groundhopping-fussballstadien-reisen-reykjavik",
@@ -159,13 +166,6 @@
       "url": "https://www.zeit.de/sport/2023-05/bundesliga-vorschau-bvb-fc-bayern",
       "image_url": "https://img.zeit.de/sport/2023-05/videobeweis-bundesliga/wide__822x462",
       "image_title": "Bundesligavorschau: Die Challenge mit der Challenge"
-    },
-    {
-      "title": "Serie A: SSC Neapel holt erstmals seit 30 Jahren Meistertitel",
-      "teaser": "Der SSC Neapel sichert sich fünf Spieltage vor Saisonende den Titel – zum ersten Mal seit mehr als 30 Jahren. Bei den Feierlichkeiten stirbt ein Mann.",
-      "url": "https://www.zeit.de/sport/2023-05/ssc-neapel-serie-a-italien-fussball-meisterschaft",
-      "image_url": "https://img.zeit.de/sport/2023-05/ssc-neapel-serie-a-italien-fussball-meisterschaft-foto/wide__822x462",
-      "image_title": "Serie A: SSC Neapel holt erstmals seit 30 Jahren Meistertitel"
     },
     {
       "title": "Paris Saint-Germain: Messi raus",
