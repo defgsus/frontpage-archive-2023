@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-09T07:10:30",
+  "timestamp": "2023-05-09T08:13:52",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -53,6 +53,40 @@
       "image_title": "Bücher"
     },
     {
+      "title": "Windows Subsystem für Android: Virensuche in Apps, konfigurierbarer RAM-Gebrauch",
+      "teaser": "Microsoft aktualisiert das Windows Subsystem für Android (WSA). Es kann Apps vor der Installation auf Malware prüfen. Der Speicherverbrauch wird konfigurierbar.",
+      "url": "https://www.heise.de/news/Windows-Subsystem-fuer-Android-Virensuche-in-Apps-konfigurierbarer-RAM-Gebrauch-8990786.html"
+    },
+    {
+      "title": "Javas Modulsystem: Hilfe, meine Abhängigkeiten sind keine Java-Module!",
+      "teaser": "Mit Java kann man Anwendung mittlerweile gut modularisieren, muss aber auch Abhängigkeiten beachten. Wenn diese keine Java-Module sind, wird es spannend.",
+      "url": "https://www.heise.de/blog/Javas-Modulsystem-Hilfe-meine-Abhaengigkeiten-sind-keine-Java-Module-7536607.html"
+    },
+    {
+      "title": "iX-Workshop: Lokales Active Directory effizient absichern",
+      "teaser": "Lernen Sie an zwei Tagen, wie Sie Angriffe auf Ihr lokales Unternehmens-AD sicher erkennen und effektiv verhindern. Noch bis 23. Mai mit 10% Frühbucherrabatt.",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-effizient-absichern-8990013.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
+    },
+    {
+      "title": "Twitter-Alternative: ARD eröffnet eigene Mastodon-Instanz mit Tagesschau-Account",
+      "teaser": "Mit ard.social hat die ARD ihre eigene Instanz für Mastodon in Betrieb genommen. Die Tagesschau bekommt einen neuen Account, bereits existierende ziehen um.",
+      "url": "https://www.heise.de/news/Twitter-Alternative-ARD-eroeffnet-eigene-Mastodon-Instanz-mit-Tagesschau-Account-8988570.html",
+      "image_title": "Stuttgart,,Germany,-,09-24-2022:,Mobile,Phone,With,Webpage,Of,Open-source"
+    },
+    {
+      "title": "Git in MySQL: Dolt Version 1.0 ist da",
+      "teaser": "Dolt bietet SQL-Versionskontrolle mit Git-Befehlen. Das Projekt hat Version 1.0 erreicht, die das CLI stabilisiert und das zukünftige Speicherformat festlegt.",
+      "url": "https://www.heise.de/news/Git-in-MySQL-Dolt-Version-1-0-ist-da-8990862.html",
+      "image_title": "Verschlüsselte Daten"
+    },
+    {
+      "title": "Amazons neuer Modulith – Services neu zuschneiden macht noch keinen Monolithen",
+      "teaser": "Ein Blogpost des Amazon-Prime-Video-Entwicklerteams stiftet Verwirrung: Kehrt AWS Microservices den Rücken zu? Kris Köhntopp klärt das Missverständnis auf.",
+      "url": "https://www.heise.de/meinung/Amazons-neuer-Modulith-Services-neu-zuschneiden-macht-noch-keinen-Monolithen-8990271.html",
+      "image_title": "Stonehenge"
+    },
+    {
       "title": "Vorsicht vor Phishing-Attacke auf Ionos-Kunden",
       "teaser": "Ionos schaltet aktuell den unverschlüsselten Mailzugriff für seine Kunden ab. Kriminelle nutzen die Verunsicherung, um per Mail nach Zugangsdaten zu phishen.",
       "url": "https://www.heise.de/news/Vorsicht-vor-Phishing-Attacke-auf-Ionos-Kunden-8990619.html"
@@ -100,39 +134,6 @@
       "teaser": "Forscher arbeiten an einem Programm, das beispielsweise bei der Untersuchung der Lunge mittels CT-Bildern im Hintergrund läuft und auch Knochenbrüche erkennt.",
       "url": "https://www.heise.de/news/KI-Diagnose-Forscher-wollen-Knochenbrueche-erkennende-Software-etablieren-8990223.html",
       "image_title": "2D-Schnittbild einer CT-Aufnahme auf der zwei Frakturen zu sehen sind. Sie wurden von der KI richtigerweise als moderat (Grad 2) klassifiziert. Die anderen Wirbel wurden korrekt als \"normal\" (Grad 0) erkannt."
-    },
-    {
-      "title": "Webinar: Rahmenbedingungen für die App-Entwicklung im Unternehmen",
-      "teaser": "Das Webinar zeigt die zentralen Stolpersteine bei der Entwicklung von iOS-Apps durch Unternehmen, sei es intern oder anhand externer Lieferanten.",
-      "url": "https://www.heise.de/news/Webinar-Rahmenbedingungen-fuer-die-App-Entwicklung-im-Unternehmen-8990067.html",
-      "image_title": "Webinar-Aufmacher Rahmenbedinungen für App-Entwicklung im Unternehmen"
-    },
-    {
-      "title": "Fedora 38: Linux-Distribution verbreitert das Angebot an Software und Spins",
-      "teaser": "Fedora 38 enthält keine bahnbrechenden Neuerungen, schleift aber einige Kanten ab. Hinter den Kulissen bereiten die Entwickler den nächsten großen Wurf vor.",
-      "url": "https://www.heise.de/tests/Fedora-38-Linux-Distribution-verbreitert-das-Angebot-an-Software-und-Spins-8986704.html",
-      "image_title": ","
-    },
-    {
-      "title": "Linux-Init-Daemon: systemd erhält Userspace-only-Reboot",
-      "teaser": "Der Linux-Init-Daemon systemd soll bald eine Funktion erhalten, mit der er einen \"Soft-Reboot\" ausführen kann. Das beschleunigt den Systemneustart stark.",
-      "url": "https://www.heise.de/news/Linux-Init-Daemon-systemd-erhaelt-Userspace-only-Reboot-8990191.html"
-    },
-    {
-      "title": "Von Docker Desktop zu Podman: Umstieg leicht gemacht",
-      "teaser": "Dockers neue Lizenzpolitik und Verbesserungen der Konkurrenz machen die Open-Source-Alternative Podman immer attraktiver. Der Wechsel geht verblüffend einfach.",
-      "url": "https://www.heise.de/ratgeber/Von-Docker-Desktop-zu-Podman-Umstieg-leicht-gemacht-8988549.html",
-      "image_title": ", KI Midjourney"
-    },
-    {
-      "title": "DistroSea bringt 39 Linux-Distributionen per VM in den Webbrowser",
-      "teaser": "DistroSea heißt ein Dienst, der das Antesten von Linux-Distributionen deutlich erleichtern soll. Das Projekt ist klein, funktioniert aber schon recht gut.​",
-      "url": "https://www.heise.de/news/Linux-testen-leicht-gemacht-DistroSea-bringt-39-Distributionen-in-den-Browser-8990207.html"
-    },
-    {
-      "title": "Google I/O: Entwicklerkonferenz mit neuen Pixel-Geräten, Android 14 und viel KI",
-      "teaser": "\"What's news in ...\" – das will Google an diesem Mittwoch auf der hauseigenen Entwicklerkonferenz I/O erzählen.",
-      "url": "https://www.heise.de/news/Google-I-O-Entwicklerkonferenz-mit-neuen-Pixel-Geraeten-Android-14-und-viel-KI-8989758.html"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
