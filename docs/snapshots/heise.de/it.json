@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-10T12:21:46",
+  "timestamp": "2023-05-10T14:11:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Twitter-Alternative: ARD eröffnet eigene Mastodon-Instanz mit Tagesschau-Account",
+      "teaser": "Mit ard.social hat die ARD ihre eigene Instanz für Mastodon in Betrieb genommen. Die Tagesschau bekommt einen neuen Account, bereits existierende ziehen um.",
+      "url": "https://www.heise.de/news/Twitter-Alternative-ARD-eroeffnet-eigene-Mastodon-Instanz-mit-Tagesschau-Account-8988570.html",
+      "image_title": "Stuttgart,,Germany,-,09-24-2022:,Mobile,Phone,With,Webpage,Of,Open-source"
+    },
+    {
+      "title": "Festplatten: Wenn defekt, dann in durchschnittlich unter drei Jahren",
+      "teaser": "Die meisten Festplattendefekte treten auf, wenn die HDDs noch recht jung sind. Das zeigen Untersuchungen anhand Tausender Modelle.",
+      "url": "https://www.heise.de/news/Festplatten-Wenn-defekt-dann-in-durchschnittlich-unter-drei-Jahren-8989865.html"
+    },
+    {
       "title": "MosaicML veröffentlicht großes Open-Source-Sprachmodell für kommerzielle Nutzung",
       "teaser": "Das KI-Startup MosaicML hat sein eigenes großes Sprachmodell MPT-7B herausgebracht und will es für die kommerzielle Nutzung verfügbar machen.",
       "url": "https://www.heise.de/news/KI-Startup-MosaicML-veroeffentlicht-grosses-Sprachmodell-fuer-kommerzielle-Nutzung-8989546.html",
       "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
-    },
-    {
-      "title": "\"My Cloud\" down: Western Digital meldet \"Netzwerk-Sicherheitsvorfall\"",
-      "teaser": "Nach einem Cyber-Einbruch bei Western Digital ist etwa der Online-Store nicht mehr verfügbar. Daten sind abgeflossen. WD hat Nutzer jetzt darüber informiert.",
-      "url": "https://www.heise.de/news/Western-Digital-meldet-Netzwerk-Sicherheitsvorfall-8515140.html"
-    },
-    {
-      "title": "Was darf KI? Stockfotograf und KI-Verein streiten um das Copyright",
-      "teaser": "Ein Stockfotograf verklagt LAION — der gemeinnützige KI-Verein gibt an, geltendes Recht eingehalten zu haben. Der Streit wirft über den Fall hinaus Fragen auf.",
-      "url": "https://www.heise.de/hintergrund/Was-darf-KI-Stockfotograf-und-KI-Verein-streiten-um-das-Copyright-8984836.html"
     },
     {
       "title": "Spring Boot 3: Datenbankanbindung leicht gemacht",
@@ -53,13 +54,39 @@
       "image_title": ","
     },
     {
+      "title": "Agile Vorgehensmodelle: Skalierungsframeworks im Vergleich",
+      "teaser": "Um Scrum zu skalieren, braucht es spezielle Frameworks. Sie koordinieren die Zusammenarbeit von Teams, die ein gemeinsames Produkt entwickeln.",
+      "url": "https://www.heise.de/hintergrund/Agile-Vorgehensmodelle-Skalierungsframeworks-im-Vergleich-8992374.html"
+    },
+    {
+      "title": "FBI setzt \"Snake\"-Malware-Netzwerk des russischen FSB außer Gefecht",
+      "teaser": "US-amerikanische Strafverfolger haben ein globales Peer-to-Peer-Netzwerk aus mit der russischen \"Snake\"-Malware infizierten Computern lahmgelegt.",
+      "url": "https://www.heise.de/news/FBI-setzt-Snake-Malware-Netzwerk-des-russischen-FSB-ausser-Gefecht-8993988.html"
+    },
+    {
+      "title": "BSI: Deutschland braucht einen Bundes-CISO für die IT-Security",
+      "teaser": "Der BSI-Kongress behandelt in diesem Jahr vor allem die Themen Cyberresilienz und den Schutz kleiner und mittlerer Unternehmen.​",
+      "url": "https://www.heise.de/news/BSI-Kongress-Bei-IT-Sicherheit-ueber-EU-Regulierung-hinausgehen-8994044.html"
+    },
+    {
+      "title": "Programmiersprache Julia 1.9 beschleunigt Start- und Ladezeiten",
+      "teaser": "Das Release baut die Präkompilierung für schnellere Startzeiten weiter aus, bringt das neue Feature Package Extensions und aktualisiert LLVM auf Version 14.",
+      "url": "https://www.heise.de/news/Programmiersprache-Julia-1-9-beschleunigt-Start-und-Ladezeiten-8993840.html"
+    },
+    {
+      "title": "Digitalisierung: Firmen nutzen Daten immer häufiger, aber teilen sie seltener",
+      "teaser": "Deutsche Unternehmen machen Fortschritte in der Datenökonomie. Das gilt zumindest intern – das Data-Sharing ist nämlich rückläufig, sagt der Bitkom.",
+      "url": "https://www.heise.de/news/Digitalisierung-Firmen-nutzen-Daten-immer-haeufiger-aber-teilen-sie-seltener-8993915.html",
+      "image_title": "Neural,Network,3d,Illustration.,Big,Data,And,Cybersecurity.,Data,Stream."
+    },
+    {
       "title": "Continuous Lifecycle/ContainerConf 2023: Jetzt noch Vorschläge einreichen",
       "teaser": "Noch bis 12. Mai können sich Speaker und Referentinnen für die Konferenz zu Developer Experience, Developer Platform, Continuous Delivery und DevOps bewerben.",
       "url": "https://www.heise.de/news/Continuous-Lifecycle-ContainerConf-2023-Jetzt-noch-Vorschlaege-einreichen-8991502.html",
       "image_title": "Continuous Lifecycle & ContainerConf 2022: Call for Proposals gestartet"
     },
     {
-      "title": "2FA: Microsoft schaltet \"Number Matching\" für Authenticator scharf",
+      "title": "Microsoft: \"Number Matching\" für 2FA mit Authenticator aktiviert",
       "teaser": "Angreifer können Zwei-Faktor-Authentifizierung durch Senden zahlreicher Push-Nachrichten aushebeln. Microsoft schützt mit \"Number Matching\" für Authenticator.",
       "url": "https://www.heise.de/news/2FA-Microsoft-schaltet-Number-Matching-fuer-Authenticator-scharf-8993901.html"
     },
@@ -106,33 +133,6 @@
       "title": "Kritische Schwachstellen ermöglichen Übernahme von Aruba Access Points",
       "teaser": "Die HPE-Tochter Aruba schließt mehrere, zum Teil kritische Sicherheitslücken in den Access Points. Angreifer aus dem Netz könnten Schadcode einschleusen.",
       "url": "https://www.heise.de/news/Kritische-Schwachstellen-ermoeglicht-Uebernahme-von-Aruba-Access-Points-8992292.html"
-    },
-    {
-      "title": "Weiterbildungs-Anbieter GoodHabitz will Chat-GPT integrieren",
-      "teaser": "Der digitale Weiterbildungs-Anbieter GoodHabitz will sukzessive Chat-GPT-gestützte Trainings in sein Angebot integrieren. Drei benennt er bereits.",
-      "url": "https://www.heise.de/news/Weiterbildungs-Anbieter-GoodHabitz-will-Chat-GPT-integrieren-8992335.html",
-      "image_title": "A,Man,Using,Laptop,For,Work,Research,,Online,Education.,Computer,"
-    },
-    {
-      "title": "Klassischer Texteditor: Runder Geburtstag für BBEdit",
-      "teaser": "Vor drei Jahrzehnten erschien erstmals eine kommerzielle Version des populären Texteditors. Eigentlich ist die populäre Mac-App sogar noch älter.",
-      "url": "https://www.heise.de/news/BBEdit-wird-30-und-gibt-Rabatt-8991854.html",
-      "image_title": "BBEdit-Icon auf einem T-Shirt"
-    },
-    {
-      "title": "Fernsteuerung per Computer: GPIO-Breakout-Boards als Schweizer Taschenmesser",
-      "teaser": "GPIO-Breakout-Boards wie das Adafruit FT232H ermöglichen den Zugriff auf elektronische Schaltungen von einem Computer.",
-      "url": "https://www.heise.de/blog/Fernsteuerung-per-Computer-GPIO-Breakout-Boards-als-Schweizer-Taschenmesser-7091889.html"
-    },
-    {
-      "title": "Patchday: 18 Sicherheitsnotizen zu teils kritischen Lücken in SAP-Software",
-      "teaser": "Am Mai-Patchday dichtet SAP zum Teil kritische Sicherheitslücken in der Software des Unternehmens ab. IT-Verantwortliche sollten die Updates zügig anwenden.",
-      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-18-teils-kritische-Sicherheitslecks-ab-8992005.html"
-    },
-    {
-      "title": "Microsoft Patchday: Angreifer verschaffen sich System-Rechte unter Windows",
-      "teaser": "Microsoft schließt unter anderem in Windows mehrere kritische Schadcode-Lücken. Attacken laufen bereits, weitere könnten bevorstehen.",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-verschaffen-sich-System-Rechte-unter-Windows-8991967.html"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
