@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-10T08:13:57",
+  "timestamp": "2023-05-10T09:11:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9553f9175716d093c858",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ce1fb207dcaf3c68a0e9",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Patchday SAP",
+      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-18-teils-kritische-Sicherheitslecks-ab-8992005.html"
+    },
     {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Angreifer-verschaffen-sich-System-Rechte-unter-Windows-8991967.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Microsoft-Webbrowser-Edge-113-schliesst-Sicherheitsluecken-8990437.html"
     },
     {
-      "title": "F5-Netzwerkprodukte",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-koennten-F5-Netzwerkprodukte-aus-dem-Verkehr-ziehen-8988481.html"
+      "title": "Patchday: SAP dichtet 18 teils kritische Sicherheitslecks ab",
+      "teaser": "Am Mai-Patchday dichtet SAP zum Teil kritische Sicherheitslücken in der Software des Unternehmens ab. IT-Verantwortliche sollten die Updates zügig anwenden.",
+      "url": "https://www.heise.de/news/Patchday-SAP-dichtet-18-teils-kritische-Sicherheitslecks-ab-8992005.html"
     },
     {
       "title": "Webbrowser: Firefox 113 schließt Sicherheitslücken und kennt mehr Bildformate",
@@ -146,12 +151,6 @@
       "title": "Patchday Fortinet: Angreifer könnten eigene Befehle ausführen",
       "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Produkte von Fortinet. Keine Lücke gilt als kritisch.",
       "url": "https://www.heise.de/news/Patchday-Fortinet-Gefaehrliche-Luecken-in-Netzwerkhardware-geschlossen-8986618.html"
-    },
-    {
-      "title": "iX-Workshop: Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
-      "teaser": "Lernen Sie, wie Sie Angriffsvektoren in der eigenen Unternehmens-IT mit Hacker-Mitteln aufdecken und beseitigen lernen. 10% Frühbucherrabatt noch bis 23.5.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-8984898.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "heise Security Tour 2023",
