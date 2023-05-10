@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-10T11:09:00",
+  "timestamp": "2023-05-10T12:21:38",
   "url": "https://www.sueddeutsche.de/",
   "response": {
     "status": 200
@@ -78,12 +78,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "module",
       "src": "https://www.sueddeutsche.de/assets/js/szoverviewpage-h-include-582a4d05c03696fae92b.mjs",
       "id": null,
@@ -128,31 +122,38 @@
   ],
   "articles": [
     {
+      "title": "Wo sollen sie denn hin?",
+      "teaser": "In Cottbus leben Tausende Geflüchtete in einer Plattenbausiedlung. Dort wird besonders sichtbar, was in Deutschland fehlt. Ein Besuch.",
+      "url": "https://www.sueddeutsche.de/politik/fluechtlinge-fluechtlingsgipfel-migration-cottbus-plattenbau-1.5849084",
+      "author": "Constanze von Bullion",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850338/1000x420"
+    },
+    {
+      "title": "Die Wut derer, die nicht am Verhandlungstisch sitzen",
+      "teaser": "Eigentlich wollte am Dienstagmorgen eine Gruppe von Geflüchteten vor dem Landratsamt in Dachau protestieren. Am Ende traut sich nur einer. Er macht klar: Vor dem Flüchtlingsgipfel sind nicht nur die Kommunen an ihrer Belastungsgrenze, sondern auch die Geflüchteten selbst.",
+      "url": "https://www.sueddeutsche.de/muenchen/dachau/dachau-gefluechtete-steinstrasse-turnhalle-loewl-landrat-protest-1.5849329",
+      "author": "Leonard Scharfenberg, Dachau"
+    },
+    {
       "title": "Wenn die Republikaner allen Anstand über Bord werfen",
       "teaser": "Nun muss Donald Trump auch noch Schadensersatz leisten wegen sexueller Nötigung und Verleumdung. Aber seine Chancen im Wahlkampf sinken dadurch nicht, sie steigen. Denn seine Partei könnte mitspielen.",
       "url": "https://www.sueddeutsche.de/meinung/donald-trump-noetigung-usa-wahlen-kommentar-republikaner-1.5850510",
       "author": "Kommentar von Peter Burghardt",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850511/1000x420"
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850817/600x337",
+      "image_title": "E. Jean Carroll"
     },
     {
-      "title": "Immobilienpreise sinken erstmals wieder",
-      "teaser": "Häuser und Wohnungen sind heute billiger als vor zwölf Monaten, zeigen aktuelle Daten. Das gab es lange nicht. In den Städten sinken die Preise deutlich weniger als auf dem Land - und es gibt noch mehr Unterschiede.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/wohnungen-preise-kaufen-stadt-land-unterschiede-1.5849421",
-      "author": "Stephan Radomsky",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5849422/208x156"
+      "title": "Lage in Nahost spitzt sich zu",
+      "teaser": "Nach jüngsten israelischen Angriffen in Gaza feuern Palästinenser Dutzende Raketen auf israelisches Staatsgebiet ab. Auch im Landesinneren gibt es Luftschutzalarm.",
+      "url": "https://www.sueddeutsche.de/politik/israel-raketen-beschuss-gaza-nahost-1.5850895",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850896/208x156"
     },
     {
-      "title": "Geld allein löst die Probleme in der Flüchtlingspolitik nicht",
-      "teaser": "Die Unterkünfte sind voll, die Integration fällt schwer: Viele Städte und Gemeinden fühlen sich von den wachsenden Flüchtlingszahlen überfordert. Was sie nun von der Bundesregierung erwarten.",
-      "url": "https://www.sueddeutsche.de/politik/fluechtlinge-staedte-landkreise-forderungen-bund-1.5848858",
-      "author": "Jan Bielicki",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5848859/600x337"
-    },
-    {
-      "title": "EU-Gericht erklärt Corona-Hilfen für Lufthansa für nichtig",
-      "teaser": "In der Pandemie standen bei der größten deutschen Airline Zehntausende Arbeitsplätze auf dem Spiel. Die Bundesregierung legte ein riesiges Hilfspaket auf. Doch das hätte die EU-Kommission nach Ansicht der Richter nie genehmigen dürfen.",
-      "url": "https://www.sueddeutsche.de/wirtschaft/lufthansa-pandemie-corona-staatshilfen-1.5850375",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850406/208x156"
+      "title": "EU-Gericht kanzelt Kommission wegen Lufthansa-Hilfen ab",
+      "teaser": "Zu Beginn der Corona-Pandemie rettete die Bundesregierung die Deutsche Lufthansa mit sechs Milliarden Euro. Das hätte die EU-Kommission genauer prüfen müssen.",
+      "url": "https://www.sueddeutsche.de/wirtschaft/lufthansa-eu-kommission-eu-gericht-urteil-1.5850904",
+      "author": "Jan Diesteldorf, Straßburg, und Jens Flottau, Frankfurt",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850905/600x337"
     },
     {
       "title": "\"Wenn wir solches Verhalten dulden, dann 'Gute Nacht, Betriebsrat' in Deutschland\"",
@@ -160,14 +161,6 @@
       "url": "https://www.sueddeutsche.de/wirtschaft/prodiac-kws-sicherheitsfirma-betriebsrat-streit-1.5850382",
       "author": "Katrin Kampling und Nils Wischmeyer, Köln",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5850383/600x337"
-    },
-    {
-      "title": "\"Nett, dass Sie einer Ukrainerin helfen, aber die Wohnung kriegt jemand anderes\"",
-      "teaser": "Das Kinderbettchen steht im Elternschlafzimmer, die Babycreme im Bücherregal: Nicht nur wegen akuten Platzmangels sucht unsere Kolumnistin eine neue Bleibe für ihre geflüchtete Mitbewohnerin. Seit Monaten vergeblich. Folge sechs der Kolumne.",
-      "url": "https://sz-magazin.sueddeutsche.de/notquartier-die-ukraine-kolumne/ukraine-krieg-gefluechtete-notquartier-kolumne-92725",
-      "author": "Jana Anzlinger",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5848364/600x337",
-      "image_title": "Notquartier"
     },
     {
       "title": "Frankreichs Parlament will Wagner-Söldner auf Terrorliste setzen",
@@ -178,18 +171,25 @@
       "image_title": "Wagner-Chef Prigoschin"
     },
     {
+      "title": "Besessen vom Horror",
+      "teaser": "Neue Erkenntnisse zu Stanley Kubricks \"The Shining\": Ein obsessiver Sammler präsentiert seine Schätze - Skizzen und Notizen, Erinnerungen und Zeugenaussagen rund um den Filmklassiker.",
+      "url": "https://www.sueddeutsche.de/kultur/lee-unkrich-stanley-kubrick-rezension-the-shining-horror-1.5846800",
+      "author": "Tobias Kniebe",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850921/600x337"
+    },
+    {
+      "title": "Dann nehmt mich halt fest",
+      "teaser": "Die brasilianische Musikikone Rita Lee ist gestorben, sie galt als Königin des Rock. Gefiel ihr gar nicht.",
+      "url": "https://www.sueddeutsche.de/kultur/brasilien-rita-lee-nachruf-tod-1.5850924",
+      "author": "Simon Sales Prado",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850926/208x156"
+    },
+    {
       "title": "\"Was ist das, ein besserer Mensch?\"",
       "teaser": "Etgar Keret ist einer der bekanntesten Schriftsteller Israels. Ein Gespräch über die neuen Risiken der Kunst und eine Sprache aus der Mikrowelle.",
       "url": "https://www.sueddeutsche.de/kultur/etgar-keret-interview-israeltage-israel-1.5848413",
       "author": "Interview von Marlene Knobloch",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5848414/208x156"
-    },
-    {
-      "title": "\"Wir sollten dem Bären eine Chance geben\"",
-      "teaser": "Der Wildbiologe und Ökologe Wolfgang Schröder hat Jahrzehnte lang über Braunbären geforscht und an dem Wiederansiedlungsprojekt im Trentino mitgearbeitet. Er ist überzeugt, dass es sich bei dem Tier, das gerade durch den bayerischen Alpenraum streift, um ein scheues Jungtier handelt.",
-      "url": "https://www.sueddeutsche.de/bayern/bayern-baer-wolfgang-schroeder-experte-interview-1.5850531",
-      "author": "Interview von Christian Sebald",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850321/600x337"
     },
     {
       "title": "Die Großmeister liefern ein taktisches Spektakel",
@@ -206,32 +206,32 @@
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5849123/208x156"
     },
     {
-      "title": "Hinterm Horizont geht es weiter",
-      "teaser": "Segeln in der Ägäis ist für viele ein Traum. Aber eine Woche mit sechs fremden Menschen in einem Boot: Kann das gutgehen? Ein Selbstversuch.",
-      "url": "https://www.sueddeutsche.de/projekte/artikel/reise/segeln-aegaeis-sailwithus-griechenland-kykladen-e496583/",
-      "author": "Sina-Maria Schweikle, Athen",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5838716/600x337",
-      "image_title": "Segeln - Sina Schweikle - Voloausgabe Ägäis"
-    },
-    {
       "title": "E-Scooter-Unfälle: zwei Tote und Hunderte Verletzte in Bayern",
       "teaser": "Laut Statistischem Bundesamt wurden vergangenes Jahr 1119 Unfälle mit den Elektrorollern erfasst. Nur ein Bundesland verzeichnet mehr Unfälle als Bayern.",
       "url": "https://www.sueddeutsche.de/bayern/bayern-e-scooter-unfaelle-statistik-1.5850377",
       "image_url": "https://www.sueddeutsche.de/image/sz.1.5780995/208x156"
     },
     {
-      "title": "Was will das Volk?",
-      "teaser": "Per Volksbegehren können in Bayern Bürgerinnen und Bürger direkt Einfluss auf politische Entscheidungen nehmen. Zurzeit hoffen drei Initiativen auf einen Erfolg. Es geht um Verkehr, Wahlrecht und umkämpfte Landtagsplätze.",
-      "url": "https://www.sueddeutsche.de/bayern/volksbegehren-bayern-windraeder-1.5848772",
-      "author": "Melissa Dennebaum und Bianca Dimarsico",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.4327878/208x156"
+      "title": "\"Wir sollten dem Bären eine Chance geben\"",
+      "teaser": "Der Wildbiologe und Ökologe Wolfgang Schröder hat Jahrzehnte lang über Braunbären geforscht und an dem Wiederansiedlungsprojekt im Trentino mitgearbeitet. Er ist überzeugt, dass es sich bei dem Tier, das gerade durch den bayerischen Alpenraum streift, um ein scheues Jungtier handelt.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-baer-wolfgang-schroeder-experte-interview-1.5850531",
+      "author": "Interview von Christian Sebald",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850321/600x337"
     },
     {
-      "title": "Besessen vom Horror",
-      "teaser": "Neue Erkenntnisse zu Stanley Kubricks Filmklassiker \"The Shining\".",
-      "url": "https://www.sueddeutsche.de/kultur/lee-unkrich-stanley-kubrick-rezension-taschen-1.5846800",
-      "author": "Tobias Kniebe",
-      "image_url": "https://www.sueddeutsche.de/image/sz.1.5846802/600x337"
+      "title": "Haben Sie diesen Baumschläfer gesehen?",
+      "teaser": "Das Landesamt für Umwelt lässt in Bayerns Bergen gerade nach verschiedenen Tieren suchen. Jetzt hat es auch noch den Baumschläfer zur Fahndung ausgeschrieben.",
+      "url": "https://www.sueddeutsche.de/bayern/bayern-baer-bilch-baumschlaefer-1.5849104",
+      "author": "Kolumne von Matthias Köpf",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5849105/208x156"
+    },
+    {
+      "title": "\"Wieso akzeptierst du nicht einfach meinen Berufswunsch?\"",
+      "teaser": "Mayla und Ben sind seit zwei Jahren zusammen und wollen zusammenziehen. Die Wohnung ist gemietet, der Umzug geplant. Doch dann muss Ben ihr etwas beichten.",
+      "url": "https://www.jetzt.de/whatsapp-kolumne/whatsapp-kolumne-beziehung-zerbricht-wegen-berufswunsch",
+      "author": "Mina Tessenyi",
+      "image_url": "https://www.sueddeutsche.de/image/sz.1.5850606/600x337",
+      "image_title": "jtzt whatsappkolumne zusammenziehen"
     },
     {
       "title": "Bestens integriert",
