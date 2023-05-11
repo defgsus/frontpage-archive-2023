@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-11T18:13:29",
+  "timestamp": "2023-05-11T19:09:08",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Schuldenobergrenze: IWF warnt vor Zahlungsausfall der USA",
+      "teaser": "Republikaner und Demokraten streiten um das Anheben der Schuldenobergrenze. Der Internationale Währungsfonds sieht ansonsten die Weltwirtschaft gefährdet.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/usa-iwf-schuldenobergrenze-zahlungsausfall",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/usa-iwf-schuldengrenze-zahlungsausfall-bild/cinema__980x420"
+    },
+    {
       "title": "Steuereinnahmen: Das Geld ist weg!",
       "teaser": "Weil die Regierung Steuern gesenkt hat, brechen die Einnahmen weg. Der Ampel droht Streit: weniger ausgeben oder mehr einnehmen. Das ist keine ökonomische Entscheidung.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/steuereinnahmen-steuerschaetzung-bundeshaushalt-ampel-koalition",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/steuereinnahmen-steuerschaetzung-bundeshaushalt-ampel-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/steuereinnahmen-steuerschaetzung-bundeshaushalt-ampel-bild/wide__822x462",
+      "image_title": "Steuereinnahmen: Das Geld ist weg!"
     },
     {
       "title": "Inflation: Bank of England hebt erneut den Leitzins an",
@@ -66,14 +73,14 @@
       "title": "Hamburger Hafen: Grüne und CDU kritisieren Olaf Scholz nach Cosco-Einstieg",
       "teaser": "\"Alleingang auf chinapolitischem Irrweg\": Die CDU übt nach Chinas Cosco-Einstieg Kritik am Kanzler. Er habe aus \"fatalen Fehlern\" nichts gelernt, sagen die Grünen.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/cosco-hamburg-kritik-gruene-cdu",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/cosco-hamburg-kritik-gruene-cdu-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/cosco-hamburg-kritik-gruene-cdu-bild/cinema__980x420",
       "image_title": "Hamburger Hafen: Grüne und CDU kritisieren Olaf Scholz nach Cosco-Einstieg"
     },
     {
       "title": "Studie: Zahl ausländischer Investitionen erreicht neuen Tiefpunkt",
       "teaser": "In Deutschland ist die Zahl internationaler Investitionsvorhaben zum fünften Mal in Folge gesunken. Es ist der niedrigste Stand seit 2013. Experten sind beunruhigt.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-05/nvestitionen-ausland-sinken-deutschland",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/investitionen-deutschland-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/investitionen-deutschland-bild/wide__822x462",
       "image_title": "Studie: Zahl ausländischer Investitionen erreicht neuen Tiefpunkt"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-05/tourismus-uebernachtungen-wachstum-corona",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/tourismus-uebernachtungen-wachstum-corona-bild/wide__822x462",
       "image_title": "Tourismus: Übernachtungszahlen nähern sich dem Vor-Corona-Niveau"
-    },
-    {
-      "title": "Bundesregierung: Cosco darf in Container-Terminal im Hamburger Hafen einsteigen",
-      "teaser": "Lange gab es Streit um eine Beteiligung von Cosco am Hamburger Hafen. Nun darf die chinesische Staatsreederei Cosco endgültig knapp 25 Prozent eines Terminals übernehmen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/cosco-hamburger-hafen-chinesische-beteiligung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/hamburger-hafen-chineische-beteiligung-bild/wide__822x462",
-      "image_title": "Bundesregierung: Cosco darf in Container-Terminal im Hamburger Hafen einsteigen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wärmedämmung: Verbaute Zukunft",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Bundesregierung: Cosco darf in Container-Terminal im Hamburger Hafen einsteigen",
+      "teaser": "Lange gab es Streit um eine Beteiligung von Cosco am Hamburger Hafen. Nun darf die chinesische Staatsreederei Cosco endgültig knapp 25 Prozent eines Terminals übernehmen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/cosco-hamburger-hafen-chinesische-beteiligung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/hamburger-hafen-chineische-beteiligung-bild/wide__822x462",
+      "image_title": "Bundesregierung: Cosco darf in Container-Terminal im Hamburger Hafen einsteigen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geflüchtete auf dem Arbeitsmarkt: Unverzichtbar",
       "teaser": "Viele Unternehmen in Deutschland suchen verzweifelt neue Mitarbeiter. Gedeckt wird der wachsende Bedarf vor allem durch Geflüchtete, wie aktuelle Daten zeigen.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/gefluechtete-arbeitsmarkt-integration-migration-daten",
@@ -220,14 +227,14 @@
       "title": "Schuldenobergrenze in den USA: Das Kammerspiel, das in einer Tragödie enden könnte",
       "teaser": "Die Schuldenobergrenze ist eine stumpfsinnige bürokratische Regel. Sie ist aber mit das Einzige, das Demokraten und Republikaner dazu zwingt, miteinander zu verhandeln.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/joe-biden-republikaner-schuldenobergrenze",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/joe-biden-republikaner-schuldenobergrenze-2/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/joe-biden-republikaner-schuldenobergrenze-2/cinema__980x420",
       "image_title": "Schuldenobergrenze in den USA: Das Kammerspiel, das in einer Tragödie enden könnte"
     },
     {
       "title": "ifo Institut: Beschäftigte kehren nur zögerlich aus Homeoffice zurück",
-      "teaser": "Auch nach Ende der Pandemie nutzen Arbeitnehmerinnen und Arbeitnehmer das Homeoffice: Ein Viertel der Beschäftigten arbeitet weiter lieber von zu Hause aus. 204 Kommentare",
+      "teaser": "Auch nach Ende der Pandemie nutzen Arbeitnehmerinnen und Arbeitnehmer das Homeoffice: Ein Viertel der Beschäftigten arbeitet weiter lieber von zu Hause aus.",
       "url": "https://www.zeit.de/arbeit/2023-05/ifo-institut-homeoffice-corona-pandemie-buero",
-      "image_url": "https://img.zeit.de/arbeit/2023-05/ifo-institut-homeoffice-corona-pandemie-buero-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/arbeit/2023-05/ifo-institut-homeoffice-corona-pandemie-buero-bild/wide__822x462",
       "image_title": "ifo Institut: Beschäftigte kehren nur zögerlich aus Homeoffice zurück"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-05/inflation-april-statistisches-bundesamt-energie-nahrungsmittel",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/inflation-april-statistisches-bundesamt-energie-nahrungsmittel-bild-2/wide__822x462",
       "image_title": "Statistisches Bundesamt: Inflation sinkt auf niedrigsten Stand seit acht Monaten"
-    },
-    {
-      "title": "Immobilienpreise: Wohneigentum in Großstädten mehr als doppelt so teuer wie auf dem Land",
-      "teaser": "Ein Quadratmeter in einer der sieben größten Städte Deutschlands kostet laut einer Studie im Mittel mehr als 6.000 Euro. Begehrt ist auch Wohnen im Umland der Metropolen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/immobilienpreise-wohneigentum-grossstaedte-land-studie",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/immobilienpreise-wohneigentum-muenchen-wohnungen/wide__822x462",
-      "image_title": "Immobilienpreise: Wohneigentum in Großstädten mehr als doppelt so teuer wie auf dem Land"
     },
     {
       "title": "Volkswagen: VW tauscht Führung seiner Softwaresparte Cariad aus",
