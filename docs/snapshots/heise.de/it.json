@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-12T12:20:46",
+  "timestamp": "2023-05-12T13:13:13",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,14 +43,46 @@
       "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
     },
     {
+      "title": "GitOps: Renovate einrichten und mit Bot Dependencies aktuell halten",
+      "teaser": "Um Software sicher und Updates schlank zu halten, müssen Abhängigkeiten regelmäßig auf neue Versionen geprüft werden. Mit dem Renovate Bot geht das automatisch.",
+      "url": "https://www.heise.de/ratgeber/GitOps-Renovate-einrichten-und-mit-Bot-Dependencies-aktuell-halten-8987075.html"
+    },
+    {
       "title": "Kubernet-Sicherheit: OpenShift und Rancher nach BSI-Anforderungen härten",
       "teaser": "Im letzten Teil der Artikelreihe zur Kubernetes-Absicherung gemäß den Anforderungen des BSI IT-Grundschutzes treten OpenShift und Rancher gegeneinander an.",
       "url": "https://www.heise.de/tests/Kubernet-Sicherheit-OpenShift-und-Rancher-nach-BSI-Anforderungen-haerten-9009530.html"
     },
     {
-      "title": "Im Test: Raspberry Pi 4 als sparsamer Blade-Server",
-      "teaser": "Raspberry Pi Compute Modules als Bladeserver benötigen extrem wenig Energie. Doch muss auch das Verhältnis von Leistung und Leistungsaufnahme stimmen.",
-      "url": "https://www.heise.de/tests/Im-Test-Raspberry-Pi-4-als-sparsamer-Blade-Server-8988253.html"
+      "title": "Vorwurf: Google schaltet per Spam-Schutz unliebsame Konkurrenz aus",
+      "teaser": "Keine Meetings mit dem Viagra-Händler mehr – Googles Kampf gegen den Spam im Kalender trägt Früchte. Aber richtet sich das auch gegen Drittentwickler?",
+      "url": "https://www.heise.de/news/Vorwurf-Google-schaltet-per-Spam-Schutz-unliebsame-Konkurrenz-aus-9017074.html"
+    },
+    {
+      "title": "Asus Pro H610M-C-CSM: Mainboard für Intel-CPUs mit DDR5 und PCIe 5.0 im Test",
+      "teaser": "Das günstige Asus Pro H610M-C-CSM vereint sowohl DDR5-Speicher als auch PCIe-5.0-Steckplätze mit einer Reihe von Legacy-Schnittstellen wie PCI, VGA und RS-232.",
+      "url": "https://www.heise.de/tests/Asus-Pro-H610M-C-CSM-Mainboard-fuer-Intel-CPUs-mit-DDR5-und-PCIe-5-0-im-Test-8990083.html",
+      "image_title": ","
+    },
+    {
+      "title": "Linux-Distribution: Ubuntu für RISC-V-Einplatinenrechner Visionfive-2",
+      "teaser": "Canonical hat Ubuntu 23.04 jetzt für das RISC-V-Board Visionfive-2 von Starfive freigegeben. Es handelt sich um die erste offizielle Linux-Distribution dafür.",
+      "url": "https://www.heise.de/news/Linux-Distribution-Ubuntu-fuer-RISC-V-Einplatinenrechner-Visionfive-2-9013794.html"
+    },
+    {
+      "title": "Asrock: Desktop-PC-Mainboards mit lüfterlos gekühlter Intel-N100-CPU",
+      "teaser": "Der sparsame Alder-Lake-N-Chip auf Asrocks N100M und N100DC-ITX kommt ohne Lüfter aus und verspricht ähnliche Performance wie Core i3-7100 oder Ryzen 3 1200.",
+      "url": "https://www.heise.de/news/Desktop-PC-Mainboards-mit-passiv-gekuehlter-Intel-N100-CPU-9017109.html",
+      "image_title": "Asrock-Mainbaords N100M (links) und N100DC-ITX mit Intel Processor N100"
+    },
+    {
+      "title": "In eigener Sache: Infotag Online, Developer-Update 2023 zu .NET 8.0 und KI",
+      "teaser": "Der Online-Infotag widmet sich diversen Themen rund um C#, .NET und KI-unterstützte Softwareentwicklung.",
+      "url": "https://www.heise.de/blog/In-eigener-Sache-Infotag-Online-Developer-Update-2023-zu-NET-8-0-sowie-KI-9016999.html"
+    },
+    {
+      "title": "Mehrere Sicherheitslücken in VMwares Cloud-Management Aria Operations",
+      "teaser": "Patches schließen mehrere Sicherheitslücken, die die Ausweitung von Rechten innerhalb von VMwares Cloud-Management Aria Operationse erlauben.",
+      "url": "https://www.heise.de/news/Mehrere-Sicherheitsluecken-in-VMwares-Cloud-Management-Aria-Operations-9012909.html"
     },
     {
       "title": "Anthropics KI-System Claude liest Bücher und lange Dokumente binnen Sekunden",
@@ -58,7 +90,12 @@
       "url": "https://www.heise.de/news/Anthropics-KI-System-Claude-liest-Buecher-und-lange-Dokumente-binnen-Sekunden-9013344.html"
     },
     {
-      "title": "AlmaLinux 9.2: Freier Red-Hat-Klon als CentOS-Ersatz",
+      "title": "Im Test: Raspberry Pi 4 als sparsamer Blade-Server",
+      "teaser": "Raspberry Pi Compute Modules als Bladeserver benötigen extrem wenig Energie. Doch muss auch das Verhältnis von Leistung und Leistungsaufnahme stimmen.",
+      "url": "https://www.heise.de/tests/Im-Test-Raspberry-Pi-4-als-sparsamer-Blade-Server-8988253.html"
+    },
+    {
+      "title": "Endlich weg von CentOS 7: Distro-Upgrade leicht gemacht mit AlmaLinux",
       "teaser": "Das AlmaLinux-Projekt springt als Ersatz für das klassische CentOS in die Bresche und ist binärkompatibel zu RHEL. Jetzt ist Release 9.2 da.",
       "url": "https://www.heise.de/news/AlmaLinux-9-2-Freier-Red-Hat-Klon-als-CentOS-Ersatz-9016963.html"
     },
@@ -93,44 +130,6 @@
       "title": "Cisco: SD-WAN-Zertifikate abgelaufen, jetzt updaten!",
       "teaser": "Cisco Systems weist seine Kundschaft darauf hin, dass einige SD-WAN Appliances der vEdge-Reihe dringende Updates benötigen.",
       "url": "https://www.heise.de/news/Ciscos-tickende-SD-WAN-Zeitbombe-9014471.html"
-    },
-    {
-      "title": "Desktop-Prozessoren: So wenig Verkäufe wie seit 1993 nicht mehr",
-      "teaser": "AMD und Intel haben mit hohen Lagerbeständen zu kämpfen. AMDs CPU-Marktanteile stiegen nur, weil die Verkäufe weniger eingekracht sind als bei Intel.",
-      "url": "https://www.heise.de/news/Desktop-Prozessoren-So-wenig-Verkaeufe-wie-seit-1993-nicht-mehr-9014023.html"
-    },
-    {
-      "title": "Verschlüsselungstrojaner: Es gibt Hoffnung für BlackCat-Opfer",
-      "teaser": "Stimmen die Voraussetzungen, können Opfer des Verschlüsselungstrojaner BlackCat wieder auf ihre Daten zugreifen.",
-      "url": "https://www.heise.de/news/Verschluesselungstrojaner-Es-gibt-Hoffnung-fuer-BlackCat-Opfer-9010373.html"
-    },
-    {
-      "title": "JavaScript: Meta tritt der OpenJS Foundation bei",
-      "teaser": "Das Unternehmen hinter React und React Native ist nun Gold Member der unter dem Dach der Linux Foundation geführten Stiftung für JavaScript-Projekte.",
-      "url": "https://www.heise.de/news/JavaScript-Meta-tritt-der-OpenJS-Foundation-bei-9010244.html"
-    },
-    {
-      "title": "Shopsystem: Kritische Sicherheitslücke in Prestashop wird angegriffen",
-      "teaser": "Eine kritische Sicherheitslücke klafft im Shopping-System Prestashop. Angreifer missbrauchen sie bereits. Ein aktueller Softwarestand schützt.",
-      "url": "https://www.heise.de/news/Shopsystem-Kritische-Sicherheitsluecke-in-Prestashop-wird-angegriffen-9010286.html"
-    },
-    {
-      "title": "data2day 2023: Jetzt noch Vorträge zur Data-Science-Konferenz einreichen",
-      "teaser": "Noch bis 12. Mai können sich Referentinnen und Speaker zur Konferenz für Data Scientists, Data Engineers und Data Teams bewerben.",
-      "url": "https://www.heise.de/news/data2day-2023-Jetzt-noch-Vortraege-zur-Data-Science-Konferenz-einreichen-9009091.html",
-      "image_title": "data2day 2023: Vorträge zur zehnten Ausgabe der Data-Science-Konferenz gesucht"
-    },
-    {
-      "title": "FAQ: Fragen zu .NET beantwortet",
-      "teaser": "Viele Windows-Programme und -Apps laufen mit .NET. Doch was ist das eigentlich und welche Version braucht man? Wir klären die wichtigsten Fragen.",
-      "url": "https://www.heise.de/ratgeber/FAQ-Fragen-zu-NET-beantwortet-8983440.html",
-      "image_title": "Hand auf Smartphone, die durch Text scrollt."
-    },
-    {
-      "title": "Datenanalyse-Unternehmen Palantir wirft ein Auge auf Gesundheitswesen in Europa",
-      "teaser": "Palantir hat seit Längerem einen Blick auf den Gesundheitssektor geworfen – nicht nur in den USA, sondern auch in Europa. England macht den Anfang.",
-      "url": "https://www.heise.de/news/Datenanalyse-Unternehmen-Palantir-wirft-ein-Auge-auf-Gesundheitswesen-in-Europa-9010023.html",
-      "image_title": "Künstlerische Darstellung: Ein Auge einer jungen Frau wird ausgewertet, wie diverse Einblendungen zeigen"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
