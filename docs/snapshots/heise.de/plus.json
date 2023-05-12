@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-12T11:09:18",
+  "timestamp": "2023-05-12T12:21:08",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -57,6 +57,27 @@
       "title": "HintergrundKI in Europa: \"Wir werden immer noch als die Nerds angesehen\"",
       "teaser": "Kristian Kersting von der TU Darmstadt glaubt, dass Europa in Sachen KI noch aufholen kann. Aber die Politik nimmt das Thema nicht ernst genug.",
       "url": "https://www.heise.de/hintergrund/KI-in-Europa-Wir-werden-immer-noch-als-die-Nerds-angesehen-8987595.html"
+    },
+    {
+      "title": "Kubernet-Sicherheit: OpenShift und Rancher nach BSI-Anforderungen härten",
+      "teaser": "Im letzten Teil der Artikelreihe zur Kubernetes-Absicherung gemäß den Anforderungen des BSI IT-Grundschutzes treten OpenShift und Rancher gegeneinander an.",
+      "url": "https://www.heise.de/tests/Kubernet-Sicherheit-OpenShift-und-Rancher-nach-BSI-Anforderungen-haerten-9009530.html"
+    },
+    {
+      "title": "heise+ Update vom 12. Mai 2023: Lesetipps fürs Wochenende",
+      "teaser": "Der heise+ Newsletter diesmal mit KI, dem Ai-Act, Kurztests, Kommandozeilenbrowser und einem Rätsel.",
+      "url": "https://www.heise.de/news/heise-Update-vom-12-Mai-2023-Lesetipps-fuers-Wochenende-8994287.html"
+    },
+    {
+      "title": "Im Test: Raspberry Pi 4 als sparsamer Blade-Server",
+      "teaser": "Raspberry Pi Compute Modules als Bladeserver benötigen extrem wenig Energie. Doch muss auch das Verhältnis von Leistung und Leistungsaufnahme stimmen.",
+      "url": "https://www.heise.de/tests/Im-Test-Raspberry-Pi-4-als-sparsamer-Blade-Server-8988253.html"
+    },
+    {
+      "title": "13- und 14-Zoll-Notebooks mit aktuellen Core-i-Prozessoren im Test",
+      "teaser": "Aktuelle Oberklassenotebooks bieten Schmankerl wie Näherungssensoren, hochauflösende Webcams, OLED-Bildschirme, lange Laufzeiten und geringes Gewicht.",
+      "url": "https://www.heise.de/tests/13-und-14-Zoll-Notebooks-mit-aktuellen-Core-i-Prozessoren-im-Test-8990846.html",
+      "image_title": ","
     },
     {
       "title": "Ethik für Maschinen: Wie erziehe ich ChatGPT und andere KI?",
@@ -120,7 +141,22 @@
       "url": "https://www.heise.de/hintergrund/KI-in-Europa-Wir-werden-immer-noch-als-die-Nerds-angesehen-8987595.html"
     },
     {
-      "title": "Röhrenklang aus Transistoren: Class-A-Verstärker ohne Gegenkopplung",
+      "title": "Giropay: Konkurrenz für PayPal und Kreditkarten",
+      "url": "https://www.heise.de/hintergrund/Giropay-Konkurrenz-fuer-PayPal-und-Kreditkarten-7463075.html",
+      "image_title": ","
+    },
+    {
+      "title": "Sicher und datensparsam mit dem Smartphone bezahlen",
+      "url": "https://www.heise.de/ratgeber/Sicher-und-datensparsam-mit-dem-Smartphone-bezahlen-7454080.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "PayPal, Paydirekt, Kwitt: Bezahl-Apps im Vergleich",
+      "url": "https://www.heise.de/tests/PayPal-Paydirekt-Kwitt-Drei-Bezahl-Apps-im-Vergleich-7206715.html",
+      "image_title": ", Albert Hulm"
+    },
+    {
+      "title": "Röhrenklang aus Transistoren: Klassischer Musikbox-Klang dank Class-A-Verstärker",
       "teaser": "Unser nicht alltägliches Audio-Verstärker-Konzept mit stromgesteuerter Endstufe verzichtet auf eine Über-alles-Gegenkopplung und hohe Dämpfungsfaktoren.",
       "url": "https://www.heise.de/ratgeber/Roehrenklang-aus-Transistoren-Class-A-Verstaerker-ohne-Gegenkopplung-8982215.html"
     },
@@ -139,21 +175,6 @@
       "title": "Heiß und billig: Solarwärme zur Treibstoffherstellung",
       "teaser": "Die Firma Synhelion stellt Treibstoffe aus CO2 und Sonnenwärme her. Der Prozess ist günstiger und einfacher als der Weg über die Stromproduktion.",
       "url": "https://www.heise.de/hintergrund/Heiss-und-billig-Solarwaerme-zur-Treibstoffherstellung-8976890.html"
-    },
-    {
-      "title": "Giropay: Konkurrenz für PayPal und Kreditkarten",
-      "url": "https://www.heise.de/hintergrund/Giropay-Konkurrenz-fuer-PayPal-und-Kreditkarten-7463075.html",
-      "image_title": ","
-    },
-    {
-      "title": "Sicher und datensparsam mit dem Smartphone bezahlen",
-      "url": "https://www.heise.de/ratgeber/Sicher-und-datensparsam-mit-dem-Smartphone-bezahlen-7454080.html",
-      "image_title": ", Andreas Martini"
-    },
-    {
-      "title": "PayPal, Paydirekt, Kwitt: Bezahl-Apps im Vergleich",
-      "url": "https://www.heise.de/tests/PayPal-Paydirekt-Kwitt-Drei-Bezahl-Apps-im-Vergleich-7206715.html",
-      "image_title": ", Albert Hulm"
     },
     {
       "title": "Browsen im Terminal: Vier nerdige Kommandozeilenbrowser vorgestellt",
@@ -219,28 +240,6 @@
       "image_title": ","
     },
     {
-      "title": "Widerspruch erforderlich: KI-Training und die Folgen für das Urheberrecht",
-      "teaser": "KI-Bildgeneratoren werden mit Werken menschlicher Künstler trainiert. Fotografen können ihre eigenen Bilder davor schützen. Dies ist jedoch nicht so einfach.",
-      "url": "https://www.heise.de/ratgeber/Widerspruch-erforderlich-KI-Training-und-die-Folgen-fuer-das-Urheberrecht-8989588.html",
-      "image_title": "Aufmacherbild links: Ein von der Midjourney-KI errechnetes Bild. Die Eingabe (der sog. Prompt) lautete: \"street style photo of a young woman, walking through Tokyo in the rain, wearing a black dress, shot on Modern Polaroid Film --ar 16:9 --v 5\"., Joerg Heidrich / Midjourney"
-    },
-    {
-      "title": "Arbeit, Bildung, Kunst: Wie große KI-Modelle unsere Gesellschaft verändern",
-      "teaser": "Von ihren Schöpfern wird generative KI als technischer Durchbruch gefeiert, der \"alles\" verändert. Aber was heißt das genau?",
-      "url": "https://www.heise.de/hintergrund/Arbeit-Bildung-Kunst-Wie-grosse-KI-Modelle-unsere-Gesellschaft-veraendern-8987587.html",
-      "image_title": ", Illustration: Matthias Timm"
-    },
-    {
-      "title": "Diesel aus Klärschlamm: Warum das den Verbrenner nicht retten wird",
-      "teaser": "Das Fraunhofer-Institut betreibt seit 2017 ein Projekt zur Herstellung von Treibstoffen aus Klärschlamm. Lässt sich daraus ein Geschäftsmodell entwickeln?",
-      "url": "https://www.heise.de/hintergrund/Diesel-aus-Klaerschlamm-Warum-das-den-Verbrenner-nicht-retten-wird-7551566.html"
-    },
-    {
-      "title": "Video-Workshop Aktfotografie: Regeln für ein ansprechendes Bild",
-      "teaser": "In dieser Ausgabe zeigen wir Ihnen, wie Sie die Posing-Regeln zu einem gelungenen Bild zusammenführen.",
-      "url": "https://www.heise.de/hintergrund/Video-Workshop-Aktfotografie-Regeln-fuer-ein-ansprechendes-Bild-8988397.html"
-    },
-    {
       "title": "WireGuard-VPN: Wie Sie Fritzboxen und OpenWrt-Router miteinander verbinden",
       "teaser": "AVM rüstet derzeit immer mehr Fritzbox-Modelle mit dem WireGuard-VPN nach. Erstmals kann man so auch OpenWrt komplikationslos mit FritzOS verbinden – so gehts!",
       "url": "https://www.heise.de/ratgeber/WireGuard-VPN-Wie-Sie-Fritzboxen-und-OpenWrt-Router-miteinander-verbinden-7539304.html",
@@ -287,6 +286,11 @@
       "url": "https://www.heise.de/hintergrund/Wohltaetigkeit-Ueber-die-fragwuerdige-Agenda-des-Silicon-Valley-7397284.html"
     },
     {
+      "title": "13- und 14-Zoll-Notebooks mit aktuellen Core-i-Prozessoren im Test",
+      "url": "https://www.heise.de/tests/13-und-14-Zoll-Notebooks-mit-aktuellen-Core-i-Prozessoren-im-Test-8990846.html",
+      "image_title": ","
+    },
+    {
       "title": "Raumfahrt: NASA tüftelt an einem thermonuklearen Antrieb für Marsmissionen",
       "url": "https://www.heise.de/hintergrund/Raumfahrt-NASA-tueftelt-am-thermonuklearen-Antrieb-fuer-Marsmissionen-8987945.html",
       "image_title": "NASA"
@@ -295,11 +299,6 @@
       "title": "Ubuntu und Co. testen: Wie Sie interne Festplatten vor Linux verstecken",
       "url": "https://www.heise.de/ratgeber/Ubuntu-und-Co-testen-Wie-Sie-interne-Festplatten-vor-Linux-verstecken-8975049.html",
       "image_title": "!!!Zauberkunststück!!!,"
-    },
-    {
-      "title": "Corsair-RAM-Module mit 48 GByte Kapazität im Test",
-      "url": "https://www.heise.de/tests/Corsair-RAM-Module-mit-48-GByte-Kapazitaet-im-Test-8986768.html",
-      "image_title": ","
     },
     {
       "title": "Mac-Verkehrskontrolle: Mit diesen Apps blockieren Sie unerwünschten Datenverkehr",
