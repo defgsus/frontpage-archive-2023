@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-14T06:13:17",
+  "timestamp": "2023-05-14T07:10:23",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,12 +74,6 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.9b6b1c5f53863f1225ca.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -176,22 +170,28 @@
   ],
   "articles": [
     {
+      "title": "Besuch in Berlin : Steinmeier empfängt Selenskyj in Bellevue",
+      "url": "https://www.faz.net/aktuell/politik/inland/ukraine-krieg-steinmeier-empfaengt-selenskyj-in-bellevue-18892447.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wolodymyr Selenskyj, Präsident der Ukraine, wird am Sonntagmorgen von Bundespräsident Frank-Walter Steinmeier (rechts) vor dem Schloss Bellevue begrüßt."
+    },
+    {
+      "title": "Fragen und Antworten : Was Sie über die Wahl in Bremen wissen müssen",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-bremen/was-sie-ueber-die-wahl-in-bremen-wissen-muessen-18883770.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wahlplakate in Bremen: Die SPD liegt in Umfragen vor der CDU. Die rechten „Bürger in Wut“ plakatieren im linken Bremen nicht ebenerdig."
+    },
+    {
       "title": "Eurovision Song Contest : Schweden gewinnt ESC-Finale – Deutschland Letzter",
       "url": "https://www.faz.net/aktuell/feuilleton/pop/loreen-aus-schweden-gewinnt-finale-des-esc-in-liverpool-18892258/lord-of-the-lost-aus-18892242.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Loreen aus Schweden jubelt nach ihrem Sieg beim Finale des 67. Eurovision Song Contest."
     },
     {
-      "title": "Krieg in der Ukraine : Luftwaffe fliegt Selenskyj nach Berlin",
-      "url": "https://www.faz.net/aktuell/politik/ausland/selenskyj-ist-bereits-in-berlin-18892344.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wolodymyr Selenskyj, Präsident der Ukraine, besucht Deutschland."
-    },
-    {
-      "title": "Von Ägypten vermittelt : Waffenruhe zwischen Israel und Palästinensern hält vorerst",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israel-und-islamischer-dschihad-einigen-sich-auf-waffenruhe-18892183.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kinder in Gaza stehen am Samstag vor dem Esel ihrer Familie, der bei einer israelischen Bombardierung getötet wurde."
+      "title": "Verleger Holger Friedrich : Wer Informanten verrät",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/holger-friedrich-ist-ein-unwuerdiger-verleger-18890002.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Partner in Europa : Deutschland muss auf Frankreich zugehen",
@@ -248,10 +248,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Hinweisgeberschutz : Dieses Gesetz war überfällig",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/inland/kommentar-zum-hinweisgeberschutzgesetz-ueberfaelliges-gesetz-18889877.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "Vernünftig vererben : Tipps für Formalitäten rund ums Testament",
+      "url": "https://www.faz.net/aktuell/finanzen/tipps-fuer-formalitaeten-rund-ums-testament-18889795.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Formalitäten spielen für Testamente eine wichtige Rolle, denn der letzte Wille muss eindeutig formuliert sein."
     },
     {
       "title": "Steffi Lemke : Umweltministerin: Grüne hätten besser erklären müssen",
@@ -260,16 +260,62 @@
       "image_title": "Steffi Lemke ist Bundesumweltministerin."
     },
     {
+      "title": "Honorar in Gefahr : So schützen sich Architekten vor säumigen Kunden",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/wie-architekten-ihre-honorarforderungen-vor-saeumigen-kunden-schuetzen-18886902.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Viel Arbeit, hohes Risiko: Architekten müssen sich gegen den Ausfall ihrer Honorare schützen."
+    },
+    {
+      "title": "Lange Wartezeiten : Zu wenige Schuldnerberater bei mehr Privatinsolvenzen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/zu-wenige-schuldnerberater-bei-mehr-privatinsolvenzen-18892373.html"
+    },
+    {
+      "title": "Von Ägypten vermittelt : Waffenruhe zwischen Israel und Palästinensern hält vorerst",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-und-islamischer-dschihad-einigen-sich-auf-waffenruhe-18892183.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Kinder in Gaza stehen am Samstag vor dem Esel ihrer Familie, der bei einer israelischen Bombardierung getötet wurde."
+    },
+    {
+      "title": "Gegen Weltmeister Finnland : Zweite deutsche Niederlage bei Eishockey-WM",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/eishockey-wm-deutschland-verliert-gegen-finnland-3-4-18892213.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wieder keine Punkte für Deutschland: Kai Wissmann beim Spiel gegen Finnland"
+    },
+    {
+      "title": "Start-up „Lagerkarton“ : Pappkartons als Geschäftsmodell",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/start-up-lagerkarton-pappkartons-als-geschaeftsmodell-18878340.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sebastian Welp"
+    },
+    {
       "title": "Wahlen in der Türkei : 18 Stunden Fahrt zum Wahllokal",
       "url": "https://www.faz.net/aktuell/politik/ausland/wahlen-in-der-tuerkei-18-stunden-fahrt-zum-wahllokal-18892130.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ein Banner von Kemal Kilicdaroglu hängt vor den Wahlen in der Türkei in einer Straße in Ankara."
     },
     {
+      "title": "Wahl in der Türkei : Erdogan will Ergebnis auch im Fall einer Niederlage akzeptieren",
+      "url": "https://www.faz.net/aktuell/politik/ausland/wahl-in-der-tuerkei-erdogan-will-auch-niederlage-akzeptieren-18891401.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Recep Tayyip Erdogan am 24. März 2022 in Brüssel"
+    },
+    {
+      "title": "Deutschtürken : Nicht alle sind Erdogan-Fans",
+      "url": "https://www.faz.net/aktuell/politik/inland/wahl-in-der-tuerkei-nicht-alle-deutschtuerken-sind-erdogan-fans-18888917.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wahlwerbung in Istanbul"
+    },
+    {
       "title": "Dortmunder Sieg in Bundesliga : „Sind 2023 das beste Team in Deutschland“",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-in-bundesliga-dortmund-besiegt-borussia-moenchengladbach-5-2-18891457.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Gelbe Jubeltraube: die Profis des BVB beim Spiel gegen Borussia Mönchengladbach"
+    },
+    {
+      "title": "Grandioser Südwesten der USA : Die Perfektionierung Amerikas",
+      "url": "https://www.faz.net/aktuell/reise/vier-wunder-der-natur-und-kultur-in-arizona-18877853.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Das Urbild des Kaktus: So wie ein Saguaro aussieht, stellen sich die meisten Menschen einen stacheligen Wüstenbewohner idealtypisch vor. Und die schönsten Exemplare gibt es im gleichnamigen Nationalpark bei Tucson."
     },
     {
       "title": "Ukraine-Liveblog : Luftangriff auf Heimatstadt während ESC-Auftritt",
@@ -288,54 +334,6 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/storm-shadow-raketen-fuer-die-ukrainische-gegenoffensive-18889823.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Eine Storm-Shadow-Rakete wird für ein Flugzeug der Royal Air Force vorbereitet."
-    },
-    {
-      "title": "Gegen Weltmeister Finnland : Zweite deutsche Niederlage bei Eishockey-WM",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/eishockey-wm-deutschland-verliert-gegen-finnland-3-4-18892213.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wieder keine Punkte für Deutschland: Kai Wissmann beim Spiel gegen Finnland"
-    },
-    {
-      "title": "Europarat-Gipfel in Reykjavík : Signal an die Regierungen und an Kiew",
-      "url": "https://www.faz.net/aktuell/politik/ausland/warum-der-europarat-zum-ersten-mal-seit-2005-einen-gipfel-abhaelt-18889026.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sieht sich als Frühwarnsystem für demokratische Rückschritte: Die Parlamentarische Versammlung des Europarats in Straßburg"
-    },
-    {
-      "title": "Start-up „Lagerkarton“ : Pappkartons als Geschäftsmodell",
-      "url": "https://www.faz.net/aktuell/karriere-hochschule/start-up-lagerkarton-pappkartons-als-geschaeftsmodell-18878340.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sebastian Welp"
-    },
-    {
-      "title": "Wertvolle Sammlerstücke : Herr über 8000 Whiskyflaschen",
-      "url": "https://www.faz.net/aktuell/finanzen/thomas-krueger-herr-ueber-8000-whiskyflaschen-18871155.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mehr als 8000 Flaschen hat Thomas Krüger in seiner Sammlung. Der älteste Whisky stammt aus dem Jahr 1903."
-    },
-    {
-      "title": "Grandioser Südwesten der USA : Die Perfektionierung Amerikas",
-      "url": "https://www.faz.net/aktuell/reise/vier-wunder-der-natur-und-kultur-in-arizona-18877853.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das Urbild des Kaktus: So wie ein Saguaro aussieht, stellen sich die meisten Menschen einen stacheligen Wüstenbewohner idealtypisch vor. Und die schönsten Exemplare gibt es im gleichnamigen Nationalpark bei Tucson."
-    },
-    {
-      "title": "Sammlermuseum in Frankreich : Beseelte Kunstzeppeline",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/frederic-joussets-museum-in-zeppelinhalle-in-meudon-bei-paris-18883955.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Fusion: Alt und neu, private und öffentliche Hand treffen im Weltausstellungs-Zeppelinhangar „Y“ aufeinander."
-    },
-    {
-      "title": "6:0 gegen Schalke : FC Bayern gewinnt das Thomas-Müller-Spiel",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-gewinnt-in-fussball-bundesliga-gegen-fc-schalke-04-18891455.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Daumen hoch bei Thomas Müller: Die Bayern bleiben Erster der Bundesliga-Tabelle."
-    },
-    {
-      "title": "Bundesliga-Sieg gegen Mainz : Die Eintracht zeigt „ein anderes Gesicht“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-frankfurt-besiegt-mit-oliver-glasner-mainz-05-in-bundesliga-18891446.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der gesperrte Trainer Oliver Glasner musste aus einer Loge zuschauen."
     },
     {
       "title": "Nachtfahrverbot für Mähroboter : Der Igel stirbt leise",
@@ -460,6 +458,18 @@
       "url": "https://www.faz.net/aktuell/politik/inland/tilman-kuban-zum-muttertag-ein-fahrlaessiger-tweet-18889000.html"
     },
     {
+      "title": "6:0 gegen Schalke : FC Bayern gewinnt das Thomas-Müller-Spiel",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-gewinnt-in-fussball-bundesliga-gegen-fc-schalke-04-18891455.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Daumen hoch bei Thomas Müller: Die Bayern bleiben Erster der Bundesliga-Tabelle."
+    },
+    {
+      "title": "Bundesliga-Sieg gegen Mainz : Die Eintracht zeigt „ein anderes Gesicht“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/eintracht-frankfurt-besiegt-mit-oliver-glasner-mainz-05-in-bundesliga-18891446.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der gesperrte Trainer Oliver Glasner musste aus einer Loge zuschauen."
+    },
+    {
       "title": "Berliner Jubel in Bundesliga : Union nimmt Kurs auf die Champions League",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/union-berlin-besiegt-in-bundesliga-sc-freiburg-4-2-18891444.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -472,16 +482,10 @@
       "image_title": "Gruß an seine Partnerin: Manchesters Torschütze Alejandro Garnacho"
     },
     {
-      "title": "Torloses Remis : St. Pauli und Fortuna verspielen Aufstiegschance",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/torloses-remis-pauli-und-fortuna-verspielen-aufstiegschance-18840257.html",
+      "title": "Europarat-Gipfel in Reykjavík : Signal an die Regierungen und an Kiew",
+      "url": "https://www.faz.net/aktuell/politik/ausland/warum-der-europarat-zum-ersten-mal-seit-2005-einen-gipfel-abhaelt-18889026.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "FC St. Pauli - Fortuna Düsseldorf im Millerntor-Stadion."
-    },
-    {
-      "title": "Frauen-Bundesliga : MTV Stuttgart ist wieder deutscher Volleyball-Meister",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/volleyball-frauen-mtv-stuttgart-wieder-deutscher-meister-18892137.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Siegerfoto mit Medaillen und Trophäe: die Damen des MTV Stuttgart"
+      "image_title": "Sieht sich als Frühwarnsystem für demokratische Rückschritte: Die Parlamentarische Versammlung des Europarats in Straßburg"
     },
     {
       "title": "Vor der Wahl in Thailand : Ist es bald vorbei mit dem Cannabis-Boom?",
@@ -500,12 +504,6 @@
       "url": "https://www.faz.net/aktuell/politik/inland/bundeswehr-will-tiger-kampfhubschrauber-langfristig-ersetzen-18891932.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kampfhubschrauber vom Typ „Eurocopter Tiger“ bei einer Ausbildungs- und Lehrübung der Bundeswehr am 17. Oktober 2022 in Ostenholz"
-    },
-    {
-      "title": "Nach langen Debatten : Portugals Parlament stimmt für Legalisierung der Sterbehilfe",
-      "url": "https://www.faz.net/aktuell/politik/ausland/sterbehilfe-portugals-parlament-stimmt-fuer-legalisierung-18890623.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das portugiesische Parlament in Lissabon: Bisher war eine Legalisierung der Sterbehilfe an Bedenken des Staatspräsidenten und des Verfassungsgerichts gescheitert."
     },
     {
       "title": "Tarifkonflikt : Bundesweiter Streik bei der Bahn vorerst abgewendet",
@@ -550,6 +548,12 @@
       "image_title": "Linda Yaccarino, hier auf einem Panel, soll neue Twitter-Chefin werden."
     },
     {
+      "title": "Wertvolle Sammlerstücke : Herr über 8000 Whiskyflaschen",
+      "url": "https://www.faz.net/aktuell/finanzen/thomas-krueger-herr-ueber-8000-whiskyflaschen-18871155.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Mehr als 8000 Flaschen hat Thomas Krüger in seiner Sammlung. Der älteste Whisky stammt aus dem Jahr 1903."
+    },
+    {
       "title": "Auswertung für die F.A.Z. : Wie für die Erbschaftsteuer geplant werden kann",
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/wie-fuer-die-erbschaftsteuer-geplant-werden-kann-18890622.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -568,10 +572,10 @@
       "image_title": "Darren Julien hat 2004 das Auktionshaus Julien's Auctions gegründet."
     },
     {
-      "title": "Spaghetti & Co : Teure Pasta – machtlose italienische Regierung",
-      "url": "https://www.faz.net/aktuell/wirtschaft/italien-pasta-preise-steigen-staerker-als-durchschnittliches-preisniveau-18889233.html",
+      "title": "Sammlermuseum in Frankreich : Beseelte Kunstzeppeline",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/frederic-joussets-museum-in-zeppelinhalle-in-meudon-bei-paris-18883955.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Nudeln sind teurer geworden und das regt viele Italiener auf."
+      "image_title": "Fusion: Alt und neu, private und öffentliche Hand treffen im Weltausstellungs-Zeppelinhangar „Y“ aufeinander."
     },
     {
       "title": "Yasmin Sibais Romandebüt : Eine Überdosis Utopie",
@@ -590,12 +594,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/oezdemirs-nachhaltigkeitskonferenz-in-der-kolumne-stallgeruch-18887066.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Alltag im Schweinestall"
-    },
-    {
-      "title": "Anne Webers Ruhrfestspielrede : Das bist doch du!",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/autoren/anne-webers-rede-zur-eroeffnung-der-ruhrfestspiele-2023-18888705.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Schriftstellerin Anne Weber"
     },
     {
       "title": "Unternehmergespräch : Ständig unter Strom",
@@ -746,28 +744,28 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Sepulkralkultur : Adam Opels Mausoleum",
+      "url": "https://www.faz.net/aktuell/rhein-main/adam-opels-mausoleum-in-ruesselsheim-18881457.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Schlicht: Das Opel-Mausoleum auf dem alten Friedhof"
+    },
+    {
+      "title": "Erstliga-Aufstieg ist nah : Die letzte Hürde für Darmstadt 98",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/sv-darmstadt-98-will-bei-hannover-96-bundesliga-aufstieg-schaffen-18890036.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Hat gut lachen: Torsten Lieberknecht freut sich über die Perspektiven."
+    },
+    {
       "title": "Zwischen Gym und Haftzellen : Ein Wachtmeister, der kämpfen kann",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/zwischen-gym-und-haftzellen-ein-wachtmeister-der-kaempfen-kann-18835848.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Selten ein ruhiger Job: Kevin Botz und seine Kollegen müssen parat sein, wenn in den Haftzellen jemand ausrastet."
     },
     {
-      "title": "Romantiker in der Paulskirche : Ende der Knechtschaft",
-      "url": "https://www.faz.net/aktuell/rhein-main/kultur/jacob-grimm-und-ludwig-uhland-in-der-paulskirche-18884322.html",
+      "title": "Skyline-Blick : Rollerfahrer schwer verletzt +++ Frankfurter Forscherin führt Kinderschutzbund",
+      "url": "https://www.faz.net/aktuell/rhein-main/liveblog-fuer-rhein-main-rollerfahrer-schwer-verletzt-frankfurter-forscherin-fuehrt-kinderschutzbund-18339628.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Ein Volk von Freien“: Antrag zu den Grundrechten von Jacob Grimm"
-    },
-    {
-      "title": "Brief an die Bundesregierung : Warnung vor Pflegenotstand",
-      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/umwaelzende-reformen-angemahnt-18890430.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mangelwirtschaft: In der Pflege fehlt es an Geld und Personal."
-    },
-    {
-      "title": "Paulskirchenfeier 1998 : Wie Roman Herzog 1998 nach dem Mauerfall Zeichen setzte",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/paulskirche-und-mauerfall-roman-herzogs-zeichen-bei-feier-1998-18878987.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Feiern mit Flaggen: Bei der Gedenkfeier zu 150 Jahren Paulskirche zogen die geladenen Gäste durch ein Spalier bunter Fahnen in die Paulskirche ein."
+      "image_title": "Dunkle Wolken über der Frankfurter Banken-Skyline"
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Zertifikat: Mitarbeiterführung in dynamischen Zeiten",
@@ -812,6 +810,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Schlusslicht : Fusion unter Freunden",
+      "url": "https://www.faz.net/aktuell/technik-motor/fusion-unter-freunden-die-dena-schuetzt-uns-vor-technikutopien-18886697.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ringe verbinden: Die Trauzeugen-Affäre mischt die DENA auf."
+    },
+    {
       "title": "Infotainment Lexus NX 450h+ : Neue Größe im japanischen Schick",
       "url": "https://www.faz.net/aktuell/technik-motor/digital/infotainment-im-lexus-nx-450h-im-test-18875919.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -826,11 +830,6 @@
     {
       "title": "Der F.A.Z.-Autoticker : Fahrtenschreiber",
       "url": "https://www.faz.net/aktuell/technik-motor/auto-liveticker-tesla-haengt-vw-in-deutschland-ab-faz-18137164.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Fünf am Freitag : Live in Saug und Braus",
-      "url": "https://www.faz.net/aktuell/technik-motor/fuenf-am-freitag-live-in-saug-und-braus-18888312.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
