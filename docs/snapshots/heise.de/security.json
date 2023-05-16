@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-16T09:11:13",
+  "timestamp": "2023-05-16T10:11:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "vm2",
+      "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-PoC-zeigt-neuen-Sandbox-Ausbruch-9056842.html"
+    },
+    {
       "title": "Tenable Nessus Network Monitor",
       "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerke-ueber-Luecken-in-Nessus-Network-Monitor-attackieren-9050347.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Millionen-Webseiten-betroffen-Kritische-Luecke-in-populaerem-Wordpress-Plug-in-9032312.html"
     },
     {
-      "title": "Prestashop",
-      "url": "https://www.heise.de/news/Shopsystem-Kritische-Sicherheitsluecke-in-Prestashop-wird-angegriffen-9010286.html"
+      "title": "JavaScript-Sandbox vm2: PoC zeigt neuen Sandbox-Ausbruch",
+      "teaser": "Eine kritische Lücke in der JavaScript-Sandbox vm2 können Angreifer zum Ausbruch missbrauchen. Aktualisierte Software steht bereit, die die Lücken schließt.",
+      "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-PoC-zeigt-neuen-Sandbox-Ausbruch-9056842.html"
     },
     {
       "title": "Basler Schulnetz gehackt, Schülerdaten im Darknet",
@@ -144,11 +149,6 @@
       "title": "German OWASP Day: So erschleichen sich Apps die Daten ihrer verwirrten Nutzer",
       "teaser": "Der deutsche OWASP-Tag ist Ende Mai zu Gast in Frankfurt am Main. Unter anderem erwartet die Teilnehmenden eine großangelegte Analyse zum Datenschutz in Apps.",
       "url": "https://www.heise.de/news/German-OWASP-Day-So-stibitzen-Apps-ihren-verwirrten-Nutzern-die-Daten-9009700.html"
-    },
-    {
-      "title": "IT-Sicherheitsunternehmen Dragos wehrt Cyber-Erpresser ab",
-      "teaser": "Cyberkriminelle haben versucht, beim IT-Sicherheitsunternehmen Dragos einzubrechen und es um Lösegeld zu erpressen. Das Unternehmen hat die Attacke abgewehrt.",
-      "url": "https://www.heise.de/news/IT-Sicherheitsunternehmen-Dragos-wehrt-Cyber-Erpresser-ab-9009644.html"
     },
     {
       "title": "heise Security Tour 2023",
