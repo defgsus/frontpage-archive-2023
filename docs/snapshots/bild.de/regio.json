@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-05-17T06:14:06",
+  "timestamp": "2023-05-17T07:10:35",
   "url": "https://www.bild.de/regional/startseite/regional/regio-15799990.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,46 +19,369 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,22538510.6.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
-      "src": "https://backoffice.transmatico.com/get?token=av38kknfw4w7vapnu6kkmjh43xgtr95t&domain=sonderthemen.bild.de&service=inwidget&block-index=M&schema=wide-bar&block-name=CONTENT&scriptid=trm-teaserbox-aASwv34hTcbne",
-      "id": "trm-teaserbox-aASwv34hTcbne",
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.93b59bc2.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.1ea4fb9b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.de07b31b.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.1bf68377.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.9b131b90.js",
+      "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Ex wegen Mord-Verdachts in U-Haft: Daria (30) mit heißem Speiseöl überschüttet!",
+      "url": "https://www.bild.de/bild-plus/regional/nuernberg/nuernberg-news/mord-verdacht-mann-32-ueberschuettet-ex-mit-heissem-oel-83952840.bild.html",
+      "image_title": "Bayern: Daria (30) mit heißem Speiseöl angegriffen, Ex in U-Haft!"
+    },
+    {
+      "title": "Deutsche City ist Sex-Hauptstadt: Willkommen am geilsten Ort der Welt",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/sex-hauptstadt-der-welt-liegt-in-deutschland-koeln-loest-new-york-ab-83945774.bild.html",
+      "image_title": "Sex-Hauptstadt der Welt liegt in Deutschland – und löst New York ab"
+    },
+    {
+      "title": "Baum-Besetzer-Camp in der Wuhlheide: Polizei räumt Klima-Extremisten",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/klima-extremisten-polizei-raeumt-baum-besetzer-camp-in-der-wuhlheide-83958392.bild.html",
+      "image_title": "Klima-Extremisten: Polizei räumt Baum-Besetzer-Camp in der Wuhlheide"
+    },
+    {
+      "title": "Erster Ministerpräsident sagt: Letzte Generation eine „kriminelle Vereinigung“",
+      "teaser": "Woidke lobt die gerichtliche Einstufung der Letzten Generation als kriminelle Vereinigung.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/dietmar-woidke-letzte-generation-eine-kriminelle-vereinigung-83958718.bild.html",
+      "image_title": "Dietmar Woidke: Letzte Generation eine „kriminelle Vereinigung“"
+    },
+    {
+      "title": "Weiden vor dem Reichstag: Platz der ReKUHblik",
+      "teaser": "Was ist denn hier los? Auf der Wiese vor dem Reichstag grasen elf Rinder.",
+      "url": "https://www.bild.de/regional/berlin/berlin-aktuell/tierische-aktion-in-berlin-darum-grasen-heute-kuehe-vor-dem-reichstag-83951698.bild.html",
+      "image_title": "Berlin: Greenpeace-Aktion mit 11 Kühen vor dem Reichstag"
+    },
+    {
+      "title": "Spring-Derby statt Stuten: Die Liebe muss warten!",
+      "url": "https://www.bild.de/sport/mehr-sport/mehrsport/reiten-liebe-verboten-andr-thieme-holt-deck-hengst-contadur-fuers-derby-zurueck-83955846.bild.html",
+      "image_title": "Reiten: Liebe verboten! André Thieme holt Deck-Hengst Contadur fürs Derby zurück"
+    },
+    {
+      "title": "Maike Schaefer: Pannen-Bilanz der Grünen-Senatorin",
+      "teaser": "Was 2019 hoffnungsvoll begann, wurde zum Debakel. Für Schaefer und die Grünen.",
+      "url": "https://www.bild.de/regional/bremen/bremen-aktuell/wahl-klatsche-in-bremen-pannen-bilanz-der-gruenen-senatorin-83949100.bild.html",
+      "image_title": "Wahl-Klatsche in Bremen: Pannen-Bilanz der Grünen-Senatorin"
+    },
+    {
+      "title": "Kriminalität in Niedersachsen: 152 Taten von Klima-Klebern und anderen Chaoten",
+      "teaser": "In Niedersachsen gibt es neue Zahlen zu den Aktionen von Klima-Aktivisten.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/klima-kleber-und-andere-chaoten-so-viele-straftaten-in-niedersachsen-83951220.bild.html",
+      "image_title": "Klima-Kleber und andere Chaoten: So viele Straftaten in Niedersachsen"
+    },
+    {
+      "title": "Die Lieblingsschwester mit den langen Fingern: Pflegerin beklaut blinde Frau - darf weiter arbeiten",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/prozess-in-zwickau-pflegerin-beklaut-blinde-frau-83958478.bild.html",
+      "image_title": "Prozess in Zwickau: Pflegerin beklaut blinde Frau"
+    },
+    {
+      "title": "Gas und Bremse verwechselt: Rentner (85) brettert durch zwei Gärten",
+      "teaser": "Ein Rentner wollte wenden, fuhr stattdessen aber durch die Gärten seiner Nachbarn.",
+      "url": "https://www.bild.de/regional/chemnitz/chemnitz-news/unfall-im-vogtland-rentner-85-brettert-durch-zwei-gaerten-83946722.bild.html",
+      "image_title": "Unfall im Vogtland: Rentner (85) brettert durch zwei Gärten"
+    },
+    {
+      "title": "Haftverschonung: Hier spazieren die Remmos in Freiheit",
+      "teaser": "Um 11.58 Uhr war es so weit: Der erste Remmo-Gangster ist wieder frei.",
+      "url": "https://www.bild.de/regional/dresden/dresden-regional-politik-und-wirtschaft/urteile-im-clan-prozess-hier-spazieren-die-remmos-in-freiheit-83949846.bild.html",
+      "image_title": "Urteile im Clan-Prozess: Hier spazieren die Remmos in Freiheit"
+    },
+    {
+      "title": "Dynamo-Spielmacher Hauptmann: Darum hat er keinen Bock auf Bruder-Duell",
+      "url": "https://www.bild.de/sport/fussball/fussball/dynamo-dresden-darum-hat-hauptmann-keinen-bock-auf-bruder-duell-83958436.bild.html",
+      "image_title": "Dynamo Dresden: Darum hat Hauptmann keinen Bock auf Bruder-Duell"
+    },
+    {
+      "title": "Die Spur führt nach Dresden: Wird ER Sportchef bei Hansa Rostock?",
+      "teaser": "Vor fünf Wochen feuerte Rostock Manager Pieckenhagen. Der Neue scheint jetzt festzustehen.",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/hansa-rostock/neuer-rostock-manager-wird-er-der-pieckenhagen-nachfolger-83955526.bild.html",
+      "image_title": "Die Spur führt nach Dresden: Wird ER Sportchef bei Hansa Rostock?"
+    },
+    {
+      "title": "Neuer Prozess um Gewölbe-Diamanten: Betrüger kassierte 40 000 Euro für „Rückholaktion“",
+      "teaser": "Kurz nachdem das Urteil gegen die Remmos fiel, begann ein weiterer Prozess um den Juwelenraub im Grünen Gewölbe.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/prozess-um-gruenes-gewoelbe-diamanten-betrueger-wollte-geld-fuer-angebliche-ruec-83954438.bild.html",
+      "image_title": "Prozess um Grünes-Gewölbe-Diamanten: Betrüger wollte Geld für angebliche Rückholung"
+    },
+    {
+      "title": "Nächste Bensebaini-Sperre: Neue Chance für Netz",
+      "url": "https://www.bild.de/sport/fussball/borussia-moenchengladbach/borussia-moenchengladbach-algerier-gesperrt-neue-chance-fuer-luca-netz-83955078.bild.html",
+      "image_title": "Borussia Mönchengladbach: Algerier gesperrt - Neue Chance für Luca Netz"
+    },
+    {
+      "title": "150 000 Euro Entschädigung: Düsseldorf kassiert beim Beyer-Transfer mit",
+      "teaser": "Mit dem Geld hatten sie bei Fortuna Düsseldorf nicht unbedingt gerechnet! Der Ex-Gladbach Jordan Beyer ist der Auslöser.",
+      "url": "https://www.bild.de/sport/fussball/fortuna-duesseldorf/fortuna-duesseldorf-duesseldorf-kassiert-beim-beyer-transfer-mit-83954454.bild.html",
+      "image_title": "Fortuna Düsseldorf: Düsseldorf kassiert beim Beyer-Transfer mit"
+    },
+    {
+      "title": "Körperverletzung! Polizei! Anzeige! : Ex-Fußballprofi rastet bei D-Jugend-Spiel aus",
+      "teaser": "Er ist immer noch heiß. Und nicht selten viel zu heiß wie einst als Profi!: Olivier Caillas (45)!",
+      "url": "https://www.bild.de/sport/fussball/fortuna-duesseldorf/fortuna-duesseldorf-skandal-um-ex-profi-olivier-caillas-83949880.bild.html",
+      "image_title": "Fortuna Düsseldorf: Ex-Düsseldorf-Profi rastet bei D-Jugend-Spiel aus"
+    },
+    {
+      "title": "Leyla Lahouar aus Kuppelshow: Neue Nase nach dem Bachelor",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-leute/leyla-lahouar-aus-kuppelshow-neue-nase-nach-bachelor-sendung-83951048.bild.html",
+      "image_title": "Leyla Lahouar aus Kuppelshow: Neue Nase nach Bachelor-Sendung"
+    },
+    {
+      "title": "Nach Tränen in Kita: Gemeinde schaltet sich bei Geschenk-Verbot ein",
+      "teaser": "Wird das Geschenke-Verbot an der Kita in Gaiberg jetzt doch noch verhindert?",
+      "url": "https://www.bild.de/regional/frankfurt/frankfurt-aktuell/traenen-in-kita-buergermeisterin-schaltet-sich-bei-geschenk-verbot-ein-83949566.bild.html",
+      "image_title": "Tränen in Kita: Bürgermeisterin schaltet sich bei Geschenk-Verbot ein"
+    },
+    {
+      "title": "Glücksrad-Moderatorin: Sonya Kraus gibt ihren Perücken Promi-Namen",
+      "teaser": "Wenn man Sonya Kraus eine Perücke gibt, dann macht sie einen Star daraus.",
+      "url": "https://www.bild.de/regional/frankfurt/gluecksrad-moderatorin-sonya-kraus-gibt-ihren-peruecken-promi-namen-83954852.bild.html",
+      "image_title": "Glücksrad-Moderatorin: Sonya Kraus gibt ihren Perücken Promi-Namen"
+    },
+    {
+      "title": "Linh (27) ist an den Stangen die Beste der Welt: Job gekündigt, ich KICKER nur noch",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hamburgerin-ist-die-beste-der-welt-job-gekuendigt-ich-kicker-nur-noch-83945794.bild.html",
+      "image_title": "Hamburgerin ist die Beste der Welt: Job gekündigt, ich KICKER nur noch"
+    },
+    {
+      "title": "Stammzellenspender gefunden!: Hoffnung für todkranke Mara Sophie (7)",
+      "teaser": "Ihr Vater: „Ich bin hundertprozentig davon überzeugt, dass das alles gut ausgehen wird.“",
+      "url": "https://www.bild.de/regional/hamburg/hamburg-aktuell/hoffnung-fuer-todkranke-mara-sophie-7-stammzellenspender-gefunden-83949560.bild.html",
+      "image_title": "Hoffnung für todkranke Mara Sophie (7): Stammzellenspender gefunden!"
+    },
+    {
+      "title": "Wirt verprügelt, Nachbarn angebrüllt: Ganze Siedlung in Angst vor diesem Kapuzen-Schläger",
+      "teaser": "Ein Mann terrorisiert in Lübeck eine gesamte Siedlung. Jetzt eskalierte die Gewalt.",
+      "url": "https://www.bild.de/bild-plus/regional/hamburg/hamburg-aktuell/taeglich-kommt-die-polizei-ganze-siedlung-in-angst-vor-kapuzen-schlaeger-83875154.bild.html",
+      "image_title": "Kapuzen-Schläger terrorisiert Nachbarschaft: Täglich kommt die Polizei"
+    },
+    {
+      "title": "Ein Verletzter in Hannover: Schüsse vor Asylbewerberheim",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/ein-verletzter-in-hannover-schuesse-vor-asylbewerberheim-83958966.bild.html",
+      "image_title": "Ein Verletzter in Hannover: Schüsse vor Asylbewerberheim"
+    },
+    {
+      "title": "Noch kein Hit, wenig Hoffnung: Collins-Sohn vorm Aus bei Hannover 96",
+      "teaser": "Seit August spielt Mathew (18), der Sohn von Rock-Legende Phil Collins, bei Hannover 96.",
+      "url": "https://www.bild.de/sport/fussball/hannover-96/hannover-96-noch-kein-hit-wenig-hoffnung-collins-sohn-vorm-aus-bei-96-83948834.bild.html",
+      "image_title": "Hannover 96: Noch kein Hit, wenig Hoffnung: Collins-Sohn vorm Aus bei 96"
+    },
+    {
+      "title": "55 Jahre nach Stilllegung in Linden: Neues Leben für Altes Stahlwerk",
+      "teaser": "Hannover – Die Aurelis Real Estate GmbH entwickelt den Unternehmerpark „Altes Stahlwerk“.",
+      "url": "https://www.bild.de/regional/hannover/hannover-aktuell/55-jahre-nach-stilllegung-in-hannover-neues-leben-fuer-altes-stahlwerk-83951056.bild.html",
+      "image_title": "55 Jahre nach Stilllegung in Hannover: Neues Leben für Altes Stahlwerk"
+    },
+    {
+      "title": "Erfolgsgeschichte aus Köln: So wurde ich vom Rosenverkäufer zum Millionär",
+      "url": "https://www.bild.de/regional/koeln/koeln-so-wurde-bobby-vom-rosenverkaeufer-zum-millionaer-83946504.bild.html",
+      "image_title": "Köln: So wurde Bobby vom Rosenverkäufer zum Millionär"
+    },
+    {
+      "title": "Drei schwere Zukunfts-Entscheidungen: Das sind Baumgarts Sommer-Probleme in Köln",
+      "teaser": "Köln kann die nächste Bundesliga-Saison planen. Und da warten vor allem drei Probleme.",
+      "url": "https://www.bild.de/sport/fussball/1-fc-koeln/1-fc-koeln-3-zukunfts-entscheidungen-das-sind-baumgarts-sommer-probleme-83949480.bild.html",
+      "image_title": "1. FC Köln: 3 Zukunfts-Entscheidungen: Das sind Baumgarts Sommer-Probleme"
+    },
+    {
+      "title": "Anklage erhoben!: Vater soll Baby totgeschüttelt haben",
+      "teaser": "Die kleine Amira starb mit sechs Wochen. Nun wurde Anklage gegen den Vater erhoben.",
+      "url": "https://www.bild.de/regional/koeln/koeln-aktuell/koeln-amira-wurde-nur-sechs-wochen-alt-anklage-gegen-vater-erhoben-83947730.bild.html",
+      "image_title": "Köln: Amira wurde nur sechs Wochen alt – Anklage gegen Vater erhoben"
+    },
+    {
+      "title": "Stammtisch-Jury urteilt zum Männertag: Wie gut ist das Bier von hier?",
+      "url": "https://www.bild.de/bild-plus/regional/leipzig/leipzig-news/bier-test-zum-maennertag-ein-leipziger-stammtisch-urteilt-83951740.bild.html",
+      "image_title": "Bier-Test zum Männertag: Ein Leipziger Stammtisch urteilt"
+    },
+    {
+      "title": "Mächtig gewaltig, Mille Maria Dalsgaard: So macht Olsenbanden-Nichte in Halle Theater",
+      "teaser": "Die Nichte von Benny-Darsteller Morten Grunwald († 83) ist die neue Intendantin in Halle.",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/olsenbanden-nichte-mille-maria-dalsgaard-in-halle-macht-theater-83952772.bild.html",
+      "image_title": "Olsenbanden-Nichte Mille Maria Dalsgaard in Halle macht Theater"
+    },
+    {
+      "title": "DDR-Urgestein Klaus Feldmann: Nachrichtensprecher der „Aktuellen Kamera“ gestorben",
+      "teaser": "Klaus Feldmann ist am 15. Mai im Alter von 87 Jahren gestorben.",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/ddr-tv-liebling-klaus-feldmann-sprecher-der-aktuellen-kamera-gestorben-83953700.bild.html",
+      "image_title": "DDR-Urgestein Klaus Feldmann: Nachrichtensprecher der „Aktuellen Kamera“ gestorben"
+    },
+    {
+      "title": "Sex mit Trauernden, Geld abgezockt: Bestatter muss 3 Jahre und 10 Monate in Haft",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/prozess-ist-dieser-bestatter-ein-liebes-betrueger-83766532.bild.html",
+      "image_title": "Prozess: Bestatter als Liebes-Betrüger verurteilt"
+    },
+    {
+      "title": "Mord-Prozess gegen den Vater (50): Sohn (2) erstickt und dann im Wald verscharrt",
+      "teaser": "In Schwerin muss sich seit Dienstag ein Familienvater wegen Mordes verantworten.",
+      "url": "https://www.bild.de/regional/mecklenburg-vorpommern/mecklenburg-vorpommern-news/prozess-gegen-vater-sohn-2-erstickt-und-verscharrt-83950298.bild.html",
+      "image_title": "Prozess gegen Vater: Sohn (2) erstickt und verscharrt"
+    },
+    {
+      "title": "Kronjuwelen-Diebstahl aus Grünem Gewölbe: Justiz-Deal! Dürfen die Remmos gleich nach Hause?",
+      "teaser": "Showdown! Heute endet der Clan-Prozess des Jahres. Sechs Remmos erhalten ihr Urteil.",
+      "url": "https://www.bild.de/regional/dresden/dresden-aktuell/urteil-nach-einbruch-in-gruenes-gewoelbe-duerfen-die-remmos-gleich-nach-hause-83940644.bild.html",
+      "image_title": "Urteil nach Einbruch in Grünes Gewölbe: Dürfen die Remmos gleich nach Hause?"
+    },
+    {
+      "title": "Bayern-Fans gegen 1860-Anhänger: So begann die Fußball-Schlacht",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/bayern-fans-gegen-1860-anhaenger-so-begann-die-fussball-schlacht-83958534.bild.html",
+      "image_title": "Bayern-Fans gegen 1860-Anhänger: So begann die Fußball-Schlacht"
+    },
+    {
+      "title": "Tierischer Einsatz: Feuerwehr rettet Schwanenküken",
+      "teaser": "Süße Hilfsaktion der Feuerwehr, sie rettete vier junge Vögel.",
+      "url": "https://www.bild.de/regional/nuernberg/nuernberg-news/einsatz-in-bamberg-feuerwehr-rettet-schwanenkueken-83945614.bild.html",
+      "image_title": "Einsatz in Bamberg: Feuerwehr rettet Schwanenküken"
+    },
+    {
+      "title": "Michael Zechbauer zeigt neue Kollektion: Hutparty mit Sommergefühl",
+      "teaser": "München – Sommer in der Stadt, zumindest gefühlt, für Augen und Seele!",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-leute/muenchen-michael-zechbauer-zeigt-neue-hut-kollektion-83958530.bild.html",
+      "image_title": "München: Michael Zechbauer zeigt neue Hut-Kollektion"
+    },
+    {
+      "title": "In Trudering: Markus Söder zieht im Festzelt in den Wahlkampf",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/in-trudering-markus-soeder-zieht-im-festzelt-in-den-wahlkampf-83957972.bild.html",
+      "image_title": "In Trudering: Markus Söder zieht im Festzelt in den Wahlkampf"
+    },
+    {
+      "title": "Nürnbergs Super-Talent Uzun: Wird er jetzt zur Geheimwaffe?",
+      "teaser": "Vielleicht macht er dem Nürnberger Sturm endlich Beine. Beim 2:2 in...",
+      "url": "https://www.bild.de/sport/fussball/1-fc-nuernberg/fcn-nuernbergs-super-talent-can-uzun-wird-er-jetzt-zur-geimwaffe-83953482.bild.html",
+      "image_title": "FCN: Nürnbergs Super-Talent Can Uzun: Wird er jetzt zur Geimwaffe?"
+    },
+    {
+      "title": "Daniela Rodler ist Münchens Badenixe: Meerjungfrau taucht im Haifischbecken",
+      "teaser": "Daniela Rodler ist Münchens einzige professionelle Nixe.",
+      "url": "https://www.bild.de/regional/muenchen/muenchen-aktuell/nixe-daniela-rodler-meerjungfrau-im-sea-life-haifischbecken-in-muenchen-83935708.bild.html",
+      "image_title": "Meerjungfrau taucht im Haifischbecken: Daniela Rodler ist eine Badenixe"
+    },
+    {
+      "title": "Er soll seine Töchter (5, 8) und Partnerin getötet haben: Polizei ortete flüchtigen Vater über sein Handy",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/zwei-vater-soll-seine-familie-getoetet-haben-83958992.bild.html",
+      "image_title": "Herten (NRW): Vater soll seine Töchter und Kindsmutter getötet haben"
+    },
+    {
+      "title": "Polizei veröffentlicht Fotos : ER ist das Opfer der Tiefgaragen-Hinrichtung",
+      "teaser": "Christian Alfred Nolte starb im Kugelhagel. Die Polizei steht vor einem Rätsel.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/wer-erschoss-den-sportschuetzen-in-bochum-das-ist-das-tiefgaragen-opfer-83952746.bild.html",
+      "image_title": "Polizei veröffentlicht Fotos: ER ist das Opfer der Tiefgaragen-Hinrichtung"
+    },
+    {
+      "title": "Am Morgen lag Damian reglos im Bett: Vater (42) stirbt am Geburtstag seiner Tochter (4)",
+      "teaser": "Es sollte ein glücklicher Tag werden. Doch er begann mit einer furchtbaren Tragödie.",
+      "url": "https://www.bild.de/regional/ruhrgebiet/ruhrgebiet-aktuell/herdecke-vater-42-stirbt-am-geburtstag-seiner-tochter-4-83944678.bild.html",
+      "image_title": "Tragödie in glücklicher Familie: Vater stirbt am Geburtstag seiner Tochter"
+    },
+    {
+      "title": "Schock-Video: Rätsel um aufgespießtes Tier geklärt",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/neunkirchen-schock-video-raetsel-um-aufgespiesstes-tier-geklaert-83958732.bild.html",
+      "image_title": "Neunkirchen – Schock-Video: Rätsel um aufgespießtes Tier geklärt"
+    },
+    {
+      "title": "Kumpel (17) umgebracht?: Mutmaßlicher Todesschütze (18) in U-Haft",
+      "teaser": "Das Drama soll sich im Keller eines Wohnhauses ereignet haben. Ein Zeuge rief die Polizei.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/mutmasslicher-todesschuetze-18-aus-schiffweiler-in-u-haft-83953968.bild.html",
+      "image_title": "Mutmaßlicher Todesschütze (18) aus Schiffweiler in U-Haft"
+    },
+    {
+      "title": "61 Tiere beim Friseur: Frische Frise für die Alpakas",
+      "teaser": "Auf der Alpaka-Farm war wieder großes Scheren angesagt: 61 Tiere mussten zum Friseur.",
+      "url": "https://www.bild.de/regional/saarland/saarland-news/saarbruecken-61-tiere-beim-friseur-frische-frise-fuer-die-alpakas-83949952.bild.html",
+      "image_title": "Saarbrücken: 61 Tiere beim Friseur: Frische Frise für die Alpakas"
+    },
+    {
+      "title": "Hallescher FC: Mit Wut ins Pokal-Halbfinale",
+      "url": "https://www.bild.de/sport/fussball/fussball/mitten-im-abstiegskampf-hallescher-fc-mit-wut-ins-pokal-halbfinale-83954292.bild.html",
+      "image_title": "Mitten im Abstiegskampf: Hallescher FC mit Wut ins Pokal-Halbfinale"
+    },
+    {
+      "title": "Produktion soll 2026 starten: Flugzeug „made in Leipzig“",
+      "teaser": "Nach Porsche und BMW gibt es künftig auch ein Flugzeug „made in Leipzig“",
+      "url": "https://www.bild.de/regional/leipzig/leipzig-news/flughafen-leipzig-halle-kuenftig-werden-dort-auch-flugzeuge-gebaut-83952388.bild.html",
+      "image_title": "Flughafen Leipzig/Halle: Künftig werden dort auch Flugzeuge gebaut"
+    },
+    {
+      "title": "Keine Platte mehr um Nebenkosten: Wohnen mit Energie-Flatrate",
+      "teaser": "Steigende Strom- oder Heizungs-Hammer: Für die Mieter des Wohnblocks kein Problem mehr",
+      "url": "https://www.bild.de/regional/sachsen-anhalt/sachsen-anhalt-news/energiesparend-wohnen-diese-mieter-haben-keine-sorgen-um-nebenkosten-83940262.bild.html",
+      "image_title": "Energiesparend Wohnen: Diese Mieter haben keine Sorgen um Nebenkosten"
+    },
+    {
+      "title": "Täter flüchtig: Geldautomat mitten in der Nacht gesprengt",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/taeter-fluechtig-geldautomat-mitten-in-der-nacht-gesprengt-83958800.bild.html",
+      "image_title": "Täter flüchtig: Geldautomat mitten in der Nacht gesprengt"
+    },
+    {
+      "title": "Er stürzte: Männer reanimieren Radfahrer",
+      "teaser": "Zwei Männer haben einen gestürzten Radfahrer reanimiert.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/weil-am-rhein-maenner-reanimieren-gestuerzten-radfahrer-83951184.bild.html",
+      "image_title": "Weil am Rhein: Männer reanimieren gestürzten Radfahrer"
+    },
+    {
+      "title": "Parteien uneins über Volksbegehren: Reizthema Gendern!",
+      "teaser": "Die CDU im Landtag geht beim Reizthema auf Konfrontation mit den Grünen: das Gendern.",
+      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/gendern-in-baden-wuerttemberg-parteien-streiten-wegen-volksbegehren-83952042.bild.html",
+      "image_title": "Gendern in Baden-Württemberg: Parteien streiten wegen Volksbegehren"
+    },
+    {
+      "title": "Nicht zu glauben!: Das Geheimnis hinter Jenas zerfetzten Stutzen",
+      "url": "https://www.bild.de/bild-plus/sport/fussball/fussball/fc-carl-zeiss-jena-das-geheimnis-hinter-den-zerfetzten-stutzen-83955160.bild.html",
+      "image_title": "FC Carl Zeiss Jena: Das Geheimnis hinter den zerfetzten Stutzen"
+    },
+    {
+      "title": "10 Euro Pfand für einen Bierkasten?: Brauereichef in der Pfand-Falle",
+      "teaser": "In den Brauereien gärt es gewaltig: Problem ist nicht der Gerstensaft, sondern das Pfand!",
+      "url": "https://www.bild.de/regional/thueringen/thueringen-aktuell/bier-brauereichef-in-der-pfand-falle-83953434.bild.html",
+      "image_title": "Bier: Brauereichef in der Pfand-Falle"
+    },
+    {
+      "title": "Rat von Legende Hans Meyer: Carl Zeiss Jena soll für Aufstieg Lotto spielen",
+      "teaser": "Meister, Pokalsieger, EC-Finalist. Auch dank Hans Meyer, der jetzt in Jena geehrt wurde.",
+      "url": "https://www.bild.de/sport/fussball/fussball/hans-meyer-raet-carl-zeiss-jena-soll-fuer-den-aufstieg-lotto-spielen-83954942.bild.html",
+      "image_title": "Hans Meyer rät: Carl Zeiss Jena soll für den Aufstieg Lotto spielen"
+    }
+  ]
 }

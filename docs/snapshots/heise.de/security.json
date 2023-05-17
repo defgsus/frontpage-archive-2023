@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-17T06:14:05",
+  "timestamp": "2023-05-17T07:10:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-dichtet-kritische-Sicherheitsluecke-ab-9057932.html"
+    },
+    {
       "title": "vm2",
       "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-PoC-zeigt-neuen-Sandbox-Ausbruch-9056842.html"
     },
@@ -44,18 +48,20 @@
       "url": "https://www.heise.de/news/Synology-VPN-Plus-Server-aufgrund-von-Schwachstelle-angreifbar-9032394.html"
     },
     {
-      "title": "Essential Addons for Elementor",
-      "url": "https://www.heise.de/news/Millionen-Webseiten-betroffen-Kritische-Luecke-in-populaerem-Wordpress-Plug-in-9032312.html"
+      "title": "Webbrowser: Google Chrome-Update dichtet kritische Sicherheitslücke ab",
+      "teaser": "Google hat ein Update für den Chrome-Webbrowser herausgegeben. Es schließt mindestens eine kritische Sicherheitslücke. Angreifer könnten Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-dichtet-kritische-Sicherheitsluecke-ab-9057932.html"
+    },
+    {
+      "title": "App Store: Apple legt Zahlen zur Betrugsabwehr im Jahr 2022 vor",
+      "teaser": "Der App Store ist ein Milliardenmarkt – für Apple und Entwickler, die dort Apps verkaufen. Das versuchen sich auch Betrüger zunutze zu machen.",
+      "url": "https://www.heise.de/news/App-Store-Apple-legt-Zahlen-zur-Betrugsabwehr-im-Jahr-2022-vor-9057805.html",
+      "image_title": "Sankt-petersburg,,Russia,,April,27,,2018:,Apple,Store,Application,Icon,On"
     },
     {
       "title": "Windows 11: Ein Vorgeschmack auf Rust für Developer im Insider-Programm",
       "teaser": "Was ist daraus geworden, Windows in Rust neu zu schreiben? Microsofts Verantwortlicher für Open-Source-Sicherheit gibt im Insider-Programm den Startschuss.",
       "url": "https://www.heise.de/news/Windows-11-Ein-Vorgeschmack-auf-Rust-fuer-Developer-im-Insider-Programm-9057154.html"
-    },
-    {
-      "title": "Microsoft untersucht auch passwortgeschützte .zip-Dateien auf Malware",
-      "teaser": "Fluch oder Segen: Microsofts Dienste untersuchen sogar passwortgeschützte ZIP-Archive auf Malware. Das fiel jetzt IT-Sicherheitsforschern auf.",
-      "url": "https://www.heise.de/news/Microsoft-untersucht-auch-passwortgeschuetzte-zip-Dateien-auf-Malware-9057387.html"
     },
     {
       "title": "Seitenkanalangriff auf Cortex-M: Zugriff auf sensible Informationen",
@@ -94,6 +100,11 @@
       "title": "Kommunikations-App: Kundendaten nach Discord-Hack geleakt",
       "teaser": "Wer Discord nutzt, sollte sich vor möglichen Phishing-Mails in Acht nehmen. Angreifer haben Kundendaten erbeutet.",
       "url": "https://www.heise.de/news/Kommunikations-App-Kundendaten-nach-Discord-Hack-geleakt-9048867.html"
+    },
+    {
+      "title": "Microsoft: Support-Ende für Windows 10 vor Version 22H2",
+      "teaser": "Microsoft weist auf das Support-Ende für Windows-10-Versionen vor 22H2 hin. Ältere unverwaltete Fassungen erhalten ein automatisches Update auf 22H2.",
+      "url": "https://www.heise.de/news/Microsoft-Support-fuer-Windows-10-vor-22H2-endet-im-Juni-9048779.html"
     },
     {
       "title": "\"Genesis Market\": Kriminelle Plattform nach \"Abschaltung\" weiter aktiv",
@@ -140,16 +151,6 @@
       "title": "Kritische Lücken in Canon-Druckern ermöglichen Codeschmuggel",
       "teaser": "Drucker mehrerer Baureihen von Canon haben kritische Sicherheitslücken. Angreifer könnten dadurch Code auf die Geräte schleusen und dort ausführen.",
       "url": "https://www.heise.de/news/Kritische-Luecken-in-Canon-Druckern-ermoeglichen-Codeschmuggel-9019337.html"
-    },
-    {
-      "title": "Mehrere Sicherheitslücken in VMwares Cloud-Management Aria Operations",
-      "teaser": "Patches schließen mehrere Sicherheitslücken, die die Ausweitung von Rechten innerhalb von VMwares Cloud-Management Aria Operationse erlauben.",
-      "url": "https://www.heise.de/news/Mehrere-Sicherheitsluecken-in-VMwares-Cloud-Management-Aria-Operations-9012909.html"
-    },
-    {
-      "title": "Cisco: SD-WAN-Zertifikate abgelaufen, jetzt updaten!",
-      "teaser": "Cisco Systems weist seine Kundschaft darauf hin, dass einige SD-WAN Appliances der vEdge-Reihe dringende Updates benötigen.",
-      "url": "https://www.heise.de/news/Ciscos-tickende-SD-WAN-Zeitbombe-9014471.html"
     },
     {
       "title": "heise Security Tour 2023",
