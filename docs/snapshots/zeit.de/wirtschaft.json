@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-17T22:10:43",
+  "timestamp": "2023-05-17T23:11:02",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Theranos-Gründerin: Bluttest-Betrügerin Elizabeth Holmes muss Haftstrafe Ende Mai antreten",
+      "teaser": "Die frühere Unternehmerin Holmes hatte beantragt, bis zum Abschluss eines Berufungsverfahrens auf freiem Fuß bleiben zu können. Damit scheiterte sie.",
+      "url": "https://www.zeit.de/gesellschaft/2023-05/elizabeth-holmes-haftstrafe-theranos-bluttest",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-05/elizabeth-holmes-haftstrafe-theranos/cinema__980x420"
+    },
+    {
       "title": "Volkswagen: VW plant Sparprogramm für gewinnschwache Kernmarke",
       "teaser": "Deutschlands größter Autobauer will die Umsatzrendite seiner Kernmarke verdoppeln. Derzeit könne sich VW \"wichtige Zukunftsinvestitionen schlicht nicht leisten\".",
       "url": "https://www.zeit.de/wirtschaft/2023-05/volkwagen-vw-kernmarke-sanierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/volkswagen-kernmarke-sanierung/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/volkswagen-kernmarke-sanierung/wide__822x462",
+      "image_title": "Volkswagen: VW plant Sparprogramm für gewinnschwache Kernmarke"
     },
     {
       "title": "Wohnungsmarkt: Zahl der Baugenehmigungen für Wohnungen sinkt weiter",
@@ -66,14 +73,14 @@
       "title": "EU-Zollreform: EU-Kommission will Zoll auf günstige Warensendungen ausweiten",
       "teaser": "Bisher muss selten Zoll bezahlt werden, wenn der Wert des Onlineeinkaufs aus einem Nicht-EU-Land unter 150 Euro liegt. Die Änderung soll hohe Zusatzeinnahmen bringen.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/eu-zoll-warenwert-150-euro",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/eu-zoll-warenwert-150-euro-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/eu-zoll-warenwert-150-euro-bild/cinema__980x420",
       "image_title": "EU-Zollreform: EU-Kommission will Zoll auf günstige Warensendungen ausweiten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schuldengrenze der USA: Mit 31 Billionen Dollar in den Miesen",
       "teaser": "Die Schulden der USA steigen seit mehr als 20 Jahren fast ungebremst. Besserung ist nicht in Sicht, wieder droht der Bankrott. Was treibt das Defizit so stark nach oben?",
       "url": "https://www.zeit.de/wirtschaft/2023-05/schuldengrenze-usa-joe-biden-kongress",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/schuldengrenze-usa-joe-biden-kongress-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/schuldengrenze-usa-joe-biden-kongress-bild/wide__822x462",
       "image_title": "Schuldengrenze der USA: Mit 31 Billionen Dollar in den Miesen"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-05/gasversorgung-energiewende-klimaziele-fluessiggas",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/gasversorgung-energiewende-klimaziele-fluessiggas-bild-2/wide__822x462",
       "image_title": "Gasversorgung: So kann Deutschland Gas kaufen und trotzdem die Klimaziele schaffen"
-    },
-    {
-      "title": "Elon Musk: Tesla will zum ersten Mal Werbung schalten",
-      "teaser": "Die Wachstumsziele von Tesla sind ambitioniert – und der Konzern befürchtet, sie zu verfehlen. Elon Musk hat bereits die Preise gesenkt. Nun bricht er mit einem Tabu.",
-      "url": "https://www.zeit.de/mobilitaet/2023-05/tesla-werbung-wachstum-elon-musk",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-05/tesla-werbung-wachstum-elon-musk-bild/wide__822x462",
-      "image_title": "Elon Musk: Tesla will zum ersten Mal Werbung schalten"
     },
     {
       "title": "Steuereinnahmen: Das Geld ist weg!",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Elon Musk: Tesla will zum ersten Mal Werbung schalten",
+      "teaser": "Die Wachstumsziele von Tesla sind ambitioniert – und der Konzern befürchtet, sie zu verfehlen. Elon Musk hat bereits die Preise gesenkt. Nun bricht er mit einem Tabu.",
+      "url": "https://www.zeit.de/mobilitaet/2023-05/tesla-werbung-wachstum-elon-musk",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-05/tesla-werbung-wachstum-elon-musk-bild/wide__822x462",
+      "image_title": "Elon Musk: Tesla will zum ersten Mal Werbung schalten"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Industriestrompreis: Billiger Strom oder Weltuntergang",
       "teaser": "Die deutsche Wirtschaft warnt: Wenn der Strom so teuer bleibt, gehen ganze Industriezweige zugrunde. Deshalb soll es Milliardenhilfen geben. Aber braucht es das wirklich?",
       "url": "https://www.zeit.de/wirtschaft/2023-05/industriestrompreis-robert-habeck-subvention-unternehmen",
@@ -220,14 +227,14 @@
       "title": "Finanzen: EU-Finanzminister billigen Rechtsrahmen gegen Kryptobetrug",
       "teaser": "Kriminelle missbrauchen Bitcoin und andere Digitalwährungen – etwa um Geld zu waschen. In der EU sollen verdächtigte Transaktionen künftig blockiert werden können.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/eu-kryptowaehrungen-betrug-missbrauch-verordnung-mica",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/eu-kryptowaehrungen-betrug/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/eu-kryptowaehrungen-betrug/cinema__980x420",
       "image_title": "Finanzen: EU-Finanzminister billigen Rechtsrahmen gegen Kryptobetrug"
     },
     {
       "title": "Internationaler Währungsfonds: IWF prognostiziert deutscher Wirtschaft für 2023 Nullwachstum",
       "teaser": "Deutschland ist laut IWF zwar gut durch die Krisen gekommen, wachsen wird die Wirtschaft künftig aber nur langsam. Der Währungsfonds sieht vor allem zwei Gründe.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/iwf-deutschland-wirtschaft-analyse",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/iwf-deutsche-wirtschaft-wachstum/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/iwf-deutsche-wirtschaft-wachstum/wide__822x462",
       "image_title": "Internationaler Währungsfonds: IWF prognostiziert deutscher Wirtschaft für 2023 Nullwachstum"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-05/vodafone-stellenabbau-grossbritannien-telekommunikationskonzern",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/telekommunikation-vodafone-stellenabbau-bild/wide__822x462",
       "image_title": "Britischer Telekommunikationskonzern: Vodafone streicht weltweit 11.000 Stellen"
-    },
-    {
-      "title": "Christiane Benner: IG Metall nominiert erstmals eine Frau als künftige Vorsitzende",
-      "teaser": "Christiane Benner soll den Spitzenposten der größten deutschen Gewerkschaft übernehmen. Als zweiter Vorsitzender wurde Jürgen Kerner vorgeschlagen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/ig-metall-vorstand-vorsitzende-christiane-benner-juergen-kerner-nominierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/ig-metall-vorstand-vorsitzende-christiane-benner-juergen-kerner-nominierung-bild/wide__822x462",
-      "image_title": "Christiane Benner: IG Metall nominiert erstmals eine Frau als künftige Vorsitzende"
     },
     {
       "title": "Briefporto: Deutsche Post beantragt vorzeitige Portoerhöhung",
