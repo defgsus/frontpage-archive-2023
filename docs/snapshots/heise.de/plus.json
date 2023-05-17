@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-17T07:10:41",
+  "timestamp": "2023-05-17T08:14:18",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.348731bc7335aba11b8d",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.3a046e8cfc02bb50279d",
       "id": null,
       "text": null
     },
@@ -26,39 +26,38 @@
   ],
   "articles": [
     {
-      "title": "RatgeberWie Sie ESP32-, Arduino- und Raspi-Projekte im Browser simulieren",
-      "teaser": "Ob zu Hause oder unterwegs: Mit dem Simulator Wokwi lassen sich Projekte mit ESP32, Arduino und Raspberry Pi Pico schnell im Web-Browser erstellen und testen.",
-      "url": "https://www.heise.de/ratgeber/Wokwi-Wie-Sie-ESP32-Arduino-und-Raspi-Projekte-im-Browser-simulieren-8990252.html",
+      "title": "HintergrundIT-Sicherheit härten: Wie ein Auftragshacker ins Active Directory eindringt",
+      "teaser": "Im Folgenden schildert ein Pentester, wie er mit Zugriff auf ein System im Netzwerk schrittweise seine Berechtigungen ausweitet und so Schwachstellen aufdeckt.",
+      "url": "https://www.heise.de/hintergrund/IT-Sicherheit-haerten-Wie-ein-Auftragshacker-ins-Active-Directory-eindringt-8990147.html",
+      "image_title": ", Rudolf A. Blaha"
+    },
+    {
+      "title": "TestsFramework Laptop 13 (2023) im Test",
+      "teaser": "Der reparaturfreundliche Framework Laptop 13 wird schon in dritter Generation verkauft. Am 2023er-Modell hat sich viel mehr geändert als nur das Mainboard.",
+      "url": "https://www.heise.de/tests/Nachhaltiges-Notebook-Framework-Laptop-13-2023-im-Test-9056760.html",
       "image_title": ","
     },
     {
-      "title": "RatgeberNachhaltigkeit im E-Commerce: Was Unternehmen verbessern können",
-      "teaser": "Nachhaltigkeit wird als gesamtgesellschaftliches Thema immer wichtiger. Gerade der Onlinehandel steht hier immer wieder in der Kritik. Zu Recht?",
-      "url": "https://www.heise.de/ratgeber/Nachhaltigkeit-im-E-Commerce-Was-Unternehmen-verbessern-koennen-7614639.html"
+      "title": "RatgeberEchtzeitkommunikation mit SignalR: Pushnachrichten und WebSockets in der Praxis",
+      "teaser": "Über ASP.NET Core SignalR können Server Pushnachrichten an Webclients schicken. WebSockets werden genutzt, ansonsten dienen andere Protokolle als Fallback.",
+      "url": "https://www.heise.de/ratgeber/Echtzeitkommunikation-mit-SignalR-Pushnachrichten-und-WebSockets-in-der-Praxis-9009061.html"
     },
     {
-      "title": "RatgeberProgrammieren: In Assembler hacken wie vor 40 Jahren",
-      "teaser": "Vor 40 Jahren war das Internet noch weit entfernt und das WWW gab es genauso wenig wie Python. Beispielprogramme wurden in einer Assemblersprache abgedruckt.",
-      "url": "https://www.heise.de/ratgeber/Programmieren-In-Assembler-hacken-wie-vor-40-Jahren-8928090.html",
-      "image_title": ","
+      "title": "HintergrundRegulierung der digitalen Kryptowährungen: Kryptoregulierung made in Europe",
+      "teaser": "Neben der Rechtssicherheit sind die Rückverfolgbarkeit von Transaktionen zur Kriminalitätsbekämpfung und der Schutz von Verbrauchern wichtige Ziele.",
+      "url": "https://www.heise.de/hintergrund/Regulierung-der-digitalen-Kryptowaehrungen-Kryptoregulierung-made-in-Europe-8993864.html"
     },
     {
-      "title": "HintergrundLaborarbeit reduzieren: Wie KI Medikamente im Schnelldurchlauf untersucht",
-      "teaser": "Um Medizin mit KI zu entwickeln, investieren Unternehmen viel Geld. Erste Erfolge können sie schon vermelden. KI hilft schon, Therapien schneller zu optimieren.",
-      "url": "https://www.heise.de/hintergrund/Laborarbeit-reduzieren-Wie-KI-Medikamente-im-Schnelldurchlauf-untersucht-9017046.html",
-      "image_title": ", Illustration: Selman Design"
+      "title": "HintergrundFünf Jahre DSGVO: Folgen und Herausforderungen im Überblick",
+      "teaser": "Die DSGVO schreibt seit 2018 Erfolgsgeschichte – einerseits. Andererseits zeigen sich Schwächen, die Datenschützern und Unternehmen zu schaffen machen.",
+      "url": "https://www.heise.de/hintergrund/Fuenf-Jahre-DSGVO-Folgen-und-Herausforderungen-im-Ueberblick-8990917.html",
+      "image_title": ", KI Midjourney Bearbeitung c’t"
     },
     {
-      "title": "HintergrundHobbymathematiker entdeckt geniale Fliesenform",
-      "teaser": "Mathematiker suchen seit gut 50 Jahren nach einer Fliesenform, die ein unregelmäßiges Muster bildet, wenn man eine Fläche damit kachelt. Das Rätsel ist gelöst.",
-      "url": "https://www.heise.de/hintergrund/Raetsel-um-Einsteinkachel-geloest-Hobbymathematiker-entdeckt-geniale-Fliesenform-8987979.html",
-      "image_title": "!!!@DTP: evtl. skalieren und zuschneiden, damit das Muster besser erkennbar ist., D. Smith, J. S. Myers, C. S. Kaplan, C. Goodman-Strauss, An aperiodic monotile, CC-BY-4.0"
-    },
-    {
-      "title": "RatgeberNatürlich schön – Tipps für Porträts von Laienmodels wie Freunden und Familie",
-      "teaser": "Viele Hobbyfotografen porträtieren Menschen aus dem Freundes- und Familienkreis. Andreas Bübl zeigt, wie man seinen Modellen die Unsicherheit nimmt.",
-      "url": "https://www.heise.de/ratgeber/Natuerlich-schoen-Tipps-fuer-Portraets-von-Laienmodels-wie-Freunden-und-Familie-8989653.html",
-      "image_title": ", Alle Bilder: Andreas Bübl"
+      "title": "HintergrundArchäologie: Mit Magnetometern auf der Suche nach vergangenen Kulturen",
+      "teaser": "Archäologisches Erbe kann über elektromagnetische Signale im Boden aufgespürt werden. Damit eröffnen sich neue Perspektiven für die Archäologie.",
+      "url": "https://www.heise.de/hintergrund/Archaeologie-Mit-Magnetometern-auf-der-Suche-nach-vergangenen-Kulturen-9017042.html",
+      "image_title": "Mit dem extra für ihn angefertigten Magnetometer-Gestell aus Kunststoffrohren und geländegängigen Rädern scannt der Archäologe Jarrod Burks ganze Landstriche auf der Suche nach Spuren alter Zivilisationen., Maddie McGarvey"
     },
     {
       "title": "Archäologie: Mit Magnetometern auf der Suche nach vergangenen Kulturen",
