@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-18T14:10:51",
+  "timestamp": "2023-05-18T15:12:07",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Tennis: Rafael Nadal spricht über Karriereende",
+      "teaser": "\"Das nächste Jahr soll mein letztes sein\": Tennisstar Rafael Nadal spricht über das Ende seiner Profikarriere. Bei den diesjährigen French Open wird er fehlen.",
+      "url": "https://www.zeit.de/sport/2023-05/rafael-nadal-beendet-karriere-2024",
+      "image_url": "https://img.zeit.de/sport/2023-05/rafael-nadal-beendet-karriere-2024-bild/cinema__980x420"
+    },
+    {
       "title": "Fußballbundesliga: Zerstückelt und verzerrt",
       "teaser": "Alle Partien der letzten beiden Bundesligaspieltage wurden einst zeitgleich angepfiffen. Für den neuen TV-Vertrag wurde das geändert. Mit unsportlichen Folgen.",
       "url": "https://www.zeit.de/sport/2023-05/fussball-bundesliga-dfl-vermarktung",
-      "image_url": "https://img.zeit.de/sport/2023-05/jude-bellingham/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-05/jude-bellingham/wide__822x462",
+      "image_title": "Fußballbundesliga: Zerstückelt und verzerrt"
     },
     {
       "title": "Champions League: Ein perfektes Spiel",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-05/manchester-city-real-madrid-champions-league-rueckspiel",
       "image_url": "https://img.zeit.de/sport/2023-05/manchester-city-real-madrid-champions-league/wide__822x462",
       "image_title": "Champions League: Ein perfektes Spiel"
-    },
-    {
-      "title": "Champions League: Manchester City zieht ins Champions-League-Finale ein",
-      "teaser": "Mit einem verdienten Sieg erreichen die Engländer gegen Real Madrid das Endspiel der Königsklasse. Dort trifft Manchester City nun auf Inter Mailand. Der Spielbericht",
-      "url": "https://www.zeit.de/sport/2023-05/champions-league-halbfinale-rueckspiel-manchester-city-real-madrid",
-      "image_url": "https://img.zeit.de/sport/2023-05/champions-league-halbfinale-rueckspiel-manchester-city-real-madrid-bild-2/wide__822x462",
-      "image_title": "Champions League: Manchester City zieht ins Champions-League-Finale ein"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frauen-WM: Der Wert des Frauenfußballs",
@@ -91,6 +91,13 @@
       "image_title": "Max Kruse: \"Ich bin ja nicht der Einzige, der mal bis morgens unterwegs war\""
     },
     {
+      "title": "Champions League: Manchester City zieht ins Champions-League-Finale ein",
+      "teaser": "Mit einem verdienten Sieg erreichen die Engländer gegen Real Madrid das Endspiel der Königsklasse. Dort trifft Manchester City nun auf Inter Mailand. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2023-05/champions-league-halbfinale-rueckspiel-manchester-city-real-madrid",
+      "image_url": "https://img.zeit.de/sport/2023-05/champions-league-halbfinale-rueckspiel-manchester-city-real-madrid-bild-2/wide__822x462",
+      "image_title": "Champions League: Manchester City zieht ins Champions-League-Finale ein"
+    },
+    {
       "title": "DFL: Die Zwei-Milliarden-Euro-Frage",
       "teaser": "Im Eiltempo treibt die Bundesliga einen Megadeal voran. Er könnte den Fußball ungleicher machen – und ihn die Unabhängigkeit kosten. Wofür braucht es so viel Geld?",
       "url": "https://www.zeit.de/sport/2023-05/dfl-investorendeal-milliarden-fussball",
@@ -105,13 +112,6 @@
       "image_title": "Hermann Winkler: Der DFB-Vize und die fragwürdigen Facebook-Posts"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); DFL: St. Pauli stellt sich quer",
-      "teaser": "Die DFL plant den Einstieg von Investoren. St. Paulis Präsident, der auch im DFL-Präsidium sitzt, kritisiert das und stellt einen Antrag, die Entscheidung zu verschieben.",
-      "url": "https://www.zeit.de/sport/2023-05/dfl-investoreneinstieg-oke-goettlich-st-pauli",
-      "image_url": "https://img.zeit.de/sport/2023-05/dfl-investoreneinstieg-st-pauli-oke-goettlich/wide__822x462",
-      "image_title": "DFL: St. Pauli stellt sich quer"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -119,11 +119,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Podcast-Festival 2023: Die beste Elf aller Zeiten",
-      "teaser": "Wer waren die elf besten Fußballer aller Zeiten? Zusammen mit dem Publikum des Podcastfestivals haben wir sie beantwortet. Und Mut zu Lücken gezeigt.",
-      "url": "https://www.zeit.de/sport/2023-05/podcast-festival-2023-beste-fussballer-fussballpodcast",
-      "image_url": "https://img.zeit.de/sport/2023-05/kicken-kann-er-podcast-festival-2023-aufmacherfoto-neu/wide__822x462",
-      "image_title": "Podcast-Festival 2023: Die beste Elf aller Zeiten"
+      "title": "Z+ (abopflichtiger Inhalt); DFL: St. Pauli stellt sich quer",
+      "teaser": "Die DFL plant den Einstieg von Investoren. St. Paulis Präsident, der auch im DFL-Präsidium sitzt, kritisiert das und stellt einen Antrag, die Entscheidung zu verschieben.",
+      "url": "https://www.zeit.de/sport/2023-05/dfl-investoreneinstieg-oke-goettlich-st-pauli",
+      "image_url": "https://img.zeit.de/sport/2023-05/dfl-investoreneinstieg-st-pauli-oke-goettlich/wide__822x462",
+      "image_title": "DFL: St. Pauli stellt sich quer"
     },
     {
       "title": "Fußballpodcast: Er hat etwas von Zauberei, Luka Modrić ist Entfesselungskünstler",
@@ -147,6 +147,13 @@
       "image_title": "Heimvorteil im Stadion: Die Macht der Fanmasse"
     },
     {
+      "title": "Podcast-Festival 2023: Die beste Elf aller Zeiten",
+      "teaser": "Wer waren die elf besten Fußballer aller Zeiten? Zusammen mit dem Publikum des Podcastfestivals haben wir sie beantwortet. Und Mut zu Lücken gezeigt.",
+      "url": "https://www.zeit.de/sport/2023-05/podcast-festival-2023-beste-fussballer-fussballpodcast",
+      "image_url": "https://img.zeit.de/sport/2023-05/kicken-kann-er-podcast-festival-2023-aufmacherfoto-neu/wide__822x462",
+      "image_title": "Podcast-Festival 2023: Die beste Elf aller Zeiten"
+    },
+    {
       "title": "Champions League: Italienischer Fußball für Fortgeschrittene",
       "teaser": "Seinen größten Reiz zieht Fußball nicht aus Perfektion, sondern aus Emotionen. So wie beim wilden Halbfinale zwischen Inter Mailand und AC Mailand.",
       "url": "https://www.zeit.de/sport/2023-05/inter-mailand-ac-mailand-champions-league",
@@ -159,13 +166,6 @@
       "url": "https://www.zeit.de/sport/2023-05/champions-league-halbfinale-rueckspiel-inter-mailand-ac-mailand",
       "image_url": "https://img.zeit.de/sport/2023-05/champions-league-halbfinale-rueckspiel-inter-mailand-ac-mailand-bild/wide__822x462",
       "image_title": "Champions League: Inter Mailand zieht ins Finale der Champions League ein"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Pascal \"Qualle\" Martin: \"Eltern denken, ihre Kinder spielen in der Champions League\"",
-      "teaser": "Pascal \"Qualle\" Martin ist Schiedsrichter – und Tiktoker. Er setzt sich für einen respektvollen Umgang auf dem Fußballplatz ein. Mittlerweile kommen Fans nur wegen ihm.",
-      "url": "https://www.zeit.de/sport/2023-05/pascal-qualle-martin-schiedsrichter-tiktok",
-      "image_url": "https://img.zeit.de/sport/2023-05/pascal-qualle-martin-schiedsrichter/wide__822x462",
-      "image_title": "Pascal \"Qualle\" Martin: \"Eltern denken, ihre Kinder spielen in der Champions League\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Frauen-WM: Der Wert des Frauenfußballs",
