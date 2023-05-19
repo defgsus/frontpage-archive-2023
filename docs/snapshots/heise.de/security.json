@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-19T09:10:57",
+  "timestamp": "2023-05-19T10:11:42",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "KeePass",
+      "url": "https://www.heise.de/news/Passwortmanager-KeePass-Sicherheitsforscher-liest-Master-Passwort-aus-9059945.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Attacken-koennten-bevorstehen-Kritische-Root-Luecken-bedrohen-Cisco-Switches-9059775.html"
     },
@@ -42,15 +46,6 @@
     {
       "title": "vm2",
       "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-PoC-zeigt-neuen-Sandbox-Ausbruch-9056842.html"
-    },
-    {
-      "title": "Tenable Nessus Network Monitor",
-      "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerke-ueber-Luecken-in-Nessus-Network-Monitor-attackieren-9050347.html"
-    },
-    {
-      "title": "Attacken könnten bevorstehen: Kritische Root-Lücken bedrohen Cisco-Switches",
-      "teaser": "Cisco hat unter anderem mehrere kritische Sicherheitslücken in verschiedenen Small-Business-Switches geschlossen. Aber nicht alle Modelle bekommen Updates.",
-      "url": "https://www.heise.de/news/Attacken-koennten-bevorstehen-Kritische-Root-Luecken-bedrohen-Cisco-Switches-9059775.html"
     },
     {
       "title": "BSI-Affäre um Schönbohm: Faesers Fehler und Böhmermanns Beitrag",
@@ -90,10 +85,20 @@
       "url": "https://www.heise.de/news/Windows-11-Ein-Vorgeschmack-auf-Rust-fuer-Developer-im-Insider-Programm-9057154.html"
     },
     {
+      "title": "Microsoft untersucht auch passwortgeschützte .zip-Dateien auf Malware",
+      "teaser": "Fluch oder Segen: Microsofts Dienste untersuchen sogar passwortgeschützte ZIP-Archive auf Malware. Das fiel jetzt IT-Sicherheitsforschern auf.",
+      "url": "https://www.heise.de/news/Microsoft-untersucht-auch-passwortgeschuetzte-zip-Dateien-auf-Malware-9057387.html"
+    },
+    {
       "title": "Seitenkanalangriff auf Cortex-M: Zugriff auf sensible Informationen",
       "teaser": "Auf der Blackhat Asia haben IT-Forscher Seitenkanalangriffe auf ARM-Cortex-M-Mikroprozessoren vorgestellt. Sie ermöglichen Zugriff auf sensible Informationen.",
       "url": "https://www.heise.de/news/Seitenkanalangriff-auf-Cortex-M-Zugriff-auf-sensible-Informationen-9057108.html",
       "image_title": "STM32F429 auf STM Discovery-Board"
+    },
+    {
+      "title": "Malware ab Werk: Android-Trojaner vermietet Opfer-Smartphones minutenweise",
+      "teaser": "Sicherheitsforscher warnen davor, dass Kriminelle den Fernzugriff auf Android-Smartphones vermieten – sie rechnen pro Minute ab.",
+      "url": "https://www.heise.de/news/Malware-ab-Werk-Android-Trojaner-vermietet-Opfer-Smartphones-minutenweise-9057015.html"
     },
     {
       "title": "JavaScript-Sandbox vm2: PoC zeigt neuen Sandbox-Ausbruch",
@@ -148,11 +153,6 @@
       "url": "https://www.heise.de/news/Verbraucherzentrale-warnt-vor-Fake-Shops-mit-Zahlungen-ohne-Kaeuferschutz-9032362.html"
     },
     {
-      "title": "Millionen Webseiten betroffen: Kritische Lücke in populärem Wordpress-Plug-in",
-      "teaser": "Auf mehr als einer Million Wordpress-Instanzen läuft Essential Addons for Elementor. Angreifer können durch eine kritische Lücke die Kontrolle übernehmen.",
-      "url": "https://www.heise.de/news/Millionen-Webseiten-betroffen-Kritische-Luecke-in-populaerem-Wordpress-Plug-in-9032312.html"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Security braucht Vertrauen – aber zu wem, wann und wie? Das erfahren Sie auf der heise-Security-Konferenz. Sie lernen den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern. Jetzt mit vorgeschalteten Workshops!",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
@@ -175,6 +175,11 @@
       "image_title": "Sicherheitsschlüssel,"
     },
     {
+      "title": "Version 202300 - alten Fehler dringelassen - persistence geht immer noch nicht",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Version-202300-alten-Fehler-dringelassen-persistence-geht-immer-noch-nicht/posting-42649554/show/"
+    },
+    {
       "title": "Re: WithSecure und Eset keine Updates mehr",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-und-Eset-keine-Updates-mehr/posting-42607648/show/"
@@ -183,11 +188,6 @@
       "title": "Ethernetaktivität beim Virenscan",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Ethernetaktivitaet-beim-Virenscan/posting-42600917/show/"
-    },
-    {
-      "title": "Sicherheit von WinRAR-Archiven – Sind sie zu knacken?",
-      "teaser": "Forum: Security Consulter",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Security-Consulter/Sicherheit-von-WinRAR-Archiven-Sind-sie-zu-knacken/posting-42597935/show/"
     }
   ]
 }
