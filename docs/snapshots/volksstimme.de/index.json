@@ -1,16 +1,540 @@
 {
-  "timestamp": "2023-05-20T07:09:32",
+  "timestamp": "2023-05-20T08:12:39",
   "url": "https://www.volksstimme.de/",
   "response": {
-    "status": 404
+    "status": 200
   },
   "scripts": [
+    {
+      "type": null,
+      "src": "https://static.cleverpush.com/channel/loader/z5mjk7M6AD3Ze6keS.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://data-9f47bd3ec3.volksstimme.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
     {
       "type": null,
       "src": "https://www.volksstimme.de/static/scripts/scripts.93eed1e1.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": null,
+      "src": "https://static.dumontnext.de/revenue/lightworks-vs.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.volksstimme.de/static/scripts/adScripts.93eed1e1.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cdn.dl.volksstimme.de/bineosmgm/content/Bineos_2_0/bineos.min.js",
+      "id": null,
+      "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "So will Intel den Wasserverbrauch drastisch senken",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/66ae9edc-2a56-47e5-932c-4c6a81940549.jpeg?rect=0%2C0%2C4000%2C2662&width=100",
+      "image_title": "Intel will den Wasserverbrauch in der Fabrik in Magdeburg deutlich senken.",
+      "topic": "Geplante Milliarden-Investition in Magdeburg"
+    },
+    {
+      "title": "Badeverbot: Schachtsee Wolmirsleben weist mangelhafte Qualität auf",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/f6f0f78a-d25e-43f8-b205-75ae4ae90caa.jpeg?rect=0%2C0%2C2189%2C1597&width=100",
+      "image_title": "Schachtsee Wolmirsleben: Durch die erhöte Anzahl an Fäkalkeimen sprachen das Bundesland und der Salzlandkreis für das Gewässer ein Badeverbot aus.",
+      "topic": "Sommer"
+    },
+    {
+      "title": "Werden im Jerichower Land Pferde und Ponys dem Wolf geopfert?",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/6704c4a3-cbab-4fa6-9603-962d0723841b.jpeg?rect=0%2C302%2C2748%2C1508&width=100",
+      "image_title": "Pferdetrainerin Charlott Weiner-Fischer mit ihren Tieren. Sie betreibt in Woltersdorf den Reiterhof „Reitgesund“.",
+      "topic": "Mehrere Tote Tiere"
+    },
+    {
+      "title": "12 Jahre altes Mädchen in Halberstadt geschlagen: Polizei sucht nach Verdächtiger (Foto im Artikel)",
+      "url": "https://www.volksstimme.de/lokal/halberstadt/offentlichkeitsfahndung-in-halberstadt-polizei-sucht-frau-die-maedchen-geschlagen-haben-soll-3612973",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/6ee9d580-c03b-4cd6-a27b-463b7439e463.jpeg?rect=0%2C0%2C4000%2C2706&width=100",
+      "image_title": "Die Polizei sucht Zeugen für eine mögliche Straftat in Halberstadt. Eine Frau hat ein Mädchen ins Gesicht geschlagen und wird nun gesucht.",
+      "topic": "Öffentlichkeitsfahndung"
+    },
+    {
+      "title": "Großbrand vernichtet Zuhause einer Familie",
+      "url": "https://www.volksstimme.de/lokal/oschersleben/grossbrand-vernichtet-zuhause-einer-familie-3613332",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/799968e5-c3f3-4341-91f2-aa85f4a1c6fe.jpeg?rect=1%2C282%2C1084%2C610&width=100",
+      "image_title": "Das Feuerwehr hat von einem Nebengebäude auf den Dachstuhl des Wohngebäudes übergegriffen.",
+      "topic": "Feuer in Warsleben"
+    },
+    {
+      "title": "Kurioser Himmelfahrts-Einsatz: Polizei Magdeburg rettet Mann aus der Elbe",
+      "url": "https://www.volksstimme.de/blaulicht/magdeburg/polizei-zu-himmelfahrt-einsaetze-am-maennertag-mann-aus-elbe-gerettet-3613002",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/05/04/ea27eadc-f036-4f11-b9dd-cca3bc12f704.jpeg?rect=4%2C0%2C1047%2C589&width=100",
+      "image_title": "Die Einsätze der Polizei in Magdeburg reichten an Christi Himmelfahrt von kuriosen Rettungsaktionen bis hin zu Messerangriffen.",
+      "topic": "Rettung aus dem Wasser"
+    },
+    {
+      "title": "Video: Pinke Katze sorgt in Sachsen-Anhalt für Aufsehen - Was war da denn los?",
+      "url": "https://www.volksstimme.de/video/sachsen-anhalt/kurios-pinke-katze-rettung-sachsen-anhalt-aschersleben-polizei-feuerwehr-3613023",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/9efcfd64-c685-4b6b-9c5a-ff77294be980.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Als sich die Retter dem kleinen Kätzchen näherten, flüchtete es aus der Dachrinne auf das Vordach des Nachbarhauses.",
+      "topic": "Kurioser Einsatz"
+    },
+    {
+      "title": "Video: Zocken von Magdeburg bis Halle - Wie steht es um den E-Sport in Sachsen-Anhalt?",
+      "url": "https://www.volksstimme.de/video/sachsen-anhalt/geld-verdienen-gaming-zocken-magdeburg-bis-halle-e-sport-sachsen-anhalt-3612864",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/4cc844d1-c83f-463a-856f-7f23e58ebbc6.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Zuschauer jubeln vor der Hauptbühne auf der „DreamHack“ im Jahr 2022 und schauen sich ein Showmatch im Spiel „League of Legends“ an.",
+      "topic": "Geld verdienen mit Gaming"
+    },
+    {
+      "title": "Video: Wie ein Familienbetrieb Spargel für Sachsen-Anhalt produziert",
+      "url": "https://www.volksstimme.de/video/sachsen-anhalt/spargel-ernte-essen-zubereitung-familienbetrieb-produktion-3612813",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/e14846b4-2915-44ed-88ef-8c7011c6181b.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Antje Hindorf sticht und kontrolliert den reifen Spargel aus Langeneichstädt",
+      "topic": "Spargel Ernte"
+    },
+    {
+      "title": "Video: Schwimmen lernen - So bekommen Besucher Rabatt in der Altmark Oase",
+      "url": "https://www.volksstimme.de/video/stendal/aktionstag-video-schwimmen-lernen-so-bekommen-besucher-rabatt-in-der-altmark-oase-3612518",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/28532419-8b39-4a5b-a2b7-776d98fa98c2.jpeg?rect=0%2C0%2C1600%2C900&width=100",
+      "image_title": "Ein Schwimmlehrer behält bei einem Schwimmkurs in der Altmark Oase in Stendal die Kinder besonders gut im Blick.",
+      "topic": "Aktionstag für Kinder"
+    },
+    {
+      "title": "Video: Polizei in Dessau hat einen neuen Personenspürhund für Sprengstoff und Co.",
+      "url": "https://www.volksstimme.de/video/sachsen-anhalt/spuerhund-polizei-dessau-fuer-sprengstoff-rauschmittel-3612379",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/7662ab19-142a-4924-9ecc-4292cfece88a.jpeg?rect=0%2C5%2C835%2C470&width=100",
+      "image_title": "Susann Legel und der Welpe Jakob, der als Personenspürhund ausgebildet wird.",
+      "topic": "Tierische Ermittlung"
+    },
+    {
+      "title": "Wernigerode: Neue Baustelle an der Bundesstraße - droht eine erneute Vollsperrung?",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/wernigerode-neue-baustelle-am-altstadtkreisel-an-der-bundesstrasse-droht-erneute-vollsperrung-3612581",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/5eb814db-406c-48d2-ac83-9ab2431ec660.jpeg?rect=0%2C291%2C2748%2C1643&width=100",
+      "image_title": "Wernigerodes neue Baustelle im Georgiiviertel führt zu Beeinträchtigungen an der Bundestraße 244 nahe des Altstadtkreisels.",
+      "topic": "Baustelle am Altstadtkreisel"
+    },
+    {
+      "title": "Wie Dürre und Auflagen Sachsen-Anhalts Bauern belasten",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/landespolitik/wie-durre-und-auflagen-sachsen-anhalts-bauern-belasten-3612538",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/d6043bac-fce4-4b1d-bc95-baa8ae01195b.jpeg?rect=0%2C0%2C4000%2C3000&width=100",
+      "image_title": "Rolf Lehmann auf einem kleinen Roggenfeld nahe dem Sitz seines Betriebs in Arendsee: „Bis jetzt hatten wir 222 mm Jahresniederschlag“, sagt der Geschäftsführer. Das sei nicht schlecht. Für eine gute Ernte müsse es aber weiterregnen.",
+      "topic": "Landwirte am Limit"
+    },
+    {
+      "title": "Idole zum Anfassen",
+      "url": "https://www.volksstimme.de/lokal/idole-zum-anfassen-3613052",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/9ac200f0-2d15-466b-8da6-13ea4dba278b.jpeg?rect=2%2C2%2C1568%2C1540&width=100",
+      "image_title": "Ziel erreicht. Juan Jose Moral (r.) setzt sich zur Eröffnung im Sprint gegen Thomas Barth durch.",
+      "topic": "Internationale Friedensfahrt"
+    },
+    {
+      "title": "FCM-Gegner SV Darmstadt 98 – Der designierte Aufsteiger",
+      "url": "https://www.volksstimme.de/sport/1-fc-magdeburg/2-bundesliga-fcm-gegner-sv-darmstadt-98-der-designierte-aufsteiger-3611647",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/17/d8fef9b5-1cf8-475f-bc8e-51b03d189e8b.jpeg?rect=0%2C0%2C1920%2C1080&width=100",
+      "image_title": "FCM-Cheftrainer Christian Titz und Darmstadts Coach Torsten Lieberknecht.",
+      "topic": "2. Bundesliga"
+    },
+    {
+      "title": "50 Tonnen feinster Sand für den Strand in Halberstadt",
+      "url": "https://www.volksstimme.de/lokal/halberstadt/50-tonnen-feinster-sand-fur-den-strand-in-halberstadt-3612815",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/ec17f7aa-ffe0-4b55-bb12-55188bebec20.jpeg?rect=549%2C311%2C2744%2C1551&width=100",
+      "image_title": "Christian Mokosch (links), Geschäftsführer des Freizeit- und Sportzentrums Halberstadt, und Gido Maak, Bereichsleiter im Freizeit- und Sportzentrum Halberstadt (FSZ) besprechen die für kommenden Montag geplante Eröffnung des Halberstädter Sees.",
+      "topic": "Start in Badesaison am Halberstädter See"
+    },
+    {
+      "title": "Junger Salzländer liebt seine Heimat",
+      "url": "https://www.volksstimme.de/lokal/stassfurt/junger-tarthuner-liebt-seine-heimat-3611937",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/17/a87f9244-1ed3-4ad6-ae0c-9fa2e551713f.jpeg?rect=114%2C93%2C1121%2C818&width=100",
+      "image_title": "Christoph Bolze arbeitet bei einer großen Krankenkasse im Außendienst. Aber natürlich steht auch Büroarbeit an. Mehrmals die Woche muss er nach Bernburg, kann aber viel im Homeoffice erledigen.",
+      "topic": "Heimatleben"
+    },
+    {
+      "title": "FCM in Darmstadt: So könnte Magdeburg aufstellen",
+      "url": "https://www.volksstimme.de/sport/1-fc-magdeburg/fcm-in-darmstadt-so-konnte-magdeburg-aufstellen-3611882",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/17/77e64143-b187-4a0c-a350-d3c31c292126.jpeg?rect=0%2C73%2C1667%2C938&width=100",
+      "image_title": "Wie wird FC Magdeburg-Cheftrainer Christian Titz gegen den SV Darmstadt aufstellen?",
+      "topic": "2. Bundesliga"
+    },
+    {
+      "title": "Toter Straßenbahn-Surfer in Magdeburg - Polizei hat jetzt Klarheit",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/unfall-in-magdeburg-mit-strassenbahn-toter-tram-surfer-polizei-hat-jetzt-klarheit-3611632",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/17/b4d37749-019a-4139-a15e-17f471f6d35a.jpeg?rect=0%2C0%2C4000%2C3000&width=100",
+      "image_title": "Am 4. Mai 2023 hatte sich der tragische Straßenbahn-Unfall in Magdeburg ereignet.",
+      "topic": "Tödlicher Unfall"
+    },
+    {
+      "title": "Aus für letzte Drogerie in Magdeburg",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/aus-fur-letzte-drogerie-in-magdeburg-3613360",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/3e859fbd-4444-4136-953d-bc28bbdcd73c.jpeg?rect=437%2C0%2C2192%2C1597&width=100",
+      "image_title": "Silke Hobohm an der Ladentheke in ihrer Drogerie in Magdeburg. Zum Jahresende ist Schluss.",
+      "topic": "Familienbetrieb schließt"
+    },
+    {
+      "title": "Grundschule Wolmirsleben: Modellprojekt für Hort angestrebt",
+      "url": "https://www.volksstimme.de/lokal/stassfurt/grundschule-wolmirsleben-modellprojekt-fur-hort-angestrebt-3613183",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/421acb70-88f9-4517-83f9-650d13e4fd60.jpeg?rect=0%2C134%2C1280%2C671&width=100",
+      "image_title": "Die Grundschule Wolmirsleben soll am Modellprojekt des Landes für die Umstrukturierung der Hortlandschaft in Sachsen-Anhalt teilnehmen.",
+      "topic": "Kinderbetreuung"
+    },
+    {
+      "title": "Parchener Kirchenorgel ist fast fertig restauriert",
+      "url": "https://www.volksstimme.de/lokal/genthin/parchener-kirchenorgel-ist-fast-fertig-restauriert-3613161",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/db25bcea-a9b4-40e5-b4ca-1b6a55f9b1da.jpeg?rect=309%2C313%2C1677%2C1031&width=100",
+      "image_title": "Lukas Ehlert vom Mitteldeutscher Orgelbau am noch nicht ganz wieder aufgebauten Orgelprospekt in der Kirche in Parchen.",
+      "topic": "Geschichte"
+    },
+    {
+      "title": "In Magdeburg kann man lernen, Fotos wieder auf Papier zu entwickeln",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/in-magdeburg-kann-man-lernen-fotos-wieder-auf-papier-zu-entwickeln-3613160",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/3a42c5d4-5e88-4a9d-8ef5-71bd58adae6f.jpeg?rect=363%2C86%2C2355%2C1912&width=100",
+      "image_title": "Spencer Detje hier zu sehen in der „Macherburg\" in einem eingerichteten analogen Fotolabor. Seit kurzem kann man in Kursen das Entwickeln von Filmen und Vergrößern von Papierbildern lernen.",
+      "topic": "Retro"
+    },
+    {
+      "title": "Solarpark bei Satuelle: Wie groß soll die Anlage nach der Bürgerbefragung werden?",
+      "url": "https://www.volksstimme.de/lokal/haldensleben/solarpark-bei-satuelle-wie-gross-soll-die-anlage-nach-der-burgerbefragung-werden-3613301",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/6527f386-7f7b-462b-9045-b97f90a09572.jpeg?rect=216%2C131%2C1076%2C652&width=100",
+      "image_title": "Eine Fotomontage zeigt, wie eine Solaranlage von Kronos Solar nahe Satuelle aussehen könnte.",
+      "topic": "Solar"
+    },
+    {
+      "title": "Magdeburg auf Suche nach verschwundenen Bäumen",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/magdeburg-auf-suche-nach-verschwundenen-baumen-3613366",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/46a10ccc-6b52-4d6d-9ab8-8d7d9f05e407.jpeg?rect=0%2C0%2C4000%2C2667&width=100",
+      "image_title": "Baumplanzungen sind in Magdeburg immer wieder Thema. Hier ein Bild von neuen Bäumen auf dem Parkplatz an den Messehallen.",
+      "topic": "Stadtgrün"
+    },
+    {
+      "title": "Pferdesportverein Stendal löst großes Logistikproblem",
+      "url": "https://www.volksstimme.de/lokal/stendal/pferdesportverein-stendal-lost-grosses-logistikproblem-3613225",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/3402a352-18c0-4cb8-b139-c6ff7c466af5.jpeg?rect=0%2C123%2C1634%2C923&width=100",
+      "image_title": "Der neue Heuschuppen des Pferdesportvereins Stendal wurde vom Betrieb von Zimmerermeister Thomas Stelle (von links) gebaut. Pferd Lilli, Marion Suppelna, Manfred Vogler und Susanne Hörnke freuen sich über den zusätzlichen Lagerraum.",
+      "topic": "Heuballen"
+    },
+    {
+      "title": "Schwere Bagger auf der Autobahn 2 im Jerichower Land fressen Stück für Stück alte Betonpiste",
+      "url": "https://www.volksstimme.de/lokal/burg/schwere-bagger-auf-der-autobahn-2-im-jerichower-land-fressen-stuck-fur-stuck-alte-betonpiste-3613460",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/7a8440b8-6210-4017-9566-c7263f46a87a.jpeg?rect=416%2C466%2C1972%2C1201&width=100",
+      "image_title": "Im Abschnitt zwischen den Anschlussstellen Lostau und Burg-Ost ist auf der Autobahn 2 damit begonnen worden, die Fahrbahn Richtung Berlin abzutragen.",
+      "topic": "Sanierung der Fahrbahn"
+    },
+    {
+      "title": "Magdeburg-Sudenburg: Zweite Reihe in altem Villenviertel in der Kritik",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/magdeburg-sudenburg-zweite-reihe-in-altem-villenviertel-in-der-kritik-3613371",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/b7a5a145-1119-47ed-a029-9f12eaec0f12.jpeg?rect=0%2C385%2C4000%2C1928&width=100",
+      "image_title": "Alt und Neu nebeneinander bestimmen schon heute an vielen Stellen der Klausenerstraße im Magdeburger Stadtteil Sudenburg das Bild. Die Stadt will die Bebauung in zweiter Reihe regeln.",
+      "topic": "Denkmalschutz"
+    },
+    {
+      "title": "Verschönerungsverein in Calbe will Areal umgestalten, um Arbeitsaufwand zu reduzieren",
+      "url": "https://www.volksstimme.de/lokal/schoenebeck/verschonerungsverein-in-calbe-will-areal-umgestalten-um-arbeitsaufwand-zu-reduzieren-3613103",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/c9c52087-0a9e-4c8d-9a89-e0ef12b8fc17.jpeg?rect=0%2C0%2C4000%2C2667&width=100",
+      "image_title": "Das Areal um den Luisenstein am Verschönerungsweg in Calbe soll umgestaltet werden.",
+      "topic": "Stadtentwicklung"
+    },
+    {
+      "title": "Sachsen-Anhalter mit Sammelgruben zahlen oft ein Vielfaches an Gebühren",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/regionale-wirtschaft/sachsen-anhalter-mit-sammelgruben-zahlen-oft-ein-vielfaches-an-gebuhren-3613309",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/6b2676a6-ef53-431e-b3d2-f7662221beeb.jpeg?rect=0%2C0%2C4000%2C2667&width=100",
+      "image_title": "Sammelgrubenbesitzer rund um Zerbst sind aufgefordert, zum Abpumpen des Abwassers an der Grundstücksgrenze Saugstutzen zu installieren.",
+      "topic": "Ärger ums Abwasser"
+    },
+    {
+      "title": "Ostbeauftragter von CDU/CSU will Studienplatzvergabe an Standortpflicht knüpfen",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/landespolitik/ostbeauftragter-von-cdu-csu-will-studienplatzvergabe-an-standortpflicht-knupfen-3612495",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/03951a97-5449-48a8-9029-33b61bba7132.jpeg?rect=45%2C0%2C519%2C427&width=100",
+      "image_title": "Bleiben die Absolventen des Medizinstudiums in Sachsen-Anhalt?",
+      "topic": "Medizin-Ausbildung"
+    },
+    {
+      "title": "Ferien 2023 und 2024 in Sachsen-Anhalt: Alle Termine im Überblick",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/pflingstferien-in-sachsen-anhalt-2023-alle-termine-fuer-schulferien-im-blick-880687",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/05/06/dfb230dd-823c-4fad-a295-54d8b76d86c4.jpeg?rect=0%2C78%2C4000%2C2250&width=100",
+      "image_title": "Der Termin für die Sommerferien in Sachsen-Anhalt wird nicht vom Bundesland selbst entschieden.",
+      "topic": "endlich frei"
+    },
+    {
+      "title": "Ausländische Ärzte in Sachsen-Anhalt: Sprachprüfung bleibt eine hohe Hürde",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/auslaendische-arzte-in-sachsen-anhalt-sprachtest-als-mega-huerde-viele-durchfaller-3612782",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/25170371-4dea-44d9-a345-851d2c0b301c.jpeg?rect=0%2C21%2C241%2C136&width=100",
+      "image_title": "In Sachsen-Anhalt legen zunehmend mehr ausländische Ärztinnen und Ärzte einen Deutsch-Sprachtest ab. Doch längst nicht jeder besteht die Prüfung.&nbsp;",
+      "topic": "Medizin"
+    },
+    {
+      "title": "Trotz Ärger um Stellenanzeige: Bordell aus Halle meldet viele Bewerbungen als \"Puffmutter\"",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/stellenanzeigen-zoff-um-puffmutter-fuer-bordell-in-halle-viele-bewerbungen-3612814",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/1a713d8e-d274-469c-9391-d45ed0e13db4.jpeg?rect=669%2C0%2C2662%2C2662&width=100",
+      "image_title": "Für ein Bordell in Halle wird eine stellvertretende Geschäftsführerin gesucht. Das Interesse übertrifft die Erwartungen.",
+      "topic": "Jobinserat untersagt"
+    },
+    {
+      "title": "Kurioser Himmelfahrts-Einsatz: Polizei Magdeburg rettet Mann aus der Elbe",
+      "url": "https://www.volksstimme.de/blaulicht/magdeburg/polizei-zu-himmelfahrt-einsaetze-am-maennertag-mann-aus-elbe-gerettet-3613002",
+      "topic": "Rettung aus dem Wasser"
+    },
+    {
+      "title": "12 Jahre altes Mädchen in Halberstadt geschlagen: Polizei sucht nach Verdächtiger (Foto im Artikel)",
+      "url": "https://www.volksstimme.de/lokal/halberstadt/offentlichkeitsfahndung-in-halberstadt-polizei-sucht-frau-die-maedchen-geschlagen-haben-soll-3612973",
+      "topic": "Öffentlichkeitsfahndung"
+    },
+    {
+      "title": "Aus für letzte Drogerie in Magdeburg",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/aus-fur-letzte-drogerie-in-magdeburg-3613360",
+      "topic": "Familienbetrieb schließt"
+    },
+    {
+      "title": "Wernigerode: Neue Baustelle an der Bundesstraße - droht eine erneute Vollsperrung?",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/wernigerode-neue-baustelle-am-altstadtkreisel-an-der-bundesstrasse-droht-erneute-vollsperrung-3612581",
+      "topic": "Baustelle am Altstadtkreisel"
+    },
+    {
+      "title": "So will Intel den Wasserverbrauch drastisch senken",
+      "url": "https://www.volksstimme.de/sachsen-anhalt/intel-will-wasserverbrauch-drastisch-senken-geplante-milliarden-investition-in-magdeburg-3613158",
+      "topic": "Geplante Milliarden-Investition in Magdeburg"
+    },
+    {
+      "title": "Eskalation am Vatertags-Abend: Attacken auf Polizei am Landesmuseum in Halle",
+      "url": "https://www.volksstimme.de/blaulicht/einsatz-am-vatertag-in-halle-eskaliert-angriffe-auf-polizei-am-landesmuseum-3612981",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/81952604-0007-44fa-afb1-a20730c88498.jpeg?rect=0%2C33%2C4000%2C2250&width=100",
+      "image_title": "Der Platz vor dem Landesmuseum in Halle ist ein beliebter Treffpunkt bei Jugendlichen.",
+      "topic": "einsatz eskaliert"
+    },
+    {
+      "title": "Tödliche Unfälle im Harz: Polizei reagiert auf Himmelfahrt-Tragödie",
+      "url": "https://www.volksstimme.de/blaulicht/wernigerode/toedliche-unfaelle-im-harz-polizei-reagiert-auf-himmelfahrt-tragoedie-3613125",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/585362de-4c89-474e-a2e8-4ece5b0638dc.jpeg?rect=584%2C0%2C2333%2C2333&width=100",
+      "image_title": "An Himmelfahrt gab es mehrere Motorrad-Unfälle im Landkreis Harz - zwei mit tödlichem Ausgang.",
+      "topic": "mehrere Tote"
+    },
+    {
+      "title": "Feuer auf Grundstück bei Ausleben richtet großen Schaden an",
+      "url": "https://www.volksstimme.de/blaulicht/oschersleben/scheunenbrand-feuer-auf-grundstueck-bei-ausleben-richtet-grossen-schaden-an-3613131",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/16/903f3257-5777-4e8a-83e9-327ab862fa6b.jpeg?rect=472%2C0%2C3056%2C3056&width=100",
+      "image_title": "Ein Großbrand auf einem Grundstück bei Ausleben, verursachte Sachschaden im sechsstelligen Bereich.",
+      "topic": "Scheunenbrand"
+    },
+    {
+      "title": "Mopedfahrer auf L30 bei Stendal gestürzt und schwer verletzt",
+      "url": "https://www.volksstimme.de/blaulicht/stendal/kontrolle-verloren-nbsp-mopedfahrer-auf-l30-bei-stendal-gestuerzt-und-schwer-verletzt-3613053",
+      "image_url": "https://bmg-images.forward-publishing.io/2021/4/22/91d981ad-2813-4837-b8e4-64fe2600420b.jpeg?rect=92%2C0%2C297%2C297&width=100",
+      "image_title": "Nachdem ein Mopedfahrer während einer Tour bei Stendal gestürzt ist, musste er schwerverletzt ins Krankenhaus gebracht werden. So kam es zu dem Unfall.",
+      "topic": "KOntrolle Verloren"
+    },
+    {
+      "title": "Brennender Lkw sorgt für Vollsperrung der A38 bei Merseburg",
+      "url": "https://www.volksstimme.de/blaulicht/unfall-a38-lkw-brand-bei-merseburg-autobahn-nach-leipzig-gesperrt-3612818",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/5e5057c1-f4e8-490e-9cb8-3c548676d6a3.jpeg?rect=1%2C244%2C958%2C640&width=100",
+      "image_title": "Ein brennender Lastwagen sorgte für die Vollsperrung der A38.",
+      "topic": "Fahrtrichtung Leipzig"
+    },
+    {
+      "title": "Große Umfrage: Was Familien in Sachsen-Anhalt bewegt",
+      "url": "https://www.volksstimme.de/leben/familie/gewinnspiel-umfrage-familien-in-sachsen-anhalt-was-ist-ihnen-wichtig-3603065",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/05/64f77959-bab7-415d-b05b-35277050e45d.jpeg?rect=667%2C0%2C2667%2C2667&width=100",
+      "image_title": "Sebastian und Anne Braumann aus Haldensleben mit ihren Töchtern Bele (4) und Ada (2): Eine typische Familie aus Sachsen-Anhalt mit all ihren Freuden, Problemen und Fragen.",
+      "topic": "Reise gewinnen"
+    },
+    {
+      "title": "Mit „Emilia“ ins neue Abenteuer: Dominique Schaak ist heiß auf die GT4 Germany",
+      "url": "https://www.volksstimme.de/sport/regionalsport/mit-emilia-ins-neue-abenteuer-dominique-schaak-ist-heiss-auf-die-gt4-germany-3613352",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/9c3b8c61-ab55-4042-8be0-fb8afbff1198.jpeg?rect=53%2C0%2C2191%2C1553&width=100",
+      "image_title": "Dominique Schaak pilotiert die schöne „Emilia“ bei den Testtagen in Oschersleben über den Asphalt. Ab dem 27. Mai wird es für den Magdeburger und seinen Boliden in der Motorsport Arena ernst.",
+      "topic": "Motorsport"
+    },
+    {
+      "title": "Wosz leidet mit der Hertha: „Macht mich einfach nur traurig“",
+      "url": "https://www.volksstimme.de/sport/fussball/wosz-leidet-mit-der-hertha-macht-mich-einfach-nur-traurig-3613511",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/1759ff9c-7904-47ae-867b-583990cf8b90.jpeg?rect=0%2C555%2C1667%2C938&width=100",
+      "image_title": "Ex-Fußballprofi Dariusz Wosz spricht in einem Interview über die aktuelle Lage der Hertha.",
+      "topic": "Bundesliga"
+    },
+    {
+      "title": "Griner gibt Comeback mit Vizepräsidentin Harris als Stargast",
+      "url": "https://www.volksstimme.de/sport/griner-gibt-comeback-mit-vizeprasidentin-harris-als-stargast-3613491",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/df084dfe-3d91-491c-aeec-407c44ea3492.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Kam bei ihrem Comeback auf 18 Punkte, 6 Rebounds und 4 Blocks: Phoenix-Center Brittney Griner (42).",
+      "topic": "WNBA"
+    },
+    {
+      "title": "Kovac vermisst Widerstandswillen seiner Wolfsburger",
+      "url": "https://www.volksstimme.de/sport/fussball/kovac-vermisst-widerstandswillen-seiner-wolfsburger-3613478",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/5555898e-ecd0-4889-b6bd-1eb991f31fe8.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Musst sich mit seiner Mannschaft mit 0:2 in Freiburg geschlagen geben: Wolfsburgs Trainer Niko Kovac.",
+      "topic": "Bundesliga"
+    },
+    {
+      "title": "Streich beendet Pressekonferenz für Petersen",
+      "url": "https://www.volksstimme.de/sport/fussball/streich-beendet-pressekonferenz-fur-petersen-3613476",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/f5225a0e-2e95-4dc9-a5e5-4ffda5fbbceb.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Freiburgs Trainer Christian Streich (l) und Freiburgs Nils Petersen umarmen sich nach dem Spiel.",
+      "topic": "Bundesliga"
+    },
+    {
+      "title": "Tietz erzwingt glücklichen Sieg gegen den FCM - und den Bundesliga-Aufstieg der Darmstädter",
+      "url": "https://www.volksstimme.de/sport/1-fc-magdeburg/tietz-erzwingt-glucklichen-sieg-gegen-den-fcm-und-den-bundesliga-aufstieg-der-darmstadter-3613377",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/24394d76-b24e-45ee-a24f-b911d58c2db9.jpeg?rect=0%2C455%2C2191%2C1409&width=100",
+      "image_title": "Alles Reklamieren von FCM-Keeper Tim Boss half nichts: Die Darmstädter Fans und die Spieler feierten ihren Schützen zum Sieg.",
+      "topic": "2. Bundesliga"
+    },
+    {
+      "title": "Besondere Konstellation: Der FCM kann zum Spielverderber werden",
+      "url": "https://www.volksstimme.de/sport/1-fc-magdeburg/besondere-konstellation-der-fcm-kann-zum-spielverderber-werden-3612577",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/18/807bf856-e93f-4533-933d-db72b8ffbba7.jpeg?rect=2%2C120%2C1504%2C1069&width=100",
+      "image_title": "Im Hinspiel mussten sich Baris Atik (hier im Duell mit Thomas Isherwood) und Co. mit 0:1 gegen Darmstadt geschlagen geben.",
+      "topic": "2. Bundesliga"
+    },
+    {
+      "title": "Christian Beck über den FCM-Klassenerhalt",
+      "url": "https://www.volksstimme.de/sport/1-fc-magdeburg/kolumne-christian-beck-ueber-den-fcm-klassenerhalt-3611648",
+      "image_url": "https://bmg-images.forward-publishing.io/2022/09/13/76874bad-70d3-46ce-89fe-72f60476bb24.jpeg?rect=1%2C0%2C1019%2C573&width=100",
+      "image_title": "Christian 'Beckus' Beck gilt als FCM-Vereinlegende, absolvierte fast 300 Spiele für Blau-Weiß.",
+      "topic": "Kolumne"
+    },
+    {
+      "title": "Selenskyj in Japan - Gespräche über Kampfjet-Allianz",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/selenskyj-in-japan-gesprache-uber-kampfjet-allianz-3613449",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/a980c33d-0619-4cc7-9728-d11daa4e5201.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Gruppenbild der Staats- und Regierungschefs der G7-Staaten.",
+      "topic": "G7-Gipfel"
+    },
+    {
+      "title": "Berlin: OVG bestätigt Verbot für Palästinenser-Demonstration",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/berlin-ovg-bestatigt-verbot-fur-palastinenser-demonstration-3613504",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/3a78d8f0-1071-427d-bffd-bf7d1dfcb309.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
+      "image_title": "Teilnehmer einer Palästinenser-Demonstration laufen durch Neukölln.",
+      "topic": "Extremismus"
+    },
+    {
+      "title": "Faktencheck: Zu teuer, zu kalt: Mythen um die Wärmepumpe",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/faktencheck-zu-teuer-zu-kalt-mythen-um-die-warmepumpe-3613481",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/44e995fb-4731-4db6-89b6-893338ff0f09.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Bundesregierung setzt künftig auch auf Wärmepumpen.",
+      "topic": "Recherche"
+    },
+    {
+      "title": "G7-Staaten erhöhen Druck auf China",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/g7-staaten-erhohen-druck-auf-china-3613468",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/f27a8b01-981e-44aa-8ef9-045b0251ce21.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die Regierungschefs der G7 Staaten treffen sich im japanischen Hiroshima zu ihren jährlichen Beratungen.",
+      "topic": "Welthandel"
+    },
+    {
+      "title": "Von der Leyen: Schlechte China-Erfahrungen sind Chance",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/von-der-leyen-schlechte-china-erfahrungen-sind-chance-3613459",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/80559abe-1f8e-4a41-9c7a-f85dc12d06ef.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "EU-Kommissionspräsidentin Ursula von der Leyen spricht auf einer Pressekonferenz.",
+      "topic": "G7-Gipfel"
+    },
+    {
+      "title": "Kommunen streben Anschaffung weiterer Defibrillatoren an",
+      "url": "https://www.volksstimme.de/panorama/kommunen-streben-anschaffung-weiterer-defibrillatoren-an-3613518",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/c3571e80-8ef7-452d-b49e-4d8fb68784c2.jpeg?rect=0%2C119%2C2048%2C1152&width=100",
+      "image_title": "Ein Defibrillator liegt in einem kleinen Kasten im Erfurter Bürgeramt bereit.",
+      "topic": "Ausstattung"
+    },
+    {
+      "title": "Altmark Festspiele beginnen mit Konzert im Havelberger Dom",
+      "url": "https://www.volksstimme.de/panorama/altmark-festspiele-beginnen-mit-konzert-im-havelberger-dom-3613516",
+      "topic": "Musik"
+    },
+    {
+      "title": "Streich beendet Pressekonferenz für Petersen",
+      "url": "https://www.volksstimme.de/panorama/streich-beendet-pressekonferenz-fur-petersen-3613514",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/272f1af3-0e75-411b-bf05-bd28b4cec37b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Freiburgs Trainer Christian Streich (l) und Freiburgs Nils Petersen umarmen sich nach dem Spiel.",
+      "topic": "Bundesliga"
+    },
+    {
+      "title": "Wendland-Agentur sucht Fachkräfte: Nur Wohnraum knapp",
+      "url": "https://www.volksstimme.de/panorama/wendland-agentur-sucht-fachkrafte-nur-wohnraum-knapp-3613510",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/cae7fdf6-d264-418a-8785-991a1dee8f38.jpeg?rect=0%2C20%2C2048%2C1152&width=100",
+      "image_title": "„Work. Life. Land“ steht auf einem Schild während der „Kulturellen Landpartie“",
+      "topic": "Lüchow-Dannenberg"
+    },
+    {
+      "title": "16-Jähriger fährt mit Roller in Transporter",
+      "url": "https://www.volksstimme.de/panorama/16-jahriger-fahrt-mit-roller-in-transporter-3613509",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/20/c56a39b1-2e39-4afc-a13a-963c9511b146.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Rettungswagen auf Einsatzfahrt.",
+      "topic": "Birkenfeld"
+    },
+    {
+      "title": "Boris Beckers Tochter Anna Ermakova siegt bei „Let's Dance“",
+      "teaser": "Die Britin Anna Ermakova war die Überraschung dieser „Let's Dance“-Staffel. Immer wieder brachte sie die Jury zum Staunen, die Herzen flogen ihr zu. Jetzt hat die 23-Jährige den Sieg geholt.",
+      "url": "https://www.volksstimme.de/kultur/tv-und-streaming/boris-beckers-tochter-anna-ermakova-siegt-bei-let-s-dance-3613416",
+      "topic": "Fernsehen"
+    },
+    {
+      "title": "Clint Eastwood baut Cast für „Juror No. 2“-Thriller aus",
+      "teaser": "Im Sommer sollen die Dreharbeiten starten - und wie jetzt bekannt wurde, werden zahlreiche Filmstars für den Thriller vor der Kamera stehen.",
+      "url": "https://www.volksstimme.de/kultur/tv-und-streaming/clint-eastwood-baut-cast-fur-juror-no-2-thriller-aus-3613415",
+      "topic": "Hollywood"
+    },
+    {
+      "title": "Werk von Gerhard Richter für 20,3 Millionen Euro versteigert",
+      "url": "https://www.volksstimme.de/kultur/werk-von-gerhard-richter-fur-20-3-millionen-euro-versteigert-3613326",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/9ec70f0c-65e7-4af8-aabf-018d0294858a.jpeg?rect=0%2C140%2C2048%2C1152&width=100",
+      "image_title": "Der Künstler Gerhard Richter ist einer der höchstgehandelten Maler der Welt.",
+      "topic": "Auktion"
+    },
+    {
+      "title": "Bosnischer Schriftsteller Dzevad Karahasan gestorben",
+      "url": "https://www.volksstimme.de/kultur/buch/bosnischer-schriftsteller-dzevad-karahasan-gestorben-3613314",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/476a3a92-91a8-4b43-8aff-729cbf75a750.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Dzevad Karahasan spricht in der Paulskirche hinter einer EU-Fahne (2020).",
+      "topic": "Abschied"
+    },
+    {
+      "title": "Salman Rushdie erstmals nach Messerattacke aufgetreten",
+      "url": "https://www.volksstimme.de/kultur/buch/salman-rushdie-erstmals-nach-messerattacke-aufgetreten-3613312",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/ee17a076-64ba-405b-b6d3-066e4d0e3580.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Der Schriftsteller Salman Rushdie kommt zur PEN America Literary Gala 2023 in New York.",
+      "topic": "Autor"
+    },
+    {
+      "title": "Digitalminister Wissing gegen Abgabe an Netzbetreiber",
+      "teaser": "Die EU-Kommission erörtert, ob Internet-Konzerne wie Google & Co. den europäischen Breitbandausbau mitfinanzieren sollen. Auch Digitalminister Wissing sieht das „offene und freie Internet“ in Gefahr.",
+      "url": "https://www.volksstimme.de/leben/digitalminister-wissing-gegen-abgabe-an-netzbetreiber-3613413",
+      "topic": "Internet"
+    },
+    {
+      "title": "BMW-Showcar: Shooting-Break-Studie erinnert an Z3 Coupé",
+      "url": "https://www.volksstimme.de/leben/auto/bmw-showcar-shooting-break-studie-erinnert-an-z3-coupe-3613385",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/6fe14cea-c9ce-421c-b67c-f3daa0241017.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "BMWs Concept Touring Coupé weckt Erinnerungen ans Z3 Coupé und könnte Pate stehen für ein mögliches Z4 Coupé.",
+      "topic": "Concept Touring Coupé"
+    },
+    {
+      "title": "Bilibili aus China spielt sich ins Halbfinale des LoL MSI",
+      "url": "https://www.volksstimme.de/leben/bilibili-aus-china-spielt-sich-ins-halbfinale-des-lol-msi-3613258",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/5663563a-79c5-4827-814b-a570bc4d850f.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Bilibili Gaming hat sich beim League of Legends MSI gegen Gen.G aus Südkorea durchgesetzt.",
+      "topic": "League of Legends"
+    },
+    {
+      "title": "Pflaster, Kompresse: Notfallkisten an polnischen Wanderwegen",
+      "url": "https://www.volksstimme.de/leben/pflaster-kompresse-notfallkisten-an-polnischen-wanderwegen-3613213",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/387fcd22-efda-4af0-aca0-4806fed20ace.jpeg?rect=0%2C71%2C2048%2C1152&width=100",
+      "image_title": "Wer in Polen in den Bergen unterwegs ist, findet an unterschiedlichen Stellen Erste-Hilfe-Material in entsprechenden Notfallkisten. Auf einer digitalen Karte sind die Standorte hinterlegt.",
+      "topic": "Erste Hilfe für Wandernde"
+    },
+    {
+      "title": "Wie Banken beim Kontoumzug mithelfen müssen",
+      "url": "https://www.volksstimme.de/leben/finanzen/wie-banken-beim-kontoumzug-mithelfen-mussen-3613192",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/05/19/e6359a9e-1e46-4762-bfdb-ca7b74aec733.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Genau nachrechnen: Der Umzug des Girokontos kann Kostenersparnis bringen. Alternativ kann man sich beim Berater der aktuellen Bank aber auch nach günstigeren Konditionen erkundigen.",
+      "topic": "Tagesgeldzinsen"
+    }
+  ]
 }
