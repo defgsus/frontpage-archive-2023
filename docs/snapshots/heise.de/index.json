@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-21T07:09:15",
+  "timestamp": "2023-05-21T08:12:40",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,6 +32,11 @@
   ],
   "articles": [
     {
+      "title": "Missing Link5 Jahre DSGVO – \"Die gezielte Panikmache hat sich gelegt\"",
+      "teaser": "Seit dem 25. Mai 2018 gilt die Datenschutz-Grundverordnung. Sie hat hiesige Grundsätze wie Datenminimierung bekannt gemacht und entzweit bis heute die Gemüter.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-5-Jahre-DSGVO-Die-gezielte-Panikmache-hat-sich-gelegt-9059939.html"
+    },
+    {
       "title": "ChatGPTs dunkler Bruder?DarkBERT ist mit Daten aus dem Darknet trainiert",
       "teaser": "Forscher haben ein KI-Modell entwickelt, das mit Daten aus dem Darknet trainiert ist – DarkBERTs Quelle sind Hacker, Cyberkriminelle, politisch Verfolgte.",
       "url": "https://www.heise.de/news/DarkBERT-ist-mit-Daten-aus-dem-Darknet-trainiert-ChatGPTs-dunkler-Bruder-9060809.html"
@@ -46,11 +51,6 @@
       "title": "Edward SnowdenDie Enthüllungen des NSA-Whistleblowers 10 Jahre später",
       "teaser": "Am 20. Mai 2013 landete Edward Snowden mit brisanten Dokumenten in Hongkong und lüftete den Schleier um weltumspannende einschneidende Lauschprogramme der NSA.",
       "url": "https://www.heise.de/hintergrund/10-Jahre-Snowden-Enthuellungen-Was-hat-der-NSA-Whistleblower-bewirkt-9060879.html"
-    },
-    {
-      "title": "BSI-Affäre um SchönbohmFaesers Fehler und Böhmermanns Beitrag",
-      "teaser": "Der von Jan Böhmermann ins Rollen gebrachte Fall Schönbohm war keiner, die Affäre belastet nun auch Innenministerin Faeser. Es gibt nur Verlierer.",
-      "url": "https://www.heise.de/hintergrund/BSI-Affaere-um-Schoenbohm-Faesers-Fehler-und-Boehmermanns-Beitrag-9059069.html"
     },
     {
       "title": "Multi-Faktor-AuthentifizierungMicrosoft: Keine Wahl bei der Anmeldung mehr",
@@ -85,10 +85,9 @@
       "url": "https://www.heise.de/ratgeber/Midjourney-5-1-So-liefert-ChatGPT-bessere-Prompts-fuer-KI-Kunst-8994133.html?wt_mc=intern.red.plus.topteaser.startseite.teaser.teaser"
     },
     {
-      "title": "eHealthÄrztetag gegen Gematik als staatliche Gesundheitsagentur",
-      "teaser": "Der Ärztetag zeigt sich insgesamt unzufrieden mit der Digitalisierung des Gesundheitswesens und fordert unter anderem mehr Mitsprache und Praxistauglichkeit.",
-      "url": "https://www.heise.de/news/Aerztetag-gegen-Gematik-als-staatliche-Gesundheitsagentur-9060663.html",
-      "image_title": "127. Deutscher Ärztetag"
+      "title": "BSI-Affäre um SchönbohmFaesers Fehler und Böhmermanns Beitrag",
+      "teaser": "Der von Jan Böhmermann ins Rollen gebrachte Fall Schönbohm war keiner, die Affäre belastet nun auch Innenministerin Faeser. Es gibt nur Verlierer.",
+      "url": "https://www.heise.de/hintergrund/BSI-Affaere-um-Schoenbohm-Faesers-Fehler-und-Boehmermanns-Beitrag-9059069.html"
     },
     {
       "title": "Messen und optimierenWas die Apple Watch für Ihre Gesundheit tun kann",
@@ -97,19 +96,20 @@
       "image_title": ", Clement Lauwaert, unsplash.com; Montage: Mac & i"
     },
     {
-      "title": "c't 3003Viel schneller als ChatGPT: Google Bard ausprobiert",
-      "teaser": "Google Bard soll nun endlich zeigen, dass der Suchmaschinenriese auch Chatbot kann. c't 3003 hat Bard mit ChatGPT und Bing verglichen.",
-      "url": "https://www.heise.de/news/Viel-schneller-als-ChatGPT-Google-Bard-ausprobiert-9058807.html"
-    },
-    {
-      "title": "Artemis-Programm der NasaBlue Origin soll zweite Mondlandefähre entwickeln",
-      "teaser": "Ursprünglich hatte Jeff Bezos' Raumfahrtunternehmen bei der NASA gegenüber Elon Musks SpaceX den Kürzeren gezogen. Nun dürfen beide eine Mondlandefähre bauen.",
-      "url": "https://www.heise.de/news/Artemis-Programm-Blue-Origin-soll-zweite-Mondlandefaehre-entwickeln-9060605.html"
-    },
-    {
       "title": "KommentarWer den Fachkräftemangel verursacht, braucht hinterher nicht zu jammern",
       "teaser": "Die Dauerkrise Fachkräftemangel haben Unternehmen selbst zu verantworten. Denn bei der Ausbildung des Nachwuchses machen sie vieles falsch, meint Sven Scharpe.",
       "url": "https://www.heise.de/meinung/Kommentar-Am-Fachkraeftemangel-sind-Unternehmen-selbst-schuld-9058100.html"
+    },
+    {
+      "title": "eHealthÄrztetag gegen Gematik als staatliche Gesundheitsagentur",
+      "teaser": "Der Ärztetag zeigt sich insgesamt unzufrieden mit der Digitalisierung des Gesundheitswesens und fordert unter anderem mehr Mitsprache und Praxistauglichkeit.",
+      "url": "https://www.heise.de/news/Aerztetag-gegen-Gematik-als-staatliche-Gesundheitsagentur-9060663.html",
+      "image_title": "127. Deutscher Ärztetag"
+    },
+    {
+      "title": "c't 3003Viel schneller als ChatGPT: Google Bard ausprobiert",
+      "teaser": "Google Bard soll nun endlich zeigen, dass der Suchmaschinenriese auch Chatbot kann. c't 3003 hat Bard mit ChatGPT und Bing verglichen.",
+      "url": "https://www.heise.de/news/Viel-schneller-als-ChatGPT-Google-Bard-ausprobiert-9058807.html"
     },
     {
       "title": "c’t uplinkKompakte Notebooks ab 1 kg Gewicht im Vergleich",
@@ -275,9 +275,10 @@
       "url": "https://www.heise.de/hintergrund/Textil-mit-Hardware-Patent-fuer-Nieten-Jeans-wird-150-Jahre-9054479.html"
     },
     {
-      "title": "Mit VMware einfach und souverän vom Rechenzentrum in die Cloud",
-      "teaser": "Wie kann ich meine Legacy-Systemlandschaft in die Cloud migrieren, ohne die Hoheit über meine Daten zu gefährden? Im Live-Webcast am 13.6. zeigen wir Ihnen eine Möglichkeit, wie Sie diese Herausforderung meistern können.",
-      "url": "https://business-services.heise.de/it-management/cloud-computing/beitrag/it-modernisierung-mit-vmware-einfach-und-souveraen-vom-rechenzentrum-in-die-cloud-4519/?source=hbsad_ersatz"
+      "title": "Backup im Wandel - sichern Sie noch oder verwalten Sie schon?",
+      "teaser": "Um sensible Daten vor den Zugriffen unberechtigter Dritter zu schützen, kommt es nicht nur auf eine Absicherung der lokalen Dateien an: Gerade während des Datentransfers können sensible Daten schnell in falsche Hände geraten. Dabei können drei einfache Maßnahmen die Datensicherheit auf diesem Weg massiv verbessern.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/drei-einfache-massnahmen-fuer-einen-sicheren-datentransfer-4514/?source=hbsadersatz",
+      "image_title": "Live-Webcast: Drei einfache Maßnahmen für einen sicheren Datentransfer"
     },
     {
       "title": "Kompakte Notebooks ab 1 kg Gewicht im Vergleich | c’t uplink",
@@ -707,19 +708,19 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-e-scooter-im-test/1wx49v3?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Russlands Brain Drain: Wenn Jungakademiker mit den Füßen abstimmen",
-      "teaser": "Umfrage zeigt Auswanderungspläne gebildeter Russen. Einige haben das Land seit Kriegsbeginn verlassen. Warum das Problem größer werden könnte als gedacht.",
-      "url": "https://www.heise.de/tp/features/Russlands-Brain-Drain-Wenn-Jungakademiker-mit-den-Fuessen-abstimmen-9060532.html"
+      "title": "Druck der Finanzmärkte: Warum das Rentenalter bald steigen dürfte",
+      "teaser": "Ratingagenturen fordern von europäischen Staaten Reform der Rentensysteme. Ohne sie könnte der Zugang zu Krediten erschwert werden. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/Druck-der-Finanzmaerkte-Warum-das-Rentenalter-bald-steigen-duerfte-9059470.html"
     },
     {
-      "title": "PR-Desaster des grünen Kapitalismus: Was von der Graichen-Affäre bleibt",
-      "teaser": "Staatssekretär Graichen ist weg. Die Koalitionskrise setzt sich fort. Sozialen Klimaschutz hat keine der sich bekämpfenden Kapitalfraktionen auf dem Zettel.",
-      "url": "https://www.heise.de/tp/features/PR-Desaster-des-gruenen-Kapitalismus-Was-von-der-Graichen-Affaere-bleibt-9059540.html"
+      "title": "Kriegswirtschaft: Was der globale Umbruch für unser Leben bedeuten kann",
+      "teaser": "Auf dem Weg zum erzwungenen Markt, dem nächsten Test einer Ausnahmesituation, zur Planwirtschaft? Ein Essay zur ökonomischen Mobilmachung.",
+      "url": "https://www.heise.de/tp/features/Kriegswirtschaft-Was-der-globale-Umbruch-fuer-unser-Leben-bedeuten-kann-9060677.html"
     },
     {
-      "title": "Für Frieden in der Ukraine: USA können mit China zusammenarbeiten",
-      "teaser": "Ändert Washington den Kurs und setzt gegenüber Beijing auf Diplomatie? Die Hürden dafür sind hoch, aber sie können überwunden werden. Was auf dem Spiel steht.",
-      "url": "https://www.heise.de/tp/features/Fuer-Frieden-in-der-Ukraine-USA-koennen-mit-China-zusammenarbeiten-9057773.html"
+      "title": "Land unter in Italien",
+      "teaser": "Schwere Hochwasser nach historischen Niederschlägen. Weshalb diese in einem wärmeren Klima tendenziell heftiger werden.",
+      "url": "https://www.heise.de/tp/features/Land-unter-in-Italien-9060638.html"
     },
     {
       "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",

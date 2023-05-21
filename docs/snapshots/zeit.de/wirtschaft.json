@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-21T07:09:49",
+  "timestamp": "2023-05-21T08:13:12",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "G7-Gipfel: Gas, Atom und Waffen – das sind die G7-Beschlüsse",
+      "teaser": "Weniger Rohstoffe aus Russland, mehr Geld für die Ukraine – das beschlossen die großen Demokratien in Japan. China ist für die G7 Partner und Rivale zugleich.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/g7-gipfel-hiroshima-beschluesse-ukraine-china",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-05/g7-gipfel-hiroshima-beschluesse-ukraine-china-foto/cinema__980x420"
+    },
+    {
       "title": "Griechenland-Wahl: War da was?",
       "teaser": "Griechenland wählt – und steht heute ganz anders da als vor wenigen Jahren. Kyriakos Mitsotakis wirbt mit Wirtschaftserfolgen, Alexis Tsipras will verstaatlichen.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/griechenland-wahl-alexis-tsipras-kyriakos-mitsotakis",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/griechenland-wahl-alexis-tsipras-kyriakos-mitsotakis-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/griechenland-wahl-alexis-tsipras-kyriakos-mitsotakis-bild/wide__822x462",
+      "image_title": "Griechenland-Wahl: War da was?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Scheidung: Wie Sie eine Scheidung gut finanziell vorbereiten",
@@ -66,14 +73,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Finanzpolitik von Christian Lindner: Ist er jetzt der Richtige?",
       "teaser": "Der Finanzminister will sparen – seine Koalitionspartner wollen mehr ausgeben. Hier streiten zwei Top-Ökonomen, ob Christian Lindners Politik gerade nützt oder schadet.",
       "url": "https://www.zeit.de/2023/21/christian-lindner-finanzpolitik-inflation-sparen-schuldenquote",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/christian-lindner-finanzpolitik-inflation-sparen-schuldenquote-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/christian-lindner-finanzpolitik-inflation-sparen-schuldenquote-bild/cinema__980x420",
       "image_title": "Finanzpolitik von Christian Lindner: Ist er jetzt der Richtige?"
     },
     {
       "title": "China-Politik: G7-Staaten wollen Risiken im China-Geschäft verringern",
-      "teaser": "Abhängigkeiten abbauen, sensible Technologie schützen: Die G7 haben eine China-Strategie formuliert. Der Handelsmacht werden \"konstruktive\" Beziehungen angeboten. 105 Kommentare",
+      "teaser": "Abhängigkeiten abbauen, sensible Technologie schützen: Die G7 haben eine China-Strategie formuliert. Der Handelsmacht werden \"konstruktive\" Beziehungen angeboten.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/china-politik-g7-staaten-gipfel-treffen-hiroshima",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-05/g7-staaten-china-wirtschaft-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-05/g7-staaten-china-wirtschaft-bild/wide__822x462",
       "image_title": "China-Politik: G7-Staaten wollen Risiken im China-Geschäft verringern"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/2023/21/frankreich-industriepolitk-emmanuel-macron-elektromobilitaet",
       "image_url": "https://img.zeit.de/2023/21/frankreich-industriepolitk-emmanuel-macron-elektromobilitaet-bild/wide__822x462",
       "image_title": "Frankreichs Industriepolitik: Kein Geld für China"
-    },
-    {
-      "title": "Vermögen: Der Wohlstand ist ungleich verteilt",
-      "teaser": "Das Vermögen privater Haushalte ist zwar gestiegen, allerdings ist es weiterhin ungleich verteilt. Alles zum Thema",
-      "url": "https://www.zeit.de/thema/vermoegen",
-      "image_url": "https://img.zeit.de/geld/2023-05/vermoegen-thema/wide__822x462",
-      "image_title": "Vermögen: Der Wohlstand ist ungleich verteilt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Solarenergie: Womit keiner rechnet",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Vermögen: Der Wohlstand ist ungleich verteilt",
+      "teaser": "Das Vermögen privater Haushalte ist zwar gestiegen, allerdings ist es weiterhin ungleich verteilt. Alles zum Thema",
+      "url": "https://www.zeit.de/thema/vermoegen",
+      "image_url": "https://img.zeit.de/geld/2023-05/vermoegen-thema/wide__822x462",
+      "image_title": "Vermögen: Der Wohlstand ist ungleich verteilt"
+    },
+    {
       "title": "Volkswagen: VW zieht sich vollständig aus Russland zurück",
       "teaser": "Europas größter Autohersteller kehrt Russland den Rücken: Volkswagen verkauft seine moderne Fabrik in Kaluga. Russland sucht nun einen neuen Vertragspartner in Asien.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-05/volkswagen-werk-russland-kaluga-verkauf-rueckzug",
@@ -218,16 +225,16 @@
     },
     {
       "title": "Bundesfinanzministerium: Steuereinnahmen von Bund und Ländern sinken deutlich",
-      "teaser": "Energiekrise und Inflation: Die Entlastungen für Privathaushalte und Unternehmen machen sich in einem rückläufigen Lohnsteueraufkommen bemerkbar.",
+      "teaser": "Energiekrise und Inflation: Die Entlastungen für Privathaushalte und Unternehmen machen sich in einem rückläufigen Lohnsteueraufkommen bemerkbar. 193 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-05/steuer-einnahmen-bund-bundeslaender-bundesfinanzministerium",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/steuer-einnahmen-bund-bundeslaender-bundesfinanzministerium-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/steuer-einnahmen-bund-bundeslaender-bundesfinanzministerium-bild/cinema__980x420",
       "image_title": "Bundesfinanzministerium: Steuereinnahmen von Bund und Ländern sinken deutlich"
     },
     {
       "title": "Bundeswirtschaftsministerium : Unternehmensbeteiligungen von Staatssekretär Udo Philipp offengelegt",
-      "teaser": "Das Ministerium von Robert Habeck bemüht sich um Transparenz, nachdem sein Staatssekretär Patrick Graichen gehen musste. Denn auch Udo Philipp steht in der Kritik. 937 Kommentare",
+      "teaser": "Das Ministerium von Robert Habeck bemüht sich um Transparenz, nachdem sein Staatssekretär Patrick Graichen gehen musste. Denn auch Udo Philipp steht in der Kritik.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/wirtschaftsministerium-vetternwirtschaft-graichen-udo-philipp-staatssekretaer",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-05/wirtschaftsministerium-vetternwirtschaft-graichen-udo-philipp-staatssekretaer-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-05/wirtschaftsministerium-vetternwirtschaft-graichen-udo-philipp-staatssekretaer-bild/wide__822x462",
       "image_title": "Bundeswirtschaftsministerium : Unternehmensbeteiligungen von Staatssekretär Udo Philipp offengelegt"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-05/deutsche-bank-jeffrey-epstein-vergleich",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/deutsche-bank-epstein-vergleich/wide__822x462",
       "image_title": "Sammelklage: Deutsche Bank will Epstein-Prozess mit 75 Millionen Dollar beilegen"
-    },
-    {
-      "title": "G7-Gipfel in Japan: \"Die Weltwirtschaft wird gerade regionalisiert\"",
-      "teaser": "Der Westen hat immer weniger Einfluss, sagt der Politikwissenschaftler Parag Khanna vor dem G7-Gipfel. Die Zukunft sieht er in mächtigen regionalen Bündnissen.",
-      "url": "https://www.zeit.de/2023/21/g7-gipfel-japan-wto-iwf-weltwirtschaft",
-      "image_url": "https://img.zeit.de/2023/21/g7-gipfel-japan-wto-iwf/wide__822x462",
-      "image_title": "G7-Gipfel in Japan: \"Die Weltwirtschaft wird gerade regionalisiert\""
     },
     {
       "title": "Theranos-Gründerin: Bluttest-Betrügerin Elizabeth Holmes muss Haftstrafe Ende Mai antreten",
@@ -294,18 +294,18 @@
       "image_title": "Kulturelle Unterschiede: Was sparwütige Deutsche von optimistischen Amerikanern lernen"
     },
     {
-      "title": "WirtschaftsWocheWirtschaft von oben: Hier kämpfen Förderfirmen immer härter um schwindende Goldreserven",
-      "teaser": "Peak Gold ist womöglich bereits überschritten, die abgebaute Menge geht zurück. Satellitenbilder zeigen, wo das Edelmetall gerade besonders intensiv gefördert wird. Wirtschaft von oben ist eine Kooperation mit LiveEO.",
-      "url": "https://www.wiwo.de/technologie/wirtschaft-von-oben/wirtschaft-von-oben-210-gold-hier-kaempfen-foerderfirmen-immer-haerter-um-schwindende-goldreserven/29158638.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/teaserbild-cortez-mine_nord/29161294/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Wirtschaft von oben: Hier kämpfen Förderfirmen immer härter um schwindende Goldreserven"
+      "title": "WirtschaftsWocheTauchsieder: Neustart – oder Kollaps?",
+      "teaser": "Nach dem Rücktritt von Habecks Staatssekretär Patrick Graichen: Fasst die Ampel klimapolitisch Tritt? Schafft es die Union raus aus dem Sandkasten? Und will das Land die grüne Transformation noch gestalten? Eine Kolumne.",
+      "url": "https://www.wiwo.de/politik/deutschland/tauchsieder-neustart-oder-kollaps/29161386.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/merz-lindner-habeck-scholz-streit-imago-rtr-dpa-mst/29160986/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Tauchsieder: Neustart – oder Kollaps?"
     },
     {
-      "title": "WirtschaftsWocheElektrofahrzeuge: Niedergang der britischen Autoindustrie seit dem Brexit",
-      "teaser": "Gemäß dem Handelsabkommen zwischen London und der EU sollen die Ursprungsregeln für Elektrofahrzeuge im kommenden Jahr verschärft werden. Automobilhersteller auf beiden Seiten des Ärmelkanals schreien auf.",
-      "url": "https://www.wiwo.de/unternehmen/auto/elektrofahrzeuge-niedergang-der-britischen-autoindustrie-seit-dem-brexit/29161662.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/reuters-rtse6imn-highres/29161666/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Elektrofahrzeuge: Niedergang der britischen Autoindustrie seit dem Brexit"
+      "title": "WirtschaftsWocheIT-Infrastruktur: So abhängig ist Deutschland von Microsoft",
+      "teaser": "Ohne Microsoft kommt kaum ein Unternehmen aus – und auch die Bundesregierung ist abhängig von dem Softwarekonzern. Wie viel Geld Deutschland 2022 für Microsoft-Produkte ausgab.",
+      "url": "https://www.wiwo.de/unternehmen/it/it-infrastruktur-so-abhaengig-ist-deutschland-von-microsoft/29161434.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/file-the-microsoft-logo-is-pictured-outside-the-headquarters-in-paris-on-jan-8-2021-the-european-union-on-monday-approved-microsoftas-69-billion-purchase-of-video-game-maker-activision-blizzard-deciding-the-deal-wonat-stifle-competition-for-popular-console-titles-like-call-of-duty-and-ac/29161436/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "IT-Infrastruktur: So abhängig ist Deutschland von Microsoft"
     }
   ]
 }
