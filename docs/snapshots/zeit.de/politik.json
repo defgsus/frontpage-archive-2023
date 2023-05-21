@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-21T05:10:13",
+  "timestamp": "2023-05-21T06:13:42",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -51,9 +51,16 @@
   "articles": [
     {
       "title": "G7-Gipfel : G7-Staaten weiterhin für große Investitionen in China",
-      "teaser": "Olaf Scholz will die wirtschaftliche Zusammenarbeit mit China nicht infrage stellen. Zugleich müssten Abhängigkeiten reduziert und mehr Länder unterstützt werden.",
+      "teaser": "Olaf Scholz will die wirtschaftliche Zusammenarbeit mit China nicht infrage stellen. Die Gefahr einer Konfrontation mit der Volksrepublik sieht er nicht.",
       "url": "https://www.zeit.de/politik/ausland/2023-05/g7-gipfel-japan-china-investitionen-diversifizierung-olaf-scholz",
       "image_url": "https://img.zeit.de/politik/ausland/2023-05/g7-gipfel-japan-china-investitionen-diversifizierung-olaf-scholz-bild/cinema__980x420"
+    },
+    {
+      "title": "Nachrichtenpodcast: Steht die Zukunft der Bundesliga auf dem Spiel?",
+      "teaser": "Floridas Gouverneur streitet mit Disney, es geht um viel Geld und sexuelle Freiheit. Zudem: Ein Investorendeal könnte über die Zukunft der Fußball-Bundesliga entscheiden.",
+      "url": "https://www.zeit.de/politik/2023-05/ron-desantis-florida-disney-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Steht die Zukunft der Bundesliga auf dem Spiel?"
     },
     {
       "title": "Schuldenstreit: US-Demokraten werfen Republikanern vor, Zahlungsausfall zu provozieren",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-05/schuldenstreit-demokraten-republikaner-vorwuerfe-zahlungsausfall",
       "image_url": "https://img.zeit.de/politik/ausland/2023-05/schuldenstreit-demokraten-republikaner-vorwuerfe-zahlungsausfall-bild/wide__822x462",
       "image_title": "Schuldenstreit: US-Demokraten werfen Republikanern vor, Zahlungsausfall zu provozieren"
-    },
-    {
-      "title": "Liveblog: Ukraine-Krieg: Wolodymyr Selenskyj hält Rede beim G7-Treffen",
-      "teaser": "Nach bilateralen Gesprächen hält der ukrainische Präsident in Hiroshima eine Ansprache. Olaf Scholz sieht im Kampfjetprojekt eine Botschaft an Russland. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-05/ukraine-liveblog-selenskyj-g7-rede-scholz-bild/wide__822x462",
-      "image_title": "Ukraine-Krieg: Wolodymyr Selenskyj hält Rede beim G7-Treffen"
     },
     {
       "title": "Liveblog: Türkei-Wahl: Türkei steht vor Stichwahl – Erdoğan verpasst 50-Prozent-Marke",
@@ -162,18 +162,18 @@
       "image_title": "Bachmut: Kleine Erfolge vor der großen Offensive"
     },
     {
+      "title": "Liveblog: Ukraine-Krieg: Wolodymyr Selenskyj hält Rede beim G7-Treffen",
+      "teaser": "Nach bilateralen Gesprächen hält der ukrainische Präsident in Hiroshima eine Ansprache. Olaf Scholz sieht im Kampfjetprojekt eine Botschaft an Russland. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-05/ukraine-liveblog-selenskyj-g7-rede-scholz-bild/cinema__980x420",
+      "image_title": "Ukraine-Krieg: Wolodymyr Selenskyj hält Rede beim G7-Treffen"
+    },
+    {
       "title": "Griechenland: Bei der Parlamentswahl in Griechenland geht es um einen Richtungskampf",
       "teaser": "In Griechenland wird gewählt. Regierungschef Kyriakos Mitsotakis wirbt mit Steuerentlastungen, der Linke Alexis Tsipras will den Sozialstaat ausbauen.",
       "url": "https://www.zeit.de/politik/ausland/2023-05/griechenland-wahlen-ministerpraesident-kyriakos-mitsotakis-nea-demokratia-syriza-alexis-tsipras",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-05/kyriakos-mitsotakis/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-05/kyriakos-mitsotakis/wide__822x462",
       "image_title": "Griechenland: Bei der Parlamentswahl in Griechenland geht es um einen Richtungskampf"
-    },
-    {
-      "title": "Nachrichtenpodcast: Disney versus DeSantis",
-      "teaser": "Floridas Gouverneur Ron DeSantis streitet mit Disney. Es geht um Sonderrechte, Investitionen und sexuelle Freiheit. Und: Steht die Zukunft der Bundesliga auf dem Spiel?",
-      "url": "https://www.zeit.de/politik/2023-05/ron-desantis-florida-disney-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Disney versus DeSantis"
     },
     {
       "title": "Heizungsgesetz: Klimaökonom rät zu neuem Heizungsgesetz mit CO₂-Handel",
@@ -191,7 +191,7 @@
     },
     {
       "title": "Nordirland: Sinn Féin bei Kommunalwahl wohl stärkste Kraft",
-      "teaser": "Die katholische Sinn Féin hat einen Wahlerfolg eingefahren und ist erstmals bei Kommunalwahlen stärkste Kraft. Die Partei setzt sich für eine Vereinigung mit Irland ein.",
+      "teaser": "Die katholische Sinn Féin hat einen Wahlerfolg erzielt und ist erstmals bei Kommunalwahlen stärkste Kraft. Die Partei setzt sich für eine Vereinigung mit Irland ein.",
       "url": "https://www.zeit.de/politik/2023-05/nordirland-sinn-fein-kommunalwahl-katholiken-brexit",
       "image_url": "https://img.zeit.de/politik/2023-05/wahllokal-in-nordirland/wide__822x462",
       "image_title": "Nordirland: Sinn Féin bei Kommunalwahl wohl stärkste Kraft"
