@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-22T18:14:37",
+  "timestamp": "2023-05-22T19:09:09",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Rassismus im Fußball: Fans und Liga gegen Vinícius Júnior",
+      "teaser": "Der Star von Real Madrid wird erneut rassistisch beleidigt. Die Ligaverantwortlichen aber entschuldigen sich nicht – sondern greifen das Opfer an.",
+      "url": "https://www.zeit.de/sport/2023-05/vinicius-junior-rassismus-valencia",
+      "image_url": "https://img.zeit.de/sport/2023-05/vinicius-junior/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Thomas Tuchel: Der Robert Habeck des Fußballs",
       "teaser": "Thomas Tuchel kann gerade sehr gut erklären, was beim FC Bayern München alles nicht gut läuft. Damit befindet er sich auf einem paradoxen Höhepunkt seiner Karriere.",
       "url": "https://www.zeit.de/kultur/2023-05/thomas-tuchel-fc-bayern-muenchen",
-      "image_url": "https://img.zeit.de/sport/2023-05/thomas-tuchel-fc-bayern-muenchen-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-05/thomas-tuchel-fc-bayern-muenchen-bild/wide__822x462",
+      "image_title": "Thomas Tuchel: Der Robert Habeck des Fußballs"
     },
     {
       "title": "Real Madrid: Rassismus-Skandal sorgt für Streit in spanischer Fußballliga",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-05/vinicius-junior-real-madrid-rassismus-spanien-la-liga",
       "image_url": "https://img.zeit.de/sport/2023-05/vinicius-junior-real-madrid-bild/wide__822x462",
       "image_title": "Real Madrid: Rassismus-Skandal sorgt für Streit in spanischer Fußballliga"
-    },
-    {
-      "title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab",
-      "teaser": "Alexander Zverev ist erstmals seit fast sieben Jahren nicht mehr Deutschlands bester Tennisspieler. Jan-Lennard Struff zog in der Weltrangliste am Olympiasieger vorbei.",
-      "url": "https://www.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis",
-      "image_url": "https://img.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis-bild/wide__822x462",
-      "image_title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab"
     },
     {
       "title": "DFL: Die Zwei-Milliarden-Euro-Frage",
@@ -91,6 +91,13 @@
       "image_title": "Hertha BSC: \"Keene Haare uffm Kopp, aber n Kamm inner Tasche!\""
     },
     {
+      "title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab",
+      "teaser": "Alexander Zverev ist erstmals seit fast sieben Jahren nicht mehr Deutschlands bester Tennisspieler. Jan-Lennard Struff zog in der Weltrangliste am Olympiasieger vorbei.",
+      "url": "https://www.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis",
+      "image_url": "https://img.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis-bild/wide__822x462",
+      "image_title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab"
+    },
+    {
       "title": "Bundesligarückschau: Stellt das Hansa Pils kalt! Sperrt den Borsigplatz!",
       "teaser": "Es ist nur noch ein Spiel und der BVB steht tatsächlich oben. Es scheint wirklich möglich, dass er die Liga von der Alleinherrschaft der Bayern befreit. Der 33. Spieltag",
       "url": "https://www.zeit.de/sport/2023-05/borussia-dortmund-meister-bayern-muenchen-sebastien-haller",
@@ -105,13 +112,6 @@
       "image_title": "Bundesliga, 33. Spieltag – Sonntag: Dortmund ist neuer Tabellenführer"
     },
     {
-      "title": "Eishockey-Weltmeisterschaft: Deutschland gewinnt drittes Spiel in Folge",
-      "teaser": "Gegen den Außenseiter Ungarn hat das deutsche Eishockey-Team wenig Mühe, einen klaren Sieg zu holen. NHL-Spieler Nico Sturm sorgt mit zwei Toren für die Entscheidung.",
-      "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-deutschland-ungarn",
-      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-nico-sturm/wide__822x462",
-      "image_title": "Eishockey-Weltmeisterschaft: Deutschland gewinnt drittes Spiel in Folge"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -119,11 +119,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "2. Bundesliga: SV Elversberg steigt erstmals in die 2. Liga auf",
-      "teaser": "Zum ersten Mal in der Vereinsgeschichte wird Elversberg 2023/24 in der 2. Bundesliga spielen. Der Aufstieg gelingt indirekt durch ein Unentschieden des 1. FC Saarbrücken.",
-      "url": "https://www.zeit.de/sport/2023-05/zweite-bundesliga-aufstieg-sv-elversberg-saarbruecken-duisburg",
-      "image_url": "https://img.zeit.de/sport/2023-05/zweite-bundesliga-aufstieg-sv-elversberg-saarbruecken-duisburg-bild/wide__822x462",
-      "image_title": "2. Bundesliga: SV Elversberg steigt erstmals in die 2. Liga auf"
+      "title": "Eishockey-Weltmeisterschaft: Deutschland gewinnt drittes Spiel in Folge",
+      "teaser": "Gegen den Außenseiter Ungarn hat das deutsche Eishockey-Team wenig Mühe, einen klaren Sieg zu holen. NHL-Spieler Nico Sturm sorgt mit zwei Toren für die Entscheidung.",
+      "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-deutschland-ungarn",
+      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-nico-sturm/wide__822x462",
+      "image_title": "Eishockey-Weltmeisterschaft: Deutschland gewinnt drittes Spiel in Folge"
     },
     {
       "title": "Fußballpodcast: Er hat etwas von Zauberei, Luka Modrić ist Entfesselungskünstler",
@@ -147,6 +147,13 @@
       "image_title": "SV Elversberg: Warum dieser Bürgermeister aus seinem Fenster klettert"
     },
     {
+      "title": "2. Bundesliga: SV Elversberg steigt erstmals in die 2. Liga auf",
+      "teaser": "Zum ersten Mal in der Vereinsgeschichte wird Elversberg 2023/24 in der 2. Bundesliga spielen. Der Aufstieg gelingt indirekt durch ein Unentschieden des 1. FC Saarbrücken.",
+      "url": "https://www.zeit.de/sport/2023-05/zweite-bundesliga-aufstieg-sv-elversberg-saarbruecken-duisburg",
+      "image_url": "https://img.zeit.de/sport/2023-05/zweite-bundesliga-aufstieg-sv-elversberg-saarbruecken-duisburg-bild/wide__822x462",
+      "image_title": "2. Bundesliga: SV Elversberg steigt erstmals in die 2. Liga auf"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fitnessübung: Einarmige Push-ups",
       "teaser": "Liegestütze mit nur einem Arm? Klingt anstrengend, ist aber höchsteffektiv. Und Sie können die Übung sogar im Stehen machen.",
       "url": "https://www.zeit.de/sport/2023-05/fitnessuebung-einarmige-pushups-personal-trainer",
@@ -159,13 +166,6 @@
       "url": "https://www.zeit.de/sport/2023-05/bundesliga-33-spieltag-bremen-gerettet-hertha-absteiger",
       "image_url": "https://img.zeit.de/sport/2023-05/fc-bayern-leipzig/wide__822x462",
       "image_title": "Bundesliga, 33. Spieltag – Samstag: Leipzig gewinnt beim FC Bayern"
-    },
-    {
-      "title": "Premier League: Manchester City gewinnt englische Meisterschaft",
-      "teaser": "Durch eine Niederlage des FC Arsenal kann sich Manchester City vorzeitig die englische Meisterschaft sichern. Es ist der dritte Titel in Folge.",
-      "url": "https://www.zeit.de/sport/2023-05/premier-league-manchester-city-englischer-fussballmeister",
-      "image_url": "https://img.zeit.de/sport/2023-05/manchester-city-bild/wide__822x462",
-      "image_title": "Premier League: Manchester City gewinnt englische Meisterschaft"
     },
     {
       "title": "Bundesligarückschau: Stellt das Hansa Pils kalt! Sperrt den Borsigplatz!",
