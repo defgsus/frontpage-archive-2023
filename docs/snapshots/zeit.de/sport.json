@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-23T11:10:24",
+  "timestamp": "2023-05-23T12:21:58",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); FC Bayern München: Weiter, weiter, immer weiter!",
+      "title": "Eishockey-WM: Deutschland zieht bei Eishockey-WM ins Viertelfinale ein",
+      "teaser": "Im Gruppenspiel gegen Frankreich hat das deutsche Team mit deutlichem Abstand gewonnen. Damit spielt Deutschland im Viertelfinale gegen die Schweiz.",
+      "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-deutschland-frankreich-gruppenspiel",
+      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-deutschland-frankreich-bild/cinema__980x420"
+    },
+    {
+      "title": "FC Bayern München: Weiter, weiter, immer weiter!",
       "teaser": "Mit dem FC Bayern Zweiter zu werden, das muss man erst mal schaffen. Oliver Kahn und Hasan Salihamidžić machen den deutschen Fußball wieder spannend. Danke dafür.",
       "url": "https://www.zeit.de/sport/2023-05/fc-bayern-muenchen-bundesliga-oliver-kahn-hasan-salihamidzic",
-      "image_url": "https://img.zeit.de/sport/2023-05/kahn-salihamidzic/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-05/kahn-salihamidzic/wide__822x462",
+      "image_title": "FC Bayern München: Weiter, weiter, immer weiter!"
     },
     {
       "title": "Rassismus im Fußball: Atlético-Fans nach Drohaktion gegen Vinícius Júnior festgenommen",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-05/vinicius-real-madrid-rassismus-fussball",
       "image_url": "https://img.zeit.de/sport/2023-05/rassismus-festnahmen-madrid-vinicious-junior-bild/wide__822x462",
       "image_title": "Rassismus im Fußball: Atlético-Fans nach Drohaktion gegen Vinícius Júnior festgenommen"
-    },
-    {
-      "title": "Internationaler Skiverband Fis: Greenpeace wirft Ski-Weltverband Greenwashing vor",
-      "teaser": "Umweltschutzgruppen fordern vom Internationalen Skiverband konsequentere Klimaschutzmaßnahmen. Dazu gehöre auch eine Reform des Weltcup-Kalenders.",
-      "url": "https://www.zeit.de/sport/2023-05/greenpeace-greenwashing-internationaler-skiverband-fis",
-      "image_url": "https://img.zeit.de/sport/2023-05/greenpeace-greenwashing-internationaler-skiverband-fis-bild/wide__822x462",
-      "image_title": "Internationaler Skiverband Fis: Greenpeace wirft Ski-Weltverband Greenwashing vor"
     },
     {
       "title": "DFL: Die Zwei-Milliarden-Euro-Frage",
@@ -91,6 +91,13 @@
       "image_title": "Hertha BSC: \"Keene Haare uffm Kopp, aber n Kamm inner Tasche!\""
     },
     {
+      "title": "Internationaler Skiverband Fis: Greenpeace wirft Ski-Weltverband Greenwashing vor",
+      "teaser": "Umweltschutzgruppen fordern vom Internationalen Skiverband konsequentere Klimaschutzmaßnahmen. Dazu gehöre auch eine Reform des Weltcup-Kalenders.",
+      "url": "https://www.zeit.de/sport/2023-05/greenpeace-greenwashing-internationaler-skiverband-fis",
+      "image_url": "https://img.zeit.de/sport/2023-05/greenpeace-greenwashing-internationaler-skiverband-fis-bild/wide__822x462",
+      "image_title": "Internationaler Skiverband Fis: Greenpeace wirft Ski-Weltverband Greenwashing vor"
+    },
+    {
       "title": "Rassismus im Fußball: Fans und Liga gegen Vinícius Júnior",
       "teaser": "Der Star von Real Madrid wird erneut rassistisch beleidigt. Die Ligaverantwortlichen aber entschuldigen sich nicht – sondern greifen das Opfer an.",
       "url": "https://www.zeit.de/sport/2023-05/vinicius-junior-rassismus-valencia",
@@ -105,13 +112,6 @@
       "image_title": "Thomas Tuchel: Der Robert Habeck des Fußballs"
     },
     {
-      "title": "Real Madrid: Rassismus-Skandal sorgt für Streit in spanischer Fußballliga",
-      "teaser": "Nach rassistischen Rufen von der Tribüne erhebt der Brasilianer Vinícius Júnior Vorwürfe gegen die spanische Liga. Real Madrid erstattet Anzeige wegen Hassverbrechen.",
-      "url": "https://www.zeit.de/sport/2023-05/vinicius-junior-real-madrid-rassismus-spanien-la-liga",
-      "image_url": "https://img.zeit.de/sport/2023-05/vinicius-junior-real-madrid-bild/wide__822x462",
-      "image_title": "Real Madrid: Rassismus-Skandal sorgt für Streit in spanischer Fußballliga"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -119,11 +119,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab",
-      "teaser": "Alexander Zverev ist erstmals seit fast sieben Jahren nicht mehr Deutschlands bester Tennisspieler. Jan-Lennard Struff zog in der Weltrangliste am Olympiasieger vorbei.",
-      "url": "https://www.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis",
-      "image_url": "https://img.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis-bild/wide__822x462",
-      "image_title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab"
+      "title": "Real Madrid: Rassismus-Skandal sorgt für Streit in spanischer Fußballliga",
+      "teaser": "Nach rassistischen Rufen von der Tribüne erhebt der Brasilianer Vinícius Júnior Vorwürfe gegen die spanische Liga. Real Madrid erstattet Anzeige wegen Hassverbrechen.",
+      "url": "https://www.zeit.de/sport/2023-05/vinicius-junior-real-madrid-rassismus-spanien-la-liga",
+      "image_url": "https://img.zeit.de/sport/2023-05/vinicius-junior-real-madrid-bild/wide__822x462",
+      "image_title": "Real Madrid: Rassismus-Skandal sorgt für Streit in spanischer Fußballliga"
     },
     {
       "title": "Fußballpodcast: Er hat etwas von Zauberei, Luka Modrić ist Entfesselungskünstler",
@@ -147,6 +147,13 @@
       "image_title": "SV Elversberg: Warum dieser Bürgermeister aus seinem Fenster klettert"
     },
     {
+      "title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab",
+      "teaser": "Alexander Zverev ist erstmals seit fast sieben Jahren nicht mehr Deutschlands bester Tennisspieler. Jan-Lennard Struff zog in der Weltrangliste am Olympiasieger vorbei.",
+      "url": "https://www.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis",
+      "image_url": "https://img.zeit.de/sport/2023-05/jan-lennard-struff-alexander-zverev-tennis-bild/wide__822x462",
+      "image_title": "Tennis: Jan-Lennard Struff löst Alexander Zverev als deutsche Nummer eins ab"
+    },
+    {
       "title": "Bundesligarückschau: Stellt das Hansa Pils kalt! Sperrt den Borsigplatz!",
       "teaser": "Es ist nur noch ein Spiel und der BVB steht tatsächlich oben. Es scheint wirklich möglich, dass er die Liga von der Alleinherrschaft der Bayern befreit. Der 33. Spieltag",
       "url": "https://www.zeit.de/sport/2023-05/borussia-dortmund-meister-bayern-muenchen-sebastien-haller",
@@ -159,13 +166,6 @@
       "url": "https://www.zeit.de/sport/2023-05/bundesliga-33-spieltag-sonntag-bvb-augsburg-stuttgart-mainz",
       "image_url": "https://img.zeit.de/sport/2023-05/bundesliga-dortmund-augsburg-spiel-bild/wide__822x462",
       "image_title": "Bundesliga, 33. Spieltag – Sonntag: Dortmund ist neuer Tabellenführer"
-    },
-    {
-      "title": "Eishockey-Weltmeisterschaft: Deutschland gewinnt drittes Spiel in Folge",
-      "teaser": "Gegen den Außenseiter Ungarn hat das deutsche Eishockey-Team wenig Mühe, einen klaren Sieg zu holen. NHL-Spieler Nico Sturm sorgt mit zwei Toren für die Entscheidung.",
-      "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-deutschland-ungarn",
-      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-nico-sturm/wide__822x462",
-      "image_title": "Eishockey-Weltmeisterschaft: Deutschland gewinnt drittes Spiel in Folge"
     },
     {
       "title": "Bundesligarückschau: Stellt das Hansa Pils kalt! Sperrt den Borsigplatz!",
