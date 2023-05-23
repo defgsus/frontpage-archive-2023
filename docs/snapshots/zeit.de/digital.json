@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-23T10:12:17",
+  "timestamp": "2023-05-23T11:10:15",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Versteht die KI uns, oder tut sie nur so?",
+      "title": "BGH-Urteil: Google muss Suchergebnisse zu Personen nur bei Falschangaben löschen",
+      "teaser": "Der Bundesgerichtshof hat die Klage eines Paares abgewiesen, das keine Daten über sich auf Google gelistet wissen wollte. In puncto Bilder bekam es jedoch Recht.",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-05/google-bgh-artikel-datenschutz",
+      "image_url": "https://img.zeit.de/digital/2023-05/google-bgh-artikel-datenschutz-bild/cinema__980x420"
+    },
+    {
+      "title": "Künstliche Intelligenz: Versteht die KI uns, oder tut sie nur so?",
       "teaser": "Künstliche Intelligenz wird immer klüger, schneller und kundiger. Aber selbst Experten sind sich nicht sicher, ob eine KI überhaupt versteht, was sie da rechnet.",
       "url": "https://www.zeit.de/2023/21/ki-sprachmodelle-denkvermoegen-verstaendnis-lernfaehigkeit",
-      "image_url": "https://img.zeit.de/2023/21/unsere-neue-denkaufgabe-bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/21/unsere-neue-denkaufgabe-bild-1/wide__822x462",
+      "image_title": "Künstliche Intelligenz: Versteht die KI uns, oder tut sie nur so?"
     },
     {
       "title": "Datenschutz: BGH urteilt zum Recht auf Vergessenwerden im Internet",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/datenschutz/2023-05/datenschutz-bgh-urteil-google-recht-auf-vergessenwerden",
       "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2022-09/google-eu-gericht-urteil-bild/wide__822x462",
       "image_title": "Datenschutz: BGH urteilt zum Recht auf Vergessenwerden im Internet"
-    },
-    {
-      "title": "USA: TikTok klagt gegen Verbot der App in US-Bundesstaat Montana",
-      "teaser": "Der US-Bundesstaat will ab 2024 die Video-App verbieten, dagegen wehrt sich das Unternehmen. Auch Nutzer in Montana gehen juristisch gegen den TikTok-Bann vor.",
-      "url": "https://www.zeit.de/digital/2023-05/montana-usa-tiktok-verbot-datenschutz-meinungsfreiheit",
-      "image_url": "https://img.zeit.de/digital/2023-05/montana-usa-tiktok-verbot-datenschutz-meinungsfreiheit-bild/wide__822x462",
-      "image_title": "USA: TikTok klagt gegen Verbot der App in US-Bundesstaat Montana"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Linda Yaccarino: Sie soll für Elon Musk Twitter wieder aufpäppeln",
@@ -162,6 +162,13 @@
       "url": "https://www.zeit.de/digital/mobil/2023-05/openai-chatgpt-iphone-app-kuenstliche-intelligenz"
     },
     {
+      "title": "USA: TikTok klagt gegen Verbot der App in US-Bundesstaat Montana",
+      "teaser": "Der US-Bundesstaat will ab 2024 die Video-App verbieten, dagegen wehrt sich das Unternehmen. Auch Nutzer in Montana gehen juristisch gegen den TikTok-Bann vor.",
+      "url": "https://www.zeit.de/digital/2023-05/montana-usa-tiktok-verbot-datenschutz-meinungsfreiheit",
+      "image_url": "https://img.zeit.de/digital/2023-05/montana-usa-tiktok-verbot-datenschutz-meinungsfreiheit-bild/wide__822x462",
+      "image_title": "USA: TikTok klagt gegen Verbot der App in US-Bundesstaat Montana"
+    },
+    {
       "title": "EU-Strafe gegen Meta: Europa regelt",
       "teaser": "Zum fünften Geburtstag der DSGVO verhängt die EU eine Milliardenstrafe gegen den Facebook-Konzern Meta. Das zeigt: Gesetze können das Internet besser machen.",
       "url": "https://www.zeit.de/digital/datenschutz/2023-05/eu-strafe-meta-datenschutz-dsgvo-regulierung",
@@ -174,13 +181,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-05/produktivitaet-arbeitsplatz-aufmerksamkeit-ablenkung-ki",
       "image_url": "https://img.zeit.de/digital/2023-05/arbeitsplatz-aufmerksamkeit-ablenkung-ki-bild/wide__822x462",
       "image_title": "Ablenkung am Arbeitsplatz: Manche macht Facebook checken produktiver"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Laura Kampf: Lauras Machgeschichte",
-      "teaser": "YouTube-Handwerkerin Laura Kampf erklärt nicht, wie man richtig Silikonfugen zieht. Sie baut apokalyptische Sandwichtoaster. Und feiert so den Charme des Unperfekten.",
-      "url": "https://www.zeit.de/digital/internet/2023-05/laura-kampf-youtube-kunst-design-sendung-mit-der-maus",
-      "image_url": "https://img.zeit.de/digital/2023-05/laura-kampf-youtube-kunst-design-sendung-mit-der-maus-bild-2/wide__822x462",
-      "image_title": "Laura Kampf: Lauras Machgeschichte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Google I/O 2023: So stellt sich Google die Suche der Zukunft vor",
@@ -211,6 +211,13 @@
       "image_title": "TikTok: App-Angst"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Laura Kampf: Lauras Machgeschichte",
+      "teaser": "YouTube-Handwerkerin Laura Kampf erklärt nicht, wie man richtig Silikonfugen zieht. Sie baut apokalyptische Sandwichtoaster. Und feiert so den Charme des Unperfekten.",
+      "url": "https://www.zeit.de/digital/internet/2023-05/laura-kampf-youtube-kunst-design-sendung-mit-der-maus",
+      "image_url": "https://img.zeit.de/digital/2023-05/laura-kampf-youtube-kunst-design-sendung-mit-der-maus-bild-2/wide__822x462",
+      "image_title": "Laura Kampf: Lauras Machgeschichte"
+    },
+    {
       "title": "Internet: Volker Wissing gegen Beteiligung der Onlinefirmen am Netzausbau",
       "teaser": "Betreiber möchten Internetplattformen für den Netzausbau zur Kasse bitten. In der EU wird die Option diskutiert. Der Digitalminister hält den Markteingriff für falsch.",
       "url": "https://www.zeit.de/digital/internet/2023-05/internet-breitbandausbau-finanzierung-onlinefirmen-netzbetreiber-volker-wissing",
@@ -225,13 +232,6 @@
       "image_title": "OpenAI: ChatGPT jetzt auch als App"
     },
     {
-      "title": "Bundesnetzagentur: Nutzung des Festnetztelefons nimmt deutlich ab",
-      "teaser": "Während der Pandemie haben die Menschen verstärkt zum klassischen Telefonhörer gegriffen. Diese coronabedingte Wiederbelebung des Festnetzes ist aber nun vorbei.",
-      "url": "https://www.zeit.de/digital/mobil/2023-05/festnetz-nutzung-studie-abnahme",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/festnetz-nutzung-studie-abnahme-bild-3/wide__822x462",
-      "image_title": "Bundesnetzagentur: Nutzung des Festnetztelefons nimmt deutlich ab"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -239,11 +239,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "USA: TikTok-Nutzer klagen gegen Verbot der App in Montana",
-      "teaser": "TikTok soll ab Januar in dem US-Bundesstaat aus den App-Stores verschwinden – so will es ein neues Gesetz. Nutzer der Plattform wollen das aber nicht hinnehmen.",
-      "url": "https://www.zeit.de/digital/2023-05/tiktok-nutzer-klage-montana-gesetz",
-      "image_url": "https://img.zeit.de/digital/2023-05/tiktok-nutzer-klage-montana-gesetz-bild/wide__822x462",
-      "image_title": "USA: TikTok-Nutzer klagen gegen Verbot der App in Montana"
+      "title": "Bundesnetzagentur: Nutzung des Festnetztelefons nimmt deutlich ab",
+      "teaser": "Während der Pandemie haben die Menschen verstärkt zum klassischen Telefonhörer gegriffen. Diese coronabedingte Wiederbelebung des Festnetzes ist aber nun vorbei.",
+      "url": "https://www.zeit.de/digital/mobil/2023-05/festnetz-nutzung-studie-abnahme",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/festnetz-nutzung-studie-abnahme-bild-3/wide__822x462",
+      "image_title": "Bundesnetzagentur: Nutzung des Festnetztelefons nimmt deutlich ab"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Apple Watch Ultra : 1.000 Euro unter dem Meer",
