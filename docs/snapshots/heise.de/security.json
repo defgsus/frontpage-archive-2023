@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-23T08:14:07",
+  "timestamp": "2023-05-23T09:11:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress",
+      "url": "https://www.heise.de/news/WordPress-6-2-2-Durch-Sicherheitspatch-ausgeloesten-Fehler-ausgebuegelt-9062515.html"
+    },
+    {
       "title": "Samsung Android-Geräte",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Samsung-Smartphones-wird-angegriffen-9062566.html"
     },
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Drucksystem-CUPS-Codeschmuggel-aus-dem-Netz-moeglich-9061315.html"
     },
     {
-      "title": "Synology",
-      "url": "https://www.heise.de/news/Synology-legt-Sicherheitsupdate-fuer-DSM-6-2-gegen-Pwn2own-Luecken-nach-9061220.html"
-    },
-    {
-      "title": "Sicherheitslücke in Samsung-Smartphones wird angegriffen",
-      "teaser": "Eine Sicherheitslücke in Samsung-Smartphones, die das Unternehmen mit den Mai-Updates schließt, wird von Angreifern missbraucht. Einige Details sind unklar.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Samsung-Smartphones-wird-angegriffen-9062566.html",
-      "image_title": "Editorial,Illistrative.,Software,Update,On,Android.,The,Samsung,Phone,Is"
+      "title": "WordPress 6.2.2: Durch Sicherheitspatch ausgelösten Fehler ausgebügelt",
+      "teaser": "Die WordPress-Entwickler haben ein Sicherheitsupdate korrigiert. Die aktuelle Version steht ab sofort zum Download bereit.",
+      "url": "https://www.heise.de/news/WordPress-6-2-2-Durch-Sicherheitspatch-ausgeloesten-Fehler-ausgebuegelt-9062515.html"
     },
     {
       "title": "Indizien weisen auf iOS 16.6: Wann kommt die iMessage-Schlüsselüberprüfung?",
@@ -63,6 +62,11 @@
       "title": "Angreifer könnten Entwicklungsumgebungen mit Jenkins attackieren",
       "teaser": "Softwareentwickler aufgepasst: Es gibt wichtige Sicherheitsupdates für mehrere Jenkins-Plug-ins. Angreifer könnten auf Log-in-Daten zugreifen.",
       "url": "https://www.heise.de/news/Angreifer-koennten-Entwicklungsumgebungen-mit-Jenkins-attackieren-9061545.html"
+    },
+    {
+      "title": "CUPS: Sicherheitslücke in Drucksystem ermöglicht Schadcodeausführung",
+      "teaser": "Im Drucksystem CUPS können Angreifer im Netz eine Sicherheitslücke missbrauchen, um beliebigen Code einzuschmuggeln und auszuführen.",
+      "url": "https://www.heise.de/news/Drucksystem-CUPS-Codeschmuggel-aus-dem-Netz-moeglich-9061315.html"
     },
     {
       "title": "Zu viel Schadcode: Paket-Registry PyPI sperrte vorübergehend alle neuen Projekte",
@@ -148,11 +152,6 @@
       "title": "Windows 11: Ein Vorgeschmack auf Rust für Developer im Insider-Programm",
       "teaser": "Was ist daraus geworden, Windows in Rust neu zu schreiben? Microsofts Verantwortlicher für Open-Source-Sicherheit gibt im Insider-Programm den Startschuss.",
       "url": "https://www.heise.de/news/Windows-11-Ein-Vorgeschmack-auf-Rust-fuer-Developer-im-Insider-Programm-9057154.html"
-    },
-    {
-      "title": "Microsoft untersucht auch passwortgeschützte .zip-Dateien auf Malware",
-      "teaser": "Fluch oder Segen: Microsofts Dienste untersuchen sogar passwortgeschützte ZIP-Archive auf Malware. Das fiel jetzt IT-Sicherheitsforschern auf.",
-      "url": "https://www.heise.de/news/Microsoft-untersucht-auch-passwortgeschuetzte-zip-Dateien-auf-Malware-9057387.html"
     },
     {
       "title": "heise Security Tour 2023",
