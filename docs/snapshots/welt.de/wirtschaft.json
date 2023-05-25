@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-25T16:14:23",
+  "timestamp": "2023-05-25T17:10:15",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Europa muss jetzt handeln – sonst wird es den KI-Wettlauf verlieren",
+      "teaser": "Über Nacht legte Nvidia rekordverdächtig gut 160 Milliarden Euro an Börsenwert zu. Der US-Konzern profitiert von der explodierenden Nachfrage nach Chips, die für das Training von KI entscheidend sind. Europa hängt bei KI-Hardware indes weit zurück – und muss jetzt antworten.",
+      "url": "https://www.welt.de/wirtschaft/article245541012/Nvidias-Boersen-Erfolg-Im-KI-Wettlauf-muss-Europa-jetzt-handeln.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile245544054/0127936157-ci23x11-w20/Kombo-Fuest.jpg",
+      "image_title": "In Europa ist der Chiphersteller Nvidia konkurrenzlos, schreibt WELT-Autor Benedikt Fuest",
+      "author": "Benedikt Fuest"
+    },
+    {
       "title": "Lufthansa steigt bei italienischer Fluggesellschaft ITA Airways ein",
       "teaser": "Die Lufthansa steigt bei der italienischen Fluggesellschaft ITA Airways ein. Sie vereinbarte mit dem italienischen Staat die Übernahme einer 40-prozentigen Minderheitsbeteiligung. Lufthansa-Chef Carsten Spohr sprach von einer Win-Win-Situation für alle Seiten.",
       "url": "https://www.welt.de/wirtschaft/",
@@ -60,14 +68,6 @@
       "image_url": "https://img.welt.de/img/wirtschaft/mobile245523232/0837930827-ci23x11-w20/46-Bundestagssitzung-in-Berlin.jpg",
       "image_title": "Bundeskanzler Scholz hat dem Land Wachstum dank Klimaschutz versprochen",
       "author": "Jan Klauth"
-    },
-    {
-      "title": "180 Milliarden Dollar über Nacht – jetzt zahlt sich Nvidias KI-Wette aus",
-      "teaser": "Die Quartalszahlen des US-Chipherstellers fielen deutlich besser aus als erwartet. Seit Jahren konzentriert sich der Konzern auf Spezialchips zu Training und Nutzung von Künstlicher Intelligenz – nun hat Nvidia einige Rekorde gebrochen.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile245538898/1527936247-ci23x11-w20/In-this-photo-illustration-a-NVidia-logo-is-displayed-on-a.jpg",
-      "image_title": "In this photo illustration a NVidia logo is displayed on a",
-      "author": "Benedikt Fuest"
     },
     {
       "title": "Die größte Elektroflotte der Welt ist gelb",
@@ -212,20 +212,20 @@
       "author": "Karsten Seibel"
     },
     {
-      "title": "Bis zu 414.000 Euro Jahresüberschuss – So viel verdienen Deutschlands Ärzte",
-      "teaser": "Mediziner gehören zu den bestbezahlten Berufsgruppen. Doch das Einkommensgefälle ist groß. Selbstständig oder angestellt? Tarif oder Chefarzt? Psychiater oder Urologe? Land oder Stadt? WELT zeigt, welche Jobs am lukrativsten sind.",
-      "url": "https://www.welt.de/wirtschaft/karriere/plus245093862/Gehalt-Bis-zu-414-000-Euro-Jahresueberschuss-So-viel-verdienen-Deutschlands-Aerzte.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/karriere/mobile245096992/3117939387-ci23x11-w20/Surgeons-looking-at-MRI-scans-during-surgery.jpg",
-      "image_title": "Die hochtechnisierten Fachgebiete lohnen sich für Praxisbetreiber besonders",
-      "author": "Judith Henke"
-    },
-    {
       "title": "1778 bis 10.196 Euro brutto – So gut verdient Deutschland",
       "teaser": "Eine neue Gehaltsliste zeigt, in welchen Berufen die höchsten Gehälter gezahlt werden – und wo die schlechtesten. Es zeigt sich, dass die Löhne in einigen Jobs zuletzt erheblich zulegen konnten. Aber es gibt gerade für die Deutschen noch einen Hebel, das Gehalt zu steigern.",
       "url": "https://www.welt.de/wirtschaft/plus245500778/Gehaelter-Aerzte-Friseure-Pfleger-So-viel-verdient-Deutschland.html",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile245500770/9177932737-ci23x11-w20/DWO-Teaser-Berufe-jb-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Daniel Eckert"
+    },
+    {
+      "title": "Bis zu 414.000 Euro Jahresüberschuss – So viel verdienen Deutschlands Ärzte",
+      "teaser": "Mediziner gehören zu den bestbezahlten Berufsgruppen. Doch das Einkommensgefälle ist groß. Selbstständig oder angestellt? Tarif oder Chefarzt? Psychiater oder Urologe? Land oder Stadt? WELT zeigt, welche Jobs am lukrativsten sind.",
+      "url": "https://www.welt.de/wirtschaft/karriere/plus245093862/Gehalt-Bis-zu-414-000-Euro-Jahresueberschuss-So-viel-verdienen-Deutschlands-Aerzte.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/karriere/mobile245096992/3117939387-ci23x11-w20/Surgeons-looking-at-MRI-scans-during-surgery.jpg",
+      "image_title": "Die hochtechnisierten Fachgebiete lohnen sich für Praxisbetreiber besonders",
+      "author": "Judith Henke"
     },
     {
       "title": "Ende des Mythos McKinsey? „Wir sind einer der beliebtesten Arbeitgeber“",
@@ -275,8 +275,8 @@
       "url": "https://www.welt.de/wirtschaft/article245540730/Tarifkonflikt-mit-EVG-Lohnerhoehungen-und-Inflationsausgleich-Bahn-legt-neues-Angebot-vor.html"
     },
     {
-      "title": "Lufthansa schafft Einstieg bei Ita Airways",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article245542288/Lufthansa-schafft-Einstieg-bei-Ita-Airways.html"
+      "title": "Lufthansa steigt bei Alitalia-Nachfolgerin ein",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article245542288/Lufthansa-steigt-bei-Alitalia-Nachfolgerin-ein.html"
     },
     {
       "title": "Die Entzauberung des grünen Wirtschaftswunders",
