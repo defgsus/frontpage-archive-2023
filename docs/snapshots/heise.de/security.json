@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-26T07:10:31",
+  "timestamp": "2023-05-26T08:13:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "D-Link D-View 8.0",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Netzwerkverwaltungssoftware-D-Link-D-View-8-geschlossen-9066361.html"
+    },
+    {
+      "title": "LibreOffice",
+      "url": "https://www.heise.de/news/LibreOffice-Luecken-Risiko-von-Codeschmuggel-mit-praeparierten-Dokumenten-9066277.html"
+    },
+    {
       "title": "GitLab",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-GitLab-Entwickler-raten-zu-zuegigem-Update-9065150.html"
     },
@@ -40,12 +48,15 @@
       "url": "https://www.heise.de/news/Teils-kritische-Sicherheitsluecken-in-Mitel-MiVoice-Connect-9064992.html"
     },
     {
-      "title": "Zyxel-Firewalls",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Zyxel-Firewalls-anfaellig-fuer-Schadcode-Attacken-9064960.html"
+      "title": "Kritische Lücken in Netzwerkverwaltungssoftware D-Link D-View 8 geschlossen",
+      "teaser": "D-Link hat offensichtlich knapp fünf Monate gebraucht, um einen Sicherheitspatch für D-View 8 zu entwickeln, der sich aber immer noch im Beta-Stadium befindet.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Netzwerkverwaltungssoftware-D-Link-D-View-8-geschlossen-9066361.html"
     },
     {
-      "title": "Barracuda ESG",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-Barracuda-verteilt-Update-fuer-Email-Security-Gateway-9064903.html"
+      "title": "LibreOffice-Lücken: Risiko von Codeschmuggel mit präparierten Dokumenten",
+      "teaser": "Neue LibreOffice-Versionen stopfen teils hochriskante Sicherheitslücken. Mit manipulierten Spreadsheets könnten Angreifer Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/LibreOffice-Luecken-Risiko-von-Codeschmuggel-mit-praeparierten-Dokumenten-9066277.html",
+      "image_title": "LibreOffice 7.5.3.2 auf Notebook auf Tisch"
     },
     {
       "title": "Sicherheitslücken bei Gesundheits-Apps: Daten- und Identitätsklau waren möglich",
@@ -147,18 +158,6 @@
       "title": "WordPress 6.2.2: Durch Sicherheitspatch ausgelösten Fehler ausgebügelt",
       "teaser": "Die WordPress-Entwickler haben ein Sicherheitsupdate korrigiert. Die aktuelle Version steht ab sofort zum Download bereit.",
       "url": "https://www.heise.de/news/WordPress-6-2-2-Durch-Sicherheitspatch-ausgeloesten-Fehler-ausgebuegelt-9062515.html"
-    },
-    {
-      "title": "Sicherheitslücke in Samsung-Smartphones wird angegriffen",
-      "teaser": "Eine Sicherheitslücke in Samsung-Smartphones, die das Unternehmen mit den Mai-Updates schließt, wird von Angreifern missbraucht. Einige Details sind unklar.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Samsung-Smartphones-wird-angegriffen-9062566.html",
-      "image_title": "Editorial,Illistrative.,Software,Update,On,Android.,The,Samsung,Phone,Is"
-    },
-    {
-      "title": "Am 1.Juni: Start der heise Security Tour 2023",
-      "teaser": "Die Eintages-Konferenz hilft Security-Verantwortlichen, ihre IT sicher zu halten. Mit spannenden Themen, praxisorientiert und Hersteller-unabhängig.",
-      "url": "https://www.heise.de/news/Am-1-Juni-Start-der-heise-Security-Tour-2023-9062035.html",
-      "image_title": "heise Security Tour 2023"
     },
     {
       "title": "heise Security Tour 2023",
