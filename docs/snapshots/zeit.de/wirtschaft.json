@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-25T23:10:59",
+  "timestamp": "2023-05-26T00:59:03",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Nato: Deutschland zahlt 131 Millionen Euro für stationierte Nato-Soldaten",
+      "teaser": "Die Kosten für die Stationierung von Nato-Soldaten in Deutschland sind um acht Prozent gestiegen. Den größten Anteil daran hat die US-Armee mit mehr als 38.000 Soldaten.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/deutschland-stationierung-nato-soldaten-ausgaben",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/deutschland-stationierung-nato-soldaten-ausgaben-bild/cinema__980x420"
+    },
+    {
       "title": "CO₂-Zertifikate: Betriebsklimawandel",
       "teaser": "Die Organisation Verra hat offenbar über Jahre viele Millionen wertlose CO₂-Zertifikate ausgegeben. Nach Berichten der ZEIT über den Fall tritt ihr Chef zurück.",
       "url": "https://www.zeit.de/2023/22/co2-zertifikate-emissionshandel-kompensation-verra",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/co2-zertifikate-emissionshandel-kompensation/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/co2-zertifikate-emissionshandel-kompensation/wide__822x462",
+      "image_title": "CO₂-Zertifikate: Betriebsklimawandel"
     },
     {
       "title": "Italien: Lufthansa steigt bei Ita Airways ein",
@@ -66,14 +73,14 @@
       "title": "EVG: Deutsche Bahn bietet bis zu zwölf Prozent mehr Lohn",
       "teaser": "Im Tarifstreit mit der EVG hat die Bahn ihr Angebot nachgebessert. \"Damit muss jetzt ein Abschluss möglich sein\", mahnt der Konzern. Über Pfingsten gibt es keine Streiks.",
       "url": "https://www.zeit.de/arbeit/2023-05/deutsche-bahn-evg-tarifstreit-neues-angebot",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-05/evg-gewerkschaft-tarifstreit-deutsche-bahn/wide__822x462",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-05/evg-gewerkschaft-tarifstreit-deutsche-bahn/cinema__980x420",
       "image_title": "EVG: Deutsche Bahn bietet bis zu zwölf Prozent mehr Lohn"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wärmeplanung: Der nächste Heizungsaufreger",
       "teaser": "Das Bauministerium arbeitet an einem Gesetz, um einen Wärmeplan für Deutschland zu erstellen. Eigentlich sinnvoll. Die Opposition aber wittert eine \"Energie-Stasi\".",
       "url": "https://www.zeit.de/wirtschaft/2023-05/waermeplanung-klara-geywitz-robert-habeck-energiedaten-heizungsgesetz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/waermeplanung-klara-geywitz-robert-habeck-energiedaten/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/waermeplanung-klara-geywitz-robert-habeck-energiedaten/wide__822x462",
       "image_title": "Wärmeplanung: Der nächste Heizungsaufreger"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-05/heizungsstreit-spd-fdp-zeitplan-eile-lars-klingbeil",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-05/heizungsstreit-spd-fdp-zeitplan/wide__822x462",
       "image_title": "Heizungsgesetz: SPD-Chef fordert von FDP Bewegung im Heizungsstreit"
-    },
-    {
-      "title": "Erdgas: Gaspreis in Europa auf tiefstem Stand seit zwei Jahren",
-      "teaser": "Erdgas ist in Europa so günstig wie zuletzt im Juni 2021. Experten erklären das mit einer Überversorgung – und schließen nicht aus, dass der Preis noch weiter zurückgeht.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/gaspreis-europa-preis-ueberversorgung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/gaspreis-europa-preis-ueberversorgung-bild/wide__822x462",
-      "image_title": "Erdgas: Gaspreis in Europa auf tiefstem Stand seit zwei Jahren"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsmarkt: \"Diese Mieter haben überhaupt keinen Anreiz auszuziehen\"",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Erdgas: Gaspreis in Europa auf tiefstem Stand seit zwei Jahren",
+      "teaser": "Erdgas ist in Europa so günstig wie zuletzt im Juni 2021. Experten erklären das mit einer Überversorgung – und schließen nicht aus, dass der Preis noch weiter zurückgeht.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/gaspreis-europa-preis-ueberversorgung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/gaspreis-europa-preis-ueberversorgung-bild/wide__822x462",
+      "image_title": "Erdgas: Gaspreis in Europa auf tiefstem Stand seit zwei Jahren"
+    },
+    {
       "title": "ifo Institut: Stimmung bei Exporteuren fällt auf niedrigsten Wert seit November",
       "teaser": "Die deutsche Wirtschaft kommt nicht in Fahrt, im Gegenteil: Die Exporterwartungen deutscher Unternehmen fallen so schlecht aus wie seit einem halben Jahr nicht mehr.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/exportindustrie-deutschland-stimmung-verschlechtert-ifo-institut",
@@ -218,16 +225,16 @@
     },
     {
       "title": "IMK-Studie: Rezessionsrisiko für deutsche Wirtschaft stark gestiegen",
-      "teaser": "Die Wahrscheinlichkeit einer Rezession in Deutschland hat sich Experten zufolge erhöht. Lag sie zuletzt noch bei 26 Prozent, stieg sie nun um mehr als zehn Punkte an.",
+      "teaser": "Die Wahrscheinlichkeit einer Rezession in Deutschland hat sich Experten zufolge erhöht. Lag sie zuletzt noch bei 26 Prozent, stieg sie nun um mehr als zehn Punkte an. 124 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-05/rezessionsrisiko-steigt-deutsche-wirtschaft-imk-institut",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/rezessionsrisiko-steigt-deutsche-wirtschaft-imk-institut-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/rezessionsrisiko-steigt-deutsche-wirtschaft-imk-institut-bild/cinema__980x420",
       "image_title": "IMK-Studie: Rezessionsrisiko für deutsche Wirtschaft stark gestiegen"
     },
     {
       "title": "Kreditwürdigkeit: Ratingagentur Fitch stellt USA wegen Schuldenstreits unter Beobachtung",
       "teaser": "Noch immer ringen die Regierung der USA und die Opposition um eine Anhebung der Schuldengrenze. Nun droht der Streit die Kreditwürdigkeit des Landes zu beschädigen.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/ratingagentur-fitch-usa-beobachtung-kreditwuerdigkeit-schuldenstreit",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/usa-kreditwuerdigkeit-schuldenstreit-finanzministerium/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/usa-kreditwuerdigkeit-schuldenstreit-finanzministerium/wide__822x462",
       "image_title": "Kreditwürdigkeit: Ratingagentur Fitch stellt USA wegen Schuldenstreits unter Beobachtung"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/2023/22/elternschaft-kinder-stellenwert-vermaechtnisstudie",
       "image_url": "https://img.zeit.de/2023/22/kinder-nicht-so-wichtig-bild-1/wide__822x462",
       "image_title": "Elternschaft: Kinder? Nicht so wichtig!"
-    },
-    {
-      "title": "Geldpolitik: Inflation in Großbritannien sinkt auf unter zehn Prozent",
-      "teaser": "Erstmals seit August 2022 ist die Teuerungsrate wieder einstellig. Die Lebensmittelpreise aber bleiben hoch, die Zentralbank schließt weitere Zinserhöhungen nicht aus.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/inflation-grossbritannien-unter-zehn-prozent",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/wirtschaft-inflation-grossbritannien-bild/wide__822x462",
-      "image_title": "Geldpolitik: Inflation in Großbritannien sinkt auf unter zehn Prozent"
     },
     {
       "title": "Tarifstreit: Bahn und Gewerkschaft EVG starten in vorerst letzte Tarifrunde",
@@ -292,6 +292,20 @@
       "url": "https://www.zeit.de/2023/19/finanzplanung-haushaltsbuch-sparen-anlage",
       "image_url": "https://img.zeit.de/2023/19/finanzplanung-haushaltsbuch-sparen-anlage-teaser/wide__822x462",
       "image_title": "Finanzplanung: \"Wie bekomme ich meine Finanzen endlich richtig geordnet?\""
+    },
+    {
+      "title": "WirtschaftsWocheHomeoffice gegen Büro: Wir können dich nicht hören!",
+      "teaser": "Noch immer kämpfen Unternehmen um die Präsenz ihrer Mitarbeiter. Was Führungskräfte tun können, damit Loyalität und Kreativität nicht verloren gehen.",
+      "url": "https://www.wiwo.de/my/erfolg/management/homeoffice-gegen-buero-wir-koennen-dich-nicht-hoeren/29168134.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/cover22/29169164/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Homeoffice gegen Büro: Wir können dich nicht hören!"
+    },
+    {
+      "title": "WirtschaftsWocheWiderworte: Sag doch bitte wieder „Sie“ zu mir",
+      "teaser": "Das allgegenwärtige Duzen macht unsere Beziehungen unverbindlicher und unsere Verhältnisse schwammig. Unser Kolumnist will da nicht mehr mitmachen.",
+      "url": "https://www.wiwo.de/erfolg/trends/widerworte-sag-doch-bitte-wieder-sie-zu-mir/29167798.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/duzen-sie-gettyimages-483830180-konvertiert/29168908/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Widerworte: Sag doch bitte wieder „Sie“ zu mir"
     }
   ]
 }
