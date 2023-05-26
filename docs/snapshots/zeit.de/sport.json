@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-26T11:11:23",
+  "timestamp": "2023-05-26T12:21:54",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Bundesligavorschau: Bereit zum großen Finale",
+      "teaser": "Was für ein letzter Spieltag: Dortmund will endlich die Bayern stürzen, wäre da nicht diese Statistik. Schalke will das Wunder und Niclas Füllkrug einen Negativrekord.",
+      "url": "https://www.zeit.de/sport/2023-05/bundesliga-vorschau-bayern-dortmund-meisterschaft",
+      "image_url": "https://img.zeit.de/sport/2023-05/sebastian-haller/cinema__980x420"
+    },
+    {
       "title": "Fußballbundesliga: Die Welt, als Bayern zuletzt nicht Meister war",
       "teaser": "Der FC Bayern wurde zuletzt 2012 nicht Deutscher Meister. Die Welt sah damals noch ganz anders aus. So nämlich",
       "url": "https://www.zeit.de/sport/2023-05/das-jahr-2012-bayern",
-      "image_url": "https://img.zeit.de/sport/2023-05/markus-lanz/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-05/markus-lanz/wide__822x462",
+      "image_title": "Fußballbundesliga: Die Welt, als Bayern zuletzt nicht Meister war"
     },
     {
       "title": "Eishockeyweltmeisterschaft: Kanada wirft Titelverteidiger Finnland aus dem Turnier",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-05/eishockeyweltmeisterschaft-viertelfinale-kanada-finnland-schweden-lettland",
       "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-kanada/wide__822x462",
       "image_title": "Eishockeyweltmeisterschaft: Kanada wirft Titelverteidiger Finnland aus dem Turnier"
-    },
-    {
-      "title": "Eishockey-WM: Deutschland besiegt die Schweiz und steht im Halbfinale",
-      "teaser": "Das DEB-Team hat im Viertelfinale der Eishockey-WM die Schweiz geschlagen und spielt am Samstag um den Finaleinzug. Gegner sind die USA, die gegen Tschechien gewannen.",
-      "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-deutschland-schweiz-viertelfinale-sieg",
-      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-deutschland-schweiz/wide__822x462",
-      "image_title": "Eishockey-WM: Deutschland besiegt die Schweiz und steht im Halbfinale"
     },
     {
       "title": "FC Bayern München: Weiter, weiter, immer weiter!",
@@ -91,6 +91,13 @@
       "image_title": "Hertha BSC: \"Keene Haare uffm Kopp, aber n Kamm inner Tasche!\""
     },
     {
+      "title": "Eishockey-WM: Deutschland besiegt die Schweiz und steht im Halbfinale",
+      "teaser": "Das DEB-Team hat im Viertelfinale der Eishockey-WM die Schweiz geschlagen und spielt am Samstag um den Finaleinzug. Gegner sind die USA, die gegen Tschechien gewannen.",
+      "url": "https://www.zeit.de/sport/2023-05/eishockey-wm-deutschland-schweiz-viertelfinale-sieg",
+      "image_url": "https://img.zeit.de/sport/2023-05/eishockey-wm-deutschland-schweiz/wide__822x462",
+      "image_title": "Eishockey-WM: Deutschland besiegt die Schweiz und steht im Halbfinale"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Giro E: Die Demokratisierung des Radsports",
       "teaser": "Ein Radrennen mit Elektromotoren? Was sinnfrei klingt, soll helfen, Leistungssport neu zu erfinden. Ein Besuch beim Giro d'Italia",
       "url": "https://www.zeit.de/sport/2023-05/giro-d-italia-e-bike",
@@ -105,13 +112,6 @@
       "image_title": "Bundesliga-Meisterschaft: \"Lieber noch zehnmal die Bayern als nur einmal Dortmund\""
     },
     {
-      "title": "FC Bayern: Den hätte Neuer gehalten",
-      "teaser": "Wie wichtig kann ein Torwart sein? Die Krise des FC Bayern hängt unmittelbar mit dem verletzten Manuel Neuer zusammen. Warum sie mit ihm noch Tabellenführer sein könnten.",
-      "url": "https://www.zeit.de/sport/2023-05/fc-bayern-muenchen-manuel-neuer",
-      "image_url": "https://img.zeit.de/sport/2023-05/fc-bayern-manuel-neuer-bild/wide__822x462",
-      "image_title": "FC Bayern: Den hätte Neuer gehalten"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -119,11 +119,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Massenpanik im Stadion: El Salvador bricht nach Massenpanik Fußballmeisterschaft ab",
-      "teaser": "Zwölf Menschen starben bei einer Massenpanik in einem Stadion in El Salvador. Der nationale Fußballverband zieht Konsequenzen, um die \"Sicherheit zu gewährleisten\".",
-      "url": "https://www.zeit.de/sport/2023-05/el-salvador-fussball-meisterschaft-massenpanik",
-      "image_url": "https://img.zeit.de/sport/2023-05/el-salvador-fussball-meisterschaft-massenpanik-bild/wide__822x462",
-      "image_title": "Massenpanik im Stadion: El Salvador bricht nach Massenpanik Fußballmeisterschaft ab"
+      "title": "FC Bayern: Den hätte Neuer gehalten",
+      "teaser": "Wie wichtig kann ein Torwart sein? Die Krise des FC Bayern hängt unmittelbar mit dem verletzten Manuel Neuer zusammen. Warum sie mit ihm noch Tabellenführer sein könnten.",
+      "url": "https://www.zeit.de/sport/2023-05/fc-bayern-muenchen-manuel-neuer",
+      "image_url": "https://img.zeit.de/sport/2023-05/fc-bayern-manuel-neuer-bild/wide__822x462",
+      "image_title": "FC Bayern: Den hätte Neuer gehalten"
     },
     {
       "title": "Mats Hummels: Das Phänomen Mats Hummels",
@@ -147,6 +147,13 @@
       "image_title": "SV Elversberg: Warum dieser Bürgermeister aus seinem Fenster klettert"
     },
     {
+      "title": "Massenpanik im Stadion: El Salvador bricht nach Massenpanik Fußballmeisterschaft ab",
+      "teaser": "Zwölf Menschen starben bei einer Massenpanik in einem Stadion in El Salvador. Der nationale Fußballverband zieht Konsequenzen, um die \"Sicherheit zu gewährleisten\".",
+      "url": "https://www.zeit.de/sport/2023-05/el-salvador-fussball-meisterschaft-massenpanik",
+      "image_url": "https://img.zeit.de/sport/2023-05/el-salvador-fussball-meisterschaft-massenpanik-bild/wide__822x462",
+      "image_title": "Massenpanik im Stadion: El Salvador bricht nach Massenpanik Fußballmeisterschaft ab"
+    },
+    {
       "title": "DFL: Lieber mal mit Grips versuchen",
       "teaser": "Die Bundesliga stimmt gegen den Plan, zwei Milliarden Euro von Investoren einzusammeln. Gut so. Denn Geld ist genug da, dem deutschen Fußball fehlt es an anderen Dingen.",
       "url": "https://www.zeit.de/sport/2023-05/dfl-investoren-einstieg-abstimmung",
@@ -159,13 +166,6 @@
       "url": "https://www.zeit.de/2023/22/fc-bayern-muenchen-krise-fussball",
       "image_url": "https://img.zeit.de/2023/22/es-lief-schon-mal-besser-bild-1/wide__822x462",
       "image_title": "FC Bayern München: In der wichtigsten Kabine der Republik"
-    },
-    {
-      "title": "Deutsche Fußball-Liga: DFL-Mitglieder stimmen gegen Investoreneinstieg",
-      "teaser": "Die 36 deutschen Profifußballclubs haben den Einstieg eines Investors für die Vermarktung mehrheitlich abgelehnt. Die nötige Zweidrittelmehrheit wurde nicht erreicht.",
-      "url": "https://www.zeit.de/sport/2023-05/deutsche-fussball-liga-dfl-investor-mitgliederversammlung-ablehnung",
-      "image_url": "https://img.zeit.de/sport/2023-05/dfl-deutsche-fussball-liga-investor-beteiligung-medienrechte-durchgefallen-bild/wide__822x462",
-      "image_title": "Deutsche Fußball-Liga: DFL-Mitglieder stimmen gegen Investoreneinstieg"
     },
     {
       "title": "FC Bayern München: Weiter, weiter, immer weiter!",
