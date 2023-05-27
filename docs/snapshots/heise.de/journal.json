@@ -1,8 +1,8 @@
 {
-  "timestamp": "2023-05-27T17:10:13",
+  "timestamp": "2023-05-27T18:12:43",
   "url": "https://www.heise.de/newsticker/journal/",
   "response": {
-    "status": 403
+    "status": 200
   },
   "scripts": [
     {
@@ -26,9 +26,101 @@
   ],
   "articles": [
     {
-      "title": "Jetzt anmelden!",
-      "url": "https://www.heise.de/newsletter/anmeldung.html?id=heise-shop",
-      "image_title": "hsNL"
+      "title": "Deep Dive: Wie das Konzept der Feinmobilität Städten helfen kann",
+      "teaser": "Um die sogenannte Feinmobilität geht es in der neuen Podcast-Folge. Zu Gast ist daher der Wortschöpfer selbst, der Verkehrsexperte Konrad Otto-Zimmermann.",
+      "url": "https://www.heise.de/hintergrund/Deep-Dive-Wie-das-Konzept-der-Feinmobilitaet-Staedten-helfen-kann-9064360.html"
+    },
+    {
+      "title": "#heiseshow: DSGVO und Meta, Ende-zu-Ende-Verschlüsselung, A Sign in Space",
+      "teaser": "Diese Woche in der #heiseshow: Nach fünf Jahren DSGVO bekommt Meta eine Rekordstrafe, Spanien will Verschlüsselung verbieten und Aliens nehmen Kontakt auf.",
+      "url": "https://www.heise.de/news/heiseshow-DSGVO-und-Meta-Ende-zu-Ende-Verschluesselung-A-Sign-in-Space-9064120.html",
+      "image_title": "heiseshow - Jeden Donnerstag LIVE um 17 Uhr"
+    },
+    {
+      "title": "Docking-Stationen mit Thunderbolt 4 und USB-C | c’t uplink",
+      "teaser": "Ein Kabel ins Notebook gesteckt, und schon sind Strom, LAN, Display, Maus, Tastatur und Lautsprecher angeschlossen - die Praxis sieht etwas komplizierter aus.",
+      "url": "https://www.heise.de/news/Docking-Stationen-mit-Thunderbolt-4-und-USB-C-c-t-uplink-8991318.html"
+    },
+    {
+      "title": "\"Der Herr der Ringe – Gollum\": Daedalic entschuldigt sich für Debakel – zu spät",
+      "teaser": "Daedalic hat \"Gollum\" in unbrauchbarem Zustand auf den Markt geworfen. Dafür bitten die Hamburger nun um Entschuldigung – als hätte man es nicht vorher gewusst.",
+      "url": "https://www.heise.de/meinung/Der-Herr-der-Ringe-Gollum-Daedalic-entschuldigt-sich-fuer-Debakel-zu-spaet-9067848.html"
+    },
+    {
+      "title": "Kleine Kameras zu großen Preisen – die Fotonews der Woche 21/2023",
+      "teaser": "Fuji, Canon, Leica und Sony bringen neue Geräte auf den Markt, die unterschiedlicher nicht sein können. An allen Vieren zeigen sich die verfestigten Trends.",
+      "url": "https://www.heise.de/news/Kleine-Kameras-zu-grossen-Preisen-die-Fotonews-der-Woche-21-2023-9067630.html",
+      "image_title": "Jan Keno-Janssen in einem von KI generierten Frack neben dem echten Eifelturm."
+    },
+    {
+      "title": "Desinfec’t 2023 – die Antiviren-Toolbox von c’t | c’t uplink",
+      "teaser": "In dieser Folge des c’t uplink dreht sich alles um unser Antiviren-Notfallwerkzeug: Desinfec’t in der 2023er-Ausgabe.",
+      "url": "https://www.heise.de/news/Desinfec-t-2023-die-Antiviren-Toolbox-von-c-t-c-t-uplink-8996626.html"
+    },
+    {
+      "title": "Nur 512 Byte: Dieser C-Compiler passt in einen Bootsektor",
+      "teaser": "Ein Entwickler hat einen C-Compiler geschrieben, der in den Bootsektor eines x86-Computers passt. Was der kleine Compiler alles kann.",
+      "url": "https://www.heise.de/news/Nur-512-Byte-Dieser-C-Compiler-passt-in-einen-Bootsektor-9067663.html",
+      "image_title": "x86-Prozessoren von Intel, AMD und TI"
+    },
+    {
+      "title": "Kurz informiert: Multiresistente Keime, Tesla-Files, Spyware, Prime Video",
+      "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
+      "url": "https://www.heise.de/news/Kurz-informiert-Multiresistente-Keime-Tesla-Files-Spyware-Prime-Video-9066367.html"
+    },
+    {
+      "title": "Generative KI in der Bildung | c’t uplink",
+      "teaser": "Wie Lehrkräfte an Schulen und Unis generative KI à la ChatGPT einsetzen können, darüber sprechen wir in dieser Folge des c’t uplink.",
+      "url": "https://www.heise.de/news/Generative-KI-in-der-Bildung-c-t-uplink-8996620.html"
+    },
+    {
+      "title": "heise+ Update vom 26. Mai 2023: Lesetipps fürs Wochenende",
+      "teaser": "Der wöchentliche Newsletter von heise+ diesmal mit einem KI-Einsteiger-Guide, CPUs, Fahrrad-Navis, Telefonbetrüger und günstigem Gigabit-Ethernet.",
+      "url": "https://www.heise.de/news/heise-Update-vom-26-Mai-2023-Lesetipps-fuers-Wochenende-9066375.html",
+      "image_title": "heise+ Update Volker Zota"
+    },
+    {
+      "title": "Maker verteidigen die Ukraine: Ein Jahr Gegenwehr mit innovativer Technik",
+      "teaser": "Leitwerke für Granaten aus dem 3D-Drucker, Kamikaze-FPV-Drohnen und rollende Werkstätten – in der Ukraine prägt der Krieg auch die Projekte von Makern.",
+      "url": "https://www.heise.de/hintergrund/Maker-verteidigen-die-Ukraine-Ein-Jahr-Gegenwehr-mit-innovativer-Technik-8988134.html"
+    },
+    {
+      "title": "Freitag: Twitter gegen EU-Verhaltenskodex, Microsoft für KI-Regulierung",
+      "teaser": "Twitter unter EU-Druck + Microsoft für mehr KI-Kontrolle + 1&1 erheblich im Verzug + Branchenstandard für Bluetooth-Tracker + Microsofts neue Entwicklertools",
+      "url": "https://www.heise.de/news/Freitag-Twitter-gegen-EU-Verhaltenskodex-Microsoft-fuer-KI-Regulierung-9066193.html",
+      "image_title": "Frau wird von Informationen überflutet; Freitag: Twitter-Rückzug, Microsoft-Appell, 1&1-Mobilfunkverzug, Tracking-Standard & Dev-Dashboard"
+    },
+    {
+      "title": "Learntec 2023: Popcornweiße Sneaker überall",
+      "teaser": "Die Learntec feierte 30. Geburtstag. Munter und zugewandt ist die Messe für die digitale Bildungsbranche – der Geruch von Popcorn war ein steter Begleiter.",
+      "url": "https://www.heise.de/hintergrund/30-Learntec-New-Work-Evolution-Jung-spezialisiert-aber-am-Rande-9064929.html"
+    },
+    {
+      "title": "Kurz informiert: Balkonkraftwerk, Cloud, Shopware, schwarzes Loch",
+      "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
+      "url": "https://www.heise.de/news/Kurz-informiert-Balkonkraftwerk-Cloud-Shopware-schwarzes-Loch-9065631.html"
+    },
+    {
+      "title": "Donnerstag: Ex-Google-Chef warnt vor KI, Nvidia profitiert von KI-Beschleunigern",
+      "teaser": "Warnung von Eric Schmidt + Nvidia-Aktie springt + Regeln für Lieferdrohnen + Sonys neue Mobilkonsole + Cyberspione gegen US-Infrastruktur + #heiseshow heute",
+      "url": "https://www.heise.de/news/Donnerstag-Ex-Google-Chef-warnt-vor-KI-Nvidia-profitiert-von-KI-Beschleunigern-9064879.html",
+      "image_title": "Terminator T-800; Donnerstag: KI-Warnung, KI-Profit, Drohnen-Regeln, Playstation-Handheld, China-Spione & #heiseshow"
+    },
+    {
+      "title": "Kurz informiert: Kernfusion, Schmerztherapie, Social Media, Sony Playstation",
+      "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
+      "url": "https://www.heise.de/news/Kurz-informiert-Kernfusion-Schmerztherapie-Social-Media-Sony-Playstation-9062964.html"
+    },
+    {
+      "title": "Weekly: Googles KI Bard und Luftschiffe mit Solarenergie",
+      "teaser": "Was Google Bard alles kann und welches Potenzial in solargetriebenen Luftschiffen steckt, darüber diskutiert die Redaktion von MIT Technology Review im Podcast.",
+      "url": "https://www.heise.de/hintergrund/Weekly-Googles-KI-Bard-und-Luftschiffe-mit-Solarenergie-9062809.html"
+    },
+    {
+      "title": "Mittwoch: Netflix auch hierzulande strenger, Amazon mit größerem Fire-Tablet",
+      "teaser": "Netflix gegen Account-Sharing + Fire in 11 Zoll + Mini-PCs mit neuen CPUs + Viasat schluckt Inmarsat + Dish-Hack mit 300.000 Betroffenen + Big-Tech soll zahlen",
+      "url": "https://www.heise.de/news/Mittwoch-Netflix-auch-hierzulande-strenger-Amazon-mit-groesserem-Fire-Tablet-9063585.html",
+      "image_title": "Symbolisches Streaming über einer Großstadt; Mittwoch: Netflix-Zügel, 11\"-Fire, Mini-PC-Trend, Satelliten-Übernahme, Dish-Hack & Netzausbau-Kosten"
     }
   ]
 }
