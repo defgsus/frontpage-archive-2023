@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-30T11:09:08",
+  "timestamp": "2023-05-30T12:24:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "ChatGPT erfindet Gerichtsurteile – US-Anwalt fällt darauf herein",
+      "teaser": "Ein US-Rechtsanwalt befragt ChatGPT nach Präzendenzfällen – und übernimmt die Antwort ungeprüft. Sein Pech: Vor Gericht stellt sich alles als Erfindung heraus.",
+      "url": "https://www.heise.de/news/ChatGPT-erfindet-Gerichtsurteile-US-Anwalt-faellt-darauf-herein-9068180.html"
+    },
+    {
       "title": "Missing Link: Digitalisierung der Schulen zurück im Dornröschenschlaf?",
       "teaser": "Mit Ende des Distanzunterrichts verlor die Digitalisierung der Schulen an Fahrt. Inzwischen steht KI schon in der Tür. Was bedeutet digitale Schule überhaupt?",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Digitalisierung-der-Schulen-zurueck-im-Dornroeschenschlaf-9066783.html",
@@ -37,11 +42,6 @@
       "url": "https://www.heise.de/news/Windows-Microsoft-untersucht-Probleme-beim-Speichern-und-Kopieren-von-Dateien-9067694.html"
     },
     {
-      "title": "Microsoft Build 2023: Neues Dashboard und neues Konfigurationssystem",
-      "teaser": "Microsoft hat auf der BUILD 2023 für Entwickler ein neues Dashboard, ein optimiertes Dateisystem und ein YAML-basiertes Konfigurationssystem vorgestellt",
-      "url": "https://www.heise.de/news/Microsoft-Build-2023-Neues-Dashboard-und-neues-Konfigurationssystem-9065066.html"
-    },
-    {
       "title": "Krieg der Barden? Googles KI-Assistent Bard im Praxistest eines Programmierers",
       "teaser": "Was taugen die neuen Programmierassistenten? Für diesen Praxisbericht wird Googles Bard auf Microcontroller losgelassen und muss zeigen, was er kann.",
       "url": "https://www.heise.de/hintergrund/Krieg-der-Barden-Googles-KI-Assistent-Bard-im-Praxistest-eines-Programmierers-9066768.html"
@@ -50,6 +50,27 @@
       "title": "Fire-TV-Hacks: So holen Sie mehr aus dem Streaming-Stick heraus",
       "teaser": "Mit Amazons Fire TV Stick lassen sich alte Fernseher oder Monitore zum Smart-TV aufrüsten. Wir zeigen, wie Sie dem System eine individuelle Note verleihen.",
       "url": "https://www.heise.de/ratgeber/Fire-TV-Hacks-So-holen-Sie-mehr-aus-dem-Streaming-Stick-heraus-9065603.html"
+    },
+    {
+      "title": "Schnelles Ethernet und ECC-RAM: Server-Mainboards für Ryzen 7000​",
+      "teaser": "Die Lücke unterhalb der leistungsstarken Epyc-Systeme füllen die Mainboard-Hersteller mit AM5-Server-Boards, in denen alle Ryzen-7000-Desktop-CPUs laufen.​",
+      "url": "https://www.heise.de/news/Server-Mainboards-fuer-Ryzen-7000-9069214.html"
+    },
+    {
+      "title": "Webentwicklung: Universal Scene Description als neues 3D-HTML",
+      "teaser": "Die nächste Generation des Web wird voraussichtlich dreidimensional und virtuell begehbar. Nvidia postuliert die 3D-Beschreibungssprache USD als neues 3D-HTML.",
+      "url": "https://www.heise.de/ratgeber/Webentwicklung-Universal-Scene-Description-als-neues-3D-HTML-9066668.html",
+      "image_title": ", AdobeStock, kinwun"
+    },
+    {
+      "title": "Zahlen, bitte! Bequem Richtung Italien in 192 Metern Höhe - Die Europabrücke",
+      "teaser": "Urlaubshungrige Italienreisende passieren auf der Fahrt über die Brennerautobahn bei Innsbruck die Europabrücke – die bis heute größte Balkenbrücke der Welt.",
+      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-Bequem-Richtung-Italien-in-192-Metern-Hoehe-Die-Europabruecke-8971632.html"
+    },
+    {
+      "title": "React: Zehn Jahre \"Rethinking Best Practices\"",
+      "teaser": "Die JavaScript-Bibliothek für Benutzeroberflächen hat sich stets sanft ohne Breaking Changes entwickelt. Nun steht eine Trendwende zu Fullstack-Frameworks an.",
+      "url": "https://www.heise.de/hintergrund/React-Zehn-Jahre-Rethinking-Best-Practices-9067614.html"
     },
     {
       "title": "Angreifer könnten Netzwerkanalysetool Wireshark crashen lassen",
@@ -112,26 +133,6 @@
       "teaser": "Foto-Alteisen passè: Eine seit 12 Jahren aktive iCloud-Funktion wird von Apple bald abgedreht. Allerdings gibt es bereits eine Alternative – mit Haken.",
       "url": "https://www.heise.de/news/Apple-dreht-beliebte-Mein-Fotostream-Funktion-ab-9067982.html",
       "image_title": "\"Mein Fotostream\" wurde 2011 eingeführt"
-    },
-    {
-      "title": "KI-Sprachmodelle und Bildgeneratoren: Neues c't Sonderheft chatGPT & Co.",
-      "teaser": "Im c't-Sonderheft erfahren Sie alles über die Möglichkeiten, Grenzen und Gefahren der KI-Sprachmodelle und wie Sie auf Ihrem eigenen Rechner Bilder erzeugen.",
-      "url": "https://www.heise.de/news/KI-Sprachmodelle-und-Bildgeneratoren-Neues-c-t-Sonderheft-chatGPT-Co-9066393.html"
-    },
-    {
-      "title": "Kollaborations-Tool Nextcloud: Updates schließen hochriskante Lücken",
-      "teaser": "In der Kollaborations-Software Nextcloud klaffen Sicherheitslücken mit teils hohem Risiko. Aktualisierte Software steht bereit.",
-      "url": "https://www.heise.de/news/Kollaborations-Suite-Nextcloud-Teils-hochriskante-Luecken-geschlossen-9068654.html"
-    },
-    {
-      "title": "Vermutlich KI-Training: Massenhafte Zugriffe kicken Internet Archive offline",
-      "teaser": "Übers verlängerte Wochenende war das Internet Archive Ziel von vermutlich unabsichtlichen DDoS-Attacken. Der Verdacht fällt auf ein unbedachtes KI-Training.",
-      "url": "https://www.heise.de/news/KI-Training-als-DDoS-Angriff-Internet-Archive-mehrfach-aus-dem-Netz-gekickt-9068622.html"
-    },
-    {
-      "title": "Gaming-Notebook: MSI bringt Sonderedition des Stealth 16 im AMG-Look",
-      "teaser": "Beim Stealth 16 Mercerdes-AMG Motorsport zieren Logos des Rennstalls das Notebookgehäuse und mitgeliefertes Zubehör.",
-      "url": "https://www.heise.de/news/Gaming-Notebook-MSI-bringt-Sonderedition-des-Stealth-16-im-AMG-Look-9068618.html"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
