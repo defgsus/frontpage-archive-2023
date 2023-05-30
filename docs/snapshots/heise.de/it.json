@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-30T08:14:08",
+  "timestamp": "2023-05-30T09:11:03",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,18 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.14bd8060689075ac2a51",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.b888b58c5e425dd3e483",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Missing Link: Digitalisierung der Schulen zurück im Dornröschenschlaf?",
+      "teaser": "Mit Ende des Distanzunterrichts verlor die Digitalisierung der Schulen an Fahrt. Inzwischen steht KI schon in der Tür. Was bedeutet digitale Schule überhaupt?",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Digitalisierung-der-Schulen-zurueck-im-Dornroeschenschlaf-9066783.html",
+      "image_title": "Three,Diverse,School,Children,In,Science,Class,Use,Digital,Tablet"
+    },
     {
       "title": "Windows: Microsoft untersucht Probleme beim Speichern und Kopieren von Dateien",
       "teaser": "Microsoft untersucht Abbrüche beim Speichern oder Kopieren von Dateien unter Windows. Offenbar sind 32-Bit-Anwendungen betroffen.",
@@ -36,11 +42,6 @@
       "url": "https://www.heise.de/news/Microsoft-Build-2023-Neues-Dashboard-und-neues-Konfigurationssystem-9065066.html"
     },
     {
-      "title": "Lange angekündigt, endlich da: Windows 365 braucht keinen lokalen Desktop mehr",
-      "teaser": "Schon kurz nach dem Start von Windows 365 kündigte Microsoft an: Für Cloud-PCs ist bald kein Umweg über den lokalen Desktop mehr nötig. Jetzt ist es soweit.",
-      "url": "https://www.heise.de/news/Windows-365-So-funktioniert-der-neue-Start-der-Cloud-PCs-9064226.html"
-    },
-    {
       "title": "Krieg der Barden? Googles KI-Assistent Bard im Praxistest eines Programmierers",
       "teaser": "Was taugen die neuen Programmierassistenten? Für diesen Praxisbericht wird Googles Bard auf Microcontroller losgelassen und muss zeigen, was er kann.",
       "url": "https://www.heise.de/hintergrund/Krieg-der-Barden-Googles-KI-Assistent-Bard-im-Praxistest-eines-Programmierers-9066768.html"
@@ -49,6 +50,22 @@
       "title": "Fire-TV-Hacks: So holen Sie mehr aus dem Streaming-Stick heraus",
       "teaser": "Mit Amazons Fire TV Stick lassen sich alte Fernseher oder Monitore zum Smart-TV aufrüsten. Wir zeigen, wie Sie dem System eine individuelle Note verleihen.",
       "url": "https://www.heise.de/ratgeber/Fire-TV-Hacks-So-holen-Sie-mehr-aus-dem-Streaming-Stick-heraus-9065603.html"
+    },
+    {
+      "title": "GigaDevice stellt auf Arm-Cortex-M7 basierende GD32H7-Mikrocontroller vor",
+      "teaser": "Moderne Schnittstellen machen MCUs vielseitig einsetzbar – GigaDevice verspricht bei seinen Arm-Cortex-M7-Modellen zudem \"überragende\" Leistung.",
+      "url": "https://www.heise.de/news/GigaDevice-stellt-auf-Arm-Cortex-M7-basierende-GD32H7-Mikrocontroller-vor-9068685.html"
+    },
+    {
+      "title": "Projekt Neonstorm: Adatas Wassergimmick für PCIe-5.0-SSD",
+      "teaser": "Adata kommendes SSD-Topmodell verwendet einen geschlossenen Wasserkühler. Ein normaler Luftkühler dürfte allerdings effektiver sein.",
+      "url": "https://www.heise.de/news/Projekt-Neonstorm-Adatas-Wassergimmick-fuer-PCIe-5-0-SSD-9068897.html"
+    },
+    {
+      "title": "Mimestream: Gmail-Client von Ex-Apple-Ingenieur ist fertig",
+      "teaser": "Wer Googles E-Mail-Dienst nutzt und nach einem modernen Mac-Client sucht, könnte bei einem neuen Produkt eines ehemaligen Apple-Mitarbeiters fündig werden.",
+      "url": "https://www.heise.de/news/Mimestream-Gmail-Client-von-Ex-Apple-Ingenieur-ist-fertig-9068801.html",
+      "image_title": "Mimestream 1.0"
     },
     {
       "title": "Apple dreht beliebte \"Mein Fotostream\"-Funktion ab",
@@ -67,7 +84,7 @@
       "url": "https://www.heise.de/news/Kollaborations-Suite-Nextcloud-Teils-hochriskante-Luecken-geschlossen-9068654.html"
     },
     {
-      "title": "KI-Training als DDoS-Angriff? – Internet Archive mehrfach aus dem Netz gekickt",
+      "title": "Vermutlich KI-Training: Massenhafte Zugriffe kicken Internet Archive offline",
       "teaser": "Übers verlängerte Wochenende war das Internet Archive Ziel von vermutlich unabsichtlichen DDoS-Attacken. Der Verdacht fällt auf ein unbedachtes KI-Training.",
       "url": "https://www.heise.de/news/KI-Training-als-DDoS-Angriff-Internet-Archive-mehrfach-aus-dem-Netz-gekickt-9068622.html"
     },
@@ -111,22 +128,6 @@
       "title": "Computex-Keynote: \"Die Zukunft wird auf ARM gebaut\"",
       "teaser": "ARM-CEO Rene Haas hat auf seiner Computex-Keynote dargelegt, warum er sein Unternehmen gut aufgestellt sieht.",
       "url": "https://www.heise.de/news/Die-Zukunft-wird-auf-ARM-gebaut-9068392.html"
-    },
-    {
-      "title": "Sicherheitslücke in Moxa MXsecurity Series gefährdet kritische Infrastrukturen",
-      "teaser": "Eine kritische Sicherheitslücke in der Netzwerküberwachungslösung MXsecurity bringt Industrieanlagen in Gefahr.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Moxa-MXsecurity-Series-gefaehrdet-kritische-Infrastrukturen-9068382.html",
-      "image_title": "Kraftwerk, Umweltschutz, Klimawandel, Kritische Infrastrukturen"
-    },
-    {
-      "title": "Samsung OLED-TVs mit WOLED-Panel von LG",
-      "teaser": "Seit einem Jahr verkauft Samsung Smart-TVs mit eigenen organischen Displays. Nun will das Unternehmen auch WOLED-Panels von LG in seine Geräte einbauen.",
-      "url": "https://www.heise.de/news/Samsung-OLED-TVs-mit-WOLED-Panel-von-LG-9068362.html"
-    },
-    {
-      "title": "Preisrutsch bei neuen Mainstream-Grafikkarten",
-      "teaser": "Erst diese Woche haben Nvidia und AMD ihre GeForce RTX 4060 Ti und die Radeon RX 7600 vorgestellt, doch die Preise beginnen schon zu rutschen.",
-      "url": "https://www.heise.de/news/Preise-bei-Mainstream-Grafikkarten-geben-nach-9068356.html"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
