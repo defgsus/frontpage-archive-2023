@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-31T08:13:46",
+  "timestamp": "2023-05-31T09:11:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress-Plug-in Jetpack",
+      "url": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-114-schliesst-16-Luecken-und-verbessert-Sicherheit-9069705.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Kollaborations-Suite-Nextcloud-Teils-hochriskante-Luecken-geschlossen-9068654.html"
     },
     {
-      "title": "Moxa MXsecurity Series",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Moxa-MXsecurity-Series-gefaehrdet-kritische-Infrastrukturen-9068382.html"
+      "title": "Android-Spyware SpinOk kommt auf mehr als 421 Millionen Installationen",
+      "teaser": "Ein Android-Software-Modul mit Spyware-Funktionen hat Doctor Web in Apps auf Google Play mit mehr als 421 Millionen Downloads aufgespürt. Google ist informiert.",
+      "url": "https://www.heise.de/news/Android-Spyware-SpinOk-kommt-auf-mehr-als-421-Millionen-Installationen-9069832.html",
+      "image_title": "Smartphone Spyware"
+    },
+    {
+      "title": "Zwangsupdate: WordPress-Websites über Jetpack-Lücke manipulierbar",
+      "teaser": "Die Jetpack-Entwickler haben 102 fehlerbereinigte Versionen ihres WordPress-Plug-ins veröffentlicht.",
+      "url": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html"
     },
     {
       "title": "Chrome und Firefox: 1Password löscht Erweiterungen für alte App im Web Store",
@@ -144,16 +155,6 @@
       "title": "Red Hat: Alle wollen mehr Kubernetes-Sicherheit – überlasst das unserer Cloud",
       "teaser": "Kubernetes ist kompliziert, dessen Sicherheit noch komplizierter – und beides verantworten, wollen die meisten Admins nicht. Also: einfach aus der Cloud buchen.",
       "url": "https://www.heise.de/news/Red-Hat-Summit-2023-Sicherheit-als-Cloud-Service-9064964.html"
-    },
-    {
-      "title": "Paket-Registry PyPI: US-Behörden verlangten Herausgabe von Nutzerdaten",
-      "teaser": "Das US-Justizministerium verlangte die Herausgabe umfangreicher Daten zu fünf PyPI-Usern. Die Registry-Betreiber überarbeiten nun ihre Datenschutzvorgaben.",
-      "url": "https://www.heise.de/news/Paket-Registry-PyPI-US-Behoerden-verlangten-Herausgabe-von-Nutzerdaten-9064988.html"
-    },
-    {
-      "title": "Teils kritische Sicherheitslücken in Mitel MiVoice Connect",
-      "teaser": "In Mitels MiVoice Connect und Connect Mobility Router klaffen teils kritische Sicherheitslücken. Updates zum Schließen stehen bereit.",
-      "url": "https://www.heise.de/news/Teils-kritische-Sicherheitsluecken-in-Mitel-MiVoice-Connect-9064992.html"
     },
     {
       "title": "heise Security Tour 2023",
