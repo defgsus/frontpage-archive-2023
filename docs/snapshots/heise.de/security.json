@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-31T06:15:36",
+  "timestamp": "2023-05-31T07:10:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d3fcc0cc4aa5145f200e",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.e6066594cd6645991930",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-114-schliesst-16-Luecken-und-verbessert-Sicherheit-9069705.html"
+    },
     {
       "title": "Wireshark",
       "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerkanalysetool-Wireshark-crashen-lassen-9069031.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Moxa-MXsecurity-Series-gefaehrdet-kritische-Infrastrukturen-9068382.html"
     },
     {
-      "title": "D-Link D-View 8.0",
-      "url": "https://www.heise.de/news/Kritische-Luecken-in-Netzwerkverwaltungssoftware-D-Link-D-View-8-geschlossen-9066361.html"
+      "title": "Webbrowser: Google Chrome 114 schließt 16 Lücken und verbessert Sicherheit",
+      "teaser": "Neben den üblichen geschlossenen Sicherheitslücken, derer 16 an der Zahl, liefert Google Chrome 114 auch teils neue oder verbesserte Sicherheitsfunktionen.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-114-schliesst-16-Luecken-und-verbessert-Sicherheit-9069705.html"
     },
     {
       "title": "Kleinanzeigen, Vinted, Ebay und Co: Betrug mit gekaperten Konten",
@@ -148,11 +153,6 @@
       "title": "Sicherheitsupdates: Zyxel-Firewalls anfällig für Schadcode-Attacken",
       "teaser": "Mehrere Firewall-Serien von Zyxel sind verwundbar. Die geschlossenen Sicherheitslücken gelten als kritisch.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zyxel-Firewalls-anfaellig-fuer-Schadcode-Attacken-9064960.html"
-    },
-    {
-      "title": "Zero-Day-Lücke in Barracudas Email Security Gateway",
-      "teaser": "Eine kritische Zero-Day-Lücke in Barracudas Email Security Gateway (ESG) ermöglicht Angreifern, etwa mit manipulierten E-Mail-Anhängen Befehle auszuführen.",
-      "url": "https://www.heise.de/news/Zero-Day-Luecke-Barracuda-verteilt-Update-fuer-Email-Security-Gateway-9064903.html"
     },
     {
       "title": "heise Security Tour 2023",
