@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-31T12:23:08",
+  "timestamp": "2023-05-31T13:14:42",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,18 @@
   ],
   "articles": [
     {
+      "title": "Statistisches Bundesamt: Inflation sinkt im Mai auf 6,1 Prozent",
+      "teaser": "Laut vorläufigen Zahlen des Statistischen Bundesamts ist die Inflation im Mai deutlich gesunken. Sie liegt nun bei 6,1 Prozent – nach 7,2 Prozent im Vormonat.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/inflation-mai-2023-statistisches-bundesamt",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/deutschland-inflation-bild/cinema__980x420",
+      "image_title": "deutschland-inflation-bild"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Rezession: Ein bisschen geschrumpft",
       "teaser": "Die deutsche Wirtschaft ist erneut in eine Rezession geraten, dabei sieht es in den Unternehmen und am Arbeitsmarkt gar nicht mal so schlecht aus. Wie geht es weiter?",
       "url": "https://www.zeit.de/2023/23/rezession-konjunktur-wirtschaft-deutschland-arbeitsmarkt",
-      "image_url": "https://img.zeit.de/2023/23/rezession-konjunktur-wirtschaft-deutschland-arbeitsmarkt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/23/rezession-konjunktur-wirtschaft-deutschland-arbeitsmarkt-bild/wide__822x462",
+      "image_title": "Rezession: Ein bisschen geschrumpft"
     },
     {
       "title": "Bundesagentur für Arbeit: Arbeitslosigkeit sinkt in Deutschland auf 5,5 Prozent",
@@ -66,14 +74,14 @@
       "title": "Außenhandel: Importpreise im April um sieben Prozent gesunken",
       "teaser": "Die Einfuhr von Gütern nach Deutschland hat sich im Jahresvergleich so stark verbilligt wie seit 14 Jahren nicht mehr. Vor allem Energiepreise gaben stark nach.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/aussenhandel-importpreise-gesunken-energiepreise-gas-strom-kohle",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/aussenhandel-importpreise-gesunken-energiepreise-gas-strom-kohle-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/aussenhandel-importpreise-gesunken-energiepreise-gas-strom-kohle-bild/cinema__980x420",
       "image_title": "Außenhandel: Importpreise im April um sieben Prozent gesunken"
     },
     {
       "title": "Inflation: Wenn Profitgier die Preise treibt",
       "teaser": "Die Preise für Lebensmittel steigen nicht nur wegen der höheren Kosten. Die Branche steht wegen übermäßiger Gewinnmitnahmen im Verdacht. Sollte der Staat eingreifen?",
       "url": "https://www.zeit.de/wirtschaft/2023-05/inflation-profit-lebensmittel-gewinne-unternehmen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/inflation-verbraucherpreise-profitstreben-unternehmen-gewinne-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/inflation-verbraucherpreise-profitstreben-unternehmen-gewinne-bild/wide__822x462",
       "image_title": "Inflation: Wenn Profitgier die Preise treibt"
     },
     {
@@ -82,13 +90,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-05/cum-ex-steuerskandal-hanno-berger-urteil-haftstrafe",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/cum-ex-steuerskandal-urteil-haftstrafte-hanno-berger/wide__822x462",
       "image_title": "Hanno Berger: Mehr als acht Jahre Haft für Steueranwalt Berger im Cum-Ex-Prozess"
-    },
-    {
-      "title": "Unterbringung von Geflüchteten: Am Limit",
-      "teaser": "Die Kommunen müssen immer mehr Flüchtlinge unterbringen, können sich das aber nicht leisten. Der Landrat des Main-Kinzig-Kreises verklagt nun sogar das Land Hessen.",
-      "url": "https://www.zeit.de/2023/22/gefluechtete-unterbringung-kommunen-ueberlastung",
-      "image_url": "https://img.zeit.de/2023/22/am-limit-bild-1/wide__822x462",
-      "image_title": "Unterbringung von Geflüchteten: Am Limit"
     },
     {
       "title": "CO₂-Preis und Heizungsstreit: Das Wundermittel, das die Wende bringen soll",
@@ -196,6 +197,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Unterbringung von Geflüchteten: Am Limit",
+      "teaser": "Die Kommunen müssen immer mehr Flüchtlinge unterbringen, können sich das aber nicht leisten. Der Landrat des Main-Kinzig-Kreises verklagt nun sogar das Land Hessen.",
+      "url": "https://www.zeit.de/2023/22/gefluechtete-unterbringung-kommunen-ueberlastung",
+      "image_url": "https://img.zeit.de/2023/22/am-limit-bild-1/wide__822x462",
+      "image_title": "Unterbringung von Geflüchteten: Am Limit"
+    },
+    {
       "title": "Podcast: Ist das eine Blase?: Ist die Ära des billigen Fliegens endgültig vorbei?",
       "teaser": "Die Preise für Flüge nach Mallorca oder Birmingham sind in diesem Jahr so hoch wie lange nicht. Bleibt das jetzt so? Wir haben den Deutschland-Chef von EasyJet gefragt.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/guenstiges-fliegen-podcast-easyjet",
@@ -220,14 +228,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Shein: Das Fast-Fast-Fashion-Wunder",
       "teaser": "Noch schneller, noch billiger, fast rein digital und fünfmal so hoch bewertet wie H&M: Shein ist der erste globale Textilkonzern aus China.",
       "url": "https://www.zeit.de/2023/22/shein-fast-fashion-china",
-      "image_url": "https://img.zeit.de/2023/22/das-fast-fast-fashion-wunder-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/22/das-fast-fast-fashion-wunder-bild-1/cinema__980x420",
       "image_title": "Shein: Das Fast-Fast-Fashion-Wunder"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Inflation: Zahlen die das?",
       "teaser": "Strom, Gas und Rohstoffe sind teurer geworden. Viele Unternehmer fragen sich, wie sie die gestiegenen Kosten weitergeben können, ohne Kunden zu vergraulen.",
       "url": "https://www.zeit.de/zeit-fuer-unternehmer/2023/01/inflation-unternehmen-rohstoffe-diw-preiserhoehungen",
-      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2023/01/zahlen-die-das-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2023/01/zahlen-die-das-bild-1/wide__822x462",
       "image_title": "Inflation: Zahlen die das?"
     },
     {
@@ -236,13 +244,6 @@
       "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
       "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/wide__822x462",
       "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Besteuerung von Reedereien: Steuern im Nebel",
-      "teaser": "Die Schweiz will die Abgaben ihrer Reedereien neu bemessen. Globale Logistikunternehmen könnten so noch viel weniger Steuern zahlen als ohnehin schon.",
-      "url": "https://www.zeit.de/2023/22/reedereien-besteuerung-schweiz-privilegien",
-      "image_url": "https://img.zeit.de/2023/22/steuern-im-nebel-bild-1/wide__822x462",
-      "image_title": "Besteuerung von Reedereien: Steuern im Nebel"
     },
     {
       "title": "Tesla: Noch mehr Giga im Trinkwasserschutzgebiet",
@@ -294,18 +295,18 @@
       "image_title": "Geld: Anlage, Altersvorsorge, Immobilien"
     },
     {
+      "title": "WirtschaftsWocheGrunderwerbsteuer: Wie sehr zockt Ihr Bundesland Häuslebauer ab?",
+      "teaser": "Vor 20 Jahren galt sie noch fast als Bagatellsteuer. Doch die Landesfürsten haben seither kräftig an der Steuerschraube gedreht und die Baukosten zusätzlich in die Höhe getrieben – mit einer Ausnahme.",
+      "url": "https://www.wiwo.de/politik/deutschland/grunderwerbsteuer-wie-sehr-zockt-ihr-bundesland-haeuslebauer-ab/29176602.html?wt_mc=zeitparkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/aus-fuer-eigenheimzulage/29176650/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Grunderwerbsteuer: Wie sehr zockt Ihr Bundesland Häuslebauer ab?"
+    },
+    {
       "title": "WirtschaftsWocheAutohandel: „Von 6000 Autohaus-Eigentümern bleiben nur ein paar hundert übrig“",
       "teaser": "Burkhard Weller ist Gründer einer der größten Autohandelsketten Deutschlands. Im Interview spricht er über die Entwicklung der Branche, ein mögliches Autohaus-Sterben und warum der „Goldregen definitiv vorbei“ ist.",
       "url": "https://www.wiwo.de/unternehmen/auto/autohandel-von-6000-autohaus-eigentuemern-bleiben-nur-ein-paar-hundert-uebrig/29175044.html?wt_mc=zeitparkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100_pro_imago_life-2-196504734-highres/29175360/5-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Autohandel: „Von 6000 Autohaus-Eigentümern bleiben nur ein paar hundert übrig“"
-    },
-    {
-      "title": "WirtschaftsWocheStatt Homeoffice: Ist Coworking die Lösung für Mitarbeiter, die nicht zurück ins Büro wollen?",
-      "teaser": "Lange waren Coworking-Spaces bloß Arbeitsorte für hippe Start-ups. Jetzt bringen dort selbst Konzerne etliche Mitarbeiter unter, denen der Weg ins richtige Büro zu weit ist. Was es zu beachten gilt.",
-      "url": "https://www.wiwo.de/erfolg/management/statt-homeoffice-ist-coworking-die-loesung-fuer-mitarbeiter-die-nicht-zurueck-ins-buero-wollen/29173778.html?wt_mc=zeitparkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0203656043h/29173796/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Statt Homeoffice: Ist Coworking die Lösung für Mitarbeiter, die nicht zurück ins Büro wollen?"
     }
   ]
 }
