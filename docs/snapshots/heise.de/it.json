@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-05-31T09:11:37",
+  "timestamp": "2023-05-31T10:11:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "AMD Ryzen 5 1600 taugt auf manchen Boards doch für Windows 11",
+      "teaser": "Laut offiziellen Microsoft-Angaben verschmäht Windows 11 die AMD-Ryzen-CPUs der ersten Generation, aber mit einem BIOS-Update klappts manchmal doch.",
+      "url": "https://www.heise.de/news/AMD-Ryzen-5-1600-taugt-auf-manchen-Boards-doch-fuer-Windows-11-9069622.html",
+      "image_title": "AMD Ryzen 5 1600 ist auf manchen Boards Windows-11-kompatibel"
+    },
+    {
       "title": "Preisrutsch bei neuen Mainstream-Grafikkarten",
       "teaser": "Erst diese Woche haben Nvidia und AMD ihre GeForce RTX 4060 Ti und die Radeon RX 7600 vorgestellt, doch die Preise beginnen schon zu rutschen.",
       "url": "https://www.heise.de/news/Preise-bei-Mainstream-Grafikkarten-geben-nach-9068356.html"
@@ -34,12 +40,6 @@
       "title": "ChatGPT erfindet Gerichtsurteile – US-Anwalt fällt darauf herein",
       "teaser": "Ein US-Rechtsanwalt befragt ChatGPT nach Präzendenzfällen – und übernimmt die Antwort ungeprüft. Sein Pech: Vor Gericht stellt sich alles als Erfindung heraus.",
       "url": "https://www.heise.de/news/ChatGPT-erfindet-Gerichtsurteile-US-Anwalt-faellt-darauf-herein-9068180.html"
-    },
-    {
-      "title": "Missing Link: Digitalisierung der Schulen zurück im Dornröschenschlaf?",
-      "teaser": "Mit Ende des Distanzunterrichts verlor die Digitalisierung der Schulen an Fahrt. Inzwischen steht KI schon in der Tür. Was bedeutet digitale Schule überhaupt?",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Digitalisierung-der-Schulen-zurueck-im-Dornroeschenschlaf-9066783.html",
-      "image_title": "Three,Diverse,School,Children,In,Science,Class,Use,Digital,Tablet"
     },
     {
       "title": "Krieg der Barden? Googles KI-Assistent Bard im Praxistest eines Programmierers",
@@ -52,13 +52,38 @@
       "url": "https://www.heise.de/ratgeber/Fire-TV-Hacks-So-holen-Sie-mehr-aus-dem-Streaming-Stick-heraus-9065603.html"
     },
     {
+      "title": "PC-Gehäuse mit Riesendisplay",
+      "teaser": "Ein hochkant gestelltes Notebook-Display in der Front macht das Zalman Z10 DS zum Second Screen. Zudem gibt es Luft- und Wasserkühler mit Kleinstmonitoren.",
+      "url": "https://www.heise.de/news/PC-Gehaeuse-mit-Riesendisplay-9069680.html"
+    },
+    {
+      "title": "Mac & i Heft 3/2023 jetzt vorab im heise-Shop",
+      "teaser": "Fotosammlung im Griff • Apple Watch • Vorsicht, Datenklau • KI • HomeKit • Time Machine • Docks und Hubs • PDF-Editoren • Fahrrad-Navis • GPS-Tracker für Hunde​",
+      "url": "https://www.heise.de/news/Mac-i-Heft-3-2023-jetzt-vorab-im-heise-Shop-9063884.html"
+    },
+    {
+      "title": "Linux und BSD: Weston 12 unterstützt mehrere Grafikchips​",
+      "teaser": "Was das Display-Server-Protokoll Wayland (neues) kann, zeigt als API-Referenz stets der hauseigene Compositor Weston, der jetzt den Sprung auf Version 12 macht.",
+      "url": "https://www.heise.de/news/Linux-und-BSD-Weston-12-unterstuetzt-mehrere-Grafikchips-9070008.html"
+    },
+    {
+      "title": "Industrie 4.0: So schützt man effektiv die Betriebstechnik",
+      "teaser": "Vernetzte Produktionshallen bieten Angriffsflächen. Um Risiken zu bewältigen, müssen sich ITler auf die Besonderheiten der Operational Technology einstellen.",
+      "url": "https://www.heise.de/hintergrund/Industrie-4-0-So-schuetzt-man-effektiv-die-Betriebstechnik-9069290.html"
+    },
+    {
+      "title": "Jetzt noch vom Frühbucherrabatt der Mastering Kubernetes 2023 profitieren",
+      "teaser": "Die Onlinekonferenz am 11. Juli geht auf die derzeitigen Trends des Containerorchestrierungssystem Kubernetes ein. Wer jetzt bucht, kann 50 Euro sparen.",
+      "url": "https://www.heise.de/news/Jetzt-noch-vom-Fruehbucherrabatt-der-Mastering-Kubernetes-2023-profitieren-9069923.html"
+    },
+    {
       "title": "Android-Spyware SpinOk kommt auf mehr als 421 Millionen Installationen",
       "teaser": "Ein Android-Software-Modul mit Spyware-Funktionen hat Doctor Web in Apps auf Google Play mit mehr als 421 Millionen Downloads aufgespürt. Google ist informiert.",
       "url": "https://www.heise.de/news/Android-Spyware-SpinOk-kommt-auf-mehr-als-421-Millionen-Installationen-9069832.html",
       "image_title": "Smartphone Spyware"
     },
     {
-      "title": "Microsoft Teams: Avatare sind nach zwei Jahren da – und nur so geht so",
+      "title": "Microsoft Teams: Die Avatare sind da – so gehts",
       "teaser": "Bei Teams kann man sich einen Avatar bauen und in Meetings schicken. Allerdings ist der Look schwierig und die Steuerung schwieriger. Doch er macht auch Spaß.",
       "url": "https://www.heise.de/news/Microsoft-Teams-Avatare-sind-nach-zwei-Jahren-da-und-nur-so-geht-so-9069866.html"
     },
@@ -100,37 +125,10 @@
       "url": "https://www.heise.de/news/Cybersecurity-in-der-Industrie-4-0-Das-Webinar-der-heise-Academy-8990996.html"
     },
     {
-      "title": "PC-Gehäuse mit Riesendisplay",
-      "teaser": "Ein hochkant gestelltes Notebook-Display in der Front macht das Zalman Z10 DS zum Second Screen. Zudem gibt es Luft- und Wasserkühler mit Kleinstmonitoren.",
-      "url": "https://www.heise.de/news/PC-Gehaeuse-mit-Riesendisplay-9069680.html"
-    },
-    {
-      "title": "AMD Ryzen 5 1600 taugt auf manchen Boards doch für Windows 11",
-      "teaser": "Laut offiziellen Microsoft-Angaben verschmäht Windows 11 die AMD-Ryzen-CPUs der ersten Generation, aber mit einem BIOS-Update klappts manchmal doch.",
-      "url": "https://www.heise.de/news/AMD-Ryzen-5-1600-taugt-auf-manchen-Boards-doch-fuer-Windows-11-9069622.html",
-      "image_title": "AMD Ryzen 5 1600 ist auf manchen Boards Windows-11-kompatibel"
-    },
-    {
       "title": "AirPods und MagSafe: Prototypen in anderen Farben aufgetaucht",
       "teaser": "Im Jahr 2016 hatte Apple angeblich konkrete Pläne für andere AirPods-Farben. Was daraus wurde und warum das jetzt plötzlich öffentlich wird.",
       "url": "https://www.heise.de/news/AirPods-und-MagSafe-Prototypen-in-anderen-Farben-aufgetaucht-9069576.html",
       "image_title": "AirPods mit MagSafe"
-    },
-    {
-      "title": "Apple Music Classical jetzt als Android-App verfügbar",
-      "teaser": "Apple hat seine neue Klassik-App auf Android portiert – noch vor iPad- und Mac-Versionen. Die Nutzung ist im Apple-Music-Abo bereits eingeschlossen.",
-      "url": "https://www.heise.de/news/Apple-Music-Classical-jetzt-als-Android-App-verfuegbar-9069596.html",
-      "image_title": "Apple Music Classical Android"
-    },
-    {
-      "title": "CloudLand 2023: Interaktive Workshops und Partytime beim Cloud Native Festival",
-      "teaser": "Hands-on, Tutorials, Diskutieren, Gaming und Summer Night: Das Programm des Cloud Native Festival vom 20. bis 23. Juni ist vielschichtig. Jetzt Tickets sichern.",
-      "url": "https://www.heise.de/news/CloudLand-2023-Interaktive-Workshops-und-Partytime-beim-Cloud-Native-Festival-9069510.html"
-    },
-    {
-      "title": "Qualcomm: \"Wir führen bei On-Device-AI\"",
-      "teaser": "Qualcomm arbeitete auf seiner Keynote heraus, wie gut sich Snapdragon-Prozessoren für KI-Aufgaben eigenen. Ein wichtiger künftiger Chip kommt aber erst später.",
-      "url": "https://www.heise.de/news/Qualcomm-Wir-fuehren-bei-On-Device-AI-9069524.html"
     },
     {
       "title": "Softwareeinsatz zahlt sich aus!",
