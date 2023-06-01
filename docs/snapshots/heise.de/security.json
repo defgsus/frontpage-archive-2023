@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-01T08:14:07",
+  "timestamp": "2023-06-01T09:11:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d02c090a47fd07a8b158",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1a286cd6ed89180ad4e0",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Zyxel-Firewalls",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Cybergangster-bauen-Botnetz-aus-Zyxel-Firewalls-9154531.html"
+    },
     {
       "title": "WordPress-Plug-in Jetpack",
       "url": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html"
@@ -44,13 +48,15 @@
       "url": "https://www.heise.de/news/Angreifer-koennten-Netzwerkanalysetool-Wireshark-crashen-lassen-9069031.html"
     },
     {
-      "title": "Nextcloud",
-      "url": "https://www.heise.de/news/Kollaborations-Suite-Nextcloud-Teils-hochriskante-Luecken-geschlossen-9068654.html"
+      "title": "Jetzt patchen! Cybergangster bauen Botnetz aus Zyxel-Firewalls",
+      "teaser": "Angreifer attackieren derzeit Firewalls des Netzwerkausrüsters Zyxel. Sicherheitsupdates stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Cybergangster-bauen-Botnetz-aus-Zyxel-Firewalls-9154531.html"
     },
     {
-      "title": "Webbrowser: Firefox beendet Support für altes Windows und macOS",
-      "teaser": "Da die Betriebssystemhersteller den Support dafür beendet haben, stellt Firefox in altem Windows und macOS zunächst auf die LTS-Version um. Ab 2024 ist Schluss.",
-      "url": "https://www.heise.de/news/Webbrowser-Firefox-beendet-Support-fuer-altes-Windows-und-macOS-9154400.html"
+      "title": "270 Gigabyte-Mainboards mit unsicherem Downloader im UEFI-BIOS",
+      "teaser": "Sicherheitsforscher warnen vor einer unsicheren Update-Funktion in vielen aktuellen Mainboards der Marke Gigabyte, die unter Windows Software nachlädt.",
+      "url": "https://www.heise.de/news/270-Gigabyte-Mainboards-mit-unsicherem-Downloader-im-UEFI-BIOS-9154430.html",
+      "image_title": "Mainboards der Firma Gigabyte"
     },
     {
       "title": "Zero-Day-Lücke: Leck in Barracudas ESG bereits seit 7 Monaten missbraucht",
@@ -63,10 +69,15 @@
       "url": "https://www.heise.de/news/Gesundheit-Nord-bestaetigt-Cyber-Angriff-und-Datenabfluss-9076718.html"
     },
     {
-      "title": "Ransomware: Wie man brauchbare Backups erstellt",
-      "teaser": "Trotz Maßnahmen gegen Cyber-Angriffe und Ransomware gelingen viele Attacken. Die Daten sind verschlüsselt. Einige Punkte verhelfen zu brauchbaren Backups.",
-      "url": "https://www.heise.de/hintergrund/Ransomware-Schutzkonzept-gegen-Angriffe-9069092.html",
-      "image_title": "Server,Racks,In,Server,Room,Data,Center.,3d,Render"
+      "title": "Hacker bloßgestellt: Datenbank von RaidForums geleakt",
+      "teaser": "Keine Ehre unter Gangstern: Im Hacker-Forum Exposed wurden E-Mail-Adressen und Co. von Mitgliedern des RaidForums veröffentlicht.",
+      "url": "https://www.heise.de/news/Hacker-blossgestellt-Datenbank-von-RaidForums-geleakt-9077150.html"
+    },
+    {
+      "title": "Android-Spyware SpinOk kommt auf mehr als 421 Millionen Installationen",
+      "teaser": "Ein Android-Software-Modul mit Spyware-Funktionen hat Doctor Web in Apps auf Google Play mit mehr als 421 Millionen Downloads aufgespürt. Google ist informiert.",
+      "url": "https://www.heise.de/news/Android-Spyware-SpinOk-kommt-auf-mehr-als-421-Millionen-Installationen-9069832.html",
+      "image_title": "Smartphone Spyware"
     },
     {
       "title": "Zwangsupdate: WordPress-Websites über Jetpack-Lücke manipulierbar",
@@ -144,16 +155,6 @@
       "teaser": "Nach den Vorfällen um die \"Volt Typhoon\"-Aktivitäten sieht das BSI keinen direkten Handlungsgrund. Die NSA und Cybersicherheitsbehörden sprechen Warnungen aus.",
       "url": "https://www.heise.de/news/Volt-Typhoon-Erhoehte-Wachsamkeit-am-Perimeter-9066431.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Android-Spyware: Legitime App nach einem Jahr verwanzt",
-      "teaser": "Die IT-Forscher von Eset haben eine Android-App entdeckt, die als nützliches Tool startete, rund ein Jahr später jedoch Spionagefunktionen nachgerüstet bekam.",
-      "url": "https://www.heise.de/news/Android-Malware-Vom-nuetzlichen-Tool-zu-Spyware-in-einem-Jahr-9066385.html"
-    },
-    {
-      "title": "Kritische Lücken in Netzwerkverwaltungssoftware D-Link D-View 8 geschlossen",
-      "teaser": "D-Link hat offensichtlich knapp fünf Monate gebraucht, um einen Sicherheitspatch für D-View 8 zu entwickeln, der sich aber immer noch im Beta-Stadium befindet.",
-      "url": "https://www.heise.de/news/Kritische-Luecken-in-Netzwerkverwaltungssoftware-D-Link-D-View-8-geschlossen-9066361.html"
     },
     {
       "title": "Ransomware: Wie man brauchbare Backups erstellt",
