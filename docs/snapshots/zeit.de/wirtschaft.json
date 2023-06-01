@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-01T03:08:25",
+  "timestamp": "2023-06-01T04:14:34",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "DMG Mori: Neuer Chef, alte Probleme",
+      "teaser": "Kürzlich berichtete die ZEIT, dass Maschinen von DMG Mori in der russischen Rüstungsindustrie landeten. Nun wurde der Chef des deutschen Konzernzweigs ausgetauscht.",
+      "url": "https://www.zeit.de/2023/23/dmg-mori-ruestungsindustrie-russland-eu-sanktionen",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-05/dmg-mori-seiki/cinema__980x420"
+    },
+    {
       "title": "KfW-Familienförderung: Neue Eigenheimförderung für Familien mit mittleren Einkommen startet",
       "teaser": "Wegen hoher Zinsen können sich Familien oft kein Eigentum leisten. Ab Juni will der Bund zinsgünstige Kredite vergeben lassen. Experten finden die Kriterien zu streng.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/kfw-familienfoerderung-bundesregierung-beginn",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/kfw-familienfoerderung-bundesregierung-beginn-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/kfw-familienfoerderung-bundesregierung-beginn-bild/wide__822x462",
+      "image_title": "KfW-Familienförderung: Neue Eigenheimförderung für Familien mit mittleren Einkommen startet"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nvidia: Wann cashe ich am besten aus?",
@@ -66,14 +73,14 @@
       "title": "Pflegereform: Das Pflege-Reförmchen",
       "teaser": "Arbeitnehmer müssen künftig höhere Beiträge zahlen. Wer zu Hause betreut wird, bekommt mehr Geld. Doch grundlegende Probleme löst die Regierung mit dem neuen Gesetz nicht",
       "url": "https://www.zeit.de/2023/23/pflege-reform-pflegegeld-inflation-entlastungsbetrag-faq",
-      "image_url": "https://img.zeit.de/2023/23/pflege-reform-pflegegeld-inflation-entlastungsbetrag-faq-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/23/pflege-reform-pflegegeld-inflation-entlastungsbetrag-faq-bild/cinema__980x420",
       "image_title": "Pflegereform: Das Pflege-Reförmchen"
     },
     {
       "title": "Statistisches Bundesamt: Inflation sinkt im Mai auf 6,1 Prozent",
       "teaser": "Laut vorläufigen Zahlen des Statistischen Bundesamts ist die Inflation im Mai deutlich gesunken. Sie liegt nun bei 6,1 Prozent – nach 7,2 Prozent im Vormonat.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/inflation-mai-2023-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/deutschland-inflation-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/deutschland-inflation-bild/wide__822x462",
       "image_title": "Statistisches Bundesamt: Inflation sinkt im Mai auf 6,1 Prozent"
     },
     {
@@ -82,13 +89,6 @@
       "url": "https://www.zeit.de/2023/23/rezession-konjunktur-wirtschaft-deutschland-arbeitsmarkt",
       "image_url": "https://img.zeit.de/2023/23/rezession-konjunktur-wirtschaft-deutschland-arbeitsmarkt-bild/wide__822x462",
       "image_title": "Rezession: Ein bisschen geschrumpft"
-    },
-    {
-      "title": "Bundesagentur für Arbeit: Arbeitslosigkeit sinkt in Deutschland auf 5,5 Prozent",
-      "teaser": "Seit April gibt es rund 42.000 weniger Arbeitslose in Deutschland. Die Quote sinkt um 0,2 Punkte. Die positive Entwicklung verliert laut Arbeitsagentur jedoch an Schwung.",
-      "url": "https://www.zeit.de/wirtschaft/2023-05/arbeitslosigkeit-mai-gesunken-bundesagentur-arbeit",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/arbeitslosigkeit-mai-gesunken-bundesagentur-arbeit-bild/wide__822x462",
-      "image_title": "Bundesagentur für Arbeit: Arbeitslosigkeit sinkt in Deutschland auf 5,5 Prozent"
     },
     {
       "title": "CO₂-Preis und Heizungsstreit: Das Wundermittel, das die Wende bringen soll",
@@ -196,6 +196,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Bundesagentur für Arbeit: Arbeitslosigkeit sinkt in Deutschland auf 5,5 Prozent",
+      "teaser": "Seit April gibt es rund 42.000 weniger Arbeitslose in Deutschland. Die Quote sinkt um 0,2 Punkte. Die positive Entwicklung verliert laut Arbeitsagentur jedoch an Schwung.",
+      "url": "https://www.zeit.de/wirtschaft/2023-05/arbeitslosigkeit-mai-gesunken-bundesagentur-arbeit",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/arbeitslosigkeit-mai-gesunken-bundesagentur-arbeit-bild/wide__822x462",
+      "image_title": "Bundesagentur für Arbeit: Arbeitslosigkeit sinkt in Deutschland auf 5,5 Prozent"
+    },
+    {
       "title": "Außenhandel: Importpreise im April um sieben Prozent gesunken",
       "teaser": "Die Einfuhr von Gütern nach Deutschland hat sich im Jahresvergleich so stark verbilligt wie seit 14 Jahren nicht mehr. Vor allem Energiepreise gaben stark nach.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/aussenhandel-importpreise-gesunken-energiepreise-gas-strom-kohle",
@@ -220,14 +227,14 @@
       "title": "Unterbringung von Geflüchteten: Am Limit",
       "teaser": "Die Kommunen müssen immer mehr Flüchtlinge unterbringen, können sich das aber nicht leisten. Der Landrat des Main-Kinzig-Kreises verklagt nun sogar das Land Hessen.",
       "url": "https://www.zeit.de/2023/22/gefluechtete-unterbringung-kommunen-ueberlastung",
-      "image_url": "https://img.zeit.de/2023/22/am-limit-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/22/am-limit-bild-1/cinema__980x420",
       "image_title": "Unterbringung von Geflüchteten: Am Limit"
     },
     {
       "title": "Podcast: Ist das eine Blase?: Ist die Ära des billigen Fliegens endgültig vorbei?",
       "teaser": "Die Preise für Flüge nach Mallorca oder Birmingham sind in diesem Jahr so hoch wie lange nicht. Bleibt das jetzt so? Wir haben den Deutschland-Chef von EasyJet gefragt.",
       "url": "https://www.zeit.de/wirtschaft/2023-05/guenstiges-fliegen-podcast-easyjet",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-05/guenstiges-fliegen-podcast-easyjet-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-05/guenstiges-fliegen-podcast-easyjet-1/wide__822x462",
       "image_title": "Podcast: Ist das eine Blase?: Ist die Ära des billigen Fliegens endgültig vorbei?"
     },
     {
@@ -236,13 +243,6 @@
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-05/beschaeftigte-einstellung-ifo-institut",
       "image_url": "https://img.zeit.de/wirtschaft/2023-05/beschaeftigte-einstellung-ifo-institut-bild/wide__822x462",
       "image_title": "Beschäftigung: Unternehmen laut ifo Institut zurückhaltender bei Neueinstellungen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); China und USA: Supermacht gegen Supermacht",
-      "teaser": "Jahrzehntelang wuchsen die USA und China zusammen. Nun droht ein neuer kalter Krieg. Was eine Fleischfabrik in Iowa und schwangere Chinesinnen über den Konflikt verraten.",
-      "url": "https://www.zeit.de/2023/21/china-usa-handelskrieg-fleischproduktion-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/2023/21/china-usa-handelskireg-fleischproduktion-kuenstliche-intelligenz-bild/wide__822x462",
-      "image_title": "China und USA: Supermacht gegen Supermacht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Inflation: Zahlen die das?",
