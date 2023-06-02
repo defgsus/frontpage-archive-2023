@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-02T09:11:11",
+  "timestamp": "2023-06-02T10:11:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Symantec Advanced Secure Gateway und Content Analysis",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schwachstellen-machen-Schutzsoftware-von-Symantec-angreifbar-9162943.html"
+    },
+    {
       "title": "MOVEit Transfer",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-leiten-Daten-ueber-MOVEit-Transfer-Sicherheitsluecke-aus-9162765.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-114-schliesst-16-Luecken-und-verbessert-Sicherheit-9069705.html"
+      "title": "iTunes: Sicherheitslücke unter Windows schnell patchen",
+      "teaser": "Im Mai hat Apple ein Update für seine Medienverwaltung unter Windows publiziert. Das sollte man flott einspielen, meinen die Entdecker.",
+      "url": "https://www.heise.de/news/iTunes-Sicherheitsluecke-unter-Windows-schnell-patchen-9162809.html"
+    },
+    {
+      "title": "Sicherheitsupdates: Schwachstellen machen Schutzsoftware von Symantec angreifbar",
+      "teaser": "Symantecs Entwickler haben in Advanced Secure Gateway und Content Analysis mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schwachstellen-machen-Schutzsoftware-von-Symantec-angreifbar-9162943.html"
     },
     {
       "title": "Nach iPhone-Spionagevorwürfen: Apple widerspricht russischem Geheimdienst",
@@ -141,18 +151,6 @@
       "title": "Kollaborations-Tool Nextcloud: Updates schließen hochriskante Lücken",
       "teaser": "In der Kollaborations-Software Nextcloud klaffen Sicherheitslücken mit teils hohem Risiko. Aktualisierte Software steht bereit.",
       "url": "https://www.heise.de/news/Kollaborations-Suite-Nextcloud-Teils-hochriskante-Luecken-geschlossen-9068654.html"
-    },
-    {
-      "title": "Sicherheitslücke in Moxa MXsecurity Series gefährdet kritische Infrastrukturen",
-      "teaser": "Eine kritische Sicherheitslücke in der Netzwerküberwachungslösung MXsecurity bringt Industrieanlagen in Gefahr.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Moxa-MXsecurity-Series-gefaehrdet-kritische-Infrastrukturen-9068382.html",
-      "image_title": "Kraftwerk, Umweltschutz, Klimawandel, Kritische Infrastrukturen"
-    },
-    {
-      "title": "Pflicht zur Zwei-Faktor-Authentifzierung bei Paketmanager PyPI verschärft",
-      "teaser": "Noch dieses Jahr müssen alle Projekte und Maintainer auf PyPI bei der Anmeldung auf 2FA umstellen.",
-      "url": "https://www.heise.de/news/Paketmanager-PyPI-verschaerft-2FA-Pflicht-und-setzt-Frist-9068350.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Ransomware: Wie man brauchbare Backups erstellt",
