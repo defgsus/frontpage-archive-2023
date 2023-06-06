@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-06T05:11:08",
+  "timestamp": "2023-06-06T06:14:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-Schwachstelle-in-Javascript-Engine-von-Chrome-wird-angegriffen-9178698.html"
+    },
+    {
       "title": "Splunk",
       "url": "https://www.heise.de/news/Big-Data-Unternehmen-Splunk-schliesst-teils-kritische-Sicherheitsluecken-9164194.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-leiten-Daten-ueber-MOVEit-Transfer-Sicherheitsluecke-aus-9162765.html"
     },
     {
-      "title": "Zyxel-Firewalls",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Cybergangster-bauen-Botnetz-aus-Zyxel-Firewalls-9154531.html"
+      "title": "Zero-Day-Lücke: Schwachstelle in Javascript-Engine von Chrome wird angegriffen",
+      "teaser": "Eine Sicherheitslücke in der Javascript-Engine V8 von Chromium-basierten Webbrowsern wird bereits aktiv angegriffen. Google stellt ein Notfallupdate bereit.",
+      "url": "https://www.heise.de/news/Zero-Day-Luecke-Schwachstelle-in-Javascript-Engine-von-Chrome-wird-angegriffen-9178698.html"
     },
     {
       "title": "Windows Subsystem für Android: Dateiaustausch mit Drag and Drop",
@@ -147,11 +152,6 @@
       "teaser": "Ein Android-Software-Modul mit Spyware-Funktionen hat Doctor Web in Apps auf Google Play mit mehr als 421 Millionen Downloads aufgespürt. Google ist informiert.",
       "url": "https://www.heise.de/news/Android-Spyware-SpinOk-kommt-auf-mehr-als-421-Millionen-Installationen-9069832.html",
       "image_title": "Smartphone Spyware"
-    },
-    {
-      "title": "Zwangsupdate: WordPress-Websites über Jetpack-Lücke manipulierbar",
-      "teaser": "Die Jetpack-Entwickler haben 102 fehlerbereinigte Versionen ihres WordPress-Plug-ins veröffentlicht.",
-      "url": "https://www.heise.de/news/Zwangsupdate-WordPress-Websites-ueber-Jetpack-Luecke-manipulierbar-9069974.html"
     },
     {
       "title": "Missing Link: Digitale Polizei – eine unendliche Geschichte mit vielen Restarts",
