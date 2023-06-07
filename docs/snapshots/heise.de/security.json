@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-07T12:22:33",
+  "timestamp": "2023-06-07T13:15:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4d28c6e5ae398e5b5421",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d8a9bab1130839731d66",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Firefox, Firefox ESR",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-und-Firefox-ESR-gegen-moegliche-Attacken-geruestet-9180185.html"
+    },
     {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Schadcode-koennte-via-Bluetooth-Luecke-auf-Android-Geraeten-landen-9179937.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Big-Data-Unternehmen-Splunk-schliesst-teils-kritische-Sicherheitsluecken-9164194.html"
     },
     {
-      "title": "Symantec Advanced Secure Gateway und Content Analysis",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schwachstellen-machen-Schutzsoftware-von-Symantec-angreifbar-9162943.html"
+      "title": "Sicherheitsupdates: Firefox und Firefox ESR gegen mögliche Attacken gerüstet",
+      "teaser": "Aufgrund einer Schwachstelle in Firefox könnten Angreifer Opfer noch effektiver auf unverschlüsselte Fake-Websites locken.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-und-Firefox-ESR-gegen-moegliche-Attacken-geruestet-9180185.html"
     },
     {
       "title": "iX-Workshop: Azure Active Directory gegen Angriffe absichern",
@@ -150,11 +155,6 @@
       "url": "https://www.heise.de/news/Fuer-Pentester-Neues-Kali-Linux-2023-2-unterstuetzt-ab-sofort-Hyper-V-9156994.html"
     },
     {
-      "title": "Trojaner-Fehlalarm: Microsoft Defender warnt vor Browser-Plug-ins von Metamask",
-      "teaser": "Das Plug-in der Krypto-Wallet Metamask für Webbrowser wie Chrome und Firefox wird von Microsofts Defender derzeit als Malware abgestempelt.",
-      "url": "https://www.heise.de/news/Microsoft-Defender-Fehlalarm-auf-Krypto-Wallet-Metamask-9154897.html"
-    },
-    {
       "title": "Missing Link: Digitale Polizei – eine unendliche Geschichte mit vielen Restarts",
       "teaser": "Schon seit sechseinhalb Jahren zimmern Bund und Länder am Polizei-Datenhaus P20. Doch schon das Fundament steht auf technisch und rechtlich tönernem Grund.",
       "url": "https://www.heise.de/hintergrund/Missing-Link-Digitale-Polizei-eine-unendliche-Geschichte-mit-vielen-Restarts-9163798.html"
@@ -172,6 +172,11 @@
       "image_title": ", Albert Hulm"
     },
     {
+      "title": "desinfec't -Stick 2023 / Virenscanner bricht ohne Fehlermeldung ab",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/desinfec-t-Stick-2023-Virenscanner-bricht-ohne-Fehlermeldung-ab/posting-42719120/show/"
+    },
+    {
       "title": "Re: Error 122 beim Erstellen eines USB-Sticks",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Error-122-beim-Erstellen-eines-USB-Sticks/posting-42718324/show/"
@@ -180,11 +185,6 @@
       "title": "Re: Desinfect 2023 Error 0x1A",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2023-Error-0x1A/posting-42713427/show/"
-    },
-    {
-      "title": "Re: USB-Stick 2023 p0, Firefox Startbild ;-) - Das Desinfec't-Forum war schöner",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-USB-Stick-2023-p0-Firefox-Startbild-Das-Desinfec-t-Forum-war-schoener/posting-42712611/show/"
     }
   ]
 }
