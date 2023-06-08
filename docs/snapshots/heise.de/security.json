@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-08T11:10:04",
+  "timestamp": "2023-06-08T12:21:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.466777fcc7ddf61320ee",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.5f690a5ce3d6c44166b1",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Barracuda Email Security Gateway",
+      "url": "https://www.heise.de/news/Cyberattacken-Admins-muessen-Barracuda-ESG-sofort-erseztzen-9181326.html"
+    },
     {
       "title": "VMware Aria Operations for Networks",
       "url": "https://www.heise.de/news/Schadcode-Attacken-auf-Netzwerk-Moitoringloesung-von-VMware-moeglich-9181036.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Cisco-Angreifer-koennten-Passwoerter-beliebiger-Nutzer-aendern-9180829.html"
     },
     {
-      "title": "Firefox, Firefox ESR",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-und-Firefox-ESR-gegen-moegliche-Attacken-geruestet-9180185.html"
+      "title": "Datenleck: Sensible Daten bei Einbruch bei Vodafone-Vetriebspartner kopiert",
+      "teaser": "Vodafone informiert derzeit viele Kunden, dass Cyberkriminelle bei einem Vertriebspartner eingebrochen seien und sensible Daten kopiert hätten.",
+      "url": "https://www.heise.de/news/Datenleck-Sensible-Daten-bei-Einbruch-bei-Vodafone-Vetriebspartner-kopiert-9181334.html"
+    },
+    {
+      "title": "Privatsphärenschutz: Was Apple in iOS 17, macOS 14 und Co. plant",
+      "teaser": "Apple hat sich auch mit den diesjährigen Betriebssystemen bei Privacy einiges vorgenommen. Unser Überblick zeigt, an welchen Stellschrauben der Konzern dreht.",
+      "url": "https://www.heise.de/news/Privatsphaerenschutz-Was-Apple-in-iOS-17-macOS-14-und-Co-plant-9181101.html",
+      "image_title": "Safari-Datenschutz"
     },
     {
       "title": "Schadcode-Attacken auf Netzwerk-Monitoringlösung von VMware möglich",
@@ -90,6 +101,11 @@
       "teaser": "KI ist Fluch und Segen zugleich: Laut FBI nehmen nun die Fälle von manipulierten Bildern und Videos mit sexuellen Handlungen zu, um Menschen zu erpressen.",
       "url": "https://www.heise.de/news/FBI-warnt-Zahl-der-Sextortion-Faelle-nimmt-zu-KI-erleichtert-Manipulation-9179772.html",
       "image_title": "Auf Stufen sitzendes Mädchen schlägt die Hände vors Gesicht"
+    },
+    {
+      "title": "KeePass: Lücke zum Auslesen des Master-Passworts geschlossen",
+      "teaser": "Eine Sicherheitslücke im Passwort-Manager KeePass ermöglichte die Rekonstruktion des Master-Passworts aus Speicherabbildern. Ein Update schließt sie jetzt.",
+      "url": "https://www.heise.de/news/KeePass-Luecke-zum-Auslesen-des-Master-Passworts-geschlossen-9179419.html"
     },
     {
       "title": "MOVEit: Sicherheitslücke bewegt weltweit, hierzulande über 100 Systeme betroffen",
@@ -140,21 +156,6 @@
       "url": "https://www.heise.de/news/Webbrowser-Schadcode-in-Chrome-Erweiterungen-mit-87-Millionen-Nutzern-9164090.html"
     },
     {
-      "title": "Missing Link: Digitale Polizei – eine unendliche Geschichte mit vielen Restarts",
-      "teaser": "Schon seit sechseinhalb Jahren zimmern Bund und Länder am Polizei-Datenhaus P20. Doch schon das Fundament steht auf technisch und rechtlich tönernem Grund.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Digitale-Polizei-eine-unendliche-Geschichte-mit-vielen-Restarts-9163798.html"
-    },
-    {
-      "title": "iTunes: Sicherheitslücke unter Windows schnell patchen",
-      "teaser": "Im Mai hat Apple ein Update für seine Medienverwaltung unter Windows publiziert. Das sollte man flott einspielen, meinen die Entdecker.",
-      "url": "https://www.heise.de/news/iTunes-Sicherheitsluecke-unter-Windows-schnell-patchen-9162809.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Schwachstellen machen Schutzsoftware von Symantec angreifbar",
-      "teaser": "Symantecs Entwickler haben in Advanced Secure Gateway und Content Analysis mehrere Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schwachstellen-machen-Schutzsoftware-von-Symantec-angreifbar-9162943.html"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Security braucht Vertrauen – aber zu wem, wann und wie? Das erfahren Sie auf der heise-Security-Konferenz. Sie lernen den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
@@ -179,7 +180,7 @@
     {
       "title": "Re: desinfec't -Stick 2023 / Virenscanner bricht ohne Fehlermeldung ab",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfec-t-Stick-2023-Virenscanner-bricht-ohne-Fehlermeldung-ab/posting-42722646/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-desinfec-t-Stick-2023-Virenscanner-bricht-ohne-Fehlermeldung-ab/posting-42723212/show/"
     },
     {
       "title": "Re: Desinfect 2023 Error 0x1A",
