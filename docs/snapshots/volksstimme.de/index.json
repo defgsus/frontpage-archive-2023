@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-08T05:10:36",
+  "timestamp": "2023-06-08T06:14:21",
   "url": "https://www.volksstimme.de/",
   "response": {
     "status": 200
@@ -44,6 +44,12 @@
   ],
   "articles": [
     {
+      "title": "Überfall auf Tankstelle in Magdeburg",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/5cdd0e5a-d926-4844-8df9-baade5d60627.jpeg?rect=1044%2C538%2C1500%2C752&width=100",
+      "image_title": "Der Polizeihubschrauber kreist über dem Einsatzort in Magdeburg.",
+      "topic": "Polizeieinsatz"
+    },
+    {
       "title": "Magdeburg und die Kritik an Idee zur Kirschbaum-Allee",
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/dbc436b7-18ec-4fc2-9013-d3253a49772a.jpeg?rect=0%2C0%2C3050%2C1975&width=100",
       "image_title": "Alle Jahre wieder blühen im Holzweg in Magdeburg die Zierkirschbäume in voller Pracht. Die Allee gehört dann warscheinlich zu den meistfotografierten Motiven in der Landeshauptstadt Sachsen-Anhalts.",
@@ -54,12 +60,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/07/21aa941c-9f47-477e-a548-5516cc9afd42.jpeg?rect=0%2C166%2C1633%2C833&width=100",
       "image_title": "Der Sprenglochbohrwagen fährt über die Sohle",
       "topic": "50 Jahre Kali aus Zielitz"
-    },
-    {
-      "title": "Wann endet die Einbruchserie? Kleingärtner rüsten gegen Diebe in Wanzleben auf",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/07/db00cae8-4f53-40da-a37f-d2e70f152c18.jpeg?rect=130%2C105%2C1633%2C967&width=100",
-      "image_title": "Walter Strauch (rechts) vom Vorstand der Kleingartensparte „Schulze 13“ und Norbert Linke erkunden die neuen technischen Möglichkeiten zur Sicherung der Anlage.",
-      "topic": "Pächter sind stinksauer"
     },
     {
       "title": "Mauschelei-Vorwürfe: Sachsen-Anhalts Bildungsministerin Feußner spielt auf Zeit",
@@ -125,6 +125,13 @@
       "topic": "Anhebung ab dem 1. Juli"
     },
     {
+      "title": "Wann endet die Einbruchserie? Kleingärtner rüsten gegen Diebe in Wanzleben auf",
+      "url": "https://www.volksstimme.de/lokal/wanzleben/einbruchserie-kleingaertner-boerde-diebe-in-wanzleben-auf-3626502",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/07/db00cae8-4f53-40da-a37f-d2e70f152c18.jpeg?rect=130%2C105%2C1633%2C967&width=100",
+      "image_title": "Walter Strauch (rechts) vom Vorstand der Kleingartensparte „Schulze 13“ und Norbert Linke erkunden die neuen technischen Möglichkeiten zur Sicherung der Anlage.",
+      "topic": "Pächter sind stinksauer"
+    },
+    {
       "title": "Pommes-Automat am Hauptbahnhof in Stendal: Wie das Angebot ankommt",
       "url": "https://www.volksstimme.de/lokal/stendal/fast-food-pommes-automat-hauptbahnhof-stendal-wie-das-angebot-ankommt-3626302",
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/07/41ad5b2a-0b70-49e9-93a9-35c16b1faf2b.jpeg?rect=0%2C63%2C1077%2C652&width=100",
@@ -165,13 +172,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/06/e21e5989-5f31-401b-a89e-544ae40d4876.jpeg?rect=0%2C0%2C4000%2C2667&width=100",
       "image_title": "Noreen Tausendfreund auf dem Balkon ihres \"Lösungsinstitus\"im Magdeburger Hundertwasserhaus.&nbsp;",
       "topic": "Kampf gegen Kindheitstrauma"
-    },
-    {
-      "title": "Umzug der Ausländerbehörde in Magdeburg: Bürgerversammlung soll Kritik auffangen",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/magdeburg-umzug-auslaenderbehoerde-oberbuergermeisterin-buergerversammlung-kritik-auffangen-3625724",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/06/0d71a722-baaf-4f37-989d-5e02e229ae40.jpeg?rect=0%2C0%2C1280%2C809&width=100",
-      "image_title": "Die Magdeburger Ausländerbehörde hat aktuell ihren Sitz im Breiten Weg. Das Objekt – ehemals Einwohnermeldeamt – ist dem Andrang nicht mehr gewachsen. Unter anderem fehlen Wartebereiche, so das sich lange Schlangen vor der Tür bilden.",
-      "topic": "Oberbürgermeisterin lädt ein"
     },
     {
       "title": "Warum im Dorfgemeinschaftshaus Schermcke ein neues Kunstwerk entstanden ist",
@@ -294,14 +294,14 @@
       "topic": "Gefahr durch Blitzschlag"
     },
     {
-      "title": "Waldbrand im Harz: Wer an dem Großfeuer unterm Brocken schuld sein soll",
-      "url": "https://www.volksstimme.de/lokal/wernigerode/waldbrand-im-harz-warum-ist-feuer-am-brocken-ausgebrochen-forderungen-zum-brandschutz-3625007",
-      "topic": "Feuerwehreinsatz im Nationalpark Harz"
-    },
-    {
       "title": "Wolfssterben in Sachsen-Anhalt: Tödlich infiziert - Mehrere Rudel mit Krankheit angesteckt",
       "url": "https://www.volksstimme.de/sachsen-anhalt/woelfe-in-sachsen-anhalt-wolfssterben-rudel-mit-toedlicher-krankheit-infiziert-milbenbefall-3624405",
       "topic": "Wölfe"
+    },
+    {
+      "title": "Waldbrand im Harz: Wer an dem Großfeuer unterm Brocken schuld sein soll",
+      "url": "https://www.volksstimme.de/lokal/wernigerode/waldbrand-im-harz-warum-ist-feuer-am-brocken-ausgebrochen-forderungen-zum-brandschutz-3625007",
+      "topic": "Feuerwehreinsatz im Nationalpark Harz"
     },
     {
       "title": "Sachsen-Anhalts Kapitäne im Visier der Polizei: Damit rechneten die Beamten nicht",
@@ -346,39 +346,39 @@
       "topic": "Urlaub an der Ostsee gewinnen!"
     },
     {
-      "title": "US-Medien: Phoenix Suns planen nicht mehr mit Chris Paul",
-      "url": "https://www.volksstimme.de/sport/us-medien-phoenix-suns-planen-nicht-mehr-mit-chris-paul-3626590",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/f69c1289-f124-4dd5-a2b9-7e9101ef5ba0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Ist bei den Phoenix Suns offenbar nicht mehr gefragt: Chris Paul (l).",
-      "topic": "NBA"
+      "title": "Pütz vor Titelchance in Paris: Bin kein „Mixed-Experte“",
+      "url": "https://www.volksstimme.de/sport/putz-vor-titelchance-in-paris-bin-kein-mixed-experte-3626696",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/0ec421d3-a669-4304-99fb-f4c3648f5f1d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Spielen um den Mixed-Titel in Paris: Tim Pütz (r) und Miyu Kato.",
+      "topic": "French Open"
     },
     {
-      "title": "SCM verabschiedet fünf Spieler nach Partie gegen TVB Stuttgart",
-      "url": "https://www.volksstimme.de/sport/sc-magdeburg/scm-verabschiedet-funf-spieler-nach-partie-gegen-tvb-stuttgart-3626552",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/07/c98672f1-9f85-4076-a835-544aa1280b2e.jpeg?rect=16%2C156%2C2265%2C1274&width=100",
-      "image_title": "Siebeneinhalb Jahre arbeiteten Trainer Bennet Wiegert (l.) und Marko Bezjak zusammen. Am Donnerstag bestreiten sie das letzte gemeinsame SCM-Heimspiel. Auch Piotr Chrapkowski (r.) wird verabschiedet.",
-      "topic": "Handball"
+      "title": "Bobic erwartet „wilde Jagd“ auf dem Stürmer-Transfermarkt",
+      "url": "https://www.volksstimme.de/sport/fussball/bobic-erwartet-wilde-jagd-auf-dem-sturmer-transfermarkt-3626661",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/598c78d6-d35c-43c2-a251-75786c704f04.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ehemaliger Sport-Geschäftsführer von Hertha BSC Berlin: Fredi Bobic.",
+      "topic": "Bundesliga"
     },
     {
-      "title": "Volleyballer verlieren zum Auftakt gegen Brasilien",
-      "url": "https://www.volksstimme.de/sport/volleyballer-verlieren-zum-auftakt-gegen-brasilien-3626684",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/adb53270-b00d-425f-9f99-0ab713641ae2.jpeg?rect=0%2C0%2C2048%2C1152&width=100",
-      "image_title": "Bundestrainer Michal Winiarski spricht zu seinen Spielern.",
-      "topic": "Nationenliga"
+      "title": "Nationaltrainer Rebrow glücklich über Rückkehr in Ukraine",
+      "url": "https://www.volksstimme.de/sport/fussball/nationaltrainer-rebrow-glucklich-uber-ruckkehr-in-ukraine-3626636",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/19e64405-be6d-445d-95e3-1b83e50306ad.jpeg?rect=0%2C150%2C2048%2C1152&width=100",
+      "image_title": "Dynamo Kiews damaliger Trainer Serhiy Rebrow ist inzwischen Nationaltrainer der Ukraine.",
+      "topic": "Nationalmannschaft"
     },
     {
-      "title": "Messis Miami-Pläne verzücken Medien und Sportler in den USA",
-      "url": "https://www.volksstimme.de/sport/fussball/messis-miami-plane-verzucken-medien-und-sportler-in-den-usa-3626616",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/18b48e93-5375-41be-8fa7-70cda16fb547.jpeg?rect=114%2C0%2C1820%2C1024&width=100",
-      "image_title": "Argentiniens Lionel Messi spielt künftig für Inter Miami in den USA.",
-      "topic": "Transfermarkt"
+      "title": "Finale in Istanbul für Gündogan „ein Privileg“",
+      "url": "https://www.volksstimme.de/sport/fussball/finale-in-istanbul-fur-gundogan-ein-privileg-3626642",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/558f4578-c2e6-4304-9e2a-4356d1082378.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ilkay Gündogan (M) will mit Manchester City in seinem vielleicht letzten Spiel für den Club das Champions-League-Finale gewinnen.",
+      "topic": "Champions League"
     },
     {
-      "title": "Nuggets gehen in NBA-Finals wieder in Führung",
-      "url": "https://www.volksstimme.de/sport/nuggets-gehen-in-nba-finals-wieder-in-fuhrung-3626673",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/db0373f4-5b82-4aab-8e0e-0bd093c02b4c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Miami Heat-Stürmer Jimmy Butler (22) versucht den Ball zu passen, während Denver Nuggets-Guard Kentavious Caldwell-Pope (5) verteidigt.",
-      "topic": "NBA"
+      "title": "Schmidt: Grundsätzlich Job außerhalb Heidenheims vorstellbar",
+      "url": "https://www.volksstimme.de/sport/fussball/schmidt-grundsatzlich-job-ausserhalb-heidenheims-vorstellbar-3626630",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/547f0cee-87b3-4303-8b70-103b7c154879.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Heidenheimer Rekordtrainer: Frank Schmidt.",
+      "topic": "Bundesliga"
     },
     {
       "title": "FCM: Xavier Amaechi verstärkt die Offensive des 1. FC Magdeburg",
@@ -402,6 +402,20 @@
       "topic": "2. Bundesliga"
     },
     {
+      "title": "Studie: Fachkräftemangel in IT-Berufen erreicht Rekordniveau",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/studie-fachkraftemangel-in-it-berufen-erreicht-rekordniveau-3626709",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/94c8256b-7eae-49e4-ad6c-f97e483dd8c0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Durch den zunehmenden Ausbau der digitalen Infrastruktur in allen Wirtschaftsbereichen steige in der Branche der Bedarf an qualifizierten Fachkräften, berichten die Kofa-Experten.",
+      "topic": "Arbeitsmarkt"
+    },
+    {
+      "title": "Paris verstaatlicht Stromkonzern - Anschub für Atomausbau",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/paris-verstaatlicht-stromkonzern-anschub-fur-atomausbau-3626708",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/dff42b85-aae3-4bf1-a482-3e0eb92a6dca.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Das Atomkraftwerk Fessenheim in Ostfrankreich - der Atomausbau im Nachbarland soll kommen.",
+      "topic": "Atomkraft"
+    },
+    {
       "title": "Per Kommunalwahl zur Macht? AfD will Landrat stellen",
       "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/per-kommunalwahl-zur-macht-afd-will-landrat-stellen-3626687",
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/d218c7ab-7c76-4591-85fd-4a15deff69b3.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
@@ -423,53 +437,39 @@
       "topic": "Diplomatie"
     },
     {
-      "title": "Sunak im Weißen Haus: Nur PR-Termin oder auf Augenhöhe?",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/sunak-im-weissen-haus-nur-pr-termin-oder-auf-augenhohe-3626653",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/5ff696ce-37ae-416e-b3b0-2db7bbdd8a1a.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Großbritanniens Premierminister Rishi Sunak spricht während seines Besuchs in Washington mit Journalisten.",
-      "topic": "Staatsbesuch"
+      "title": "DRK: Blutkonserven könnten im Sommer wieder knapp werden",
+      "url": "https://www.volksstimme.de/panorama/drk-blutkonserven-konnten-im-sommer-wieder-knapp-werden-3626712",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/a33880cf-26cf-4d18-9e79-8a2b3021d890.jpeg?rect=0%2C93%2C2048%2C1152&width=100",
+      "image_title": "Die Bereitschaft zur Blutspende sinkt seit Jahren - vor allem die junge Generation ist schwer zu erreichen.",
+      "topic": "Patientenversorgung"
     },
     {
-      "title": "Papst erwarten nach OP Tage der Erholung - Termine offen",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/papst-erwarten-nach-op-tage-der-erholung-termine-offen-3626648",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/12ec4b9f-29ba-449d-8f32-14becffaa8da.jpeg?rect=0%2C94%2C2048%2C1152&width=100",
-      "image_title": "Papst Franziskus auf dem Petersplatz in Rom.",
-      "topic": "Katholische Kirche"
+      "title": "Betrunkener Fußgänger in Schmölln von Auto angefahren",
+      "url": "https://www.volksstimme.de/panorama/betrunkener-fussganger-in-schmolln-von-auto-angefahren-3626702",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/ed403ffd-811a-4f00-b13a-c1f86cde3781.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Rettungswagen fährt über die Straße.",
+      "topic": "Altenburger Land"
     },
     {
-      "title": "Wolken und Gewitter in Berlin und Brandenburg",
-      "url": "https://www.volksstimme.de/panorama/wolken-und-gewitter-in-berlin-und-brandenburg-3626694",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/3d70815a-a290-4d38-b156-d86ced121cef.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Ein Blitz erhellt den Nachthimmel.",
-      "topic": "Wetter"
+      "title": "Leiche in Hase: Ermittler gehen von Unfall aus",
+      "url": "https://www.volksstimme.de/panorama/leiche-in-hase-ermittler-gehen-von-unfall-aus-3626051",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/7fe8d1d4-b6b2-4601-b7ea-106a48da0f25.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Blaulicht leuchtet auf dem Dach eines Streifenwagens der Polizei.",
+      "topic": "Osnabrück"
     },
     {
-      "title": "In Niedersachsen gibt es die meisten Elektrofahrrad-Besitzer",
-      "url": "https://www.volksstimme.de/panorama/in-niedersachsen-gibt-es-die-meisten-elektrofahrrad-besitzer-3626692",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/a37a155a-2e1d-40ec-b187-1696ccc8739b.jpeg?rect=0%2C85%2C2048%2C1152&width=100",
-      "image_title": "Ein Mann fährt auf einem Elektrofahrrad.",
+      "title": "Mehr Lohn: Verdi ruft zu Streik im Großhandel auf",
+      "url": "https://www.volksstimme.de/panorama/mehr-lohn-verdi-ruft-zu-streik-im-grosshandel-auf-3626703",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/549ea423-afcc-44d3-a7a4-1224b9ef0d1b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Beschäftigter trägt bei einem Warnstreik eine Warnweste von Verdi.",
+      "topic": "Tarifkonflikt"
+    },
+    {
+      "title": "Bauarbeiten im Dreieck Norderelbe: A1-Sperrung",
+      "url": "https://www.volksstimme.de/panorama/bauarbeiten-im-dreieck-norderelbe-a1-sperrung-3626700",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/8e7c8ea8-cc0e-466d-afe1-b173671dc7d0.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Straßenschild weist auf eine Baustelle hin.",
       "topic": "Verkehr"
-    },
-    {
-      "title": "Host Town-Programm der Special Olympics",
-      "url": "https://www.volksstimme.de/panorama/host-town-programm-der-special-olympics-3626690",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/ffa5e27c-d17e-48de-9097-138363ad66f3.jpeg?rect=0%2C159%2C2048%2C1152&width=100",
-      "image_title": "Sven Albrecht, Bundesgeschäftsführer Special Olympics Deutschland.",
-      "topic": "Sport"
-    },
-    {
-      "title": "Landeswahlleiter: Erst ein Drittel der Strecke geschafft",
-      "url": "https://www.volksstimme.de/panorama/landeswahlleiter-erst-ein-drittel-der-strecke-geschafft-3626689",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/67f3f390-f48d-420c-91e0-04bcc72a258d.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
-      "image_title": "Landeswahlleiter Stephan Bröchler spricht.",
-      "topic": "Berlin"
-    },
-    {
-      "title": "Blutspenden: Rotes Kreuz bangt um Lage ab Ende des Monats",
-      "url": "https://www.volksstimme.de/panorama/blutspenden-rotes-kreuz-bangt-um-lage-ab-ende-des-monats-3626685",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/08/46036579-5079-4f5e-8201-d10fa0fac754.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Eine Mitarbeiterin eines Blutspendezentrums hält eine Blutkonserve in den Händen.",
-      "topic": "Gesundheit"
     },
     {
       "title": "Joana Mallwitz neue Chefdirigentin in Berlin",
