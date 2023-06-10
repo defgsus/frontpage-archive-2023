@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-10T06:14:02",
+  "timestamp": "2023-06-10T07:10:40",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -56,7 +56,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Wir nennen es Trödeln",
+      "title": "Keinen blassen Schimmel",
+      "teaser": "\"Rose, ich habe das Gefühl, Brot schimmelt in meiner Küche besonders schnell. Was kann ich tun, damit es länger genießbar bleibt?\" – fragt Alex.",
+      "url": "https://www.zeit.de/entdecken/2023-06/brot-schimmel-vermeiden-lagerung-lifehack",
+      "image_url": "https://img.zeit.de/entdecken/2023-06/wochenende-24-frag-rose-bild/wide__822x462",
+      "image_title": "Schimmel bei Brot: Keinen blassen Schimmel"
+    },
+    {
+      "title": "Z+ Vintage-Möbel: Wir nennen es Trödeln",
       "teaser": "Möbel können wie alte Freunde sein und uns Geschichten erzählen. Mit ein bisschen Fantasie bekommen Erbstücke und Antiquitäten einen neuen spektakulären Auftritt.",
       "url": "https://www.zeit.de/zeit-magazin/2023-06/vintage-moebel-wohnen-interior-zimmerservice",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-06/wochenende-zimmerservice-wohnen-mit-vintage-moebeln-erbstuecken-aufmacher/wide__822x462",
@@ -77,23 +84,16 @@
       "image_title": "Liebesabenteuer: \"Wir knutschten die ganze Nacht\""
     },
     {
-      "title": "Z+ Ü-30-Partys: Die Party hat leider Midlife-Crisis",
-      "teaser": "Früher durchfeierte Nächte, heute Dinner, bei denen man sein Leben performt: Je älter man wird, desto lahmer die Partys? Da geht noch was: Fünf Gründe und ein Lichtblick",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-06/ue30-parties-alter-millenials",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-06/ue30-parties-alter-millenials-bild/wide__822x462",
-      "image_title": "Ü-30-Partys: Die Party hat leider Midlife-Crisis"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Schnittlauch: Röllchen vorwärts",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/schnittlauch-salat-schnittlauchbrot-fruehling-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/schnittlauch-salat-schnittlauchbrot-fruehling-rezept-bild/tile__315x394",
-      "image_title": "Schnittlauch: Röllchen vorwärts"
+      "title": "Z+ Ü-30-Partys: Die Party hat leider Midlife-Crisis",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-06/ue30-parties-alter-millenials",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-06/ue30-parties-alter-millenials-bild/tile__315x394",
+      "image_title": "Ü-30-Partys: Die Party hat leider Midlife-Crisis"
     },
     {
       "title": "Der Apfel braucht inzwischen selbst einen Doktor",
@@ -204,6 +204,12 @@
       "image_title": "Nasenspülung: Pollen ade"
     },
     {
+      "title": "Z+ Schnittlauch: Röllchen vorwärts",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/schnittlauch-salat-schnittlauchbrot-fruehling-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/schnittlauch-salat-schnittlauchbrot-fruehling-rezept-bild/tile__315x394",
+      "image_title": "Schnittlauch: Röllchen vorwärts"
+    },
+    {
       "title": "Z+ Meal-Prep-Wochenplan: Rein ins Grüne",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-05/meal-prep-wochenplan-rezepte-sommer",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-05/meal-prep-plan-bild-2/tile__315x394",
@@ -258,12 +264,6 @@
       "image_title": "Kinder und Essen: \"Das schmeckt mir nicht!\""
     },
     {
-      "title": "Z+ Gratinierter Radicchio: So wird Salat zum Freund",
-      "url": "https://www.zeit.de/zeit-magazin/2023/23/gratinierter-radicchio-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/23/heisser-salat-bild-1/tile__315x394",
-      "image_title": "Gratinierter Radicchio: So wird Salat zum Freund"
-    },
-    {
       "title": "Z+ Migration: \"Die Deutschen müssen andere Formen des Deutschseins tolerieren\"",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-05/migration-deutschland-einwanderung-richard-alba-soziologie"
     },
@@ -300,10 +300,17 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-05/spaetaufsteher-eltern-kinder-morgenroutine"
     },
     {
+      "title": "Z+ Gratinierter Radicchio: So wird Salat zum Freund",
+      "teaser": "Radicchio hing unserer Kolumnistin zum Hals raus. Anstatt den Rotkopf im Salat zu verarbeiten, gratiniert sie ihn ganz einfach im Ofen. Diese Abwechslung schmeckt!",
+      "url": "https://www.zeit.de/zeit-magazin/2023/23/gratinierter-radicchio-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/23/heisser-salat-bild-1/square__460x460",
+      "image_title": "Gratinierter Radicchio: So wird Salat zum Freund"
+    },
+    {
       "title": "Z+ Pubertät: Deal? Check!",
       "teaser": "Kommt das Kind in die Pubertät, schließen manche Eltern Verträge mit ihm ab. Oft geht's um Noten und gesundes Verhalten. Ist das sinnvoll oder nur Verzweiflung?",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-05/pubertaet-familie-eltern-jugendliche-vereinbarungen",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-05/pubertaet-familie-eltern-jugendliche-vereinbarungen-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-05/pubertaet-familie-eltern-jugendliche-vereinbarungen-bild/wide__822x462",
       "image_title": "Pubertät: Deal? Check!"
     },
     {
@@ -329,9 +336,8 @@
     },
     {
       "title": "Z+ Cabernet Franc aus der Loire: Der kühle Rote",
-      "teaser": "Bei sommerlichen Temperaturen schmecken auch einige Rotweinsorten gekühlt. Eine gute Wahl ist der würzige, frische Cabernet Franc, der entlang der Loire beheimatet ist.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-05/cabernet-franc-loire-rotwein-gekuehlt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-05/cabernet-franc-loire-rotwein-gekuehlt-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-05/cabernet-franc-loire-rotwein-gekuehlt-teaser/tile__315x394",
       "image_title": "Cabernet Franc aus der Loire: Der kühle Rote"
     },
     {
@@ -345,12 +351,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/23/kiss-gene-simmons-paul-stanley",
       "image_url": "https://img.zeit.de/zeit-magazin/2023/23/kiss-gene-simmons-paul-stanley-bild/tile__315x394",
       "image_title": "Gene Simmons und Paul Stanley: \"Intellektuell verstehe ich, dass wir aufhören, emotional nicht\""
-    },
-    {
-      "title": "Spaghettieis: Eiscreme al dente",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-05/spaghettieis-dario-fontanella-rezept-gastronomie",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-05/spaghettieis-dario-fontanella-rezept-gastronomie-bild/tile__315x394",
-      "image_title": "Spaghettieis: Eiscreme al dente"
     },
     {
       "title": "Z+ Lange Ehe: Wie lange halte ich meinen Mann noch aus?",
