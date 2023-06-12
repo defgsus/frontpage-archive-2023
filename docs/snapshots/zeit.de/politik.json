@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-12T05:11:35",
+  "timestamp": "2023-06-12T06:15:09",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "US-Milliardär: George Soros übergibt Stiftungsleitung an seinen Sohn",
+      "teaser": "Alexander Soros leitet künftig die Open Society Foundations. Sein wichtigstes Anliegen ist laut eigener Aussage, die Wiederwahl von Donald Trump zu verhindern.",
+      "url": "https://www.zeit.de/politik/ausland/2023-06/us-milliardaer-george-soros-alexander-open-society-foundations",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-06/george-soros-alexander-soros-leitung-uebernahme-stiftungen-bild/cinema__980x420"
+    },
+    {
       "title": "Liveblog: Ukraine-Krieg: Andrij Melnyk bittet Deutschland um deutlich mehr Kampfgerät",
       "teaser": "Der ukrainische Vizeaußenminister fordert weitere Panzer und Hilfe beim Aufbau der Luftwaffe. Nordkorea sichert Russland Unterstützung zu. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/vizeaussenminister-andrij-melnyk/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/vizeaussenminister-andrij-melnyk/wide__822x462",
+      "image_title": "Ukraine-Krieg: Andrij Melnyk bittet Deutschland um deutlich mehr Kampfgerät"
     },
     {
       "title": "Thüringen: Stichwahl entscheidet über Landrat – AfD-Kandidat liegt vorn",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-06/afd-landrat-robert-sesselmann-stichwahl",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-06/afd-landrat-robert-sesselmann-stichwahl-sonneberg/wide__822x462",
       "image_title": "Thüringen: Stichwahl entscheidet über Landrat – AfD-Kandidat liegt vorn"
-    },
-    {
-      "title": "Ukraine-Überblick: Ukraine meldet befreites Dorf, Russland vereitelt offenbar Angriff",
-      "teaser": "Es gibt unbestätigte Berichte über Erfolge der Offensive der ukrainischen Streitkräfte. Russland will einen Angriff auf ein Kriegsschiff gestoppt haben. Der Tag",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-offensive-befreiung-dorf-russland-schiffsangriff-verteilt",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-erfolge-offensive-ukrainische-streitkraefte/wide__822x462",
-      "image_title": "Ukraine-Überblick: Ukraine meldet befreites Dorf, Russland vereitelt offenbar Angriff"
     },
     {
       "title": "Ukraine-Überblick: Nachweis von Staudamm-Explosion, Getreideabkommen vor dem Ende",
@@ -100,8 +100,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-06/menschenrechte-institut-voraussetzungen-afd-verbot"
     },
     {
-      "title": "Bundestagsverkleinerung: Frank-Walter Steinmeier unterzeichnet umstrittene Wahlrechtsreform",
-      "url": "https://www.zeit.de/politik/deutschland/2023-06/steinmeier-unterzeichnet-gesetz-zur-wahlrechtsreform"
+      "title": "Z+ (abopflichtiger Inhalt); Air Defender 23: Was von der größten Luftübung der Nato zu erwarten ist",
+      "url": "https://www.zeit.de/politik/deutschland/2023-06/air-defender-23-nato-uebung-faq"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz: Der geteilte Kanzler",
@@ -120,8 +120,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-bachmut-offensive-cherson-kachowka-staudamm-flut"
     },
     {
-      "title": "Bundestagsverkleinerung: Frank-Walter Steinmeier unterzeichnet umstrittene Wahlrechtsreform",
-      "url": "https://www.zeit.de/politik/deutschland/2023-06/steinmeier-unterzeichnet-gesetz-zur-wahlrechtsreform"
+      "title": "Z+ (abopflichtiger Inhalt); Air Defender 23: Was von der größten Luftübung der Nato zu erwarten ist",
+      "url": "https://www.zeit.de/politik/deutschland/2023-06/air-defender-23-nato-uebung-faq"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Renate Künast: \"Ich glaube, Robert ärgert sich selbst\"",
@@ -162,10 +162,17 @@
       "image_title": "Krankenhausreform: 40 Prozent der Kliniken könnten nur noch Grundversorgung anbieten"
     },
     {
+      "title": "Ukraine-Überblick: Ukraine meldet befreites Dorf, Russland vereitelt offenbar Angriff",
+      "teaser": "Es gibt unbestätigte Berichte über Erfolge der Offensive der ukrainischen Streitkräfte. Russland will einen Angriff auf ein Kriegsschiff gestoppt haben. Der Tag",
+      "url": "https://www.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-offensive-befreiung-dorf-russland-schiffsangriff-verteilt",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-erfolge-offensive-ukrainische-streitkraefte/cinema__980x420",
+      "image_title": "Ukraine-Überblick: Ukraine meldet befreites Dorf, Russland vereitelt offenbar Angriff"
+    },
+    {
       "title": "Energiewende: Habeck soll Befreiung von Wärmepumpe bei Fernwärmeausbau planen",
       "teaser": "Beim Einbauverbot von Öl- und Gasheizungen ist einem Bericht zufolge eine Ausnahme vorgesehen: Wärmepumpen seien nicht notwendig, wenn ein Stadtteil Fernwärme bezieht.",
       "url": "https://www.zeit.de/politik/deutschland/2023-06/energiewende-waermepumpe-robert-habeck-wirtschaftsminister-fernwaerme-ausbau-bericht",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/energiewende-waermepumpe-robert-habeck-wirtschaftsminister-fernwaerme-ausbau-bericht-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/energiewende-waermepumpe-robert-habeck-wirtschaftsminister-fernwaerme-ausbau-bericht-bild/wide__822x462",
       "image_title": "Energiewende: Habeck soll Befreiung von Wärmepumpe bei Fernwärmeausbau planen"
     },
     {
@@ -179,14 +186,14 @@
       "title": "Nachrichtenpodcast: Die Allianz von Erding",
       "teaser": "Bei einer Demonstration gegen das Heizungsgesetz wird Markus Söder von Buhrufen überrascht. Hat er sich verspekuliert? Und: Wenn die KI die Hausarbeit schreibt.",
       "url": "https://www.zeit.de/politik/2023-06/heizungsgesetz-demonstration-erding-markus-soeder-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
       "image_title": "Nachrichtenpodcast: Die Allianz von Erding"
     },
     {
       "title": "Erding: Aigner kritisiert Aiwanger für Wortwahl bei Antiheizungsgesetzdemo",
       "teaser": "Nach seinem Auftritt in Erding wurde Bayerns Vizeregierungschef eine Wortwahl im Stile der AfD vorgeworfen. Auch Landtagspräsidentin Ilse Aigner war nicht einverstanden.",
       "url": "https://www.zeit.de/politik/deutschland/2023-06/erding-hubert-aiwanger-ilse-aigner-markus-soeder-heizungsgesetz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/erding-hubert-aiwanger-ilse-aigner-markus-soeder-heizungsgesetz-foto/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/erding-hubert-aiwanger-ilse-aigner-markus-soeder-heizungsgesetz-foto/wide__822x462",
       "image_title": "Erding: Aigner kritisiert Aiwanger für Wortwahl bei Antiheizungsgesetzdemo"
     },
     {
@@ -200,14 +207,14 @@
       "title": "Wahlen in Montenegro: Proeuropäische Partei liegt bei Parlamentswahl in Montenegro vorn",
       "teaser": "In Montenegro führen zwei proeuropäisch eingestellte Parteien bei den Parlamentswahlen. Nach derzeitigem Stand liegt die Partei von Präsident Jakov Milatović vorn.",
       "url": "https://www.zeit.de/politik/ausland/2023-06/parlamentswahlen-montenegro-eu-jakov-milatovic",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/parlamentswahlen-montenegro-eu-jakov-milatovic-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/parlamentswahlen-montenegro-eu-jakov-milatovic-bild/cinema__980x420",
       "image_title": "Wahlen in Montenegro: Proeuropäische Partei liegt bei Parlamentswahl in Montenegro vorn"
     },
     {
       "title": "Migration: Ricarda Lang hofft auf Korrekturen beim Asylkompromiss",
       "teaser": "Die Vorsitzende der Grünen setzt darauf, dass die EU-Einigung noch einmal überarbeitet wird. In der jetzigen Form würde sie das Leid an den Außengrenzen nicht mildern.",
       "url": "https://www.zeit.de/politik/2023-06/ricarda-lang-gruene-asyl-kompromiss-eu",
-      "image_url": "https://img.zeit.de/politik/2023-06/ricarda-lang-gruene-asyl-kompromiss-eu-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-06/ricarda-lang-gruene-asyl-kompromiss-eu-bild/wide__822x462",
       "image_title": "Migration: Ricarda Lang hofft auf Korrekturen beim Asylkompromiss"
     },
     {
@@ -219,16 +226,16 @@
     },
     {
       "title": "Schottland: Ex-Regierungschefin Nicola Sturgeon kurzzeitig festgenommen",
-      "teaser": "Im Zuge von Ermittlungen zu den SNP-Parteifinanzen hat die schottische Polizei die frühere Premierministerin festgenommen und befragt. Am Abend wurde sie freigelassen.",
+      "teaser": "Im Zuge von Ermittlungen zu den SNP-Parteifinanzen hat die schottische Polizei die frühere Premierministerin festgenommen und befragt. Am Abend wurde sie freigelassen. 130 Kommentare",
       "url": "https://www.zeit.de/politik/ausland/2023-06/schottland-ex-regierungschefin-nicola-sturgeon-festgenommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/schottland-ex-regierungschefin-nicola-sturgeon-finanzermittlungen-festnahme/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/schottland-ex-regierungschefin-nicola-sturgeon-finanzermittlungen-festnahme/cinema__980x420",
       "image_title": "Schottland: Ex-Regierungschefin Nicola Sturgeon kurzzeitig festgenommen"
     },
     {
       "title": "Künstliche Intelligenz: Bundespräsident Steinmeier fordert ethische Standards im Umgang mit KI",
       "teaser": "Frank-Walter Steinmeier warnt vor den Gefahren künstlicher Intelligenz. Der Bundespräsident will ihnen mit digitaler Allgemeinbildung sowie rechtlichen Regeln begegnen.",
       "url": "https://www.zeit.de/politik/deutschland/2023-06/kuenstliche-intelligenz-bundespraesident-frank-walter-steinmeier-warnung-gefahren",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/kuenstliche-intelligenz-bundespraesident-frank-walter-steinmeier-warnung-gefahren-ki/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/kuenstliche-intelligenz-bundespraesident-frank-walter-steinmeier-warnung-gefahren-ki/wide__822x462",
       "image_title": "Künstliche Intelligenz: Bundespräsident Steinmeier fordert ethische Standards im Umgang mit KI"
     },
     {
@@ -281,13 +288,6 @@
       "image_title": "Sahra Wagenknecht: Früherer Linkenchef Riexinger befürwortet Beschluss gegen Wagenknecht"
     },
     {
-      "title": "Gesetzentwurf: Kanzler und sein Kabinett sollen steuerfreie Inflationsprämie erhalten",
-      "teaser": "3.000 Euro, \"zur Abmilderung\" der gestiegenen Preise: Laut eines Gesetzentwurfs soll die Bundesregierung einen Bonus bekommen. Der Bund der Steuerzahler ist alarmiert.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-06/bundeskanzler-minister-inflationspraemie-steuerfrei-gesetzentwurf",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/bundeskanzler-minister-inflationspraemie-steuerfrei-gesetzentwurf-foto/wide__822x462",
-      "image_title": "Gesetzentwurf: Kanzler und sein Kabinett sollen steuerfreie Inflationsprämie erhalten"
-    },
-    {
       "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
       "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
       "url": "https://www.zeit.de/serie/stoerungsmelder/",
@@ -295,18 +295,11 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
-      "title": "Bundesinnenministerium: Letzte Generation ist laut Faeser für 580 Straftaten verantwortlich",
-      "teaser": "Seit Anfang 2022 lassen sich den Klimaaktivisten knapp 600 Straftaten zuordnen, sagt die Bundesinnenministerin. Meistens gehe es um Nötigungen und Sachbeschädigungen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-06/letzte-generation-straftaten-klimaaktivisten-nancy-faeser",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/letzte-generation-straftaten-klimaaktivisten-nancy-faeser-foto/wide__822x462",
-      "image_title": "Bundesinnenministerium: Letzte Generation ist laut Faeser für 580 Straftaten verantwortlich"
-    },
-    {
-      "title": "EU-Beitrittskandidat: Vorgezogene Parlamentswahlen in Montenegro haben begonnen",
-      "teaser": "Seit fast einem Jahr ist die Regierung Montenegros nur noch geschäftsführend im Amt. Nun wählt das Land ein neues Parlament – Favorit ist die Bewegung \"Europa jetzt!\".",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/montenegro-wahlen-parlament-parteien-buerger",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/wahlen-montenegro-bild/wide__822x462",
-      "image_title": "EU-Beitrittskandidat: Vorgezogene Parlamentswahlen in Montenegro haben begonnen"
+      "title": "Gesetzentwurf: Kanzler und sein Kabinett sollen steuerfreie Inflationsprämie erhalten",
+      "teaser": "3.000 Euro, \"zur Abmilderung\" der gestiegenen Preise: Laut eines Gesetzentwurfs soll die Bundesregierung einen Bonus bekommen. Der Bund der Steuerzahler ist alarmiert.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-06/bundeskanzler-minister-inflationspraemie-steuerfrei-gesetzentwurf",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/bundeskanzler-minister-inflationspraemie-steuerfrei-gesetzentwurf-foto/wide__822x462",
+      "image_title": "Gesetzentwurf: Kanzler und sein Kabinett sollen steuerfreie Inflationsprämie erhalten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Donald Trump: Der Angeklagte, der vom Secret Service eskortiert wird",
@@ -323,11 +316,25 @@
       "image_title": "Anklage in der Dokumentenaffäre: Trump schimpft auf das US-Justizministerium und die Biden-Regierung"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Donald Trump: Mit einem Bein im Gefängnis, mit dem anderen auf der Bühne",
+      "teaser": "Mit Donald Trump wird zum ersten Mal ein ehemaliger US-Präsident wegen eines Verbrechens angeklagt. Das wird nicht nur seinen eigenen Wahlkampf auf den Kopf stellen.",
+      "url": "https://www.zeit.de/politik/ausland/2023-03/donald-trump-anklage-grand-jury-new-york-stormy-daniels",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-03/donald-trump-anklage-grand-jury-new-york-stormy-daniels-bild/wide__822x462",
+      "image_title": "Donald Trump: Mit einem Bein im Gefängnis, mit dem anderen auf der Bühne"
+    },
+    {
       "title": "Anzeige: Studieren in Berlin",
       "teaser": "Die Hauptstadt hat mehr zu bieten als Bundestag und Berghain. Die Suchmaschine für Studiengänge bietet Orientierung bei über tausend Studiengängen.",
       "url": "https://studiengaenge.zeit.de/studienorte/deutschland/berlin/berlin?wt_zmc=fix.int.zonpmr.politik-ressort.verlagsteaser-ressort.suma.bildtext.berlin.x&utm_medium=fix&utm_source=politik-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_berlin_x",
       "image_url": "https://img.zeit.de/angebote/Links/ressort-teaser-oa/oa-bilder/stoa2-politik/wide__822x462",
       "image_title": "Studienorientierung: Studieren in Berlin"
+    },
+    {
+      "title": "Erneuerbare Energien: Texas' Kampf gegen die Windmühlen",
+      "teaser": "Ausgerechnet der seit Jahrzehnten von Republikanern regierte US-Bundesstaat Texas ist führend bei grüner Energie. Doch nun will die Politik diesen Erfolg abwürgen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-06/texas-erneuerbare-energien-republikaner-oel-gas-industrie",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-06/texas-erneuerbare-energien-republikaner-oel-gas-industrie-foto/wide__822x462",
+      "image_title": "Erneuerbare Energien: Texas' Kampf gegen die Windmühlen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Türkischer Finanzminister Mehmet Şimşek: Autoritärer Herrscher sucht willigen Geldbeschaffer",
@@ -342,13 +349,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-06/recep-tayyip-erdogan-akp-tuerkei-bundesregierung",
       "image_url": "https://img.zeit.de/politik/ausland/2023-06/recep-tayyip-erdogan-und-kanzler-olaf-scholz/wide__822x462",
       "image_title": "Recep Tayyip Erdoğan: Im Umgang mit Erdoğan könnte sich bald ein Fenster öffnen"
-    },
-    {
-      "title": "CNN: Je Trump, desto besser",
-      "teaser": "Wie umgehen mit rechten Positionen, Hass und Fake News? Je mehr Kandidaten in den US-Wahlkampf einsteigen, desto stärker sehen Medien sich mit dieser Frage konfrontiert.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/cnn-donald-trump-us-wahlkampf-5vor8",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/cnn-donald-trump-us-wahlkampf-5vor8-bild-neu/wide__822x462",
-      "image_title": "CNN: Je Trump, desto besser"
     }
   ]
 }
