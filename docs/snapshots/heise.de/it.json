@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-13T07:10:54",
+  "timestamp": "2023-06-13T08:14:19",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,9 +42,38 @@
       "url": "https://www.heise.de/news/Debian-12-Bookworm-mit-verbessertem-Firmware-Handling-9183888.html"
     },
     {
+      "title": "Mainboard im Test: Kontron K3851-R1 mit RAM-Fehlerkorrektur",
+      "teaser": "Intels Core-i-12000/13000 Prozessoren können den Arbeitsspeicher per ECC vor Bitfehlern schützen. Das klappt aber nur auf Mainboards wie dem Kontron K3851-R1.",
+      "url": "https://www.heise.de/tests/Mainboard-im-Test-Kontron-K3851-R1-mit-RAM-Fehlerkorrektur-9184274.html",
+      "image_title": ","
+    },
+    {
       "title": "IaaS-Security: Schwachstellenscanner für Terraform-Skripte im Test",
       "teaser": "Terraform nutzt man zur Umsetzung von Infrastructure as Code. Für die Jagd auf Schwachstellen in Terraform-Code gibt es Scanner – wir zeigen, was sie leisten.",
       "url": "https://www.heise.de/tests/IaaS-Security-Schwachstellenscanner-fuer-Terraform-Skripte-im-Test-9184363.html"
+    },
+    {
+      "title": "iX-Workshop: MDM – MDM mit Microsoft Intune (Frühbucherrabatt noch bis 27.6.)",
+      "teaser": "Mit Microsoft Intune Laptops, Rechner und andere mobile Endgeräte sicher und effektiv verwalten: Online am 26. und 27. Juli, 10% Frühbucherrabatt bis 27.6.",
+      "url": "https://www.heise.de/news/iX-Workshop-MDM-MDM-mit-Microsoft-Intune-Fruehbucherrabatt-noch-bis-27-6-9184703.html",
+      "image_title": "Workshop Mobile Device Management mit Intune"
+    },
+    {
+      "title": "Patchday Fortinet: Passwort- und Schadcode-Attacken möglich",
+      "teaser": "Der Netzwerkausrüster Fortinet hat unter anderem eine kritische Schadcode-Lücke geschlossen. Angreifer nutzen die Schwachstelle bereits aus.",
+      "url": "https://www.heise.de/news/Patchday-Fortinet-Passwort-und-Schadcode-Attacken-moeglich-9185611.html"
+    },
+    {
+      "title": "HomeKit-Spezialist Eve wird verkauft",
+      "teaser": "Die deutsch-amerikanische Smart-Home-Firma Eve hat einen neuen Besitzer: Künftig gehört das Unternehmen zum schwedisch-schweizerischen Konzern ABB.",
+      "url": "https://www.heise.de/news/HomeKit-Spezialist-Eve-wird-verkauft-9185397.html",
+      "image_title": "Eve by ABB"
+    },
+    {
+      "title": "Ende für Mail-Plug-ins in macOS 14: Apple macht ernst",
+      "teaser": "Künftig wird es einige Erweiterungen für Apple Mail nicht mehr geben. Apple streicht nach Jahren der Ankündigungen, den Plug-in-Support. Der Ersatz ist semigut.",
+      "url": "https://www.heise.de/news/Ende-fuer-Mail-Plug-ins-in-macOS-14-Apple-macht-ernst-9185351.html",
+      "image_title": "macOS 14 Sonoma"
     },
     {
       "title": "Foto-Plug-ins für Lightroom und Photoshop: Nik Colletion 6 by DxO im Test",
@@ -109,33 +138,6 @@
       "teaser": "Rund um Apples erstes Mixed-Reality-Headset gibt es Spekulationen über ein zusätzliches Kopfband, einen Kabeladapter und künftige Günstig-Varianten.",
       "url": "https://www.heise.de/news/Apple-Vision-Pro-Raetselraten-ueber-Baender-Anschluss-und-guenstigere-Variante-9185167.html",
       "image_title": "Apple Vision Pro"
-    },
-    {
-      "title": "Fragen und Antworten zu Vision Pro und visionOS im TNBT-Podcast",
-      "teaser": "Vision-FAQ: In Folge 2 liefern wir Antworten auf Hörerfragen, von VR-Übelkeit über Mehrbenutzermodus bis hin dazu, wie gesellschaftsfähig das Headset wohl ist.",
-      "url": "https://www.heise.de/news/Fragen-und-Antworten-zu-Vision-Pro-und-visionOS-im-TNBT-Podcast-9185219.html",
-      "image_title": "TNBT – Der Podcast zu Apple Vision von Mac & i"
-    },
-    {
-      "title": "Apple MacBook Air 15\" M2 im Test: Mehr Display-Fläche für besseres Arbeiten",
-      "teaser": "Erstmals bietet Apple ein 15-Zoll-Laptop ohne Pro-Preis an. Wir haben getestet, wie sich das neue MacBook Air 2023 schlägt und von anderen Modellen absetzt.",
-      "url": "https://www.heise.de/tests/Apple-MacBook-Air-15-M2-im-Test-Flaechenzuwachs-9184880.html"
-    },
-    {
-      "title": "Programmiersprache Rust für Embedded-Systeme einsetzen",
-      "teaser": "Rust hat sich zu einem ernsthaften Kandidaten für die Systemprogrammierung gemausert. Wir werfen einen Blick auf die Möglichkeiten und Fallstricke beim Einsatz.",
-      "url": "https://www.heise.de/hintergrund/Programmiersprache-Rust-fuer-Embedded-Systeme-einsetzen-9182439.html"
-    },
-    {
-      "title": "Betrugsmasche: Auszahlung von Guthaben beim Gesundheitsministerium ist Fake",
-      "teaser": "Die Verbraucherzentrale NRW warnt vor einer aktuellen Betrugsmasche, bei der Mail-Versender eine Guthaben-Auszahlung vom Gesundheitsministerium versprechen.",
-      "url": "https://www.heise.de/news/Warnung-vor-Betrugsmasche-Guthaben-beim-Gesundheitsministerium-gegen-Perso-9184993.html"
-    },
-    {
-      "title": "Midjourney & Co.: Wissenschaftsmagazin Nature verbannt KI-generierte Bilder",
-      "teaser": "Angesichts der \"KI-Revolution\" versucht auch die Forschungsgemeinschaft den Umgang mit der Technik zu klären. Nun hat Nature klare Vorgaben aufgestellt.",
-      "url": "https://www.heise.de/news/Midjourney-Co-Wissenschaftsmagazin-Nature-verbannt-KI-generierte-Bilder-9184914.html",
-      "image_title": "Magazinseiten mit KI-generierten Bildern"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
