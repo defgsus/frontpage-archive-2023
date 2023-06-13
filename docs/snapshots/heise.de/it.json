@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-13T11:09:06",
+  "timestamp": "2023-06-13T12:22:41",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "\"Copycat-Fab\": Ex-Samsung-Führungskraft soll Firmengeheimnisse geklaut haben",
+      "teaser": "Die südkoreanische Staatsanwaltschaft hat einen früheren Samsung-Manager festgenommen. Er habe Firmengeheimnisse zum Bau eines Halbleiterwerks geklaut.",
+      "url": "https://www.heise.de/news/Anklage-Ex-Samsung-Fuehrungskraft-wollte-Halbleiterwerk-kopieren-9185821.html"
+    },
+    {
       "title": "Fortinet: SSL-VPN-Lücke ermöglicht Codeschmuggel",
       "teaser": "Fortinet hat Updates für das FortiOS-Betriebssystem veröffentlicht. Sie schließen eine Sicherheitslücke im SSL-VPN, die das Einschleusen von Schadcode erlaubt.",
       "url": "https://www.heise.de/news/Fortinet-SSL-VPN-Luecke-ermoeglicht-Codeschmuggel-9184284.html"
@@ -35,11 +40,6 @@
       "teaser": "Im Rahmen des Kirchentags in Nürnberg wurde der erste von ChatGPT verfasste Gottesdienst durchgeführt. Überzeugt wurde wohl niemand, aber viel diskutiert.",
       "url": "https://www.heise.de/news/ChatGPT-Erster-KI-Gottesdienst-auf-dem-Kirchentag-abgehalten-9184203.html",
       "image_title": "Bildschirm mit KI-Avatar in Kirche"
-    },
-    {
-      "title": "Debian 12 \"Bookworm\" mit verbessertem Firmware-Handling",
-      "teaser": "Das neue Debian GNU/Linux läuft auf moderner Hardware, bietet den aktuellen LTS-Kernel und verbesserte Paketsicherheit. Bei Screenreadern gibt es aber Probleme.",
-      "url": "https://www.heise.de/news/Debian-12-Bookworm-mit-verbessertem-Firmware-Handling-9183888.html"
     },
     {
       "title": "Mainboard im Test: Kontron K3851-R1 mit RAM-Fehlerkorrektur",
@@ -53,6 +53,21 @@
       "url": "https://www.heise.de/tests/IaaS-Security-Schwachstellenscanner-fuer-Terraform-Skripte-im-Test-9184363.html"
     },
     {
+      "title": "Zahlen, bitte! 335 Autos und eine Leinwand: Das erste Autokino",
+      "teaser": "Das Auto mit Kino zu verbinden erbrachte neben so manch Nachwuchs auch kuriose Geschichten und den Betreibern viel Gewinn: Ein Blick zurück auf die Autokinos.",
+      "url": "https://www.heise.de/news/Zahlen-bitte-335-Autos-und-eine-Leinwand-Das-erste-Autokino-9185784.html"
+    },
+    {
+      "title": "Intel will angeblich Ankerinvestor bei ARM werden",
+      "teaser": "Der CPU-Designer ARM soll derzeit mit potenziellen Investoren verhandeln. Intel könnte einer der wichtigsten werden.",
+      "url": "https://www.heise.de/news/Intel-will-angeblich-Ankerinvestor-bei-ARM-werden-9186142.html"
+    },
+    {
+      "title": "Kommentar: Reddit hat sich verkalkuliert, die Macht liegt bei den Nerds",
+      "teaser": "Reddit verdrängt mit seinen API-Preisen Dritt-Apps und stößt damit Poweruser vor den Kopf. Dabei haben die im sozialen Netz die Macht, meint Jonas Volkert.",
+      "url": "https://www.heise.de/meinung/Kommentar-zum-Reddit-Protest-Don-t-Fuck-with-Nerds-9185901.html"
+    },
+    {
       "title": "CloudLand 2023: Jetzt noch anmelden zum Cloud Native Festival",
       "teaser": "Am 20. Juni startet das Cloud Native Festival mit Barcamp, offenen Diskussionen und Tutorials sowie einem bunten Rahmenprogramm. Jetzt noch Tickets sichern.",
       "url": "https://www.heise.de/news/CloudLand-2023-Jetzt-noch-anmelden-zum-Cloud-Native-Festival-9186003.html"
@@ -62,11 +77,6 @@
       "teaser": "Das Live-Webinar widmet sich der Geräteverwaltung von iPhones, iPads und Macs sowie den wichtigen Apple-Neuerungen für Unternehmen – auch in iOS 17.",
       "url": "https://www.heise.de/news/Live-Webinar-MDM-iOS-im-Unternehmen-einsetzen-9184795.html",
       "image_title": "Webinar MDM mit iOS für Unternehmen"
-    },
-    {
-      "title": "\"Copycat-Fab\": Ex-Samsung-Führungskraft soll Firmengeheimnisse geklaut haben",
-      "teaser": "Die südkoreanische Staatsanwaltschaft hat einen früheren Samsung-Manager festgenommen. Er habe Firmengeheimnisse zum Bau eines Halbleiterwerks geklaut.",
-      "url": "https://www.heise.de/news/Anklage-Ex-Samsung-Fuehrungskraft-wollte-Halbleiterwerk-kopieren-9185821.html"
     },
     {
       "title": "E-Rezept größtenteils wohl erst Ende Juli mit Versichertenkarte einlösbar",
@@ -81,8 +91,8 @@
       "image_title": "Mac Pro M2 Ultra"
     },
     {
-      "title": "iX-Workshop: MDM – Mobile Device Management mit Microsoft Intune",
-      "teaser": "Mit Microsoft Intune Laptops, Rechner und andere mobile Endgeräte sicher und effektiv verwalten: Online am 9. und 10. Oktober, 10% Frühbucherrabatt bis 9.9.2023",
+      "title": "iX-Workshop: MDM mit Microsoft Intune (mit Frühbucherrabatt)",
+      "teaser": "Mit Microsoft Intune Laptops, Rechner und andere mobile Endgeräte sicher und effektiv verwalten: Online am 26./27. Juli oder am 9./10. Oktober.",
       "url": "https://www.heise.de/news/iX-Workshop-MDM-MDM-mit-Microsoft-Intune-Fruehbucherrabatt-noch-bis-27-6-9184703.html",
       "image_title": "Workshop Mobile Device Management mit Intune"
     },
@@ -124,18 +134,6 @@
       "teaser": "Passkeys sind derzeit in aller Munde. Die neue Anmeldetechnik macht Passwörter überflüssig, wirft aber auch viele Fragen auf, die wir beantworten.",
       "url": "https://www.heise.de/ratgeber/FAQ-Einloggen-mit-Passkeys-statt-Passwoertern-9067746.html",
       "image_title": "Ein Finger macht einen Fingerabdruck auf eine Glasplatte"
-    },
-    {
-      "title": "IT-Sicherheit in Malawi ist auch Kampf gegen Häftlinge",
-      "teaser": "Nicht Ransomware, sondern Betrug um Mobile Money ist die derzeit größte IT-Sicherheitsbedrohung in Malawi. Malawis CERT hat keinen leichten Auftrag.​",
-      "url": "https://www.heise.de/hintergrund/IT-Sicherheit-in-Malawi-ist-auch-Kampf-gegen-Haeftlinge-9185459.html",
-      "image_title": "Elefant"
-    },
-    {
-      "title": "Cyber-Angriff bei Medizinischen Diensten von Niedersachsen und Bremen",
-      "teaser": "Die Medizinischen Dienste Niedersachsen und Bremen sind Opfer eine Angriff auf die IT geworden. Ein Datenabfluss ist bisher nicht bekannt.",
-      "url": "https://www.heise.de/news/Cyber-Angriff-bei-Medizinischen-Diensten-von-Niedersachsen-und-Bremen-9185092.html",
-      "image_title": "Eine Ärztin sitzt mit einem Tablet neben einer älteren Dame, die eine Pillendose hält."
     },
     {
       "title": "Zoho führend in Kundenorientierung",
