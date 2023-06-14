@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-14T11:09:10",
+  "timestamp": "2023-06-14T12:22:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.00883d4671d16841b456",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.48f855ed148cfbd8ece4",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "WooCommerce Stripe Payment Gateway",
+      "url": "https://www.heise.de/news/WordPress-Shops-mit-WooCommerce-Plug-in-koennten-Kundendaten-leaken-9187447.html"
+    },
     {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-Animate-und-Substance-3D-Designer-moeglich-9186956.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Webkonferenz-Software-Mehrere-hochriskante-Luecken-in-Zoom-gestopft-9186898.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Neue-Chrome-Version-schliesst-kritische-Schwachstelle-9186834.html"
+      "title": "WordPress-Shops mit WooCommerce-Plug-in: Angreifer könnten Kundendaten einsehen",
+      "teaser": "Aufgrund einer Schwachstelle sind persönliche Kundendaten in WordPress-Shopwebsites nicht optimal geschützt. Admins sollten zügig handeln.",
+      "url": "https://www.heise.de/news/WordPress-Shops-mit-WooCommerce-Plug-in-koennten-Kundendaten-leaken-9187447.html"
     },
     {
       "title": "MOVEit-Lücke: AOK findet keine Hinweise auf Datenabfluss",
@@ -153,11 +158,6 @@
       "image_title": "Cyber,Hacker,Attack,Background,,Skull,Vector"
     },
     {
-      "title": "Minecraft-Modifikationspakete mit Fractureiser-Malware verseucht",
-      "teaser": "Minecraftspieler aufgepasst: Auf den legitimen Portalen Bukkit und CurseForge sind infizierte Modifikationen aufgetaucht.",
-      "url": "https://www.heise.de/news/Minecraft-Modifikationspakete-mit-Fractureiser-Maleware-verseucht-9182068.html"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Security braucht Vertrauen – aber zu wem, wann und wie? Das erfahren Sie auf der heise-Security-Konferenz. Sie lernen den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
@@ -180,19 +180,19 @@
       "url": "https://www.heise.de/hintergrund/Missing-Link-Digitale-Polizei-eine-unendliche-Geschichte-mit-vielen-Restarts-9163798.html"
     },
     {
+      "title": "Re: Funktionsfähiger USB-Stick nach 20 Minuten fertig :-)",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Funktionsfaehiger-USB-Stick-nach-20-Minuten-fertig/posting-42747078/show/"
+    },
+    {
+      "title": "Re: WithSecure - keine Updates",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-keine-Updates/posting-42747057/show/"
+    },
+    {
       "title": "Re: Virus oder Fehlalarm?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Virus-oder-Fehlalarm/posting-42744278/show/"
-    },
-    {
-      "title": "Problem Postbank Phishing Fall",
-      "teaser": "Forum: Tatort Internet",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Tatort-Internet/Problem-Postbank-Phishing-Fall/posting-42741081/show/"
-    },
-    {
-      "title": "Re: Kein Secure-Boot nach Erstellung mit Linux",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Secure-Boot-nach-Erstellung-mit-Linux/posting-42739388/show/"
     }
   ]
 }
