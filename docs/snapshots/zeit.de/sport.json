@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-14T17:10:34",
+  "timestamp": "2023-06-14T18:14:05",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "TV-Rechte: ARD und ZDF zeigen die Fußball-WM der Frauen",
+      "teaser": "Der Streit um die Übertragung der Frauen-WM ist beigelegt: ARD und ZDF zeigen die Spiele. Der ARD-Vorsitzende Tom Buhrow spricht von einem \"Ergebnis im Sinne des Sports\".",
+      "url": "https://www.zeit.de/sport/2023-06/tv-rechte-frauen-fussball-wm-ard-zdf",
+      "image_url": "https://img.zeit.de/sport/2023-06/european-broadcasting-union-ebu-fifa-uebertragung-fussball-wm-bild/cinema__980x420"
+    },
+    {
       "title": "Race Across America: \"Wir wollen die Alten zum Sport animieren\"",
       "teaser": "Zusammen sind sie 321 Jahre alt. Nun wagen sich Fritz, Paul, Horst und Roland an das härteste Radrennen der Welt. Weil sie etwas beweisen wollen.",
       "url": "https://www.zeit.de/sport/2023-05/race-across-america-ue80-team-radsport",
-      "image_url": "https://img.zeit.de/sport/2023-05/race-across-america-ue80-team/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-05/race-across-america-ue80-team/wide__822x462",
+      "image_title": "Race Across America: \"Wir wollen die Alten zum Sport animieren\""
     },
     {
       "title": "Fußball-WM der Frauen : Fifa schließt \"Blackout\" im Streit um TV-Rechte aus",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-06/fussball-wm-der-frauen-2024-fifa-tv-rechte-streit",
       "image_url": "https://img.zeit.de/sport/2023-06/fussball-wm-der-frauen-2024-fifa-tv-rechte-streit-bild/wide__822x462",
       "image_title": "Fußball-WM der Frauen : Fifa schließt \"Blackout\" im Streit um TV-Rechte aus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Nikola Jokić: Der Basketballsonderling",
-      "teaser": "Nikola Jokić mag lieber Pferde als Klamotten, wirkt behäbig, manchmal ungelenk – und ist doch der beste Spieler in der NBA. Nun hat er sein Team zum Titel geführt.",
-      "url": "https://www.zeit.de/sport/2023-06/nikola-jokic-nba-champion-denver-nuggets",
-      "image_url": "https://img.zeit.de/sport/2023-06/nikola-jokic-nba-champion-denver-nuggets-bild/wide__822x462",
-      "image_title": "Nikola Jokić: Der Basketballsonderling"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Champions-League-Finale: Darf man Manchester City mögen?",
@@ -91,6 +91,13 @@
       "image_title": "Special Olympics World Games: Gold wert"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nikola Jokić: Der Basketballsonderling",
+      "teaser": "Nikola Jokić mag lieber Pferde als Klamotten, wirkt behäbig, manchmal ungelenk – und ist doch der beste Spieler in der NBA. Nun hat er sein Team zum Titel geführt.",
+      "url": "https://www.zeit.de/sport/2023-06/nikola-jokic-nba-champion-denver-nuggets",
+      "image_url": "https://img.zeit.de/sport/2023-06/nikola-jokic-nba-champion-denver-nuggets-bild/wide__822x462",
+      "image_title": "Nikola Jokić: Der Basketballsonderling"
+    },
+    {
       "title": "Fußballländerspiel: Volle Solidarität mit der Ukraine, auch durch die deutsche Abwehr",
       "teaser": "Das 1.000. Länderspiel des DFB stand im Zeichen der Solidarität mit der Ukraine – und im Schatten der Krise der deutschen Nationalmannschaft.",
       "url": "https://www.zeit.de/sport/2023-06/fussball-laenderspiel-dfb-auswahl-ukraine-hansi-flick-unentschieden",
@@ -105,13 +112,6 @@
       "image_title": "Fußball-Länderspiel: DFB-Elf spielt im tausendsten Spiel unentschieden"
     },
     {
-      "title": "Fußballnationalmannschaft: Jetzt live: Deutschland im Jubiläumsspiel gegen die Ukraine",
-      "teaser": "Es ist das tausendste DFB-Länderspiel und der DFB spielt es in Bremen gegen die Ukraine. Alle Einnahmen sollen gespendet werden. Der Liveticker",
-      "url": "https://www.zeit.de/sport/2023-06/fussball-nationalmannschaft-dfb-liveticker",
-      "image_url": "https://img.zeit.de/sport/2023-06/kevin-trapp-dfb/wide__822x462",
-      "image_title": "Fußballnationalmannschaft: Jetzt live: Deutschland im Jubiläumsspiel gegen die Ukraine"
-    },
-    {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
       "teaser": "Wer bei einem Sport-Studium nur an Lehramt denkt, liegt falsch. Zwischen Management und Rehapädagogik gibt es in Deutschland über tausend Studiengänge mit Sport-Bezug.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=sport&wt_zmc=fix.int.zonpmr.sport-ressort.verlagsteaser-ressort.suma.bildtext.basketball.x&utm_medium=fix&utm_source=sport-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_basketball_x",
@@ -119,11 +119,11 @@
       "image_title": "Studienorientierung: Mehr als Bundesjugendspiele"
     },
     {
-      "title": "Fußball-EM 2024: In diesen Zeiten werden Länderspiele immer wichtiger",
-      "teaser": "2012 fragte ich mich: Ist die Ukraine eine Demokratie? Heute kämpft sie für Europas Freiheit. Der DFB hat den richtigen Gegner für sein Jubiläumsspiel ausgewählt.",
-      "url": "https://www.zeit.de/sport/2023-06/fussball-em-2024-ukraine-philipp-lahm",
-      "image_url": "https://img.zeit.de/sport/2023-06/fussball-em-2024-ukraine-philipp/wide__822x462",
-      "image_title": "Fußball-EM 2024: In diesen Zeiten werden Länderspiele immer wichtiger"
+      "title": "Fußballnationalmannschaft: Jetzt live: Deutschland im Jubiläumsspiel gegen die Ukraine",
+      "teaser": "Es ist das tausendste DFB-Länderspiel und der DFB spielt es in Bremen gegen die Ukraine. Alle Einnahmen sollen gespendet werden. Der Liveticker",
+      "url": "https://www.zeit.de/sport/2023-06/fussball-nationalmannschaft-dfb-liveticker",
+      "image_url": "https://img.zeit.de/sport/2023-06/kevin-trapp-dfb/wide__822x462",
+      "image_title": "Fußballnationalmannschaft: Jetzt live: Deutschland im Jubiläumsspiel gegen die Ukraine"
     },
     {
       "title": "Fußballpodcast: Der beste Spieler der besten Mannschaft",
@@ -147,6 +147,13 @@
       "image_title": "Turbine Potsdam: Blöde neue Welt"
     },
     {
+      "title": "Fußball-EM 2024: In diesen Zeiten werden Länderspiele immer wichtiger",
+      "teaser": "2012 fragte ich mich: Ist die Ukraine eine Demokratie? Heute kämpft sie für Europas Freiheit. Der DFB hat den richtigen Gegner für sein Jubiläumsspiel ausgewählt.",
+      "url": "https://www.zeit.de/sport/2023-06/fussball-em-2024-ukraine-philipp-lahm",
+      "image_url": "https://img.zeit.de/sport/2023-06/fussball-em-2024-ukraine-philipp/wide__822x462",
+      "image_title": "Fußball-EM 2024: In diesen Zeiten werden Länderspiele immer wichtiger"
+    },
+    {
       "title": "Fußball: Hertha BSC erhält Lizenz für 2. Bundesliga",
       "teaser": "Der abgestiegene Hauptstadtclub hat die Spielerlaubnis für die zweite Liga erhalten. Wegen finanzieller Probleme hatte Hertha der Absturz in die Regionalliga gedroht.",
       "url": "https://www.zeit.de/sport/2023-06/fussball-hertha-bsc-zweite-bundesliga-lizenz",
@@ -159,13 +166,6 @@
       "url": "https://www.zeit.de/sport/2023-06/fussball-bundesliga-eintracht-frankfurt-dino-toppmoeller",
       "image_url": "https://img.zeit.de/sport/2023-06/dino-toppmoeller-trainer-eintracht-frankfurt-bild/wide__822x462",
       "image_title": "Fußballbundesliga: Dino Toppmöller wird neuer Trainer bei Eintracht Frankfurt"
-    },
-    {
-      "title": "Manchester City: Der Preis des großen Titels",
-      "teaser": "Angeblich ist es keine Leistung, mit den Milliarden von ManCity die Champions League zu gewinnen. Doch so teuer ist es, wenn man aus der zweiten in die erste Reihe will.",
-      "url": "https://www.zeit.de/sport/2023-06/manchester-city-champions-league-pep-guardiola-abu-dhabi",
-      "image_url": "https://img.zeit.de/sport/2023-06/manchester-city-champions-league-pep-guardiola/wide__822x462",
-      "image_title": "Manchester City: Der Preis des großen Titels"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Champions League: Finals werden nicht gespielt, sondern gewonnen",
