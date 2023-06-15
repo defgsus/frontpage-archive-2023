@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-15T11:09:03",
+  "timestamp": "2023-06-15T12:22:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix ShareFile StorageZones Controller",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-ShareFile-StorageZones-Controller-uebernehmen-9188581.html"
+    },
+    {
       "title": "Google Pixel",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-Pixel-Smartphones-von-Google-gesichtet-9188302.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/WordPress-Shops-mit-WooCommerce-Plug-in-koennten-Kundendaten-leaken-9187447.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-Animate-und-Substance-3D-Designer-moeglich-9186956.html"
+      "title": "Android-Update gegen zunehmende fehlerhafte Butt-Dial-Notrufe",
+      "teaser": "Unbeabsichtigt gestartete Notrufe haben seit einiger Zeit stark zugenommen. Nach Anfragen von Leitstellen an Hersteller liefern diese jetzt Android-Updates aus.",
+      "url": "https://www.heise.de/news/Android-Update-gegen-zunehmende-fehlerhafte-Butt-Dial-Notrufe-9188747.html",
+      "image_title": "Editorial,Illistrative.,Software,Update,On,Android.,The,Samsung,Phone,Is"
+    },
+    {
+      "title": "Angreifer können Citrix ShareFile StorageZones Controller übernehmen",
+      "teaser": "Die Citrix-Entwickler haben eine kritische Sicherheitslücke in ShareFile StorageZones Controller geschlossen. Sie wurde als kritisch eingestuft.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-Citrix-ShareFile-StorageZones-Controller-uebernehmen-9188581.html"
     },
     {
       "title": "Falsche IT-Sicherheitsforscher tarnen Malware als Proof-of-Concept-Exploits",
@@ -149,17 +160,6 @@
       "image_title": "Indisches Covid-Portal"
     },
     {
-      "title": "Betrugsmasche: Auszahlung von Guthaben beim Gesundheitsministerium ist Fake",
-      "teaser": "Die Verbraucherzentrale NRW warnt vor einer aktuellen Betrugsmasche, bei der Mail-Versender eine Guthaben-Auszahlung vom Gesundheitsministerium versprechen.",
-      "url": "https://www.heise.de/news/Warnung-vor-Betrugsmasche-Guthaben-beim-Gesundheitsministerium-gegen-Perso-9184993.html"
-    },
-    {
-      "title": "Cybersicherheitsumfrage TÜV-Verband: Unternehmen wollen strengere Regulierung",
-      "teaser": "Jedes zehnte Unternehmen in Deutschland soll im vergangenen Jahr von IT-Sicherheitsvorfällen betroffen gewesen sein. Das geht aus einer TÜV-Umfrage hervor.",
-      "url": "https://www.heise.de/news/Cybersicherheitsumfrage-TUeV-Verband-Unternehmen-wollen-strengere-Regulierung-9184799.html",
-      "image_title": "Hacker,Artificial,Intelligence,Robot,Danger,Dark,Face.,Cyborg,Binary,Code"
-    },
-    {
       "title": "IT-Sicherheit in Malawi ist auch Kampf gegen Häftlinge",
       "teaser": "Nicht Ransomware, sondern Betrug um Mobile Money ist die derzeit größte IT-Sicherheitsbedrohung in Malawi. Malawis CERT hat keinen leichten Auftrag.​",
       "url": "https://www.heise.de/hintergrund/IT-Sicherheit-in-Malawi-ist-auch-Kampf-gegen-Haeftlinge-9185459.html",
@@ -179,7 +179,7 @@
     {
       "title": "Re: WithSecure - keine Updates",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-keine-Updates/posting-42751676/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-WithSecure-keine-Updates/posting-42752772/show/"
     },
     {
       "title": "Re: Virus oder Fehlalarm?",
