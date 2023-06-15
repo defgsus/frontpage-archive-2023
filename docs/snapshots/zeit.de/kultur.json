@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-15T22:10:45",
+  "timestamp": "2023-06-15T23:11:37",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "USA: Neun weitere Frauen verklagen Bill Cosby wegen sexueller Übergriffe",
+      "teaser": "Die Frauen sagen, der Schauspieler habe sie betäubt und missbraucht. Cosby weist die Vorwürfe zurück und unterstellt den Klägerinnen Gier nach Aufmerksamkeit.",
+      "url": "https://www.zeit.de/kultur/film/2023-06/bill-cosby-sexueller-missbrauch-klage",
+      "image_url": "https://img.zeit.de/kultur/film/2023-06/bill-cosby-sexueller-missbrauch-klage-foto/cinema__980x420"
+    },
+    {
       "title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus",
-      "teaser": "Universal Music zieht in der Zusammenarbeit mit Rammstein Konsequenzen. \"Die Vorwürfe gegen Till Lindemann haben uns schockiert\", heißt es von dem Label. 238 Kommentare",
+      "teaser": "Universal Music zieht in der Zusammenarbeit mit Rammstein Konsequenzen. \"Die Vorwürfe gegen Till Lindemann haben uns schockiert\", heißt es von dem Label.",
       "url": "https://www.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt-bild/wide__822x462",
+      "image_title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus"
     },
     {
       "title": "Öffentlich-rechtlicher Rundfunk: Kandidat Jan Weyrauch zieht sich aus rbb-Intendantenwahl zurück",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/kultur/2023-06/oeffentlich-rechtlicher-rundfunk-jan-weyrauch-rbb-intendantenwahl",
       "image_url": "https://img.zeit.de/kultur/film/2023-06/jan-weyrauch/wide__822x462",
       "image_title": "Öffentlich-rechtlicher Rundfunk: Kandidat Jan Weyrauch zieht sich aus rbb-Intendantenwahl zurück"
-    },
-    {
-      "title": "Großbritannien: Glenda Jackson ist tot",
-      "teaser": "Als Schauspielerin wurde sie berühmt, später war sie viele Jahre lang Labourabgeordnete im britischen Parlament. Nun ist Glenda Jackson im Alter von 87 Jahren gestorben.",
-      "url": "https://www.zeit.de/kultur/film/2023-06/grossbritannien-schauspielerin-glenda-jackson-ist-tot",
-      "image_url": "https://img.zeit.de/kultur/2023-06/glenda-jackson-bild/wide__822x462",
-      "image_title": "Großbritannien: Glenda Jackson ist tot"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Olaf Scholz: Der Basta-Intellektuelle",
@@ -122,8 +122,8 @@
       "url": "https://www.zeit.de/kultur/musik/2023-06/rammstein-konzert-muenchen-till-lindemann-vorwuerfe-row-zero"
     },
     {
-      "title": "\"Polizeiruf 110\" München: Hallo, die Rettung ist hier",
-      "url": "https://www.zeit.de/kultur/film/2023-06/polizeiruf-110-muenchen-krimi-paranoia"
+      "title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus",
+      "url": "https://www.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt"
     },
     {
       "title": "Deutscher Journalisten-Verband: Journalisten-Verband wirft Rammstein-Anwälten Einschüchterung vor",
@@ -158,8 +158,8 @@
       "url": "https://www.zeit.de/kultur/musik/2023-06/rammstein-till-lindemann-staatsanwaltschaft-berlin-ermittlungen"
     },
     {
-      "title": "\"Polizeiruf 110\" München: Hallo, die Rettung ist hier",
-      "url": "https://www.zeit.de/kultur/film/2023-06/polizeiruf-110-muenchen-krimi-paranoia"
+      "title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus",
+      "url": "https://www.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Die Zukunft des Westens: Ist der Westen noch zu retten?",
@@ -176,6 +176,13 @@
       "image_title": "Beyoncé und Jay-Z : Maximaler Minimalismus"
     },
     {
+      "title": "Großbritannien: Glenda Jackson ist tot",
+      "teaser": "Als Schauspielerin wurde sie berühmt, später war sie viele Jahre lang Labourabgeordnete im britischen Parlament. Nun ist Glenda Jackson im Alter von 87 Jahren gestorben.",
+      "url": "https://www.zeit.de/kultur/film/2023-06/grossbritannien-schauspielerin-glenda-jackson-ist-tot",
+      "image_url": "https://img.zeit.de/kultur/2023-06/glenda-jackson-bild/wide__822x462",
+      "image_title": "Großbritannien: Glenda Jackson ist tot"
+    },
+    {
       "title": "Artikel über Mathias Döpfner: Presserat entscheidet zugunsten der ZEIT",
       "teaser": "In einem Artikel hat die ZEIT Nachrichten von Springer-Chef Mathias Döpfner veröffentlicht. Das entsprach den Richtlinien des Pressekodex, urteilt nun der Presserat.",
       "url": "https://www.zeit.de/kultur/2023-06/presserat-verfahren-artikel-zeit-springer-verlag-mathias-doepfner",
@@ -188,13 +195,6 @@
       "url": "https://www.zeit.de/kultur/musik/2023-06/meshell-ndegeocello-jazz-musik-queerness",
       "image_url": "https://img.zeit.de/kultur/musik/2023-06/meshell-ndegeocello-jazz-musik-queerness-bild1/wide__822x462",
       "image_title": "Meshell Ndegeocello: Warum Jazz nicht mehr cool ist"
-    },
-    {
-      "title": "\"Saint François d’Assise\": Um der Gottesanbeterin willen",
-      "teaser": "Die Stuttgarter Staatsoper hat ihre Inszenierung von Olivier Messiaens Oper \"Saint François d’Assise\" in die Natur verlegt. Vergessen wurde bloß: die Klimakatastrophe.",
-      "url": "https://www.zeit.de/2023/26/saint-francois-d-assise-staatsoper-stuttgart-oliver-messiaen",
-      "image_url": "https://img.zeit.de/2023/26/um-der-gottesanbeterin-willen-bild-1/wide__822x462",
-      "image_title": "\"Saint François d’Assise\": Um der Gottesanbeterin willen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wes Anderson: Ferien von der Gegenwart",
@@ -211,6 +211,13 @@
       "image_title": "Elizabeth Duval: \"Man wird nicht als trans geboren\""
     },
     {
+      "title": "\"Saint François d’Assise\": Um der Gottesanbeterin willen",
+      "teaser": "Die Stuttgarter Staatsoper hat ihre Inszenierung von Olivier Messiaens Oper \"Saint François d’Assise\" in die Natur verlegt. Vergessen wurde bloß: die Klimakatastrophe.",
+      "url": "https://www.zeit.de/2023/26/saint-francois-d-assise-staatsoper-stuttgart-oliver-messiaen",
+      "image_url": "https://img.zeit.de/2023/26/um-der-gottesanbeterin-willen-bild-1/wide__822x462",
+      "image_title": "\"Saint François d’Assise\": Um der Gottesanbeterin willen"
+    },
+    {
       "title": "Rammstein: Berliner Staatsanwaltschaft ermittelt gegen Till Lindemann",
       "teaser": "Gegen den Rammstein-Sänger laufen Ermittlungen. Anlass ist Berichten zufolge Paragraf 177 des Strafgesetzbuchs, in dem es unter anderem um sexuelle Übergriffe geht.",
       "url": "https://www.zeit.de/kultur/musik/2023-06/rammstein-till-lindemann-staatsanwaltschaft-berlin-ermittlungen",
@@ -221,14 +228,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Vorwürfe gegen Till Lindemann: Gehört die Kunst sich selbst?",
       "teaser": "47 Prozent der Deutschen würden kein Konzert einer Band besuchen, wenn gegen Mitglieder Missbrauchsvorwürfe laut werden. Bei Rammstein könnte es auch andere Gründe geben.",
       "url": "https://www.zeit.de/2023/26/till-lindemann-rammstein-vorwuerfe-umfrage",
-      "image_url": "https://img.zeit.de/2023/26/till-lindemann-rammstein-vorwuerfe-umfrage-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/26/till-lindemann-rammstein-vorwuerfe-umfrage-teaser/cinema__980x420",
       "image_title": "Vorwürfe gegen Till Lindemann: Gehört die Kunst sich selbst?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kulturkampf: Sie wollen so bleiben, wie sie sind",
       "teaser": "Ob \"Heizungszwang\", \"Genderzwang\" oder \"Zwangsveganisierung\": Viele Konservative eskalieren ihre Kulturkampfrhetorik und übersehen dabei die eigenen Widersprüche.",
       "url": "https://www.zeit.de/kultur/2023-06/konservatismus-rhetorik-heizung-gender-kultur-kampf",
-      "image_url": "https://img.zeit.de/kultur/2023-06/konservatismus-rhetorik-heizung/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-06/konservatismus-rhetorik-heizung/wide__822x462",
       "image_title": "Kulturkampf: Sie wollen so bleiben, wie sie sind"
     },
     {
@@ -242,14 +249,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Tod von Silvio Berlusconi: \"Er wollte immer geliebt werden\"",
       "teaser": "Warum konnte ausgerechnet jemand wie Silvio Berlusconi über viele Jahrzehnte Italien so sehr prägen? Ein Gespräch mit der Schriftstellerin Francesca Melandri",
       "url": "https://www.zeit.de/2023/26/silvio-berlusconi-tod-francesca-melandri",
-      "image_url": "https://img.zeit.de/2023/26/silvio-berlusconi-tod-francesca-melandri-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/26/silvio-berlusconi-tod-francesca-melandri-teaser/cinema__980x420",
       "image_title": "Tod von Silvio Berlusconi: \"Er wollte immer geliebt werden\""
     },
     {
       "title": "Kulturpass 2023: Was Sie über den Kulturpass wissen müssen",
       "teaser": "200 Euro für Konzerte, Theater und Bücher: Ab heute können junge Erwachsene den Kulturpass beantragen. Wer Anspruch auf den Gutschein hat und wie Sie an das Geld kommen.",
       "url": "https://www.zeit.de/kultur/2023-06/kulturpass-2023-18-jaehrige-angebot-haeufigste-fragen-faq",
-      "image_url": "https://img.zeit.de/kultur/2023-06/kulturpass-2023-18-jaehrige-angebot-haeufigste-fragen-faq-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-06/kulturpass-2023-18-jaehrige-angebot-haeufigste-fragen-faq-bild/wide__822x462",
       "image_title": "Kulturpass 2023: Was Sie über den Kulturpass wissen müssen"
     },
     {
@@ -263,14 +270,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"The Flash\": Ein Held auf der Flucht",
       "teaser": "Jahrzehntelang wurde versucht, der DC-Figur Flash einen eigenen Film zu bauen. Nun ist er endlich im Kino – begleitet von viel Aufregung um seinen Star Ezra Miller.",
       "url": "https://www.zeit.de/kultur/film/2023-06/the-flash-film-dc-marvel",
-      "image_url": "https://img.zeit.de/kultur/film/2023-06/the-flash-film-dc-marvel-1/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2023-06/the-flash-film-dc-marvel-1/cinema__980x420",
       "image_title": "\"The Flash\": Ein Held auf der Flucht"
     },
     {
       "title": "Medien: Fernsehen bleibt wichtigste Nachrichtenquelle",
       "teaser": "Die meisten Deutschen konsumieren Nachrichten laut einer Studie nach wie vor am liebsten im linearen Fernsehen. Junge Menschen haben jedoch ganz andere Vorlieben.",
       "url": "https://www.zeit.de/kultur/film/2023-06/medien-fernsehen-nachrichtenquelle-internet",
-      "image_url": "https://img.zeit.de/kultur/film/2023-06/medien-fernsehen-nachrichtenquelle-internet-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-06/medien-fernsehen-nachrichtenquelle-internet-bild/wide__822x462",
       "image_title": "Medien: Fernsehen bleibt wichtigste Nachrichtenquelle"
     },
     {
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/kultur/literatur/2023-06/vollblutpferde-john-jeremiah-sullivan-buch",
       "image_url": "https://img.zeit.de/kultur/2023-06/vollblutpferde-john-jeremiah-sullivan/wide__822x462",
       "image_title": "\"Vollblutpferde\" von John Jeremiah Sullivan: Die pure Schönheit"
-    },
-    {
-      "title": "Beatles: Paul McCartney kündigt neuen Beatles-Song an",
-      "teaser": "Bald soll die \"letzte Beatles-Platte\" herauskommen. Dafür will Paul McCartney die Stimme seines verstorbenen Bandkollegen John Lennon durch KI zum Leben erweckt haben.",
-      "url": "https://www.zeit.de/kultur/musik/2023-06/beatles-song-ki-paul-mccartney",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-06/beatles-song-ki-paul-maccartney-foto/wide__822x462",
-      "image_title": "Beatles: Paul McCartney kündigt neuen Beatles-Song an"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Her\" und KI: Die Gefühle sind nicht echt",
@@ -379,10 +379,17 @@
       "image_title": "Golden Globe Awards: Private Investoren übernehmen US-Filmpreis"
     },
     {
+      "title": "Beatles: Paul McCartney kündigt neuen Beatles-Song an",
+      "teaser": "Bald soll die \"letzte Beatles-Platte\" herauskommen. Dafür will Paul McCartney die Stimme seines verstorbenen Bandkollegen John Lennon durch KI zum Leben erweckt haben.",
+      "url": "https://www.zeit.de/kultur/musik/2023-06/beatles-song-ki-paul-mccartney",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-06/beatles-song-ki-paul-maccartney-foto/cinema__980x420",
+      "image_title": "Beatles: Paul McCartney kündigt neuen Beatles-Song an"
+    },
+    {
       "title": "Ski Aggu: Aggu Berlin",
       "teaser": "Mit einem Remix des Otto-Songs \"Friesenjung\" steht der Berliner Rapper Ski Aggu auf Platz eins der Charts. Ist das Deutschrap 2023? Oder kann der Typ noch mehr?",
       "url": "https://www.zeit.de/kultur/musik/2023-06/ski-aggu-rapper-otto-waalkes-friesenjung",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-06/ski-aggu/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-06/ski-aggu/wide__822x462",
       "image_title": "Ski Aggu: Aggu Berlin"
     },
     {
@@ -391,13 +398,6 @@
       "url": "https://www.zeit.de/kultur/musik/2023-06/jarak-qaribak-dudu-tassa-jonny-greenwood-album",
       "image_url": "https://img.zeit.de/kultur/musik/2023-06/jarak-qaribak-dudu-tassa-jonny-greenwood-album-bild/wide__822x462",
       "image_title": "\"Jarak Qaribak\": Hömma, Habibi"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Isata Kanneh-Mason: Sie nennen sie Clara Schumann",
-      "teaser": "Die britische Pianistin Isata Kanneh-Mason schrieb mit zehn Jahren ihr erstes Klavierkonzert. Nun hat sie ein Album mit Kompositionen über die Kindheit eingespielt.",
-      "url": "https://www.zeit.de/2023/25/isata-kanneh-mason-pianistin-klavier",
-      "image_url": "https://img.zeit.de/2023/25/isata-kanneh-mason-pianistin-klavier-teaserbild/wide__822x462",
-      "image_title": "Isata Kanneh-Mason: Sie nennen sie Clara Schumann"
     },
     {
       "title": "Französische Künstlerin: Malerin und Autorin Françoise Gilot gestorben",
