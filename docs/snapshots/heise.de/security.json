@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-15T07:10:55",
+  "timestamp": "2023-06-15T08:13:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Pixel",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-Pixel-Smartphones-von-Google-gesichtet-9188302.html"
+    },
+    {
       "title": "HP Laserjet MFP",
       "url": "https://www.heise.de/news/Kritisches-Leck-Codeschmuggel-auf-mehr-als-50-HP-Laserjet-MFP-Modelle-moeglich-9188162.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Adobe-Animate-und-Substance-3D-Designer-moeglich-9186956.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-repariert-Exchange-Sicherheitsupdates-9186909.html"
+      "title": "Sicherheitsupdates: Attacken auf Pixel-Smartphones von Google gesichtet",
+      "teaser": "Google hat etliche Sicherheitslücken in Pixel-Smartphones mit Android 13 geschlossen. Eine Lücke gilt als kritisch.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Attacken-auf-Pixel-Smartphones-von-Google-gesichtet-9188302.html",
+      "image_title": "Aufmacher Android-Patchday"
+    },
+    {
+      "title": "Nordkorea saugt 100 Millionen Dollar aus fremden Krypto-Wallets",
+      "teaser": "Tausende Opfer, allesamt Nutzer von Atomic Wallets, melden enorme Schäden. Die Sicherheitslücke ist noch unbekannt. Atomics Reaktion fällt flach aus.",
+      "url": "https://www.heise.de/news/Nordkorea-saugt-100-Millionen-Dollar-aus-fremden-Krypto-Wallets-9188057.html",
+      "image_title": "Zwei lederbehandschuhte Hände räumen Münzen mit Kryptowährungslogos in einen oder aus einem Tresor"
     },
     {
       "title": "Edge-Vorschau: Microsoft-Browser verschönert Bilder mit serverseitiger KI",
@@ -146,22 +158,6 @@
       "title": "Passwort-Manager Bitwarden: Master-Schlüssel war für alle lesbar",
       "teaser": "Der Passwort-Manager Bitwarden unterstützt die Authentifizierung mit Windows Hello. Bis vor Kurzem war darüber der Master-Schlüssel für alle auslesbar.",
       "url": "https://www.heise.de/news/Passwort-Manager-Bitwarden-Biometrischer-Schluessel-war-fuer-alle-lesbar-9184586.html"
-    },
-    {
-      "title": "Fortinet: SSL-VPN-Lücke ermöglicht Codeschmuggel",
-      "teaser": "Fortinet hat Updates für das FortiOS-Betriebssystem veröffentlicht. Sie schließen eine Sicherheitslücke im SSL-VPN, die das Einschleusen von Schadcode erlaubt.",
-      "url": "https://www.heise.de/news/Fortinet-SSL-VPN-Luecke-ermoeglicht-Codeschmuggel-9184284.html"
-    },
-    {
-      "title": "Update anwenden: MOVEit Transfer schließt weitere Sicherheitslücke",
-      "teaser": "Seit über einer Woche wird eine Sicherheitslücke in MOVEit Transfer von Angreifern missbraucht. Der Hersteller stellt für eine ähnliche Lücke Updates bereit.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Weitere-Sicherheitsluecke-in-MOVEit-Transfer-9183370.html",
-      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
-    },
-    {
-      "title": "heise Security Tour 2023",
-      "teaser": "Security braucht Vertrauen – aber zu wem, wann und wie? Das erfahren Sie auf der heise-Security-Konferenz. Sie lernen den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern.",
-      "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
     },
     {
       "title": "IT-Sicherheit in Malawi ist auch Kampf gegen Häftlinge",
