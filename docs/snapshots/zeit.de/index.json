@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-16T07:10:04",
+  "timestamp": "2023-06-16T08:13:56",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -64,6 +64,12 @@
       "src": "https://live0.zeit.de/zon-er/zon-er-230103-hp.js",
       "id": "er-javascript",
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.ef1656df.mjs",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
@@ -74,11 +80,25 @@
       "image_url": "https://img.zeit.de/wirtschaft/2023-06/vermoegen-milliardaere-steuern-ungleichheit-deutschland-bild/cinema__980x420"
     },
     {
+      "title": "Seenotrettung: Griechische Küstenwache weitet Suche nach Überlebenden aus",
+      "teaser": "Hunderte Menschen werden nach dem Bootsunglück im Mittelmeer vermisst, die Suche wird intensiviert. Laut Medien wird es der letzte Versuch sein, Überlebende zu finden.",
+      "url": "https://www.zeit.de/gesellschaft/2023-06/seenotrettung-bootsunglueck-griechenland-kuestenwache-suche",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-06/seenotrettung-bootsunglueck-griechenland-kuestenwache-suche-bild/wide__822x462",
+      "image_title": "Seenotrettung: Griechische Küstenwache weitet Suche nach Überlebenden aus"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Jewgeni Prigoschin: Es wird eng für Putins Warlord",
       "teaser": "Im Machtkampf zwischen russischer Armeeführung und Jewgeni Prigoschin zeichnet sich ein Sieger ab. Der Chef der Wagner-Söldner will sich aber noch nicht geschlagen geben.",
       "url": "https://www.zeit.de/politik/ausland/2023-06/jewgeni-prigoschin-wladimir-putin-militaer",
       "image_url": "https://img.zeit.de/politik/2023-06/russland-ukraine-jewgeni-prigoschin-bild/wide__822x462",
       "image_title": "Jewgeni Prigoschin: Es wird eng für Putins Warlord"
+    },
+    {
+      "title": "Ukraine-Karte aktuell: Ukrainische Soldaten rücken wohl erneut mehrere Kilometer vor",
+      "teaser": "Die Ukraine meldet Erfolge an mehreren Fronten, besonders in Donezk sei sie auf dem Vormarsch. Andererseits habe die Gegenoffensive \"als solche\" noch nicht begonnen.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
+      "image_title": "Ukraine-Karte aktuell: Ukrainische Soldaten rücken wohl erneut mehrere Kilometer vor"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ukrainische Offensive • Das Wichtigste aus Z+: So sind die Leoparden zu verwundbar",
@@ -88,25 +108,18 @@
       "image_title": "Ukrainische Offensive • Das Wichtigste aus Z+: So sind die Leoparden zu verwundbar"
     },
     {
-      "title": "Verunglücktes Flüchtlingsschiff: Bis zu 100 Kinder im Frachtraum des gesunkenen Schiffes befürchtet",
-      "teaser": "104 Männer konnten nach dem Untergang des Flüchtlingsbootes vor Griechenland gerettet werden. Überlebenden zufolge waren unter Deck auch Frauen – und bis zu 100 Kinder.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/griechenland-fluechlingsschiff-seenot-fluechtlinge-kinder-schleuser",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/griechenland-fluechlingsschiff-seenot-fluechtlinge-kinder-schleuser-foto/wide__822x462",
-      "image_title": "Verunglücktes Flüchtlingsschiff: Bis zu 100 Kinder im Frachtraum des gesunkenen Schiffes befürchtet"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Viertagewoche: \"Bekomme ich einen Job, wenn ich mir die Viertagewoche wünsche?\"",
-      "teaser": "Ava ist Abteilungsleiterin, gerne würde sie den Job wechseln. Soll sie beim Bewerbungsgespräch die Viertagewoche fordern? Wir haben sie zum Jobcoach geschickt.",
+      "title": "Z+ (abopflichtiger Inhalt); Viertagewoche: \"Ist meine Verhandlungsposition wirklich so gut?\"",
+      "teaser": "Ava ist Abteilungsleiterin, sie möchte ihren Job wechseln. Soll sie beim Bewerbungsgespräch die Viertagewoche fordern? Diese Strategie empfiehlt der Jobcoach.",
       "url": "https://www.zeit.de/arbeit/2023-06/vier-tage-woche-berufswechsel-jobcoach",
       "image_url": "https://img.zeit.de/arbeit/2023-06/vier-tage-woche-berufswechsel-jobcoach-frau/cinema__980x420",
-      "image_title": "Viertagewoche: \"Bekomme ich einen Job, wenn ich mir die Viertagewoche wünsche?\""
+      "image_title": "Viertagewoche: \"Ist meine Verhandlungsposition wirklich so gut?\""
     },
     {
-      "title": "Rechtsextremismus und Immobilien: Rechte decken sich mit Häusern ein",
-      "teaser": "Die Zahl von Immobilien in der Hand von Rechtsextremen ist gestiegen. Ein Problem: Zu über 100 Objekten bleiben Details im Dunkeln.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/rechtsextremismus-immobilien-kauf-besitzverhaeltnis",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/dortmund-dorstfeld-immobilien/wide__822x462",
-      "image_title": "Rechtsextremismus und Immobilien: Rechte decken sich mit Häusern ein"
+      "title": "Bündnis 90/Die Grünen: Grünenchefin Ricarda Lang kritisiert Ampel-Koalition",
+      "teaser": "Die Parteichefin der Grünen fordert von der Bundesregierung eine sozialere Politik. Die Koalition habe eine Mitverantwortung für die hohen Umfragewerte der AfD.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-06/gruene-ricarda-lang-ampel-koalition-kritik-afd",
+      "image_url": "https://img.zeit.de/digital/2023-06/gruene-ricarda-lang-ampel-koalition-kritik-afd-bild/wide__822x462",
+      "image_title": "Bündnis 90/Die Grünen: Grünenchefin Ricarda Lang kritisiert Ampel-Koalition"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Grüner Länderrat: So empört wie selten",
@@ -116,11 +129,11 @@
       "image_title": "Grüner Länderrat: So empört wie selten"
     },
     {
-      "title": "EU-Haushalt: Christian Lindner lehnt zusätzliche Zahlungen an EU-Haushalt ab",
-      "teaser": "Der EU-Haushalt ist nach Kommissionsangaben \"bis zum Maximum ausgereizt\". Deutschland werde kein zusätzliches Geld beisteuern können, sagt der Bundesfinanzminister.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-06/eu-haushalt-bundesfinanzminister-christian-lindner-zuzsaetzliche-zahlungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/christian-lindner-eu-haushalt/wide__822x462",
-      "image_title": "EU-Haushalt: Christian Lindner lehnt zusätzliche Zahlungen an EU-Haushalt ab"
+      "title": "Rechtsextremismus und Immobilien: Rechte decken sich mit Häusern ein",
+      "teaser": "Die Zahl von Immobilien in der Hand von Rechtsextremen ist gestiegen. Ein Problem: Zu über 100 Objekten bleiben Details im Dunkeln.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/rechtsextremismus-immobilien-kauf-besitzverhaeltnis",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/dortmund-dorstfeld-immobilien/wide__822x462",
+      "image_title": "Rechtsextremismus und Immobilien: Rechte decken sich mit Häusern ein"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abitur 2023: Ungerecht und aus der Zeit gefallen",
@@ -137,11 +150,11 @@
       "image_title": "Erderwärmung: Wärme des Nordatlantiks erreicht Höchstwert"
     },
     {
-      "title": "Gesetzesvorschlag: EU-Kommission plant Lockerung bei der Kennzeichnung von Genpflanzen",
-      "teaser": "Die Regeln sollen laut einem Gesetzesvorschlag entschärft werden. Dadurch könnten Verbraucher gentechnisch veränderte Lebensmittel kaufen, ohne es zu wissen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/gentechnik-lebensmittel-eu-kommission-gesetzesvorschlag",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/gentechnik-lebensmittel-eu-kommission-gesetzesvorschlag-foto/wide__822x462",
-      "image_title": "Gesetzesvorschlag: EU-Kommission plant Lockerung bei der Kennzeichnung von Genpflanzen"
+      "title": "Schweiz: Felsmassen verfehlen Schweizer Bergdorf nur knapp",
+      "teaser": "Riesige Massen an Fels und Geröll sind nahe dem Bergdorf Brienz abgestürzt. Das Dorf war bereits im Mai evakuiert worden.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/schweiz-bergdorf-brienz-bergmassen",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-06/schweiz-bergdorf-brienz-bergmassen-bild/wide__822x462",
+      "image_title": "Schweiz: Felsmassen verfehlen Schweizer Bergdorf nur knapp"
     },
     {
       "title": "Nordkorea: Südkoreas Militär birgt mutmaßliches Raketenwrackteil aus Nordkorea",
@@ -158,13 +171,6 @@
       "image_title": "Kathrine Switzer : Ein Lauf für alle Frauen"
     },
     {
-      "title": "Jack Teixeira: Verdächtiger der Pentagon-Leaks formal angeklagt",
-      "teaser": "Der US-Nationalgardist wird beschuldigt, bewusst geheime Informationen zur nationalen Verteidigung der USA veröffentlicht zu haben. Ihm drohen mehrere Jahrzehnte Haft.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/jack-teixeira-leak-us-geheimdokumente-anklageerhebung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/jack-teixeira-discord-pentagon/wide__822x462",
-      "image_title": "Jack Teixeira: Verdächtiger der Pentagon-Leaks formal angeklagt"
-    },
-    {
       "title": "E. Jean Carroll: Neuer Verleumdungsprozess gegen Donald Trump angesetzt",
       "teaser": "Wegen Missbrauchs und Verleumdung muss Trump Millionen Dollar an die Autorin E. Jean Carroll zahlen. Jüngste Aussagen des Ex-Präsidenten führten zu einer erneuten Klage.",
       "url": "https://www.zeit.de/politik/ausland/2023-06/usa-donald-trump-verleumdung-prozess",
@@ -172,18 +178,18 @@
       "image_title": "E. Jean Carroll: Neuer Verleumdungsprozess gegen Donald Trump angesetzt"
     },
     {
+      "title": "Cyberangriff: Hacker von Regierungsbehörden sollen Verbindungen zu China haben",
+      "teaser": "In mindestens 16 Länder haben Hacker nach US-Angaben Außenministerien und Außenhandelsbüros angegriffen. Die Angreifer sollen in Verbindung zu China stehen.",
+      "url": "https://www.zeit.de/digital/2023-06/cyberangriff-hacker-regierungsbehoerden-china",
+      "image_url": "https://img.zeit.de/digital/2023-06/cyberangriff-hacker-regierungsbehoerden-china-bild/wide__822x462",
+      "image_title": "Cyberangriff: Hacker von Regierungsbehörden sollen Verbindungen zu China haben"
+    },
+    {
       "title": "Wochenendpodcast: \"Das war mein Problem mit 19: Ich wollte eigentlich alles machen\"",
       "teaser": "Jochen Wegner, Chefredakteur von ZEIT ONLINE, erzählt im Wochenendpodcast von philosophischen Diskussionen mit ChatGPT und seiner neuen Vorliebe für Erbsenmilch.",
       "url": "https://www.zeit.de/entdecken/2023-06/jochen-wegner-japanisch-grillen-ki-wochenende-tipps-podcast",
       "image_url": "https://img.zeit.de/entdecken/2023-06/jochen-wegner-japanisch-grillen-ki-wochenende-tipps-podcast-bild/cinema__980x420",
       "image_title": "Wochenendpodcast: \"Das war mein Problem mit 19: Ich wollte eigentlich alles machen\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Pflege: \"Ich googelte: Kann man ungelernt in der Pflege arbeiten?\"",
-      "teaser": "Man kann. Nur fünf Tage nach ihrer Suche begann Maja über eine Zeitarbeitsfirma in der Altenpflege. Völlig unvorbereitet erlebte sie katastrophale Zustände.",
-      "url": "https://www.zeit.de/arbeit/2023-05/pflege-heim-zustand-fachkraeftemangel",
-      "image_url": "https://img.zeit.de/gesundheit/2023-05/altenpflege-bild/wide__822x462",
-      "image_title": "Pflege: \"Ich googelte: Kann man ungelernt in der Pflege arbeiten?\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Michael Cholbi : \"Die meisten Menschen reden sich ihre Arbeit schön\"",
@@ -214,11 +220,11 @@
       "image_title": "Häusliche Gewalt: \"Jeder kennt Betroffene. Aber niemand kennt einen Täter\""
     },
     {
-      "title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus",
-      "teaser": "Universal Music zieht in der Zusammenarbeit mit Rammstein Konsequenzen. \"Die Vorwürfe gegen Till Lindemann haben uns schockiert\", heißt es von dem Label.",
-      "url": "https://www.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt-bild/wide__822x462",
-      "image_title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus"
+      "title": "Z+ (abopflichtiger Inhalt); Pflege: \"Ich googelte: Kann man ungelernt in der Pflege arbeiten?\"",
+      "teaser": "Man kann. Nur fünf Tage nach ihrer Suche begann Maja über eine Zeitarbeitsfirma in der Altenpflege. Völlig unvorbereitet erlebte sie katastrophale Zustände.",
+      "url": "https://www.zeit.de/arbeit/2023-05/pflege-heim-zustand-fachkraeftemangel",
+      "image_url": "https://img.zeit.de/gesundheit/2023-05/altenpflege-bild/wide__822x462",
+      "image_title": "Pflege: \"Ich googelte: Kann man ungelernt in der Pflege arbeiten?\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); EZB: Was die Zinsentscheidung für Ihr Erspartes bedeutet",
@@ -441,36 +447,31 @@
       "image_title": "Rhabarber-Crumble: Von Knusperkrümeln bedeckt"
     },
     {
-      "title": "Ukraine-Karte aktuell: Ukrainische Soldaten rücken wohl erneut mehrere Kilometer vor",
-      "teaser": "Die Ukraine meldet Erfolge an mehreren Fronten, besonders in Donezk sei sie auf dem Vormarsch. Andererseits habe die Gegenoffensive \"als solche\" noch nicht begonnen.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/cinema__980x420",
-      "image_title": "Ukraine-Karte aktuell: Ukrainische Soldaten rücken wohl erneut mehrere Kilometer vor"
+      "title": "EU-Haushalt: Christian Lindner lehnt zusätzliche Zahlungen an EU-Haushalt ab",
+      "teaser": "Der EU-Haushalt ist nach Kommissionsangaben \"bis zum Maximum ausgereizt\". Deutschland werde kein zusätzliches Geld beisteuern können, sagt der Bundesfinanzminister.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-06/eu-haushalt-bundesfinanzminister-christian-lindner-zuzsaetzliche-zahlungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-06/christian-lindner-eu-haushalt/cinema__980x420",
+      "image_title": "EU-Haushalt: Christian Lindner lehnt zusätzliche Zahlungen an EU-Haushalt ab"
     },
     {
-      "title": "Politikpodcast: Beliebter als der Kanzler",
-      "teaser": "Eben noch war er ein wenig bekannter Landespolitiker, jetzt macht er als Verteidigungsminister einen Höllenjob. Über den Aufstieg von Boris Pistorius – und dessen Zukunft",
-      "url": "https://www.zeit.de/politik/2023-06/boris-pistorius-beliebtheit-verteidigungspolitik-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2023-06/boris-pistorius-verteidigungsminister-bild/wide__822x462",
-      "image_title": "Politikpodcast: Beliebter als der Kanzler"
+      "title": "Verunglücktes Flüchtlingsschiff: Bis zu 100 Kinder im Frachtraum des gesunkenen Schiffes befürchtet",
+      "teaser": "104 Männer konnten nach dem Untergang des Flüchtlingsbootes vor Griechenland gerettet werden. Überlebenden zufolge waren unter Deck auch Frauen – und bis zu 100 Kinder.",
+      "url": "https://www.zeit.de/politik/ausland/2023-06/griechenland-fluechlingsschiff-seenot-fluechtlinge-kinder-schleuser",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/griechenland-fluechlingsschiff-seenot-fluechtlinge-kinder-schleuser-foto/wide__822x462",
+      "image_title": "Verunglücktes Flüchtlingsschiff: Bis zu 100 Kinder im Frachtraum des gesunkenen Schiffes befürchtet"
     },
     {
-      "title": "Finnland: Mitte-rechts-Bündnis in Finnland einigt sich auf Koalitionsvertrag",
-      "teaser": "In Finnland wird die konservative Nationale Sammlungspartei zusammen mit drei weiteren Partnern regieren. Einer davon ist die rechtspopulistische Partei Die Finnen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/finnland-regierung-mitte-rechts-koalition",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/finnland-regierung-mitte-rechts-koalition-bild/wide__822x462",
-      "image_title": "Finnland: Mitte-rechts-Bündnis in Finnland einigt sich auf Koalitionsvertrag"
-    },
-    {
-      "title": "Schweiz: Felsmassen verfehlen Schweizer Bergdorf nur knapp",
-      "teaser": "Riesige Massen an Fels und Geröll sind nahe des Bergdorfs Brienz abgestürzt. Das Dorf war bereits im Mai evakuiert worden.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/schweiz-bergdorf-brienz-bergmassen"
+      "title": "Ukraine-Überblick: Einigung zu F-16-Trainings, Russlands Erdöl-Einnahmen brechen ein",
+      "teaser": "Noch gibt es keinen Beschluss zu Kampfjet-Lieferungen, doch ukrainische Piloten werden schon am F-16 ausgebildet. Russland verdient weniger mit dem Ölhandel. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-einigung-f-16-training-erdoeleinnahmen-russland-einbruch",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/ukraine-ueberblick-f-16-flieger/wide__822x462",
+      "image_title": "Ukraine-Überblick: Einigung zu F-16-Trainings, Russlands Erdöl-Einnahmen brechen ein"
     },
     {
       "title": "Das Buch Daniel: Susanna im Bade",
       "teaser": "Zwei alte geile Richter bedrängen die badende Susanna massiv. Doch der Prophet Daniel legt ihnen das Handwerk.",
       "url": "https://www.zeit.de/gesellschaft/2023-06/babylon-prophet-todesstrafe-bibelpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2020-01/bibel-podcast-gott-unter-pfarrerstoechtern-foto/wide__822x462",
+      "image_url": "https://img.zeit.de/gesellschaft/2020-01/bibel-podcast-gott-unter-pfarrerstoechtern-foto/cinema__980x420",
       "image_title": "Das Buch Daniel: Susanna im Bade"
     },
     {
@@ -479,6 +480,13 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/hinrichtung-florida-giftspritze-mord-frauen",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/hinrichtung-florida-giftspritze-mord-frauen-foto/wide__822x462",
       "image_title": "USA: Florida lässt Mann für Morde an zwei Frauen hinrichten"
+    },
+    {
+      "title": "Bayern: Touristin bei Angriff nahe Schloss Neuschwanstein getötet",
+      "teaser": "Unweit von Schloss Neuschwanstein soll ein Mann zwei Frauen in eine Schlucht gestoßen haben, eine von ihnen starb. Der mutmaßliche Täter sitzt in Untersuchungshaft.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/bayern-angriff-touristin-schloss-neuschwanstein-marienbruecke",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/schloss-neuschwanstein/wide__822x462",
+      "image_title": "Bayern: Touristin bei Angriff nahe Schloss Neuschwanstein getötet"
     },
     {
       "title": "AnzeigeWarum so viele angehende Lehrkräfte ihr Studium abbrechen",
@@ -551,11 +559,11 @@
       "image_title": "Missbrauch: Neun weitere Frauen verklagen Bill Cosby wegen sexueller Übergriffe"
     },
     {
-      "title": "Öffentlich-rechtlicher Rundfunk: Kandidat Jan Weyrauch zieht sich aus rbb-Intendantenwahl zurück",
-      "teaser": "Um den Job an der rbb-Spitze bewerben sich nur noch zwei Kandidatinnen: Jan Weyrauch von Radio Bremen zieht seine Kandidatur zurück.",
-      "url": "https://www.zeit.de/kultur/2023-06/oeffentlich-rechtlicher-rundfunk-jan-weyrauch-rbb-intendantenwahl",
-      "image_url": "https://img.zeit.de/kultur/film/2023-06/jan-weyrauch/wide__822x462",
-      "image_title": "Öffentlich-rechtlicher Rundfunk: Kandidat Jan Weyrauch zieht sich aus rbb-Intendantenwahl zurück"
+      "title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus",
+      "teaser": "Universal Music zieht in der Zusammenarbeit mit Rammstein Konsequenzen. \"Die Vorwürfe gegen Till Lindemann haben uns schockiert\", heißt es von dem Label.",
+      "url": "https://www.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-06/universal-music-rammstein-zusammenarbeit-ausgesetzt-bild/wide__822x462",
+      "image_title": "Till Lindemann: Plattenfirma setzt Marketing für Rammstein-Alben aus"
     },
     {
       "title": "VerlagsangebotDas kleine KI-Quiz: Wie gut ist Ihr Wissen zu künstlicher Intelligenz?",
@@ -565,11 +573,11 @@
       "image_title": "Das kleine KI-Quiz: Wie gut ist Ihr Wissen zu künstlicher Intelligenz?"
     },
     {
-      "title": "Großbritannien: Glenda Jackson ist tot",
-      "teaser": "Als Schauspielerin wurde sie berühmt, später war sie viele Jahre lang Labourabgeordnete im britischen Parlament. Nun ist Glenda Jackson im Alter von 87 Jahren gestorben.",
-      "url": "https://www.zeit.de/kultur/film/2023-06/grossbritannien-schauspielerin-glenda-jackson-ist-tot",
-      "image_url": "https://img.zeit.de/kultur/2023-06/glenda-jackson-bild/wide__822x462",
-      "image_title": "Großbritannien: Glenda Jackson ist tot"
+      "title": "Öffentlich-rechtlicher Rundfunk: Kandidat Jan Weyrauch zieht sich aus rbb-Intendantenwahl zurück",
+      "teaser": "Um den Job an der rbb-Spitze bewerben sich nur noch zwei Kandidatinnen: Jan Weyrauch von Radio Bremen zieht seine Kandidatur zurück.",
+      "url": "https://www.zeit.de/kultur/2023-06/oeffentlich-rechtlicher-rundfunk-jan-weyrauch-rbb-intendantenwahl",
+      "image_url": "https://img.zeit.de/kultur/film/2023-06/jan-weyrauch/wide__822x462",
+      "image_title": "Öffentlich-rechtlicher Rundfunk: Kandidat Jan Weyrauch zieht sich aus rbb-Intendantenwahl zurück"
     },
     {
       "title": "Schloss Neuschwanstein: Touristin stirbt nach Angriff",
@@ -637,7 +645,7 @@
     },
     {
       "title": "Krankenhausreform: Mehrheit der Deutschen fordert Reformen im Gesundheitswesen",
-      "teaser": "Die gesundheitliche Versorgung hat sich nach Ansicht der Deutschen in den vergangenen zehn Jahren verschlechtert. Die Mehrheit hält Veränderungen für notwendig. 239 Kommentare",
+      "teaser": "Die gesundheitliche Versorgung hat sich nach Ansicht der Deutschen in den vergangenen zehn Jahren verschlechtert. Die Mehrheit hält Veränderungen für notwendig. 243 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-06/gesundheitswesen-krankenhaeuser-reform-umfrage",
       "image_url": "https://img.zeit.de/gesundheit/2023-06/gesundheitswesen-krankenhaeuser-reform-umfrage-bild-2/cinema__980x420",
       "image_title": "Krankenhausreform: Mehrheit der Deutschen fordert Reformen im Gesundheitswesen"
@@ -727,11 +735,11 @@
       "image_title": "Kündigung: \"Mein einziger Plan für die Zeit nach der Kündigung: Pause machen\""
     },
     {
-      "title": "Verlagsangebot Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot Durchblick im Studiendschungel",
+      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
+      "image_title": "Durchblick im Studiendschungel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Allgemeinbildung: Was weiß denn ich",
@@ -874,36 +882,36 @@
       "image_title": "Kleines Kreuzworträtsel: Eckchen"
     },
     {
-      "title": "Regierung: Grünen-Chefin Lang kritisiert eigene Ampel-Koalition",
-      "url": "https://www.zeit.de/news/2023-06/16/gruenen-chefin-lang-kritisiert-eigene-ampel-koalition"
+      "title": "Leute: Handy-Akku leer: Lkw-Fahrer findet sein Fahrzeug nicht mehr",
+      "url": "https://www.zeit.de/news/2023-06/16/handy-akku-leer-lkw-fahrer-findet-sein-fahrzeug-nicht-mehr"
     },
     {
-      "title": "Polizei: Gruppe bedroht und verletzt Jugendlichen in Halle",
-      "url": "https://www.zeit.de/news/2023-06/16/gruppe-bedroht-und-verletzt-jugendlichen-in-halle"
+      "title": "Verkehr: Staus auf A1 bei Hamburg erwartet",
+      "url": "https://www.zeit.de/news/2023-06/16/staus-auf-a1-bei-hamburg-erwartet"
     },
     {
-      "title": "Landespolizeipräsidium: Unbekannte sprengen Geldautomaten in Rehlingen",
-      "url": "https://www.zeit.de/news/2023-06/16/unbekannte-sprengen-geldautomaten-in-rehlingen"
+      "title": "Migration: Griechische Küstenwache weitet Suche nach Bootsunglück aus",
+      "url": "https://www.zeit.de/news/2023-06/16/griechische-kuestenwache-weitet-suche-nach-bootsunglueck-aus"
     },
     {
-      "title": "Unfall: 82-Jährige in Köln von Auto angefahren: Lebensgefahr",
-      "url": "https://www.zeit.de/news/2023-06/16/82-jaehrige-in-koeln-von-auto-angefahren-lebensgefahr"
+      "title": "Unterfranken : Gewaltvorwürfe an Kita: Erzieherin streitet ab",
+      "url": "https://www.zeit.de/news/2023-06/16/gewaltvorwuerfe-an-kita-erzieherin-streitet-ab"
     },
     {
-      "title": "Brände: Waldstück im Westerwald fängt Feuer: Löscharbeiten dauern an",
-      "url": "https://www.zeit.de/news/2023-06/16/waldstueck-im-westerwald-faengt-feuer-loescharbeiten-dauern-an"
+      "title": "Regierung: Finnland mit neuer Mitte-Rechts-Regierung",
+      "url": "https://www.zeit.de/news/2023-06/16/finnland-mit-neuer-mitte-rechts-regierung"
     },
     {
-      "title": "Verkehr: Marder stoppt Zugverkehr: Verspätungen bei Schwerin",
-      "url": "https://www.zeit.de/news/2023-06/16/marder-stoppt-zugverkehr-verspaetungen-bei-schwerin"
+      "title": "Rastatt: Ermittlungen wegen Corona-Toter in Pflegeheim eingestellt",
+      "url": "https://www.zeit.de/news/2023-06/16/ermittlungen-wegen-corona-toter-in-pflegeheim-eingestellt"
     },
     {
-      "title": "Brienz: Riesige Felsmassen verfehlen nur knapp Schweizer Bergdorf",
-      "url": "https://www.zeit.de/news/2023-06/16/riesige-felsmassen-verfehlen-nur-knapp-schweizer-bergdorf"
+      "title": "Altmarkkreis Salzwedel: Brand in Mülldeponie in Salzwedel",
+      "url": "https://www.zeit.de/news/2023-06/16/brand-in-muelldeponie-in-salzwedel"
     },
     {
-      "title": "Wetter: Sonniges Wochenende mit vereinzelten Gewittern",
-      "url": "https://www.zeit.de/news/2023-06/16/sonniges-wochenende-mit-vereinzelten-gewittern"
+      "title": "Berlin-Marzahn : Alkoholisierte Fahrerin baut Unfall: Beifahrerin verletzt",
+      "url": "https://www.zeit.de/news/2023-06/16/alkoholisierte-fahrerin-baut-unfall-beifahrerin-verletzt"
     }
   ]
 }
