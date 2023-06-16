@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-16T06:14:43",
+  "timestamp": "2023-06-16T07:09:59",
   "url": "https://www.volksstimme.de/deutschland-und-welt",
   "response": {
     "status": 200
@@ -44,6 +44,20 @@
   ],
   "articles": [
     {
+      "title": "Zahl der Firmenpleiten in Deutschland weiter gestiegen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/zahl-der-firmenpleiten-in-deutschland-weiter-gestiegen-3632257",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/d54d2e35-9797-4715-883a-b4a7c883232a.jpeg?rect=0%2C88%2C2048%2C1152&width=100",
+      "image_title": "In den vergangenen Jahren hatten staatliche Hilfen sowie die teilweise ausgesetzten Insolvenzantragspflichten trotz Corona- und Energiekrise die Zahl der Firmenpleiten auf niedrigem Niveau gehalten.",
+      "topic": "Konjunktur"
+    },
+    {
+      "title": "Was Leipzigs Zoo-Tierpfleger Jörg Gräser zu seiner Zukunft sagt",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/zoo-leipzig-joerg-graeser-ueber-seine-tiere-elefant-tiger-und-co-im-mdr-3632242",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/1c143655-990d-4b30-ac86-5f5bef74b121.jpeg?rect=486%2C0%2C1076%2C1076&width=100",
+      "image_title": "Seit Wochen kommt der Zoo Leipzig nicht zur Ruhe - Grund ist die Versetzung von Tierpfleger Jörg Gräser. Der trat nun erstmals seit seiner Versetzung öffentlich auf.&nbsp;",
+      "topic": "Erster Auftritt nach dem großen Knall"
+    },
+    {
       "title": "Was beim nächsten Klimagipfel in Dubai passieren soll",
       "url": "https://www.volksstimme.de/deutschland-und-welt/politik/was-beim-nachsten-klimagipfel-in-dubai-passieren-soll-3632213",
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/49320529-c117-4cfc-9dbe-75a016e4accf.jpeg?rect=0%2C116%2C2048%2C1152&width=100",
@@ -56,13 +70,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/be4b4a1f-c7f9-4b87-b6ef-948d2a943405.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
       "image_title": "Noch immer das passende Kleidungsstück bei stürmischem Wetter: der Regenmantel.",
       "topic": "Bekleidung"
-    },
-    {
-      "title": "Kleiner CDU-Parteitag: Debatte über Umgang mit AfD erwartet",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/kleiner-cdu-parteitag-debatte-uber-umgang-mit-afd-erwartet-3632140",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/910c487a-b2e9-4239-8304-421a0a854e87.jpeg?rect=0%2C128%2C2048%2C1152&width=100",
-      "image_title": "Friedrich Merz, Vorsitzender der CDU/CSU-Bundestagsfraktion.",
-      "topic": "Parteien"
     },
     {
       "title": "Putin lobt Russlands Wirtschaft - doch die Probleme wachsen",
@@ -79,13 +86,6 @@
       "topic": "Gesellschaft"
     },
     {
-      "title": "Krieg gegen die Ukraine: So ist die Lage",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/krieg-gegen-die-ukraine-so-ist-die-lage-3632125",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/ce9b34ab-c2fe-44e7-8e98-9b433aa5fee1.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Ein Mann in Cherson schiebt sein Fahrrad vor einem Gebäude entlang, das durch einen Luftangriff schwer beschädigt wurde.",
-      "topic": "Russische Invasion"
-    },
-    {
       "title": "Südkoreas Militär birgt nordkoreanisches Wrackteil",
       "url": "https://www.volksstimme.de/deutschland-und-welt/politik/sudkoreas-militar-birgt-nordkoreanisches-wrackteil-3632155",
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/8a9cbaaf-a567-46d2-839f-3b101bfdef8d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
@@ -100,6 +100,13 @@
       "topic": "Löhne"
     },
     {
+      "title": "Kleiner CDU-Parteitag: Debatte über Umgang mit AfD erwartet",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/kleiner-cdu-parteitag-debatte-uber-umgang-mit-afd-erwartet-3632140",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/fe85cb0f-f50a-40ea-9f4b-557a6e9f72f9.jpeg?rect=0%2C128%2C2048%2C1152&width=100",
+      "image_title": "Friedrich Merz, Vorsitzender der CDU/CSU-Bundestagsfraktion.",
+      "topic": "Parteien"
+    },
+    {
       "title": "Papst soll Klinik heute verlassen",
       "url": "https://www.volksstimme.de/deutschland-und-welt/politik/papst-soll-klinik-heute-verlassen-3631676",
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/1361c84c-2847-4600-84c9-b3da8d33b1a6.jpeg?rect=0%2C640%2C1367%2C769&width=100",
@@ -107,11 +114,14 @@
       "topic": "Gesundheit"
     },
     {
-      "title": "Letzte Hürde für die Pflegereform im Bundesrat",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/letzte-hurde-fur-die-pflegereform-im-bundesrat-3632123",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/75492001-faaf-48bc-bd69-aefa817b0449.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Eine Pflegefachkraft in Hessen legt in der ambulanten Pflege einen Kompressionsverband an. Pflegebedürftige sollen in Zukunft entlastet werden.",
-      "topic": "Gesundheit"
+      "title": "Zahl der Firmenpleiten in Deutschland weiter gestiegen",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/zahl-der-firmenpleiten-in-deutschland-weiter-gestiegen-3632257",
+      "topic": "Konjunktur"
+    },
+    {
+      "title": "Was Leipzigs Zoo-Tierpfleger Jörg Gräser zu seiner Zukunft sagt",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/zoo-leipzig-joerg-graeser-ueber-seine-tiere-elefant-tiger-und-co-im-mdr-3632242",
+      "topic": "Erster Auftritt nach dem großen Knall"
     },
     {
       "title": "Was beim nächsten Klimagipfel in Dubai passieren soll",
@@ -124,19 +134,16 @@
       "topic": "Bekleidung"
     },
     {
-      "title": "Kleiner CDU-Parteitag: Debatte über Umgang mit AfD erwartet",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/kleiner-cdu-parteitag-debatte-uber-umgang-mit-afd-erwartet-3632140",
-      "topic": "Parteien"
-    },
-    {
       "title": "Putin lobt Russlands Wirtschaft - doch die Probleme wachsen",
       "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/putin-lobt-russlands-wirtschaft-doch-die-probleme-wachsen-3632190",
       "topic": "Konflikte"
     },
     {
-      "title": "Paus will einheitlichen Rahmen für mehr Schutz für Frauen",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/paus-will-einheitlichen-rahmen-fur-mehr-schutz-fur-frauen-3632184",
-      "topic": "Gesellschaft"
+      "title": "Letzte Hürde für die Pflegereform im Bundesrat",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/letzte-hurde-fur-die-pflegereform-im-bundesrat-3632123",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/75492001-faaf-48bc-bd69-aefa817b0449.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Eine Pflegefachkraft in Hessen legt in der ambulanten Pflege einen Kompressionsverband an. Pflegebedürftige sollen in Zukunft entlastet werden.",
+      "topic": "Gesundheit"
     },
     {
       "title": "Protest von Fridays for Future in mehreren Städten",
@@ -202,11 +209,11 @@
       "topic": "Tagung in Berlin"
     },
     {
-      "title": "Wenig Optimismus für Weltklimakonferenz",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/wenig-optimismus-fur-weltklimakonferenz-3631598",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/15/6bb04ebf-f5a9-413f-818a-b5dbdbfbb710.jpeg?rect=0%2C192%2C2048%2C1152&width=100",
-      "image_title": "Delegierte am letzten Tag der UN-Klimakonferenz: Das Treffen hat nach Meinung von Beobachtern kaum Annäherung gebracht.",
-      "topic": "Klimakrise"
+      "title": "Krieg gegen die Ukraine: So ist die Lage",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/krieg-gegen-die-ukraine-so-ist-die-lage-3632125",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/06/16/3b9aa240-fd0e-4c3d-98cd-7af82657ee97.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Mann in Cherson schiebt sein Fahrrad vor einem Gebäude entlang, das durch einen Luftangriff schwer beschädigt wurde.",
+      "topic": "Russische Invasion"
     },
     {
       "title": "Anklage gegen Verdächtigen in US-Geheimdienstskandal erhoben",
@@ -270,13 +277,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/06/15/b91fbc6f-670e-48e7-8409-c23ac47d94b4.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
       "image_title": "Jens Stoltenberg ist noch Nato-Generalsekretär. Sein Vertrag geht allerdings nur bis September 2023. Wer kommt danach?",
       "topic": "Generalsekretär"
-    },
-    {
-      "title": "Wütende Demonstranten greifen Banken im Libanon an",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/wutende-demonstranten-greifen-banken-im-libanon-an-3631612",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/06/15/097fcecd-b0d9-4702-a604-fa1791119ef1.jpeg?rect=0%2C129%2C2048%2C1152&width=100",
-      "image_title": "„Die Banken im Libanon stehlen unser Geld!“: Ein Demonstrant zerschlägt Fensterscheiben der Byblos Bank.",
-      "topic": "Wirtschafts- und Finanzkrise"
     },
     {
       "title": "Lindner: Keine zusätzlichen Zahlungen für EU-Haushalt",
