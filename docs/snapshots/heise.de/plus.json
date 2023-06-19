@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-19T11:10:12",
+  "timestamp": "2023-06-19T12:23:49",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.bb57ac4dad82572c7cbf",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.2d93eabdaf4561ec1fd5",
       "id": null,
       "text": null
     },
@@ -56,6 +56,16 @@
       "teaser": "Das HackRF One – ein Software Defined Radio – wird mit Portapack zu einem portablen Gerät für zum Testen von Funkverbindungen. Wir haben es ausprobiert.",
       "url": "https://www.heise.de/tests/Sicherheit-von-Funkverbindungen-pruefen-Portables-Software-Defined-Radio-im-Test-9188190.html",
       "image_title": ", Tobias Scheible"
+    },
+    {
+      "title": "32-Zoll-Display mit 6K und USB-C-Dock: Dell UltraSharp U3224KBA im Test",
+      "teaser": "Das Monitor gewordene All-you-can-eat-Menü für Besitzer von USB-C-Notebooks: große Fläche, gestochen scharfes Bild, Dock-Funktion mit KVM und viele Anschlüsse.",
+      "url": "https://www.heise.de/tests/32-Zoll-Display-mit-6K-und-USB-C-Dock-Dell-UltraSharp-U3224KBA-im-Test-9189751.html"
+    },
+    {
+      "title": "Smarte Körperanalysewaage: Withings Body Scan im Test",
+      "teaser": "Die Body Scan misst nicht nur Gewicht und Fettanteil besonders präzise, sondern gibt auch Hinweise zur Herz-, Gefäß- und Nervengesundheit des Nutzers.",
+      "url": "https://www.heise.de/tests/Smarte-Koerperanalysewaage-Withings-Body-Scan-im-Test-9189456.html"
     },
     {
       "title": "Fotorucksäcke im Vergleich: Welcher am besten zu Ihren Bedürfnissen passt",
@@ -128,16 +138,6 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-eine-3D-Flagge-in-Blender-erstellen-9185930.html"
     },
     {
-      "title": "SQL-Datenbank mit Git-Schnittstelle: Dolt im Test",
-      "teaser": "Dolt ist eine Versionskontrolle und SQL-Datenbank. Es verhält sich wie MySQL, man kann sie aber mit Git-Befehlen verwalten: fehlertolerant und nachvollziehbar.",
-      "url": "https://www.heise.de/tests/SQL-Datenbank-mit-Git-Schnittstelle-Dolt-im-Test-9188237.html"
-    },
-    {
-      "title": "Softwareentwicklung: Warum Rust für TypeScript-Entwickler interessant ist",
-      "teaser": "Wer in JavaScript und TypeScript programmiert, muss sich nicht um Speichermanagement kümmern. Für Servercode und Serverless-Funktionen ist Rust eine Alternative",
-      "url": "https://www.heise.de/hintergrund/Softwareentwicklung-Warum-Rust-fuer-TypeScript-Entwickler-interessant-ist-9188382.html"
-    },
-    {
       "title": "Giropay: Konkurrenz für PayPal und Kreditkarten",
       "url": "https://www.heise.de/hintergrund/Giropay-Konkurrenz-fuer-PayPal-und-Kreditkarten-7463075.html",
       "image_title": ","
@@ -151,6 +151,16 @@
       "title": "PayPal, Paydirekt, Kwitt: Bezahl-Apps im Vergleich",
       "url": "https://www.heise.de/tests/PayPal-Paydirekt-Kwitt-Drei-Bezahl-Apps-im-Vergleich-7206715.html",
       "image_title": ", Albert Hulm"
+    },
+    {
+      "title": "SQL-Datenbank mit Git-Schnittstelle: Dolt im Test",
+      "teaser": "Dolt ist eine Versionskontrolle und SQL-Datenbank. Es verhält sich wie MySQL, man kann sie aber mit Git-Befehlen verwalten: fehlertolerant und nachvollziehbar.",
+      "url": "https://www.heise.de/tests/SQL-Datenbank-mit-Git-Schnittstelle-Dolt-im-Test-9188237.html"
+    },
+    {
+      "title": "Softwareentwicklung: Warum Rust für TypeScript-Entwickler interessant ist",
+      "teaser": "Wer in JavaScript und TypeScript programmiert, muss sich nicht um Speichermanagement kümmern. Für Servercode und Serverless-Funktionen ist Rust eine Alternative",
+      "url": "https://www.heise.de/hintergrund/Softwareentwicklung-Warum-Rust-fuer-TypeScript-Entwickler-interessant-ist-9188382.html"
     },
     {
       "title": "Who is Who: So arbeiten Sie mit dem Apple Business Connect",
@@ -223,16 +233,6 @@
       "image_title": ","
     },
     {
-      "title": "IaaS-Security: Schwachstellenscanner für Terraform-Skripte im Test",
-      "teaser": "Terraform nutzt man zur Umsetzung von Infrastructure as Code. Für die Jagd auf Schwachstellen in Terraform-Code gibt es Scanner – wir zeigen, was sie leisten.",
-      "url": "https://www.heise.de/tests/IaaS-Security-Schwachstellenscanner-fuer-Terraform-Skripte-im-Test-9184363.html"
-    },
-    {
-      "title": "Foto-Plug-ins für Lightroom und Photoshop: Nik Collection 6 by DxO im Test",
-      "teaser": "Nik Dfine und Viveza kommen mit neu geschriebenem Code; Sharpener und HDR Efex will DxO in Kürze erneuern. Die Suite enthält ein neuartiges Auswahlwerkzeug.",
-      "url": "https://www.heise.de/tests/Foto-Plug-ins-fuer-Lightroom-und-Photoshop-Nik-Colletion-6-by-DxO-im-Test-9184215.html"
-    },
-    {
       "title": "WireGuard-VPN: Wie Sie Fritzboxen und OpenWrt-Router miteinander verbinden",
       "teaser": "AVM rüstet derzeit immer mehr Fritzbox-Modelle mit dem WireGuard-VPN nach. Erstmals kann man so auch OpenWrt komplikationslos mit FritzOS verbinden – so gehts!",
       "url": "https://www.heise.de/ratgeber/WireGuard-VPN-Wie-Sie-Fritzboxen-und-OpenWrt-Router-miteinander-verbinden-7539304.html",
@@ -279,17 +279,16 @@
       "url": "https://www.heise.de/ratgeber/Node-RED-Daten-ueber-Netzwerkprotokolle-abrufen-7521487.html"
     },
     {
+      "title": "32-Zoll-Display mit 6K und USB-C-Dock: Dell UltraSharp U3224KBA im Test",
+      "url": "https://www.heise.de/tests/32-Zoll-Display-mit-6K-und-USB-C-Dock-Dell-UltraSharp-U3224KBA-im-Test-9189751.html"
+    },
+    {
+      "title": "Smarte Körperanalysewaage: Withings Body Scan im Test",
+      "url": "https://www.heise.de/tests/Smarte-Koerperanalysewaage-Withings-Body-Scan-im-Test-9189456.html"
+    },
+    {
       "title": "Wi-Fi 7 im ersten Test: So schnell funkt die nächste WLAN-Generation",
       "url": "https://www.heise.de/hintergrund/Wi-Fi-7-Die-naechste-WLAN-Generation-funkt-extraschnell-9190025.html"
-    },
-    {
-      "title": "Autofarbe per Knopfdruck wechseln: Wie das beim BMW iVision Dee funktioniert",
-      "url": "https://www.heise.de/hintergrund/Autofarbe-per-Knopfdruck-wechseln-Wie-das-bei-BMWs-Konzeptauto-funktioniert-9188704.html",
-      "image_title": ", BMW Group"
-    },
-    {
-      "title": "PC-Mainboard im Test: Asrock N100M mit lüfterlos gekühltem Intel-Vierkerner",
-      "url": "https://www.heise.de/tests/PC-Mainboard-im-Test-Asrock-N100M-mit-luefterlos-gekuehltem-Intel-Vierkerner-9184627.html"
     },
     {
       "title": "Hohe Leistung für ProfisApple Mac Studio mit M2 Max und M2 Ultra im Test​",
