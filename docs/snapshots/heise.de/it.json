@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-19T12:23:31",
+  "timestamp": "2023-06-19T13:15:13",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,17 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.834a6966524362bb8e9c",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.5bdc7746eaa8420a4496",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Microsoft Teams: Probleme bei geteilten Dateien",
+      "teaser": "Bei Microsofts Kommunikations-Tool Teams hakt es momentan. Insbesondere Dateien aus der Cloud lassen sich derzeit nicht abrufen.",
+      "url": "https://www.heise.de/news/Microsoft-Teams-Probleme-bei-geteilten-Dateien-9191278.html"
+    },
     {
       "title": "Squarespace kauft Googles Domain-Registrar",
       "teaser": "Normalerweise kauft Google gerne selbst Start-ups ein. Doch jetzt stößt das Unternehmen seinen im Jahr 2014 gestarteten Domain-Registrar ab.",
@@ -37,20 +42,26 @@
       "image_title": "Bestückung von Die Carriern mit einzelnen Siliziumchips (Chip-Packaging/Assembly)"
     },
     {
-      "title": "Blackout: Konflikt zwischen Reddit und Mods geht weiter",
-      "teaser": "Eigentlich wollten die Verantwortlichen für die Subreddits nur bis Mittwoch protestieren, viele machen aber einfach weiter. Der Protest hat messbare Folgen.",
-      "url": "https://www.heise.de/news/Reddit-Blackout-dauert-an-30-Prozent-weniger-Aktivitaet-Werbebranche-wartet-ab-9189048.html",
-      "image_title": "Reddit-Logo auf Smartphone"
+      "title": "Monoflops, Kippstufen und Multivibratoren: Grundlagenwissen zur Computertechnik",
+      "teaser": "Transistor-Kippstufen können mehr als nur Blinkschaltungen. Ein paar Bauteile für wenige Cent genügen für Zeitschalter, Frequenzteiler oder Impulsformer.",
+      "url": "https://www.heise.de/ratgeber/Monoflops-Kippstufen-und-Multivibratoren-Grundlagenwissen-zur-Computertechnik-9188898.html"
     },
     {
-      "title": "32-Zoll-Display mit 6K und USB-C-Dock: Dell UltraSharp U3224KBA im Test",
-      "teaser": "Das Monitor gewordene All-you-can-eat-Menü für Besitzer von USB-C-Notebooks: große Fläche, gestochen scharfes Bild, Dock-Funktion mit KVM und viele Anschlüsse.",
-      "url": "https://www.heise.de/tests/32-Zoll-Display-mit-6K-und-USB-C-Dock-Dell-UltraSharp-U3224KBA-im-Test-9189751.html"
+      "title": "Wie Sie mit Terraform und Proxmox Testumgebungen erzeugen",
+      "teaser": "Wer mit den großen Cloudanbietern arbeitet, nutzt etwa Terraform, um Workflows zu automatisieren. Es hilft auch im Proxmox-Homelab, Testumgebungen zu schaffen.",
+      "url": "https://www.heise.de/ratgeber/Wie-Sie-mit-Terraform-und-Proxmox-Testumgebungen-erzeugen-9184458.html",
+      "image_title": ", KI Stable Diffusion Bearbeitung c't"
     },
     {
-      "title": "Smarte Körperanalysewaage: Withings Body Scan im Test",
-      "teaser": "Die Body Scan misst nicht nur Gewicht und Fettanteil besonders präzise, sondern gibt auch Hinweise zur Herz-, Gefäß- und Nervengesundheit des Nutzers.",
-      "url": "https://www.heise.de/tests/Smarte-Koerperanalysewaage-Withings-Body-Scan-im-Test-9189456.html"
+      "title": "Kommunale IT-Dienstleister: Verwaltungscloud muss Open Source sein",
+      "teaser": "Angesichts der Bedeutung souveräner Basissysteme für staatliche Digitalisierungsprojekte muss laut Vitako die Abhängigkeit von Hyperscalern reduziert werden.",
+      "url": "https://www.heise.de/news/Kommunale-IT-Dienstleister-Verwaltungscloud-muss-Open-Source-sein-9191841.html"
+    },
+    {
+      "title": "Magdeburger Fab: Intel und Bundesregierung einigen sich auf erhöhte Förderung",
+      "teaser": "Intel und die Bundesregierung haben ihr Abkommen zum Bau eines Halbleiterwerks finalisiert. Angeblich beträgt die Fördersumme fast 10 Milliarden Euro.",
+      "url": "https://www.heise.de/news/Magdeburger-Fab-Intel-soll-9-9-Milliarden-Euro-bekommen-9191798.html",
+      "image_title": "3D-Simulation der geplanten Chipfabrik von Intel in Magdeburg"
     },
     {
       "title": "Apple Watch: Warum externe Zifferblätter wohl ein Wunschtraum bleiben",
@@ -63,6 +74,16 @@
       "teaser": "Die Online-Konferenz findet am 28. November zum dritten Mal statt. Sie soll Führungskräfte dabei unterstützen, selbstorganisierte Teams zu führen.",
       "url": "https://www.heise.de/news/Agile-Leadership-Conference-So-lassen-sich-agile-Teams-besser-fuehren-9191288.html",
       "image_title": "Agile Leadership Conference 2022"
+    },
+    {
+      "title": "32-Zoll-Display mit 6K und USB-C-Dock: Dell UltraSharp U3224KBA im Test",
+      "teaser": "Das Monitor gewordene All-you-can-eat-Menü für Besitzer von USB-C-Notebooks: große Fläche, gestochen scharfes Bild, Dock-Funktion mit KVM und viele Anschlüsse.",
+      "url": "https://www.heise.de/tests/32-Zoll-Display-mit-6K-und-USB-C-Dock-Dell-UltraSharp-U3224KBA-im-Test-9189751.html"
+    },
+    {
+      "title": "Smarte Körperanalysewaage: Withings Body Scan im Test",
+      "teaser": "Die Body Scan misst nicht nur Gewicht und Fettanteil besonders präzise, sondern gibt auch Hinweise zur Herz-, Gefäß- und Nervengesundheit des Nutzers.",
+      "url": "https://www.heise.de/tests/Smarte-Koerperanalysewaage-Withings-Body-Scan-im-Test-9189456.html"
     },
     {
       "title": "Rheinische Post Mediengruppe: Noch immer Notbetrieb nach Cyber-Angriff",
@@ -114,27 +135,6 @@
       "teaser": "Viele NVMe-SSDs mit einer Kapazität von 2 TByte sind im Juni günstiger geworden. Mehrere Modelle kosten keine 80 Euro mehr.",
       "url": "https://www.heise.de/news/SSDs-2-TByte-fallen-unter-80-Euro-9191403.html",
       "image_title": "SSDs als M.2-Kärtchen"
-    },
-    {
-      "title": "Die Produktwerker: Mit EventStorming Verständnis für komplexe Produkte schaffen",
-      "teaser": "EventStorming schafft in einem Workshop ein gemeinsames Verständnis für eine komplexe fachlich-technische Domäne – Wissen wird explizit, erklärt diese Folge.",
-      "url": "https://www.heise.de/blog/Die-Produktwerker-Mit-EventStorming-Verstaendnis-fuer-komplexe-Produkte-schaffen-9191395.html"
-    },
-    {
-      "title": "Gegen Spyware: Blockierungsmodus kommt auf die Apple Watch",
-      "teaser": "Wer auf seinem iPhone den \"Lockdown Mode\" aktiviert, schützt damit künftig auch eine gekoppelte Apple Watch. Der Modus ist mit watchOS 10 und iOS 17 verfügbar.",
-      "url": "https://www.heise.de/news/Gegen-Spyware-Blockierungsmodus-kommt-auf-die-Apple-Watch-9191349.html",
-      "image_title": "Aktivierung des Lockdown-Modus auf iPhone und Apple Watch"
-    },
-    {
-      "title": "Last Call zur betterCode() ArchDoc: So geht Softwarearchitekturdokumentation",
-      "teaser": "Die Onlinekonferenz betterCode() ArchDoc am 26. Juni hilft Softwarearchitekten, stressfreier in Wort und Bild zu dokumentieren. Jetzt noch anmelden.",
-      "url": "https://www.heise.de/news/Last-Call-zur-betterCode-ArchDoc-So-geht-Softwarearchitekturdokumentation-9191260.html"
-    },
-    {
-      "title": "Reddit-Hack: ALPHV-Gang droht mit Datenleak",
-      "teaser": "Angreifer konnten auf Systeme von Reddit zugreifen und Daten einsehen. Accounts und Passwörter von Nutzern solle nicht betroffen sein.",
-      "url": "https://www.heise.de/news/Reddit-Hack-ALPHV-Gang-droht-mit-Datenleak-9191297.html"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
