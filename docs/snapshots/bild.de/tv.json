@@ -1,19 +1,67 @@
 {
-  "timestamp": "2023-06-20T21:09:41",
+  "timestamp": "2023-06-20T22:10:39",
   "url": "https://www.bild.de/unterhaltung/tv/tv/tv-15479870.bild.html",
   "response": {
-    "status": 503
+    "status": 200
   },
   "scripts": [
     {
       "type": null,
-      "src": "https://www.bild.de/code/core-js,27210750.bild.js",
+      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
     {
       "type": null,
-      "src": "https://www.bild.de/code/code/webtrekk-js,15400926.bild.js",
+      "src": "https://www.asadcdn.com/adlib/pages/bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://tags.tiqcdn.com/utag/axelspringer/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.1fc745ba.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.6ff907ad.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.a583bc31.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/vendors/app.7e5621c6.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.884d43c0.js",
       "id": null,
       "text": null
     }
