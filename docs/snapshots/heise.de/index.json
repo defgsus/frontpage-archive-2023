@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-21T05:11:22",
+  "timestamp": "2023-06-21T06:14:22",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,9 +32,9 @@
   ],
   "articles": [
     {
-      "title": "DigitaltechnologieDeutschland fällt bei Patentanmeldungen zurück",
-      "teaser": "In der Digitaltechnologie dominieren seit Jahrzehnten US-Erfindungen, China schließt auf, der deutsche Rückstand wird größer, zeigt eine DPMA-Auswertung.",
-      "url": "https://www.heise.de/news/Patentanmeldungen-Deutschland-faellt-in-Digitaltechnologie-zurueck-9193228.html"
+      "title": "UpdateSecurityBSI warnt vor KeePassXC-Schwachstellen",
+      "teaser": "Das BSI warnt vor Schwachstellen im Passwort-Manager KeePassXC. Angreifer können Dateien oder das Master-Passwort ohne Authentifzierungsrückfrage manipulieren.",
+      "url": "https://www.heise.de/news/BSI-warnt-vor-KeePassXC-Schwachstellen-9192374.html"
     },
     {
       "title": "Solaranlage für ZuhausePhotovoltaik mit Nulleinspeisung: Was das ist und warum man sie einsetzt",
@@ -42,9 +42,10 @@
       "url": "https://www.heise.de/hintergrund/Photovoltaik-mit-Nulleinspeisung-Was-das-ist-und-warum-man-sie-einsetzt-9186411.html"
     },
     {
-      "title": "UpdateSecurityBSI warnt vor KeePassXC-Schwachstellen",
-      "teaser": "Das BSI warnt vor Schwachstellen im Passwort-Manager KeePassXC. Angreifer können Dateien oder das Master-Passwort ohne Authentifzierungsrückfrage manipulieren.",
-      "url": "https://www.heise.de/news/BSI-warnt-vor-KeePassXC-Schwachstellen-9192374.html"
+      "title": "Elektroauto als SpeicherBidirektionales Laden nimmt Fahrt auf",
+      "teaser": "Renault und VW zeigen unterschiedliche Konzepte von V2G: Renault nimmt AC, VW setzt auf DC, was effizienter, aber auch erheblich teurer ist.",
+      "url": "https://www.heise.de/hintergrund/Bidirektionales-Laden-von-Elektroautos-Ein-Geben-und-Nehmen-9192529.html",
+      "image_title": "Hyundai Ioniq 5"
     },
     {
       "title": "Privatsphäre Gegen Tracking: Apple löscht künftig Parameter aus URLs",
@@ -103,16 +104,15 @@
       "image_title": "Tunnel Falls"
     },
     {
+      "title": "Motorradkette schmierenÖlen statt fetten",
+      "teaser": "Die EU-Behörden denken über ein Verbot von PFAS nach. Die Experimente mit reinem PTFE als Schmiermittel waren eh nur so mittel. Wie funktioniert einfach ölen?",
+      "url": "https://www.heise.de/ratgeber/Motorradkette-oelen-statt-fetten-9191913.html"
+    },
+    {
       "title": "Reform des StraßenverkehrsgesetzesTempo 30 sollen Kommunen leichter einführen können",
       "teaser": "Der Bund will den Kommunen mehr Freiheiten bei der Verkehrsplanung geben. So können beispielsweise Tempo-30-Zonen leichter ausgewiesen werden.",
       "url": "https://www.heise.de/news/Wissing-Kein-flaechendeckendes-Tempo-30-9193041.html",
       "image_title": "Tempo 30 Aufhebung"
-    },
-    {
-      "title": "EU-GesundheistsdatenraumErster Blick ins geplante Gesundheitsdatennutzungsgesetz",
-      "teaser": "Ursprünglich wollte die Bundesregierung die europäische Regelung zum Europäischen Gesundheitsdatenraum abwarten, jetzt liegt ein Referentenentwurf vor.",
-      "url": "https://www.heise.de/news/Gesundheitsdatennutzungsgesetz-Bereits-erster-Blick-in-den-Entwurf-9192958.html",
-      "image_title": "Auf einem Tisch stehen Wassergläser, dahinter ein Laptop; er zeigt das Schema eines Menschen, eine Doppehelix und andere Medizin-verwandte Symbole"
     },
     {
       "title": "Deutsch-französischer FreundschaftspassDurch Lücke ans kostenlose Bahnticket",
@@ -132,6 +132,33 @@
       "url": "https://www.heise.de/tests/Apple-MacBook-Air-15-M2-im-Test-Flaechenzuwachs-9184880.html"
     },
     {
+      "title": "Spiele-KI von DeepMind lernt schnelles Programmieren",
+      "teaser": "Die Google-Tochter hat laut eigenen Angaben zum wiederholten Mal einen KI-Meilenstein genommen: Das AlphaDev-System baut bessere Sortieralgorithmen.",
+      "url": "https://www.heise.de/hintergrund/Spiele-KI-von-DeepMind-lernt-schnelles-Programmieren-9188294.html",
+      "image_title": "Künstliche Intelligenz"
+    },
+    {
+      "title": "Cybersecurity in der Industrie 4.0 – Das Webinar der heise Academy",
+      "teaser": "Lernen Sie in einem Webinar alles Wichtige über Cybersicherheit in der Industrie 4.0 – von Grundlagen über den Faktor Mensch bis zum Ausblick auf Industrie 5.0.",
+      "url": "https://www.heise.de/news/Cybersecurity-in-der-Industrie-4-0-Das-Webinar-der-heise-Academy-8991010.html"
+    },
+    {
+      "title": "E-Bikes, neue Antriebe und Fahrradabos auf der Messe Eurobike",
+      "teaser": "Auf der Fachmesse Eurobike gibt sich von heute bis Sonntag die Fahrradbranche die Ehre und zeigt ihre Neuheiten.",
+      "url": "https://www.heise.de/news/E-Bikes-neue-Antriebe-und-Fahrradabos-auf-der-Messe-Eurobike-9193286.html"
+    },
+    {
+      "title": "Softwareentwicklung: Warum Rust für TypeScript-Entwickler interessant ist",
+      "teaser": "Wer in JavaScript und TypeScript programmiert, muss sich nicht um Speichermanagement kümmern. Für Servercode und Serverless-Funktionen ist Rust eine Alternative",
+      "url": "https://www.heise.de/hintergrund/Softwareentwicklung-Warum-Rust-fuer-TypeScript-Entwickler-interessant-ist-9188382.html"
+    },
+    {
+      "title": "Elektroauto als Speicher: Bidirektionales Laden nimmt Fahrt auf",
+      "teaser": "Renault und VW zeigen unterschiedliche Konzepte von V2G: Renault nimmt AC, VW setzt auf DC, was effizienter, aber auch erheblich teurer ist.",
+      "url": "https://www.heise.de/hintergrund/Bidirektionales-Laden-von-Elektroautos-Ein-Geben-und-Nehmen-9192529.html",
+      "image_title": "Hyundai Ioniq 5"
+    },
+    {
       "title": "Weekly: Quantencomputing, Elektrofähre und der Science-Fiction-Roman \"Pollen\"",
       "teaser": "Intel und IBM preschen in Sachen Quantencomputer vor. Was hinter den Erfolgsmeldungen steckt, bespricht die Redaktion von MIT Technology Review im Podcast.",
       "url": "https://www.heise.de/hintergrund/Weekly-Quantencomputing-Elektrofaehre-und-der-Science-Fiction-Roman-Pollen-9192939.html"
@@ -146,6 +173,28 @@
       "teaser": "Amazon-Lagerhäuser \"gefährlich\" + Entwurf vom Gesundheitsdatengesetz + Vorwürfe an Gentest-Firma + Lücke beim Freundschaftspass + Schwachstelle in KeePassXC",
       "url": "https://www.heise.de/news/Mittwoch-Kritik-an-Amazons-Arbeitsbedingungen-Blick-in-Gesundheitsdatengesetz-9193224.html",
       "image_title": "Mann hält symbolischen Bildschirm im Lagerhaus; Mittwoch: Amazon-Lager, Gesundheitsdaten, Gentest-Datenschutz, Ticket-Lücke & KeePassXC-Schwachstelle"
+    },
+    {
+      "title": "Mit dem Smartphone im Ausland: Roaming ohne Kostenfallen",
+      "teaser": "eSIMs fürs Urlaubsland können Sie schon zu Hause bestellen, ein VPN-Tunnel sorgt für mehr Sicherheit und per VoIP können Sie überall telefonieren wie zu Hause.",
+      "url": "https://www.heise.de/ratgeber/Mit-dem-Smartphone-im-Ausland-Roaming-ohne-Kostenfallen-9154380.html",
+      "image_title": ","
+    },
+    {
+      "title": "Arbeit der ZukunftWie KI den Arbeitsmarkt verändern wird: Neue Jobs, bedrohte Jobs",
+      "teaser": "Generative KI erobert fast jeden Winkel der Arbeitswelt. Und plötzlich fragen sich Programmierer, Kreative und Akademiker, wie lange ihr Job noch sicher ist.",
+      "url": "https://www.heise.de/ratgeber/Wie-KI-den-Arbeitsmarkt-veraendern-wird-Neue-Jobs-bedrohte-Jobs-9180825.html",
+      "image_title": ", KI Midjourney Bearbeitung heise+"
+    },
+    {
+      "title": "ElektromobilitätElektroauto BMW i4 eDrive35 im Test: Würde ich nehmen",
+      "teaser": "\"Warum gefällt dir der i4 so gut?\" Weil BMW eine alte Tugend an den Start bringt: Ein Auto, das in der Kopfrechnung besteht und trotzdem im Herzen hängt.",
+      "url": "https://www.heise.de/tests/Wuerde-ich-nehmen-Test-BMW-i4-eDrive35-9178992.html"
+    },
+    {
+      "title": "heise+ Jahresabo",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Übertakten – nützlich oder gefährlich?",
@@ -175,28 +224,6 @@
       "teaser": "Einseitig Datenschutzregeln zu ändern, ist laut FTC illegal. Dem DNS-Tester 1Health.io kreidet die FTC noch ganz andere Dinge an. Die Firma wähnt sich verfolgt.",
       "url": "https://www.heise.de/news/Datenschutz-Vorwuerfe-an-Gentest-Firma-in-den-USA-9193178.html",
       "image_title": "DNA-Marker auf von unten beleuchteter Folie; eine Hand zeigt mit einem Bleistift auf eine Markierung"
-    },
-    {
-      "title": "Mit dem Smartphone im Ausland: Roaming ohne Kostenfallen",
-      "teaser": "eSIMs fürs Urlaubsland können Sie schon zu Hause bestellen, ein VPN-Tunnel sorgt für mehr Sicherheit und per VoIP können Sie überall telefonieren wie zu Hause.",
-      "url": "https://www.heise.de/ratgeber/Mit-dem-Smartphone-im-Ausland-Roaming-ohne-Kostenfallen-9154380.html",
-      "image_title": ","
-    },
-    {
-      "title": "Arbeit der ZukunftWie KI den Arbeitsmarkt verändern wird: Neue Jobs, bedrohte Jobs",
-      "teaser": "Generative KI erobert fast jeden Winkel der Arbeitswelt. Und plötzlich fragen sich Programmierer, Kreative und Akademiker, wie lange ihr Job noch sicher ist.",
-      "url": "https://www.heise.de/ratgeber/Wie-KI-den-Arbeitsmarkt-veraendern-wird-Neue-Jobs-bedrohte-Jobs-9180825.html",
-      "image_title": ", KI Midjourney Bearbeitung heise+"
-    },
-    {
-      "title": "ElektromobilitätElektroauto BMW i4 eDrive35 im Test: Würde ich nehmen",
-      "teaser": "\"Warum gefällt dir der i4 so gut?\" Weil BMW eine alte Tugend an den Start bringt: Ein Auto, das in der Kopfrechnung besteht und trotzdem im Herzen hängt.",
-      "url": "https://www.heise.de/tests/Wuerde-ich-nehmen-Test-BMW-i4-eDrive35-9178992.html"
-    },
-    {
-      "title": "heise+ Jahresabo",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Top 10: Sportkopfhörer im TechStage-Test – sicherer Halt fürs Fitness-Training",
@@ -242,6 +269,11 @@
       "url": "https://www.heise.de/hintergrund/Videoworkshop-Perspektive-die-richtige-Bildkomposition-fuer-spannende-Stadtfotos-9189822.html"
     },
     {
+      "title": "Cloud-native Security: Wie Sie Gefahren entschärfen",
+      "teaser": "Bei der Entwicklung von Cloud- und Container-Anwendungen können Sicherheitslücken entstehen. Welche Gefahren lauern und wie Sie diese entschärfen, erfahren Sie im Webcast am 13. Juli um 11 Uhr.",
+      "url": "https://business-services.heise.de/security/security-loesungen/beitrag/cloud-native-security-wie-sie-gefahren-entschaerfen-4539/?source=HBSadersatz"
+    },
+    {
       "title": "Kurz informiert:Fake-Shops, Phishing-Kampagne, Vergeudete Arbeitszeit, Microsoft",
       "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
       "url": "https://www.heise.de/news/Kurz-informiert-Fake-Shops-Phishing-Kampagne-Vergeudete-Arbeitszeit-Microsoft-9192632.html"
@@ -269,11 +301,6 @@
       "url": "https://www.heise.de/news/Spotify-Abo-mit-verlustfreier-Musik-soll-noch-dieses-Jahr-kommen-9192865.html"
     },
     {
-      "title": "Kostenoptimierung – der Schlüssel für Resilienz",
-      "teaser": "In wirtschaftlich schwierigen Zeiten sehen sich viele Unternehmen mit gravierenden Unwägbarkeiten und finanziellen Problemen konfrontiert. Cloud-Hosting-Modelle können dabei helfen, die betriebliche Resilienz zu stabilisieren und zu erhöhen.",
-      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/resilienz/beitrag/kostenoptimierung-der-schluessel-fuer-resilienz-4534/?source=hbsad-ersatz"
-    },
-    {
       "title": "Donnerstag nächste Woche: heise Security Tour online",
       "teaser": "Zero Trust, KI, NIS2 und mehr. Die Eintages-Konferenz hilft Security-Verantwortlichen, ihre IT sicher zu halten – praxisorientiert und Hersteller-unabhängig.",
       "url": "https://www.heise.de/news/Donnerstag-naechste-Woche-heise-Security-Tour-online-9191814.html",
@@ -298,31 +325,6 @@
       "title": "Bild-Zeitung: KI soll das Layout machen",
       "teaser": "Künstliche Intelligenz soll Aufgaben in der \"Bild\"-Redaktion übernehmen. Das gelte aber nicht für die journalistische Arbeit, heißt es aus dem Verlag.",
       "url": "https://www.heise.de/news/KI-Bild-Zeitung-setzt-auf-Kuenstliche-Intelligenz-9192608.html"
-    },
-    {
-      "title": "BSI stellt Tool für TLS-Konformitätstests zu Kryptografie-Vorgaben bereit",
-      "teaser": "Projekte der Bundesregierung müssen kryptographische Vorgaben des BSI erfüllen. Für einen Teil der Richtlinien veröffentlicht das BSI ein Konformitätstest-Tool.",
-      "url": "https://www.heise.de/news/BSI-stellt-Tool-fuer-TLS-Konformitaetstests-zu-Kryptografie-Vorgaben-bereit-9192733.html"
-    },
-    {
-      "title": "AlertSicherheitsupdate: Angreifer können Traffic von Huawei-WLAN-Router hijacken",
-      "teaser": "Huawei hat einen wichtigen Sicherheitspatch für seinen WLAN-Router B535-232a veröffentlicht.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Traffic-von-Huawei-WLAN-Router-hijacken-9192768.html"
-    },
-    {
-      "title": "Kopfgeld auf Mitglieder der Cybergang Cl0p ausgelobt",
-      "teaser": "Das US-Außenministerium hat ein Kopfgeld auf Mitglieder der Cybgergang Cl0p ausgesetzt. Wer Hinweise liefert, kann bis zu 10 Millionen US-Dollar erhalten.",
-      "url": "https://www.heise.de/news/US-Aussenministerium-setzt-Kopfgeld-auf-Cl0p-Cybergangster-aus-9192680.html"
-    },
-    {
-      "title": "Zahlen, bitte! 6 Einheiten und ein Denker – Blaise Pascal",
-      "teaser": "Blaise Pascal hat in seinen wenigen Lebensjahren als Mathematiker und Physiker Meilensteine gesetzt. Nach ihm wurden nicht weniger als sechs Einheiten benannt.",
-      "url": "https://www.heise.de/hintergrund/Zahlen-bitte-6-Einheiten-und-ein-Denker-Blaise-Pascal-9192425.html"
-    },
-    {
-      "title": "Monitor für Fotografen: Test des Huawei MateView mit 3:2-Format",
-      "teaser": "Der Monitor Huawei MateView bietet ein 3:2-Verhältnis, was den Aufnahmen vieler Systemkameras entspricht. Wir prüfen, ob er sich für Fotografen eignet.",
-      "url": "https://www.heise.de/tests/Ein-Bildschirm-der-zur-Kamera-passt-Kurztest-des-Huawei-MateView-im-3-2-Format-9190718.html"
     },
     {
       "title": "Problem nicht nur für Astronomie: Warnung vor zunehmender Lichtverschmutzung",
@@ -569,9 +571,9 @@
       "url": "https://www.heise.de/news/Maker-Schaltplantool-Fritzing-in-der-Version-1-0-0-9191960.html"
     },
     {
-      "title": "3D-Druck-Spezialist 3DGPT beantwortet Fachfragen mit Künstlicher Intelligenz",
-      "teaser": "Fragen zum Thema 3D-Druck beantwortet 3DGPT mithilfe von speziell geschulter Künstlicher Intelligenz.",
-      "url": "https://www.heise.de/news/3D-Druck-Spezialist-3D-GPT-beantwortet-Fachfragen-mit-Kuenstlicher-Intelligenz-9191158.html"
+      "title": "Monoflops, Kippstufen und Multivibratoren: Grundlagenwissen zur Computertechnik",
+      "teaser": "Transistor-Kippstufen können mehr als nur Blinkschaltungen. Ein paar Bauteile für wenige Cent genügen für Zeitschalter, Frequenzteiler oder Impulsformer.",
+      "url": "https://www.heise.de/ratgeber/Monoflops-Kippstufen-und-Multivibratoren-Grundlagenwissen-zur-Computertechnik-9188898.html"
     },
     {
       "title": "Fotorucksäcke im Vergleich: Welcher am besten zu Ihren Bedürfnissen passt",
@@ -699,25 +701,25 @@
       "url": "https://www.techstage.de/bestenliste/top-5-die-besten-elektrischen-luftpumpen-mit-akku-fuer-fahrrad-und-auto/jfyzm3n?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Ukraine: Der Traum vom schnellen Nato-Beitritt ist ausgeträumt",
-      "teaser": "Schnellen Beitritt der Ukraine zur Nato soll es nicht geben. Bündnis könnte Sicherheit des Landes dennoch sichern. Wie, und warum der Nord-Stream-Anschlag ein Problem sein könnte.",
-      "url": "https://www.heise.de/tp/features/Ukraine-Der-Traum-vom-schnellen-Nato-Beitritt-ist-ausgetraeumt-9191050.html",
-      "image_title": "Ukraine wird nicht in Nato aufgenommen."
+      "title": "Was russische Atomwaffen in Belarus mit dem rheinland-pfälzischen Büchel zu tun haben",
+      "teaser": "Gut 10.000 Nato-Soldaten üben derzeit in Deutschland die Mobilmachung gegen einen Feind aus dem Osten. Das Manöver ist weniger fiktiv als dargestellt. Das hat auch verpassten Chancen zu tun. Ein Gastkommentar.",
+      "url": "https://www.heise.de/tp/features/Was-russische-Atomwaffen-in-Belarus-mit-dem-rheinland-pfaelzischen-Buechel-zu-tun-haben-9192164.html"
     },
     {
-      "title": "Können Plastik, Stahl, Zement allein mit Wasserstoff klimaneutral werden?",
-      "teaser": "Die Industrie ist der zweitgrößter Treibhausgas-Emittent in Deutschland. Vor allem Chemie-, Zement- und Stahlproduktion stellen Herausforderungen dar. Warum es schnelle Lösungen braucht und gibt.",
-      "url": "https://www.heise.de/tp/features/Koennen-Plastik-Stahl-Zement-allein-mit-Wasserstoff-klimaneutral-werden-9192104.html"
+      "title": "Rammstein und Till Lindemann: Die Stunde der Trittbrettfahrer",
+      "teaser": "Vorwürfe gegen Band und Frontmann harren Aufklärung. Medien und Politiker preschen vor. Wie die Debatte im Backstage beginnt und beim Holocaust endet. Ein Telepolis-Leitartikel.",
+      "url": "https://www.heise.de/tp/features/Rammstein-und-Till-Lindemann-Die-Stunde-der-Trittbrettfahrer-9193061.html"
     },
     {
-      "title": "Religiöse US-Rechte: Warum sie die Erfolgschancen der Republikaner schmälert",
-      "teaser": "Pechstein und Spahn: In Deutschland stecken die Konservativen durch die AfD in einer Krise. In den USA spitzt sich der Kulturkampf zu. Was das für den Wahlkampf dort bedeutet.",
-      "url": "https://www.heise.de/tp/features/Religioese-US-Rechte-Warum-sie-die-Erfolgschancen-der-Republikaner-schmaelert-9192484.html"
+      "title": "Mehr Importe aus China – Deutschlands Abhängigkeit teilweise dramatisch",
+      "teaser": "Von wegen Abkopplung der deutschen Wirtschaft von China. Neue Studie zeigt: In zahlreichen Bereichen wachsen Einfuhren deutlich. Wie damit umgehen?",
+      "url": "https://www.heise.de/tp/features/Mehr-Importe-aus-China-Deutschlands-Abhaengigkeit-teilweise-dramatisch-9193204.html",
+      "image_title": "Importe aus China nehmen zu."
     },
     {
-      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
-      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
-      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
+      "title": "Handwerkersoftware im Vergleich",
+      "teaser": "Rechnungen, Auftragskalkulationen, Angebotserstellung: Mit passender Software lassen sich im Handwerk Prozesse optimieren und Aufgaben vereinfachen.",
+      "url": "https://www.heise.de/download/specials/Handwerkersoftware-im-Vergleich-7206873"
     },
     {
       "title": "ChatGPT",
