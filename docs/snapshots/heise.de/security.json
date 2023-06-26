@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-26T06:18:03",
+  "timestamp": "2023-06-26T07:12:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "FortiNAC",
+      "url": "https://www.heise.de/news/Update-schliesst-kritische-Sicherheitsluecke-in-FortiNAC-9197438.html"
+    },
+    {
       "title": "Cisco AnyConnect & Secure Client",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Exploit-Code-fuer-Cisco-AnyConnect-und-Secure-Client-9195908.html"
     },
@@ -44,13 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Netzwerkbetriebssystem-Junos-OS-fuer-DoS-Attacken-anfaellig-9194570.html"
     },
     {
-      "title": "Apple iOS",
-      "url": "https://www.heise.de/news/iOS-16-5-1-Co-Apple-beseitigt-Zero-Day-Luecken-in-allen-Systemen-9194404.html"
+      "title": "Oberster Schweizer Datenschützer untersucht Verstöße bei Polizei und Zoll",
+      "teaser": "Der oberste Schweizer Datenschützer untersucht potenzielle Datenschutzverstöße bei den Bundesämtern für Polizei sowie für Zoll und Grenzschutz.",
+      "url": "https://www.heise.de/news/Oberster-Schweizer-Datenschuetzer-untersucht-Verstoesse-bei-Polizei-und-Zoll-9197476.html"
     },
     {
-      "title": "eHealth-Datenleck: Barmer-Kundendaten bei externem Dienstleister erbeutet",
-      "teaser": "Ein IT-Dienstleister der Krankenkasse Barmer muss ein Sicherheitsleck eingestehen. Kundendaten aus dem Bonusprogramm sind dadurch in unbefugte Hände gelangt.",
-      "url": "https://www.heise.de/news/Krankenkassen-Leak-Barmer-Dienstleister-muss-Datenleck-eingestehen-9197199.html"
+      "title": "FortiNAC: Kritische Sicherheitslücke erlaubt Codeschmuggel, Update vergfügbar",
+      "teaser": "Fortinet stellt Softwareupdates bereit, die unter anderem eine kritische Sicherheitslücke in FortiNAC schließen. Angreifer können Schadcode einschleusen.",
+      "url": "https://www.heise.de/news/Update-schliesst-kritische-Sicherheitsluecke-in-FortiNAC-9197438.html"
     },
     {
       "title": "Security: RepoJacking auf GitHub betrifft auch große Firmen wie Google",
@@ -67,6 +72,11 @@
       "title": "Sicherheitslücke: Exploit-Code für Cisco AnyConnect und Secure Client",
       "teaser": "Für eine Schwachstelle in Cisco AnyConnect und Secure Client hat der Entdecker jetzt Exploit-Code veröffentlicht. Es wird Zeit, die Software zu aktualisieren.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Exploit-Code-fuer-Cisco-AnyConnect-und-Secure-Client-9195908.html"
+    },
+    {
+      "title": "Drei Jahre heise Security Pro – eine Zwischenbilanz von Jürgen Schmidt​",
+      "teaser": "Seit 2020 bietet das Pro-Angebot von heise Security neben Hintergrundinformationen auch Networking und Austausch für Datenschutz- und Sicherheitsverantwortliche",
+      "url": "https://www.heise.de/hintergrund/Drei-Jahre-heise-Security-Pro-eine-Zwischenbilanz-von-Juergen-Schmidt-9193945.html"
     },
     {
       "title": "Microsoft: Anzeigeproblem nach Windows-Update kann zu hoher CPU-Last führen",
@@ -141,16 +151,6 @@
       "title": "BSI stellt Tool für TLS-Konformitätstests zu Kryptografie-Vorgaben bereit",
       "teaser": "Projekte der Bundesregierung müssen kryptografische Vorgaben des BSI erfüllen. Für einen Teil der Richtlinien veröffentlicht das BSI ein Konformitätstest-Tool.",
       "url": "https://www.heise.de/news/BSI-stellt-Tool-fuer-TLS-Konformitaetstests-zu-Kryptografie-Vorgaben-bereit-9192733.html"
-    },
-    {
-      "title": "Sicherheitsupdate: Angreifer können Traffic von Huawei-WLAN-Router hijacken",
-      "teaser": "Huawei hat einen wichtigen Sicherheitspatch für seinen WLAN-Router B535-232a veröffentlicht.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Traffic-von-Huawei-WLAN-Router-hijacken-9192768.html"
-    },
-    {
-      "title": "Kopfgeld auf Mitglieder der Cybergang Cl0p ausgelobt",
-      "teaser": "Das US-Außenministerium hat ein Kopfgeld auf Mitglieder der Cybgergang Cl0p ausgesetzt. Wer Hinweise liefert, kann bis zu 10 Millionen US-Dollar erhalten.",
-      "url": "https://www.heise.de/news/US-Aussenministerium-setzt-Kopfgeld-auf-Cl0p-Cybergangster-aus-9192680.html"
     },
     {
       "title": "heise Security Tour 2023",
