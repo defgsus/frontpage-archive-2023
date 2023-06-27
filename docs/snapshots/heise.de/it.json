@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-27T06:16:43",
+  "timestamp": "2023-06-27T07:12:07",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "IT-Umzug der Postbank: Die letzte große Geduldsprobe für die Kunden",
+      "teaser": "Seit Monaten zieht die Postbank Millionen Kundendaten auf eine gemeinsame IT-Infrastruktur mit der Deutschen Bank um. Jetzt steht der letzte Kraftakt an.",
+      "url": "https://www.heise.de/news/IT-Umzug-der-Postbank-Bankdienstleistungen-fuer-ein-Wochenende-nicht-verfuegbar-9197414.html"
+    },
+    {
       "title": "Interview: Aleph Alpha fordert vertrauenswürdige KI mit europäischen Werten",
       "teaser": "Hans-Jörg Schäuble, Vizepräsident von Aleph Alpha, plädiert im Interview für vertrauenswürdige KI, eine eigenständige Rolle der EU und einen baldigen AI Act.",
       "url": "https://www.heise.de/hintergrund/Interview-Aleph-Alpha-fordert-vertrauenswuerde-KI-mit-europaeischen-Werten-9196893.html"
@@ -34,12 +39,6 @@
       "title": "Proxmox VE 8.0 ist da: So funktioniert das Upgrade nahtlos",
       "teaser": "Rapides Upgrade: Das neue Proxmox VE 8.0 basiert auf dem jungen Debian 12. Diese Änderungen müssen Nutzer bei der Migration beachten.",
       "url": "https://www.heise.de/news/Proxmox-VE-8-0-ist-da-Freies-Linux-fuer-Container-und-Virtualisierung-9196209.html"
-    },
-    {
-      "title": "Lauterbach: Mit KI und Daten schneller Impfungen für die nächste Pandemie",
-      "teaser": "Mit Methoden Künstlicher Intelligenz, großen Datenmengen und Datenschutzänderungen will Lauterbach die Digitalisierung des Gesundheitswesens voranbringen.",
-      "url": "https://www.heise.de/news/eHealth-Lauterbach-hofft-auf-generative-Sprachmodelle-und-Daten-Daten-Daten-9194075.html",
-      "image_title": "Karl Lauterbach und John Lennerz"
     },
     {
       "title": "AVM im Interview zu Smart Home: \"Ein Repeater repeatet von sich aus\"",
@@ -51,6 +50,24 @@
       "teaser": "Gedichte und Bücher vorlesen: TorToiSe wandelt Schrift in gesprochene Sprache um. Die KI lässt sich mit der eigenen Stimme trainieren – und lokal installieren.",
       "url": "https://www.heise.de/ratgeber/Stimmen-nachahmen-mit-KI-TorToiSe-ausprobiert-8990577.html",
       "image_title": "Colorful,Audio,Waveform,On,Virtual,Human,Background,,represent,Digital,Equalizer"
+    },
+    {
+      "title": "Fritzbox als Smart-Home-Zentrale in der Praxis",
+      "teaser": "In Fritzsmart steckt ein Doppel-Gateway für das smarte Heim. In unseren Praxistests spielten damit diverse DECT- und mehr Zigbee-Geräte zusammen als erwartet.",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-als-Smart-Home-Zentrale-in-der-Praxis-9195570.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "Fritzbox als Smart-Home-Zentrale: Die Grundeinrichtung",
+      "teaser": "Wie man die Fritzbox-Erweiterung Fritzsmart optimal betreibt, dazu schweigt der Hersteller. Daher erklären wir, was bei uns in der Praxis gut funktioniert hat.",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-als-Smart-Home-Zentrale-Die-Grundeinrichtung-9194692.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "Fritzbox als Smart-Home-Zentrale: Was sie bereits kann und was noch kommt",
+      "teaser": "Die Fritzbox hat sich mit großem Funktionsumfang einen festen Platz in hiesigen Haushalten erobert. Nun will ihr Hersteller AVM beim Thema Smart Home Gas geben.",
+      "url": "https://www.heise.de/ratgeber/Fritzbox-als-Smart-Home-Zentrale-Was-sie-bereits-kann-und-was-noch-kommt-9191806.html",
+      "image_title": ", Andreas Martini"
     },
     {
       "title": "secIT Digital: Malware für jedermann dank ChatGPT?",
@@ -117,22 +134,6 @@
       "teaser": "Das Entwurfsmuster Monitor Object synchronisiert die gleichzeitige Ausführung von Mitgliedsfunktionen.",
       "url": "https://www.heise.de/blog/Patterns-in-der-Softwarearchitektur-Monitor-Object-9195485.html",
       "image_title": "Fernglas"
-    },
-    {
-      "title": "Gezielt zu mehr Cloud-Expertise im eigenen Unternehmen - ein iX-Workshop",
-      "teaser": "Im eigenen Unternehmen gezielt Expertise und Wissen für eine erfolgreiche Cloud-Transformation aufbauen und einsetzen. Am 11. Juli haben wir noch Plätze frei.",
-      "url": "https://www.heise.de/news/Gezielt-zu-mehr-Cloud-Expertise-im-eigenen-Unternehmen-ein-iX-Workshop-9193993.html",
-      "image_title": "Cloud-Migrationen erfolgreich mit unternehmensinterner Kompetenz meistern"
-    },
-    {
-      "title": "Quantencomputer: Deutsches Firmenduo setzt auf Mikrowellen-Technik",
-      "teaser": "Infineon beliefert eleQtron über die nächsten Jahre mit Quantenprozessoren. Statt mit Lasern werden die Qubits mit Mikrowellen manipuliert.",
-      "url": "https://www.heise.de/news/Deutsches-Duo-Infineon-und-eleQtron-bauen-Quantencomputer-kuenftig-zusammen-9197956.html"
-    },
-    {
-      "title": "Gesundheit: Pläne für Nationalen Hitzeplan werden konkret",
-      "teaser": "Das Bundesgesundheitsministerium leitet Beratungen zu einem Nationalen Hitzeplan ein. Zu den ersten Maßnahmen gehört ein wöchentlicher Hitzeradar.",
-      "url": "https://www.heise.de/news/Gesundheit-Plaene-fuer-Nationalen-Hitzeplan-werden-konkret-9197833.html"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
