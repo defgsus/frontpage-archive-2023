@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-28T12:26:33",
+  "timestamp": "2023-06-28T13:21:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,19 @@
   ],
   "articles": [
     {
-      "title": "Passwortlose Zukunft: Microsoft bringt Windows-Vorschau Passkeys bei",
-      "teaser": "Der jüngsten Windows-Insider-Developer-Vorschau hat Microsoft Passkeys beigebracht. Zudem soll Paypal nun auch in Deutschland Passkeys unterstützen.",
-      "url": "https://www.heise.de/news/Passwortlose-Zukunft-Passkeys-ziehen-in-Windows-Vorschau-ein-9199679.html",
-      "image_title": "Laptop mit Windows 11"
+      "title": "Petabyte-Festplatten mit Selbstheilungskräften",
+      "teaser": "Das Speichersystem Exos Corvault von Seagate fasst mehr als zwei Petabyte und soll wartungsfrei laufen. Wir haben hinter die Kulissen geschaut.",
+      "url": "https://www.heise.de/news/Petabyte-Festplatten-mit-Selbstheilungskraeften-9200745.html"
     },
     {
-      "title": "Linux 6.4 mit frühem Support für Apple M2 erschienen",
-      "teaser": "Der neue Kernel bringt ersten Support für Apple M2 sowie bessere Leistung und optimierte Energieaufnahme bei AMD.",
-      "url": "https://www.heise.de/news/Linux-6-4-mit-fruehem-Support-fuer-Apple-M2-erschienen-9200498.html"
+      "title": "Red Hat kontert: Wer nur kopiert, darf nicht profitieren",
+      "teaser": "Ein falsches Verständnis von Open Source und Dritte, die nur von der eigenen Arbeit profitieren – Red Hat bietet der Kritik an den geschlossenen Quellen Paroli.",
+      "url": "https://www.heise.de/news/Red-Hat-kontert-Wer-nur-kopiert-darf-nicht-profitieren-9200488.html"
     },
     {
-      "title": "GeForce RTX 4060: Vorabtests nur unter Nvidias Einflussnahme",
-      "teaser": "Manche Influencer durften schon am 26. Juni erste Testberichte zur GeForce RTX 4060 veröffentlichen. Die Krux: Nvidia hatte großen Einfluss auf die Inhalte.",
-      "url": "https://www.heise.de/news/Hofberichterstattung-Nvidia-verzerrt-Vorabtests-der-GeForce-RTX-4060-9200292.html",
-      "image_title": "GeForce RTX 4070 Ti Herstellerkarten"
+      "title": "Verschlüsselung: Auch Apple warnt vor britischem Abhörgesetz",
+      "teaser": "Nach Meta und Signal hat nun auch Apple zur UK Online Safety Bill Stellung bezogen. Die soll Ende-zu-Ende-Verschlüsselung für Messaging-Dienste aushebeln.",
+      "url": "https://www.heise.de/news/Verschluesselung-Auch-Apple-warnt-vor-britischem-Abhoergesetz-9200799.html"
     },
     {
       "title": "LIME: intransparente KI-Entscheidungen verständlich erklären",
@@ -52,6 +50,16 @@
       "teaser": "Ein Balkonkraftwerk ist nichts Exotisches mehr. Gibt es Optimierungpotenziale, wo helfen Verhaltensanpassungen? Wo lauern vielleicht Probleme?",
       "url": "https://www.heise.de/hintergrund/Erfahrungsbericht-Balkonkraftwerk-aufgebaut-was-es-wirklich-bringt-9201121.html",
       "image_title": "Solarpanele auf Wiese"
+    },
+    {
+      "title": "Störung: Microsofts Konferenz-Dienst Teams mit Ausfällen",
+      "teaser": "Wer gerade in eine Teams-Sitzung möchte und das mit dem Webclient versucht, etwa durch einen Einladungslink oder mit Linux, ist vom Dienstausfall betroffen.",
+      "url": "https://www.heise.de/news/Teams-Stoerung-Ausfaelle-des-Microsoft-Konferenz-Dienstes-am-Mittwochnachmittag-9201683.html"
+    },
+    {
+      "title": "Freie 3D-Software Blender 3.6 mit schnellem Raytracing",
+      "teaser": "Blender 3.6 rendert schneller und unterstützt mehr Grafikhardware als zuvor. Neue Geometry-Nodes simulieren Physik; Motion-Capture lässt sich glätten.",
+      "url": "https://www.heise.de/news/Freie-3D-Software-Blender-3-6-mit-schnellem-Raytracing-9201169.html"
     },
     {
       "title": "Online-Konferenz Agile HR: Workshop zur Agilität und sozialer Nachhaltigkeit",
@@ -117,11 +125,6 @@
       "image_title": "Vision Pro Environments"
     },
     {
-      "title": "Verschlüsselung: Auch Apple warnt vor britischem Abhörgesetz",
-      "teaser": "Nach Meta und Signal hat nun auch Apple zur UK Online Safety Bill Stellung bezogen. Die soll Ende-zu-Ende-Verschlüsselung für Messaging-Dienste aushebeln.",
-      "url": "https://www.heise.de/news/Verschluesselung-Auch-Apple-warnt-vor-britischem-Abhoergesetz-9200799.html"
-    },
-    {
       "title": "Unity: KI-Chatbot soll Spiele entwickeln",
       "teaser": "Unity baut KI-Tools zur Spieleentwicklung in seine Game-Engine ein. Dazu gehört ein Chatbot namens Muse, der Spiele auf Befehl selbst programmieren kann.",
       "url": "https://www.heise.de/news/Unity-Muse-und-Sentis-bringen-KI-in-die-Spieleentwicklung-9200955.html"
@@ -130,12 +133,6 @@
       "title": "Nvida: Treiber-Updates gegen Sicherheitslücken",
       "teaser": "Nvidias Grafikkartentreiber für Linux und Windows haben hochriskante Sicherheitslücken. Der Hersteller liefert jetzt Aktualisierungen zum Abdichten der Lecks.",
       "url": "https://www.heise.de/news/Nvidia-Treiber-Update-schliesst-Codeschmuggel-Schwachstellen-9200904.html"
-    },
-    {
-      "title": "Microsoft will Windows 11 komplett in die Cloud verlagern",
-      "teaser": "Basierend auf Windows 365 soll auch Windows 11 in der Cloud laufen. So will Microsoft das Betriebssystem einfacher mit verbesserten KI-Diensten unterstützen.",
-      "url": "https://www.heise.de/news/Microsoft-will-Windows-11-komplett-in-die-Cloud-verlagern-9200869.html",
-      "image_title": "Windows in der Cloud über Laptop, Tablet und Monitor"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
