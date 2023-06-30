@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-06-30T01:10:13",
+  "timestamp": "2023-06-30T02:48:23",
   "url": "https://www.zeit.de/gesellschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "US-Rapper: Keine Strafverfolgung von Travis Scott wegen Massenpanik bei Konzert",
+      "teaser": "Durch eine Massenpanik bei einem Festival in Texas waren 2021 zehn Menschen gestorben. Der Rapper Travis Scott hatte das Event mitorganisiert.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/us-rapper-travis-scott-massenpanik-strafverfolgung-unschuld",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/travis-scott-auftritt-strafverfolgung/cinema__980x420"
+    },
+    {
       "title": "Frankreich: Erneute Ausschreitungen trotz verstärktem Polizeiaufgebot",
       "teaser": "Die dritte Nacht in Folge erlebt Frankreich schwere Zusammenstöße zwischen Jugendlichen und der Polizei. Die Wut über den Tod eines 17-Jährigen greift auf Belgien über.",
       "url": "https://www.zeit.de/politik/ausland/2023-06/frankreich-auseinandersetzungen-jugendliche-polizei-tod-verkehrskontrolle",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-06/frankreich-nanterre-auschreitungen-jugendlicher/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesellschaft/2023-06/frankreich-nanterre-auschreitungen-jugendlicher/wide__822x462",
+      "image_title": "Frankreich: Erneute Ausschreitungen trotz verstärktem Polizeiaufgebot"
     },
     {
       "title": "Private Raumfahrt : Virgin Galactic startet kommerziellen Flugbetrieb ins All",
@@ -66,14 +73,14 @@
       "title": "KI an Schulen: Eltern befürworten KI in Schulen",
       "teaser": "ChatGPT macht ihnen keine Angst: Eltern möchten laut einer Umfrage, dass künstliche Intelligenz im Unterricht eingesetzt wird. Doch die Gefahren sind erheblich.",
       "url": "https://www.zeit.de/gesellschaft/schule/2023-06/kuenstliche-intelligenz-schule-bildung-eltern-umfrage-chatgpt",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-06/kuenstliche-intelligenz-schule-bildung-eltern-umfrage-chatgpt-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-06/kuenstliche-intelligenz-schule-bildung-eltern-umfrage-chatgpt-bild/cinema__980x420",
       "image_title": "KI an Schulen: Eltern befürworten KI in Schulen"
     },
     {
       "title": "Frankreich: Hunderte protestieren bei Paris gegen Polizeigewalt",
       "teaser": "In Nanterre hat die Familie des erschossenen Jugendlichen zum Trauermarsch aufgerufen, Hunderte kamen. Der 17-Jährige war bei einer Polizeikontrolle getötet worden.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-polizist-jugendlicher-erschossen-protest-polizeigewalt",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-06/frankreich-polizist-jugendlicher-erschossen-protest-polizeigewalt-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-06/frankreich-polizist-jugendlicher-erschossen-protest-polizeigewalt-bild/wide__822x462",
       "image_title": "Frankreich: Hunderte protestieren bei Paris gegen Polizeigewalt"
     },
     {
@@ -91,23 +98,16 @@
       "image_title": "Reformen in der katholischen Kirche: Ein weiteres Zeichen der Selbstauflösung"
     },
     {
-      "title": "Frankreich: Aufruhr gegen die tödlichste Polizei Europas",
-      "teaser": "Nach der Tötung eines Jungen durch einen Polizisten brennen in Frankreich die Vorstädte. Steht das Land an einem Punkt wie die USA 2020 nach dem Tod von George Floyd?",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-unruhen-krawalle-nanterres-polizeischuss",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/polizei-frankreich/wide__822x462",
-      "image_title": "Frankreich: Aufruhr gegen die tödlichste Polizei Europas"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Nord-Stream-Sprengung: Alleine gegen das Schweigen",
       "url": "https://www.zeit.de/2023/28/nord-stream-sprengung-anschlag-rekonstruktion",
       "image_url": "https://img.zeit.de/2023/28/alleine-gegen-das-schweigen-bild-2/wide__822x462",
       "image_title": "Nord-Stream-Sprengung: Alleine gegen das Schweigen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); AfD in Sonneberg: \"Wir sind keine Nazis! Wir sind ganz normale Leute!\"",
-      "url": "https://www.zeit.de/2023/28/afd-sonneberg-wahlerfolg-parteien-zusammenarbeit",
-      "image_url": "https://img.zeit.de/2023/28/wir-sind-keine-nazis-wir-sind-ganz-normale-leute-bild-1/wide__822x462",
-      "image_title": "AfD in Sonneberg: \"Wir sind keine Nazis! Wir sind ganz normale Leute!\""
+      "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/lehrermangel-schule-system-planung-referendariat",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-06/lehrermangel-schule-system-planung-referendariat-bild/wide__822x462",
+      "image_title": "Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\""
     },
     {
       "title": "Kirchenaustritte: Katholische Kirche verliert mehr als eine halbe Million Mitglieder",
@@ -116,36 +116,40 @@
       "image_title": "Kirchenaustritte: Katholische Kirche verliert mehr als eine halbe Million Mitglieder"
     },
     {
-      "title": "Verschwundenes Tauchboot: US-Navy soll Implosion der \"Titan\" schon Sonntag registriert haben",
-      "url": "https://www.zeit.de/wissen/2023-06/tauchboot-titan-usa-navy-implosion-registrierung-atlantik"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremismus in Ostdeutschland: 60 Prozent der Ostdeutschen halten Deutschland für \"überfremdet\"",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/ostdeutschland-rechtsextremismus-efbi-studie"
-    },
-    {
-      "title": "Verschwundenes Tauchboot: US-Navy soll Implosion der \"Titan\" schon Sonntag registriert haben",
-      "url": "https://www.zeit.de/wissen/2023-06/tauchboot-titan-usa-navy-implosion-registrierung-atlantik"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
       "url": "https://www.zeit.de/gesellschaft/schule/2023-04/lehrermangel-schule-system-planung-referendariat"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/lehrermangel-schule-system-planung-referendariat"
+      "title": "Z+ (abopflichtiger Inhalt); AfD in Sonneberg: \"Wir sind keine Nazis! Wir sind ganz normale Leute!\"",
+      "url": "https://www.zeit.de/2023/28/afd-sonneberg-wahlerfolg-parteien-zusammenarbeit"
     },
     {
       "title": "Klimaaktivismus und Klimaschutz: Schadet die Letzte Generation wirklich dem Klimaschutz?",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/klimaaktivismus-klimaschutz-schaden-letzte-generation"
     },
     {
+      "title": "Razzia im Erzbistum Köln: Rainer Maria Woelki erstattet Anzeige",
+      "url": "https://www.zeit.de/2023/28/erzbistum-koeln-razzia-rainer-maria-woelki"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Rechtsextremismus in Ostdeutschland: 60 Prozent der Ostdeutschen halten Deutschland für \"überfremdet\"",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/ostdeutschland-rechtsextremismus-efbi-studie"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Politische Einstellung in Ostdeutschland: \"Das Bild ist recht düster\"",
+      "url": "https://www.zeit.de/gesellschaft/2023-06/ostdeutschland-politische-einstellung-rechtsextremismus-afd"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Nord-Stream-Sprengung: Alleine gegen das Schweigen",
       "url": "https://www.zeit.de/2023/28/nord-stream-sprengung-anschlag-rekonstruktion"
     },
     {
-      "title": "Verschwundenes Tauchboot: US-Navy soll Implosion der \"Titan\" schon Sonntag registriert haben",
-      "url": "https://www.zeit.de/wissen/2023-06/tauchboot-titan-usa-navy-implosion-registrierung-atlantik"
+      "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/lehrermangel-schule-system-planung-referendariat"
+    },
+    {
+      "title": "Razzia im Erzbistum Köln: Rainer Maria Woelki erstattet Anzeige",
+      "url": "https://www.zeit.de/2023/28/erzbistum-koeln-razzia-rainer-maria-woelki"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
@@ -160,20 +164,16 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/ostdeutschland-rechtsextremismus-efbi-studie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-04/lehrermangel-schule-system-planung-referendariat"
-    },
-    {
       "title": "Kirchenaustritte: Katholische Kirche verliert mehr als eine halbe Million Mitglieder",
       "url": "https://www.zeit.de/gesellschaft/2023-06/katholische-kirche-rekordzahl-austritte"
     },
     {
-      "title": "Verschwundenes Tauchboot: US-Navy soll Implosion der \"Titan\" schon Sonntag registriert haben",
-      "url": "https://www.zeit.de/wissen/2023-06/tauchboot-titan-usa-navy-implosion-registrierung-atlantik"
-    },
-    {
       "title": "Klimaaktivismus und Klimaschutz: Schadet die Letzte Generation wirklich dem Klimaschutz?",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/klimaaktivismus-klimaschutz-schaden-letzte-generation"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Politische Einstellung in Ostdeutschland: \"Das Bild ist recht düster\"",
+      "url": "https://www.zeit.de/gesellschaft/2023-06/ostdeutschland-politische-einstellung-rechtsextremismus-afd"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Clanstreit im Ruhrgebiet: Ausweitung der Kampfzone",
@@ -190,10 +190,17 @@
       "image_title": "Schulschwänzen um die Ferien: Vorgespieltes Reisefieber"
     },
     {
+      "title": "Frankreich: Aufruhr gegen die tödlichste Polizei Europas",
+      "teaser": "Nach der Tötung eines Jungen durch einen Polizisten brennen in Frankreich die Vorstädte. Steht das Land an einem Punkt wie die USA 2020 nach dem Tod von George Floyd?",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-unruhen-krawalle-nanterres-polizeischuss",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/polizei-frankreich/cinema__980x420",
+      "image_title": "Frankreich: Aufruhr gegen die tödlichste Polizei Europas"
+    },
+    {
       "title": "Frankreich: Ermittlungen gegen Polizist nach Schüssen auf Jugendlichen",
       "teaser": "Ein Polizist hat nahe Paris einen 17-Jährigen erschossen und muss nun in Untersuchungshaft. Die Tat löste Ausschreitungen aus, Frankreich mobilisiert 40.000 Polizisten.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-polizist-schuesse-jugendlicher-totschlag-ermittlungen",
-      "image_url": "https://img.zeit.de/politik/2023-06/frankreich-untersuchungen-polizeischuesse-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-06/frankreich-untersuchungen-polizeischuesse-bild/wide__822x462",
       "image_title": "Frankreich: Ermittlungen gegen Polizist nach Schüssen auf Jugendlichen"
     },
     {
@@ -204,18 +211,18 @@
       "image_title": "Diskriminierung: Experten empfehlen Bundesbeauftragten gegen Muslimfeindlichkeit"
     },
     {
-      "title": "Interviewpodcast \"Alles gesagt?\": Armin Maiwald, wie kam es zur \"Sendung mit der Maus\"?",
-      "teaser": "Seit Jahrzehnten erklärt er Kindern im Fernsehen die Welt. Im Podcast redet Maiwald über seine Kindheit im Nachkriegsdeutschland – und verrät, warum die Maus orange ist.",
-      "url": "https://www.zeit.de/gesellschaft/2023-06/armin-maiwald-interviewpodcast-alles-gesagt",
-      "image_url": "https://img.zeit.de/kultur/2023-06/armin-maiwald-interviewpodcast-alles-gesagt-aufmacherfoto/wide__822x462",
-      "image_title": "Interviewpodcast \"Alles gesagt?\": Armin Maiwald, wie kam es zur \"Sendung mit der Maus\"?"
-    },
-    {
       "title": "AnzeigeZu zweit in Richtung Zukunft!",
       "teaser": "Gemeinsam den Alltag meistern und schöne Dinge erleben, wer möchte das nicht? Finden Sie Ihr persönliches Glück schon heute und registrieren Sie sich hier kostenfrei!",
       "url": "https://partnersuche.zeit.de/",
       "image_url": "https://img.zeit.de/angebote/Links/Bilder/partnersuche-bild/wide__822x462",
       "image_title": "Zu zweit in Richtung Zukunft!"
+    },
+    {
+      "title": "Interviewpodcast \"Alles gesagt?\": Armin Maiwald, wie kam es zur \"Sendung mit der Maus\"?",
+      "teaser": "Seit Jahrzehnten erklärt er Kindern im Fernsehen die Welt. Im Podcast redet Maiwald über seine Kindheit im Nachkriegsdeutschland – und verrät, warum die Maus orange ist.",
+      "url": "https://www.zeit.de/gesellschaft/2023-06/armin-maiwald-interviewpodcast-alles-gesagt",
+      "image_url": "https://img.zeit.de/kultur/2023-06/armin-maiwald-interviewpodcast-alles-gesagt-aufmacherfoto/wide__822x462",
+      "image_title": "Interviewpodcast \"Alles gesagt?\": Armin Maiwald, wie kam es zur \"Sendung mit der Maus\"?"
     },
     {
       "title": "Aino Laberenz: \"Meine ersten Worte waren finnisch.\"",
@@ -225,18 +232,18 @@
       "image_title": "Aino Laberenz: \"Meine ersten Worte waren finnisch.\""
     },
     {
-      "title": "Fachkräftemangel: Nur wenige Schulen haben eigene IT-Fachkräfte",
-      "teaser": "In den vergangenen Jahren wurden die Schulen über den Digitalpakt Schule technisch aufgerüstet. Laut einer Umfrage mangelt es jedoch an Fachkräften.",
-      "url": "https://www.zeit.de/gesellschaft/schule/2023-06/digitalpakt-schule-it-fachkraefte-mangel",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-06/digitalpakt-schule-it-fachkraefte-mangel-bild/wide__822x462",
-      "image_title": "Fachkräftemangel: Nur wenige Schulen haben eigene IT-Fachkräfte"
-    },
-    {
       "title": "Kriminalpodcast: Die Geschichte von Megi und Mel",
       "teaser": "Eine Freundschaft zwischen zwei 13-jährigen Mädchen wird zu einer großen Liebe – und findet ein entsetzliches Ende. Im Podcast erzählen wir ihre Geschichte.",
       "url": "https://www.zeit.de/gesellschaft/2023-06/mord-jugendliche-megi-mel-verbrechen-podcast",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/kriminalpodcast-wien-event/square-padded",
       "image_title": "Kriminalpodcast: Die Geschichte von Megi und Mel"
+    },
+    {
+      "title": "Fachkräftemangel: Nur wenige Schulen haben eigene IT-Fachkräfte",
+      "teaser": "In den vergangenen Jahren wurden die Schulen über den Digitalpakt Schule technisch aufgerüstet. Laut einer Umfrage mangelt es jedoch an Fachkräften.",
+      "url": "https://www.zeit.de/gesellschaft/schule/2023-06/digitalpakt-schule-it-fachkraefte-mangel",
+      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-06/digitalpakt-schule-it-fachkraefte-mangel-bild/wide__822x462",
+      "image_title": "Fachkräftemangel: Nur wenige Schulen haben eigene IT-Fachkräfte"
     },
     {
       "title": "Popsängerin: Madonna verschiebt Welttournee wegen schwerer Infektion",
@@ -260,13 +267,6 @@
       "image_title": "U-Boot: Küstenwache birgt menschliche Überreste aus Wrack der \"Titan\""
     },
     {
-      "title": "Frankreich: Kylian Mbappé spricht Familie des getöteten Jugendlichen Beileid aus",
-      "teaser": "Nach dem tödlichen Schuss eines Polizisten auf einen Jugendlichen ist es in Frankreich zu Unruhen gekommen. Prominente Sportler reagieren kritisch auf den Vorfall.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-toetung-jugendlicher-fussballspieler-kylian-mbappe",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-toetung-jugendlicher-fussballspieler-kylian-mbappe-bild/wide__822x462",
-      "image_title": "Frankreich: Kylian Mbappé spricht Familie des getöteten Jugendlichen Beileid aus"
-    },
-    {
       "title": "Verlagsangebot: Heute studieren, was morgen wichtig ist",
       "teaser": "Wie tickt die Gesellschaft? In der Suchmaschine für Studiengänge finden sich zahlreiche Studiengänge, die sich mit gesellschaftlichen Fragen beschäftigen.",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=gesellschaft&wt_zmc=fix.int.zonpmr.gesellschaft-ressort.verlagsteaser-ressort.suma.bildtext.stifte.x&utm_medium=fix&utm_source=gesellschaft-ressort_zonpmr_int&utm_campaign=verlagsteaser-ressort&utm_content=suma_bildtext_stifte_x",
@@ -281,6 +281,13 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
+      "title": "Frankreich: Kylian Mbappé spricht Familie des getöteten Jugendlichen Beileid aus",
+      "teaser": "Nach dem tödlichen Schuss eines Polizisten auf einen Jugendlichen ist es in Frankreich zu Unruhen gekommen. Prominente Sportler reagieren kritisch auf den Vorfall.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-toetung-jugendlicher-fussballspieler-kylian-mbappe",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/frankreich-toetung-jugendlicher-fussballspieler-kylian-mbappe-bild/wide__822x462",
+      "image_title": "Frankreich: Kylian Mbappé spricht Familie des getöteten Jugendlichen Beileid aus"
+    },
+    {
       "title": "Alpenpodcast : Rechte Dörfer",
       "teaser": "Was die AfD kann, können FPÖ und SVP schon lange: Welche Erfahrungen die Schweiz und Österreich mit rechten Lokalregierungen gemacht haben.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/rechtsextreme-landraete-sonneberg-alpenpodcast",
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/klimaaktivismus-klimaschutz-schaden-letzte-generation",
       "image_url": "https://img.zeit.de/gesellschaft/2023-06/klimaaktivismus-klimaschutz-schaden-letzte-generation-bild/wide__822x462",
       "image_title": "Klimaaktivismus und Klimaschutz: Schadet die Letzte Generation wirklich dem Klimaschutz?"
-    },
-    {
-      "title": "Sexueller Missbrauch: Polizei in Bayern führt Razzia wegen Missbrauchsdarstellungen durch",
-      "teaser": "Bei 55 Beschuldigten hat die Polizei in Bayern nach Datenträgern mit Darstellungen von sexualisierter Gewalt an Kindern gesucht. Zu Festnahmen kam es offenbar nicht.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/sexueller-missbrauch-bayern-razzia",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/sexueller-missbrauch-bayern-razzia-bild/wide__822x462",
-      "image_title": "Sexueller Missbrauch: Polizei in Bayern führt Razzia wegen Missbrauchsdarstellungen durch"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Lehrermangel: \"Die Schülerinnen und Schüler tun mir leid\"",
