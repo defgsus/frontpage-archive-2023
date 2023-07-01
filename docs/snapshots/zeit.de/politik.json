@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-01T13:16:18",
+  "timestamp": "2023-07-01T14:10:18",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,25 +50,24 @@
   ],
   "articles": [
     {
+      "title": "Belarus: Was hat Alexander Lukaschenko mit den Wagner-Söldnern vor?",
+      "teaser": "In Belarus wird eine Militärbasis für die Gruppe Wagner hergerichtet. Was sie dort will, ist unklar. In Russland rekrutiert die Truppe weiter Kämpfer wie bisher.",
+      "url": "https://www.zeit.de/politik/ausland/2023-07/gruppe-wagner-soeldner-belarus-lager",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/gruppe-wagner-belarus-bild/cinema__980x420"
+    },
+    {
+      "title": "Bremische Bürgerschaft: SPD und Grüne stimmen für Fortsetzung von Rot-Grün-Rot in Bremen",
+      "teaser": "In Bremen haben Parteitage von SPD und Grünen dem Regierungsbündnis zugestimmt. Das Votum der Linken soll am Sonntag folgen, am Mittwoch tritt der neue Senat zusammen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-07/bremen-koalitionsvertrag-spd-gruene-linkspartei",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/bremen-koalitionsvertrag-spd/wide__822x462",
+      "image_title": "Bremische Bürgerschaft: SPD und Grüne stimmen für Fortsetzung von Rot-Grün-Rot in Bremen"
+    },
+    {
       "title": "Unruhen in Frankreich: Emmanuel Macron sagt Staatsbesuch in Deutschland ab",
       "teaser": "Der französische Präsident wird wegen der Unruhen in Frankreich seinen geplanten Deutschland-Besuch verschieben. Bundespräsident Steinmeier zeigte Verständnis.",
       "url": "https://www.zeit.de/politik/ausland/2023-07/emmanuel-macron-sagt-staatsbesuch-in-deutschland-ab",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/frankreich-staatsbesuch-emmanuel-macron-steinmeier-absage/cinema__980x420",
-      "image_title": "Frankreichs Präsident Emmanuel Macron hat seinen geplanten Staatsbesuch in Deutschland wegen der Unruhen in seinem Land abgesagt."
-    },
-    {
-      "title": "Bundeskanzler: Olaf Scholz ruft zu Toleranz auf",
-      "teaser": "Bundeskanzler Olaf Scholz hat sich für Respekt und gegenseitige Akzeptanz in der Gesellschaft ausgesprochen. Er verwies auf die Erhöhungen bei Rente und Mindestlohn.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-07/olaf-scholz-respekt-toleranz-rente",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/olaf-scholz-respekt-toleranz/wide__822x462",
-      "image_title": "Bundeskanzler: Olaf Scholz ruft zu Toleranz auf"
-    },
-    {
-      "title": "Migration: Bundestag stellt sehr ungleiche Asylleistungen in Europa fest",
-      "teaser": "Deutschland zahlt Asylbewerbern nicht die höchsten Sätze in Europa. Allerdings leistet es häufig auch nach der Abschiebung von ausreisepflichtigen Menschen Hilfe.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-07/migration-asylbewerber-leistungen-europa-vergleich",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/migration-asylleistungen-deutschland-eu-vergleich-bild/wide__822x462",
-      "image_title": "Migration: Bundestag stellt sehr ungleiche Asylleistungen in Europa fest"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/frankreich-staatsbesuch-emmanuel-macron-steinmeier-absage/wide__822x462",
+      "image_title": "Unruhen in Frankreich: Emmanuel Macron sagt Staatsbesuch in Deutschland ab"
     },
     {
       "title": "Landratswahl in Sonneberg: Jetzt regieren sie",
@@ -163,17 +162,31 @@
       "image_title": "Grigori Judin über Russland: \"Putin wird diesen Krieg verlieren\""
     },
     {
+      "title": "Bundeskanzler: Olaf Scholz ruft zu Toleranz auf",
+      "teaser": "Bundeskanzler Olaf Scholz hat sich für Respekt und gegenseitige Akzeptanz in der Gesellschaft ausgesprochen. Er verwies auf die Erhöhungen bei Rente und Mindestlohn.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-07/olaf-scholz-respekt-toleranz-rente",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/olaf-scholz-respekt-toleranz/cinema__980x420",
+      "image_title": "Bundeskanzler: Olaf Scholz ruft zu Toleranz auf"
+    },
+    {
+      "title": "Migration: Bundestag stellt sehr ungleiche Asylleistungen in Europa fest",
+      "teaser": "Deutschland zahlt Asylbewerbern nicht die höchsten Sätze in Europa. Allerdings leistet es häufig auch nach der Abschiebung von ausreisepflichtigen Menschen Hilfe.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-07/migration-asylbewerber-leistungen-europa-vergleich",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/migration-asylleistungen-deutschland-eu-vergleich-bild/wide__822x462",
+      "image_title": "Migration: Bundestag stellt sehr ungleiche Asylleistungen in Europa fest"
+    },
+    {
       "title": "Frankreich und Deutschland: Europäische Souveränität ist zwingend und alternativlos",
       "teaser": "Die Welt wird zunehmend multipolar. Damit Europa geopolitisch nicht zurückfällt, muss es Interessen souverän vertreten. Und das geht nur mit Deutschland und Frankreich.",
       "url": "https://www.zeit.de/politik/2023-06/frankreich-europaeische-union-sicherheitspolitik-emmanuel-macron-staatsbesuch",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/macron-scholz/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-06/macron-scholz/wide__822x462",
       "image_title": "Frankreich und Deutschland: Europäische Souveränität ist zwingend und alternativlos"
     },
     {
       "title": "Unruhen in Frankreich: Mehr als 1.300 Festnahmen bei Ausschreitungen in Frankreich",
-      "teaser": "79 Polizisten und Gendarmen wurden verletzt. Die Polizeigewerkschaften bezeichnen die Protestierenden als \"Schädlinge\" und sprechen von einem \"Krieg\" gegen die Polizei.",
+      "teaser": "79 Polizisten und Gendarmen wurden verletzt. Die Polizeigewerkschaften bezeichnen die Protestierenden als \"Schädlinge\" und sprechen von einem \"Krieg\" gegen die Polizei. 615 Kommentare",
       "url": "https://www.zeit.de/politik/ausland/2023-06/frankreich-unruhen-polizeigewerkschaften-populismus-protestierende-erhoehung-polizei",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/frankreich-proteste-eskalation-polizei/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/frankreich-proteste-eskalation-polizei/cinema__980x420",
       "image_title": "Unruhen in Frankreich: Mehr als 1.300 Festnahmen bei Ausschreitungen in Frankreich"
     },
     {
@@ -187,14 +200,14 @@
       "title": "Karl Lauterbach: Krankenkassen kritisieren Pflegereform",
       "teaser": "Die Pflegereform ist in Kraft getreten, die Beiträge gestiegen. Die Gesetzlichen Krankenkassen sehen die Pflegebedürftigen und Beitragszahler im Stich gelassen.",
       "url": "https://www.zeit.de/politik/deutschland/2023-07/pflegereform-krankenkassen-kritik-finanzierung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/pflegereform-krankenkassen-kritik-finanzierung-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/pflegereform-krankenkassen-kritik-finanzierung-bild-2/wide__822x462",
       "image_title": "Karl Lauterbach: Krankenkassen kritisieren Pflegereform"
     },
     {
       "title": "US-Außenministerium: Prüfbericht offenbart Vorbereitungsmängel bei US-Abzug aus Afghanistan",
       "teaser": "Die USA hatten sich laut einem Bericht nicht genügend auf Worst-Case-Szenarien in Afghanistan vorbereitet. Sowohl Bidens als auch Trumps Regierung seien verantwortlich.",
       "url": "https://www.zeit.de/politik/ausland/2023-07/bericht-afghanistan-usa-militaer-abzug",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/bericht-afghanistan-usa-militaer-abzug-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/bericht-afghanistan-usa-militaer-abzug-bild/cinema__980x420",
       "image_title": "US-Außenministerium: Prüfbericht offenbart Vorbereitungsmängel bei US-Abzug aus Afghanistan"
     },
     {
@@ -208,14 +221,14 @@
       "title": "Deutsch-französische Beziehungen: Frankreich für die meisten Menschen in Deutschland wichtigster Partner",
       "teaser": "Motor für Europa, enger Freund und wichtigster Partner: Für die meisten Menschen in der Bundesrepublik hat Frankreich eine große Bedeutung – noch vor den USA.",
       "url": "https://www.zeit.de/politik/ausland/2023-07/deutschland-frankreich-beziehungen-partnerschaft-staatsbesuch-macron",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/deutschland-frankreich-beziehungen-partnerschaft-staatsbesuch-macron-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/deutschland-frankreich-beziehungen-partnerschaft-staatsbesuch-macron-bild/wide__822x462",
       "image_title": "Deutsch-französische Beziehungen: Frankreich für die meisten Menschen in Deutschland wichtigster Partner"
     },
     {
       "title": "Ukraine-Überblick: Kuleba appelliert an Bundesregierung, USA erwägen Streumunition",
       "teaser": "Der ukrainische Außenminister warnt davor, erneut eine Nato-Mitgliedschaft seines Landes zu behindern. Die USA ziehen in Betracht, Streumunition zu liefern. Die Nacht",
       "url": "https://www.zeit.de/politik/ausland/2023-07/ukraine-ueberblick-kuleba-bundesregierung-usa-streumunition",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/ukraine-panzer-soldaten/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/ukraine-panzer-soldaten/cinema__980x420",
       "image_title": "Ukraine-Überblick: Kuleba appelliert an Bundesregierung, USA erwägen Streumunition"
     },
     {
@@ -229,7 +242,7 @@
       "title": "Hartz-IV-Nachfolge: Neue Regelungen zum Bürgergeld treten in Kraft",
       "teaser": "Langzeitarbeitslosigkeit soll durch bessere Qualifikation bekämpft werden: Das ist das Ziel der Bürgergeld-Reform. Nun kommt die zweite Stufe und einige Neuerungen.",
       "url": "https://www.zeit.de/politik/deutschland/2023-06/zweite-stufe-buergergeld-in-kraft",
-      "image_url": "https://img.zeit.de/politik/2023-06/buergergeld-deutschland-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-06/buergergeld-deutschland-bild-2/wide__822x462",
       "image_title": "Hartz-IV-Nachfolge: Neue Regelungen zum Bürgergeld treten in Kraft"
     },
     {
@@ -259,20 +272,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-07/irak-iran-proteste-koranverbrennung-schweden",
       "image_url": "https://img.zeit.de/politik/ausland/2023-07/iran-proteste-schweden-koranverbrennung/wide__822x462",
       "image_title": "Irak: Erneute Proteste im Irak und Iran nach Koranverbrennung in Schweden"
-    },
-    {
-      "title": "USA: Supreme Court weicht Schutz sexueller Minderheiten auf",
-      "teaser": "Eine Frau hatte gegen ein Gesetz in Colorado geklagt, das Unternehmen Diskriminierung aufgrund von sexueller Orientierung verbietet. Das Gericht hat ihr Recht gegeben.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/supreme-court-lgbtq-rechte-colorado",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/supreme-court-lgbtq-rechte-colorado-bild/wide__822x462",
-      "image_title": "USA: Supreme Court weicht Schutz sexueller Minderheiten auf"
-    },
-    {
-      "title": "USA: Supreme Court stoppt Joe Bidens Plan für Studienkrediterlass",
-      "teaser": "Die Regierung überschreite ihre Kompetenzen, urteilte das oberste Gericht. Der US-Präsident kündigte direkt neue Entlastungsmaßnahmen für Menschen mit Studienschulden an.",
-      "url": "https://www.zeit.de/politik/ausland/2023-06/usa-praesident-joe-biden-studienkredite-supreme-court",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-06/joe-biden-studienkredite-supreme-court-bild/wide__822x462",
-      "image_title": "USA: Supreme Court stoppt Joe Bidens Plan für Studienkrediterlass"
     },
     {
       "title": "Gebäudeenergiegesetz: Was im finalen Entwurf für das Heizungsgesetz steht",
