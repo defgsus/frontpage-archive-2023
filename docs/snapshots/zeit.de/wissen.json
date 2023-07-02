@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-02T08:15:17",
+  "timestamp": "2023-07-02T09:11:29",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Extremwetter: \"Das Klima ist nicht an allem schuld\"",
+      "teaser": "Friederike Otto berechnet, ob Extremereignisse wie Sturzfluten und Dürren Folge der Klimakrise sind. Ihre überraschenden Ergebnisse dienen auch als Beweise vor Gericht.",
+      "url": "https://www.zeit.de/2023/28/extremwetter-klimawandel-zusammenhang-friederike-otto",
+      "image_url": "https://img.zeit.de/2023/28/das-klima-ist-nicht-an-allem-schuld-bild-1/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Menopause: Die Wechseljahre im Gehirn",
       "teaser": "Das Gehirn spielt bei Beginn und Verlauf der Wechseljahre eine größere Rolle als angenommen. Vor allem bestimmte Neuronen haben Einfluss auf den Dialog mit dem Körper.",
       "url": "https://www.zeit.de/wissen/2023-06/wechseljahre-menopause-gehirn-psyche",
-      "image_url": "https://img.zeit.de/wissen/2023-06/wechseljahre-menopause-gehirn-psyche-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wissen/2023-06/wechseljahre-menopause-gehirn-psyche-bild/wide__822x462",
+      "image_title": "Menopause: Die Wechseljahre im Gehirn"
     },
     {
       "title": "Geschichtspodcast \"Wie war das noch mal?\": Die Überlebende",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/wissen/2023-06/massaker-von-babyn-jar-geschichte-podcast",
       "image_url": "https://img.zeit.de/wissen/geschichte/2023-06/massaker-babyn-jar-ukraine/wide__822x462",
       "image_title": "Geschichtspodcast \"Wie war das noch mal?\": Die Überlebende"
-    },
-    {
-      "title": "Weltraumforschung: Esa-Sonde Euclid soll Dunkle Materie im All erforschen",
-      "teaser": "Die Sonde Euclid ist ins All gestartet. Forschende wollen mit ihr mehr über Dunkle Materie und Dunkle Energie lernen. Bisher weiß man fast nichts über beide Phänomene.",
-      "url": "https://www.zeit.de/wissen/2023-07/esa-sonde-euclid-weltall-dunkle-materie",
-      "image_url": "https://img.zeit.de/wissen/2023-07/esa-sonde-euclid-weltall/wide__822x462",
-      "image_title": "Weltraumforschung: Esa-Sonde Euclid soll Dunkle Materie im All erforschen"
     },
     {
       "title": "AnzeigeTransfer und Innovation",
@@ -83,11 +83,11 @@
       "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/oder-polen-fischsterben/cinema__980x420"
     },
     {
-      "title": "Indonesien: Schweres Erdbeben erschüttert Insel Java",
-      "teaser": "Ein unterseeisches Erdbeben hat Teile der indonesischen Hauptinsel Java getroffen. Eine Person starb, Dutzende Häuser wurden zerstört.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/erdbeben-indonesien-insel-java",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/erdbeben-indonesien-insel-java-bild/wide__822x462",
-      "image_title": "Indonesien: Schweres Erdbeben erschüttert Insel Java"
+      "title": "Weltraumforschung: Esa-Sonde Euclid soll Dunkle Materie im All erforschen",
+      "teaser": "Die Sonde Euclid ist ins All gestartet. Forschende wollen mit ihr mehr über Dunkle Materie und Dunkle Energie lernen. Bisher weiß man fast nichts über beide Phänomene.",
+      "url": "https://www.zeit.de/wissen/2023-07/esa-sonde-euclid-weltall-dunkle-materie",
+      "image_url": "https://img.zeit.de/wissen/2023-07/esa-sonde-euclid-weltall/wide__822x462",
+      "image_title": "Weltraumforschung: Esa-Sonde Euclid soll Dunkle Materie im All erforschen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); El Niño : Er wird das Weltwetter verändern",
@@ -104,6 +104,13 @@
       "image_title": "Temperatur der Meere : Warum die Wärme in den Ozeanen alle Rekorde bricht"
     },
     {
+      "title": "Indonesien: Schweres Erdbeben erschüttert Insel Java",
+      "teaser": "Ein unterseeisches Erdbeben hat Teile der indonesischen Hauptinsel Java getroffen. Eine Person starb, Dutzende Häuser wurden zerstört.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/erdbeben-indonesien-insel-java",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/erdbeben-indonesien-insel-java-bild/wide__822x462",
+      "image_title": "Indonesien: Schweres Erdbeben erschüttert Insel Java"
+    },
+    {
       "title": "Covid-19: Mehr als 200 Schadensersatzklagen gegen Corona-Impfstoffhersteller",
       "teaser": "Kläger werfen den Impfstoffherstellern gesundheitliche Folgen wie Sehkraftverschlechterungen vor. Bei erfolgreichen Klagen müssen die EU-Staaten die Kosten übernehmen.",
       "url": "https://www.zeit.de/wissen/2023-07/corona-impfstoffhersteller-klagen-biontech-gesundheit-gericht",
@@ -112,24 +119,17 @@
     },
     {
       "title": "Artenschutz: Bundesumweltministerin Lemke fordert mehr Abschüsse von Problemwölfen",
-      "teaser": "Die Abschüsse seien notwendig für die Akzeptanz zum Schutz des Wolfs, sagt Steffi Lemke. Gleichzeitig plädiert die Bundesumweltministerin dafür, Balance zu halten.",
+      "teaser": "Die Abschüsse seien notwendig für die Akzeptanz zum Schutz des Wolfs, sagt Steffi Lemke. Gleichzeitig plädiert die Bundesumweltministerin dafür, Balance zu halten. 288 Kommentare",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/wolf-bundesumweltministerin-lemke-mehr-abschuesse",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/wolf-deutschland-abschuss-artenschutz/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/wolf-deutschland-abschuss-artenschutz/cinema__980x420",
       "image_title": "Artenschutz: Bundesumweltministerin Lemke fordert mehr Abschüsse von Problemwölfen"
     },
     {
       "title": "Archäologie: Genderneutrale Jagd",
       "teaser": "In der Steinzeit jagten nicht nur Männer: Die Arbeitsteilung unserer Vorfahren war womöglich geschlechtergerechter als heute. Warum hält sich diese Vorstellung trotzdem?",
       "url": "https://www.zeit.de/2023/28/frisch-erforscht-von-jaegerinnen-und-sammlern",
-      "image_url": "https://img.zeit.de/wissen/2023-06/frisch-erforscht-von-jaegerinnen-und-sammlern-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-06/frisch-erforscht-von-jaegerinnen-und-sammlern-bild/wide__822x462",
       "image_title": "Archäologie: Genderneutrale Jagd"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ukrainisch-deutsche Beziehungen: Deutschland war für die Ukraine die Verkörperung des Westens",
-      "teaser": "Die Verbindungen zwischen Deutschland und der Ukraine reichen bis ins Mittelalter zurück. Und doch haben Deutsche und Ukrainer sich oft missverstanden.",
-      "url": "https://www.zeit.de/zeit-geschichte/2023/03/ukraine-deutschland-beziehungen-andrii-portnov",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2023/03/ukraine-deutschland-beziehungen-andrii-portnov-teaser/wide__822x462",
-      "image_title": "Ukrainisch-deutsche Beziehungen: Deutschland war für die Ukraine die Verkörperung des Westens"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Windkraftwerke: Hier könnten all die Windräder stehen",
@@ -153,6 +153,13 @@
       "image_title": "Wissen-Podcast: Die heißesten Orte der Welt"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ukrainisch-deutsche Beziehungen: Deutschland war für die Ukraine die Verkörperung des Westens",
+      "teaser": "Die Verbindungen zwischen Deutschland und der Ukraine reichen bis ins Mittelalter zurück. Und doch haben Deutsche und Ukrainer sich oft missverstanden.",
+      "url": "https://www.zeit.de/zeit-geschichte/2023/03/ukraine-deutschland-beziehungen-andrii-portnov",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2023/03/ukraine-deutschland-beziehungen-andrii-portnov-teaser/wide__822x462",
+      "image_title": "Ukrainisch-deutsche Beziehungen: Deutschland war für die Ukraine die Verkörperung des Westens"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Geschichte der Ukraine: Die Stärke der Ukraine wurde lange übersehen",
       "teaser": "Nach 1990 stand es um Russland und die Ukraine ähnlich schlecht. Doch entwickelte sich nur Russland zum autoritären Staat. Die Zivilgesellschaft der Ukraine war stärker.",
       "url": "https://www.zeit.de/zeit-geschichte/2023/03/ukraine-geschichte-historiker-martin-schulze-wessel",
@@ -163,22 +170,15 @@
       "title": "Hitzewelle: Mehr als 100 Menschen durch extreme Hitze in Mexiko gestorben",
       "teaser": "104 Tote innerhalb von zwei Wochen: Eine schwere Hitzewelle in Mexiko hat zu vielen Hitzschlägen und Fällen von Dehydrierung geführt. Betroffen ist vor allem der Norden.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/mexiko-hitzewelle-tote-juni-dehydrierung-hitzschlaegen",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/mexiko-hitzewelle-tote-juni-dehydrierung-hitzschlaegen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-06/mexiko-hitzewelle-tote-juni-dehydrierung-hitzschlaegen-bild/cinema__980x420",
       "image_title": "Hitzewelle: Mehr als 100 Menschen durch extreme Hitze in Mexiko gestorben"
     },
     {
       "title": "IceCube: Forscher entdecken hochenergetische Neutrinos aus der Milchstraße",
       "teaser": "Mit einem riesigen Eiswürfel in der Antarktis suchen Forschende hochenergetische Neutrinos im All. Die wurden bisher in fernen Galaxien nachgewiesen, nun auch in unserer.",
       "url": "https://www.zeit.de/wissen/2023-06/milchstrasse-icecube-eis-antarktis-neutrino",
-      "image_url": "https://img.zeit.de/wissen/2023-06/neutrino-icecube/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-06/neutrino-icecube/wide__822x462",
       "image_title": "IceCube: Forscher entdecken hochenergetische Neutrinos aus der Milchstraße"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Waldbrände: Der Rauch der kanadischen Waldbrände erreicht Deutschland",
-      "teaser": "Orangefarbener Himmel in Berlin? Bilder wie aus New York wird es nicht geben. Aber die wohl größten Waldbrände, die Kanada je erlebte, prägen nun auch Europas Wetter.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-06/waldbrende-rauch-kanada-europa-klimakrise",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/nasa-rauch-europa-walbraende-kanada/wide__822x462",
-      "image_title": "Waldbrände: Der Rauch der kanadischen Waldbrände erreicht Deutschland"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klimawandel • Das Beste aus Z+: In welcher Klimazukunft werden Sie oder Ihr Kind leben?",
@@ -188,10 +188,17 @@
       "image_title": "Klimawandel • Das Beste aus Z+: In welcher Klimazukunft werden Sie oder Ihr Kind leben?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Waldbrände: Der Rauch der kanadischen Waldbrände erreicht Deutschland",
+      "teaser": "Orangefarbener Himmel in Berlin? Bilder wie aus New York wird es nicht geben. Aber die wohl größten Waldbrände, die Kanada je erlebte, prägen nun auch Europas Wetter.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-06/waldbrende-rauch-kanada-europa-klimakrise",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/nasa-rauch-europa-walbraende-kanada/cinema__980x420",
+      "image_title": "Waldbrände: Der Rauch der kanadischen Waldbrände erreicht Deutschland"
+    },
+    {
       "title": "Kirschenernte: Kirschenernte wird in diesem Jahr wohl geringer ausfallen",
       "teaser": "Obstbauern müssen laut Statistischem Bundesamt mit einem geringeren Ertrag bei Kirschen rechnen. Grund sind schrumpfende Anbauflächen und Spätfrost.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-06/spaetfrost-kirschen-ernte-obstbauern",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/spaetfrost-kirschen-ernte-obstbauern-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/spaetfrost-kirschen-ernte-obstbauern-bild/wide__822x462",
       "image_title": "Kirschenernte: Kirschenernte wird in diesem Jahr wohl geringer ausfallen"
     },
     {
@@ -203,16 +210,16 @@
     },
     {
       "title": "Private Raumfahrt: Virgin Galactic will ersten kommerziellen Flug ins All starten",
-      "teaser": "Das Raumschiff des Unternehmens von Milliardär Richard Branson soll am Donnerstag abheben. An Bord sind Angehörige der italienischen Luftwaffe und ein Forscher.",
+      "teaser": "Das Raumschiff des Unternehmens von Milliardär Richard Branson soll am Donnerstag abheben. An Bord sind Angehörige der italienischen Luftwaffe und ein Forscher. 132 Kommentare",
       "url": "https://www.zeit.de/wissen/2023-06/virgin-galactic-will-ersten-kommerziellen-flug-ins-all-starten",
-      "image_url": "https://img.zeit.de/wissen/2023-06/virgin-galactic-kommerzieller-flug-ins-all-crew-italien-2/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/2023-06/virgin-galactic-kommerzieller-flug-ins-all-crew-italien-2/cinema__980x420",
       "image_title": "Private Raumfahrt: Virgin Galactic will ersten kommerziellen Flug ins All starten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Astrophysik: Neue Signale aus den Tiefen des Universums",
       "teaser": "Dem Verständnis des Alls etwas näher: Forscherteams weltweit könnten erstmals Gravitationswellen gigantischer Schwarzer Löcher entdeckt haben.",
       "url": "https://www.zeit.de/wissen/2023-06/astrophysik-gravitationswellen-pulsare-universum-astronomie",
-      "image_url": "https://img.zeit.de/wissen/2023-06/astrophysik-gravitationswellen-pulsare-universum-astronomie-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-06/astrophysik-gravitationswellen-pulsare-universum-astronomie-bild/wide__822x462",
       "image_title": "Astrophysik: Neue Signale aus den Tiefen des Universums"
     },
     {
@@ -223,23 +230,16 @@
       "image_title": "Katzensterben: Woran sterben all die Katzen in Polen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Koreakrieg: Ohne Angst vor Opfern",
-      "teaser": "China gegen die USA – das gab es schon einmal: im Koreakrieg. Der endete vor 70 Jahren. Und gilt als eine der schwersten Niederlagen der amerikanischen Militärgeschichte.",
-      "url": "https://www.zeit.de/2023/27/koreakrieg-usa-china-taiwan-konflikt",
-      "image_url": "https://img.zeit.de/2023/27/ohne-angst-vor-opfern-bild-1/wide__822x462",
-      "image_title": "Koreakrieg: Ohne Angst vor Opfern"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); El Niño : Er wird das Weltwetter verändern",
       "url": "https://www.zeit.de/wissen/2023-06/el-nino-klimawandel-phaenomen-pazifik-mexiko"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Katzensterben: Woran sterben all die Katzen in Polen?",
-      "url": "https://www.zeit.de/wissen/2023-06/katzensterben-polen-krankheit-virus-vogelgrippe"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Menopause: Die Wechseljahre im Gehirn",
       "url": "https://www.zeit.de/wissen/2023-06/wechseljahre-menopause-gehirn-psyche"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Katzensterben: Woran sterben all die Katzen in Polen?",
+      "url": "https://www.zeit.de/wissen/2023-06/katzensterben-polen-krankheit-virus-vogelgrippe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Menopause: Die Wechseljahre im Gehirn",
@@ -284,8 +284,8 @@
       "image_title": "Hitze: Spanischer Wetterdienst ruft wegen Hitzewelle Alarm aus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Katzensterben: Woran sterben all die Katzen in Polen?",
-      "url": "https://www.zeit.de/wissen/2023-06/katzensterben-polen-krankheit-virus-vogelgrippe"
+      "title": "Z+ (abopflichtiger Inhalt); Menopause: Die Wechseljahre im Gehirn",
+      "url": "https://www.zeit.de/wissen/2023-06/wechseljahre-menopause-gehirn-psyche"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Fischsterben in der Oder: Warum stoppt niemand das Sterben?",
@@ -296,8 +296,8 @@
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/wolf-bundesumweltministerin-lemke-mehr-abschuesse"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Menopause: Die Wechseljahre im Gehirn",
-      "url": "https://www.zeit.de/wissen/2023-06/wechseljahre-menopause-gehirn-psyche"
+      "title": "Z+ (abopflichtiger Inhalt); Katzensterben: Woran sterben all die Katzen in Polen?",
+      "url": "https://www.zeit.de/wissen/2023-06/katzensterben-polen-krankheit-virus-vogelgrippe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Katzensterben: Woran sterben all die Katzen in Polen?",
@@ -315,25 +315,25 @@
       "image_title": "Krisenpodcast \"Auch das noch?\": Wie die Polykrise den Meeren zusetzt"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Koreakrieg: Ohne Angst vor Opfern",
+      "teaser": "China gegen die USA – das gab es schon einmal: im Koreakrieg. Der endete vor 70 Jahren. Und gilt als eine der schwersten Niederlagen der amerikanischen Militärgeschichte.",
+      "url": "https://www.zeit.de/2023/27/koreakrieg-usa-china-taiwan-konflikt",
+      "image_url": "https://img.zeit.de/2023/27/ohne-angst-vor-opfern-bild-1/wide__822x462",
+      "image_title": "Koreakrieg: Ohne Angst vor Opfern"
+    },
+    {
       "title": "Kreuzfahrtschiffe: Naturschützer kritisieren Kreuzfahrtbranche",
-      "teaser": "Dem Nabu zufolge fährt die Mehrzahl der Kreuzfahrtschiffe weiterhin mit klimaschädlichem Schweröl. Vorn liegen beim Klimaschutz norwegische Reedereien.",
+      "teaser": "Dem Nabu zufolge fährt die Mehrzahl der Kreuzfahrtschiffe weiterhin mit klimaschädlichem Schweröl. Vorn liegen beim Klimaschutz norwegische Reedereien. 121 Kommentare",
       "url": "https://www.zeit.de/wissen/umwelt/2023-06/kreuzfahrten-klimaschutz-naturschutzbund-deutschland",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/kreuzfahrten-klimaschutz-naturschutzbund-deutschland-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/kreuzfahrten-klimaschutz-naturschutzbund-deutschland-bild/cinema__980x420",
       "image_title": "Kreuzfahrtschiffe: Naturschützer kritisieren Kreuzfahrtbranche"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pflanzenkauf: Woran man Pflanzen erkennt, die auch nach dem Kauf am Leben bleiben",
       "teaser": "Kein Balkongarten ohne Blumen und Kräuter in Töpfen und Kübeln. Die Herausforderung aber beginnt schon im Gartencenter. Wie man Qualität beim Pflanzenkauf erkennt.",
       "url": "https://www.zeit.de/zeit-wissen/2023/04/plfanzenkauf-qualitaet-topfpflanzen-tipps",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/04/plfanzenkauf-qualitaet-topfpflanzen-tipps-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/04/plfanzenkauf-qualitaet-topfpflanzen-tipps-teaser/wide__822x462",
       "image_title": "Pflanzenkauf: Woran man Pflanzen erkennt, die auch nach dem Kauf am Leben bleiben"
-    },
-    {
-      "title": "Klimawandel: Spanien zählt mehr Tote durch extreme Hitze",
-      "teaser": "Mehr als 350 Menschen sind in Spanien im vergangenen Jahr wegen der extrem hohen Temperaturen gestorben. Auch dieses Jahr gab es Tote während der ersten Hitzewelle.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-06/spanien-extremwetter-hitzetote",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/spanien-hitze-extremwetter-bild/wide__822x462",
-      "image_title": "Klimawandel: Spanien zählt mehr Tote durch extreme Hitze"
     },
     {
       "title": "Weltraumschrott: Unser Müll im All",
@@ -357,10 +357,17 @@
       "image_title": "Kathrine Switzer: Ein Lauf für alle Frauen"
     },
     {
+      "title": "Klimawandel: Spanien zählt mehr Tote durch extreme Hitze",
+      "teaser": "Mehr als 350 Menschen sind in Spanien im vergangenen Jahr wegen der extrem hohen Temperaturen gestorben. Auch dieses Jahr gab es Tote während der ersten Hitzewelle.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-06/spanien-extremwetter-hitzetote",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/spanien-hitze-extremwetter-bild/cinema__980x420",
+      "image_title": "Klimawandel: Spanien zählt mehr Tote durch extreme Hitze"
+    },
+    {
       "title": "Studie: Viele Todesfälle in Deutschland wären offenbar vermeidbar",
       "teaser": "Die Lebenserwartung in Deutschland ist in mehreren Regionen laut einer Studie stark verringert. Durch Vorbeugung und Früherkennung könne man viele Todesfälle vermeiden.",
       "url": "https://www.zeit.de/wissen/2023-06/studie-lebenserwartunf-todesfaelle-deutschland-vermeidbar",
-      "image_url": "https://img.zeit.de/gesundheit/2023-06/studie-lebenserwartunf-todesfaelle-deutschland-vermeidbar-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2023-06/studie-lebenserwartunf-todesfaelle-deutschland-vermeidbar-bild/wide__822x462",
       "image_title": "Studie: Viele Todesfälle in Deutschland wären offenbar vermeidbar"
     },
     {
@@ -369,13 +376,6 @@
       "url": "https://www.zeit.de/wissen/umwelt/2023-06/urwald-zerstoert-world-resources-institute-studie",
       "image_url": "https://img.zeit.de/wissen/2023-06/urwald-zerstoerung-bild/wide__822x462",
       "image_title": "World Resources Institute : Tropischer Urwald auf Fläche so groß wie die Schweiz zerstört"
-    },
-    {
-      "title": "Klimaschutz: Europäischer Rechnungshof zweifelt an Erreichen der EU-Klimaziele",
-      "teaser": "Die Europäische Union wird ihre CO₂-Einsparziele nach Einschätzung des Rechnungshofes verfehlen. Vorwürfe macht die Behörde der Privatwirtschaft – und Deutschland.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-06/eu-rechnungshof-klimaziele-treibhausgasemissionen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/eu-klimaziele-2030-europaeischer-rechnungshof-haushalt/wide__822x462",
-      "image_title": "Klimaschutz: Europäischer Rechnungshof zweifelt an Erreichen der EU-Klimaziele"
     },
     {
       "title": "Event Horizon Telescope: Hallo Höllenpforte!",
@@ -420,32 +420,32 @@
       "image_title": "Schleimpilze: Wie aus einer anderen Welt"
     },
     {
+      "title": "Klimaschutz: Europäischer Rechnungshof zweifelt an Erreichen der EU-Klimaziele",
+      "teaser": "Die Europäische Union wird ihre CO₂-Einsparziele nach Einschätzung des Rechnungshofes verfehlen. Vorwürfe macht die Behörde der Privatwirtschaft – und Deutschland. 108 Kommentare",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-06/eu-rechnungshof-klimaziele-treibhausgasemissionen",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/eu-klimaziele-2030-europaeischer-rechnungshof-haushalt/cinema__980x420",
+      "image_title": "Klimaschutz: Europäischer Rechnungshof zweifelt an Erreichen der EU-Klimaziele"
+    },
+    {
       "title": "Brennerbasistunnel: Die Rekordröhre am Brenner",
       "teaser": "64 Kilometer: Unter den Alpen entsteht der längste Eisenbahntunnel der Welt. Neun Jahre wird am Brenner noch gebohrt, gesprengt und gebaut. Eine Übersicht in Grafiken",
       "url": "https://www.zeit.de/2023/27/brennerbasistunnel-alpen-oesterreich-italien",
-      "image_url": "https://img.zeit.de/2023/27/wissen-infografik-bilder/brennerbasistunnel-alpen-oesterreich-italien-infografik-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/27/wissen-infografik-bilder/brennerbasistunnel-alpen-oesterreich-italien-infografik-teaserbild/wide__822x462",
       "image_title": "Brennerbasistunnel: Die Rekordröhre am Brenner"
     },
     {
       "title": "Zwischenbericht zum Fischsterben: Steffi Lemke fordert Polen zu besserem Schutz der Oder auf",
       "teaser": "Forscher warnen vor einer neuen Katastrophe in der Oder. Die Bundesumweltministerin ermahnt Polen, Salzeinleitungen zu reduzieren und den Ausbau des Flusses zu stoppen.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-06/fischsterben-oder-studie-salzeinleitung-flussausbau",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/fischsterben-oder-studie-salzeinleitung-ausbau/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/fischsterben-oder-studie-salzeinleitung-ausbau/cinema__980x420",
       "image_title": "Zwischenbericht zum Fischsterben: Steffi Lemke fordert Polen zu besserem Schutz der Oder auf"
     },
     {
       "title": "Hitze: Spanischer Wetterdienst ruft wegen Hitzewelle Alarm aus",
-      "teaser": "Temperaturen weit über 40 Grad und tropische Nächte: Spanien erlebt die erste offizielle Hitzewelle des Jahres. Für Teile Andalusiens gilt die Alarmstufe Rot. 451 Kommentare",
+      "teaser": "Temperaturen weit über 40 Grad und tropische Nächte: Spanien erlebt die erste offizielle Hitzewelle des Jahres. Für Teile Andalusiens gilt die Alarmstufe Rot.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-06/spanien-hitzewelle-andalusien",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/spanien-hitzewelle-andalusien-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/spanien-hitzewelle-andalusien-bild-2/wide__822x462",
       "image_title": "Hitze: Spanischer Wetterdienst ruft wegen Hitzewelle Alarm aus"
-    },
-    {
-      "title": "Luftverschmutzung: Montreal hat durch Waldbrände weltweit schlechteste Luftqualität",
-      "teaser": "In der kanadischen Provinz Quebec lodern Brände – das beeinträchtigt auch die Luftqualität in Montreal. Rauch hängt über der Stadt, Risikogruppen sollen Zuhause bleiben.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-06/luftverschmutzung-montreal-kanada-wandbraende-rauch",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/luftverschmutzung-montreal-kanada-wandbraende-rauch-bild/wide__822x462",
-      "image_title": "Luftverschmutzung: Montreal hat durch Waldbrände weltweit schlechteste Luftqualität"
     },
     {
       "title": "Gipfel in Paris: Solidarität mit dem Globalen Süden – und mit uns selbst",
@@ -455,17 +455,24 @@
       "image_title": "Gipfel in Paris: Solidarität mit dem Globalen Süden – und mit uns selbst"
     },
     {
-      "title": "\"The World Talks\": Two women, two continents, two lives",
-      "teaser": "Janicke Kernland lives in Norway, Junaice Mollel in Tansania. The two met for the first time with The World Talks. What would these two strangers have to talk about?",
-      "url": "https://www.zeit.de/2023/27/the-world-talks-women-tansania-norway-english",
-      "image_url": "https://img.zeit.de/2023/27/the-world-talks-frauen-tansania-norwegen-bild/wide__822x462",
-      "image_title": "\"The World Talks\": Two women, two continents, two lives"
+      "title": "Z+ (abopflichtiger Inhalt); Hitzewelle: Die Hitze hat längst begonnen",
+      "teaser": "Während es in Deutschland noch ungewöhnlich kalt ist, zeigt ein interaktiver Blick auf den Erdball: Viele Orte erlebten im April Hitzerekorde. Spielt das Wetter verrückt?",
+      "url": "https://www.zeit.de/wissen/2023-05/hitzewelle-europa-spanien-afrika-asien",
+      "image_url": "https://img.zeit.de/wissen/2023-05/hitzewelle-europa-spanien-afrika-asien-teaserbild/wide__822x462",
+      "image_title": "Hitzewelle: Die Hitze hat längst begonnen"
+    },
+    {
+      "title": "Luftverschmutzung: Montreal hat durch Waldbrände weltweit schlechteste Luftqualität",
+      "teaser": "In der kanadischen Provinz Quebec lodern Brände – das beeinträchtigt auch die Luftqualität in Montreal. Rauch hängt über der Stadt, Risikogruppen sollen Zuhause bleiben.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-06/luftverschmutzung-montreal-kanada-wandbraende-rauch",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/luftverschmutzung-montreal-kanada-wandbraende-rauch-bild/cinema__980x420",
+      "image_title": "Luftverschmutzung: Montreal hat durch Waldbrände weltweit schlechteste Luftqualität"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Marinus van der Lubbe: Legte er wirklich den Reichstagsbrand?",
       "teaser": "Das Feuer 1933 war Brandstiftung. Doch es gibt Zweifel, dass es der von den Nazis verurteilte Marinus van der Lubbe war. Neue Obduktionsergebnisse sollten aufklären.",
       "url": "https://www.zeit.de/2023/27/reichstagsbrand-marinus-van-der-lubbe-exhumierung",
-      "image_url": "https://img.zeit.de/2023/27/reichstagsbrand-marinus-van-der-lubbe-exhumierung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/27/reichstagsbrand-marinus-van-der-lubbe-exhumierung-bild/wide__822x462",
       "image_title": "Marinus van der Lubbe: Legte er wirklich den Reichstagsbrand?"
     },
     {
@@ -476,13 +483,6 @@
       "image_title": "Energiewende: Wind und Wasser statt Muskeln"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ukraine im Zweiten Weltkrieg: Wie die Nazis über die Ukraine stritten",
-      "teaser": "Hitlers Überfall auf die Sowjetunion war der Beginn eines gigantischen Kolonialprojektes. Uneins waren sich die Nazis aber, welche Rolle die Ukraine darin spielen sollte.",
-      "url": "https://www.zeit.de/zeit-geschichte/2023/03/ukraine-zweiter-weltkrieg-ueberfall-sowjetunion",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2023/03/ukraine-zweiter-weltkrieg-ueberfall-sowjetunion-teaserbild/wide__822x462",
-      "image_title": "Ukraine im Zweiten Weltkrieg: Wie die Nazis über die Ukraine stritten"
-    },
-    {
       "title": "Sprachtest: Wie gut ist Ihr Französisch?",
       "teaser": "Sprache bildet die Grundlage für Kommunikation. Wie gut die eigenen Sprachkenntnisse sind, können Sie schnell mit unserem digitalen Sprachtest herausfinden.",
       "url": "https://sprachtest.zeit.de/franzoesisch?wt_zmc=fix.int.zonaudev.alias.alias.zeitde.alias.spotlight-sprachtest-link-franzoesisch.x&utm_medium=fix&utm_source=alias_zonaudev_int&utm_campaign=alias&utm_content=zeitde_alias_spotlight-sprachtest-link-franzoesisch_x",
@@ -490,11 +490,11 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
     },
     {
-      "title": "Holunder: \"Wir alle tragen einen Fantasten in uns\"",
-      "teaser": "Dieser Baum kennt alle Fantasien und Mysterien, die Menschen seit jeher über ihn erzählen. In ihm sollten Feen leben und der Teufel selbst. Ein Gespräch mit dem Holunder",
-      "url": "https://www.zeit.de/zeit-wissen/2023/04/holunder-romantik-heinrich-von-kleist-mythen",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/04/der-suesse-duft-schafft-eine-eigene-welt-in-der-traeume-wahr-werden-bild-1/wide__822x462",
-      "image_title": "Holunder: \"Wir alle tragen einen Fantasten in uns\""
+      "title": "Z+ (abopflichtiger Inhalt); Ukraine im Zweiten Weltkrieg: Wie die Nazis über die Ukraine stritten",
+      "teaser": "Hitlers Überfall auf die Sowjetunion war der Beginn eines gigantischen Kolonialprojektes. Uneins waren sich die Nazis aber, welche Rolle die Ukraine darin spielen sollte.",
+      "url": "https://www.zeit.de/zeit-geschichte/2023/03/ukraine-zweiter-weltkrieg-ueberfall-sowjetunion",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2023/03/ukraine-zweiter-weltkrieg-ueberfall-sowjetunion-teaserbild/wide__822x462",
+      "image_title": "Ukraine im Zweiten Weltkrieg: Wie die Nazis über die Ukraine stritten"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Endometriose: \"Endometriose ist wie ein gutartiger Tumor\"",
