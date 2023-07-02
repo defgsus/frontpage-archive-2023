@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-02T05:12:25",
+  "timestamp": "2023-07-02T06:15:19",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -56,7 +56,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Was, wenn der Krieg kommt?",
+      "title": "Z+ \"Ein Leben auf dem Land macht glücklich\"",
+      "teaser": "Der \"Tatort\"-Schauspieler David Striesow verrät, welche Farben man wider Erwarten kombinieren kann und bei welchem Sport nach der Erschöpfung der Glücksmoment kommt.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/28/devid-striesow-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/28/was-ich-gern-frueher-gewusst-haette-bild-1/wide__822x462",
+      "image_title": "Devid Striesow: \"Ein Leben auf dem Land macht glücklich\""
+    },
+    {
+      "title": "Z+ Taiwan: Was, wenn der Krieg kommt?",
       "teaser": "China könnte ihr Land angreifen – mit dieser Angst leben junge Menschen in Taiwan. Es wäre das Ende ihrer Freiheiten. Doch sie bleiben optimistisch.",
       "url": "https://www.zeit.de/zeit-magazin/2023/28/taiwan-junge-menschen-krieg-china-konflikt",
       "image_url": "https://img.zeit.de/zeit-magazin/2023/28/was-wenn-der-krieg-kommt-bild-2/wide__822x462",
@@ -77,23 +84,16 @@
       "image_title": "Sport ab 40: Oder doch Radfahren?"
     },
     {
-      "title": "Z+ Tomatensalat mit gegrilltem Mais: Mais küsst Tomate",
-      "teaser": "Dieser Tomatensalat mit Mais, Jalapeño und Limette erinnert an Urlaub in Mexiko. Er schmeckt perfekt als Beilage zu Steak, Avocado – oder ganz einfach als Sommergericht.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/28/tomatensalat-gegrilltem-mais-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/28/perfekt-mit-steak-bild-1/wide__822x462",
-      "image_title": "Tomatensalat mit gegrilltem Mais: Mais küsst Tomate"
-    },
-    {
       "title": "Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Erbsen mit Fregola: Wenn Erbsen den Kuller kriegen",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/erbsen-fregola-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/erbsen-fregola-rezept-gericht/tile__315x394",
-      "image_title": "Erbsen mit Fregola: Wenn Erbsen den Kuller kriegen"
+      "title": "Z+ Tomatensalat mit gegrilltem Mais: Mais küsst Tomate",
+      "url": "https://www.zeit.de/zeit-magazin/2023/28/tomatensalat-gegrilltem-mais-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/28/perfekt-mit-steak-bild-1/tile__315x394",
+      "image_title": "Tomatensalat mit gegrilltem Mais: Mais küsst Tomate"
     },
     {
       "title": "Der Apfel braucht inzwischen selbst einen Doktor",
@@ -204,6 +204,12 @@
       "image_title": "Einrichtung für Außenbereiche: Alles muss raus!"
     },
     {
+      "title": "Z+ Erbsen mit Fregola: Wenn Erbsen den Kuller kriegen",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/erbsen-fregola-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/erbsen-fregola-rezept-gericht/tile__315x394",
+      "image_title": "Erbsen mit Fregola: Wenn Erbsen den Kuller kriegen"
+    },
+    {
       "title": "Z+ Spezi: Hauptsache, es ploppt",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/spezi-suchtis-bayern-instagram-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/spezi-suchtis-bayern-instagram-wochenmarkt-bild/tile__315x394",
@@ -258,12 +264,6 @@
       "image_title": "Auswanderer in Deutschland: Wie ich eine deutsche Mutter wurde"
     },
     {
-      "title": "Z+ Familienhotels : Kinderparadies oder Elternhölle?",
-      "url": "https://www.zeit.de/zeit-leo/2023/03/familienhotels-urlaub-eltern-kinder-tipps",
-      "image_url": "https://img.zeit.de/zeit-leo/2023/03/hilfreiche-windeleimer-teaser/tile__315x394",
-      "image_title": "Familienhotels : Kinderparadies oder Elternhölle?"
-    },
-    {
       "title": "Z+ Vorurteile: Das vermeintliche Gegenteil eines alten, weißen Mannes",
       "url": "https://www.zeit.de/zeit-magazin/2023/27/vorurteile-poc-politische-zuschreibungen"
     },
@@ -292,10 +292,17 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/ruegenwalder-muehle-haehnel-interview"
     },
     {
+      "title": "Z+ Familienhotels : Kinderparadies oder Elternhölle?",
+      "teaser": "Manche Eltern sind nach einer Woche Hotelaufenthalt mit den Kindern urlaubsreifer als zuvor. Anderen bieten Familienhotels perfekte Erholung. Wie findet man das Richtige?",
+      "url": "https://www.zeit.de/zeit-leo/2023/03/familienhotels-urlaub-eltern-kinder-tipps",
+      "image_url": "https://img.zeit.de/zeit-leo/2023/03/hilfreiche-windeleimer-teaser/square__460x460",
+      "image_title": "Familienhotels : Kinderparadies oder Elternhölle?"
+    },
+    {
       "title": "Z+ Erdbeeren mit Pavlova: Reifeprüfung für Hobbygärtner",
       "teaser": "Die Rückseite ist nicht mehr grün! Im Juni werden die heimischen Erdbeeren endlich gut und rundum rot. Doch schnell, denn der Hochgenuss hat nur eine kurze Haltbarkeit.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/erdbeeren-pavlova-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/erdbeeren-pavlova-rezept-teaser/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-06/erdbeeren-pavlova-rezept-teaser/wide__822x462",
       "image_title": "Erdbeeren mit Pavlova: Reifeprüfung für Hobbygärtner"
     },
     {
@@ -321,9 +328,8 @@
     },
     {
       "title": "QR-Speisekarten: Die Quadratur der Ungemütlichkeit",
-      "teaser": "In vielen Restaurants müssen Gäste einen QR-Code scannen, um die Speisekarte zu lesen. Unser Autor fragt sich: warum bloß?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-06/qr-speisekarten-restaurant-smartphone-menu-gastronomie",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-06/qr-speisekarten-restaurant-smartphone-menu-gastronomie-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-06/qr-speisekarten-restaurant-smartphone-menu-gastronomie-bild/tile__315x394",
       "image_title": "QR-Speisekarten: Die Quadratur der Ungemütlichkeit"
     },
     {
@@ -337,12 +343,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-06/social-media-trauma-krankheiten-teilen-psyche",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-06/social-media-trauma-krankheiten-teilen-psyche-bild/tile__315x394",
       "image_title": "Social Media: Schau her, so ist das"
-    },
-    {
-      "title": "Z+ Zwei große Lieben: \"Beide Male dachte ich: Das ist für immer\"",
-      "url": "https://www.zeit.de/zeit-magazin/2023/26/zwei-grosse-lieben-intimitaet-trauer-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-06/zwei-grosse-lieben-intimitaet-trauer-liebeskolumne-bild/tile__315x394",
-      "image_title": "Zwei große Lieben: \"Beide Male dachte ich: Das ist für immer\""
     },
     {
       "title": "Z+ Lange Ehe: Wie lange halte ich meinen Mann noch aus?",
