@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-03T11:10:32",
+  "timestamp": "2023-07-03T12:27:14",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,6 +26,21 @@
   ],
   "articles": [
     {
+      "title": "„Eine große Nachtmusik“ zum Auftakt",
+      "teaser": "Neue Entdeckungen, Klassik-Stars und spannende Konzerte von Orgel bis Jazz beim dreiwöchigen Musikfest Bremen. Den Auftakt machen am 19. August rund um den Marktplatz 21 Konzerte der „Großen Nachtmusik“",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246194516/6767936647-ci23x11-w20/Musikfest-Bremen-2022.jpg",
+      "image_title": "Illuminierter Bremer Marktplatz",
+      "author": "Stefan Grund"
+    },
+    {
+      "title": "Brand an Bord ließ Schiff sinken",
+      "teaser": "Einen Monat nach Beginn der Bergung des auf der Trave gesunkenen historischen Handelsschiffs sind in Lübeck erste Funde präsentiert worden. Die Forscher sind froh, man habe mehr gerettet als erhofft. Auch der Grund für die Havarie scheint gefunden.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246193708/3377939867-ci23x11-w20/Taucher-finden-alte-Schiffswrack-in-der-Trave.jpg",
+      "image_title": "Taucher finden alte Schiffswrack in der Trave"
+    },
+    {
       "title": "AfD-Landrat Sesselmann tritt Amt in Sonneberg an",
       "teaser": "Nach der Wahl zum ersten AfD-Landrat Deutschlands hat Robert Sesselmann seinen Dienst begonnen und schon Prioritäten benannt. Die Rechtsaufsichtsbehörde prüft derweil, ob er sich an die demokratische Grundordnung halten kann.",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -45,21 +60,6 @@
       "url": "https://www.welt.de/vermischtes/kriminalitaet/",
       "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile246189332/7337937137-ci23x11-w20/Wiederaufnahmeverfahren-im-Badewannen-Mord.jpg",
       "image_title": "Beim Wiederaufnahmeverfahren im Juni 2023: Manfred Genditzki vor Gericht"
-    },
-    {
-      "title": "Wieso Hamburg 392.000 Euro für nichts bezahlt",
-      "teaser": "Eigentlich sollte die Hamburger Staatsanwaltschaft statt an verschiedenen Standorten längst in neuen Büroräumen sitzen – doch der Umzug zögert sich immer weiter hinaus. Und das kostet der Stadt Monat für Monat viel Geld, schon jetzt fast vier Millionen Euro.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246188248/6887939997-ci23x11-w20/Joerg-Froehlich-Generalsstaatsanwalt-in-Hamburg.jpg",
-      "image_title": "Jörg Fröhlich Generalstaatsanwalt in Hamburg"
-    },
-    {
-      "title": "Sie machen die Kanzler-Gattin zur Stil-Ikone",
-      "teaser": "Modisch eher unauffällig wandelte Britta Ernst bislang als Politikerin und Kanzler-Gattin durch die Welt. Nun wird sie für ihre Outfits gefeiert , die den Vergleich mit Brigitte Macron und Jill Biden locker standhalten – dank zweier Designerinnen aus Hamburg.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246185870/0787933257-ci23x11-w20/HELLO-Weidenstieg-11-Hamburg-3.jpg",
-      "image_title": "Die Designerinnen Susanne Gröhnke (l.) und Telsche Braren kennen Britta Ersnt schon seit vielen Jahren.",
-      "author": "Britta Schmeis"
     },
     {
       "title": "Lieferando-Gutschein",
@@ -82,10 +82,25 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Wieso Hamburg 392.000 Euro für nichts bezahlt",
+      "teaser": "Eigentlich sollte die Hamburger Staatsanwaltschaft statt an verschiedenen Standorten längst in neuen Büroräumen sitzen – doch der Umzug zögert sich immer weiter hinaus. Und das kostet der Stadt Monat für Monat viel Geld, schon jetzt fast vier Millionen Euro.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246188248/6887939997-ci16x9-w20/Joerg-Froehlich-Generalsstaatsanwalt-in-Hamburg.jpg",
+      "image_title": "Jörg Fröhlich Generalstaatsanwalt in Hamburg"
+    },
+    {
+      "title": "Sie machen die Kanzler-Gattin zur Stil-Ikone",
+      "teaser": "Modisch eher unauffällig wandelte Britta Ernst bislang als Politikerin und Kanzler-Gattin durch die Welt. Nun wird sie für ihre Outfits gefeiert , die den Vergleich mit Brigitte Macron und Jill Biden locker standhalten – dank zweier Designerinnen aus Hamburg.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246185870/0787933257-ci23x11-w20/HELLO-Weidenstieg-11-Hamburg-3.jpg",
+      "image_title": "Die Designerinnen Susanne Gröhnke (l.) und Telsche Braren kennen Britta Ersnt schon seit vielen Jahren.",
+      "author": "Britta Schmeis"
+    },
+    {
       "title": "Kinder haben zunehmend Defizite bei Spracherwerb und Motorik",
       "teaser": "Immer mehr Kinder zeigen beim Sprechen und Bewegen Defizite. Untersuchungen der Barmer belegen einen längerfristigen Negativtrend. Ob die Corona-Pandemie etwas damit zu tun hat, wird noch untersucht.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/mobile245273204/0047933307-ci16x9-w20/WHO-Jedes-dritte-Grundschulkind-in-Europa-hat-Uebergewicht.jpg",
+      "image_url": "https://img.welt.de/img/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/mobile245273204/0047933307-ci23x11-w20/WHO-Jedes-dritte-Grundschulkind-in-Europa-hat-Uebergewicht.jpg",
       "image_title": "Problem Bewegungsmangel: Fast jedes dritte Kind im Grundschulalter in Europa ist laut WHO übergewichtig oder gar fettleibig"
     },
     {
@@ -112,24 +127,8 @@
       "author": "Philipp Woldin"
     },
     {
-      "title": "„Über unangenehme Kreuze darf man sich dann nicht wundern“",
-      "teaser": "WELT-Herausgeber Stefan Aust beantwortet Fragen zur aktuellen Lage. Die Themen diesmal: Wie ist das Umfragehoch der AfD zu erklären, was folgt daraus? Und: Was steckt hinter dem Machtkampf in der CDU?",
-      "url": "https://www.welt.de/regionales/hamburg/plus246146434/Stefan-Aust-Ueber-unangenehme-Kreuze-darf-man-sich-dann-nicht-wundern.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile243638723/2627938947-ci23x11-w20/WELT-Autorenfoto-fuer-Kolumnen-Kombo-2.jpg",
-      "image_title": "Auch eine vom „Spiegel“ 1974 vorhergesagte Eiszeit ist bislang nicht eingetreten. Stefan Aust (Bild) und Adrian Geiges über die Irrtümer der Weltuntergangspropheten",
-      "author": "Jörn Lauterbach"
-    },
-    {
-      "title": "Hamburger Polizei lässt Bewegungen von künstlicher Intelligenz auslesen",
-      "teaser": "Mit einer neuartigen Videoüberwachung will die Hamburger Polizei Verhaltensmuster an Orten mit hoher Kriminalität auswerten. Am Hansaplatz in St. Georg wird ein entsprechendes Pilotprojekt zusammen mit der Fraunhofer-Gesellschaft gestartet. Für den Einsatz muss die Technik allerdings erst einmal mit Gewaltszenen „gefüttert“ werden.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246144990/8057932307-ci23x11-w20/Hansaplatz-8.jpg",
-      "image_title": "Die Videoüberwachung auf dem Hansaplatz wird mit einer Software ausgestattet, die Schlägereien erkennen kann",
-      "author": "Denis Fengler"
-    },
-    {
-      "title": "17-Jährige stürzt bei Abifeier durch Plexiglaskuppel und stirbt",
-      "teaser": "Tragisches Unglück in Berlin: Bei einer Abiturfeier klettern zwei Personen auf ein Dachfenster eines Hotels. Eine Jugendliche stürzt durch eine Plexiglaskuppel. Im Krankenhaus erliegt sie ihren Verletzungen.",
+      "title": "17-Jährige stürzt bei Abifeier durch Kuppel und stirbt",
+      "teaser": "Tragisches Unglück in Berlin: Bei einer Abiturfeier klettern zwei Personen auf ein Dachfenster eines Hotels. Eine Jugendliche stürzt durch eine Kunststoffkuppel. Im Krankenhaus erliegt sie ihren Verletzungen.",
       "url": "https://www.welt.de/vermischtes/",
       "image_url": "https://img.welt.de/img/vermischtes/mobile246186958/9487931477-ci16x9-w20/17-Jaehrige-stuerzt-bei-Abiturfeier-durch-Lichtkuppel-und-stirbt.jpg",
       "image_title": "Der Eingang des Hotels im Bezirk Neukölln"
@@ -403,84 +402,84 @@
       "author": "Maike Grunwald"
     },
     {
+      "title": "Staatliches Museum Schwerin kauft 452 Werke der Fluxus-Kunst",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246194814/Staatliches-Museum-Schwerin-kauft-452-Werke-der-Fluxus-Kunst.html"
+    },
+    {
+      "title": "Fragen zu Lindners Banken-Grußwort müssen beantwortet werden",
+      "url": "https://www.welt.de/regionales/berlin/article246194950/Fragen-zu-Lindners-Banken-Grusswort-muessen-beantwortet-werden.html"
+    },
+    {
+      "title": "19-Jähriger mit 85 gefälschten 200-Euro-Scheinen erwischt",
+      "url": "https://www.welt.de/regionales/hamburg/article246194806/19-Jaehriger-mit-85-gefaelschten-200-Euro-Scheinen-erwischt.html"
+    },
+    {
+      "title": "Streit bei Waldfest: Mutmaßlich Messer eingesetzt",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246194688/Streit-bei-Waldfest-Mutmasslich-Messer-eingesetzt.html"
+    },
+    {
+      "title": "Mann randaliert nach Angriff auf Partnerin am Rettungswagen",
+      "url": "https://www.welt.de/regionales/hessen/article246194690/Mann-randaliert-nach-Angriff-auf-Partnerin-am-Rettungswagen.html"
+    },
+    {
+      "title": "Autofahrer schläft und fährt durch Vorgärten und Garagenwand",
+      "url": "https://www.welt.de/regionales/bayern/article246194504/Autofahrer-schlaeft-und-faehrt-durch-Vorgaerten-und-Garagenwand.html"
+    },
+    {
+      "title": "Kochanovsky wird Chefdirigent der NDR Radiophilharmonie",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246194520/Kochanovsky-wird-Chefdirigent-der-NDR-Radiophilharmonie.html"
+    },
+    {
+      "title": "Kochanovsky wird Chefdirigent der NDR Radiophilharmonie",
+      "url": "https://www.welt.de/regionales/hamburg/article246194496/Kochanovsky-wird-Chefdirigent-der-NDR-Radiophilharmonie.html"
+    },
+    {
+      "title": "Kiloweise Drogen im Rucksack: 26-Jähriger in U-Haft",
+      "url": "https://www.welt.de/regionales/bayern/article246194446/Kiloweise-Drogen-im-Rucksack-26-Jaehriger-in-U-Haft.html"
+    },
+    {
+      "title": "Sprints und Ultraschall: Union Berlin startet Vorbereitung",
+      "url": "https://www.welt.de/regionales/berlin/article246194420/Sprints-und-Ultraschall-Union-Berlin-startet-Vorbereitung.html"
+    },
+    {
+      "title": "Auto fährt in Pfandrückgaberaum von Supermarkt: Verletzter",
+      "url": "https://www.welt.de/regionales/bayern/article246194230/Auto-faehrt-in-Pfandrueckgaberaum-von-Supermarkt-Verletzter.html"
+    },
+    {
+      "title": "Bis 27 Kilometer Stau in Oberbayern wegen Blockabfertigung",
+      "url": "https://www.welt.de/regionales/bayern/article246194216/Bis-27-Kilometer-Stau-in-Oberbayern-wegen-Blockabfertigung.html"
+    },
+    {
+      "title": "Gesetzeslockerung: Abschusserlaubnis für Wolf in der Schweiz",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246194166/Gesetzeslockerung-Abschusserlaubnis-fuer-Wolf-in-der-Schweiz.html"
+    },
+    {
+      "title": "Deutschland-Cup nun in Landshut: Erstmals mit Frauen",
+      "url": "https://www.welt.de/regionales/bayern/article246194032/Deutschland-Cup-nun-in-Landshut-Erstmals-mit-Frauen.html"
+    },
+    {
+      "title": "Lagus halbiert Antragsstau für Quarantäne-Entschädigungen",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246193690/Lagus-halbiert-Antragsstau-fuer-Quarantaene-Entschaedigungen.html"
+    },
+    {
+      "title": "1. FC Nürnberg bricht ins Trainingslager nach Österreich auf",
+      "url": "https://www.welt.de/regionales/bayern/article246193586/1-FC-Nuernberg-bricht-ins-Trainingslager-nach-Oesterreich-auf.html"
+    },
+    {
+      "title": "IT-Umzug von Postbank-Kunden erfolgreich abgeschlossen",
+      "url": "https://www.welt.de/regionales/hessen/article246193482/IT-Umzug-von-Postbank-Kunden-erfolgreich-abgeschlossen.html"
+    },
+    {
+      "title": "Beginn eines «absoluten Mega-Projekts»: Abriss an Unimedizin",
+      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246193320/Beginn-eines-absoluten-Mega-Projekts-Abriss-an-Unimedizin.html"
+    },
+    {
       "title": "Schifffahrtsorganisation IMO berät neue Klimastrategie",
       "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246193058/Schifffahrtsorganisation-IMO-beraet-neue-Klimastrategie.html"
     },
     {
       "title": "Schifffahrtsorganisation IMO berät neue Klimastrategie",
       "url": "https://www.welt.de/regionales/hamburg/article246192680/Schifffahrtsorganisation-IMO-beraet-neue-Klimastrategie.html"
-    },
-    {
-      "title": "Sechs Jahre nach Verschwinden wieder Ermittlungen",
-      "url": "https://www.welt.de/regionales/niedersachsen/article246192572/Sechs-Jahre-nach-Verschwinden-wieder-Ermittlungen.html"
-    },
-    {
-      "title": "Bericht: Felix Nmecha absolviert Medizincheck beim BVB",
-      "url": "https://www.welt.de/regionales/niedersachsen/article246192540/Bericht-Felix-Nmecha-absolviert-Medizincheck-beim-BVB.html"
-    },
-    {
-      "title": "Diehl wächst: Auch wegen Rüstungslieferungen an die Ukraine",
-      "url": "https://www.welt.de/regionales/bayern/article246192522/Diehl-waechst-Auch-wegen-Ruestungslieferungen-an-die-Ukraine.html"
-    },
-    {
-      "title": "Illegale Waffensammlung fliegt bei Feuerwehreinsatz auf",
-      "url": "https://www.welt.de/regionales/bayern/article246192362/Illegale-Waffensammlung-fliegt-bei-Feuerwehreinsatz-auf.html"
-    },
-    {
-      "title": "Viel Interesse an Versteigerung von DDR-Exponaten in Dresden",
-      "url": "https://www.welt.de/regionales/sachsen/article246192252/Viel-Interesse-an-Versteigerung-von-DDR-Exponaten-in-Dresden.html"
-    },
-    {
-      "title": "LNG-Gegner demonstrieren: Hoffnung auf Veto im Bundesrat",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246192250/LNG-Gegner-demonstrieren-Hoffnung-auf-Veto-im-Bundesrat.html"
-    },
-    {
-      "title": "Lastwagen auf A6 gekippt: Verkehrsbehinderungen bei Mannheim",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246192318/Lastwagen-auf-A6-gekippt-Verkehrsbehinderungen-bei-Mannheim.html"
-    },
-    {
-      "title": "Söder kündigt 180.000 neue Betreuungsplätze für Kinder an",
-      "url": "https://www.welt.de/regionales/bayern/article246192240/Soeder-kuendigt-180-000-neue-Betreuungsplaetze-fuer-Kinder-an.html"
-    },
-    {
-      "title": "Spielmannszug aus Hettstedt holt Europameistertitel",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article246192370/Spielmannszug-aus-Hettstedt-holt-Europameistertitel.html"
-    },
-    {
-      "title": "Neugieriger Erdmännchen-Nachwuchs erkundet Rostocker Zoo",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246192158/Neugieriger-Erdmaennchen-Nachwuchs-erkundet-Rostocker-Zoo.html"
-    },
-    {
-      "title": "Unioner Becker und Sparta-Coach Kostic gewinnen BFV-Wahl",
-      "url": "https://www.welt.de/regionales/berlin/article246192128/Unioner-Becker-und-Sparta-Coach-Kostic-gewinnen-BFV-Wahl.html"
-    },
-    {
-      "title": "Wetter-Experte: Zunächst noch kein richtiges Sommergefühl",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246192010/Wetter-Experte-Zunaechst-noch-kein-richtiges-Sommergefuehl.html"
-    },
-    {
-      "title": "Journalistin Mai Thi Nguyen-Kim erhält Kulturpreis",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246192032/Journalistin-Mai-Thi-Nguyen-Kim-erhaelt-Kulturpreis.html"
-    },
-    {
-      "title": "78-Jährige durch Schockanruf um Geld und Schmuck gebracht",
-      "url": "https://www.welt.de/regionales/hamburg/article246191974/78-Jaehrige-durch-Schockanruf-um-Geld-und-Schmuck-gebracht.html"
-    },
-    {
-      "title": "Linke klagt gegen umstrittenes neues Versammlungsgesetz",
-      "url": "https://www.welt.de/regionales/hessen/article246192072/Linke-klagt-gegen-umstrittenes-neues-Versammlungsgesetz.html"
-    },
-    {
-      "title": "Neuer Hahn-Besitzer will 20 Millionen Euro investieren",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246191956/Neuer-Hahn-Besitzer-will-20-Millionen-Euro-investieren.html"
-    },
-    {
-      "title": "BGH: Autokredit-Klausel gilt auch nicht für Unternehmer",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246191952/BGH-Autokredit-Klausel-gilt-auch-nicht-fuer-Unternehmer.html"
-    },
-    {
-      "title": "Sie nannten ihn «Eisenfuß»: Werder-Legende Höttges gestorben",
-      "url": "https://www.welt.de/regionales/niedersachsen/article246191948/Sie-nannten-ihn-Eisenfuss-Werder-Legende-Hoettges-gestorben.html"
     }
   ]
 }
