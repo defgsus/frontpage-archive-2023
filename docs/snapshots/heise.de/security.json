@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-04T08:16:36",
+  "timestamp": "2023-07-04T09:12:45",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet SSL/VPN",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Ueber-335-000-SSL-VPN-Interfaces-von-Fortinet-attackierbar-9206478.html"
+    },
+    {
       "title": "HP-LaserJet-Pro-Drucker",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-HP-LaserJet-Pro-Drucker-moeglich-9205846.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "WordPress-Plug-in Ultimate Member",
       "url": "https://www.heise.de/news/WordPress-Plug-in-Ultimate-Member-Angreifer-machen-sich-zu-Admins-9204916.html"
-    },
-    {
-      "title": "Nvidia",
-      "url": "https://www.heise.de/news/Nvidia-Treiber-Update-schliesst-Codeschmuggel-Schwachstellen-9200904.html"
     },
     {
       "title": "iX-Workshop: Nach dem Einbruch – Digital Forensics & Incident Response (DFIR)",
@@ -67,6 +67,16 @@
       "title": "Jetzt patchen! Backups von ArcServe UDP durch Admin-Attacke in Gefahr",
       "teaser": "Es ist ein wichtiges Update für die Backup-Software ArcServe UDP erschienen. Angreifer können sich als Admin Zugang verschaffen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Backups-von-ArcServe-UDP-durch-Admin-Attacke-in-Gefahr-9205217.html"
+    },
+    {
+      "title": "Malvertising: BlackCat-Ransomware versteckt sich hinter Fake-WinSCP-Tool",
+      "teaser": "Die Hintermänner des Verschlüsselungstrojaners BlackCat (aka ALPHV) setzen auf einen weiteren Verbreitungsweg.",
+      "url": "https://www.heise.de/news/Vorsicht-vor-Malvertising-Fake-WinSCP-Tool-verbreitet-BackCat-Ransomware-9204958.html"
+    },
+    {
+      "title": "Entschlüsselungstool: Sicherheitsforscher knacken Akira-Ransomware",
+      "teaser": "Stimmten die Voraussetzungen, können Opfer des Erpressungstrojaner Akira ohne Lösegeld zu zahlen auf ihre Daten zugreifen.",
+      "url": "https://www.heise.de/news/Entschluesselungstool-Sicherheitsforscher-knacken-Akira-Ransomware-9204932.html"
     },
     {
       "title": "Sicherheitsupdate: Attacken auf WordPress-Plug-in Ultimate Member",
@@ -143,16 +153,6 @@
       "teaser": "Mit iOS 17 und Co. wird der Nacktbildscanner im Betriebssystem nun direkt aktiviert. Er soll dem Kinderschutz dienen.",
       "url": "https://www.heise.de/news/Umstrittene-Funktion-Apples-Kommunikationssicherheit-bald-per-default-9197935.html",
       "image_title": "Apples Kommunikationssicherheit"
-    },
-    {
-      "title": "Sicherheitsupdates: Dell-BIOS gegen verschiedene Attacken gerüstet",
-      "teaser": "Wer einen Computer von Dell besitzt, sollte das BIOS aus Sicherheitsgründen auf den aktuellen Stand bringen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Dell-BIOS-gegen-verschiedene-Attacken-geruestet-9199274.html"
-    },
-    {
-      "title": "secIT Digital: Malware für jedermann dank ChatGPT?",
-      "teaser": "Auf der zweitägigen Online-Security-Konferenz im September dreht sich vieles um die effektive Abwehr von Ransomware-Attacken und um den Missbrauch von ChatGPT.",
-      "url": "https://www.heise.de/news/secIT-Digital-Malware-fuer-jedermann-dank-ChatGPT-9197520.html"
     },
     {
       "title": "heise Security Tour 2023",
