@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-06T07:12:44",
+  "timestamp": "2023-07-06T08:17:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Schadcode-Luecke-in-Android-11-12-und-13-geschlossen-9208524.html"
+    },
+    {
       "title": "MOVEit Transfer",
       "url": "https://www.heise.de/news/MOVEit-Transfer-Service-Pack-schliesst-weitere-kritische-Luecke-9208451.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Geraeteverwaltung-hochriskante-Schwachstelle-in-Ivanti-Endpoint-Manager-9206574.html"
     },
     {
-      "title": "Fortinet SSL/VPN",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Ueber-335-000-SSL-VPN-Interfaces-von-Fortinet-attackierbar-9206478.html"
+      "title": "Patchday: Schadcode-Lücke in Android 11, 12 und 13 geschlossen",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Android-Versionen. Im schlimmsten Fall könnte Schadcode auf Geräte gelangen.",
+      "url": "https://www.heise.de/news/Patchday-Schadcode-Luecke-in-Android-11-12-und-13-geschlossen-9208524.html",
+      "image_title": "Aufmacher Android-Patchday"
+    },
+    {
+      "title": "Photovoltaik-Monitoring: Sicherheitslücken in Solarview werden angegriffen",
+      "teaser": "Das Mirai-Botnet greift auch Lücken im Photovoltaik-Monitoring Solarview an. Weitere Lücken darin stehen bei im Internet zugreifbaren Systemen unter Beschuss.",
+      "url": "https://www.heise.de/news/Photovoltaik-Monitoring-Sicherheitsluecken-in-Solarview-werden-angegriffen-9208511.html",
+      "image_title": "Solar,Panel,Installed,In,Parking,Lot"
     },
     {
       "title": "iX-Intensiv-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
@@ -141,17 +153,6 @@
       "title": "Router-Malware: Aktuelle Kampagne des Mirai-Botnet greift viele Lücken an",
       "teaser": "Das Mirari-Botnet ist weiter aktiv. Die Drahtzieher nutzen in einer aktuellen Kampagne zahlreiche Sicherheitslücken, um diverse Internetrouter zu infizieren.",
       "url": "https://www.heise.de/news/IoT-Malware-Mirai-Botnet-infiziert-weiter-Internetrouter-9203406.html"
-    },
-    {
-      "title": "Cyber-Attacke auf kanadischen Mineralölkonzern Suncor führt zu Störungen",
-      "teaser": "Das kanadische Mineralölunternehmen Suncor Energy ist Opfer eines Cyber-Angriffs geworden. Transaktionen mit Kunden und Lieferanten seien beeinträchtigt.",
-      "url": "https://www.heise.de/news/Cyber-Angriff-Stoerungen-beim-kanadischen-Mineraloelunternehmen-Suncor-Energy-9202368.html"
-    },
-    {
-      "title": "Cybergang Cl0p nennt weitere namhafte Opfer der Einbrüche durch MOVEit-Lücke",
-      "teaser": "Die Liste der Cl0p-Opfer wird stetig länger. Jetzt wurden weitere namhafte Opfer bekannt: EY, PWC, Schneider Electric und Siemens Energy sind darunter.",
-      "url": "https://www.heise.de/news/MOVEit-Luecke-Weitere-namhafte-Opfer-der-Cl0p-Cybergang-9202121.html",
-      "image_title": "Closeup,Of,Laptop,Keyboard,Illumination,,Backlit,Keyboard"
     },
     {
       "title": "heise Security Tour 2023",
