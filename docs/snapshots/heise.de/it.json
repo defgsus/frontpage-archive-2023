@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-07T09:12:26",
+  "timestamp": "2023-07-07T10:13:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "China-Betriebssystem: Linux-Distribution openKylin erreicht Stand 1.0",
+      "teaser": "Schon lange arbeitet China an einem eigenen Betriebssystem, um nicht von Microsoft oder anderen Staaten abhängig zu sein. openKylin 1.0 verspricht Stabilität.",
+      "url": "https://www.heise.de/news/Linux-Version-1-0-des-chinesischen-Betriebssystems-openKylin-erschienen-9208944.html",
+      "image_title": "Aufmacher-Bild basierend auf Screenshot von oepnkylin.top"
+    },
+    {
       "title": "TeamsPhisher: Tool automatisiert Angriffe auf Teams-Schwachstelle",
       "teaser": "Über eine Schwachstelle in Teams können Angreifer Malware unterjubeln. Ein jetzt veröffentlichtes Tool macht diese Attacken noch einfacher.",
       "url": "https://www.heise.de/news/TeamsPhisher-Tool-automatisiert-Angriffe-auf-Teams-Schwachstelle-9208677.html",
@@ -38,10 +44,9 @@
       "image_title": "iPhone mit Ansicht des App Stores zu Threads"
     },
     {
-      "title": "Inflection AI baut mit Nvidia milliardenteuren KI-Supercomputer",
-      "teaser": "Die unter anderem von Bill Gates, Eric Schmidt und Nvidia finanzierte Firma will ihren KI-Chatbot „Pi“ auf 22.000 H100-Beschleunigern trainieren.",
-      "url": "https://www.heise.de/news/Inflection-AI-baut-mit-Nvidia-milliardenteuren-KI-Supercomputer-9205034.html",
-      "image_title": "Rechenzentrum mit Nvidia-Technik"
+      "title": "IT-Security mit Intel TDX: Wie Confidential Computing Schutz in der Cloud bietet",
+      "teaser": "Intel hat die Xeon-Enterprise-Prozessoren um die Trust Domain Extensions (TDX) erweitert. Damit lassen sich VMs in einer vertrauenswürdigen Umgebung ausführen.",
+      "url": "https://www.heise.de/hintergrund/IT-Security-mit-Intel-TDX-Wie-Confidential-Computing-Schutz-in-der-Cloud-bietet-9208442.html"
     },
     {
       "title": "Webentwicklung: Die neue Generation JavaScript-Metaframeworks",
@@ -49,20 +54,20 @@
       "url": "https://www.heise.de/hintergrund/Webentwicklung-Die-neue-Generation-JavaScript-Metaframeworks-9207984.html"
     },
     {
-      "title": "BIMI: So machen Unternehmen ihre E-Mails vertrauenswürdiger",
-      "teaser": "Der Standard BIMI sorgt dafür, dass E-Mail-Empfänger das Markenlogo des Absenders sehen. Das erschwert Phishing und trägt so zu mehr Sicherheit bei.",
-      "url": "https://www.heise.de/ratgeber/BIMI-So-machen-Unternehmen-ihre-E-Mails-vertrauenswuerdiger-9209293.html",
-      "image_title": "E-Mails auf Smartphone"
+      "title": "Fritzbox 7530 AX bekommt erstes FritzOS-Update seit über einem Jahr",
+      "teaser": "AVM gibt die FritzOS-Version 7.56 für weitere Geräte frei. Neben mehreren Fritzboxen bekommen auch Fritz-Repeater das Update.",
+      "url": "https://www.heise.de/news/Fritzbox-7530-AX-bekommt-erstes-FritzOS-Update-seit-ueber-einem-Jahr-9209868.html"
+    },
+    {
+      "title": "OpenAI gibt API für GPT-4 allgemein frei und schaltet im Januar alte Modelle ab",
+      "teaser": "Das aktuelle Sprachmodell von OpenAI steht nun allen Bestandskunden offen, und bis Ende des Monats sollen auch Neukunden Zugang erhalten.",
+      "url": "https://www.heise.de/news/OpenAI-gibt-API-fuer-GPT-4-allgemein-frei-und-schaltet-im-Januar-alte-Modelle-ab-9209530.html",
+      "image_title": "Gpt4,Improved,Chatbot,Illustrations.,Artificial,Intelligence,Chatbot.chat,Gpt,4,Illustration"
     },
     {
       "title": "Microsoft Powertoys 0.71.0 verbessern die Vorschau",
       "teaser": "Microsoft hat die Powertoys für WIndows in Version 0.71.0 herausgegeben. Die Vorschau-Funktion wurde erweitert, viele Programmteile wurden aktualisiert.",
       "url": "https://www.heise.de/news/Microsoft-Powertoys-0-71-0-verbessern-die-Vorschau-9209733.html"
-    },
-    {
-      "title": "IT-Security mit Intel TDX: Wie Confidential Computing Schutz in der Cloud bietet",
-      "teaser": "Intel hat die Xeon-Enterprise-Prozessoren um die Trust Domain Extensions (TDX) erweitert. Damit lassen sich VMs in einer vertrauenswürdigen Umgebung ausführen.",
-      "url": "https://www.heise.de/hintergrund/IT-Security-mit-Intel-TDX-Wie-Confidential-Computing-Schutz-in-der-Cloud-bietet-9208442.html"
     },
     {
       "title": "Visual Studio Code 1.80 bewahrt Layout geteilter Editor-Gruppen",
@@ -92,6 +97,12 @@
       "teaser": "Sachsens Gesundheitsministerium hat eine betrügerische Rechnung bezahlt und Kriminellen 225.000 Euro überwiesen. Vor der Masche hat das LKA schon 2016 gewarnt.",
       "url": "https://www.heise.de/news/Auf-Phishing-reingefallen-Landesministerium-ueberweist-Kriminellen-225-000-Euro-9209280.html",
       "image_title": "Bedrucktte Kassazettelrollen"
+    },
+    {
+      "title": "BIMI: So machen Unternehmen ihre E-Mails vertrauenswürdiger",
+      "teaser": "Der Standard BIMI sorgt dafür, dass E-Mail-Empfänger das Markenlogo des Absenders sehen. Das erschwert Phishing und trägt so zu mehr Sicherheit bei.",
+      "url": "https://www.heise.de/ratgeber/BIMI-So-machen-Unternehmen-ihre-E-Mails-vertrauenswuerdiger-9209293.html",
+      "image_title": "E-Mails auf Smartphone"
     },
     {
       "title": "Threads in Deutschland auf dem iPhone installieren",
@@ -126,18 +137,6 @@
       "teaser": "Für das Pflichtfach Informatik braucht es genügend Fachkräfte an den Schulen. Niedersachsen hat versucht, mit Weiterbildungen genügend Personal zu beschaffen.",
       "url": "https://www.heise.de/news/Einfuehrung-Pflichtfach-Informatik-Niedersachsen-setzt-fachfremde-Lehrkraefte-ein-9208968.html",
       "image_title": "Innovative,Ai,Robot,Tutor,Helping,A,Teenage,Boy,With,Homework,"
-    },
-    {
-      "title": "China-Betriebssystem: Linux-Distribution openKylin erreicht Stand 1.0",
-      "teaser": "Schon lange arbeitet China an einem eigenen Betriebssystem, um nicht von Microsoft oder anderen Staaten abhängig zu sein. openKylin 1.0 verspricht Stabilität.",
-      "url": "https://www.heise.de/news/Linux-Version-1-0-des-chinesischen-Betriebssystems-openKylin-erschienen-9208944.html",
-      "image_title": "Aufmacher-Bild basierend auf Screenshot von oepnkylin.top"
-    },
-    {
-      "title": "Silicon Valley: Warum die Bank der Start-ups scheiterte – und wie es weitergeht",
-      "teaser": "Wer über die Silicon Valley Bank redet, die im Frühjahr in die Pleite geriet, muss über Klumpenrisiken sprechen. Wie konnte das der Tech-Branche passieren?",
-      "url": "https://www.heise.de/news/Silicon-Valley-Warum-die-Bank-der-Start-ups-scheiterte-und-wie-es-weitergeht-9208982.html",
-      "image_title": "Firmenschild auf dem Grundstück des Hauptquartiers der Silicon Valley Bank in Santa Clara, US-Bundesstaat Kalifornien."
     },
     {
       "title": "Zoho führend in Kundenorientierung",
