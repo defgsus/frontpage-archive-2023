@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-07T10:13:36",
+  "timestamp": "2023-07-07T11:10:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Linux",
+      "url": "https://www.heise.de/news/Linux-Kernel-Exploit-fuer-Sicherheitsluecke-angekuendigt-9209878.html"
+    },
+    {
       "title": "Mastodon",
       "url": "https://www.heise.de/news/Fediverse-Kritische-Sicherheitsluecken-in-Mastodon-Software-abgedichtet-9209526.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Schadcode-Luecke-in-Android-11-12-und-13-geschlossen-9208524.html"
     },
     {
-      "title": "MOVEit Transfer",
-      "url": "https://www.heise.de/news/MOVEit-Transfer-Service-Pack-schliesst-weitere-kritische-Luecke-9208451.html"
+      "title": "Linux-Kernel: Exploit für Sicherheitslücke angekündigt",
+      "teaser": "Im Linux-Kernel schlummert eine Sicherheitslücke, durch die Nutzer ihre Rechte im System ausweiten können. Der Entdecker kündigt Exploit-Code für Ende Juli an.",
+      "url": "https://www.heise.de/news/Linux-Kernel-Exploit-fuer-Sicherheitsluecke-angekuendigt-9209878.html"
     },
     {
       "title": "Fediverse: Kritische Sicherheitslücken in Mastodon-Software abgedichtet",
@@ -152,11 +157,6 @@
       "url": "https://www.heise.de/news/Vorsicht-vor-Malvertising-Fake-WinSCP-Tool-verbreitet-BackCat-Ransomware-9204958.html"
     },
     {
-      "title": "Entschlüsselungstool: Sicherheitsforscher knacken Akira-Ransomware",
-      "teaser": "Stimmten die Voraussetzungen, können Opfer des Erpressungstrojaner Akira ohne Lösegeld zu zahlen auf ihre Daten zugreifen.",
-      "url": "https://www.heise.de/news/Entschluesselungstool-Sicherheitsforscher-knacken-Akira-Ransomware-9204932.html"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Auf der Konferenz lernen Sie den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern. Es erwarten Sie sechs Vorträge von ausgewiesenen IT-Security-Experten.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
@@ -177,6 +177,11 @@
       "url": "https://www.heise.de/hintergrund/Cyber-Cyber-die-Nationale-Sicherheitsstrategie-eine-Analyse-9191149.html"
     },
     {
+      "title": "Re: Bedienfehler. Funktioniert doch.",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Bedienfehler-Funktioniert-doch/posting-42839333/show/"
+    },
+    {
       "title": "Re: Kein Scan möglich: \"dysfunktionale Signaturen\"",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Kein-Scan-moeglich-dysfunktionale-Signaturen/posting-42830939/show/"
@@ -185,11 +190,6 @@
       "title": "Re: PXE/TFTP Boot möglich?",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-PXE-TFTP-Boot-moeglich/posting-42830620/show/"
-    },
-    {
-      "title": "Re: Anleitung: Desinfec't downloaden (Prüfsumme/Hashwerte)",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Anleitung-Desinfec-t-downloaden-Pruefsumme-Hashwerte/posting-42827225/show/"
     }
   ]
 }
