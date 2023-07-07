@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-07T06:17:03",
+  "timestamp": "2023-07-07T07:11:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco Nexus 9000",
+      "url": "https://www.heise.de/news/Cisco-Nexus-9000-Angreifer-koennen-Verschluesselung-brechen-kein-Update-9209485.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Schadcode-Luecke-in-Android-11-12-und-13-geschlossen-9208524.html"
     },
@@ -44,20 +48,16 @@
       "url": "https://www.heise.de/news/Webbrowser-und-Mailer-Firefox-115-und-Thunderbird-102-13-schliessen-Luecken-9207311.html"
     },
     {
-      "title": "Ivanti Endpoint Manager",
-      "url": "https://www.heise.de/news/Geraeteverwaltung-hochriskante-Schwachstelle-in-Ivanti-Endpoint-Manager-9206574.html"
-    },
-    {
-      "title": "Auf E-Mail reingefallen: Landesministerium überweist Kriminellen 225.000 Euro",
-      "teaser": "Sachsens Gesundheitsministerium hat eine betrügerische Rechnung bezahlt und Kriminellen 225.000 Euro überwiesen. Vor der Masche hat das LKA schon 2016 gewarnt.",
-      "url": "https://www.heise.de/news/Auf-Phishing-reingefallen-Landesministerium-ueberweist-Kriminellen-225-000-Euro-9209280.html",
-      "image_title": "Bedrucktte Kassazettelrollen"
-    },
-    {
       "title": "Weiterbildung mit Hochschulzertifikat: IT-Sicherheit in Produktionsanlagen",
       "teaser": "Die Hochschule Hannover bietet in Kooperation mit iX eine paxisnahe Weiterbildung in IT-Sicherheit für Operational Technology (OT) an.",
       "url": "https://www.heise.de/news/Weiterbildung-mit-Hochschulzertifikat-IT-Sicherheit-in-Produktionsanlagen-9205488.html",
       "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
+    },
+    {
+      "title": "TeamsPhisher: Tool automatisiert Angriffe auf Teams-Schwachstelle",
+      "teaser": "Über eine Schwachstelle in Teams können Angreifer Malware unterjubeln. Ein jetzt veröffentlichtes Tool macht diese Attacken noch einfacher.",
+      "url": "https://www.heise.de/news/TeamsPhisher-Tool-automatisiert-Angriffe-auf-Teams-Schwachstelle-9208677.html",
+      "image_title": "Portland,,Or,,Usa,-,Aug,10,,2021:,Premium,Microsoft,365"
     },
     {
       "title": "Patchday: Vielfältige Attacken auf Android 11, 12 und 13 möglich",
@@ -75,6 +75,12 @@
       "title": "Progress schließt weitere kritische Sicherheitslücke in MOVEit Transfer",
       "teaser": "Mit dem Service Pack für MOVEit Transfer im Juli schließt Progress weitere Sicherheitslücken. Eine davon stuft der Hersteller als kritisch ein.",
       "url": "https://www.heise.de/news/MOVEit-Transfer-Service-Pack-schliesst-weitere-kritische-Luecke-9208451.html"
+    },
+    {
+      "title": "Microsoft: Anonymous Sudan behauptet, 30 Millionen Zugänge geklaut zu haben",
+      "teaser": "Anonymous Sudan behauptet, Zugangsdaten zu 30 Millionen Microsoft-Konten erlangt zu haben. Microsoft streitet das ab, keine Daten seien gestohlen worden.",
+      "url": "https://www.heise.de/news/Datenleck-Anonymous-Sudan-will-Zugang-zu-30-Millionen-Microsoft-Konten-haben-9207604.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "iX-Intensiv-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
@@ -148,11 +154,6 @@
       "title": "Sicherheitsupdate: Attacken auf WordPress-Plug-in Ultimate Member",
       "teaser": "Derzeit nutzen Angreifer eine kritische Lücke im WordPress-Plug-in Ultimate Member aus. Der Anbieter rät zu einem zügigen Update.",
       "url": "https://www.heise.de/news/WordPress-Plug-in-Ultimate-Member-Angreifer-machen-sich-zu-Admins-9204916.html"
-    },
-    {
-      "title": "Lücken der SAP-Authentifizierung",
-      "teaser": "Die proprietäre Authentifizierung bei SAP ABAP wies eine Reihe von Lücken auf. Die hat SAP zwar mit Patches adressiert – doch das war wohl nur der Anfang.",
-      "url": "https://www.heise.de/news/SAP-Authentifizierungs-Konzept-mit-Maengeln-9203990.html"
     },
     {
       "title": "heise Security Tour 2023",
