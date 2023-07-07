@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-07T05:12:27",
+  "timestamp": "2023-07-07T06:17:31",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,6 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Beleidigung als „Södolf“ – Bundestag hebt Immunität von AfD-Landeschef auf",
+      "teaser": "Bereits zum zweiten Mal entzieht der Bundestag dem bayerischen AfD-Chef Stephan Protschka die Immunität. Hintergrund ist auch eine Anzeige des bayerischen Ministerpräsidenten Söder nach einer denkwürdigen Aschermittwoch-Rede Protschkas.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile246263626/4537937897-ci23x11-w20/Bundestag.jpg",
+      "image_title": "Bundestag"
+    },
+    {
+      "title": "Tipps für Gravelbiker – vom Erzgebirge bis zu den Alpen",
+      "teaser": "Touren mit Gravelbikes sind im Trend. Und so umwerben immer mehr Ferienregionen die Fans des Radsports mit speziellen Angeboten – von Themenrouten bis zum Pauschalpaket. Ein Überblick über interessante Strecken in verschiedenen Regionen Deutschlands.",
+      "url": "https://www.welt.de/reise/deutschland/",
+      "image_url": "https://img.welt.de/img/reise/mobile246237514/4107932457-ci23x11-w20/AMMERGAUER-ALPEN.jpg",
+      "image_title": "Im Naturpark Ammergauer Alpen finden Gravelbiker lohnenswerte Strecken",
+      "author": "Rudi Stallein"
+    },
+    {
       "title": "Erfrischender Salat mit Wassermelone und Feta",
       "teaser": "Walter Stemberg und sein Sohn Sascha betreiben in Velbert das Sternerestaurant „Haus Stemberg“. In einer Serie erklären sie die Grundlagen des Kochens. In dieser Folge bereiten sie den perfekten Beilagensalat zu.",
       "url": "https://www.welt.de/regionales/nrw/article246256326/Sascha-und-Walter-Stemberg-Salat-mit-Wassermelone-und-Feta.html",
@@ -50,21 +65,6 @@
       "author": "Jörn Lauterbach"
     },
     {
-      "title": "„Scholz handelt nicht sonderlich verantwortungsbewusst“",
-      "teaser": "Hamburgs Zweite Bürgermeisterin Fegebank (Grüne) wirft Kanzler Scholz (SPD) vor, eine besondere Verantwortung für die Zerrüttungen in der Ampel-Koalition zu tragen – vor allem, weil er die FDP nicht „gut genug“ einfange. Für sie steht fest: Wirtschaftsminister Habeck habe Kanzlerpotenzial.",
-      "url": "https://www.welt.de/politik/deutschland/plus246236058/Gruene-Scholz-handelt-nicht-sonderlich-verantwortungsbewusst.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246237238/4237937557-ci23x11-w20/Katharina-Fegebank-5.jpg",
-      "image_title": "Katharina Fegebank (Grüne), 46, Zweite Bürgermeisterin sowie Wissenschafts- und Gleichstellungssenatorin von Hamburg",
-      "author": "Ulrich Exner"
-    },
-    {
-      "title": "Berliner Verkehrsverwaltung streicht fünf Radwegprojekte",
-      "teaser": "Der Streit um Radwege in Berlin geht weiter: Die Verkehrsverwaltung hat entschieden, fünf von elf demnächst anstehenden Bauprojekten zu kippen. Unter anderem werde dort der Verkehrsfluss beeinträchtigt. Eine Kreuzberger Grünen-Bürgermeisterin wehrt sich mit rechtlichen Schritten.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246246832/4007935477-ci23x11-w20/Fahrradfahrer-im-Verkehr.jpg",
-      "image_title": "Ein Fahrradfahrer zwischen zwei Autos: Die CDU-Verkehrssenatorin will Radwege bauen, aber auch Rücksicht auf Autos und Fußgänger nehmen"
-    },
-    {
       "title": "Lieferando-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -85,10 +85,18 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "„Scholz handelt nicht sonderlich verantwortungsbewusst“",
+      "teaser": "Hamburgs Zweite Bürgermeisterin Fegebank (Grüne) wirft Kanzler Scholz (SPD) vor, eine besondere Verantwortung für die Zerrüttungen in der Ampel-Koalition zu tragen – vor allem, weil er die FDP nicht „gut genug“ einfange. Für sie steht fest: Wirtschaftsminister Habeck habe Kanzlerpotenzial.",
+      "url": "https://www.welt.de/politik/deutschland/plus246236058/Gruene-Scholz-handelt-nicht-sonderlich-verantwortungsbewusst.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246237238/4237937557-ci16x9-w20/Katharina-Fegebank-5.jpg",
+      "image_title": "Katharina Fegebank (Grüne), 46, Zweite Bürgermeisterin sowie Wissenschafts- und Gleichstellungssenatorin von Hamburg",
+      "author": "Ulrich Exner"
+    },
+    {
       "title": "Eine Tote und Hunderte Einsätze wegen Orkanböen – Entwarnung am Abend",
       "teaser": "Sturm- und Orkanböen fegten am Mittwoch über Niedersachsen und Bremen. Die Küste war besonders betroffen. Im Emsland begrub ein Baum eine Fußgängerin unter sich. Die Frau starb. Am Abend gab der Deutsche Wetterdienst Entwarnung.",
       "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile246230412/1097933027-ci16x9-w20/NETHERLANDS-WEATHER-STORM.jpg",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile246230412/1097933027-ci23x11-w20/NETHERLANDS-WEATHER-STORM.jpg",
       "image_title": "NETHERLANDS-WEATHER-STORM"
     },
     {
@@ -124,17 +132,16 @@
       "author": "Denis Fengler"
     },
     {
-      "title": "Warum mussten Ann Marie und Danny sterben?",
-      "teaser": "Ein junges Paar wird bei einer Messerattacke in einem Zug bei Brokstedt getötet. Vier weitere Fahrgäste werden schwer verletzt. Wegen mehrfachen Mordes und Mordversuchs muss sich der Palästinenser Ibrahim A. vor Gericht verantworten. Die Staatsanwaltschaft äußert sich vorab zur Schuldfähigkeit.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246228598/1147931717-ci23x11-w20/Bahnhof-in-Brokstedt.jpg",
-      "image_title": "Ein Kreuz mit den Namen der Opfer der Messerattacke wurde nebem dem Wartehäuschen des Bahnhofs in Brokstedt aufgestellt"
+      "title": "Berliner Verkehrsverwaltung streicht fünf Radwegprojekte",
+      "teaser": "Der Streit um Radwege in Berlin geht weiter: Die Verkehrsverwaltung hat entschieden, fünf von elf demnächst anstehenden Bauprojekten zu kippen. Unter anderem werde dort der Verkehrsfluss beeinträchtigt. Eine Kreuzberger Grünen-Bürgermeisterin wehrt sich mit rechtlichen Schritten.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246246832/4007935477-ci16x9-w20/Fahrradfahrer-im-Verkehr.jpg",
+      "image_title": "Ein Fahrradfahrer zwischen zwei Autos: Die CDU-Verkehrssenatorin will Radwege bauen, aber auch Rücksicht auf Autos und Fußgänger nehmen"
     },
     {
       "title": "Mit dem Kajak durch die Wildnis in Brandenburg",
-      "teaser": "Die Müggelspree vor den Toren Berlins gilt als eine der schönsten Kajakstrecken in Brandenburg. Auf einer zweitägigen Tour taucht man in eine verwunschene Wasserlandschaft ein, in der außer dem Paddelschlag nur das Rauschen im Schilf und die Tiere zu hören sind.",
-      "url": "https://www.welt.de/reise/deutschland/",
-      "image_url": "https://img.welt.de/img/reise/mobile246230272/3617934887-ci16x9-w20/SPREEWALD-DAHME-SEEN.jpg",
+      "url": "https://www.welt.de/reise/deutschland/article246222582/Brandenburg-Romantische-Tour-mit-einem-Kajak-auf-der-Spree.html",
+      "image_url": "https://img.welt.de/img/reise/mobile246230272/3617934887-ci102l-w20/SPREEWALD-DAHME-SEEN.jpg",
       "image_title": "Allein mit der Natur: ein einsamer Paddler auf der Müggelspree",
       "author": "Oliver Gerhard"
     },
@@ -156,12 +163,6 @@
       "url": "https://www.welt.de/vermischtes/article246207470/Berlin-Fehlendes-Sanitaetskonzept-Dr-Mottes-Rave-The-Planet-vor-dem-Aus.html",
       "image_url": "https://img.welt.de/img/vermischtes/mobile246207556/0037936947-ci102l-w20/Rave-The-Planet-Parade-von-Dr-Motte.jpg",
       "image_title": "Die „Rave the Planet“-Parade 2022 im Berliner Tiergarten"
-    },
-    {
-      "title": "Demonstration gegen Öffnung der Friedrichstraße für Autoverkehr",
-      "url": "https://www.welt.de/politik/deutschland/article246201536/Berlin-Demonstration-gegen-Oeffnung-der-Friedrichstrasse-fuer-Autoverkehr.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246201558/0827932677-ci102l-w20/Proteste-gegen-Oeffnung-der-Friedrichstrasse-fuer-Autoverkehr.jpg",
-      "image_title": "Zwei Demonstranten trugen Masken von Verkehrssenatorin Maja Schreiner und des Regierenden Bürgermeisters Kai Wegner (beide CDU)"
     },
     {
       "title": "Ditib, Erdogan und die neue Großmoschee – wie ein Streit eine deutsche Stadt umtreibt",
@@ -409,6 +410,58 @@
       "image_title": "ARCHIV - 16.09.2021, Berlin: Zahlreiche Tüten mit Ecstasy-Tabletten liegen bei einem Pressegespräch des Zollfahndungsamtes Berlin-Brandenburg auf einem Tisch. Eine 13-jährige Schülerin stirbt nach der mutmaßlichen Einnahme einer Ecstasy-Pille. Eine 14-Jährige liegt in Neubrandenburg in der Klinik und kämpft um ihr Leben.(zu dpa \"13-Jährige stirbt nach Ecstasy-Konsum - vier Festnahmen\") Foto: Paul Zinken/dpa +++ dpa-Bildfunk +++"
     },
     {
+      "title": "22-Jähriger bei Motorradunfall schwer verletzt",
+      "url": "https://www.welt.de/regionales/nrw/article246264062/22-Jaehriger-bei-Motorradunfall-schwer-verletzt.html"
+    },
+    {
+      "title": "FDP-Landeschef Höne bezweifelt Kanzlertauglichkeit von Wüst",
+      "url": "https://www.welt.de/regionales/nrw/article246264056/FDP-Landeschef-Hoene-bezweifelt-Kanzlertauglichkeit-von-Wuest.html"
+    },
+    {
+      "title": "Task-Force und Sonderausschuss bei Siemens Energy",
+      "url": "https://www.welt.de/regionales/bayern/article246264036/Task-Force-und-Sonderausschuss-bei-Siemens-Energy.html"
+    },
+    {
+      "title": "Auto-Zusammenstoß auf B109 bei Ferdinandshof",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246264016/Auto-Zusammenstoss-auf-B109-bei-Ferdinandshof.html"
+    },
+    {
+      "title": "Finanzministerium gegen Abschaffung der Grunderwerbsteuer",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article246264020/Finanzministerium-gegen-Abschaffung-der-Grunderwerbsteuer.html"
+    },
+    {
+      "title": "Bis zu 35 Grad am Wochenende",
+      "url": "https://www.welt.de/regionales/sachsen/article246263722/Bis-zu-35-Grad-am-Wochenende.html"
+    },
+    {
+      "title": "Bis zu 34 Grad in Niedersachsen und Bremen am Wochenende",
+      "url": "https://www.welt.de/regionales/niedersachsen/article246263718/Bis-zu-34-Grad-in-Niedersachsen-und-Bremen-am-Wochenende.html"
+    },
+    {
+      "title": "Metalldiebe stehlen Futtertröge aus Schweinezucht",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246263686/Metalldiebe-stehlen-Futtertroege-aus-Schweinezucht.html"
+    },
+    {
+      "title": "Sonne und teils über 30 Grad am Wochenende",
+      "url": "https://www.welt.de/regionales/hamburg/article246263624/Sonne-und-teils-ueber-30-Grad-am-Wochenende.html"
+    },
+    {
+      "title": "Kellerbrand in einem Hochhaus in Neukölln: Zwei Verletzte",
+      "url": "https://www.welt.de/regionales/berlin/article246263572/Kellerbrand-in-einem-Hochhaus-in-Neukoelln-Zwei-Verletzte.html"
+    },
+    {
+      "title": "Vier Menschen bei Unfall in Meppen verletzt",
+      "url": "https://www.welt.de/regionales/niedersachsen/article246263342/Vier-Menschen-bei-Unfall-in-Meppen-verletzt.html"
+    },
+    {
+      "title": "Planetarium am Insulaner feiert Abschiedsfest vor Umbauphase",
+      "url": "https://www.welt.de/regionales/berlin/article246263326/Planetarium-am-Insulaner-feiert-Abschiedsfest-vor-Umbauphase.html"
+    },
+    {
+      "title": "Künstliche Intelligenz im Stall: Projekt mit Milchziegen",
+      "url": "https://www.welt.de/regionales/niedersachsen/article246263258/Kuenstliche-Intelligenz-im-Stall-Projekt-mit-Milchziegen.html"
+    },
+    {
       "title": "Mann von Bus überrollt und lebensgefährlich verletzt",
       "url": "https://www.welt.de/regionales/nrw/article246263240/Mann-von-Bus-ueberrollt-und-lebensgefaehrlich-verletzt.html"
     },
@@ -435,58 +488,6 @@
     {
       "title": "Autofahrer nimmt Polizeiauto mit Blaulicht die Vorfahrt",
       "url": "https://www.welt.de/regionales/thueringen/article246262988/Autofahrer-nimmt-Polizeiauto-mit-Blaulicht-die-Vorfahrt.html"
-    },
-    {
-      "title": "Sonne und bis zu 35 Grad am Wochenende",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246262980/Sonne-und-bis-zu-35-Grad-am-Wochenende.html"
-    },
-    {
-      "title": "Sonne und hohe Temperaturen am Wochenende",
-      "url": "https://www.welt.de/regionales/berlin/article246262984/Sonne-und-hohe-Temperaturen-am-Wochenende.html"
-    },
-    {
-      "title": "CDU-Landeschef Schulze: Linke ist eine «Partei von gestern»",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article246262968/CDU-Landeschef-Schulze-Linke-ist-eine-Partei-von-gestern.html"
-    },
-    {
-      "title": "Künstler aus NRW gestaltet Bunker für Zivilisten in Ukraine",
-      "url": "https://www.welt.de/regionales/nrw/article246262956/Kuenstler-aus-NRW-gestaltet-Bunker-fuer-Zivilisten-in-Ukraine.html"
-    },
-    {
-      "title": "Unfall auf A1 Richtung Fehmarn: Fahrbahn gesperrt",
-      "url": "https://www.welt.de/regionales/hamburg/article246262960/Unfall-auf-A1-Richtung-Fehmarn-Fahrbahn-gesperrt.html"
-    },
-    {
-      "title": "Jugendherbergen: Hohe Buchungsnachfrage bei Familien",
-      "url": "https://www.welt.de/regionales/niedersachsen/article246262952/Jugendherbergen-Hohe-Buchungsnachfrage-bei-Familien.html"
-    },
-    {
-      "title": "Marisa Burger wird 50: Vermisst gleichaltrige Frauen im TV",
-      "url": "https://www.welt.de/regionales/bayern/article246262944/Marisa-Burger-wird-50-Vermisst-gleichaltrige-Frauen-im-TV.html"
-    },
-    {
-      "title": "Bis zu 36 Grad am Wochenende in Hessen",
-      "url": "https://www.welt.de/regionales/hessen/article246262938/Bis-zu-36-Grad-am-Wochenende-in-Hessen.html"
-    },
-    {
-      "title": "VfB-Sportvorstand? Wohlgemuth hat «andere Prioritäten»",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246262934/VfB-Sportvorstand-Wohlgemuth-hat-andere-Prioritaeten.html"
-    },
-    {
-      "title": "Fast vier Millionen Euro aus Strafverfahren",
-      "url": "https://www.welt.de/regionales/sachsen/article246262926/Fast-vier-Millionen-Euro-aus-Strafverfahren.html"
-    },
-    {
-      "title": "12 Ehrenamtler werden mit Thüringer Rose ausgezeichnet",
-      "url": "https://www.welt.de/regionales/thueringen/article246262922/12-Ehrenamtler-werden-mit-Thueringer-Rose-ausgezeichnet.html"
-    },
-    {
-      "title": "Weiterer Brief bemängelt Lage an Unimedizin Mainz",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246262918/Weiterer-Brief-bemaengelt-Lage-an-Unimedizin-Mainz.html"
-    },
-    {
-      "title": "Professorin: Jeder Radfahrer mehr ist ein Autofahrer weniger",
-      "url": "https://www.welt.de/regionales/berlin/article246262912/Professorin-Jeder-Radfahrer-mehr-ist-ein-Autofahrer-weniger.html"
     }
   ]
 }
