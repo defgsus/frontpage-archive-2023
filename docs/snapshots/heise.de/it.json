@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-07T11:10:24",
+  "timestamp": "2023-07-07T12:26:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -44,14 +44,49 @@
       "image_title": "iPhone mit Ansicht des App Stores zu Threads"
     },
     {
-      "title": "IT-Security mit Intel TDX: Wie Confidential Computing Schutz in der Cloud bietet",
-      "teaser": "Intel hat die Xeon-Enterprise-Prozessoren um die Trust Domain Extensions (TDX) erweitert. Damit lassen sich VMs in einer vertrauenswürdigen Umgebung ausführen.",
-      "url": "https://www.heise.de/hintergrund/IT-Security-mit-Intel-TDX-Wie-Confidential-Computing-Schutz-in-der-Cloud-bietet-9208442.html"
+      "title": "Grafikkarten-Upgrade leicht gemacht: Wie Sie Ihren Rechner aufwerten",
+      "teaser": "Bei vielen Rechnern kann man leicht eine neue Grafikkarte einbauen und erhält einen starken 3D-Schub. Wir geben dazu Aufrüstempfehlungen und Hilfestellung.",
+      "url": "https://www.heise.de/ratgeber/Grafikkarten-Upgrade-leicht-gemacht-Wie-Sie-Ihren-Rechner-aufwerten-9203919.html"
     },
     {
-      "title": "Webentwicklung: Die neue Generation JavaScript-Metaframeworks",
-      "teaser": "Clientseitige SPAs sind recht eingeschränkt. Metaframeworks wie Next.js, Remix und Gatsby kombinieren hingegen die Stärken von Client und Server.",
-      "url": "https://www.heise.de/hintergrund/Webentwicklung-Die-neue-Generation-JavaScript-Metaframeworks-9207984.html"
+      "title": "Alte PCs und Notebooks mit Linux wieder flott machen",
+      "teaser": "Der alte Computer lahmt, ist aber zu schade für den Elektroschrott? Eine Linux-Distribution wirkt lebensverlängernd und lässt alte Hardware aufblühen.",
+      "url": "https://www.heise.de/ratgeber/Alte-PCs-und-Notebooks-mit-Linux-wieder-flott-machen-9201189.html",
+      "image_title": ","
+    },
+    {
+      "title": "RAM-Upgrade: Wie Sie den PC-Arbeitsspeicher aufrüsten",
+      "teaser": "Mehr Arbeitsspeicher bringt manchen lahmen Computer wieder auf Trab. Bei Desktop-PCs und vielen Mini-PCs ist das Nachrüsten einfach.",
+      "url": "https://www.heise.de/ratgeber/RAM-Upgrade-Wie-Sie-den-PC-Arbeitsspeicher-aufruesten-9201090.html",
+      "image_title": ","
+    },
+    {
+      "title": "Datenträgerwechsel mit c't-Notfall-Windows: Tipps zur reibungslosen Übertragung",
+      "teaser": "Wenn langsame Windows-PCs und -Notebooks auf eine neue SSD umgerüstet werden sollen, hilft unser c't-Notfall-Windows. Dieser Artikel gibt dazu Tipps.",
+      "url": "https://www.heise.de/ratgeber/Datentraegerwechsel-mit-c-t-Notfall-Windows-Tipps-zur-reibungslosen-Uebertragung-9199916.html",
+      "image_title": ","
+    },
+    {
+      "title": "CPU-Upgrade: Für welche Rechner es sich lohnt",
+      "teaser": "Ein neue CPU macht dem PC Beine und im Prinzip ist es ziemlich einfach, einen Prozessor zu tauschen. Allerdings lohnt sich das nicht bei jedem Rechner.",
+      "url": "https://www.heise.de/ratgeber/CPU-Upgrade-Fuer-welche-Rechner-es-sich-lohnt-9199526.html",
+      "image_title": ","
+    },
+    {
+      "title": "SSD statt Festplatte: Schneller Massenspeicher bringt PCs wieder in Schwung",
+      "teaser": "Eine SSD ist Voraussetzung für einen schnellen PC.Wir klären, welche SSD in welchen Rechner passt und wann man sie gegen ein frisches Modell austauschen sollte.",
+      "url": "https://www.heise.de/ratgeber/SSD-statt-Festplatte-Schneller-Massenspeicher-bringt-PCs-wieder-in-Schwung-9199336.html",
+      "image_title": ","
+    },
+    {
+      "title": "Alte (Windows-)Rechner aufrüsten: Das Maximum aus dem Rechner herausholen",
+      "teaser": "Das Aufrüsten eines Computers spart Geld, schont die Umwelt und Ihre Nerven. Unsere Tipps erklären, welche Maßnahmen das größte Leistungsplus versprechen.",
+      "url": "https://www.heise.de/ratgeber/Alte-Windows-Rechner-aufruesten-Das-Maximum-aus-dem-Rechner-herausholen-9197827.html"
+    },
+    {
+      "title": "Alte Hardware länger nutzen: Welche Notebooks Sie aufrüsten können",
+      "teaser": "Ihr betagtes Notebook lahmt, und Sie überlegen, es mit besseren Komponenten aufzufrischen? Das geht – aber nur in einem sehr engen Rahmen.",
+      "url": "https://www.heise.de/ratgeber/Alte-Hardware-laenger-nutzen-Welche-Notebooks-Sie-aufruesten-koennen-9195673.html"
     },
     {
       "title": "Später Europastart: Vision Pro kaufen wohl frühestens Ende 2024 möglich",
@@ -60,7 +95,7 @@
       "image_title": "Person mit Vision Pro"
     },
     {
-      "title": "Linux-Kernel: Exploit für Sicherheitslücke angekündigt",
+      "title": "Linux: Sicherheitslücke erlaubt Rechteausweitung, Exploit angekündigt",
       "teaser": "Im Linux-Kernel schlummert eine Sicherheitslücke, durch die Nutzer ihre Rechte im System ausweiten können. Der Entdecker kündigt Exploit-Code für Ende Juli an.",
       "url": "https://www.heise.de/news/Linux-Kernel-Exploit-fuer-Sicherheitsluecke-angekuendigt-9209878.html"
     },
@@ -93,50 +128,14 @@
       "url": "https://www.heise.de/news/Microsoft-Powertoys-0-71-0-verbessern-die-Vorschau-9209733.html"
     },
     {
-      "title": "Visual Studio Code 1.80 bewahrt Layout geteilter Editor-Gruppen",
-      "teaser": "Das integrierte Terminal zeigt nun standardmäßig Bilder an, während GitHub Copilot Chat für eine verbesserte Barrierefreiheit Audiosignale abspielen kann.",
-      "url": "https://www.heise.de/news/Visual-Studio-Code-1-80-bewahrt-das-Layout-geteilter-Editor-Gruppen-9209627.html",
-      "image_title": "Colored,File,Folder,With,Tabs,Close,Up."
+      "title": "IT-Security mit Intel TDX: Wie Confidential Computing Schutz in der Cloud bietet",
+      "teaser": "Intel hat die Xeon-Enterprise-Prozessoren um die Trust Domain Extensions (TDX) erweitert. Damit lassen sich VMs in einer vertrauenswürdigen Umgebung ausführen.",
+      "url": "https://www.heise.de/hintergrund/IT-Security-mit-Intel-TDX-Wie-Confidential-Computing-Schutz-in-der-Cloud-bietet-9208442.html"
     },
     {
-      "title": "Fediverse: Kritische Sicherheitslücken in Mastodon-Software abgedichtet",
-      "teaser": "Betreiber von Mastodon-Instanzen müssen die Server aktualisieren. Ältere Versionen bringen kritische Sicherheitslücken mit, die etwa Codeschmuggel erlauben.",
-      "url": "https://www.heise.de/news/Fediverse-Kritische-Sicherheitsluecken-in-Mastodon-Software-abgedichtet-9209526.html",
-      "image_title": "An,Illustration,Of,A,Group,Of,Woolly,Mammoths,Grazing,In"
-    },
-    {
-      "title": "Kommentar: Das Beste an Threads ist, dass man bald ausziehen kann",
-      "teaser": "Threads ist ein Riesenerfolg, Millionen probieren die App aus. Das Beste an der Twitter-Alternative ist aber noch nicht verfügbar, kommentiert Martin Holland.",
-      "url": "https://www.heise.de/meinung/Kommentar-Das-Beste-an-Threads-ist-dass-man-bald-ausziehen-kann-9209477.html",
-      "image_title": "Threads-App und Umzugskartons"
-    },
-    {
-      "title": "Cisco Nexus 9000: Angreifer können Verschlüsselung brechen – kein Update",
-      "teaser": "In den Geräten der Nexus-9000-Baureihe von Cisco können Angreifer verschlüsselten Verkehr lesen und verändern. Es gibt weder Software-Update noch Workaround.",
-      "url": "https://www.heise.de/news/Cisco-Nexus-9000-Angreifer-koennen-Verschluesselung-brechen-kein-Update-9209485.html"
-    },
-    {
-      "title": "Auf E-Mail reingefallen: Landesministerium überweist Kriminellen 225.000 Euro",
-      "teaser": "Sachsens Gesundheitsministerium hat eine betrügerische Rechnung bezahlt und Kriminellen 225.000 Euro überwiesen. Vor der Masche hat das LKA schon 2016 gewarnt.",
-      "url": "https://www.heise.de/news/Auf-Phishing-reingefallen-Landesministerium-ueberweist-Kriminellen-225-000-Euro-9209280.html",
-      "image_title": "Bedrucktte Kassazettelrollen"
-    },
-    {
-      "title": "BIMI: So machen Unternehmen ihre E-Mails vertrauenswürdiger",
-      "teaser": "Der Standard BIMI sorgt dafür, dass E-Mail-Empfänger das Markenlogo des Absenders sehen. Das erschwert Phishing und trägt so zu mehr Sicherheit bei.",
-      "url": "https://www.heise.de/ratgeber/BIMI-So-machen-Unternehmen-ihre-E-Mails-vertrauenswuerdiger-9209293.html",
-      "image_title": "E-Mails auf Smartphone"
-    },
-    {
-      "title": "Threads in Deutschland auf dem iPhone installieren",
-      "teaser": "Nutzer in Deutschland und in anderen EU-Staaten bleiben beim Twitter-Klon Threads aktuell außen vor. Doch es gibt auch einen inoffiziellen Weg.",
-      "url": "https://www.heise.de/news/Threads-in-Deutschland-auf-dem-iPhone-installieren-9209216.html",
-      "image_title": "Threads auf dem iPhone"
-    },
-    {
-      "title": "software-architektur.tv: Missverständnisse über Softwarearchitektur",
-      "teaser": "heise Developer präsentiert den Videocast zu Softwarearchitektur: In dieser Folge geht es um Missverständnisse, die die Effizienz beeinträchtigen können.",
-      "url": "https://www.heise.de/news/software-architektur-tv-Missverstaendnisse-ueber-Softwarearchitektur-9209008.html"
+      "title": "Webentwicklung: Die neue Generation JavaScript-Metaframeworks",
+      "teaser": "Clientseitige SPAs sind recht eingeschränkt. Metaframeworks wie Next.js, Remix und Gatsby kombinieren hingegen die Stärken von Client und Server.",
+      "url": "https://www.heise.de/hintergrund/Webentwicklung-Die-neue-Generation-JavaScript-Metaframeworks-9207984.html"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
