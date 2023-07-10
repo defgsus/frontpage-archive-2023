@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-10T07:12:16",
+  "timestamp": "2023-07-10T08:17:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.a9ddbc22054440d015f3",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.5b7be181424d91a77fa0",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Aruba",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Aruba-Firmware-ermoeglichen-Codeschmuggel-9211464.html"
+    },
     {
       "title": "ARM-Mali-GPUs",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Treiber-fuer-ARM-Mali-GPU-wird-angegriffen-9211310.html"
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Fediverse-Kritische-Sicherheitsluecken-in-Mastodon-Software-abgedichtet-9209526.html"
     },
     {
-      "title": "Cisco Nexus 9000",
-      "url": "https://www.heise.de/news/Cisco-Nexus-9000-Angreifer-koennen-Verschluesselung-brechen-kein-Update-9209485.html"
+      "title": "Sicherheitslücken in Aruba-Firmware ermöglichen Codeschmuggel",
+      "teaser": "Die HPE-Tochter Aruba hat Aktualisierungen für die ArubaOS-Firmware veröffentlicht. Sie schließen hochriskante Sicherheitslücken, die Codeschmuggel erlauben.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Aruba-Firmware-ermoeglichen-Codeschmuggel-9211464.html"
     },
     {
-      "title": "Sicherheitslücke in Treiber für ARM-Mali-GPU wird angegriffen",
+      "title": "ARM-Grafikeinheit: Warnung vor Angriffen auf Sicherheitslücke in Treibern",
       "teaser": "Cyberkriminelle missbrauchen eine Sicherheitslücke in Treibern für ARMs Mali-Grafikeinheiten, um ihre Rechte auszuweiten oder Informationen abzugreifen.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Treiber-fuer-ARM-Mali-GPU-wird-angegriffen-9211310.html",
       "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
@@ -152,11 +157,6 @@
       "teaser": "Lernen Sie, wie Sie professionelle Incident-Response-Workflows implementieren, um bei einem Cyberanangriff schnell und effektiv zu reagieren.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9201338.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "BSI: Sicherung von Aufzeichnungssystemen in Taxen ab 2024",
-      "teaser": "Manipulationen von Aufzeichnungen von Geschäftsvorfällen sind ein Problem. Ab 2024 müssen auch Taxen zertifiziert manipulationssichere Systeme nutzen.",
-      "url": "https://www.heise.de/news/BSI-erweitert-Richtlinie-zur-Sicherung-von-Aufzeichungssystemen-auf-Taxen-9206265.html"
     },
     {
       "title": "heise Security Tour 2023",
