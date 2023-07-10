@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-10T06:17:02",
+  "timestamp": "2023-07-10T07:12:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "ARM-Mali-GPUs",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Treiber-fuer-ARM-Mali-GPU-wird-angegriffen-9211310.html"
+    },
+    {
       "title": "Linux",
       "url": "https://www.heise.de/news/Linux-Kernel-Exploit-fuer-Sicherheitsluecke-angekuendigt-9209878.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Cisco-Nexus-9000-Angreifer-koennen-Verschluesselung-brechen-kein-Update-9209485.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-Luecke-in-Android-11-12-und-13-geschlossen-9208524.html"
+      "title": "Sicherheitslücke in Treiber für ARM-Mali-GPU wird angegriffen",
+      "teaser": "Cyberkriminelle missbrauchen eine Sicherheitslücke in Treibern für ARMs Mali-Grafikeinheiten, um ihre Rechte auszuweiten oder Informationen abzugreifen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Treiber-fuer-ARM-Mali-GPU-wird-angegriffen-9211310.html",
+      "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
     },
     {
       "title": "100.000 falsch versendete E-Krankschreibungen: Kein Datenmissbrauch feststellbar",
@@ -151,11 +157,6 @@
       "title": "BSI: Sicherung von Aufzeichnungssystemen in Taxen ab 2024",
       "teaser": "Manipulationen von Aufzeichnungen von Geschäftsvorfällen sind ein Problem. Ab 2024 müssen auch Taxen zertifiziert manipulationssichere Systeme nutzen.",
       "url": "https://www.heise.de/news/BSI-erweitert-Richtlinie-zur-Sicherung-von-Aufzeichungssystemen-auf-Taxen-9206265.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Schadcode-Attacken auf HP-LaserJet-Pro-Drucker möglich",
-      "teaser": "Mehrere LaserJet-Pro-Modelle von HP sind verwundbar. Sicherheitsupdates schaffen Abhilfe.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-HP-LaserJet-Pro-Drucker-moeglich-9205846.html"
     },
     {
       "title": "heise Security Tour 2023",
