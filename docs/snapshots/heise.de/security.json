@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-11T03:17:52",
+  "timestamp": "2023-07-11T04:15:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Safari",
+      "url": "https://www.heise.de/news/Rapid-Response-Apple-schliesst-Zero-Day-Luecke-in-Safari-9212228.html"
+    },
+    {
       "title": "Minecraft CC: Tweaked & OpenComputers",
       "url": "https://www.heise.de/news/Minecraft-Virtuelle-Computer-reissen-Sicherheitsluecken-auf-9211864.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Treiber-fuer-ARM-Mali-GPU-wird-angegriffen-9211310.html"
     },
     {
-      "title": "Linux",
-      "url": "https://www.heise.de/news/Linux-Kernel-Exploit-fuer-Sicherheitsluecke-angekuendigt-9209878.html"
+      "title": "Zero-Day für Safari geschlossen",
+      "teaser": "Apple hat Montagabend eine schnelle Aktualisierung für seinen Browser ausgespielt. Betroffen von der offenbar bereits ausgenutzten Lücke: Macs und Mobilgeräte.",
+      "url": "https://www.heise.de/news/Rapid-Response-Apple-schliesst-Zero-Day-Luecke-in-Safari-9212228.html",
+      "image_title": "Compass - das Safari-Icon+"
     },
     {
       "title": "Minecraft: Virtuelle Computer reißen Sicherheitslücken auf",
@@ -152,11 +158,6 @@
       "title": "Cyber-Angriff: Optimierungs-Dienstleister von Diebold Nixdorf attackiert",
       "teaser": "Diebold Nixdorf hat Kunden informiert, dass auf einen Dienstleister ein Cyber-Angriff stattgefunden hat. Die Bargeldversorgung war jedoch gesichert.",
       "url": "https://www.heise.de/news/Cyber-Angriff-auf-Dienstleister-von-Diebold-Nixdorf-9206333.html"
-    },
-    {
-      "title": "Jetzt patchen! Über 335.000 SSL-VPN-Interfaces von Fortinet attackierbar",
-      "teaser": "Sicherheitsforscher warnen vor weiteren Attacken auf eine kritische Lücke in FortiOS. Patches zum Schließen der Schwachstelle sind seit Wochen verfügbar.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Ueber-335-000-SSL-VPN-Interfaces-von-Fortinet-attackierbar-9206478.html"
     },
     {
       "title": "heise Security Tour 2023",
