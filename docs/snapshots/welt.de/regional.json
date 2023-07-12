@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-12T08:16:39",
+  "timestamp": "2023-07-12T09:12:51",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.40072ed8.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.b16f6555.js",
       "id": null,
       "text": null
     },
@@ -19,12 +19,26 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.98e4c61d.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.24193304.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Brandenburgs Verfassungsschutz stuft AfD-Jugend als rechtsextremistisch ein",
+      "teaser": "Die AfD-Organisation Junge Alternative war in Brandenburg bisher als rechtsextremistischer Verdachtsfall eingestuft. Nun hat der Verfassungsschutz des Landes eine neue Entscheidung getroffen.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246347204/4407935837-ci23x11-w20/Junge-Alternative-Brandenburg.jpg",
+      "image_title": "Die Positionen der „Jungen Alternative“ seien eindeutig nicht mit dem Grundgesetz vereinbar"
+    },
+    {
+      "title": "Flughafen rechnet mit Ansturm – Chaos soll es aber nicht wieder geben",
+      "teaser": "Lange Warteschlangen in den Terminals hatten im vorigen Sommer bei tausenden Reisenden zum Urlaubsbeginn für Stress gesorgt. Dazu kam ein Kofferchaos: Viele Passagiere mussten mitunter tagelang auf ihr Gepäck warten. In diesem Jahr soll sich das nicht wiederholen. Hochbahn ändert Fahrplan.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246345054/4947933097-ci23x11-w20/CDU-fordert-Krisengipfel-zu-Sicherheitskontrollen-am-Flughafen.jpg",
+      "image_title": "Sicherheitskontrolle am Flughafen"
+    },
     {
       "title": "Unwetter ziehen von Frankreich nach Deutschland – Häuser im Saarland abgedeckt",
       "teaser": "Eine Gewitterfront schiebt sich von Frankreich aus über Süddeutschland: Im Saarland deckte der Sturm circa 20 Häuser ab – möglicherweise war es ein Tornado. Im französischen Dijon stürzte die Decke eines Supermarktes ein.",
@@ -48,20 +62,6 @@
       "author": "Till-Reimer Stoldt"
     },
     {
-      "title": "Weihbischof Hans-Jochen Jaschke mit 81 Jahren gestorben",
-      "teaser": "Der emeritierte Weihbischof Hans-Jochen Jaschke ist tot. Über viele Jahre galt der Theologe als Anwalt der katholischen Kirche im Fernsehen, scheute sich vor keiner Diskussion und war zudem regelmäßig zu Gast im Haus von Altkanzler Helmut Schmidt.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile159401464/6747934427-ci23x11-w20/Weihbischof-Hans-Jochen-Jaschke.jpg",
-      "image_title": "Der emeritierte Weihbischof Hans-Jochen Jaschke vor einigen Jahren in seiner Wohnung in Hamburg"
-    },
-    {
-      "title": "Sesselmann besteht Demokratiecheck – Ergebnis für Thüringer Linke „absolut schleierhaft“",
-      "teaser": "Das Thüringer Landesverwaltungsamt hat den AfD-Politiker Robert Sesselmann auf seine Verfassungstreue überprüft und keine Beanstandungen gemacht. Damit kann er Landrat des Kreises Sonneberg bleiben. Die Sprecherin für Antifaschismus der Thüringer Linken hält das für nicht nachvollziehbar.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246321200/1997930287-ci23x11-w20/Stichwahl-des-Landrats-im-Landkreis-Sonneberg.jpg",
-      "image_title": "Robert Sesselmann (AfD)"
-    },
-    {
       "title": "Lieferando-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -82,10 +82,17 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Weihbischof Hans-Jochen Jaschke mit 81 Jahren gestorben",
+      "teaser": "Der emeritierte Weihbischof Hans-Jochen Jaschke ist tot. Über viele Jahre galt der Theologe als Anwalt der katholischen Kirche im Fernsehen, scheute sich vor keiner Diskussion und war zudem regelmäßig zu Gast im Haus von Altkanzler Helmut Schmidt.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile159401464/6747934427-ci16x9-w20/Weihbischof-Hans-Jochen-Jaschke.jpg",
+      "image_title": "Der emeritierte Weihbischof Hans-Jochen Jaschke vor einigen Jahren in seiner Wohnung in Hamburg"
+    },
+    {
       "title": "Durchschnittsnoten sinken leicht – bleiben aber besser als vor Corona",
       "teaser": "Hamburgs Abiturientinnen und Abiturienten haben im Schnitt eine Abiturnote von 2,31 erreicht. Das ist ein guter Wert für die Hansestadt, jedoch nicht ganz so gut, wie in den Vorjahren. Schummelversuche mit ChatGPT hatten laut Schulbehörde keinen Einfluss.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246331318/4347939327-ci16x9-w20/Schummeln-mit-KI-Hilfe-beim-Abitur.jpg",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246331318/4347939327-ci23x11-w20/Schummeln-mit-KI-Hilfe-beim-Abitur.jpg",
       "image_title": "Schummeln mit KI-Hilfe beim Abitur",
       "author": "Julia Witte genannt Vedder"
     },
@@ -118,14 +125,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246317974/9487935667-ci23x11-w20/Qiu-Yunting-l-und-Li-Wentao.jpg",
       "image_title": "Qiu Yunting (l.) und Li Wentao",
       "author": "Stefan Grund"
-    },
-    {
-      "title": "Gesundheitssenatorin sieht Hamburger Kliniken gut aufgestellt",
-      "teaser": "Hamburgs Gesundheitssenatorin Melanie Schlotzhauer (SPD) hat nach der Einigung von Bund und Ländern auf die Krankenhausreform erleichtert reagiert. Die Einigung sei eine „gute Nachricht“. Für Hamburgs Krankenhäuser sieht sie primär eine Veränderung.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile246320290/1297935027-ci23x11-w20/Bund-Laender-Runde-zur-geplanten-Krankenhausreform.jpg",
-      "image_title": "Bund-Länder-Runde zur geplanten Krankenhausreform",
-      "author": "Julia Witte genannt Vedder"
     },
     {
       "title": "18-Jähriger bei SUV-Unfall aus dem Auto geschleudert",
@@ -362,6 +361,13 @@
       "image_title": "Hannes Loth (AfD) will Bürgermeister werden"
     },
     {
+      "title": "Sesselmann besteht Demokratiecheck – Ergebnis für Thüringer Linke „absolut schleierhaft“",
+      "teaser": "Das Thüringer Landesverwaltungsamt hat den AfD-Politiker Robert Sesselmann auf seine Verfassungstreue überprüft und keine Beanstandungen gemacht. Damit kann er Landrat des Kreises Sonneberg bleiben. Die Sprecherin für Antifaschismus der Thüringer Linken hält das für nicht nachvollziehbar.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246321200/1997930287-ci23x11-w20/Stichwahl-des-Landrats-im-Landkreis-Sonneberg.jpg",
+      "image_title": "Robert Sesselmann (AfD)"
+    },
+    {
       "title": "„Erleben den Einzug einer Normalität, vor der wir uns lange gegruselt haben“",
       "teaser": "Thüringens Ministerpräsident Ramelow (Linke) sagt, wie er auf das Erstarken der AfD reagiert. Ein „Kontaktverbot“ mit dem ersten Landrat der Rechtsaußen-Partei sowie eine Verurteilung von AfD-Wählern als „Nazis“ lehnt er ab. Er kann sich vorstellen, mit Teilen der CDU zu koalieren.",
       "url": "https://www.welt.de/politik/deutschland/plus246328806/Ramelow-zu-AfD-Erfolgen-Erleben-Einzug-einer-Normalitaet-vor-der-wir-uns-lange-gegruselt-haben.html",
@@ -375,14 +381,6 @@
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/regionales/thueringen/mobile246189150/7687936777-ci23x11-w20/Sesselmann-AfD-geht-ins-Landratsamt.jpg",
       "image_title": "Der Landrat von Sonneberg, Robert Sesselmann (AfD), betritt das Landratsamt."
-    },
-    {
-      "title": "Als Richter kippte er die Maskenpflicht an Schulen, jetzt steht er selbst vor Gericht",
-      "teaser": "Richter Christian Dettmar hat in der Pandemie gegen die Maskenpflicht für Schüler entschieden. Jetzt muss er sich wegen des Vorwurfs der Rechtsbeugung in Erfurt selbst vor Gericht verantworten. Hat der Überzeugungstäter mit seinem Urteilsspruch das Recht gebrochen?",
-      "url": "https://www.welt.de/politik/deutschland/plus246159160/Pandemie-Als-Richter-kippte-er-die-Maskenpflicht-an-Schulen-jetzt-steht-er-selbst-vor-Gericht.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246159358/2367930707-ci23x11-w20/Prozess-gegen-Weimarer-Amtsrichter-wegen-Rechtsbeugung-2.jpg",
-      "image_title": "Richter Christian Dettmar mit einen Verteidigern",
-      "author": "Per Hinrichs"
     },
     {
       "title": "„Alles versuchen, um den Bau dieser irrwitzigen Anlage zu verhindern“",
@@ -407,84 +405,84 @@
       "image_title": "\"Upahl sagt nein\" - solche Protestplakate gab es in dem kleinen Ort in Mecklenburg-Vorprommern häufig"
     },
     {
-      "title": "Eintracht Braunschweig sucht Sturmkollegen für Anthony Ujah",
-      "url": "https://www.welt.de/regionales/niedersachsen/article246345956/Eintracht-Braunschweig-sucht-Sturmkollegen-fuer-Anthony-Ujah.html"
+      "title": "Interimsgeschäftsführer übernehmen Lach- und Schieß",
+      "url": "https://www.welt.de/regionales/bayern/article246347854/Interimsgeschaeftsfuehrer-uebernehmen-Lach-und-Schiess.html"
     },
     {
-      "title": "Kommunalwahl ist am 9. Juni 2024 zusammen mit der Europawahl",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246345796/Kommunalwahl-ist-am-9-Juni-2024-zusammen-mit-der-Europawahl.html"
+      "title": "ICE stößt zwischen Bamberg und Erfurt mit Ziege zusammen",
+      "url": "https://www.welt.de/regionales/bayern/article246347832/ICE-stoesst-zwischen-Bamberg-und-Erfurt-mit-Ziege-zusammen.html"
     },
     {
-      "title": "Sturm beschädigt 30 Häuser: Tornado nicht ausgeschlossen",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246342886/Sturm-beschaedigt-30-Haeuser-Tornado-nicht-ausgeschlossen.html"
+      "title": "Verdacht auf falsche Corona-Atteste: Anklage gegen Ärztin",
+      "url": "https://www.welt.de/regionales/sachsen/article246347790/Verdacht-auf-falsche-Corona-Atteste-Anklage-gegen-Aerztin.html"
     },
     {
-      "title": "Eintrittspreise für Schwimmbäder in NRW steigen",
-      "url": "https://www.welt.de/regionales/nrw/article246345476/Eintrittspreise-fuer-Schwimmbaeder-in-NRW-steigen.html"
+      "title": "Faeser für Polizeipräsenz in Freibädern",
+      "url": "https://www.welt.de/regionales/berlin/article246347236/Faeser-fuer-Polizeipraesenz-in-Freibaedern.html"
     },
     {
-      "title": "Acht Festnahmen bei Zollrazzia in Rhein-Main Gebiet",
-      "url": "https://www.welt.de/regionales/hessen/article246344928/Acht-Festnahmen-bei-Zollrazzia-in-Rhein-Main-Gebiet.html"
+      "title": "Mann verliert 65.000 Euro an Liebesbetrüger",
+      "url": "https://www.welt.de/regionales/bayern/article246347264/Mann-verliert-65-000-Euro-an-Liebesbetrueger.html"
     },
     {
-      "title": "Nach Regen und Gewittern zunächst mildere Temperaturen",
-      "url": "https://www.welt.de/regionales/hessen/article246344906/Nach-Regen-und-Gewittern-zunaechst-mildere-Temperaturen.html"
+      "title": "Handballer Sander Sagosen will neuem Verein die Treue halten",
+      "url": "https://www.welt.de/regionales/hamburg/article246347188/Handballer-Sander-Sagosen-will-neuem-Verein-die-Treue-halten.html"
     },
     {
-      "title": "Etwa 1500 Strohballen im Wartburgkreis in Brand geraten",
-      "url": "https://www.welt.de/regionales/thueringen/article246344730/Etwa-1500-Strohballen-im-Wartburgkreis-in-Brand-geraten.html"
+      "title": "Landesregierung verschiebt Haushaltsberatungen in den Herbst",
+      "url": "https://www.welt.de/regionales/hamburg/article246347206/Landesregierung-verschiebt-Haushaltsberatungen-in-den-Herbst.html"
     },
     {
-      "title": "Fahrbahn gesperrt wegen Brandes von Lastwagen auf A36",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article246344722/Fahrbahn-gesperrt-wegen-Brandes-von-Lastwagen-auf-A36.html"
+      "title": "Neuer Versuch für Sprengung von Kieler Kraftwerk",
+      "url": "https://www.welt.de/regionales/hamburg/article246347150/Neuer-Versuch-fuer-Sprengung-von-Kieler-Kraftwerk.html"
     },
     {
-      "title": "About You erzielt überraschend operativen Gewinn",
-      "url": "https://www.welt.de/regionales/hamburg/article246344726/About-You-erzielt-ueberraschend-operativen-Gewinn.html"
+      "title": "Unbekannte beschädigen Schill-Denkmal in Stralsund",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246347174/Unbekannte-beschaedigen-Schill-Denkmal-in-Stralsund.html"
     },
     {
-      "title": "Etwas Abkühlung in Nordrhein-Westfalen erwartet",
-      "url": "https://www.welt.de/regionales/nrw/article246344596/Etwas-Abkuehlung-in-Nordrhein-Westfalen-erwartet.html"
+      "title": "Mann stört Kita-Sommerfest und zeigt Hitlergruß",
+      "url": "https://www.welt.de/regionales/berlin/article246347108/Mann-stoert-Kita-Sommerfest-und-zeigt-Hitlergruss.html"
     },
     {
-      "title": "Kleine Brände, aber kaum Schäden durch Gewitterfront",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article246344570/Kleine-Braende-aber-kaum-Schaeden-durch-Gewitterfront.html"
+      "title": "Verfassungsschutz: AfD-Jugend ist rechtsextremistisch",
+      "url": "https://www.welt.de/regionales/berlin/article246347082/Verfassungsschutz-AfD-Jugend-ist-rechtsextremistisch.html"
     },
     {
-      "title": "Frau getötet: 36-Jähriger geht zu Polizei und gesteht Tat",
-      "url": "https://www.welt.de/regionales/nrw/article246344574/Frau-getoetet-36-Jaehriger-geht-zu-Polizei-und-gesteht-Tat.html"
+      "title": "Polizei räumt besetzte Dondorf-Druckerei in Frankfurt",
+      "url": "https://www.welt.de/regionales/hessen/article246346944/Polizei-raeumt-besetzte-Dondorf-Druckerei-in-Frankfurt.html"
     },
     {
-      "title": "Gewerkschaften: Mehr Engagement gegen Wohnungsnot",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246344542/Gewerkschaften-Mehr-Engagement-gegen-Wohnungsnot.html"
+      "title": "Buck wechselt vom FC Bayern als Co-Trainer zur Eintracht",
+      "url": "https://www.welt.de/regionales/bayern/article246346892/Buck-wechselt-vom-FC-Bayern-als-Co-Trainer-zur-Eintracht.html"
     },
     {
-      "title": "Porsche verkauft im ersten Halbjahr deutlich mehr Autos",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246344556/Porsche-verkauft-im-ersten-Halbjahr-deutlich-mehr-Autos.html"
+      "title": "Eisbären Berlin verpflichten Abwehr-Talent Kaiser",
+      "url": "https://www.welt.de/regionales/berlin/article246346814/Eisbaeren-Berlin-verpflichten-Abwehr-Talent-Kaiser.html"
     },
     {
-      "title": "Zehntausende Blitze in der Schweiz in weniger als 24 Stunden",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246344502/Zehntausende-Blitze-in-der-Schweiz-in-weniger-als-24-Stunden.html"
+      "title": "Jugendliche schmuggeln verbotene Waren im Zug",
+      "url": "https://www.welt.de/regionales/bayern/article246346468/Jugendliche-schmuggeln-verbotene-Waren-im-Zug.html"
     },
     {
-      "title": "Kassiererin bei Raub in Supermarkt mit Messer bedroht",
-      "url": "https://www.welt.de/regionales/thueringen/article246344472/Kassiererin-bei-Raub-in-Supermarkt-mit-Messer-bedroht.html"
+      "title": "Chialo: Auf anhaltende Krise in der Kultur vorbereiten",
+      "url": "https://www.welt.de/regionales/berlin/article246346068/Chialo-Auf-anhaltende-Krise-in-der-Kultur-vorbereiten.html"
     },
     {
-      "title": "Sturm im Saarland: Katastrophenschutz geht von Tornado aus",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article246344450/Sturm-im-Saarland-Katastrophenschutz-geht-von-Tornado-aus.html"
+      "title": "Hunde beißen Hund von Spaziergängerin tot",
+      "url": "https://www.welt.de/regionales/hamburg/article246345998/Hunde-beissen-Hund-von-Spaziergaengerin-tot.html"
     },
     {
-      "title": "Rollerfahrer durchschlägt mit Kopf Heckscheibe von Auto",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246344398/Rollerfahrer-durchschlaegt-mit-Kopf-Heckscheibe-von-Auto.html"
+      "title": "Welpen tappen in Fotofalle: Erstes Rudel seit 200 Jahren",
+      "url": "https://www.welt.de/regionales/hamburg/article246345984/Welpen-tappen-in-Fotofalle-Erstes-Rudel-seit-200-Jahren.html"
     },
     {
-      "title": "Nach Unwetter viele umgestürzte Bäume, Unfälle und Verletzte",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article246344360/Nach-Unwetter-viele-umgestuerzte-Baeume-Unfaelle-und-Verletzte.html"
+      "title": "Autodiebstahl vorgetäuscht nach Unfall mit Verletzter",
+      "url": "https://www.welt.de/regionales/sachsen/article246345980/Autodiebstahl-vorgetaeuscht-nach-Unfall-mit-Verletzter.html"
     },
     {
-      "title": "Fußgängerin von E-Scooter angefahren und verletzt",
-      "url": "https://www.welt.de/regionales/berlin/article246344218/Fussgaengerin-von-E-Scooter-angefahren-und-verletzt.html"
+      "title": "Diebe stehlen mehrere Tonnen Metall von Firmengelände",
+      "url": "https://www.welt.de/regionales/thueringen/article246345976/Diebe-stehlen-mehrere-Tonnen-Metall-von-Firmengelaende.html"
     }
   ]
 }
