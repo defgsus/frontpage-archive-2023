@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-12T11:10:34",
+  "timestamp": "2023-07-12T12:26:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "FortiOS/FortiProxy",
+      "url": "https://www.heise.de/news/Update-gegen-kritische-Luecke-in-FortiOS-FortiProxy-9214207.html"
+    },
+    {
       "title": "Citrix Secure Access",
       "url": "https://www.heise.de/news/Citrix-Updates-schliessen-Sicherheitsluecken-in-Secure-Access-Clients-9214076.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-meldet-fuenf-Zero-Days-teils-ohne-Update-9213685.html"
     },
     {
-      "title": "Firefox, Firefox ESR",
-      "url": "https://www.heise.de/news/Webbrowser-Firefox-und-Firefox-ESR-115-0-2-schliessen-Sicherheitsluecke-9213717.html"
+      "title": "Update gegen kritische Lücke in FortiOS/FortiProxy",
+      "teaser": "Fortinet verteilt Sicherheitsupdates für FortiOS/FortiProxy. Sie schließen eine kritische Sicherheitslücke.",
+      "url": "https://www.heise.de/news/Update-gegen-kritische-Luecke-in-FortiOS-FortiProxy-9214207.html"
     },
     {
-      "title": "Citrix: Updates schließen Sicherheitslücken in Secure Access Clients",
+      "title": "Teils kritische Sicherheitslücken in Citrix' Secure Access Clients",
       "teaser": "Citrix hat Aktualisierungen für die Secure Access Clients veröffentlicht, die teils kritische Schwachstellen ausbessern.",
       "url": "https://www.heise.de/news/Citrix-Updates-schliessen-Sicherheitsluecken-in-Secure-Access-Clients-9214076.html"
     },
@@ -150,12 +155,6 @@
       "title": "Linux: Sicherheitslücke erlaubt Rechteausweitung, Exploit angekündigt",
       "teaser": "Im Linux-Kernel schlummert eine Sicherheitslücke, durch die Nutzer ihre Rechte im System ausweiten können. Der Entdecker kündigt Exploit-Code für Ende Juli an.",
       "url": "https://www.heise.de/news/Linux-Kernel-Exploit-fuer-Sicherheitsluecke-angekuendigt-9209878.html"
-    },
-    {
-      "title": "Fediverse: Kritische Sicherheitslücken in Mastodon-Software abgedichtet",
-      "teaser": "Betreiber von Mastodon-Instanzen müssen die Server aktualisieren. Ältere Versionen bringen kritische Sicherheitslücken mit, die etwa Codeschmuggel erlauben.",
-      "url": "https://www.heise.de/news/Fediverse-Kritische-Sicherheitsluecken-in-Mastodon-Software-abgedichtet-9209526.html",
-      "image_title": "An,Illustration,Of,A,Group,Of,Woolly,Mammoths,Grazing,In"
     },
     {
       "title": "heise Security Tour 2023",
