@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-12T12:26:48",
+  "timestamp": "2023-07-12T13:22:40",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.9c7084c4648e66c094bf",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.d93da2db576e44f0f0f0",
       "id": null,
       "text": null
     },
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Extremely Large Telescope: Fertigstellung zur Hälfte abgeschlossen",
+      "teaser": "2028 soll das weltgrößte optische Teleskop seine Arbeit aufnehmen. Jetzt ist die Fertigstellung zur Hälfte abgeschlossen, nicht nur vor Ort in Chile.",
+      "url": "https://www.heise.de/news/Extremely-Large-Telescope-Fertigstellung-zur-Haelfte-abgeschlossen-9213725.html",
+      "image_title": "Die Baustelle bei Nacht"
+    },
+    {
       "title": "Elektro-Tragfächenboot SpiritBARTech35EF hält mit 120-kWh-Batterie länger durch",
       "teaser": "Zu gering sollte die Reichweite bei Elektrobooten nicht sein. Die Freizeit-Yacht SpiritBARTech35EF erzielt einen Rekordwert.",
       "url": "https://www.heise.de/news/Elektrisches-Tragflaechenboot-SpiritBARTech35EF-mit-hoher-Reichweite-9213654.html"
@@ -35,12 +41,6 @@
       "teaser": "Vor einem Jahr durfte US-Präsident Joe Biden die erste wissenschaftliche Aufnahme des neuen Weltraumteleskops enthüllen. Seitdem begeistert es die Forschung.",
       "url": "https://www.heise.de/news/Weltraumteleskop-James-Webb-erforscht-das-Universum-jetzt-seit-einem-Jahr-9212883.html",
       "image_title": "Stern mit pinker Wolke"
-    },
-    {
-      "title": "Geologie: Das Anthropozän hat 1950 begonnen, die Referenz findet sich in Kanada",
-      "teaser": "Seit Jahrzehnten wird debattiert, wann das Menschenzeitalter begonnen hat, eine formale Definition gab es aber nicht. Jetzt gibt es einen konkreten Vorschlag.",
-      "url": "https://www.heise.de/news/Geologie-Das-Anthropozaen-hat-1950-begonnen-die-Referenz-findet-sich-in-Kanada-9212663.html",
-      "image_title": "Satellitenbild der Erde bei Nacht"
     },
     {
       "title": "Bastelprojekt: Wie der Eigenbau von alltagstauglichen AirTag-Klonen gelingt",
@@ -54,6 +54,21 @@
       "image_title": "Marco te Brömmelstroet nennt sich selbst \"Fietsprofessor\" und hat ein Labor für neue Denkansätze zur Mobilität mitgegründet. Sein Motto: Innehalten statt mehr Geschwindigkeit., Christa Klomp"
     },
     {
+      "title": "Machine Learning: Wie Federated Learning KI und Datenschutz vereint",
+      "teaser": "Federated Learning als Kompromiss für Unternehmen, die ihre Daten schützen, aber trotzdem für das Training eines Machine-Learning-Modells einsetzen wollen.",
+      "url": "https://www.heise.de/hintergrund/Machine-Learning-Wie-Federated-Learning-KI-und-Datenschutz-vereint-9212735.html"
+    },
+    {
+      "title": "Einstieg in MLOps: KI-Entwicklung mit Kubeflow erklärt",
+      "teaser": "MLOps hat das Ziel, KI-Modelle zuverlässig und skalierbar aus der Entwicklung in die Cloud zu bringen. Eine beliebte Open-Source-Plattform dafür ist Kubeflow.",
+      "url": "https://www.heise.de/ratgeber/Einstieg-in-MLOps-KI-Entwicklung-mit-Kubeflow-erklaert-9211354.html"
+    },
+    {
+      "title": "Weltraumgestützte Solarenergie: ESA sucht Ideen für weitere Forschung",
+      "teaser": "Solarenergie aus dem All könnte Europas Energiehunger stillen, bis dahin ist es aber noch ein weiter Weg. Nun sucht die ESA Ideen für Forschungsprojekte.",
+      "url": "https://www.heise.de/news/Weltraumgestuetzte-Solarenergie-ESA-sucht-Ideen-fuer-weitere-Forschung-9214007.html"
+    },
+    {
       "title": "Weltraumteleskop James Webb: Atemberaubende Aufnahme entstehender Sterne",
       "teaser": "Seit einem Jahr erforscht das Weltraumteleskop James Webb das Universum. Anlässlich des Jahrestags wurde nun ein besonders beeindruckendes Bild veröffentlicht.",
       "url": "https://www.heise.de/news/Weltraumteleskop-James-Webb-Atemberaubende-Aufnahme-entstehender-Sterne-9214127.html",
@@ -63,12 +78,6 @@
       "title": "ChatGPT Integration für Container-Frontend Portainer",
       "teaser": "Chatbots sind weit verbreitet und können uns viel Arbeit abnehmen. Sie stehen jetzt auch im Software-Tool Portainer zur Verfügung.",
       "url": "https://www.heise.de/news/ChatGPT-Integration-fuer-Container-Frontend-Portainer-9214023.html"
-    },
-    {
-      "title": "Extremely Large Telescope: Fertigstellung zur Hälfte abgeschlossen",
-      "teaser": "2028 soll das weltgrößte optische Teleskop seine Arbeit aufnehmen. Jetzt ist die Fertigstellung zur Hälfte abgeschlossen, nicht nur vor Ort in Chile.",
-      "url": "https://www.heise.de/news/Extremely-Large-Telescope-Fertigstellung-zur-Haelfte-abgeschlossen-9213725.html",
-      "image_title": "Die Baustelle bei Nacht"
     },
     {
       "title": "Bessere Wettervorhersage mit Künstlicher Intelligenz?",
@@ -91,6 +100,12 @@
       "teaser": "Ein Vorschlag der EU zum Einsatz neuer Gentechnik wie CRISPR für Nutzpflanzen sorgt für Streit. Experte Christoph Tebbe sieht vor allem Chancen.",
       "url": "https://www.heise.de/hintergrund/Neue-Gentechnik-Wichtiges-Element-fuer-umweltfreundliche-neue-Landwirtschaft-9213331.html",
       "image_title": "Sommer, Sonne, Weizen, Getreide"
+    },
+    {
+      "title": "Geologie: Das Anthropozän hat 1950 begonnen, die Referenz findet sich in Kanada",
+      "teaser": "Seit Jahrzehnten wird debattiert, wann das Menschenzeitalter begonnen hat, eine formale Definition gab es aber nicht. Jetzt gibt es einen konkreten Vorschlag.",
+      "url": "https://www.heise.de/news/Geologie-Das-Anthropozaen-hat-1950-begonnen-die-Referenz-findet-sich-in-Kanada-9212663.html",
+      "image_title": "Satellitenbild der Erde bei Nacht"
     },
     {
       "title": "RoboCup-WM: So vielfältig sind die verschiedenen Fußball-Ligen",
@@ -117,23 +132,6 @@
       "title": "ChatGPT: Warum KI-Erkennungswerkzeuge so leicht zu betrügen sind",
       "teaser": "Verschiedene Programme nutzen KI, um von anderen KIs generierte Texte zu erkennen. Leider schneiden sie in der Praxis schlecht ab.",
       "url": "https://www.heise.de/hintergrund/Warum-KI-Erkennungswerkzeuge-so-leicht-zu-betruegen-sind-9211815.html"
-    },
-    {
-      "title": "Statistik der Woche: 107.000 Patienten im Krankenhaus wegen akuter Austrocknung",
-      "teaser": "Mit der Anzahl der Hitzetage wächst auch die Anzahl an Krankenhausbehandlungen aufgrund von Flüssigkeitsmangel, wie unsere Infografik zeigt.",
-      "url": "https://www.heise.de/hintergrund/Statistik-der-Woche-107-000-Patienten-im-Krankenhaus-wegen-akuter-Austrocknung-9211927.html",
-      "image_title": "Sommerhitze"
-    },
-    {
-      "title": "US Space Command: \"Wir haben unsere Satelliten falsch gebaut\"​",
-      "teaser": "Militärtransporte per Rakete statt Flugzeug, neue Satellitendesigns: Das US-Militär plant radikale Änderungen und sucht kommerzielle Partner über SpaceX hinaus.",
-      "url": "https://www.heise.de/news/US-Space-Command-Wir-haben-unsere-Satelliten-falsch-gebaut-9212254.html",
-      "image_title": "Künstlerische Darstellung zweier GSSAP-Satelliten des US-Militärs in ihrer Umlaufbahn um die Erde."
-    },
-    {
-      "title": "RoboCup 2023: Noch leicht angeschlagen, aber auf gutem Weg",
-      "teaser": "Der RoboCup 2023 ist noch nicht ganz wieder so wie vor der Covid-19-Pandemie, erholt sich aber.",
-      "url": "https://www.heise.de/news/RoboCup-2023-Noch-leicht-angeschlagen-aber-auf-gutem-Weg-9212129.html"
     }
   ]
 }
