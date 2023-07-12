@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-12T06:16:11",
+  "timestamp": "2023-07-12T07:11:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Firefox, Firefox ESR",
+      "url": "https://www.heise.de/news/Webbrowser-Firefox-und-Firefox-ESR-115-0-2-schliessen-Sicherheitsluecke-9213717.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/SAP-Patchday-16-Sicherheitsmeldungen-zu-Lecks-in-der-Geschaefts-Software-9213319.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Zero-Day-fuer-Safari-geschlossen-Update-Zurueckgezogen-9212228.html"
     },
     {
-      "title": "Minecraft CC: Tweaked & OpenComputers",
-      "url": "https://www.heise.de/news/Minecraft-Virtuelle-Computer-reissen-Sicherheitsluecken-auf-9211864.html"
+      "title": "Webbrowser: Firefox und Firefox ESR 115.0.2 schließen Sicherheitslücke",
+      "teaser": "Die Mozilla-Entwickler haben Firefox und Firefox ESR in Version 115.0.2 veröffentlicht. Darin dichten sie ein Sicherheitsleck ab und korrigieren einige Fehler.",
+      "url": "https://www.heise.de/news/Webbrowser-Firefox-und-Firefox-ESR-115-0-2-schliessen-Sicherheitsluecke-9213717.html"
+    },
+    {
+      "title": "Hackerangriff aus China auf Dutzende Organisationen und auch Staaten",
+      "teaser": "\"Storm-0558\" aus China hat sich über gefälschte Zugangs-Token Zugriff auf E-Mail-Konten in Dutzenden Organisationen und staatliche Einrichtungen verschafft.",
+      "url": "https://www.heise.de/news/Hackerangriff-aus-China-auf-Dutzende-Organisationen-und-auch-Staaten-9213658.html"
     },
     {
       "title": "Malware in über 100 signierten Windows-Treibern gefunden: Microsoft reagiert",
@@ -147,18 +157,6 @@
       "teaser": "Über eine Schwachstelle in Teams können Angreifer Malware unterjubeln. Ein jetzt veröffentlichtes Tool macht diese Attacken noch einfacher.",
       "url": "https://www.heise.de/news/TeamsPhisher-Tool-automatisiert-Angriffe-auf-Teams-Schwachstelle-9208677.html",
       "image_title": "Portland,,Or,,Usa,-,Aug,10,,2021:,Premium,Microsoft,365"
-    },
-    {
-      "title": "Patchday: Vielfältige Attacken auf Android 11, 12 und 13 möglich",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Android-Versionen. Im schlimmsten Fall könnte Schadcode auf Geräte gelangen.",
-      "url": "https://www.heise.de/news/Patchday-Schadcode-Luecke-in-Android-11-12-und-13-geschlossen-9208524.html",
-      "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "Photovoltaik-Monitoring: Sicherheitslücken in Solarview werden angegriffen",
-      "teaser": "Das Mirai-Botnet greift auch Lücken im Photovoltaik-Monitoring Solarview an. Weitere Lücken darin stehen bei im Internet zugreifbaren Systemen unter Beschuss.",
-      "url": "https://www.heise.de/news/Photovoltaik-Monitoring-Sicherheitsluecken-in-Solarview-werden-angegriffen-9208511.html",
-      "image_title": "Solar,Panel,Installed,In,Parking,Lot"
     },
     {
       "title": "heise Security Tour 2023",
