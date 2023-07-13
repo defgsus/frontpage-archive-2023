@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-13T14:11:14",
+  "timestamp": "2023-07-13T15:12:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -41,14 +41,26 @@
       "url": "https://www.heise.de/news/Vishing-Betrueger-arbeiten-mit-raffinierter-Voice-Phishing-Masche-9212374.html"
     },
     {
-      "title": "KI: Objekterkennung mit Tensor Flow Lite und Raspberry Pi",
-      "teaser": "KI hat viele Facetten – Chat GPT ist aktuell die bekannteste Implementierung. Wir zeigen, wie die Objekterkennung mit Tensor Flow Lite und einem Raspi klappt.",
-      "url": "https://www.heise.de/ratgeber/KI-Objekterkennung-mit-Tensor-Flow-Lite-und-Raspberry-Pi-9199701.html"
+      "title": "Unter der Haube: Die technischen Details zu iOS 17, macOS 14 & Co.",
+      "teaser": "Wir haben uns durch Apples Dokumentation gearbeitet und spannende Details zu iOS 17, iPadOS 17 und macOS 14 zusammengetragen – für Entwickler wie Nutzer.",
+      "url": "https://www.heise.de/hintergrund/Unter-der-Haube-Die-technischen-Details-zu-iOS-17-macOS-14-Co-9215921.html",
+      "image_title": ","
     },
     {
-      "title": "Steinberg VST Live im Test: Software für Musiker zur Steuerung von Bühnenshows",
-      "teaser": "Die Bühnensoftware VST Live spielt Audio-, MIDI- sowie Video-Playbacks ab und steuert sogar das Bühnenlicht. Der Test zeigt, wie gut das funktioniert.",
-      "url": "https://www.heise.de/tests/Steinberg-VST-Live-im-Test-Software-fuer-Musiker-zur-Steuerung-von-Buehnenshows-9213200.html"
+      "title": "Grace Hopper: So funktioniert Nvidias ARM-Superchip für KI",
+      "teaser": "Der Grace-Hopper-Chip vereint CPU und GPU auf einem Modul und verspricht energieeffizientes Hochleistungscomputing. Basis ist Nvdias erster ARM-Prozessor Grace.",
+      "url": "https://www.heise.de/hintergrund/Grace-Hopper-So-funktioniert-Nvidias-ARM-Superchip-fuer-KI-9212548.html"
+    },
+    {
+      "title": "Googles KI Bard: Kann es sein, dass du ein bisschen dumm bist?",
+      "teaser": "Googles KI-Chatbot Bard ist jetzt in der EU verfügbar. Wir haben ihn ausprobiert und für dumm befunden. Ein Kommentar von Marvin Strathmann.",
+      "url": "https://www.heise.de/meinung/Googles-KI-Bard-Meh-9215652.html"
+    },
+    {
+      "title": "Spaß pur im Mofa-Look: E-Bike Himiway Escape Pro im Test",
+      "teaser": "Das Himiway Escape Pro ist ein elektrisches Fahrrad mit großem Akku, starkem Motor und optimaler Federung. Doch nicht für jeden ist es geeignet.",
+      "url": "https://www.techstage.de/test/spass-pur-im-mofa-look-e-bike-himiway-escape-pro-im-test/g51lggr?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
       "title": "Kommandozeilen-Tool im Test: Nushell für Linux, macOS und Windows",
@@ -56,7 +68,7 @@
       "url": "https://www.heise.de/tests/Kommandozeilen-Tool-im-Test-Nushell-fuer-Linux-macOS-und-Windows-9209453.html"
     },
     {
-      "title": "BSI veröffentlicht Community Draft des Mindeststandards zum HV-Benchmark",
+      "title": "BSI verschärft Mindeststandard für IT-Sicherheit in Rechenzentren des Bundes",
       "teaser": "Das BSI hebt den Sicherheits-Mindeststandard für Rechenzentren der Bundesverwaltung auf das Niveau der Standard-Absicherung nach IT-Grundschutz.",
       "url": "https://www.heise.de/news/BSI-veroeffentlicht-Community-Draft-des-Mindeststandards-zum-HV-Benchmark-9215221.html"
     },
@@ -64,6 +76,11 @@
       "title": "Machine Learning: Keras Core bringt das Multi-Backend zurück",
       "teaser": "Die Beta für Keras Core bietet eine Multi-Backend-Implementierung und kann mit TensorFlow, JAX und PyTorch umgehen. Im Herbst soll sie zu Keras 3.0 werden.",
       "url": "https://www.heise.de/news/Machine-Learning-Keras-Core-bringt-das-Multi-Backend-zurueck-9215635.html"
+    },
+    {
+      "title": "KI: Objekterkennung mit Tensor Flow Lite und Raspberry Pi",
+      "teaser": "KI hat viele Facetten – Chat GPT ist aktuell die bekannteste Implementierung. Wir zeigen, wie die Objekterkennung mit Tensor Flow Lite und einem Raspi klappt.",
+      "url": "https://www.heise.de/ratgeber/KI-Objekterkennung-mit-Tensor-Flow-Lite-und-Raspberry-Pi-9199701.html"
     },
     {
       "title": "Codeschmuggel-Lücke in Ghostscript betrifft LibreOffice und mehr",
@@ -109,27 +126,9 @@
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Admins-Lerne-Pentesting-und-mehr-in-der-Webinar-Serie-9197546.html"
     },
     {
-      "title": "iX-IWorkshop: Powerkurs VMware vSphere 7 und 8 (10% Frühbucherrabatt bis 30.7.)",
-      "teaser": "Lernen Sie an fünf Tagen mit vielen praktischen Übungen, wie Sie VMware vSphere 7 und 8 installieren, einrichten und managen.",
-      "url": "https://www.heise.de/news/iX-IWorkshop-Powerkurs-VMware-vSphere-7-und-8-10-Fruehbucherrabatt-bis-30-7-9206939.html",
-      "image_title": "Intensivkurs: Administration von VMware vSphere"
-    },
-    {
-      "title": "Update fürs Update: Apple überholt letzte \"Rapid Security Response\"",
-      "teaser": "Eigentlich sollte ein schneller Fix für den Safari-Browser für mehr Sicherheit sorgen. Aufgrund eines Fehlers musste Apple diesen nun neu auflegen.",
-      "url": "https://www.heise.de/news/Update-fuers-Update-Apple-ueberholt-letzte-Rapid-Security-Response-9214819.html",
-      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 5.15.1 bringt Fehlerkorrekturen",
-      "teaser": "Die Linux-Distribution zum anonymen Surfen, Tails, korrigiert in Version 5.15.1 einige Fehler. Zudem haben die Entwickler Pakete aktualisiert.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-15-1-behebt-ein-paar-Probleme-9215000.html",
-      "image_title": "Tails-Desktop auf Notebook auf Tisch"
-    },
-    {
-      "title": ".NET 8.0 wird das Mischen von Blazor Server und Blazor WebAssembly erlauben",
-      "teaser": "Die Vorschauversion .NET 8.0 Preview 6, die zeitgleich mit Visual Studio 2022 17.7 Preview 3 erschienen ist, macht Blazor wesentlich flexibler.",
-      "url": "https://www.heise.de/news/NET-8-0-wird-das-Mischen-von-Blazor-Server-und-Blazor-WebAssembly-erlauben-9214181.html"
+      "title": "Steinberg VST Live im Test: Software für Musiker zur Steuerung von Bühnenshows",
+      "teaser": "Die Bühnensoftware VST Live spielt Audio-, MIDI- sowie Video-Playbacks ab und steuert sogar das Bühnenlicht. Der Test zeigt, wie gut das funktioniert.",
+      "url": "https://www.heise.de/tests/Steinberg-VST-Live-im-Test-Software-fuer-Musiker-zur-Steuerung-von-Buehnenshows-9213200.html"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
