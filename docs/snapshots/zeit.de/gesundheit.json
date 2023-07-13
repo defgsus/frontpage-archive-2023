@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-13T01:16:31",
+  "timestamp": "2023-07-13T02:57:51",
   "url": "https://www.zeit.de/gesundheit/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Corona-Spätfolgen: Mehr Post-Covid-Erkrankte erhalten seit 2022 Erwerbsminderungsrente",
+      "teaser": "Einem Bericht zufolge hat die Deutsche Rentenversicherung im vergangenen Jahr 1.000 Post-Covid-Erkrankten eine Erwerbsminderungsrente bewilligt. Im Vorjahr waren es 13.",
+      "url": "https://www.zeit.de/gesundheit/2023-07/corona-long-covid-erwerbsminderungsrente",
+      "image_url": "https://img.zeit.de/wissen/2022-08/long-covid-erkrankung-studie-lancet-bild/cinema__980x420"
+    },
+    {
       "title": "Long Covid: So versagt Deutschland im Umgang mit Long Covid",
       "teaser": "Millionen Betroffene, Milliardenschäden für die Volkswirtschaft: Die Pandemie mag vorbei sein, doch Long Covid bleibt. Und Deutschland? Geizt bei den Forschungsgeldern.",
       "url": "https://www.zeit.de/gesundheit/2023-07/long-covid-erkrankung-forschung-gelder-sparen",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/long-covid-forschung-deutschland/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesundheit/2023-07/long-covid-forschung-deutschland/wide__822x462",
+      "image_title": "Long Covid: So versagt Deutschland im Umgang mit Long Covid"
     },
     {
       "title": "Corona-Spätfolgen: Karl Lauterbach stellt Programm für Long-Covid-Kranke vor",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/gesundheit/2023-07/long-covid-karl-lauterbach-programm",
       "image_url": "https://img.zeit.de/politik/2023-07/karl-lauterbach-unterstuetzung-von-long-covid-kranken-bild/wide__822x462",
       "image_title": "Corona-Spätfolgen: Karl Lauterbach stellt Programm für Long-Covid-Kranke vor"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Hitze und Psyche: Lauter Hitzköpfe",
-      "teaser": "Mehr psychische Krisen in der Notaufnahme, mehr Fouls beim Football, mehr Konflikte: Hitze beeinflusst das Gehirn auf sonderbare Weise. Warum sie uns aggressiv macht.",
-      "url": "https://www.zeit.de/gesundheit/2023-07/hitze-psyche-emotion-erkrankungen-gewalt",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/hitze-psyche-emotion-erkrankungen-gewalt-bild/wide__822x462",
-      "image_title": "Hitze und Psyche: Lauter Hitzköpfe"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Magenverkleinerung: \"Viele Menschen halten Adipöse für dumm, willensschwach und gefräßig\"",
@@ -84,18 +84,18 @@
       "image_title": "Stoffwechseltypen: Warum kann der essen, was er will?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Hitze und Psyche: Lauter Hitzköpfe",
+      "teaser": "Mehr psychische Krisen in der Notaufnahme, mehr Fouls beim Football, mehr Konflikte: Hitze beeinflusst das Gehirn auf sonderbare Weise. Warum sie uns aggressiv macht.",
+      "url": "https://www.zeit.de/gesundheit/2023-07/hitze-psyche-emotion-erkrankungen-gewalt",
+      "image_url": "https://img.zeit.de/gesundheit/2023-07/hitze-psyche-emotion-erkrankungen-gewalt-bild/wide__822x462",
+      "image_title": "Hitze und Psyche: Lauter Hitzköpfe"
+    },
+    {
       "title": "Krankenhausreform: Was von Karl Lauterbachs Revolution übrig bleibt",
       "teaser": "Der Bundesgesundheitsminister wollte einen radikalen Umbau der Kliniklandschaft, enorme Beharrungskräfte im System verhinderten Teile der Reform. Doch es gibt Auswege.",
       "url": "https://www.zeit.de/gesundheit/2023-07/krankenhausreform-karl-lauterbach-bund-laender-einigung-gesundheitssystem",
       "image_url": "https://img.zeit.de/gesundheit/2023-07/gesundheitssystem-reform-lauterbach/wide__822x462",
       "image_title": "Krankenhausreform: Was von Karl Lauterbachs Revolution übrig bleibt"
-    },
-    {
-      "title": "Guillain-Barré-Syndrom: Peru ruft Gesundheitsnotstand wegen seltener Nervenkrankheit aus",
-      "teaser": "Nach einem ungewöhnlichen Anstieg von Fällen des Guillain-Barré-Syndroms hat Peru den Gesundheitsnotstand ausgerufen. 180 Menschen seien bereits erkrankt, vier gestorben.",
-      "url": "https://www.zeit.de/gesundheit/2023-07/peru-guillain-barr-syndrom-gesundheitsnotstand",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/peru-guillain-barr-syndrom-gesundheitsnotstand-bild/wide__822x462",
-      "image_title": "Guillain-Barré-Syndrom: Peru ruft Gesundheitsnotstand wegen seltener Nervenkrankheit aus"
     },
     {
       "title": "Gewaltfreie Kommunikation: \"Oft geht's nicht um Sex, sondern darum, dass mein Wunsch gehört wird\"",
@@ -139,8 +139,8 @@
       "url": "https://www.zeit.de/gesundheit/2023-07/bundesgesundheitsministerium-karl-lauterbach-rauchverbot-autos-kinder-schwangere"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Herztod: Die Abschaffung des Infarkts",
-      "url": "https://www.zeit.de/2023/29/herztod-forschung-rna-wirkstoffe-erbkrankheiten-gentherapie"
+      "title": "Z+ (abopflichtiger Inhalt); Krankenhäuser: So gut sind Sie im Notfall versorgt",
+      "url": "https://www.zeit.de/gesundheit/2023-06/notfallversorgung-krankenhaus-reform-notfallstufe-karte"
     },
     {
       "title": "Karl Lauterbach: Bund und Länder einigen sich auf Krankenhausreform",
@@ -167,8 +167,8 @@
       "url": "https://www.zeit.de/gesundheit/2023-06/depression-serotonin-mangel-psychologie-forschung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Herztod: Die Abschaffung des Infarkts",
-      "url": "https://www.zeit.de/2023/29/herztod-forschung-rna-wirkstoffe-erbkrankheiten-gentherapie"
+      "title": "Z+ (abopflichtiger Inhalt); Krankenhäuser: So gut sind Sie im Notfall versorgt",
+      "url": "https://www.zeit.de/gesundheit/2023-06/notfallversorgung-krankenhaus-reform-notfallstufe-karte"
     },
     {
       "title": "Bundesgesundheitsministerium: Karl Lauterbach plant Rauchverbot in Autos mit Kindern und Schwangeren",
@@ -202,25 +202,25 @@
       "url": "https://www.zeit.de/gesundheit/2022-12/krankenhaus-reform-karl-lauterbach-stationaere-behandlung-gesundheitssystem"
     },
     {
+      "title": "Guillain-Barré-Syndrom: Peru ruft Gesundheitsnotstand wegen seltener Nervenkrankheit aus",
+      "teaser": "Nach einem ungewöhnlichen Anstieg von Fällen des Guillain-Barré-Syndroms hat Peru den Gesundheitsnotstand ausgerufen. 180 Menschen seien bereits erkrankt, vier gestorben.",
+      "url": "https://www.zeit.de/gesundheit/2023-07/peru-guillain-barr-syndrom-gesundheitsnotstand",
+      "image_url": "https://img.zeit.de/gesundheit/2023-07/peru-guillain-barr-syndrom-gesundheitsnotstand-bild/wide__822x462",
+      "image_title": "Guillain-Barré-Syndrom: Peru ruft Gesundheitsnotstand wegen seltener Nervenkrankheit aus"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Herztod: Die Abschaffung des Infarkts",
       "teaser": "Mit neuen Behandlungsmethoden wollen Forscher Herzleiden und Kreislaufkrankheiten bezwingen. Bringt die Gentherapie den Durchbruch?",
       "url": "https://www.zeit.de/2023/29/herztod-forschung-rna-wirkstoffe-erbkrankheiten-gentherapie",
-      "image_url": "https://img.zeit.de/2023/29/herzleiden-abschaffung-des-infarkts-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/29/herzleiden-abschaffung-des-infarkts-bild/cinema__980x420",
       "image_title": "Herztod: Die Abschaffung des Infarkts"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Impfschäden: Die Impfung und der Verdacht",
       "teaser": "Sie sollte gegen das Coronavirus schützen – doch manche Menschen glauben, die Spritze habe sie krank gemacht. Kann das stimmen?",
       "url": "https://www.zeit.de/2023/29/impfschaeden-corona-impfung-klage-prozess",
-      "image_url": "https://img.zeit.de/2023/29/die-impfung-und-der-verdacht-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/29/die-impfung-und-der-verdacht-bild-1/wide__822x462",
       "image_title": "Impfschäden: Die Impfung und der Verdacht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Antidepressiva in der Schwangerschaft: Die Mutter muss stabil bleiben",
-      "teaser": "Wenn Frauen, die Antidepressiva nehmen, schwanger werden, raten viele Frauenärzte dazu, die Medikamente sofort abzusetzen. Das aber ist meist ein großer Fehler.",
-      "url": "https://www.zeit.de/gesundheit/2023-07/schwangerschaft-antidepressiva-absetzen-depression",
-      "image_url": "https://img.zeit.de/wissen/2023-07/antidepressiva-schwangere-frau-bild/wide__822x462",
-      "image_title": "Antidepressiva in der Schwangerschaft: Die Mutter muss stabil bleiben"
     },
     {
       "title": "Coronavirus: Alles zu Sars-CoV-2",
@@ -251,17 +251,24 @@
       "image_title": "Antidepressiva: Was, wenn nicht Serotonin?"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Antidepressiva in der Schwangerschaft: Die Mutter muss stabil bleiben",
+      "teaser": "Wenn Frauen, die Antidepressiva nehmen, schwanger werden, raten viele Frauenärzte dazu, die Medikamente sofort abzusetzen. Das aber ist meist ein großer Fehler.",
+      "url": "https://www.zeit.de/gesundheit/2023-07/schwangerschaft-antidepressiva-absetzen-depression",
+      "image_url": "https://img.zeit.de/wissen/2023-07/antidepressiva-schwangere-frau-bild/wide__822x462",
+      "image_title": "Antidepressiva in der Schwangerschaft: Die Mutter muss stabil bleiben"
+    },
+    {
       "title": "Bundesgesundheitsminister: Lauterbach kündigt weitere Hilfen für Long-Covid-Patienten an",
       "teaser": "Das Bundesgesundheitsministerium arbeitet laut einem Zeitungsbericht an einer Webseite für Long-Covid-Betroffene. Zudem sollen Ärzte und Reha-Experten geschult werden.",
       "url": "https://www.zeit.de/gesundheit/2023-07/bundesgesundheitsminister-karl-lauterbach-long-covid-patienten-hilfen",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/bundesgesundheitsminister-karl-lauterbach-long-covid-patienten-hilfen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/gesundheit/2023-07/bundesgesundheitsminister-karl-lauterbach-long-covid-patienten-hilfen-bild/cinema__980x420",
       "image_title": "Bundesgesundheitsminister: Lauterbach kündigt weitere Hilfen für Long-Covid-Patienten an"
     },
     {
       "title": "Gesundheitssystem: Sozialverband VdK hinterfragt hohe Zahl an Krankenkassen",
-      "teaser": "Für 2024 erwarten die Krankenkassen Milliardendefizite – Versicherte zahlen wohl höhere Beiträge. Falscher Ansatz, sagt die VdK. Gespart werden müsse an der Verwaltung. 113 Kommentare",
+      "teaser": "Für 2024 erwarten die Krankenkassen Milliardendefizite – Versicherte zahlen wohl höhere Beiträge. Falscher Ansatz, sagt die VdK. Gespart werden müsse an der Verwaltung.",
       "url": "https://www.zeit.de/gesundheit/2023-07/sozialverband-vdk-krankenkassen-verwaltung",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/sozialverband-vdk-krankenkassen-beitraege-krankenversicherung/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2023-07/sozialverband-vdk-krankenkassen-beitraege-krankenversicherung/wide__822x462",
       "image_title": "Gesundheitssystem: Sozialverband VdK hinterfragt hohe Zahl an Krankenkassen"
     },
     {
@@ -291,13 +298,6 @@
       "url": "https://www.zeit.de/gesundheit/2023-07/australien-partydrogen-therapie-medikamente",
       "image_url": "https://img.zeit.de/gesundheit/2023-07/australien-partydrogen-therapie-medikamente-bild/wide__822x462",
       "image_title": "Depressionen: Australien erlaubt Rauschmittel als Medikament"
-    },
-    {
-      "title": "Fertiglebensmittel: Müsli darf kein Zuckerschlecken sein",
-      "teaser": "Fertiglebensmittel sind immer noch zu süß, zu salzig, zu fett, vor allem für Kinder. Die Folgen sind der Industrie wurst – Ernährungsminister Özdemir schaut hilflos zu.",
-      "url": "https://www.zeit.de/gesundheit/2023-07/fertiglebensmittel-cem-oezdemir-daten-kinder",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/fertiglebensmittel-cem-oezdemir-daten/wide__822x462",
-      "image_title": "Fertiglebensmittel: Müsli darf kein Zuckerschlecken sein"
     }
   ]
 }
