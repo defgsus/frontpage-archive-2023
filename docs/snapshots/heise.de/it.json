@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-13T07:11:45",
+  "timestamp": "2023-07-13T08:15:42",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Metaverse-VP Shah über Avatare, Interoperabilität und die Zukunft des Internets",
+      "teaser": "Metaverse ist die nächste Version des Internets, sagt Vishal Shah. heise online sprach mit dem Meta-VP darüber, was Avatare mit Interoperabilität zu tun haben.",
+      "url": "https://www.heise.de/hintergrund/Metaverse-VP-Shah-ueber-Avatare-Interoperabilitaet-und-die-Zukunft-des-Internets-9213707.html"
+    },
+    {
       "title": "InfluxData: Server aus, Kundendaten weg",
       "teaser": "Als zahlender Kunde verlässt man sich auf den Anbieter. Zumindest bei InfluxData scheint das Vertrauen nicht gerechtfertigt gewesen zu sein – nur eine Panne?",
       "url": "https://www.heise.de/news/InfluxData-Server-aus-Kundendaten-weg-9213264.html"
@@ -36,11 +41,6 @@
       "url": "https://www.heise.de/news/Vishing-Betrueger-arbeiten-mit-raffinierter-Voice-Phishing-Masche-9212374.html"
     },
     {
-      "title": "LTO-Tapes weiternutzen statt vernichten",
-      "teaser": "Viele Unternehmen nutzen Bandlaufwerke zur Sicherung wichtiger Daten. Beim Umstieg auf eine neue LTO-Generation verbleiben aber Daten auf den alten Bändern.",
-      "url": "https://www.heise.de/news/LTO-Tapes-weiternutzen-statt-vernichten-9210999.html"
-    },
-    {
       "title": "Machine Learning: Wie Federated Learning KI und Datenschutz vereint",
       "teaser": "Federated Learning als Kompromiss für Unternehmen, die ihre Daten schützen, aber trotzdem für das Training eines Machine-Learning-Modells einsetzen wollen.",
       "url": "https://www.heise.de/hintergrund/Machine-Learning-Wie-Federated-Learning-KI-und-Datenschutz-vereint-9212735.html"
@@ -49,6 +49,24 @@
       "title": "Einstieg in MLOps: KI-Entwicklung mit Kubeflow erklärt",
       "teaser": "MLOps hat das Ziel, KI-Modelle zuverlässig und skalierbar aus der Entwicklung in die Cloud zu bringen. Eine beliebte Open-Source-Plattform dafür ist Kubeflow.",
       "url": "https://www.heise.de/ratgeber/Einstieg-in-MLOps-KI-Entwicklung-mit-Kubeflow-erklaert-9211354.html"
+    },
+    {
+      "title": "iX-IWorkshop: Powerkurs VMware vSphere 7 und 8 (10% Frühbucherrabatt bis 30.7.)",
+      "teaser": "Lernen Sie an fünf Tagen mit vielen praktischen Übungen, wie Sie VMware vSphere 7 und 8 installieren, einrichten und managen.",
+      "url": "https://www.heise.de/news/iX-IWorkshop-Powerkurs-VMware-vSphere-7-und-8-10-Fruehbucherrabatt-bis-30-7-9206939.html",
+      "image_title": "Intensivkurs: Administration von VMware vSphere"
+    },
+    {
+      "title": "Update fürs Update: Apple überholt letzte \"Rapid Security Response\"",
+      "teaser": "Eigentlich sollte ein schneller Fix für den Safari-Browser für mehr Sicherheit sorgen. Aufgrund eines Fehlers musste Apple diesen nun neu auflegen.",
+      "url": "https://www.heise.de/news/Update-fuers-Update-Apple-ueberholt-letzte-Rapid-Security-Response-9214819.html",
+      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
+    },
+    {
+      "title": "Anonymisierendes Linux: Tails 5.15.1 bringt Fehlerkorrekturen",
+      "teaser": "Die Linux-Distribution zum anonymen Surfen, Tails, korrigiert in Version 5.15.1 einige Fehler. Zudem haben die Entwickler Pakete aktualisiert.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-15-1-behebt-ein-paar-Probleme-9215000.html",
+      "image_title": "Tails-Desktop auf Notebook auf Tisch"
     },
     {
       "title": ".NET 8.0 wird das Mischen von Blazor Server und Blazor WebAssembly erlauben",
@@ -117,22 +135,6 @@
       "teaser": "Beim Abruf medizinischen Wissens ist das Sprachmodell Med PaLM so gut wie Menschen, zeigt eine Nature-Studie. In der Praxis reicht das laut Experten noch nicht.",
       "url": "https://www.heise.de/news/Digital-Health-Med-PaLM-im-Medizinertest-auf-Augenhoehe-9214542.html",
       "image_title": "Smart,Medical,Technology,Concept,advanced,Robotic,Surgery,Machine,At,Hospital,,Robotic"
-    },
-    {
-      "title": "Megadeal: EU-Wettbewerbshüter geben VMware-Übernahme durch Broadcom frei",
-      "teaser": "Die Akquisition von VMware durch Broadcom könnte zwar den Wettbewerb bei speziellen Adaptern gefährden, moniert die EU-Kommission. Zusagen reichen ihr aber aus.",
-      "url": "https://www.heise.de/news/Megadeal-EU-Wettbewerbshueter-geben-VMware-Uebernahme-durch-Broadcom-frei-9214569.html",
-      "image_title": "Eingangsbereich des Unternehmenssitzes von US-Chiphersteller Broadcom in Irvine, US-Bundesstaat Kalifornien."
-    },
-    {
-      "title": "Balkonkraftwerke: Externe Relais-Box soll Deye-Wechselrichter VDE-konform machen",
-      "teaser": "Nachdem es zu Aufregung um Deye-Wechselrichter wegen eines von der VDE-Norm verlangten, jedoch fehlenden Relais kam, bietet der Hersteller nun eine Lösung an.",
-      "url": "https://www.heise.de/news/Balkonkraftwerke-Deye-will-fehlendes-Relais-mit-externer-Box-nachruesten-9214331.html"
-    },
-    {
-      "title": "Sprachmodelle im Unternehmenseinsatz: Die Webinar-Serie von Heise",
-      "teaser": "Es gibt nicht nur ChatGPT, sondern Unternehmen können Large Language Models für diverse Zwecke einsetzen und anpassen. Viele Modelle sind frei verfügbar.",
-      "url": "https://www.heise.de/news/Sprachmodelle-im-Unternehmenseinsatz-Die-Webinar-Serie-von-Heise-9214001.html"
     },
     {
       "title": "Zoho führend in Kundenorientierung",
