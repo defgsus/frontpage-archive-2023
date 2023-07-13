@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-13T13:25:33",
+  "timestamp": "2023-07-13T14:11:16",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "KI steuert an Hammer Kreuzung die Ampeln",
+      "teaser": "An einer Kreuzung in Hamm sorgen sieben Kameras und eine Auswertungseinheit dafür, dass Verkehrsteilnehmer je nach Bedarf grünes Licht gezeigt bekommen.",
+      "url": "https://www.heise.de/news/Deutschlands-erste-KI-Ampel-regelt-in-Hamm-den-Verkehr-9215018.html"
+    },
+    {
       "title": "Extremely Large Telescope: Fertigstellung zur Hälfte abgeschlossen",
       "teaser": "2028 soll das weltgrößte optische Teleskop seine Arbeit aufnehmen. Jetzt ist die Fertigstellung zur Hälfte abgeschlossen, nicht nur vor Ort in Chile.",
       "url": "https://www.heise.de/news/Extremely-Large-Telescope-Fertigstellung-zur-Haelfte-abgeschlossen-9213725.html",
@@ -37,20 +42,14 @@
       "url": "https://www.heise.de/news/Elektrisches-Tragflaechenboot-SpiritBARTech35EF-mit-hoher-Reichweite-9213654.html"
     },
     {
-      "title": "Weltraumteleskop James Webb jetzt seit einem Jahr im Forschungsbetrieb",
-      "teaser": "Vor einem Jahr durfte US-Präsident Joe Biden die erste wissenschaftliche Aufnahme des neuen Weltraumteleskops enthüllen. Seitdem begeistert es die Forschung.",
-      "url": "https://www.heise.de/news/Weltraumteleskop-James-Webb-erforscht-das-Universum-jetzt-seit-einem-Jahr-9212883.html",
-      "image_title": "Stern mit pinker Wolke"
+      "title": "KI: Objekterkennung mit Tensor Flow Lite und Raspberry Pi",
+      "teaser": "KI hat viele Facetten – Chat GPT ist aktuell die bekannteste Implementierung. Wir zeigen, wie die Objekterkennung mit Tensor Flow Lite und einem Raspi klappt.",
+      "url": "https://www.heise.de/ratgeber/KI-Objekterkennung-mit-Tensor-Flow-Lite-und-Raspberry-Pi-9199701.html"
     },
     {
       "title": "Machine Learning: Wie Federated Learning KI und Datenschutz vereint",
       "teaser": "Federated Learning als Kompromiss für Unternehmen, die ihre Daten schützen, aber trotzdem für das Training eines Machine-Learning-Modells einsetzen wollen.",
       "url": "https://www.heise.de/hintergrund/Machine-Learning-Wie-Federated-Learning-KI-und-Datenschutz-vereint-9212735.html"
-    },
-    {
-      "title": "Einstieg in MLOps: KI-Entwicklung mit Kubeflow erklärt",
-      "teaser": "MLOps hat das Ziel, KI-Modelle zuverlässig und skalierbar aus der Entwicklung in die Cloud zu bringen. Eine beliebte Open-Source-Plattform dafür ist Kubeflow.",
-      "url": "https://www.heise.de/ratgeber/Einstieg-in-MLOps-KI-Entwicklung-mit-Kubeflow-erklaert-9211354.html"
     },
     {
       "title": "Wie Bill Gates über die Zukunft mit KI denkt",
@@ -72,6 +71,11 @@
       "title": "Kurz informiert: Verkehrswende, Angriff auf Microsoft, Thunderbird, Schifffahrt",
       "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
       "url": "https://www.heise.de/news/Kurz-informiert-Verkehrswende-Angriff-auf-Microsoft-Thunderbird-Schifffahrt-9214257.html"
+    },
+    {
+      "title": "Einstieg in MLOps: KI-Entwicklung mit Kubeflow erklärt",
+      "teaser": "MLOps hat das Ziel, KI-Modelle zuverlässig und skalierbar aus der Entwicklung in die Cloud zu bringen. Eine beliebte Open-Source-Plattform dafür ist Kubeflow.",
+      "url": "https://www.heise.de/ratgeber/Einstieg-in-MLOps-KI-Entwicklung-mit-Kubeflow-erklaert-9211354.html"
     },
     {
       "title": "Weltraumgestützte Solarenergie: ESA sucht Ideen für weitere Forschung",
@@ -117,20 +121,16 @@
       "image_title": "Sommer, Sonne, Weizen, Getreide"
     },
     {
+      "title": "Weltraumteleskop James Webb jetzt seit einem Jahr im Forschungsbetrieb",
+      "teaser": "Vor einem Jahr durfte US-Präsident Joe Biden die erste wissenschaftliche Aufnahme des neuen Weltraumteleskops enthüllen. Seitdem begeistert es die Forschung.",
+      "url": "https://www.heise.de/news/Weltraumteleskop-James-Webb-erforscht-das-Universum-jetzt-seit-einem-Jahr-9212883.html",
+      "image_title": "Stern mit pinker Wolke"
+    },
+    {
       "title": "Geologie: Das Anthropozän hat 1950 begonnen, die Referenz findet sich in Kanada",
       "teaser": "Seit Jahrzehnten wird debattiert, wann das Menschenzeitalter begonnen hat, eine formale Definition gab es aber nicht. Jetzt gibt es einen konkreten Vorschlag.",
       "url": "https://www.heise.de/news/Geologie-Das-Anthropozaen-hat-1950-begonnen-die-Referenz-findet-sich-in-Kanada-9212663.html",
       "image_title": "Satellitenbild der Erde bei Nacht"
-    },
-    {
-      "title": "RoboCup-WM: So vielfältig sind die verschiedenen Fußball-Ligen",
-      "teaser": "Der RoboCup besteht aus verschiedenen Ligen, in denen reale und virtuelle Roboter im Fußball gegeneinander antreten und die jeweils ihre Tücken haben.",
-      "url": "https://www.heise.de/news/RoboCup-WM-Die-Vielfalt-des-Fussballspiels-9213544.html"
-    },
-    {
-      "title": "Zubehör aus dem 3D-Drucker für Wago-Klemmen",
-      "teaser": "Wago-Klemmen sind super praktisch für Elektriker, aber auch Maker verwenden sie gerne. Natürlich wird dann auch 3D-gedruckt und Wago hakt hier ein.",
-      "url": "https://www.heise.de/news/Zubehoer-aus-dem-3D-Drucker-fuer-Wago-Klemmen-9213246.html"
     }
   ]
 }

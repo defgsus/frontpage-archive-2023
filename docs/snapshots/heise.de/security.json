@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-13T13:25:36",
+  "timestamp": "2023-07-13T14:11:19",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ghostscript",
+      "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-Ghostscript-betrifft-LibreOffice-und-mehr-9215627.html"
+    },
+    {
       "title": "Zoom",
       "url": "https://www.heise.de/news/Webkonferenzen-Zoom-schliesst-mehrere-Sicherheitsluecken-9214929.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Citrix-Updates-schliessen-Sicherheitsluecken-in-Secure-Access-Clients-9214076.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Sicherheitsluecken-in-Indesign-und-Coldfusion-9213920.html"
-    },
-    {
-      "title": "Spieler-Zubehörhersteller Razer untersucht Datendiebstahl",
-      "teaser": "In einem Untergrundforum bietet ein Cyberkrimineller Daten angeblich von Razer zum Kauf an. Der Spieler-Ausstatter untersucht den Vorfall noch.",
-      "url": "https://www.heise.de/news/Gamer-Ausstatter-Razer-untersucht-Datenklau-9215229.html"
+      "title": "Codeschmuggel-Lücke in Ghostscript betrifft LibreOffice und mehr",
+      "teaser": "Eine Lücke in Ghostscript, die Einschmuggeln von Schadcode erlaubt, betrifft Linux-Systeme und Software wie LibreOffice oder Inkscape – auch unter Windows.",
+      "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-Ghostscript-betrifft-LibreOffice-und-mehr-9215627.html"
     },
     {
       "title": "Ethical Hacking für Admins: Lerne Pentesting und mehr in der Webinar-Serie",
@@ -95,6 +95,11 @@
       "teaser": "Die Twitter-Alternative \"Threads\" ist in Deutschland nicht verfügbar. Das nutzt eine App aus, um Abos loszuschlagen. iPhone-Nutzer sollten genau hinschauen.",
       "url": "https://www.heise.de/news/Abo-Nepp-mit-Namejacking-Threads-for-Insta-stuermt-iPhone-Charts-9213863.html",
       "image_title": "Threads und \"Insta Threads\" auf dem iPhone"
+    },
+    {
+      "title": "Patchday: Microsoft meldet fünf Zero-Days, teils ohne Update",
+      "teaser": "Der Juli-Patchday von Microsoft liefert viele Updates: 130 Lücken behandelt das Unternehmen. Darunter fünf Zero-Days. Eine Sicherheitslücke bleibt aber offen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-meldet-fuenf-Zero-Days-teils-ohne-Update-9213685.html"
     },
     {
       "title": "Webbrowser: Firefox und Firefox ESR 115.0.2 schließen Sicherheitslücke",
@@ -150,12 +155,6 @@
       "teaser": "Apple hat Montagabend eine schnelle Aktualisierung für seinen Browser ausgespielt. Betroffen von der offenbar bereits ausgenutzten Lücke: Macs und Mobilgeräte.",
       "url": "https://www.heise.de/news/Zero-Day-fuer-Safari-geschlossen-Update-Zurueckgezogen-9212228.html",
       "image_title": "Compass - das Safari-Icon+"
-    },
-    {
-      "title": "Minecraft: Virtuelle Computer reißen Sicherheitslücken auf",
-      "teaser": "In zwei Minecraft-Mods, die tatsächlich programmierbare Computer oder Roboter für das Spiel bereitstellen, klaffen kritische Sicherheitslücken.",
-      "url": "https://www.heise.de/news/Minecraft-Virtuelle-Computer-reissen-Sicherheitsluecken-auf-9211864.html",
-      "image_title": "Screenshot aus Microsoft Minecraft"
     },
     {
       "title": "heise Security Tour 2023",
