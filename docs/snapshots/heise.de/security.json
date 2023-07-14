@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-14T05:12:02",
+  "timestamp": "2023-07-14T06:17:03",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zimbra",
+      "url": "https://www.heise.de/news/Groupware-Zimbra-Zero-Day-Luecke-macht-manuelles-Patchen-noetig-9216179.html"
+    },
+    {
       "title": "Ghostscript",
       "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-Ghostscript-betrifft-LibreOffice-und-mehr-9215627.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "FortiOS/FortiProxy",
       "url": "https://www.heise.de/news/Update-gegen-kritische-Luecke-in-FortiOS-FortiProxy-9214207.html"
-    },
-    {
-      "title": "Citrix Secure Access",
-      "url": "https://www.heise.de/news/Citrix-Updates-schliessen-Sicherheitsluecken-in-Secure-Access-Clients-9214076.html"
     },
     {
       "title": "Spieler-Zubehörhersteller Razer untersucht Datendiebstahl",
@@ -74,6 +74,11 @@
       "teaser": "Nach einem Angriff auf die Schweizer IT-Firma Xplain sind Namen und Fotos Hunderter Fußballfans aus dem Informationssystem Hoogan im Darknet aufgetaucht.",
       "url": "https://www.heise.de/news/Hooligan-Datenbank-mit-Daten-von-mehr-als-700-Personen-im-Darknet-aufgetaucht-9214915.html",
       "image_title": "Fußballfans im Stadion"
+    },
+    {
+      "title": "Webkonferenzen: Zoom schließt mehrere Sicherheitslücken",
+      "teaser": "Vor allem in Zoom Rooms und im Zoom Desktop-Client für Windows schlummern hochriskante Sicherheitslücken. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Webkonferenzen-Zoom-schliesst-mehrere-Sicherheitsluecken-9214929.html"
     },
     {
       "title": "Update gegen kritische Lücke in FortiOS/FortiProxy",
@@ -149,12 +154,6 @@
       "teaser": "Teils kritische Sicherheitslücken in VMware Aria Operations for Logs stopfen Updates aus dem April. Jetzt ist Exploit-Code aufgetaucht, der eine Lücke angreift.",
       "url": "https://www.heise.de/news/Exploit-fuer-Root-Luecke-in-VMware-Aria-Operations-for-Logs-aufgetaucht-9212276.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Zero-Day für Safari geschlossen – Update: Zurückgezogen",
-      "teaser": "Apple hat Montagabend eine schnelle Aktualisierung für seinen Browser ausgespielt. Betroffen von der offenbar bereits ausgenutzten Lücke: Macs und Mobilgeräte.",
-      "url": "https://www.heise.de/news/Zero-Day-fuer-Safari-geschlossen-Update-Zurueckgezogen-9212228.html",
-      "image_title": "Compass - das Safari-Icon+"
     },
     {
       "title": "heise Security Tour 2023",
