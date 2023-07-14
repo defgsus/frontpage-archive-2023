@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-14T14:11:25",
+  "timestamp": "2023-07-14T15:13:01",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
+      "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
+      "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
+      "image_url": "https://img.zeit.de/wirtschaft/2022-09/energiemonitor-gaspreis-spritpreis-energieversorgung/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wirtschaft in Großbritannien: Die Angst vor der Lohninflation",
       "teaser": "Wegen der hohen Inflation fordern Staatsbedienstete in Großbritannien deutlich mehr Lohn. Nun lenkt die Regierung ein – und könnte so die Teuerung weiter antreiben.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/grossbritannien-wirtschaft-loehne-oeffentlicher-dienst",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/grossbritannien-wirtschaft-loehne-oeffentlicher-dienst-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/grossbritannien-wirtschaft-loehne-oeffentlicher-dienst-bild/wide__822x462",
+      "image_title": "Wirtschaft in Großbritannien: Die Angst vor der Lohninflation"
     },
     {
       "title": "Inflation Reduction Act: Wirtschaftsweise warnen vor Subventionswettlauf mit den USA",
@@ -66,22 +73,15 @@
       "title": "Ehegattensplitting: Weg mit diesem Überbleibsel aus dem Patriachat",
       "teaser": "Die Abschaffung des Ehegattensplittings schafft mehr Freiheit, Gerechtigkeit und Wohlstand. Reformvorschläge liegen auf dem Tisch – die Politik muss sie nur umsetzen.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/ehegattensplitting-abschaffung-frauen-gleichstellung-arbeitsmarkt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/ehegattensplitting-abschaffung-frauen-gleichstellung-arbeitsmarkt-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/ehegattensplitting-abschaffung-frauen-gleichstellung-arbeitsmarkt-bild/cinema__980x420",
       "image_title": "Ehegattensplitting: Weg mit diesem Überbleibsel aus dem Patriachat"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Soziale Ungleichheit: Bin ich wirklich Mittelschicht?",
       "teaser": "Deutschland streitet über die Frage, wer arm ist und wer reich. Vermögen, Arbeit, Wohnen: Finden Sie in unserem Rechner heraus, wo Sie in der Gesellschaft stehen.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/soziale-ungleichheit-einkommen-armut-reichtum-rechner",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/soziale-ungleichheit-einkommen-armut-reichtum-rechner-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/soziale-ungleichheit-einkommen-armut-reichtum-rechner-teaserbild/wide__822x462",
       "image_title": "Soziale Ungleichheit: Bin ich wirklich Mittelschicht?"
-    },
-    {
-      "title": "Energieversorgung: Deutsche LNG-Terminals für Gasimport bislang nachrangig",
-      "teaser": "Die Terminals in Wilhelmshaven, Brunsbüttel und Lubmin wurden in Rekordtempo bewilligt und gebaut. Ihr Beitrag zur Energieversorgung ist bisher aber gering.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/deutschland-lng-terminals-energie-gas",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/deutschland-lng-terminals-energie-gas-bild/wide__822x462",
-      "image_title": "Energieversorgung: Deutsche LNG-Terminals für Gasimport bislang nachrangig"
     },
     {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
@@ -91,11 +91,11 @@
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
     },
     {
-      "title": "Kinder-Schokolade: Ferrero stoppt Produktion in belgischem Werk wegen Salmonellen",
-      "teaser": "Im Ferrero-Werk in Arlon sind erneut Salmonellen entdeckt worden – nun wurde die Produktion gestoppt. In Produkten sei das Bakterium aber nicht festgestellt worden.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/kinder-schokolade-ferrero-fabrik-belgien-salmonellen",
-      "image_url": "https://img.zeit.de/wissen/2023-07/kinder-schokolade-ferrero-fabrik-belgien-salmonellen-bild/wide__822x462",
-      "image_title": "Kinder-Schokolade: Ferrero stoppt Produktion in belgischem Werk wegen Salmonellen"
+      "title": "Energieversorgung: Deutsche LNG-Terminals für Gasimport bislang nachrangig",
+      "teaser": "Die Terminals in Wilhelmshaven, Brunsbüttel und Lubmin wurden in Rekordtempo bewilligt und gebaut. Ihr Beitrag zur Energieversorgung ist bisher aber gering.",
+      "url": "https://www.zeit.de/wirtschaft/2023-07/deutschland-lng-terminals-energie-gas",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/deutschland-lng-terminals-energie-gas-bild/wide__822x462",
+      "image_title": "Energieversorgung: Deutsche LNG-Terminals für Gasimport bislang nachrangig"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Arbeitgeberpräsident Rainer Dulger: \"Wenn alle nur vier Tage arbeiten wollen, funktioniert das nicht\"",
@@ -203,6 +203,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Kinder-Schokolade: Ferrero stoppt Produktion in belgischem Werk wegen Salmonellen",
+      "teaser": "Im Ferrero-Werk in Arlon sind erneut Salmonellen entdeckt worden – nun wurde die Produktion gestoppt. In Produkten sei das Bakterium aber nicht festgestellt worden.",
+      "url": "https://www.zeit.de/wirtschaft/2023-07/kinder-schokolade-ferrero-fabrik-belgien-salmonellen",
+      "image_url": "https://img.zeit.de/wissen/2023-07/kinder-schokolade-ferrero-fabrik-belgien-salmonellen-bild/wide__822x462",
+      "image_title": "Kinder-Schokolade: Ferrero stoppt Produktion in belgischem Werk wegen Salmonellen"
+    },
+    {
       "title": "Schweiz: Parlamentskommission untersucht Pleite der Großbank Credit Suisse",
       "teaser": "Der Kollaps der Credit Suisse im März weckte Erinnerungen an die Weltwirtschaftskrise im Jahr 2008. Ein Untersuchungsausschuss soll nun klären, wie es dazu kommen konnte.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/credit-suisse-bankenkollaps-uebernahme-untersuchungsausschuss",
@@ -227,14 +234,14 @@
       "title": "Vereinte Nationen: UN warnen vor verheerender Schuldenkrise für arme Länder",
       "teaser": "\"Die halbe Welt versinkt in einem Entwicklungsdesaster\", sagt UN-Generalsekretär António Guterres. Mehr als 50 arme Länder sitzen laut UN in einer Schuldenfalle.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/vereinte-nationen-schulden-krise-antonio-guterres",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/vereinte-nationen-schulden-krise-antonio-guterres-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/vereinte-nationen-schulden-krise-antonio-guterres-bild/cinema__980x420",
       "image_title": "Vereinte Nationen: UN warnen vor verheerender Schuldenkrise für arme Länder"
     },
     {
       "title": "Insolvenz: Anzahl der Unternehmensinsolvenzen nimmt weiter zu",
       "teaser": "Im Juni haben 13,9 Prozent mehr Unternehmen in Deutschland Regelinsolvenzverfahren beantragt als im Vorjahresmonat. Damit setzt sich der Trend fort.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/insolvenz-amtsgericht-unternehmen-verbraucher-rezession",
-      "image_url": "https://img.zeit.de/wirtschaft/zeitgeschehen/2023-07/insolvenzen-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/zeitgeschehen/2023-07/insolvenzen-bild/wide__822x462",
       "image_title": "Insolvenz: Anzahl der Unternehmensinsolvenzen nimmt weiter zu"
     },
     {
@@ -243,13 +250,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-07/china-exporte-rueckgang-konjunktur-aussenhandel",
       "image_url": "https://img.zeit.de/wirtschaft/2023-07/china-exporte-rueckgang-konjunktur-aussenhandel-bild/wide__822x462",
       "image_title": "China: Chinesische Exporte schrumpfen zweiten Monat in Folge"
-    },
-    {
-      "title": "Bundesnetzagentur: Auktion von Offshore-Windkraftflächen erzielt 12,6 Milliarden Euro",
-      "teaser": "Die Bundesnetzagentur hat erstmals per Versteigerung bestimmt, wer in Nord- und Ostsee Windparks errichten darf. Die Auktion brachte einen Milliardenerlös.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/auktion-von-offshore-windkraftflaechen-erzielt-12-6-milliarden-euro",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/auktion-von-offshore-windkraftflaechen-erzielt-12-6-milliarden-euro-bild/wide__822x462",
-      "image_title": "Bundesnetzagentur: Auktion von Offshore-Windkraftflächen erzielt 12,6 Milliarden Euro"
     },
     {
       "title": "ifo Institut: Fast jedes zweite deutsche Unternehmen nutzt Clouddienste",
@@ -301,18 +301,18 @@
       "image_title": "Schulden: Ich bin doch kreditwürdig!"
     },
     {
+      "title": "WirtschaftsWocheIT-Projekte: Stellenabbau beim Familienunternehmen Haba – wegen Problemen mit SAP-Software?",
+      "teaser": "Das auf Kinderkleider und Spielsachen spezialisierte Familienunternehmen Haba kämpft seit dem Jahreswechsel mit Lieferproblemen. Das könnte auch an einer neuen SAP-Software liegen.",
+      "url": "https://www.wiwo.de/technologie/digitale-welt/it-projekte-stellenabbau-beim-familienunternehmen-haba-wegen-problemen-mit-sap-software/29259086.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/haba-sap-absage-dpa-imago/29259356/2-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "IT-Projekte: Stellenabbau beim Familienunternehmen Haba – wegen Problemen mit SAP-Software?"
+    },
+    {
       "title": "WirtschaftsWocheInnovationen: Chinas Autoindustrie ist groß, schnell – und jetzt auch noch erfinderisch",
       "teaser": "Der chinesische Autobauer Rising Auto ist jetzt ganz offiziell innovativer als Audi. Diese und andere Horrornachrichten für Deutschlands Autobauer finden sich im wichtigsten Innovationsranking der Branche.",
       "url": "https://www.wiwo.de/unternehmen/auto/innovationen-chinas-autoindustrie-ist-gross-schnell-und-jetzt-auch-noch-erfinderisch/29254892.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/rising_auto_r7_394713546bb/29257926/6-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Innovationen: Chinas Autoindustrie ist groß, schnell – und jetzt auch noch erfinderisch"
-    },
-    {
-      "title": "WirtschaftsWocheKarls Erlebnis-Dorf: „Ich arbeite eigentlich jede Minute, in der ich wach bin“",
-      "teaser": "Karls Erlebnis-Dorf ist ein Disneyland rund um die Erdbeere. Gründer Robert Dahl über die Arbeit im Familienunternehmen, die Viertagewoche und was er jungen Gründern rät.",
-      "url": "https://www.wiwo.de/unternehmen/handel/karls-erlebnis-dorf-ich-arbeite-eigentlich-jede-minute-in-der-ich-wach-bin/29192820.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/robert-dahl/29192822/5-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Karls Erlebnis-Dorf: „Ich arbeite eigentlich jede Minute, in der ich wach bin“"
     }
   ]
 }
