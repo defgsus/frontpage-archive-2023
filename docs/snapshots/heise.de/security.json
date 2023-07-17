@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-17T07:11:59",
+  "timestamp": "2023-07-17T08:16:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Juniper",
+      "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
+    },
+    {
       "title": "Adobe Coldfusion",
       "url": "https://www.heise.de/news/PoC-Exploit-verfuegbar-Adobe-legt-Patch-fuer-Coldfusion-nach-9217427.html"
     },
@@ -42,16 +46,6 @@
     {
       "title": "Zimbra",
       "url": "https://www.heise.de/news/Groupware-Zimbra-Zero-Day-Luecke-macht-manuelles-Patchen-noetig-9216179.html"
-    },
-    {
-      "title": "Ghostscript",
-      "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-Ghostscript-betrifft-LibreOffice-und-mehr-9215627.html"
-    },
-    {
-      "title": "Virustotal: Nutzerdaten von Googles Analysedienst im Netz gelandet",
-      "teaser": "IT-Sicherheitsforscher nutzen Googles Dienst Virustotal, um etwa Dateien mit zahlreichen Virenscannern zu untersuchen. Es gab ein Datenleck der Nutzerdatenbank.",
-      "url": "https://www.heise.de/news/Datenleck-bei-Googles-Analysedienst-Virustotal-9218040.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Cyber-Sicherheitsbericht: Steigende Bedrohungslage im Gesundheitswesen",
@@ -74,6 +68,16 @@
       "title": "Cisco schließt kritische Lücke in SD-WAN vManage",
       "teaser": "Cisco warnt vor einer kritischen Schwachstelle in SD-WAN vManage, die Angreifern aus dem Netz die Übernahme verwundbarer Systeme ermöglicht.",
       "url": "https://www.heise.de/news/Cisco-schliesst-kritische-Luecke-in-SD-WAN-vManage-9216212.html"
+    },
+    {
+      "title": "Groupware Zimbra: Zero-Day-Lücke macht manuelles Patchen nötig",
+      "teaser": "Zimbra hat einen manuell anzuwendenden Patch veröffentlicht, der eine Zero-Day-Sicherheitslücke in der Groupware schließt.",
+      "url": "https://www.heise.de/news/Groupware-Zimbra-Zero-Day-Luecke-macht-manuelles-Patchen-noetig-9216179.html"
+    },
+    {
+      "title": "Codeschmuggel-Lücke in Ghostscript betrifft LibreOffice und mehr",
+      "teaser": "Eine Lücke in Ghostscript, die Einschmuggeln von Schadcode erlaubt, betrifft Linux-Systeme und Software wie LibreOffice oder Inkscape – auch unter Windows.",
+      "url": "https://www.heise.de/news/Codeschmuggel-Luecke-in-Ghostscript-betrifft-LibreOffice-und-mehr-9215627.html"
     },
     {
       "title": "Spieler-Zubehörhersteller Razer untersucht Datendiebstahl",
@@ -149,12 +153,6 @@
       "teaser": "Malware versteckt sich in 133 Windows-Treibern mit gültiger digitaler Signatur. Jetzt hat Microsoft diese blockiert und die Entwicklerlizenzen suspendiert.",
       "url": "https://www.heise.de/news/Microsoft-reagiert-auf-Malware-in-ueber-100-signierten-Windows-Treibern-9213637.html",
       "image_title": "Laptop mit symbolischen Code-Zeilen darüber"
-    },
-    {
-      "title": "Datenleck bei Banken: Hackerangriff betrifft auch ING und Comdirect",
-      "teaser": "Der Hackangriff bei einer Arvato-Tochter betrifft nicht nur Kunden der Deutschen Bank. Auch die ING und Comdirect haben einen unbefugten Zugriff eingeräumt.",
-      "url": "https://www.heise.de/news/Datenleck-bei-Banken-Hackerangriff-betrifft-auch-ING-und-Comdirect-9213465.html",
-      "image_title": "Niederlassung der ING in Hannover"
     },
     {
       "title": "heise Security Tour 2023",
