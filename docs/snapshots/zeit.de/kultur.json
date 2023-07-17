@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-17T11:10:52",
+  "timestamp": "2023-07-17T12:27:52",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "\"Dear England\": Die verdammten Elfmeter",
+      "teaser": "Das Theaterstück \"Dear England\" ist eine fröhliche, manchmal rührselige Erkundung der englischen Seele. Es inszeniert Gareth Southgate als Premierminister der Herzen.",
+      "url": "https://www.zeit.de/2023/30/dear-england-national-theatre-london",
+      "image_url": "https://img.zeit.de/2023/30/die-verdammten-elfmeter-bild-1/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Chinesische Philosophie: Universum ohne Moral",
       "teaser": "Der Westen sollte endlich vom chinesischen Denken lernen, meint der Philosoph Zhao Tingyang. Denn es zeichne sich eine neue Weltordnung ab.",
       "url": "https://www.zeit.de/2023/30/chinesische-philosophie-westen-zukunft",
-      "image_url": "https://img.zeit.de/2023/30/universum-ohne-moral-warum-der-westen-endlich-anfangen-sollte-vom-chinesischen-denken-zu-lernen-von--bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/30/universum-ohne-moral-warum-der-westen-endlich-anfangen-sollte-vom-chinesischen-denken-zu-lernen-von--bild-1/wide__822x462",
+      "image_title": "Chinesische Philosophie: Universum ohne Moral"
     },
     {
       "title": "Jane Birkin: Schauspielerin, Sängerin und Stilikone",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/kultur/musik/2023-07/jane-birkin-schauspielerin-saengerin-karriere-fs-2",
       "image_url": "https://img.zeit.de/kultur/2023-07/jane-birkin-tot-fs-teaser/wide__822x462",
       "image_title": "Jane Birkin: Schauspielerin, Sängerin und Stilikone"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jane Birkin: Meisterin aller Disziplinen",
-      "teaser": "Jane Birkin beherrschte praktisch alles, sie schrieb Mode-, Film- und Musikgeschichte. Dennoch bewahrte sie sich stets ihr typisches Understatement. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/2023-07/jane-birkin-schauspielerin-saengerin-serge-gainsbourg",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-07/jane-birkin-schauspielerin-saengerin-serge-gainsbourg-bild/wide__822x462",
-      "image_title": "Jane Birkin: Meisterin aller Disziplinen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Rammstein-Konzerte in Berlin: Alle Regler auf Anschlag",
@@ -106,8 +106,8 @@
       "url": "https://www.zeit.de/kultur/2023-07/juedischsein-familiengeschichte-deutschland-ddr-antisemitismus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rammstein-Konzerte in Berlin: Alle Regler auf Anschlag",
-      "url": "https://www.zeit.de/kultur/2023-07/rammstein-konzerte-berlin-olympiastadion-demonstration"
+      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Der Mittelschicht entkommst du nicht",
+      "url": "https://www.zeit.de/kultur/2023-07/elterngeld-kuerzung-einkommen-mittelschicht-reichtum"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Flugreisen und Klimawandel: Es fliegt uns um die Ohren",
@@ -118,8 +118,8 @@
       "url": "https://www.zeit.de/kultur/2023-07/rammstein-konzerte-berlin-olympiastadion-demonstration"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Der Mittelschicht entkommst du nicht",
-      "url": "https://www.zeit.de/kultur/2023-07/elterngeld-kuerzung-einkommen-mittelschicht-reichtum"
+      "title": "Z+ (abopflichtiger Inhalt); Demokratie und Klimawandel : Alles wird sich ändern",
+      "url": "https://www.zeit.de/kultur/2023-06/klimakrise-demokratie-klimaschutz-liberalismus-kapitalismus"
     },
     {
       "title": "Sozialer Aufstieg: Ich gelte als Nichtsnutz",
@@ -142,12 +142,12 @@
       "url": "https://www.zeit.de/kultur/2023-07/juedischsein-familiengeschichte-deutschland-ddr-antisemitismus"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rammstein-Konzerte in Berlin: Alle Regler auf Anschlag",
-      "url": "https://www.zeit.de/kultur/2023-07/rammstein-konzerte-berlin-olympiastadion-demonstration"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Der Mittelschicht entkommst du nicht",
       "url": "https://www.zeit.de/kultur/2023-07/elterngeld-kuerzung-einkommen-mittelschicht-reichtum"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Demokratie und Klimawandel : Alles wird sich ändern",
+      "url": "https://www.zeit.de/kultur/2023-06/klimakrise-demokratie-klimaschutz-liberalismus-kapitalismus"
     },
     {
       "title": "Rat für deutsche Rechtschreibung: Ein Stern, der keinen Namen trägt",
@@ -176,6 +176,13 @@
       "image_title": "The Line in Saudi Arabien : Ein Spiegelbild unserer Verlogenheit"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Jane Birkin: Meisterin aller Disziplinen",
+      "teaser": "Jane Birkin beherrschte praktisch alles, sie schrieb Mode-, Film- und Musikgeschichte. Dennoch bewahrte sie sich stets ihr typisches Understatement. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/2023-07/jane-birkin-schauspielerin-saengerin-serge-gainsbourg",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-07/jane-birkin-schauspielerin-saengerin-serge-gainsbourg-bild/wide__822x462",
+      "image_title": "Jane Birkin: Meisterin aller Disziplinen"
+    },
+    {
       "title": "Frankreich: Sängerin und Schauspielerin Jane Birkin ist tot",
       "teaser": "Bekannt wurde sie durch das Lied \"Je t'aime ... moi non plus\", das sie 1969 mit Serge Gainsbourg hauchte. Nun ist Jane Birkin mit 76 Jahren gestorben.",
       "url": "https://www.zeit.de/kultur/musik/2023-07/saengerin-und-schauspielerin-jane-birkin-ist-tot",
@@ -188,13 +195,6 @@
       "url": "https://www.zeit.de/2023/30/nikolaj-schultz-soziologe-landkrankheit-klimawandel",
       "image_url": "https://img.zeit.de/2023/30/wie-geht-s-dem-ich-bild-1/wide__822x462",
       "image_title": "Nikolaj Schultz: Wie geht’s dem Ich?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Timothy Garton Ash: Die Lust am Leben, am Weitermachen und Lieben",
-      "teaser": "Der Intellektuelle Timothy Garton Ash reist durch Kiew. Dabei sieht er einer Nation beim Entstehen zu, hypermobilisiert und stets am Rande des Nervenzusammenbruchs.",
-      "url": "https://www.zeit.de/2023/30/timothy-garton-ash-kiew-ukraine",
-      "image_url": "https://img.zeit.de/2023/30/die-lust-am-leben-am-weitermachen-und-lieben-und-der-unbesiegbare-geist-bild-1/wide__822x462",
-      "image_title": "Timothy Garton Ash: Die Lust am Leben, am Weitermachen und Lieben"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Cuteness: Die neue Niedlichkeit",
@@ -211,6 +211,13 @@
       "image_title": "Popkultur: Ein pinkfarbener Atompilz"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Timothy Garton Ash: Die Lust am Leben, am Weitermachen und Lieben",
+      "teaser": "Der Intellektuelle Timothy Garton Ash reist durch Kiew. Dabei sieht er einer Nation beim Entstehen zu, hypermobilisiert und stets am Rande des Nervenzusammenbruchs.",
+      "url": "https://www.zeit.de/2023/30/timothy-garton-ash-kiew-ukraine",
+      "image_url": "https://img.zeit.de/2023/30/die-lust-am-leben-am-weitermachen-und-lieben-und-der-unbesiegbare-geist-bild-1/wide__822x462",
+      "image_title": "Timothy Garton Ash: Die Lust am Leben, am Weitermachen und Lieben"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sport und Politik: Paracetamol des Volkes",
       "teaser": "In diesem Sommer wird allzu deutlich, dass deutsche Athleten in den großen TV-Sportarten keine Rolle mehr spielen. Das hat indirekt auch Folgen für die Debattenkultur.",
       "url": "https://www.zeit.de/kultur/2023-07/sport-politik-deutschland-debattenkultur",
@@ -221,14 +228,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Naomi Osaka: Eine kündigt den Pakt auf",
       "teaser": "Naomi Osaka hat die Sportwelt verändert. Seit sie für sich und ihre mentale Gesundheit einstand, trauen sich immer mehr Athletinnen, für die ihre einzustehen.",
       "url": "https://www.zeit.de/2023/30/naomi-osaka-presse-mentale-gesundheit-tennis",
-      "image_url": "https://img.zeit.de/2023/30/naomi-osaka-presse-mentale-gesundheit-tennis-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/30/naomi-osaka-presse-mentale-gesundheit-tennis-teaserbild/cinema__980x420",
       "image_title": "Naomi Osaka: Eine kündigt den Pakt auf"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Cynthia Enloe: \"Fast jeder Krieg ist gegendert\"",
       "teaser": "Feministische Außenpolitik ist nicht pazifistisch, sagt deren Vordenkerin Cynthia Enloe. Der Schutz von Frauenrechten sei für die Widerstandskraft der Ukraine zentral.",
       "url": "https://www.zeit.de/kultur/2023-07/cynthia-enloe-feministische-aussenpolitik-frauenrechte-ukraine-krieg",
-      "image_url": "https://img.zeit.de/kultur/2023-07/cynthia-enloe-feministische-aussenpolitik-frauenrechte-ukraine-krieg-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-07/cynthia-enloe-feministische-aussenpolitik-frauenrechte-ukraine-krieg-bild/wide__822x462",
       "image_title": "Cynthia Enloe: \"Fast jeder Krieg ist gegendert\""
     },
     {
@@ -242,14 +249,14 @@
       "title": "Rat für deutsche Rechtschreibung: Ein Stern, der keinen Namen trägt",
       "teaser": "Der Rat für deutsche Rechtschreibung kommt auch in diesem Jahr zu keiner klaren Absage für Genderstern und Co. Dabei wäre die inzwischen fast eine Erleichterung.",
       "url": "https://www.zeit.de/kultur/2023-07/rechtschreibrat-gendern-gendergerechte-sprache-gendersternchen",
-      "image_url": "https://img.zeit.de/kultur/2023-07/rechtschreibrat-gendern-sprache-gendersternchen/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-07/rechtschreibrat-gendern-sprache-gendersternchen/cinema__980x420",
       "image_title": "Rat für deutsche Rechtschreibung: Ein Stern, der keinen Namen trägt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Elon Musk und Mark Zuckerberg: Es wird ernst",
       "teaser": "Elon Musk und Mark Zuckerberg wollen ihre Rivalität in einem echten Kampf austragen. Möglicher Schauplatz: ein Käfig in Las Vegas. Wir haben ihn schon mal inspiziert.",
       "url": "https://www.zeit.de/2023/30/elon-musk-mark-zuckerberg-kampf-las-vegas",
-      "image_url": "https://img.zeit.de/2023/30/endlich-echtes-blut-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/30/endlich-echtes-blut-bild-2/wide__822x462",
       "image_title": "Elon Musk und Mark Zuckerberg: Es wird ernst"
     },
     {
@@ -263,14 +270,14 @@
       "title": "\"Die Würde der Empörten\" von Lukas Meschik: Im Debattenkreisverkehr",
       "teaser": "Der Österreicher Lukas Meschik hat einen Roman über den sogenannten Wutbürger geschrieben: analytisch klar und doch überraschend anders, als man es vermutet.",
       "url": "https://www.zeit.de/kultur/literatur/2023-07/wuerde-empoerte-lukas-meschik-wutbuerger-rezension",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-07/lukas-meschik-roman-demonstrant/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-07/lukas-meschik-roman-demonstrant/cinema__980x420",
       "image_title": "\"Die Würde der Empörten\" von Lukas Meschik: Im Debattenkreisverkehr"
     },
     {
       "title": "SAG-AFTRA: Hollywood-Schauspieler treten in den Streik",
       "teaser": "Hollywood droht der Stillstand: Seit Wochen streiken Autoren gegen die Arbeitsbedingungen – nun ziehen die Schauspieler nach. Das passierte zuletzt vor 63 Jahren.",
       "url": "https://www.zeit.de/kultur/film/2023-07/hollywood-sag-aftra-gewerkschaft-schauspieler",
-      "image_url": "https://img.zeit.de/kultur/film/2023-07/streik-hollywood-schauspieler/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-07/streik-hollywood-schauspieler/wide__822x462",
       "image_title": "SAG-AFTRA: Hollywood-Schauspieler treten in den Streik"
     },
     {
@@ -293,13 +300,6 @@
       "url": "https://www.zeit.de/kultur/kunst/2023-07/isa-genzken-75-75-ausstellung-neue-nationalgalerie",
       "image_url": "https://img.zeit.de/kultur/kunst/2023-07/isa-genzken-titelbild/wide__822x462",
       "image_title": "Isa Genzken: Zum Teufel mit Bauhaus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gefälschte Fotos: Alles nur gefälscht",
-      "teaser": "Gefälschte Fotos, eine nicht existierende Verkäuferin und ein schillernder Betrüger. Ein Berliner Prozess liefert Einblicke in eine immer schriller werdende Kunstszene.",
-      "url": "https://www.zeit.de/2023/30/gefaelschte-fotos-stephan-welk-prozess-berlin",
-      "image_url": "https://img.zeit.de/2023/30/gefaelschte-fotos-stephan-welk-prozess-berlin-teaserbild/wide__822x462",
-      "image_title": "Gefälschte Fotos: Alles nur gefälscht"
     },
     {
       "title": "Schauspieler-Streik: Hollywood steht still",
@@ -400,10 +400,17 @@
       "image_title": "Popstar: Britney Spears veröffentlicht im Oktober ihre Autobiografie"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gefälschte Fotos: Alles nur gefälscht",
+      "teaser": "Gefälschte Fotos, eine nicht existierende Verkäuferin und ein schillernder Betrüger. Ein Berliner Prozess liefert Einblicke in eine immer schriller werdende Kunstszene.",
+      "url": "https://www.zeit.de/2023/30/gefaelschte-fotos-stephan-welk-prozess-berlin",
+      "image_url": "https://img.zeit.de/2023/30/gefaelschte-fotos-stephan-welk-prozess-berlin-teaserbild/cinema__980x420",
+      "image_title": "Gefälschte Fotos: Alles nur gefälscht"
+    },
+    {
       "title": "Ausstellung \"Plastic World\": Schleim in Ekstase",
       "teaser": "Plastik hat einen schlechten Ruf, aber in der Kunst ist es noch immer Material für Utopien. Zu sehen ist das in der Ausstellung \"Plastic World\" in der Frankfurter Schirn.",
       "url": "https://www.zeit.de/2023/28/plastic-world-ausstellung-schirn-kunsthalle-frankfurt",
-      "image_url": "https://img.zeit.de/2023/28/schleim-in-ekstase-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/28/schleim-in-ekstase-bild-2/wide__822x462",
       "image_title": "Ausstellung \"Plastic World\": Schleim in Ekstase"
     },
     {
@@ -412,13 +419,6 @@
       "url": "https://www.zeit.de/kultur/kunst/2023-06/gustav-klimt-dame-mit-faecher-sotheby-s-auktion",
       "image_url": "https://img.zeit.de/kultur/kunst/2023-06/gustav-klimt-die-dame-mit-faecher-sotheby-s-auktion-bild/wide__822x462",
       "image_title": "Gustav Klimt: Klimt-Gemälde für 74 Millionen Pfund versteigert"
-    },
-    {
-      "title": "Ragnar Kjartansson: Steigt ein Künstler in die Wanne",
-      "teaser": "Auf den isländischen Künstler Ragnar Kjartansson können sich gerade so gut wie alle einigen, Museen, Sammler, Publikum. Eine Ausstellung in Kopenhagen zeigt nun, wieso.",
-      "url": "https://www.zeit.de/2023/27/ragnar-kjartansson-performancekunst-kopenhagen-ausstellung",
-      "image_url": "https://img.zeit.de/2023/27/ich-bin-so-der-rokoko-typ-bild-1/wide__822x462",
-      "image_title": "Ragnar Kjartansson: Steigt ein Künstler in die Wanne"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Läuft bei uns: Die besten TV-Serien im Juli",
