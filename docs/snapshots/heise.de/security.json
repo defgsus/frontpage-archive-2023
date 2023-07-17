@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-17T08:16:52",
+  "timestamp": "2023-07-17T09:13:02",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.b9c1d7334459b40eeb9d",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.07d1f51e0a1cc7acc50e",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Sonicwall",
+      "url": "https://www.heise.de/news/Sonicwall-dichtet-mehrere-kritische-Luecken-im-GMS-Firewall-Management-ab-9218205.html"
+    },
     {
       "title": "Juniper",
       "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Cisco-schliesst-kritische-Luecke-in-SD-WAN-vManage-9216212.html"
     },
     {
-      "title": "Zimbra",
-      "url": "https://www.heise.de/news/Groupware-Zimbra-Zero-Day-Luecke-macht-manuelles-Patchen-noetig-9216179.html"
+      "title": "Sonicwall dichtet mehrere kritische Lücken im GMS-Firewall-Management ab",
+      "teaser": "In Sonicwalls GMS-Firewall-Management sowie Analytics-Management klaffen unter anderem kritische Sicherherheitslücken. Updates dichten sie ab.",
+      "url": "https://www.heise.de/news/Sonicwall-dichtet-mehrere-kritische-Luecken-im-GMS-Firewall-Management-ab-9218205.html"
     },
     {
       "title": "Cyber-Sicherheitsbericht: Steigende Bedrohungslage im Gesundheitswesen",
@@ -147,12 +152,6 @@
       "title": "Hackerangriff aus China auf Dutzende Organisationen und auch Staaten",
       "teaser": "\"Storm-0558\" aus China hat sich über gefälschte Zugangs-Token Zugriff auf E-Mail-Konten in Dutzenden Organisationen und staatliche Einrichtungen verschafft.",
       "url": "https://www.heise.de/news/Hackerangriff-aus-China-auf-Dutzende-Organisationen-und-auch-Staaten-9213658.html"
-    },
-    {
-      "title": "Malware in über 100 signierten Windows-Treibern gefunden: Microsoft reagiert",
-      "teaser": "Malware versteckt sich in 133 Windows-Treibern mit gültiger digitaler Signatur. Jetzt hat Microsoft diese blockiert und die Entwicklerlizenzen suspendiert.",
-      "url": "https://www.heise.de/news/Microsoft-reagiert-auf-Malware-in-ueber-100-signierten-Windows-Treibern-9213637.html",
-      "image_title": "Laptop mit symbolischen Code-Zeilen darüber"
     },
     {
       "title": "heise Security Tour 2023",
