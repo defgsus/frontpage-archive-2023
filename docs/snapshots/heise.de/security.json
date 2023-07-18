@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-18T07:11:21",
+  "timestamp": "2023-07-18T08:15:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.b9b2ac954d3e519db6c0",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.ba4a6e339b503b954a4d",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Sandbox vm2",
+      "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-Neue-kritische-Schwachstelle-kein-Update-mehr-9219087.html"
+    },
     {
       "title": "Woocommerce Payments",
       "url": "https://www.heise.de/news/Wordpress-Aktuelle-Attacke-auf-Woocommerce-Payments-9219114.html"
@@ -44,13 +48,15 @@
       "url": "https://www.heise.de/news/Sonicwall-dichtet-mehrere-kritische-Luecken-im-GMS-Firewall-Management-ab-9218205.html"
     },
     {
-      "title": "Juniper",
-      "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
+      "title": "JavaScript-Sandbox vm2: Neue kritische Schwachstelle, kein Update mehr",
+      "teaser": "Für die jüngste kritische Sicherheitslücke im Open-Source-Projekt vm2 gibt es keinen Bugfix, sondern der Betreiber rät zum Umstieg auf isolated-vm.",
+      "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-Neue-kritische-Schwachstelle-kein-Update-mehr-9219087.html"
     },
     {
-      "title": "Wordpress: Aktuelle Attacke auf Woocommerce Payments",
-      "teaser": "Die IT-Forscher von Wordfence beobachten eine Angriffswelle auf das Woocommerce Payments-Plug-in. Es ist auf mehr als 600.000 Websites installiert.",
-      "url": "https://www.heise.de/news/Wordpress-Aktuelle-Attacke-auf-Woocommerce-Payments-9219114.html"
+      "title": "Kryptografie in der Praxis: Anmelden ohne Passwort – Teil 1",
+      "teaser": "Die Gerätebindung mit Challenge Response nutzt kryptografische Verfahren für die passwortlose Anmeldung.",
+      "url": "https://www.heise.de/hintergrund/Kryptografie-in-der-Praxis-Anmelden-ohne-Passwort-Teil-1-9218716.html?wt_mc=intern.red.plus.security.startseite.teaser.teaser",
+      "image_title": "2FA"
     },
     {
       "title": "Zyxel dichtet hochriskante Sicherheitslücken in Firewalls ab",
@@ -72,6 +78,11 @@
       "title": "Mehrere kritische Lücken in Sonicwalls GMS-Firewall-Management geschlossen",
       "teaser": "In Sonicwalls GMS-Firewall-Management sowie Analytics-Management klaffen unter anderem kritische Sicherherheitslücken. Updates dichten sie ab.",
       "url": "https://www.heise.de/news/Sonicwall-dichtet-mehrere-kritische-Luecken-im-GMS-Firewall-Management-ab-9218205.html"
+    },
+    {
+      "title": "Juniper dichtet teils kritische Sicherheitslücken ab",
+      "teaser": "Der Netzwerkausrüster Juniper hat 17 Sicherheitsmeldungen zu teils kritischen Lücken veröffentlicht. Updates zum Schließen stehen bereit.",
+      "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
     },
     {
       "title": "Cyber-Sicherheitsbericht: Steigende Bedrohungslage im Gesundheitswesen",
@@ -144,19 +155,15 @@
       "url": "https://www.heise.de/news/Update-gegen-kritische-Luecke-in-FortiOS-FortiProxy-9214207.html"
     },
     {
-      "title": "Teils kritische Sicherheitslücken in Citrix' Secure Access Clients",
-      "teaser": "Citrix hat Aktualisierungen für die Secure Access Clients veröffentlicht, die teils kritische Schwachstellen ausbessern.",
-      "url": "https://www.heise.de/news/Citrix-Updates-schliessen-Sicherheitsluecken-in-Secure-Access-Clients-9214076.html"
-    },
-    {
-      "title": "Patchday: Kritische Schwachstellen in Adobe Indesign und Coldfusion abgedichtet",
-      "teaser": "Der Juli-Patchday von Adobe bringt Sicherheitsupdates für Indesign und Coldfusion. Sie schließen Lücken, die der Hersteller als kritisches Risiko einstuft.",
-      "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Sicherheitsluecken-in-Indesign-und-Coldfusion-9213920.html"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Auf der Konferenz lernen Sie den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern. Es erwarten Sie sechs Vorträge von ausgewiesenen IT-Security-Experten.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
+    },
+    {
+      "title": "Kryptografie in der Praxis: Anmelden ohne Passwort – Teil 1",
+      "teaser": "Die Gerätebindung mit Challenge Response nutzt kryptografische Verfahren für die passwortlose Anmeldung.",
+      "url": "https://www.heise.de/hintergrund/Kryptografie-in-der-Praxis-Anmelden-ohne-Passwort-Teil-1-9218716.html",
+      "image_title": "2FA"
     },
     {
       "title": "Drei Jahre heise Security Pro – eine Zwischenbilanz von Jürgen Schmidt​",
@@ -167,11 +174,6 @@
       "title": "Kommentar: Ich will die Security-Bürokratie – denn ohne ist's noch schlimmer",
       "teaser": "Bei der Cybersecurity ist herzlich egal, woher die Angriffe kommen – schützen muss man sich schließlich vor allen Hackern, kommentiert Tobias Glemser.",
       "url": "https://www.heise.de/meinung/Kommentar-Ich-will-die-Security-Buerokratie-denn-ohne-ist-s-noch-schlimmer-9192737.html"
-    },
-    {
-      "title": "Nationale Sicherheitsstrategie: Buzzwords statt Strategie – eine Analyse",
-      "teaser": "Die Nationale Sicherheitsstrategie ist da: Zwar fällt dabei inflationär häufig das Wort Cyber, vieles bleibt jedoch zu unkonkret. Eine Analyse von Manuel Atug.",
-      "url": "https://www.heise.de/hintergrund/Cyber-Cyber-die-Nationale-Sicherheitsstrategie-eine-Analyse-9191149.html"
     },
     {
       "title": "Re: Lösung: Weg mit dem Magnetstreifen + 2 Faktor Authentifizierung",

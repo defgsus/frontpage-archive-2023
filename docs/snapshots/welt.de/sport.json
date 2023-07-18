@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-18T07:11:29",
+  "timestamp": "2023-07-18T08:15:21",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.d6d7414c.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.7eb21196.js",
       "id": null,
       "text": null
     },
@@ -19,12 +19,28 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.a735fab9.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.9ed72daf.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Ein deutscher Golfer namens Tiger",
+      "teaser": "Nachwuchsgolfer Tiger Christensen hat sich sensationell für die British Open qualifiziert. Er gilt als eines der größten deutschen Golftalente. Sein Vater Alex feierte einst ebenfalls Erfolge – allerdings in einer ganz anderen Branche.",
+      "url": "https://www.welt.de/sport/golf/",
+      "image_url": "https://img.welt.de/img/sport/mobile246391008/2667932557-ci23x11-w20/Golfspieler-Tiger-Christensen.jpg",
+      "image_title": "Golfspieler Tiger Christensen",
+      "author": "Thorsten Felske"
+    },
+    {
+      "title": "Mit Yoga sicher und gelassen durch die Schwangerschaft",
+      "teaser": "Unsere Autorin ist Schauspielerin und Yogalehrerin. Diesmal geht es darum, wie Yoga in der Schwangerschaft eine große Unterstützung sein kann. Sie stellt ausführlich eine Übungs-Sequenz vor und beschreibt, worauf Sie besonders achten sollten.",
+      "url": "https://www.welt.de/sport/fitness/plus246125760/Mit-Yoga-sicher-und-entspannt-durch-die-Schwangerschaft.html",
+      "image_url": "https://img.welt.de/img/sport/fitness/mobile246172804/9897937117-ci23x11-w20/Pregnant-woman-practicing-yoga-arms-out.jpg",
+      "image_title": "Yoga kann in der Schwangerschaft viel Gutes bewirken. Den Sonnengruß zum Beispiel sollten Sie etwas anpassen",
+      "author": "Sarah Stork"
+    },
     {
       "title": "„Es passiert immer wieder. Es gibt halt immer wieder Idioten“",
       "teaser": "Im vergangenen Jahr wurden Nicole Anyomi und Sara Däbritz mit der deutschen Frauen-Nationalmannschaft Vize-Europameisterinnen. Nun steht ihnen die Titel-Mission bei der WM bevor. Ein Gespräch über Rekorde und Rückschläge, Hass auf Social Media und Tipps von Jürgen Klopp.",
@@ -46,22 +62,6 @@
       "url": "https://www.welt.de/sport/fussball/",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile246435062/6217938927-ci23x11-w20/Ilkay-Guendogan.jpg",
       "image_title": "Ilkay Gündogan"
-    },
-    {
-      "title": "Laimer verschärft den Konkurrenzkampf bei den Bayern",
-      "teaser": "Konrad Laimer setzt sich nach seinem Wechsel von RB Leipzig zum FC Bayern hohe Ziele. Der neue Klubchef Jan-Christian Dreesen lobt Wunschspieler Harry Kane. Thomas Müller muss derweil das Trainingslager verlassen.",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/incoming/mobile246427830/8617933817-ci23x11-w20/Oeffentliches-Training-FC-Bayern-Muenchen-15-07-2023.jpg",
-      "image_title": "Konrad Laimer (FC Bayern Muenchen, #24) wirft lachend den Ball",
-      "author": "Julien Wolff"
-    },
-    {
-      "title": "Schlagkräftiger Zugang ist Herthas nächstes Eigentor",
-      "teaser": "Marius Gersbeck soll bei Hertha BSC den proklamierten Berliner Weg mitgestalten. Doch im Trainingslager ist der Torhüter in eine wilde Keilerei verwickelt und muss das Camp in Österreich verlassen. War es das schon für die designierte Nummer eins beim Wiederaufstiegskandidaten?",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile246432566/0247933627-ci23x11-w20/DEU-DFL-1-FBL-Hertha-BSC-Training.jpg",
-      "image_title": "Fliegt er demnächst ganz aus dem Verein? Marius Gersbeck bei einer Parade während des Hertha-Trainings",
-      "author": "Jens Bierschwale"
     },
     {
       "title": "„Im Mittelfeld wird der Konkurrenzkampf verstärkt“",
@@ -127,6 +127,22 @@
       "author": "43 Sek"
     },
     {
+      "title": "Laimer verschärft den Konkurrenzkampf bei den Bayern",
+      "teaser": "Konrad Laimer setzt sich nach seinem Wechsel von RB Leipzig zum FC Bayern hohe Ziele. Der neue Klubchef Jan-Christian Dreesen lobt Wunschspieler Harry Kane. Thomas Müller muss derweil das Trainingslager verlassen.",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://img.welt.de/img/incoming/mobile246427830/8617933817-ci23x11-w20/Oeffentliches-Training-FC-Bayern-Muenchen-15-07-2023.jpg",
+      "image_title": "Konrad Laimer (FC Bayern Muenchen, #24) wirft lachend den Ball",
+      "author": "Julien Wolff"
+    },
+    {
+      "title": "Schlagkräftiger Zugang ist Herthas nächstes Eigentor",
+      "teaser": "Marius Gersbeck soll bei Hertha BSC den proklamierten Berliner Weg mitgestalten. Doch im Trainingslager ist der Torhüter in eine wilde Keilerei verwickelt und muss das Camp in Österreich verlassen. War es das schon für die designierte Nummer eins beim Wiederaufstiegskandidaten?",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile246432566/0247933627-ci23x11-w20/DEU-DFL-1-FBL-Hertha-BSC-Training.jpg",
+      "image_title": "Fliegt er demnächst ganz aus dem Verein? Marius Gersbeck bei einer Parade während des Hertha-Trainings",
+      "author": "Jens Bierschwale"
+    },
+    {
       "title": "Leipzig vor Leihe von Supertalent Simons",
       "teaser": "RB Leipzig steht vor der Verpflichtung des beim FC Barcelona ausgebildeten Niederländers Xavi Simons. Außerdem: Tottenhams Stürmer Son schlägt ein besonderes Angebot aus. Und Miami holt den nächsten Alt-Star.",
       "url": "https://www.welt.de/sport/fussball/",
@@ -154,22 +170,6 @@
       "image_url": "https://img.welt.de/img/sport/mobile246412976/6367935947-ci23x11-w20/Trainingslager-des-FC-Bayern-Muenchen.jpg",
       "image_title": "Trainingslager des FC Bayern München",
       "author": "Julien Wolff"
-    },
-    {
-      "title": "Die Vorzeichen beim BVB stehen schlecht",
-      "teaser": "Der Schock nach der geradezu fahrlässig verspielten Meisterschaft saß in Dortmund tief. Schafft es der BVB, an den Bayern dranzubleiben? Die Vorzeichen stehen schlecht. Es ist ein Schicksalsjahr für die Borussia.",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/",
-      "image_url": "https://img.welt.de/img/sport/mobile246413460/9127931997-ci23x11-w20/Training-Borussia-Dortmund.jpg",
-      "image_title": "Nach der verpassten Meisterschaft will der BVB diese Saison neu angreifen. Noch fehlen einige Zugänge für dieses Vorhaben",
-      "author": "Jörg Weiler"
-    },
-    {
-      "title": "Schlussverkauf am Niederrhein",
-      "teaser": "Borussia Mönchengladbach sind in der Sommerpause zahlreiche Leistungsträger von der Fahne gegangen. Nun muss sich der Traditionsklub nach enttäuschenden Jahren neu erfinden. Doch wo endet der gefährliche Umbruch?",
-      "url": "https://www.welt.de/sport/fussball/bundesliga/plus246393952/Borussia-Moenchengladbach-Schlussverkauf-am-Niederrhein.html",
-      "image_url": "https://img.welt.de/img/sport/mobile246394602/5357934847-ci23x11-w20/Borussia-Moenchengladbach-Fussball-1-Bundesliga-Training-Sai.jpg",
-      "image_title": "Neuer Trainer mit vielen Sorgen: Gerardo Seoane (vorn) muss in Mönchengladbach mit einem großen personellen Aderlass klarkommen",
-      "author": "Oliver Müller"
     },
     {
       "title": "DAZN-Gutscheine",
@@ -316,11 +316,27 @@
       "image_title": "Germany v Zambia - Women's International Friendly"
     },
     {
+      "title": "Die Vorzeichen beim BVB stehen schlecht",
+      "teaser": "Der Schock nach der geradezu fahrlässig verspielten Meisterschaft saß in Dortmund tief. Schafft es der BVB, an den Bayern dranzubleiben? Die Vorzeichen stehen schlecht. Es ist ein Schicksalsjahr für die Borussia.",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/",
+      "image_url": "https://img.welt.de/img/sport/mobile246413460/9127931997-ci23x11-w20/Training-Borussia-Dortmund.jpg",
+      "image_title": "Nach der verpassten Meisterschaft will der BVB diese Saison neu angreifen. Noch fehlen einige Zugänge für dieses Vorhaben",
+      "author": "Jörg Weiler"
+    },
+    {
       "title": "Der wahnwitzige Zwischenstopp des Radprofis mitten in der Etappe",
       "teaser": "Der französische Radprofi Benoit Cosnefroy sorgte auf der 14. Etappe für erstaunliche Szenen, als er spontan mit seinen Fans Party machte. Er trinkt, feiert, tanzt - und fährt dann beseelt weiter. Die Tour de France ist um ein kurioses Kapitel reicher.",
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/sport/mobile246412382/9467931387-ci23x11-w20/Bildschirmfoto-2023-07-16-um-10-11-40.jpg",
       "image_title": "Hoch die Tassen: Benoit Cosnefroy gönnt sich eine kurze Pause während der schweren Bergetappe"
+    },
+    {
+      "title": "Schlussverkauf am Niederrhein",
+      "teaser": "Borussia Mönchengladbach sind in der Sommerpause zahlreiche Leistungsträger von der Fahne gegangen. Nun muss sich der Traditionsklub nach enttäuschenden Jahren neu erfinden. Doch wo endet der gefährliche Umbruch?",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/plus246393952/Borussia-Moenchengladbach-Schlussverkauf-am-Niederrhein.html",
+      "image_url": "https://img.welt.de/img/sport/mobile246394602/5357934847-ci23x11-w20/Borussia-Moenchengladbach-Fussball-1-Bundesliga-Training-Sai.jpg",
+      "image_title": "Neuer Trainer mit vielen Sorgen: Gerardo Seoane (vorn) muss in Mönchengladbach mit einem großen personellen Aderlass klarkommen",
+      "author": "Oliver Müller"
     },
     {
       "title": "Die beeindruckende Machtdemonstration des Florian Wellbrock",
@@ -394,20 +410,6 @@
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/sport/mobile246404822/0407932157-ci23x11-w20/SWIMMING-WORLD.jpg",
       "image_title": "Leonie Beck ist Weltmeisterin im Freiwasserschwimmen"
-    },
-    {
-      "title": "Nicht einmal ein Punktabzug wegen Stöhnens kann Djokovic stoppen",
-      "teaser": "Als Novak Djokovic das letzte Mal ein Spiel in Wimbledon verlor, war Jannik Sinner 16 Jahre alt. Rund sechs Jahre später zeigt der Serbe dem Italiener im Halbfinale die Grenzen auf. Im zweiten Satz aber musste Djokovic einen Punktabzug hinnehmen – für ihn völlig unverständlich.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile246401804/4967933127-ci23x11-w20/Wimbledon.jpg",
-      "image_title": "Punktabzug? Novak Djokovic konnte es nicht nachvollziehen"
-    },
-    {
-      "title": "Auf dem letzten Kilometer setzt Pogacar eine seiner gefürchteten Attacken",
-      "teaser": "Die Tour de France wird immer mehr zum Thriller. Auf dem Grand Colombier fährt Tadej Pogacar erneut knapp vor dem Führenden Jonas Vingegaard ins Ziel. Jetzt trennen die beiden nur noch wenige Sekunden.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile246401364/6837930967-ci23x11-w20/Tour-de-France.jpg",
-      "image_title": "Auf den letzten Metern: Tadej Pogacar hängt Jonas Vingegaard ab"
     },
     {
       "title": "„Viele kommen gar nicht in den Bereich, in dem Muskeln wachsen“",
@@ -560,6 +562,10 @@
       "author": "44 Sek"
     },
     {
+      "title": "Ein deutscher Golfer namens Tiger",
+      "url": "https://www.welt.de/sport/golf/article246389818/British-Open-2023-Ein-deutscher-Golfer-namens-Tiger.html"
+    },
+    {
       "title": "„Es passiert immer wieder. Es gibt halt immer wieder Idioten“",
       "url": "https://www.welt.de/sport/fussball/article246393532/Frauenfussball-WM-Passiert-immer-wieder-Es-gibt-halt-immer-wieder-Idioten.html"
     },
@@ -592,8 +598,8 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article246440510/Tolles-Duell-Pogacar-geniesst-Zweikampf-mit-Vingegaard.html"
     },
     {
-      "title": "Nach Beck auch Wellbrock: Deutsche WM-Dominanz im Freiwasser",
-      "url": "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article246440300/Nach-Beck-auch-Wellbrock-Deutsche-WM-Dominanz-im-Freiwasser.html"
+      "title": "Stark im Freiwasser: Wellbrock und Beck dominieren WM",
+      "url": "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article246440300/Stark-im-Freiwasser-Wellbrock-und-Beck-dominieren-WM.html"
     },
     {
       "title": "Wellbrock: WM-Gold über fünf Kilometer im Freiwasser",
@@ -674,10 +680,6 @@
     {
       "title": "«Das Beste aus drei Welten»: Alcaraz will Djokovic fordern",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article246421152/Das-Beste-aus-drei-Welten-Alcaraz-will-Djokovic-fordern.html"
-    },
-    {
-      "title": "Zuschauer nach Tour-Massensturz wohl identifiziert",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article246421132/Zuschauer-nach-Tour-Massensturz-wohl-identifiziert.html"
     }
   ]
 }
