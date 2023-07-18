@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-18T06:15:20",
+  "timestamp": "2023-07-18T07:11:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Woocommerce Payments",
+      "url": "https://www.heise.de/news/Wordpress-Aktuelle-Attacke-auf-Woocommerce-Payments-9219114.html"
+    },
+    {
+      "title": "Zyxel",
+      "url": "https://www.heise.de/news/Zyxel-dichtet-hochriskante-Sicherheitsluecken-in-Firewalls-ab-9219148.html"
+    },
+    {
       "title": "Sonicwall",
       "url": "https://www.heise.de/news/Sonicwall-dichtet-mehrere-kritische-Luecken-im-GMS-Firewall-Management-ab-9218205.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
     },
     {
-      "title": "Adobe Coldfusion",
-      "url": "https://www.heise.de/news/PoC-Exploit-verfuegbar-Adobe-legt-Patch-fuer-Coldfusion-nach-9217427.html"
+      "title": "Wordpress: Aktuelle Attacke auf Woocommerce Payments",
+      "teaser": "Die IT-Forscher von Wordfence beobachten eine Angriffswelle auf das Woocommerce Payments-Plug-in. Es ist auf mehr als 600.000 Websites installiert.",
+      "url": "https://www.heise.de/news/Wordpress-Aktuelle-Attacke-auf-Woocommerce-Payments-9219114.html"
     },
     {
-      "title": "Cisco SD-WAN vManage",
-      "url": "https://www.heise.de/news/Cisco-schliesst-kritische-Luecke-in-SD-WAN-vManage-9216212.html"
+      "title": "Zyxel dichtet hochriskante Sicherheitslücken in Firewalls ab",
+      "teaser": "Zyxel warnt vor mehreren, teils hochriskanten Schwachstellen in den Firewalls und WLAN-Controllern. Aktualisierte Firmware bessert sie aus.",
+      "url": "https://www.heise.de/news/Zyxel-dichtet-hochriskante-Sicherheitsluecken-in-Firewalls-ab-9219148.html"
     },
     {
       "title": "Europol: Internetprovider erleichtern kriminelle Aktivitäten",
@@ -142,17 +152,6 @@
       "title": "Patchday: Kritische Schwachstellen in Adobe Indesign und Coldfusion abgedichtet",
       "teaser": "Der Juli-Patchday von Adobe bringt Sicherheitsupdates für Indesign und Coldfusion. Sie schließen Lücken, die der Hersteller als kritisches Risiko einstuft.",
       "url": "https://www.heise.de/news/Patchday-Adobe-schliesst-kritische-Sicherheitsluecken-in-Indesign-und-Coldfusion-9213920.html"
-    },
-    {
-      "title": "Abo-Nepp mit Namejacking: \"Threads for Insta\" stürmt iPhone-Charts",
-      "teaser": "Die Twitter-Alternative \"Threads\" ist in Deutschland nicht verfügbar. Das nutzt eine App aus, um Abos loszuschlagen. iPhone-Nutzer sollten genau hinschauen.",
-      "url": "https://www.heise.de/news/Abo-Nepp-mit-Namejacking-Threads-for-Insta-stuermt-iPhone-Charts-9213863.html",
-      "image_title": "Threads und \"Insta Threads\" auf dem iPhone"
-    },
-    {
-      "title": "Patchday: Microsoft meldet fünf Zero-Days, teils ohne Update",
-      "teaser": "Der Juli-Patchday von Microsoft liefert viele Updates: 130 Lücken behandelt das Unternehmen. Darunter fünf Zero-Days. Eine Sicherheitslücke bleibt aber offen.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-meldet-fuenf-Zero-Days-teils-ohne-Update-9213685.html"
     },
     {
       "title": "heise Security Tour 2023",
