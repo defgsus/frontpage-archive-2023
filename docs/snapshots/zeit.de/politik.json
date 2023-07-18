@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-18T04:14:09",
+  "timestamp": "2023-07-18T05:11:37",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
-      "title": "Ukraine-Überblick: Luftangriffe auf Süden und Osten, Vorwürfe wegen Getreideabkommen-Ende",
-      "teaser": "Russland greift in der Nacht den Süden und Osten der Ukraine aus der Luft an. Die EU macht Russland wegen des Stopps des Getreideabkommens schwere Vorwürfe. Die Nacht.",
-      "url": "https://www.zeit.de/politik/ausland/2023-07/ukraine-ueberblick-luftangriffe-osten-sueden-vorwuerfe-russland-getreide-abkommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/ukraine-odessa-hafen-angriffe-russland/cinema__980x420"
+      "title": "Gewalt in Berliner Freibädern: Justizsenatorin sieht CDU-Forderung nach Schnellverfahren skeptisch",
+      "teaser": "Beschleunigte Verfahren für Gewalttäter aus Freibädern seien nicht in allen Fällen möglich, sagt Felor Badenberg. Bei jugendlichen Tätern sind sie gar nicht zulässig.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-07/berlin-justizsenatorin-schnellverfahren-gewalttaeter-freibad-skepsis",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/prinzenbad-schwimmbecken-badegaeste/cinema__980x420"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Getreideabkommen: \"Für den Globalen Süden wäre das fatal\"",
+      "teaser": "Wladimir Putin hat das Getreideabkommen mit der Ukraine nicht verlängert. Damit schwächt er seine Position, sagt Militär-Experte Gerhard Mangott.",
+      "url": "https://www.zeit.de/politik/ausland/2023-07/getreideabkommen-ukraine-russland-ende",
+      "image_url": "https://img.zeit.de/politik/2023-07/getreideabkommen-ukraine-russland-ende-bild/wide__822x462",
+      "image_title": "Getreideabkommen: \"Für den Globalen Süden wäre das fatal\""
     },
     {
       "title": "Nachrichtenpodcast: Wie deutsche Firmen die Russland-Sanktionen umgehen",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/2023-07/russland-sanktionen-eu-handel-nachrichtenpodcast",
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Wie deutsche Firmen die Russland-Sanktionen umgehen"
-    },
-    {
-      "title": "Marokko: Israel erkennt Souveränität Marokkos über die Westsahara an",
-      "teaser": "Von Israel heißt es, man wolle die \"Beziehungen zwischen den Staaten und den Völkern stärken\". Zuvor hatten bereits die USA die Zugehörigkeit des Gebiets anerkannt.",
-      "url": "https://www.zeit.de/politik/ausland/2023-07/israel-marokko-souveraenitaet-westsahara-anerkennung-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/benjamin-netanjahu-israel-anerkennung-marokko/wide__822x462",
-      "image_title": "Marokko: Israel erkennt Souveränität Marokkos über die Westsahara an"
     },
     {
       "title": "AfD: Wirtschaftsweise fürchtet Abschreckung ausländischer Fachkräfte",
@@ -162,31 +162,38 @@
       "image_title": "Ehegattensplitting: Endlich mal ein guter Vorschlag"
     },
     {
+      "title": "Ukraine-Überblick: Luftangriffe auf Süden und Osten, Vorwürfe wegen Getreideabkommen-Aus",
+      "teaser": "Russland greift in der Nacht den Süden und Osten der Ukraine aus der Luft an. Die EU macht Russland wegen des Stopps des Getreideabkommens schwere Vorwürfe. Die Nacht.",
+      "url": "https://www.zeit.de/politik/ausland/2023-07/ukraine-ueberblick-luftangriffe-osten-sueden-vorwuerfe-russland-getreide-abkommen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/ukraine-odessa-hafen-angriffe-russland/cinema__980x420",
+      "image_title": "Ukraine-Überblick: Luftangriffe auf Süden und Osten, Vorwürfe wegen Getreideabkommen-Aus"
+    },
+    {
+      "title": "Marokko: Israel erkennt Souveränität Marokkos über die Westsahara an",
+      "teaser": "Von Israel heißt es, man wolle die \"Beziehungen zwischen den Staaten und den Völkern stärken\". Zuvor hatten bereits die USA die Zugehörigkeit des Gebiets anerkannt.",
+      "url": "https://www.zeit.de/politik/ausland/2023-07/israel-marokko-souveraenitaet-westsahara-anerkennung-usa",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/benjamin-netanjahu-israel-anerkennung-marokko/wide__822x462",
+      "image_title": "Marokko: Israel erkennt Souveränität Marokkos über die Westsahara an"
+    },
+    {
       "title": "Annalena Baerbock: Wie nur Putin zur Verantwortung ziehen?",
       "teaser": "Der russische Präsident vor Gericht? Ein unrealistisches Szenario. Die Außenministerin wirbt bei den UN unter schwierigen Bedingungen für die Stärkung des Völkerrechts.",
       "url": "https://www.zeit.de/politik/ausland/2023-07/annalena-baerbock-un-sicherheitsrat-ukraine",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/annalena-baerbock-un-rede/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/annalena-baerbock-un-sicherheitsrat-ukraine-bild/wide__822x462",
       "image_title": "Annalena Baerbock: Wie nur Putin zur Verantwortung ziehen?"
-    },
-    {
-      "title": "Gewalt in Freibädern: Justizsenatorin sieht CDU-Forderung nach Schnellverfahren skeptisch",
-      "teaser": "Beschleunigte Verfahren für Gewalttäter aus Freibädern seien nicht in allen Fällen möglich, sagt Felor Badenberg. Bei jugendlichen Tätern sind sie gar nicht zulässig.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-07/berlin-justizsenatorin-schnellverfahren-gewalttaeter-freibad-skepsis",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/prinzenbad-schwimmbecken-badegaeste/wide__822x462",
-      "image_title": "Gewalt in Freibädern: Justizsenatorin sieht CDU-Forderung nach Schnellverfahren skeptisch"
     },
     {
       "title": "Straße von Hormus : USA verstärken Präsenz in Golfregion",
       "teaser": "Das US-Verteidigungsministerium schickt Zerstörer und mehrere Kampfjets in die Golfregion. Dadurch solle die Freiheit der Schifffahrt in der Region gesichert werden.",
       "url": "https://www.zeit.de/politik/ausland/2023-07/usa-golfregion-praesenz-kampfjets-strasse-von-hormus",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/strasse-von-hormus-schiff-verkehr-kanal/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/strasse-von-hormus-schiff-verkehr-kanal/cinema__980x420",
       "image_title": "Straße von Hormus : USA verstärken Präsenz in Golfregion"
     },
     {
       "title": "Freihandelsabkommen: Mercosur-Handelsvertrag mit EU soll bis Ende des Jahres kommen",
       "teaser": "In den Verhandlungen der EU mit der südamerikanischen Wirtschaftsgemeinschaft Mercosur zeichnet sich ein Kompromiss ab. Noch in diesem Jahr will man sich einigen.",
       "url": "https://www.zeit.de/politik/ausland/2023-07/mercosur-freihandelsabkommen-eu-kompromiss",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/mercosur-freihandelsabkommen-eu-kompromiss-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/mercosur-freihandelsabkommen-eu-kompromiss-bild/wide__822x462",
       "image_title": "Freihandelsabkommen: Mercosur-Handelsvertrag mit EU soll bis Ende des Jahres kommen"
     },
     {
@@ -200,14 +207,14 @@
       "title": "Bundesinnenministerin: Nancy Faeser will Vorgaben für kritische Infrastruktur verschärfen",
       "teaser": "Versorgung in Krisenzeiten, Schutz wichtiger Anlagen: Die Bundesinnenministerin schlägt strengere Vorschriften für kritische Infrastruktur wie Energieversorger vor.",
       "url": "https://www.zeit.de/politik/2023-07/nancy-faeser-kritische-infrastruktur-flughafen",
-      "image_url": "https://img.zeit.de/politik/2023-07/nancy-faeser-kritische-infrastruktur-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-07/nancy-faeser-kritische-infrastruktur-bild/cinema__980x420",
       "image_title": "Bundesinnenministerin: Nancy Faeser will Vorgaben für kritische Infrastruktur verschärfen"
     },
     {
       "title": "Europawahl 2024: Carola Rackete soll Spitzenkandidatin der Linken werden",
       "teaser": "Die Kapitänin und Aktivistin Carola Rackete soll die Linke nach ZEIT-ONLINE-Informationen in die Europawahl führen. Die Partei grenzt sich damit von Sahra Wagenknecht ab.",
       "url": "https://www.zeit.de/politik/deutschland/2023-07/carola-rackete-europawahl-kandidatur-linkspartei-seenotrettung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/carola-rackete-europawahl-kandidatur-linkspartei-seenotrettung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-07/carola-rackete-europawahl-kandidatur-linkspartei-seenotrettung-bild/wide__822x462",
       "image_title": "Europawahl 2024: Carola Rackete soll Spitzenkandidatin der Linken werden"
     },
     {
@@ -221,14 +228,14 @@
       "title": "Nachrichtenpodcast: \"Rache an der Türkei, der Ukraine und dem Westen\"",
       "teaser": "Russland stoppt das Getreideabkommen mit der Ukraine. So will es erzwingen, dass seine Forderungen erfüllt werden. Und: Im Iran ist die berüchtigte Sittenpolizei zurück.",
       "url": "https://www.zeit.de/politik/2023-07/getreideabkommen-russland-ukraine-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
       "image_title": "Nachrichtenpodcast: \"Rache an der Türkei, der Ukraine und dem Westen\""
     },
     {
       "title": "Schwarzes Meer: Russland lehnt Verlängerung des Getreideabkommens ab",
-      "teaser": "Die russische Regierung erklärt das für den ukrainischen Getreideexport zentrale Abkommen für faktisch beendet. Einen Zusammenhang mit dem Krim-Angriff gebe es nicht. 121 Kommentare",
+      "teaser": "Die russische Regierung erklärt das für den ukrainischen Getreideexport zentrale Abkommen für faktisch beendet. Einen Zusammenhang mit dem Krim-Angriff gebe es nicht.",
       "url": "https://www.zeit.de/politik/2023-07/getreideabkommen-russland-ukraine-schwarzes-meer",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/getreideabkommen-russland-ukraine-schwarzes-meer-ernte/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-07/getreideabkommen-russland-ukraine-schwarzes-meer-ernte/wide__822x462",
       "image_title": "Schwarzes Meer: Russland lehnt Verlängerung des Getreideabkommens ab"
     },
     {
@@ -265,13 +272,6 @@
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
       "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
       "image_title": "Ukraine-Karte aktuell: Ukraine verzeichnet Geländegewinne im Osten und Süden"
-    },
-    {
-      "title": "Handelsabkommen: EU, Lateinamerika und Karibik wollen bei Gipfel Beziehungen verbessern",
-      "teaser": "Auf dem EU-Lateinamerika-Gipfel drohen konfliktreiche Diskussionen. Es geht um ein gestopptes Handelsabkommen und unterschiedliche Sichtweisen zum Umgang mit Russland.",
-      "url": "https://www.zeit.de/politik/ausland/2023-07/eu-lateinamerika-karibik-gipfel-handelsabkommen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/eu-lateinamerika-karibik-gipfel-handelsabkommen-bild/wide__822x462",
-      "image_title": "Handelsabkommen: EU, Lateinamerika und Karibik wollen bei Gipfel Beziehungen verbessern"
     },
     {
       "title": "Ernährung: Mehrheit befürwortet Einschränkungen bei Süßigkeitenwerbung",
