@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-19T05:11:17",
+  "timestamp": "2023-07-19T06:14:47",
   "url": "https://www.welt.de/kultur/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Das Freibad – eine menschliche Tragödie",
+      "teaser": "Aus dem Imbissfenster duftet es nach Jahrzehnte altem Tod, davor liegen versprengte Pommesleichen. Und nach drei Stunden Kindergebrüll, Frittierfett und unausweichlichem Hautkontakt mit Fremden ist kein Gedanke mehr zu fassen, außer: Warum tun Menschen sich das an?",
+      "url": "https://www.welt.de/kultur/plus246434822/Das-Freibad-Eine-menschliche-Tragoedie.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile246438646/5977931207-ci23x11-w20/Entspannen-im-Freibad-in-Gelsenkirchen.jpg",
+      "image_title": "Warum tun Menschen sich das an?",
+      "author": "Andrea Hanna Hünniger"
+    },
+    {
+      "title": "Warum Bonn die bessere Hauptstadt wäre – heute mehr denn je",
+      "teaser": "Vor einem knappen Vierteljahrhundert zog die Regierung von Bonn nach Berlin. In der neuen Hauptstadt sollten die Politiker näher an der „Wirklichkeit“ sein. Ein fataler Irrweg. Noch ist es nicht zu spät für eine Rückkehr in die alte Hauptstadt.",
+      "url": "https://www.welt.de/kultur/plus246434700/Statt-Berlin-Warum-Bonn-die-bessere-Hauptstadt-waere.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile246437980/6907930437-ci23x11-w20/Bonn-Bundesviertel-skyline-at-sunset-Germany.jpg",
+      "image_title": "Die Abendröte im Westen: das Bonner Bundesviertel",
+      "author": "Josef Engels"
+    },
+    {
       "title": "Womit bei „Barbie“ niemand gerechnet hat",
       "teaser": "Seit Monaten Gesprächsthema, jetzt kommt „Barbie“ endlich ins Kino. Wie gut ist die erste Realverfilmung über die Puppe, die aus Müttern Frauen machte? So viele Details auch schon im Voraus an die Öffentlichkeit gelangten – hiermit hat niemand gerechnet.",
       "url": "https://www.welt.de/kultur/",
@@ -40,22 +56,6 @@
       "image_url": "https://img.welt.de/img/bildergalerien/mobile246451008/4967932017-ci23x11-w20/frateas.jpg",
       "image_title": "frateas",
       "author": "Don Alphonso"
-    },
-    {
-      "title": "Ein unermessliches Museum von Seltsamkeiten",
-      "teaser": "Der Surrealismus ist wieder en vogue. Besonders die lang verkannten Malerinnen der Bewegung werden in den Museen und auf Biennalen gefeiert. Doch der Kunstmarkt reagiert noch zögerlich.",
-      "url": "https://www.welt.de/kultur/",
-      "image_url": "https://img.welt.de/img/kultur/mobile246449948/5817931367-ci23x11-w20/LOT-100AR-JANE-GRAVEROL-1905-1984-Le-t.jpg",
-      "image_title": "Die belgische Malerin Jane Graverol erzielte beim Auktionshaus Bonhams einen Überraschungserfolg: „Le trait de lumière“ wurde zum Rekordpreis von 580.000 Euro versteigert",
-      "author": "Heidi Bürklin"
-    },
-    {
-      "title": "Wie Karl Lauterbach die Kirchen von Siena verwechselte",
-      "teaser": "Karl Lauterbach hat empfohlen, bei Hitze kühle Kirchenräume aufzusuchen, und dazu ein Kirchenfoto aus seinem Italienurlaub getwittert. Der Vorstoß wird nun wild diskutiert, die eigentliche Pointe aber haben Freund und Feind bisher übersehen: Lauterbach hat sich in der Kirche geirrt.",
-      "url": "https://www.welt.de/kultur/article246446766/Karl-Lauterbach-lobt-kuehle-Kirchenraeume-Die-Verwechslung-von-Siena.html",
-      "image_url": "https://img.welt.de/img/kultur/mobile246447842/9577931447-ci23x11-w20/Federal-Health-Minister-Dr-Karl-Lauterbach-Visits-The-Organ-Donation-Day-In-Due.jpg",
-      "image_title": "„Wunderschöne mittelalterliche Bauweise“: Lauterbach",
-      "author": "Lucas Wiegelmann"
     },
     {
       "title": "Er führt sein Team ins Innere eines Gletschers",
@@ -165,6 +165,14 @@
       "author": "Hanns-Georg Rodek"
     },
     {
+      "title": "Ein unermessliches Museum von Seltsamkeiten",
+      "teaser": "Der Surrealismus ist wieder en vogue. Besonders die lang verkannten Malerinnen der Bewegung werden in den Museen und auf Biennalen gefeiert. Doch der Kunstmarkt reagiert noch zögerlich.",
+      "url": "https://www.welt.de/kultur/",
+      "image_url": "https://img.welt.de/img/kultur/mobile246449948/5817931367-ci23x11-w20/LOT-100AR-JANE-GRAVEROL-1905-1984-Le-t.jpg",
+      "image_title": "Die belgische Malerin Jane Graverol erzielte beim Auktionshaus Bonhams einen Überraschungserfolg: „Le trait de lumière“ wurde zum Rekordpreis von 580.000 Euro versteigert",
+      "author": "Heidi Bürklin"
+    },
+    {
       "title": "Kunst aus Korea? Was man kennen muss",
       "teaser": "Seoul ist binnen weniger Jahre zur internationalen Kunsthandelsplattform geworden. Koreanische Künstler sind im Westen aber noch kaum bekannt. Die Galeristin Esther Schipper bringt sie nun nach Deutschland.",
       "url": "https://www.welt.de/kultur/",
@@ -195,14 +203,6 @@
       "image_url": "https://img.welt.de/img/incoming/mobile246191692/2307933587-ci23x11-w20/NUR-KOSTENLOS-VWB-IN-ZZH-MIT-GESPRAECH-UEB-5.jpg",
       "image_title": "Adrian Ghenie, „Flight into Egypt I“, 2008",
       "author": "Hans-Joachim Müller"
-    },
-    {
-      "title": "Immer schön standhaft bleiben!",
-      "teaser": "Lange galt das Gemälde „Heiliger Sebastian, gepflegt von zwei Engeln“ als verschollen. Jetzt ist es Millionen wert und wird versteigert. Denn neuen Forschungen zufolge wurde es von Peter Paul Rubens gemalt. Auf die Spur des Bildes führte ein Doppelgänger.",
-      "url": "https://www.welt.de/kultur/",
-      "image_url": "https://img.welt.de/img/kultur/mobile246146496/3817939477-ci23x11-w20/Sotheby-s-London-July-Old-Masters-Evenin.jpg",
-      "image_title": "„Heiliger Sebastian, von Engeln gepflegt“ von Rubens",
-      "author": "Marcus Woeller"
     },
     {
       "title": "Keine Klassiker sind auch keine Lösung",
@@ -320,6 +320,14 @@
       "author": "2 Min"
     },
     {
+      "title": "Wie Karl Lauterbach die Kirchen von Siena verwechselte",
+      "teaser": "Karl Lauterbach hat empfohlen, bei Hitze kühle Kirchenräume aufzusuchen, und dazu ein Kirchenfoto aus seinem Italienurlaub getwittert. Der Vorstoß wird nun wild diskutiert, die eigentliche Pointe aber haben Freund und Feind bisher übersehen: Lauterbach hat sich in der Kirche geirrt.",
+      "url": "https://www.welt.de/kultur/article246446766/Karl-Lauterbach-lobt-kuehle-Kirchenraeume-Die-Verwechslung-von-Siena.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile246447842/9577931447-ci23x11-w20/Federal-Health-Minister-Dr-Karl-Lauterbach-Visits-The-Organ-Donation-Day-In-Due.jpg",
+      "image_title": "„Wunderschöne mittelalterliche Bauweise“: Lauterbach",
+      "author": "Lucas Wiegelmann"
+    },
+    {
       "title": "„Wir erleben mehr als eine Transformation“",
       "teaser": "Die Musikindustrie erlebt einen Aufschwung, mit dem niemand mehr gerechnet hätte. Florian Drücke, CEO des Bundesverbandes, erklärt den wahren Wert des Streamings, die Hitformel der Charts – und wie ein Duett von Udo Lindenberg und Apache zum größten deutschen Song aller Zeiten werden konnte.",
       "url": "https://www.welt.de/kultur/pop/plus246399634/Florian-Druecke-Wir-erleben-mehr-als-eine-Transformation.html",
@@ -429,14 +437,6 @@
       "image_url": "https://img.welt.de/img/kultur/mobile246400768/6757937307-ci23x11-w20/Germany-Bavaria-Munich-English-Garden-Beer-Garden.jpg",
       "image_title": "Germany, Bavaria, Munich, English Garden, Beer Garden",
       "author": "Jan Küveler"
-    },
-    {
-      "title": "Die gemeine Vertuschung der allgemeinen Lebensrisiken",
-      "teaser": "Was sind schon ein paar Tage Sommer gegen vier Jahre Ampel mit Lauterbach? Auch die hektisch ausgerufene Kampagne wegen der Hitzewelle wird nichts an den Gefahren ändern, die dem Bürger vom Staat zugemutet werden.",
-      "url": "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus246382040/Don-Alphonso-Die-gemeine-Vertuschung-der-allgemeinen-Lebensrisiken.html",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile246378100/4477939867-ci23x11-w20/Kombo-Don-Risteas.jpg",
-      "image_title": "Kombo_Don_Risteas",
-      "author": "Don Alphonso"
     },
     {
       "title": "Tortenguss auf die Realität – Die WELT des Takashi Murakami",

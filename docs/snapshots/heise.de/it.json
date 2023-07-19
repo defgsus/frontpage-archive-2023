@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-19T05:10:55",
+  "timestamp": "2023-07-19T06:14:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "JavaScript-Sandbox vm2: Neue kritische Schwachstelle, kein Update mehr",
+      "teaser": "Für die jüngste kritische Sicherheitslücke im Open-Source-Projekt vm2 gibt es keinen Bugfix, sondern der Betreiber rät zum Umstieg auf isolated-vm.",
+      "url": "https://www.heise.de/news/JavaScript-Sandbox-vm2-Neue-kritische-Schwachstelle-kein-Update-mehr-9219087.html"
+    },
+    {
       "title": "Reddit: Chathistorien von vor 2023 bei Datenumzug verloren gegangen",
       "teaser": "Einen Umzug auf eine neue Infrastruktur konnten bei Reddit nur Chatnachrichten aus diesem Jahr mitmachen – der Rest ist weg. Groß angekündigt wurde das nicht.",
       "url": "https://www.heise.de/news/Reddit-Chathistorie-von-vor-2023-bei-Datenumzug-verloren-gegangen-9218302.html",
@@ -37,11 +42,6 @@
       "url": "https://www.heise.de/news/ITZBund-Groessere-Stoerung-beim-IT-Dienstleister-der-Bundesverwaltung-9217952.html"
     },
     {
-      "title": "Linux-Distributionen: SUSEs Red-Hat-Klon – ein Kuckucksei",
-      "teaser": "SUSE legt sich mit dem RHEL-Fork ein Kuckucksei ins Nest. Davon ist unser Kommentator überzeugt, der die SUSE-Distribution seit Jahrzehnten nutzt.",
-      "url": "https://www.heise.de/news/Linux-Distributionen-SUSEs-Red-Hat-Klon-ein-Kuckucksei-9217140.html"
-    },
-    {
       "title": "Python: Welche Auflistungstypen es gibt und wie sie verwendet werden",
       "teaser": "Statt den klassischen Arrays anderer Programmiersprachen stellt Python dem Programmierer zahlreiche Auflistungstypen zur Verfügung. Ein Überblick.",
       "url": "https://www.heise.de/ratgeber/Python-Welche-Auflistungstypen-es-gibt-und-wie-sie-verwendet-werden-9216638.html"
@@ -50,6 +50,11 @@
       "title": "Forensik-Tool in der Praxis: Mit Velociraptor auf Spurensuche",
       "teaser": "Digitale Forensik beginnt nach Angriffen oder bei verdächtigem Systemverhalten. Velociraptor parallelisiert die Spurensuche und fasst die Ergebnisse zusammen.",
       "url": "https://www.heise.de/ratgeber/Forensik-Tool-in-der-Praxis-Mit-Velociraptor-auf-Spurensuche-9216966.html"
+    },
+    {
+      "title": "Citrix: Updates schließen kritische Zero-Day-Lücke in Netscaler ADC und Gateway",
+      "teaser": "IT-Verantwortliche sollten zügig aktualisieren: Citrix hat Updates für bereits angegriffene Lücken in Netscaler ADC und Gateway veröffentlicht.",
+      "url": "https://www.heise.de/news/Citrix-Kritische-Zero-Day-Sicherheitsluecken-in-Netscaler-ADC-und-Gateway-9220387.html"
     },
     {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Die Zukunft von „Moore’s Law“",
@@ -65,7 +70,7 @@
     },
     {
       "title": "Microsoft stellt Geschäftskunden die Nutzung von KI in Rechnung",
-      "teaser": "Gewerbliche Nutzer von Bing Chat Enterprise und Microsoft 365 Copilot müssen pro Anwender und Monat zahlen. Dafür wird ihnen Datenschutz versprochen.",
+      "teaser": "Gewerbliche Nutzer von Bing Chat Enterprise und Microsoft 365 Copilot müssen pro Anwender und Monat zahlen.",
       "url": "https://www.heise.de/news/Microsoft-stellt-Geschaeftskunden-die-Nutzung-von-KI-in-Rechnung-9220365.html",
       "image_title": "Microsoft 365 Copilot Screenshot"
     },
@@ -76,8 +81,8 @@
       "image_title": "Meta-Schild an Grundstückseinfahrt"
     },
     {
-      "title": "\"Messaging Layer Security ermöglicht E2E-Verschlüsselung in großen Chat-Gruppen\"",
-      "teaser": "Verschlüsselte Kommunikation in großen Gruppen soll dank Messaging Layer Security bald keine Herausforderung mehr sein. Co-Initiator Raphael Robert klärt auf.",
+      "title": "Gruppenchat mit Messaging Layer Security: Mitinitiator Raphael Robert interviewt",
+      "teaser": "Verschlüsselte Kommunikation in großen Gruppen soll dank Messaging Layer Security bald kein Problem mehr sein. Mitinitiator Raphael Robert im Interview.",
       "url": "https://www.heise.de/hintergrund/Interview-Wofuer-Messaging-Layer-Security-relevant-ist-9214911.html",
       "image_title": "Menschengruppe hat Smartphones in den Händen, während sie bei einem Rapsfeld sind"
     },
@@ -128,11 +133,6 @@
       "title": "Kioxia und Western Digital: Der Zusammenschluss ist wohl beschlossen",
       "teaser": "Die Gerüchteküche brodelt schon länger, im August soll es nun wirklich soweit sein: Die Flash-Produzenten Kioxia und Western Digital schließen sich zusammen.",
       "url": "https://www.heise.de/news/Kioxia-und-Western-Digital-Der-Zusammenschluss-ist-wohl-beschlossen-9219904.html"
-    },
-    {
-      "title": "Entwicklungsumgebung Visual Studio 2022 erhält neuen Extension Manager",
-      "teaser": "Die dritte Preview für Version 17.7 von Visual Studio 2022 bietet Zugriff auf einen neuen Extension Manager. Er soll den Umgang mit Erweiterungen erleichtern.",
-      "url": "https://www.heise.de/news/Entwicklungsumgebung-Visual-Studio-2022-erhaelt-neuen-Extension-Manager-9219696.html"
     },
     {
       "title": "BRANDMAUER IT ist Champion bei Managed Workplace Services",
