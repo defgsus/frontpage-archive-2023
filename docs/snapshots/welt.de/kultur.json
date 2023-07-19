@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-19T15:11:50",
+  "timestamp": "2023-07-19T16:14:50",
   "url": "https://www.welt.de/kultur/",
   "response": {
     "status": 200
@@ -26,6 +26,14 @@
   ],
   "articles": [
     {
+      "title": "Die erste Zerstörung der Welt",
+      "teaser": "Es war ein Triumph: Die USA gewannen den Wettlauf um die Atombombe gegen Deutschland, vor allem dank dem Physiker J. Robert Oppenheimer. Christopher Nolans Filmbiografie „Oppenheimer“ inszeniert dies aber ganz anders: als Tragödie.",
+      "url": "https://www.welt.de/kultur/kino/",
+      "image_url": "https://img.welt.de/img/kultur/kino/mobile246474728/8897934787-ci23x11-w20/Cillian-Murphy-is-J-Robert-Oppenheimer-6.jpg",
+      "image_title": "Heller als 1000 Sonnen: Cillian Murphy als Robert Oppenheimer betrachtet sein Werk",
+      "author": "Hanns-Georg Rodek"
+    },
+    {
       "title": "Indy, Lemmy, Picasso und der Nazi-Bomber",
       "teaser": "Die Heinkel 111 war der Standardbomber der Luftwaffe im 2. Weltkrieg. Jetzt sieht man sie wieder im neuen „Indiana Jones“. Allerdings mit einer irritierenden Änderung. Die Filmemacher sind nicht die ersten, die von dem Flugzeug fasziniert waren.",
       "url": "https://www.welt.de/kultur/",
@@ -47,14 +55,6 @@
       "url": "https://www.welt.de/kultur/",
       "image_url": "https://img.welt.de/img/kultur/mobile178943478/5567938067-ci23x11-w20/Berlin-Sommerbad-am-Humboldthain-1958.jpg",
       "image_title": "+honorarpflichtig+++ Berlin - Sommerbad im Volkspark Humboldthain - 1958"
-    },
-    {
-      "title": "Das Freibad – eine menschliche Tragödie",
-      "teaser": "Es ist kein Ort der Erholung, das Freibad ist eine Arena. Und nach drei Stunden Kindergebrüll, Frittierfett und unausweichlichem Hautkontakt mit Fremden ist kein Gedanke mehr zu fassen. Der höllische Stress geht auf ein unterschätztes Phänomen zurück.",
-      "url": "https://www.welt.de/kultur/plus246434822/Das-Freibad-Eine-menschliche-Tragoedie.html",
-      "image_url": "https://img.welt.de/img/kultur/mobile246438646/5977931207-ci23x11-w20/Entspannen-im-Freibad-in-Gelsenkirchen.jpg",
-      "image_title": "Warum tun Menschen sich das an?",
-      "author": "Andrea Hanna Hünniger"
     },
     {
       "title": "Er führt sein Team ins Innere eines Gletschers",
@@ -254,7 +254,7 @@
     {
       "title": "Stuttgart hat sich aufgegeben",
       "teaser": "Schon hier umsteigen ist schlimm. Doch wehe, Sie steigen aus! Das ästhetische Elend in dieser Stadt herrscht leider überall. Warum fällt den Schwaben Schönes, das sie früher kultivierten, so schwer? Stuttgart, so der Eindruck, hat sich aufgegeben.",
-      "url": "https://www.welt.de/kultur/plus246152820/Stuttgart-Schon-umsteigen-ist-hier-schlimm-Doch-wehe-Sie-steigen-aus.html",
+      "url": "https://www.welt.de/kultur/plus246152820/Stuttgart-Wehe-Sie-steigen-hier-aus.html",
       "image_url": "https://img.welt.de/img/kultur/mobile246173144/8167937657-ci23x11-w20/DWO-Teaser-Stuttragt-Baustelle-ms-jpg.jpg",
       "image_title": "Endlos-Baustelle: Stuttgart 21",
       "author": "Tilman Krause"
@@ -262,7 +262,7 @@
     {
       "title": "Lena und Maximilian haben geerbt – und lästern jetzt über das Elterngeld anderer Leute",
       "teaser": "Sind 4000 Euro netto viel Geld? Kommt drauf an, was man davon bezahlen muss – und was Daddy schon bezahlt hat. In der Debatte ums Elterngeld tun sich gerade Wohlsituierte hervor, die Kürzung predigen, weil sie keine Ahnung haben, wie hart sich Aufsteiger ihr besseres Leben erkämpfen müssen.",
-      "url": "https://www.welt.de/kultur/plus246325116/Elterngeld-Maximilian-und-Lena-haben-geerbt-und-laestern-jetzt-ueber-das-Geld-anderer-Leute.html",
+      "url": "https://www.welt.de/kultur/plus246325116/Einkommen-Lena-und-Max-haben-geerbt-jetzt-laestern-sie-ueber-das-Elterngeld-anderer-Leute.html",
       "image_url": "https://img.welt.de/img/kultur/mobile246247980/9317937187-ci23x11-w20/MIRNA-FUNK-3.jpg",
       "image_title": "Alles Erbe, oder was? WELT-Autorin Mirna Funk",
       "author": "Mirna Funk"
@@ -282,6 +282,13 @@
       "image_url": "https://img.welt.de/img/kultur/mobile241349183/6077937047-ci23x11-w20/GettyImages-643997697.jpg",
       "image_title": "GettyImages-643997697",
       "author": "Julian Nida-Rümelin"
+    },
+    {
+      "title": "OPPENHEIMER",
+      "url": "https://www.welt.de/kultur/video246475022/Trailer-OPPENHEIMER.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile246475816/2567934137-ci16x9-w20/Film-Review-Oppenheimer.jpg",
+      "image_title": "Film Review - Oppenheimer",
+      "author": "3 Min"
     },
     {
       "title": "„Barbie“",
@@ -312,16 +319,17 @@
       "author": "40 Sek"
     },
     {
-      "title": "„Gettysburg“",
-      "url": "https://www.welt.de/kultur/kino/video246108102/Trailer-Gettysburg.html",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile246123320/8377930957-ci16x9-w20/33679469.jpg",
-      "image_title": "33679469_",
-      "author": "2 Min"
+      "title": "Das Freibad – eine menschliche Tragödie",
+      "teaser": "Es ist kein Ort der Erholung, das Freibad ist eine Arena. Und nach drei Stunden Kindergebrüll, Frittierfett und unausweichlichem Hautkontakt mit Fremden ist kein Gedanke mehr zu fassen. Der höllische Stress geht auf ein unterschätztes Phänomen zurück.",
+      "url": "https://www.welt.de/kultur/plus246434822/Das-Freibad-Eine-menschliche-Tragoedie.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile246438646/5977931207-ci23x11-w20/Entspannen-im-Freibad-in-Gelsenkirchen.jpg",
+      "image_title": "Warum tun Menschen sich das an?",
+      "author": "Andrea Hanna Hünniger"
     },
     {
       "title": "Warum Bonn die bessere Hauptstadt wäre – heute mehr denn je",
       "teaser": "Vor einem knappen Vierteljahrhundert zog die Regierung von Bonn nach Berlin. In der neuen Hauptstadt sollten die Politiker näher an der „Wirklichkeit“ sein. Ein fataler Irrweg. Noch ist es nicht zu spät für eine Rückkehr in die alte Hauptstadt.",
-      "url": "https://www.welt.de/kultur/plus246434700/Statt-Berlin-Warum-Bonn-die-bessere-Hauptstadt-waere.html",
+      "url": "https://www.welt.de/kultur/plus246434700/Berlin-Warum-Bonn-die-bessere-Hauptstadt-waere-heute-mehr-denn-je.html",
       "image_url": "https://img.welt.de/img/kultur/mobile246437980/6907930437-ci23x11-w20/Bonn-Bundesviertel-skyline-at-sunset-Germany.jpg",
       "image_title": "Die Abendröte im Westen: das Bonner Bundesviertel",
       "author": "Josef Engels"
@@ -345,7 +353,7 @@
     {
       "title": "„Wir erleben mehr als eine Transformation“",
       "teaser": "Die Musikindustrie erlebt einen Aufschwung, mit dem niemand mehr gerechnet hätte. Florian Drücke, CEO des Bundesverbandes, erklärt den wahren Wert des Streamings, die Hitformel der Charts – und wie ein Duett von Udo Lindenberg und Apache zum größten deutschen Song aller Zeiten werden konnte.",
-      "url": "https://www.welt.de/kultur/pop/plus246399634/Musik-Wir-erleben-mehr-als-eine-Transformation-sagt-Florian-Druecke.html",
+      "url": "https://www.welt.de/kultur/pop/plus246399634/Musik-Wie-Komet-von-Udo-Lindenberg-und-Apache-zum-groessten-deutschen-Song-werden-konnte.html",
       "image_url": "https://img.welt.de/img/kultur/pop/mobile246400262/3387939567-ci23x11-w20/Panikrocker-Udo-Lindenberg-und-Rapper-Apache-207-singen-zusammen.jpg",
       "image_title": "„Komet“ von Apache 207 und Udo Lindenberg ist der erfolgreichste deutsche Hit aller Zeiten",
       "author": "Michael Pilz"
@@ -400,7 +408,7 @@
     {
       "title": "Im Höllenkreis des Online-Datings",
       "teaser": "Man wischt sich die Finger wund und das Hirn stumpf – immer wieder begegnen einem dieselben Posen, dieselben Phrasen, dieselben Gesichter, dieselben Hintergründe. Doch dass Online-Dating so hoffnungslos ist, liegt vor allem an einem absurden Trend.",
-      "url": "https://www.welt.de/kultur/plus246389400/Tinder-Co-Im-Hoellenkreis-des-Online-Datings.html",
+      "url": "https://www.welt.de/kultur/plus246389400/Online-Dating-Im-Hoellenkreis-von-Tinder-Co.html",
       "image_url": "https://img.welt.de/img/incoming/mobile246394926/0017937077-ci23x11-w20/A-woman-using-mobile-phone-at-night-under-colorful-LED-lights-at-a-pub-bar.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Jakob Hayner"
@@ -428,14 +436,6 @@
       "image_url": "https://img.welt.de/img/kultur/mobile246385756/6907937737-ci23x11-w20/CDU-Mitgliederumfrage.jpg",
       "image_title": "Friedrich Merz (M), CDU-Bundesvorsitzender und Fraktionsvorsitzender der CDU/CSU-Fraktion, kommt neben Carsten Linnemann, stellvertretender Bundesvorsitzender, zur Vorstellung der Mitgliederumfrage zum Grundsatzprogramm der CDU.",
       "author": "Peter Huth"
-    },
-    {
-      "title": "„Ich habe meinen Job, meine Reputation, einfach alles verloren“",
-      "teaser": "In einem fensterlosen Gerichtssaal kämpft Kevin Spacey um seine Unschuld. Er spricht mit klarer Stimme und gehobener Brust – und will der Londoner Jury zeigen, dass er ein ganz anderer Mann ist als der, den die Staatsanwaltschaft in den letzten Tagen beschrieb. An einer Stelle lacht Spacey auf.",
-      "url": "https://www.welt.de/kultur/",
-      "image_url": "https://img.welt.de/img/incoming/mobile246401750/8647937627-ci23x11-w20/Prozess-gegen-Schauspieler-Spacey.jpg",
-      "image_title": "Im Zweifel für den Angeklagten? Kevin Spacey vor Gericht",
-      "author": "Mandoline Rutkowski"
     },
     {
       "title": "Tortenguss auf die Realität – Die WELT des Takashi Murakami",
