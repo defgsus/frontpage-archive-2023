@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-19T07:10:33",
+  "timestamp": "2023-07-19T08:14:10",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,27 +32,21 @@
   ],
   "articles": [
     {
-      "title": "Geschäftskunden Microsoft stellt die Nutzung von KI in Rechnung",
-      "teaser": "Gewerbliche Nutzer von Bing Chat Enterprise und Microsoft 365 Copilot müssen pro Anwender und Monat zahlen. Dafür gibt es Datenschutz.",
-      "url": "https://www.heise.de/news/Microsoft-stellt-Geschaeftskunden-die-Nutzung-von-KI-in-Rechnung-9220365.html",
-      "image_title": "Microsoft 365 Copilot Screenshot"
-    },
-    {
       "title": "DeyeGateVDE sieht Voraussetzungen für Betriebserlaubnis nicht mehr erfüllt",
       "teaser": "Der VDE hat Stellung zu den fehlenden NA-Schutz-Relais in den Deye-Wechselrichtern bezogen. Es drohe der Verlust der Betriebserlaubnis.",
       "url": "https://www.heise.de/news/DeyeGate-VDE-sieht-Voraussetzungen-fuer-Betriebserlaubnis-nicht-mehr-erfuellt-9219668.html",
       "image_title": "Deye-Wechselrichter an PV-Anlage"
     },
     {
+      "title": "Geschäftskunden Microsoft stellt die Nutzung von KI in Rechnung",
+      "teaser": "Gewerbliche Nutzer von Bing Chat Enterprise und Microsoft 365 Copilot müssen pro Anwender und Monat zahlen. Dafür gibt es Datenschutz.",
+      "url": "https://www.heise.de/news/Microsoft-stellt-Geschaeftskunden-die-Nutzung-von-KI-in-Rechnung-9220365.html",
+      "image_title": "Microsoft 365 Copilot Screenshot"
+    },
+    {
       "title": "Passiver Hitzeschutz – eine PraxisanalyseSo halten Sie Ihr Haus im Sommer ohne Klimaanlage kühl",
       "teaser": "Sowohl im Bestand als auch in Neubauten kann es im Sommer sehr heiß werden. Wir geben Tipps zum passiven Hitzeschutz aus der Praxis.",
       "url": "https://www.heise.de/ratgeber/Passiver-Hitzeschutz-So-halten-Sie-Ihr-Haus-im-Sommer-ohne-Klimaanlage-kuehl-9218746.html"
-    },
-    {
-      "title": "Interview mit Mitinitiator Raphael RobertMit Messaging Layer Security große Gruppenchats absichern",
-      "teaser": "Verschlüsselte Kommunikation in großen Gruppen soll dank Messaging Layer Security bald kein Problem mehr sein. Mitinitiator Raphael Robert im Interview.",
-      "url": "https://www.heise.de/hintergrund/Interview-Wofuer-Messaging-Layer-Security-relevant-ist-9214911.html",
-      "image_title": "Menschengruppe hat Smartphones in den Händen, während sie bei einem Rapsfeld sind"
     },
     {
       "title": "InterviewÜber den Bundeswehr-Messenger und Open Source",
@@ -61,17 +55,23 @@
       "image_title": "BwMessenger der Bundeswehr"
     },
     {
-      "title": "Gardena Smart System im TestGarten automatisch mähen und bewässern",
-      "teaser": "Ist der Garten nach dem Jahresurlaub verwahrlost? Smart Gardening mit Rasenroboter und Bewässerungssystem schaffen Abhilfe.",
-      "url": "https://www.heise.de/tests/Gardena-Smart-System-im-Test-Garten-automatisch-maehen-und-bewaessern-9213188.html"
-    },
-    {
       "title": "E-Bike-PleiteDas müssen VanMoof-Besitzer jetzt wissen",
       "teaser": "VanMoof ist zahlungsunfähig und sucht nach einem Rettungsring – aber was passiert, wenn sich kein Käufer findet? Die wichtigsten Fragen und Antworten.",
       "url": "https://www.heise.de/hintergrund/VanMoof-ist-insolvent-Die-wichtigsten-Fragen-und-Antworten-9219435.html"
     },
     {
-      "title": "UN-Sicherheitsrat zu KIErneut Warnungen vor der Auslöschung der Menschheit",
+      "title": "Gardena Smart System im TestGarten automatisch mähen und bewässern",
+      "teaser": "Ist der Garten nach dem Jahresurlaub verwahrlost? Smart Gardening mit Rasenroboter und Bewässerungssystem schaffen Abhilfe.",
+      "url": "https://www.heise.de/tests/Gardena-Smart-System-im-Test-Garten-automatisch-maehen-und-bewaessern-9213188.html"
+    },
+    {
+      "title": "\"Digitale Repressionsmittel\"US-Sanktionen gegen Predator-Entwickler aus Europa",
+      "teaser": "Die eng verbundenen europäischen Firmen Intellexa und Cytrox entwickeln und verkaufen die Spyware Predator. Nun hat die US-Regierung Sanktionen verhängt.",
+      "url": "https://www.heise.de/news/Spyware-Predator-USA-verhaengen-Sanktionen-gegen-europaeische-Firmen-9220432.html",
+      "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
+    },
+    {
+      "title": "\"Schockiert und beeindruckt\"UN-Generalsekretär fordert globale KI-Regulierung",
       "teaser": "Der UN-Sicherheitsrat hat sich mit den jüngsten KI-Entwicklungen befasst. Erneut gab es auch dramatische Warnungen von Experten.",
       "url": "https://www.heise.de/news/UN-Sicherheitsrat-zu-KI-Wieder-Warnungen-vor-der-Ausloeschung-der-Menschheit-9220381.html",
       "image_title": "UN-Sicherheitsrat mit per Video zugeschalteten Experten"
@@ -149,10 +149,67 @@
       "url": "https://www.heise.de/news/Zufrieden-ab-101-Euro-pro-Stunde-IT-Freelancer-erfreut-ueber-Einkommen-9219560.html"
     },
     {
-      "title": "Spyware Predator: USA verhängen Sanktionen gegen europäische Firmen",
+      "title": "Apple Card Savings Account: Bank verschenkt Geld, um Nutzer zu beschwichtigen",
+      "teaser": "Seit Monaten melden User des hochverzinslichen Sparkontos lahme Rückbuchungen. Apples Banker Goldman Sachs nimmt als Entschuldigung nun Geld in die Hand.",
+      "url": "https://www.heise.de/news/Apple-Card-Savings-Account-Bank-verschenkt-Geld-um-Nutzer-zu-beschwichtigen-9219167.html"
+    },
+    {
+      "title": "iX-Workshop: Aufbau einer Hybrid-Cloud",
+      "teaser": "Dieser Tagesworkshop vermittelt Ihnen das Know-how, um eine Hybrid Cloud in Ihrem Unternehmen zu planen und zu implementieren.",
+      "url": "https://www.heise.de/news/iX-Workshop-Aufbau-einer-Hybrid-Cloud-9207066.html"
+    },
+    {
+      "title": "AlertPatchday: Oracle liefert mehr als 500 Sicherheitsupdates für über 130 Produkte",
+      "teaser": "Oracle bedenkt 508 Sicherheitslücken mit aktualisierter Software zum Juli-Patchday. Sie betreffen mehr als 130 Produkte des Unternehmens.",
+      "url": "https://www.heise.de/news/Patchday-Oracle-liefert-mehr-als-500-Sicherheitsupdates-fuer-ueber-130-Produkte-9220546.html"
+    },
+    {
+      "title": "Indien: Apples \"nächste Wachstumsmaschine\"",
+      "teaser": "Die Analysten von Morgan Stanley glauben, dass Apple auf dem Subkontinent Erfolg haben wird – und haben daher ihr Kursziel angehoben.",
+      "url": "https://www.heise.de/news/Indien-Apples-naechste-Wachstumsmaschine-9219171.html"
+    },
+    {
+      "title": "Kryptografie in der Praxis: Anmelden ohne Passwort – Teil 1",
+      "teaser": "Die Gerätebindung mit Challenge Response nutzt kryptografische Verfahren für die passwortlose Anmeldung.",
+      "url": "https://www.heise.de/hintergrund/Kryptografie-in-der-Praxis-Anmelden-ohne-Passwort-Teil-1-9218716.html",
+      "image_title": "2FA"
+    },
+    {
+      "title": "Android-Apps stürzen auf Pixel-Handys ab",
+      "teaser": "Zahlreiche Nutzer berichten von Problemen mit ihren Pixel-Handys – viele Apps stürzen ab. Auch heise online konnte Crashes feststellen. Die Ursache ist unklar.",
+      "url": "https://www.heise.de/news/Android-Pixel-Handys-kaempfen-mit-App-Crashes-9220536.html",
+      "image_title": "New,York,,Usa,-,July,2,,2018,-,Google,Android"
+    },
+    {
+      "title": "Audio-Shield für den Einplatinenrechner QT Py von Adafruit",
+      "teaser": "Das Adafruit Audio-Shield BFF erweitert den QT Py um Audiofunktionen.",
+      "url": "https://www.heise.de/news/Audio-Shield-fuer-den-Einplatinenrechner-QT-Py-von-Adafruit-9220516.html"
+    },
+    {
+      "title": "\"Digitale Repressionsmittel\": US-Sanktionen gegen Predator-Entwickler aus Europa",
       "teaser": "Die eng verbundenen europäischen Firmen Intellexa und Cytrox entwickeln und verkaufen die Spyware Predator. Nun hat die US-Regierung Sanktionen verhängt.",
       "url": "https://www.heise.de/news/Spyware-Predator-USA-verhaengen-Sanktionen-gegen-europaeische-Firmen-9220432.html",
       "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
+    },
+    {
+      "title": "Das Zeitalter der KIEinsteiger-Guide: Wie KI funktioniert und wo sie praktisch helfen kann",
+      "teaser": "Alle reden über künstliche Intelligenz, aber Sie wissen nicht, was Sie davon halten sollen? Wir zeigen, was KI ausmacht und wie KI ihnen unter die Arme greift.",
+      "url": "https://www.heise.de/ratgeber/Einsteiger-Guide-KI-Wie-KI-funktioniert-und-wo-sie-praktisch-helfen-kann-9060330.html"
+    },
+    {
+      "title": "Praxiserfahrungen vom ExpertenWärmepumpe in alten Häusern",
+      "teaser": "Wärmepumpen in unsanierten Häusern von vor 1978: Wir sprechen mit einem erfahrenen Heizungsbauer, worauf zu achten ist.",
+      "url": "https://www.heise.de/ratgeber/Waermepumpe-in-unsanierten-alten-Haeusern-Praxiserfahrungen-vom-Experten-9205639.html"
+    },
+    {
+      "title": "Solaranlage für ZuhausePhotovoltaik mit Nulleinspeisung umsetzen",
+      "teaser": "Es gibt PV-Installationen, die fein ausregeln, dass kein Strom ins Netz eingespeist wird. Wir sehen uns eine davon an – aber es drängt sich die Sinnfrage auf.",
+      "url": "https://www.heise.de/hintergrund/Photovoltaik-mit-Nulleinspeisung-Was-das-ist-und-warum-man-sie-einsetzt-9186411.html"
+    },
+    {
+      "title": "heise+ Jahresabo",
+      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Schildkrötenartiger Roboter \"schwimmt\" im Sand",
@@ -180,7 +237,7 @@
       "url": "https://www.heise.de/ratgeber/Python-Welche-Auflistungstypen-es-gibt-und-wie-sie-verwendet-werden-9216638.html"
     },
     {
-      "title": "UN-Sicherheitsrat zu KI: Erneut Warnungen vor der Auslöschung der Menschheit",
+      "title": "\"Schockiert und beeindruckt\": UN-Generalsekretär fordert globale KI-Regulierung",
       "teaser": "Etwa zwei Stunden lang hat sich der UN-Sicherheitsrat mit den jüngsten KI-Entwicklungen befasst. Erneut gab es auch dramatische Warnungen von Experten.",
       "url": "https://www.heise.de/news/UN-Sicherheitsrat-zu-KI-Wieder-Warnungen-vor-der-Ausloeschung-der-Menschheit-9220381.html",
       "image_title": "UN-Sicherheitsrat mit per Video zugeschalteten Experten"
@@ -190,26 +247,6 @@
       "teaser": "Microsofts KI-Preise + LLaMA 2 noch gebührenfrei + BwMessenger mit Open Source + Live-Musik für Gehörlose + Post an Wirecard-Gericht + Podcast zu Moore’s Law",
       "url": "https://www.heise.de/news/Mittwoch-Microsoft-will-Geld-fuer-KI-Metas-KI-auch-in-neuer-Version-kostenfrei-9220375.html",
       "image_title": "Mensch tippt auf Notebook; Mittwoch: KI-Preise, Gratis-LLaMA, Bundeswehr-Messenger, Musik-Anzug, Wirecard-Update & Bit-Rauschen-Podcast"
-    },
-    {
-      "title": "Das Zeitalter der KIEinsteiger-Guide: Wie KI funktioniert und wo sie praktisch helfen kann",
-      "teaser": "Alle reden über künstliche Intelligenz, aber Sie wissen nicht, was Sie davon halten sollen? Wir zeigen, was KI ausmacht und wie KI ihnen unter die Arme greift.",
-      "url": "https://www.heise.de/ratgeber/Einsteiger-Guide-KI-Wie-KI-funktioniert-und-wo-sie-praktisch-helfen-kann-9060330.html"
-    },
-    {
-      "title": "Praxiserfahrungen vom ExpertenWärmepumpe in alten Häusern",
-      "teaser": "Wärmepumpen in unsanierten Häusern von vor 1978: Wir sprechen mit einem erfahrenen Heizungsbauer, worauf zu achten ist.",
-      "url": "https://www.heise.de/ratgeber/Waermepumpe-in-unsanierten-alten-Haeusern-Praxiserfahrungen-vom-Experten-9205639.html"
-    },
-    {
-      "title": "Solaranlage für ZuhausePhotovoltaik mit Nulleinspeisung umsetzen",
-      "teaser": "Es gibt PV-Installationen, die fein ausregeln, dass kein Strom ins Netz eingespeist wird. Wir sehen uns eine davon an – aber es drängt sich die Sinnfrage auf.",
-      "url": "https://www.heise.de/hintergrund/Photovoltaik-mit-Nulleinspeisung-Was-das-ist-und-warum-man-sie-einsetzt-9186411.html"
-    },
-    {
-      "title": "heise+ Jahresabo",
-      "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Die Zukunft von „Moore’s Law“",
@@ -246,6 +283,11 @@
       "teaser": "A German YouTuber discovered that his Deye micro inverter lacked an essential safety mechanism. Now the manufacturer finds itself at odds with regulators.",
       "url": "https://www.heise.de/news/RelayGate-Deye-Solar-Microinverters-Lack-Essential-Part-9220307.html",
       "image_title": "Deye converter"
+    },
+    {
+      "title": "Kostenoptimierung – der Schlüssel für Resilienz",
+      "teaser": "In wirtschaftlich schwierigen Zeiten sehen sich viele Unternehmen mit gravierenden Unwägbarkeiten und finanziellen Problemen konfrontiert. Cloud-Hosting-Modelle können dabei helfen, die betriebliche Resilienz zu stabilisieren und zu erhöhen.",
+      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/resilienz/beitrag/kostenoptimierung-der-schluessel-fuer-resilienz-4534/?source=hbsad-ersatz"
     },
     {
       "title": "Skurriles Geschäftsmodell: Schufa-Tochter bewirbt Schufa-freie Kredite",
@@ -287,11 +329,6 @@
       "image_title": "Original-iPhone von 2007."
     },
     {
-      "title": "Kostenoptimierung – der Schlüssel für Resilienz",
-      "teaser": "In wirtschaftlich schwierigen Zeiten sehen sich viele Unternehmen mit gravierenden Unwägbarkeiten und finanziellen Problemen konfrontiert. Cloud-Hosting-Modelle können dabei helfen, die betriebliche Resilienz zu stabilisieren und zu erhöhen.",
-      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/resilienz/beitrag/kostenoptimierung-der-schluessel-fuer-resilienz-4534/?source=hbsad-ersatz"
-    },
-    {
       "title": "Gruppenchat mit Messaging Layer Security: Mitinitiator Raphael Robert interviewt",
       "teaser": "Verschlüsselte Kommunikation in großen Gruppen soll dank Messaging Layer Security bald kein Problem mehr sein. Mitinitiator Raphael Robert im Interview.",
       "url": "https://www.heise.de/hintergrund/Interview-Wofuer-Messaging-Layer-Security-relevant-ist-9214911.html",
@@ -307,44 +344,6 @@
       "teaser": "Im heimischen Süßwasser entdecken Sie eine völlig neue Welt. Unterwasserfotografin Claudia Weber-Gebert zeigt, was möglich ist und worauf Sie achten sollten.",
       "url": "https://www.heise.de/ratgeber/Unterwasserfotografie-in-heimischen-Gewaessern-9207722.html",
       "image_title": "Der Fischreichtum des Pulvermaars bei Gillenfeld freut vor allem die Angler. In den umgestürzten Bäumen, die im Schutzgebiet liegen bleiben dürfen, finden Jungfische ein ideales Versteck.Olympus E-M5 16 mm ISO 400 f/4.5 1/250 s, Alle Bilder: Claudia Weber-Gebert"
-    },
-    {
-      "title": "UpdatePokémon Sleep startet: Ein Schlaftracker mit Gamification",
-      "teaser": "Der Schlaftracker Pokémon Sleep ist in den Play Stores erhältlich. Die Inhalte des Spiels drehen sich vor allem um physische Bedürfnisse, Essen und Schlafen.",
-      "url": "https://www.heise.de/news/Schlaftracking-Mehr-schlafen-mit-Pokemon-Sleep-9208692.html",
-      "image_title": "Relaxo will versorgt werden"
-    },
-    {
-      "title": "Software-Bündel: EU-Kartellwächter fühlen Microsoft wegen Teams auf den Zahn",
-      "teaser": "Die EU- Kommission wirft Microsoft vor, seine Videokonferenz-Software Teams unfair mit MS Office 365 zu verknüpfen. Konkurrent Slack hatte sich beschwert.",
-      "url": "https://www.heise.de/news/Software-Buendel-EU-Kartellwaechter-fuehlen-Microsoft-wegen-Teams-auf-den-Zahn-9220106.html"
-    },
-    {
-      "title": "Kurz informiert: VanMoof-Pleite, KI-Startups, Tesla-Zahlung, mysteriöses Objekt",
-      "teaser": "kurz informiert liefert täglich die wichtigsten Nachrichten zu IT, Mobilem, Gadgets, Netzpolitik & Wissenschaft.",
-      "url": "https://www.heise.de/news/Kurz-informiert-VanMoof-Pleite-KI-Startups-Tesla-Zahlung-Mysterioeses-Objekt-9219507.html"
-    },
-    {
-      "title": "Empfehlung von Expertenrat: Heilende Phagen schneller in die Praxis bringen",
-      "teaser": "Das Büro für Technikfolgen-Abschätzung beim Deutschen Bundestag empfiehlt, das Potenzial von Viren, die Bakterien töten, künftig besser auszuschöpfen.",
-      "url": "https://www.heise.de/news/Empfehlung-von-Expertenrat-Heilende-Phagen-schneller-in-die-Praxis-bringen-9218828.html"
-    },
-    {
-      "title": "Messaging Layer Security: Ende-zu-Ende-Sicherheit für große Gruppen",
-      "teaser": "Die Internet Engineering Taskforce hat das Messaging-Layer-Security-Protokoll als Standard für die Kommunikation in großen Gruppen veröffentlicht.",
-      "url": "https://www.heise.de/news/Messaging-Layer-Security-Ende-zu-Ende-Sicherheit-fuer-grosse-Gruppen-9219887.html",
-      "image_title": "Hipster im Büro mit mobilen Endgeräten"
-    },
-    {
-      "title": "Allianz pro Schiene sieht historische Wende der Verkehrspolitik",
-      "teaser": "Im Vergleich zu anderen europäischen Ländern steht Deutschland mit seinen Ausgaben für die Schiene nicht gut da, meint die Allianz pro Schiene.",
-      "url": "https://www.heise.de/news/Allianz-pro-Schiene-sieht-historische-Wende-der-Verkehrspolitik-9220078.html"
-    },
-    {
-      "title": "Tastaturen: Corsair Gaming kauft Drop",
-      "teaser": "Corsair fügt seinem Markenportfolio Elgato, Origin und SCUF eine weitere Firma für Gaming-Peripherie hinzu: Drop. Powershopping hat ausgedient.",
-      "url": "https://www.heise.de/news/Corsair-Gaming-kauft-Drop-9219065.html",
-      "image_title": "geteilte mechanische Tastatur ohne Tastenköpfe"
     },
     {
       "title": "DeyeGate: Fehlendes Relais hat weitreichendere Folgen",
@@ -376,12 +375,12 @@
       "url": "https://www.heise.de/tp/features/Warum-ich-mich-auf-die-ukrainische-Gegenoffensive-freue-9214171.html"
     },
     {
-      "title": "Warum die Ukraine niemals Mitglied der Nato werden darf (und wohl auch nicht wird)",
-      "url": "https://www.heise.de/tp/features/Warum-die-Ukraine-niemals-Mitglied-der-Nato-werden-darf-und-wohl-auch-nicht-wird-9216066.html"
-    },
-    {
       "title": "DeyeGate: Fehlendes Relais hat weitreichendere Folgen",
       "url": "https://www.heise.de/news/Balkonkraftwerke-Fehlendes-Relais-bei-Deye-hat-weitere-Folgen-9218441.html"
+    },
+    {
+      "title": "Warum die Ukraine niemals Mitglied der Nato werden darf (und wohl auch nicht wird)",
+      "url": "https://www.heise.de/tp/features/Warum-die-Ukraine-niemals-Mitglied-der-Nato-werden-darf-und-wohl-auch-nicht-wird-9216066.html"
     },
     {
       "title": "AlertJavaScript-Sandbox vm2Neue kritische Schwachstelle, kein Update mehr",
@@ -578,6 +577,12 @@
       "image_title": "LMP USB-C Compact Dock 2"
     },
     {
+      "title": "Tastaturen: Corsair Gaming kauft Drop",
+      "teaser": "Corsair fügt seinem Markenportfolio Elgato, Origin und SCUF eine weitere Firma für Gaming-Peripherie hinzu: Drop. Powershopping hat ausgedient.",
+      "url": "https://www.heise.de/news/Corsair-Gaming-kauft-Drop-9219065.html",
+      "image_title": "geteilte mechanische Tastatur ohne Tastenköpfe"
+    },
+    {
       "title": "Familienzuwachs: Arduino Nano ESP32",
       "teaser": "Der Formfaktor des Arduino Nano ist sehr beliebt und stellt eine ganze Board-Familie. Jetzt ist eine Version mit ESP32-Kern von Arduino verfügbar.",
       "url": "https://www.heise.de/news/Familienzuwachs-Arduino-Nano-ESP32-9219484.html"
@@ -586,11 +591,6 @@
       "title": "Projekt für Maker: IR-Lightgun für den PC basteln",
       "teaser": "Wer das Arcade-Feeling alter Lightgun-Spiele vermisst, kann sich mit dem SAMCO-Projekt die Plastikkanone für den modernen Monitor bauen.",
       "url": "https://www.heise.de/ratgeber/Projekt-fuer-Maker-IR-Lightgun-fuer-den-PC-basteln-9208800.html"
-    },
-    {
-      "title": "Einstieg ins CNC-Fräsen - Tutorialserie Teil 2 & 3",
-      "teaser": "Vom Fräspfad zum fertigen Werkstück: Unsere kostenlose Tutorial-Serie zeigt den Arbeitsablauf beim CNC-Fräsen am Beispiel einer Radiusfrässchablone",
-      "url": "https://www.heise.de/news/Einstieg-ins-CNC-Fraesen-Tutorialserie-Teil-2-3-9216650.html"
     },
     {
       "title": "7 Tipps für spontane Porträtshootings auf der Straße",
@@ -720,19 +720,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-powerstations-die-besten-stromspeicher-fuer-photovoltaik-im-test-ab-235-euro/84614vd?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
-      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
-      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
+      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
+      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
+      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
+      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
     },
     {
-      "title": "Bud Light: Biertrinker falsch abgeholt",
-      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
-      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
-      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
-      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
+      "title": "Fukushima: Japan will radioaktiv kontaminiertes Wasser ins Meer leiten",
+      "teaser": "Energie und Klima – kompakt: Japans Nachbarn sind empört über das Verhalten der Regierung in Tokio. Doch wie gefährlich ist das mit Tritium verunreinigte Kühlwasser? Was bereitet Wissenschaftlern Sorgen?",
+      "url": "https://www.heise.de/tp/features/Fukushima-Japan-will-radioaktiv-kontaminiertes-Wasser-ins-Meer-leiten-9208744.html"
     },
     {
       "title": "Die 10 besten Cloud-Speicher",
