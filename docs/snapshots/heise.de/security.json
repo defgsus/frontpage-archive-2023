@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-19T06:14:35",
+  "timestamp": "2023-07-19T07:10:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-stopft-20-Sicherheitslecks-in-Chrome-115-9220438.html"
+    },
+    {
       "title": "Citrix/Netscaler ADC und Gateway",
       "url": "https://www.heise.de/news/Citrix-Kritische-Zero-Day-Sicherheitsluecken-in-Netscaler-ADC-und-Gateway-9220387.html"
     },
@@ -44,18 +48,15 @@
       "url": "https://www.heise.de/news/Wordpress-Aktuelle-Attacke-auf-Woocommerce-Payments-9219114.html"
     },
     {
-      "title": "Zyxel",
-      "url": "https://www.heise.de/news/Zyxel-dichtet-hochriskante-Sicherheitsluecken-in-Firewalls-ab-9219148.html"
+      "title": "Spyware Predator: USA verhängen Sanktionen gegen europäische Firmen",
+      "teaser": "Die eng verbundenen europäischen Firmen Intellexa und Cytrox entwickeln und verkaufen die Spyware Predator. Nun hat die US-Regierung Sanktionen verhängt.",
+      "url": "https://www.heise.de/news/Spyware-Predator-USA-verhaengen-Sanktionen-gegen-europaeische-Firmen-9220432.html",
+      "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
     },
     {
       "title": "Webbrowser: Google stopft 20 Sicherheitslecks in Chrome 115",
       "teaser": "Google hat den Webbrowser Chrome in Version 115 vorgelegt. Darin bessern die Entwickler 20 Schwachstellen aus.",
       "url": "https://www.heise.de/news/Webbrowser-Google-stopft-20-Sicherheitslecks-in-Chrome-115-9220438.html"
-    },
-    {
-      "title": "Citrix: Updates schließen kritische Zero-Day-Lücke in Netscaler ADC und Gateway",
-      "teaser": "IT-Verantwortliche sollten zügig aktualisieren: Citrix hat Updates für bereits angegriffene Lücken in Netscaler ADC und Gateway veröffentlicht.",
-      "url": "https://www.heise.de/news/Citrix-Kritische-Zero-Day-Sicherheitsluecken-in-Netscaler-ADC-und-Gateway-9220387.html"
     },
     {
       "title": "Tippfehler: Mails fürs US-Militär gingen an Mali-Domain",
@@ -106,6 +107,12 @@
       "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
     },
     {
+      "title": "Virustotal: Nutzerdaten von Googles Analysedienst im Netz gelandet",
+      "teaser": "IT-Sicherheitsforscher nutzen Googles Dienst Virustotal, um etwa Dateien mit zahlreichen Virenscannern zu untersuchen. Es gab ein Datenleck der Nutzerdatenbank.",
+      "url": "https://www.heise.de/news/Datenleck-bei-Googles-Analysedienst-Virustotal-9218040.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
+    },
+    {
       "title": "Cyber-Sicherheitsbericht: Steigende Bedrohungslage im Gesundheitswesen",
       "teaser": "Im Gesundheitswesen steigt die Bedrohungslage bei Cyberangriffen. Das geht aus einem Bericht der europäischen Cybersicherheitsagentur ENISA vor.",
       "url": "https://www.heise.de/news/ENISA-Bericht-zu-Cyber-Sicherheit-Bedrohungslage-im-Gesundheitswesen-steigt-9217465.html",
@@ -146,12 +153,6 @@
       "title": "Ethical Hacking für Admins: Lerne Pentesting und mehr in der Webinar-Serie",
       "teaser": "In fünf Webinaren, vom 4. September bis 9. Oktober, lernen Interessierte das Handwerk des Penetration Testers. Damit sind Sie Angreifern einen Schritt voraus.",
       "url": "https://www.heise.de/news/Ethical-Hacking-fuer-Admins-Lerne-Pentesting-und-mehr-in-der-Webinar-Serie-9197546.html"
-    },
-    {
-      "title": "Update fürs Update: Apple überholt letzte \"Rapid Security Response\"",
-      "teaser": "Eigentlich sollte ein schneller Fix für den Safari-Browser für mehr Sicherheit sorgen. Aufgrund eines Fehlers musste Apple diesen nun neu auflegen.",
-      "url": "https://www.heise.de/news/Update-fuers-Update-Apple-ueberholt-letzte-Rapid-Security-Response-9214819.html",
-      "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
     },
     {
       "title": "heise Security Tour 2023",
