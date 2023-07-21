@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-21T06:14:56",
+  "timestamp": "2023-07-21T07:10:12",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "OpenSSH",
+      "url": "https://www.heise.de/news/OpenSSH-9-3p2-dichtet-hochriskantes-Sicherheitsleck-ab-9222861.html"
+    },
+    {
       "title": "VMware Tanzu Spring",
       "url": "https://www.heise.de/news/VMware-Tanzu-Spring-Update-schliesst-kritische-Luecke-9221869.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Oracle-liefert-mehr-als-500-Sicherheitsupdates-fuer-ueber-130-Produkte-9220546.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-stopft-20-Sicherheitslecks-in-Chrome-115-9220438.html"
+      "title": "OpenSSH 9.3p2 dichtet hochriskantes Sicherheitsleck ab",
+      "teaser": "Die OpenSSH-Entwickler haben Version 9.3p2 veröffentlicht. Sie schließt eine Sicherheitslücke, die als hochriskant gilt.",
+      "url": "https://www.heise.de/news/OpenSSH-9-3p2-dichtet-hochriskantes-Sicherheitsleck-ab-9222861.html"
     },
     {
       "title": "Vom Hacker zum Phantom: Zum Tode von Kevin Mitnick",
@@ -148,12 +153,6 @@
       "title": "Juniper dichtet teils kritische Sicherheitslücken ab",
       "teaser": "Der Netzwerkausrüster Juniper hat 17 Sicherheitsmeldungen zu teils kritischen Lücken veröffentlicht. Updates zum Schließen stehen bereit.",
       "url": "https://www.heise.de/news/Juniper-dichtet-teils-kritische-Sicherheitsluecken-ab-9218080.html"
-    },
-    {
-      "title": "Virustotal: Nutzerdaten von Googles Analysedienst im Netz gelandet",
-      "teaser": "IT-Sicherheitsforscher nutzen Googles Dienst Virustotal, um etwa Dateien mit zahlreichen Virenscannern zu untersuchen. Es gab ein Datenleck der Nutzerdatenbank.",
-      "url": "https://www.heise.de/news/Datenleck-bei-Googles-Analysedienst-Virustotal-9218040.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "heise Security Tour 2023",
