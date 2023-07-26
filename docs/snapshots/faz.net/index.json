@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-26T15:10:53",
+  "timestamp": "2023-07-26T16:13:54",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.9eaa4e1326041b6b738f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://dynamic.faz.net/red/2023/klimawidget/release/js/app.js",
       "id": null,
       "text": null
     },
@@ -164,8 +170,14 @@
   ],
   "articles": [
     {
+      "title": "Bahn und EVG : Schlichter stellen Tarif-Kompromiss vor: 410 Euro mehr für Bahnmitarbeiter",
+      "url": "https://www.faz.net/aktuell/wirtschaft/bahn-und-evg-schlichter-stellen-tarif-kompromiss-vor-410-euro-mehr-fuer-bahnmitarbeiter-19061145.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Züge der Deutschen Bahn im Betriebswerk Stellingen in Hamburg"
+    },
+    {
       "title": "Urteil zu Springer-Infos : Julian Reichelt verliert gegen Holger Friedrich in zweiter Instanz",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien/julian-reichelt-unterliegt-vor-olg-gegen-holger-friedrich-19060213.html",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/ex-bild-chef-julian-reichelt-verliert-abermals-vor-gericht-19060213.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Julian Reichelt, früherer Chefredakteur der „Bild“-Zeitung."
     },
@@ -174,16 +186,22 @@
       "url": "https://www.faz.net/aktuell/feuilleton/medien/friedrich-gegen-reichelt-debatte-ueber-eine-grundlage-der-pressefreiheit-19031795.html"
     },
     {
-      "title": "Verschwundener Außenminister : Was Peking zur Entlassung Qins veranlasst haben könnte",
+      "title": "Entlassen und verschwunden : Wie China seinen Außenminister tilgt",
       "url": "https://www.faz.net/aktuell/politik/ausland/china-was-hinter-der-entlassung-von-qin-stecken-koennte-19060635.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Es gab ihn wirklich: Qin und Wang im März in Moskau"
     },
     {
-      "title": "Kritik an CDU-Chef Merz : Wegner kann ein rechtes Image in Berlin nicht brauchen",
-      "url": "https://www.faz.net/aktuell/politik/cdu-in-berlin-buergermeister-kai-wegner-kann-ein-rechtes-image-nicht-brauchen-19059969.html",
+      "title": "Ukrainer auf dem Arbeitsmarkt : Bloß nicht alle in Helferjobs!",
+      "url": "https://www.faz.net/aktuell/karriere-hochschule/buero-co/ukrainer-auf-dem-arbeitsmarkt-bloss-nicht-alle-in-helferjobs-19058022.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kultursenator Joe Chialo (CDU) und Berlins Regierender Bürgermeister Kai Wegner (CDU) auf einem Wagen beim Christopher Street Day in Berlin"
+      "image_title": "Hürden für Flüchtlinge aus der Ukraine: Besonders Frauen mit jüngeren Kindern machen langsamere Fortschritte beim Deutschlernen."
+    },
+    {
+      "title": "Auf Trumps Pfaden : Auch Biden hält das Asylrecht für untauglich",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/politik/ausland/joe-bidens-asylpolitik-aehnelt-der-von-donald-trump-19060663.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Rechter Kulturkampf : Gesucht: Der AfD-ferne Gott",
@@ -200,13 +218,13 @@
     {
       "title": "Politische Blockade in Spanien : Trauriger Rückfall in alte Muster",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/wie-geht-es-nach-der-parlamentswahl-in-spanien-weiter-19058364.html",
+      "url": "https://www.faz.net/aktuell/politik/spanien-ist-gespalten-wie-geht-es-nach-der-parlamentswahl-weiter-19058364.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Frankfurter Oberbürgermeister : Mike Josef hat geliefert",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurts-ob-mike-josef-liefert-machbare-loesung-fuer-oper-und-schauspiel-19059862.html",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-mike-josef-und-helaba-liefern-loesung-fuer-oper-und-schauspiel-19059862.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -240,17 +258,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Kritik an Merz : Schweigen ist Macht",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/inland/debatte-ueber-merz-und-afd-schweigen-ist-macht-19058278.html",
+      "title": "Niedersachsen : AfD spricht vom „Land der Messertäter“",
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-behauptung-zu-messerangriffen-was-sagen-die-zahlen-19060308.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Jasper von Altenbockum (kum.)"
-    },
-    {
-      "title": "Nach Trauzeugen-Affäre : Die Dena bekommt eine neue Chefin",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nach-trauzeugen-affaere-corinna-enders-leitet-kuenftig-dena-19060315.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die designierte Dena-Chefin Corinna Enders."
+      "image_title": "Stephan Bothe (AfD) am 20. Februar 2023 im niedersächsischen Landtag."
     },
     {
       "title": "Frachter in Brand : Auto-Akkus sind ein Risiko für die Schifffahrt",
@@ -259,10 +270,10 @@
       "image_title": "In Flammen: das Frachtschiff „Fremantle Highway“ in der Nordsee"
     },
     {
-      "title": "Elektromobilität in den USA : Sieben Autohersteller laden bald gemeinsam",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elektromobilitaet-in-den-usa-sieben-autohersteller-laden-bald-gemeinsam-19060394.html",
+      "title": "Nach Trauzeugen-Affäre : Die Dena bekommt eine neue Chefin",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/nach-trauzeugen-affaere-corinna-enders-leitet-kuenftig-dena-19060315.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ein Tesla an einer Station in Atlanta"
+      "image_title": "Die designierte Dena-Chefin Corinna Enders."
     },
     {
       "title": "Behauptung zu K.-o.-Tropfen : Till Lindemann siegt gegen Kayla Shyx vor Gericht",
@@ -271,26 +282,26 @@
       "image_title": "Es gilt die Unschuldsvermutung: Till Lindemann, Frontsänger der Band Rammstein"
     },
     {
-      "title": "In allen Anklagepunkten : Kevin Spacey von Vorwürfen sexueller Übergriffe freigesprochen",
+      "title": "Prozess gegen Abou-Chaker : Auffälligkeiten in der Tondatei",
+      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/prozess-um-bushido-und-abou-chaker-auffaelligkeiten-in-der-tondatei-19060469.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Auf dem Weg in den Gerichtssaal: Arafat Abou-Chaker am Mittwoch in Berlin"
+    },
+    {
+      "title": "Bildung : Baden-Württemberg erprobt duale Ausbildung für angehende Lehrer",
+      "url": "https://www.faz.net/aktuell/politik/inland/baden-wuerttemberg-erprobt-duale-ausbildung-fuer-lehreramt-19060591.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Lehrerin an einer Grundschule in Baden-Württemberg"
+    },
+    {
+      "title": "Spacey nach seinem Freispruch : „Ich bin demütig über den Ausgang heute“",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/sexuelle-uebergriffe-kevin-spacey-freigesprochen-19060703.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kevin Spacey am Mittwoch beim Verlassen des Gerichts in London"
     },
     {
-      "title": "New York City : Kran geht in Flammen auf – und stürzt zu Boden",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/new-york-kran-geht-in-flammen-auf-und-stuerzt-zu-boden-19060306.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Rettungskräfte bekämpfen die Flammen eines großen Baukrans, der am Mittwoch in Manhattan in Brand geraten ist."
-    },
-    {
-      "title": "Fußball-Transferticker : Union Berlin verpflichtet nächsten Hertha-Profi",
-      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-alexander-schwolow-wechselt-zu-union-faz-18134600.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Alexander Schwolow wechselt in den Osten der Hauptstadt."
-    },
-    {
       "title": "Ukrainer Reislin bei Fecht-WM : Medaillenkandidat verweigert Gefecht gegen Russen",
-      "url": "https://www.faz.net/aktuell/sport/sportpolitik/fecht-wm-ukrainer-reislin-tritt-nicht-zum-kampf-gegen-russen-an-19060172.html",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/fecht-wm-athlet-aus-ukraine-verweigert-kampf-gegen-russen-19060172.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "In Mailand finden derzeit die Fecht-Weltmeisterschaften statt. (Symbolbild)"
     },
@@ -307,20 +318,20 @@
       "image_title": "Oftmals trifft die ukrainische Luftabwehr, wie hier Ende Mai in Kiew, iranische Drohnen."
     },
     {
-      "title": "Cyanobakterien : Blaualgen auf Reisen",
-      "url": "https://www.faz.net/aktuell/wissen/leben-gene/blaualgen-auf-reisen-wie-haben-cyanobakterien-die-weltmeere-erobert-19056422.html",
+      "title": "1:2 gegen Manchester City : „Kein Geheimnis, dass wir einen Neuner suchen“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zusammenfassung-tuchel-kann-niederlage-verkraften-man-city-test-als-kane-votum-19061087.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Aufgrund von Blaualgenteppichen wird an Baggerseen häufig ein Badeverbot verhängt."
+      "image_title": "Messen mit den Besten: Joshua Kimmich (l.) im Duell mit Manchesters John Stones"
     },
     {
-      "title": "Bayreuther Festspiele : Treibgut des Unterbewussten",
-      "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/parsifal-mit-ar-brillen-in-bayreuth-treibgut-des-unterbewussten-19060276.html",
+      "title": "New York City : Kran geht in Flammen auf – und stürzt zu Boden",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/new-york-kran-geht-in-flammen-auf-und-stuerzt-zu-boden-19060306.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nicht dämonisch, sondern empathisch und tragisch: Elīna Garanča als Kundry."
+      "image_title": "Rettungskräfte bekämpfen die Flammen eines großen Baukrans, der am Mittwoch in Manhattan in Brand geraten ist."
     },
     {
-      "title": "Präsidentenpalast umstellt : Möglicher Putsch in Niger",
-      "url": "https://www.faz.net/aktuell/politik/ausland/moeglicher-putsch-in-niger-militaer-sperrt-praesidentenpalast-19060014.html"
+      "title": "Elektromobilität in den USA : Sieben Autohersteller laden bald gemeinsam",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elektromobilitaet-in-den-usa-sieben-autohersteller-laden-bald-gemeinsam-19060394.html"
     },
     {
       "title": "F.A.Z. Einspruch Podcast : Zieht das Recht eine Brandmauer zur AfD?",
@@ -345,10 +356,14 @@
       "image_title": "Stein auf Stein: Baustelle eines entstehenden Wohnkomplexes in Frankfurt."
     },
     {
-      "title": "Festnahme in USA : Ein Serienmörder, wie er im Buche steht",
-      "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/rex-heuermann-ein-serienmoerder-wie-er-im-buche-steht-19053717.html",
+      "title": "Die Single-Kolumne : Wir lebten im Wissen, dass wir im echten Leben keine Chance hätten",
+      "url": "https://www.faz.net/aktuell/stil/leib-seele/kolumnen/flirt-im-urlaub-wie-es-ist-jemanden-aus-einer-anderen-bubble-zu-daten-19057027.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Rex Heuermann nach seiner Festnahme Mitte Juli"
+      "image_title": "Autorin, Regisseurin und bildende Künstlerin: Jovana Reisinger schreibt die Single-Kolumne auf FAZ.NET."
+    },
+    {
+      "title": ": Massenstrandung in Australien: Dutzende Grindwale kämpfen ums Überleben",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": ": Tote bei Waldbränden in Italien – Hitze erschwert Löscharbeiten",
@@ -396,10 +411,6 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": ": Einheimische und Urlauber fliehen vor Flammen auf Rhodos",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
       "title": "Digitale Verwaltung : Warum Österreich die CO₂-Steuer erstattet, Deutschland aber nicht",
       "url": "https://www.faz.net/aktuell/wirtschaft/digitec/oesterreich-kann-buergern-co-steuer-erstatten-warum-deutschland-nicht-19058107.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -434,60 +445,60 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/fertighaushersteller-chef-gerade-wird-eine-ganze-wirtschaft-kaputtgemacht-19053645.html"
     },
     {
-      "title": "Özil hat sich entschieden : Graue Wölfe statt Bundesadler",
-      "url": "https://www.faz.net/aktuell/politik/inland/oezil-hat-entschieden-graue-woelfe-statt-bundesadler-19055802.html"
+      "title": "Elektromobilität in den USA : Sieben Autohersteller laden bald gemeinsam",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elektromobilitaet-in-den-usa-sieben-autohersteller-laden-bald-gemeinsam-19060394.html"
     },
     {
       "title": "Euro-Geldpolitik : Doch, die Zinsen müssen weiter steigen!",
       "url": "https://www.faz.net/aktuell/wirtschaft/ezb-geldpolitik-warum-die-zinsen-weiter-steigen-muessen-19057381.html"
     },
     {
+      "title": "Kritik an CDU-Chef Merz : Wegner kann ein rechtes Image in Berlin nicht brauchen",
+      "url": "https://www.faz.net/aktuell/politik/cdu-in-berlin-buergermeister-kai-wegner-kann-ein-rechtes-image-nicht-brauchen-19059969.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Kultursenator Joe Chialo (CDU) und Berlins Regierender Bürgermeister Kai Wegner (CDU) auf einem Wagen beim Christopher Street Day in Berlin"
+    },
+    {
       "title": "Kontakte zu Reichsbürgern : Razzia bei Österreichs „Preußen“",
-      "url": "https://www.faz.net/aktuell/politik/ausland/razzia-gegen-bundesstaat-preussen-in-oesterreich-19060288.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/oesterreich-razzia-gegen-bundesstaat-preussen-mit-kontakten-zu-reichsbuergern-19060288.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Nicht das erste Mal auffällig: Staatsverweigerer im Januar 2019 vor dem Obergericht Graz"
     },
     {
       "title": "Nach 38 Jahren : Kambodschas Autokrat übergibt an seinen Sohn",
-      "url": "https://www.faz.net/aktuell/politik/ausland/nach-38-jahren-kambodschas-regierungschef-hun-sen-uebergibt-an-sohn-19060143.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/kambodscha-regierungschef-hun-sen-uebergibt-nach-38-jahren-an-sohn-19060143.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nach dem Wahlsieg: Hun Sen am 1 Juli in Kambodschas Hauptstadt Phnom Penh"
+      "image_title": "Nach dem Wahlsieg: Hun Sen am 1. Juli in Kambodschas Hauptstadt Phnom Penh"
     },
     {
       "title": "Demographischer Wandel (11) : Was wir über die globale Bevölkerungsentwicklung wissen",
-      "url": "https://www.faz.net/aktuell/politik/inland/was-wir-ueber-die-globale-bevoelkerungsentwicklung-wissen-19059661.html",
+      "url": "https://www.faz.net/aktuell/politik/inland/immer-mehr-laender-sind-mit-alterung-und-schrumpfung-konfrontiert-19059661.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Glitzernde Fassaden, schnell alternde Bevölkerung: Eine Straßenkreuzung in Tokio am Abend des 23. Juni 2023"
     },
     {
-      "title": "Wo mit der AfD kooperiert wird : Die Orte hinter der Brandmauer",
-      "url": "https://www.faz.net/aktuell/politik/inland/cdu-und-anderen-parteien-wo-sie-mit-der-afd-zusammenarbeiten-19058164.html",
+      "title": "Landgericht Karlsruhe urteilt : dm darf Eigenmarken nicht als „klimaneutral\" bewerben",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/landgericht-karlsruhe-dm-darf-eigenmarken-nicht-als-klimaneutral-bewerben-19061125.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wahlplakate für den Kandidaten der AfD und den der CDU in Sonneberg in Thüringen"
+      "image_title": "dm hat nach eigenen Angaben schon vor Monaten entschieden, auf das Label „klimaneutral“ zu verzichten."
     },
     {
       "title": "Aufholjagd in Fernost : So will VW den Niedergang in China stoppen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-schliesst-neue-partnerschaften-um-in-china-aus-der-krise-zu-fahren-19060349.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/vw-in-china-kuendigt-neue-buendnisse-an-um-marktanteil-zu-erhoehen-19060349.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Hoffnungsträger für China: Die neue Elektrolimousine ID.7"
     },
     {
       "title": "Strategie verabschiedet : So soll Deutschlands Wasserstoff-Zukunft aussehen",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/so-soll-deutschlands-wasserstoff-zukunft-aussehen-19060163.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/wasserstoff-strategie-der-bundesregierung-problem-mit-finanzierung-19060163.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Wer bekommt den wertvollen Wasserstoff? Bundeswirtschaftsminister Robert Habeck, flankiert von Bettina Stark-Watzinger und Volker Wissing bei der Vorstellung der Strategie am Mittwoch in Berlin"
     },
     {
       "title": "Elektroautos : Porsche sucht Investoren für neue Zellfabriken",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/porsche-sucht-investoren-fuer-neue-zellfabriken-19059980.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/elektroautos-porsche-sucht-investoren-fuer-neue-zellfabrik-19059980.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Produktion des Elektromodells Porsche Taycan"
-    },
-    {
-      "title": "Joe Lewis : Tottenham-Eigentümer wegen Insiderhandels angeklagt",
-      "url": "https://www.faz.net/aktuell/wirtschaft/joe-lewis-tottenham-eigentuemer-wegen-insiderhandels-angeklagt-19059813.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Joe Lewis (links)"
     },
     {
       "title": "Digitale Verwaltung : Warum Österreich die CO₂-Steuer erstattet, Deutschland aber nicht",
@@ -508,6 +519,12 @@
       "image_title": "Oft erstaunlich günstig: TGV in Frankreich."
     },
     {
+      "title": "Klimaschutz und Geldpolitik : Das Ringen um die grüne Notenbank",
+      "url": "https://www.faz.net/aktuell/finanzen/das-ringen-um-die-gruene-notenbank-19060090.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Zentrale in Frankfurt: Wie grün will die EZB künftig sein?"
+    },
+    {
       "title": "Immobilien : Bausparen für die Wärmepumpe",
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/sparen-und-geld-anlegen/zinsen-bausparen-fuer-die-waermepumpe-19050378.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -515,45 +532,39 @@
     },
     {
       "title": "Aktienmärkte Europa : Kursverluste und Zurückhaltung vor Zinsentscheid",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/aktien-europa-verluste-lvmh-belasten-luxusguetersektor-19059950.html",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/aktien-verluste-in-europa-lvmh-belastet-luxusgueter-sektor-19059950.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Symbolisch ständig im Widerstreit: Bulle und Bär vor der Frankfurter Börse"
     },
     {
       "title": "Der Steuertipp : Krypto-Anleger, aufgepasst!",
-      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/steuern-sparen/steuern-bei-bitcoin-ethereum-und-co-krypto-anleger-aufgepasst-19049371.html",
+      "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/steuern-sparen/ethereum-und-bitcoin-steuer-tipps-fuer-krypto-anleger-19049371.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Bitcoin-Symbol an einem Krypto-Shop: Wer Krypto-Anlagen hat, sollte auch Steuerliches beachten."
     },
     {
-      "title": "Mangelndes Finanzwissen : Was ein Banker Schülern alles über Geld erzählt",
-      "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/was-ist-inflation-banker-lehrt-schuelern-den-umgang-mit-geld-19056171.html",
+      "title": "Kunstausstellung Paco Knöller : Reiß den Himmel auf für diese Kunst",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung-des-malers-paco-knoeller-in-liechtenstein-19057602.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ben Alka erläutert Zwölftklässlern Grundregeln der Geldanlage."
+      "image_title": "Paco Knöllers 1986 enstandenes Bild „Monolog 2“"
+    },
+    {
+      "title": "Bayreuther Festspiele : Treibgut des Unterbewussten",
+      "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/bayreuth-festspiele-richard-wagners-parsifal-mit-ar-brillen-19060276.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Nicht dämonisch, sondern empathisch und tragisch: Elīna Garanča als Kundry."
     },
     {
       "title": "Frankreichs Medienmogule : Radikalisierung ist das Programm",
-      "url": "https://www.faz.net/aktuell/feuilleton/medien/neues-gesetz-soll-frankreichs-medienmogule-treffen-19057933.html",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/frankreich-neues-gesetz-soll-medienmogule-treffen-19057933.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "„En grève“: Die Journalisten des „Journal du Dimanche“ (JDD) sind im Streik. Doch jetzt soll der neue Chefredakteur kommen."
     },
     {
       "title": "Astrup Fearnley Museum feiert 30. : Wie zur Hölle kamen wir hierher?",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/einhoerner-und-die-frage-wie-wir-wurden-was-wir-sind-das-astrup-fearnley-museum-in-oslo-wird-30-19058018.html",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/oslo-das-museum-fuer-moderne-kunst-astrup-fearnley-wird-30-19058018.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Verstörend und verzaubernd: Als Børre Sæthre 2001 den Einhorn-Traumraum „My Private Sky“ ersann, war seine Welt noch voller Träume."
-    },
-    {
-      "title": "Muslimisch-jüdische Kolumne : Werden die Menschen in Deutschland auf die Straße gehen?",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/muslimisch-juedisches-abendbrot/saba-nur-cheema-und-meron-mendel-ueber-den-aufstieg-der-afd-19058070.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "AfD im Aufwind: Wie geht es den Migranten damit?"
-    },
-    {
-      "title": "Mick Jagger wird 80 : Es ist der Sänger, nicht der Song",
-      "url": "https://www.faz.net/aktuell/feuilleton/pop/rolling-stones-saenger-mick-jagger-wird-80-jahre-alt-19057836.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mick Jagger bei einem Konzert im Hyde Park im Juni 2022."
     },
     {
       "title": "Polnische Wissenschaft : Druck von oben?",
@@ -623,9 +634,15 @@
     },
     {
       "title": "Bewerbung für die Spiele 2036 : Qatars ehrgeiziges Olympia-Projekt",
-      "url": "https://www.faz.net/aktuell/sport/sportpolitik/qatar-kuendigt-bewerbung-fuer-olympia-2036-an-19057978.html",
+      "url": "https://www.faz.net/aktuell/sport/sportpolitik/qatar-das-emirat-kuendigt-bewerbung-fuer-olympia-2036-an-19057978.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Fußball-WM war schon da, kommt jetzt auch Olympia?"
+    },
+    {
+      "title": "Fußball-Transferticker : Union Berlin verpflichtet nächsten Hertha-Profi",
+      "url": "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-alexander-schwolow-wechselt-zu-union-faz-18134600.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Alexander Schwolow wechselt in den Osten der Hauptstadt."
     },
     {
       "title": "Schwimm-WM in Japan : Märtens verpasst trotz Rekord zweite Medaille",
@@ -640,19 +657,13 @@
       "image_title": "Nicht die beste Beziehung: „Er ist mein Vater“, sagt Rodman."
     },
     {
-      "title": "Früher Pelé, heute Messi : Der amerikanische Fußball-Traum",
-      "url": "https://www.faz.net/aktuell/sport/fussball/von-pele-zu-messi-wie-amerika-von-der-grossen-fussball-show-traeumt-19049245.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Abschied einer Fußball-Legende: Franz Beckenbauer (re.) und der Italiener Giorgio Chinaglia (li.) umarmen Pelé bei dessen letztem Spiel für Cosmos im Oktober 1977."
-    },
-    {
       "title": "Unglück in Weyarn : Ursache für Tod von Kanalarbeitern weiter unklar",
       "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/ursache-fuer-tod-von-kanalarbeitern-in-weyarn-weiter-unklar-19060627.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Nach dem Unglück in Weyarn am Dienstag steht ein Krankenwagen in der Einfahrt eines Unternehmens."
     },
     {
-      "title": "Waldbrände in Südeuropa : Drei Todesopfer rund um Palermo auf Sizilien",
+      "title": "Waldbrände in Südeuropa : Vier Todesopfer rund um Palermo auf Sizilien",
       "url": "https://www.faz.net/aktuell/gesellschaft/tote-bei-waldbraenden-in-italien-19059616.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Flammen rücken näher: In Capaci, Sizilien, beobachten Einwohner ein Feuer unweit ihrer Häuser."
@@ -664,15 +675,9 @@
     },
     {
       "title": "Nur nicht im Restaurant : Kristen Bell lässt ihre Kinder alkoholfreies Bier trinken",
-      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/kristen-bell-laesst-ihre-kinder-alkoholfreies-bier-trinken-19060332.html",
+      "url": "https://www.faz.net/aktuell/gesellschaft/smalltalk/kristen-bell-und-dax-shepard-lassen-ihre-kinder-alkoholfreies-bier-trinken-19060332.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Kristen Bell und Dax Shepard beim South by Southwest Festival im texanischen Austin im März"
-    },
-    {
-      "title": "Die Single-Kolumne : Wir lebten im Wissen, dass wir im echten Leben keine Chance hätten",
-      "url": "https://www.faz.net/aktuell/stil/leib-seele/kolumnen/flirt-im-urlaub-wie-es-ist-jemanden-aus-einer-anderen-bubble-zu-daten-19057027.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Autorin, Regisseurin und bildende Künstlerin: Jovana Reisinger schreibt die Single-Kolumne auf FAZ.NET."
     },
     {
       "title": "Umfrage zu Reiseverhalten : Urlaubsziel nur für Social Media ausgewählt?",
@@ -685,6 +690,12 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/alice-cooper-im-interview-ueber-rammstein-und-rock-19049285.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Mit 75 Jahren warnt Alice Cooper vor dem Rockbusiness: Wer so lange dabeibleiben will wie er, muss die Kontrolle bewahren."
+    },
+    {
+      "title": "Film von Greta Gerwig : Ist der Barbie-Film zu woke?",
+      "url": "https://www.faz.net/aktuell/feuilleton/kino/trailer-barbie-19028039.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Debatte um Barbie-Film: Margot Robbie (von links nach rechts), Alexandra Shipp, Michael Cera, Ariana Greenblatt und America Ferrera retten das Barbieland."
     },
     {
       "title": "F.A.Z. Podcast für Deutschland : In Deutsch eine 5: Wie der „Türkenjunge Cem“ Minister wurde",
@@ -734,6 +745,12 @@
       "image_title": "Provisorisches Lager: Streikende LKW-Fahrer sitzen an der Raststätte Gräfenhausen zusammen."
     },
     {
+      "title": "Hania Rani : Verführerische Mixtur von Neoklassik bis House",
+      "url": "https://www.faz.net/aktuell/rhein-main/kultur/hania-rani-im-frankfurter-palmengarten-konzert-gibt-19060467.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Multistilistin: Hania Rani."
+    },
+    {
       "title": "Standards für Gesundheitsämter : Neue Leitlinien als Lehre aus der Pandemie",
       "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/standards-fuer-gesundheitsaemter-neue-leitlinien-als-lehre-aus-corona-19058421.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -741,15 +758,9 @@
     },
     {
       "title": "Skyline-Blick : Wiesbaden stellt das Gendern frei +++ 500.000 Euro Beute bei Trickbetrug",
-      "url": "https://www.faz.net/aktuell/rhein-main/rhein-main-ticker-mann-in-buseck-um-500-000-euro-betrogen-18339628.html",
+      "url": "https://www.faz.net/aktuell/rhein-main/rhein-main-ticker-mann-in-buseck-nahe-giessen-um-500-000-euro-betrogen-faz-18339628.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Hilfe für die Böden: Ein Regen reicht aber noch lange nicht aus."
-    },
-    {
-      "title": "Wohl wegen Mücke an Bord : Mitarbeiter am Frankfurter Flughafen mit Malaria infiziert",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/flughafen-frankfurt-malaria-infektion-durch-eingeschleppte-muecke-19060445.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Passagiermaschine startet am Frankfurter Flughafen."
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Bachelor-Studiengang: Wirtschaftspsychologie",
@@ -812,15 +823,15 @@
       "image_title": "Noch nicht im Serienkleid: Prototyp des neuen Audi Q6 bei einer Testfahrt auf den Färöer Inseln"
     },
     {
+      "title": "Der F.A.Z.-Autoticker : Fahrtenschreiber",
+      "url": "https://www.faz.net/aktuell/technik-motor/auto-liveticker-gebrauchtwagen-werden-wieder-guenstiger-faz-18137164.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
       "title": "Instax SQ40 ausprobiert : Quadratur des Sofortbilds",
       "url": "https://www.faz.net/aktuell/technik-motor/technik/sofortbildkamera-instax-sq40-ausprobiert-19053503.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Analog: Kameras mit Sofortbild wie die Instax SQ40 sind beliebt in der Selfie-Generation."
-    },
-    {
-      "title": "Probefahrt Mercedes E-Klasse : Endlich mit Selfie-Kamera",
-      "url": "https://www.faz.net/aktuell/technik-motor/motor/mercedes-e-klasse-sechs-motorvarianten-gibt-es-19053457.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Staubsauger Roboter im Test : Mühelos sauber machen",
@@ -871,6 +882,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Cyanobakterien : Blaualgen auf Reisen",
+      "url": "https://www.faz.net/aktuell/wissen/leben-gene/blaualgen-auf-reisen-wie-haben-cyanobakterien-die-weltmeere-erobert-19056422.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Aufgrund von Blaualgenteppichen wird an Baggerseen häufig ein Badeverbot verhängt."
+    },
+    {
       "title": "Rekordtemperaturen im Ozean : Was ist in den Weltmeeren los?",
       "url": "https://www.faz.net/aktuell/wissen/rekordtemperaturen-im-ozean-was-ist-in-den-weltmeeren-los-18937099.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -883,18 +900,6 @@
       "image_title": "Trümmer eines eingestürzten Hotels in der Altstadt von Antakya nach dem schweren Erdbeben im Osten der Türkei im Februar dieses Jahres.."
     },
     {
-      "title": "Hospize und Palliativstationen : Würdevolles Sterben fern von zu Hause?",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/ist-in-hospizen-und-palliativstationen-ein-wuerdevolles-sterben-moeglich-19051244.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Es liegt in den Händen des Personals in Hospizen, Krankenhäusern oder Altersheimen, den Bewohnern ein würdevolles Sterben zu ermöglichen."
-    },
-    {
-      "title": "Land unter : Klimakrise frisst Häuserwerte",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/haus/eigenheim-besitzer-drohen-schaeden-durch-klimakrise-fluten-und-braende-19049335.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Umflutet: Wenn der Bungalow wie beim Jahrhunderthochwasser in Niederbayern 2013 unter Wasser steht, wird es teuer."
-    },
-    {
       "title": "Pläne der EU : Zankapfel chemisches Recycling",
       "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/chemisches-recycling-ohne-die-richtigen-vorgaben-bauen-die-unternehmen-nicht-19053612.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -902,9 +907,15 @@
     },
     {
       "title": "Klima- & Transformationsfonds : Trickkiste mit 200 Milliarden Euro",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/ktf-trickkiste-mit-200-milliarden-19058320.html",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/klima-und-transformationsfonds-ausgabenplan-bis-2027-so-gut-wie-fertig-19058320.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Windräder bauen, Häuser sanieren, der Industrie helfen: Die Regierung hat mit dem Fonds viel vor."
+    },
+    {
+      "title": "Biokraftstoffe aus Italien : Weiterkommen mit Pflanzenöl und Frittenfett",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/der-italienische-energiekonzern-eni-setzt-auf-den-biokraftstoff-hvo-19028816.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Eine Landarbeiterin in Kenia prüft ölreiche Leindotter-Pflanzen."
     },
     {
       "title": "Frauenbadi in Zürich : Oben ohne, ganz entspannt",
@@ -1004,6 +1015,12 @@
       "image_title": "Rudolf Zwirner in seinem Haus in Berlin"
     },
     {
+      "title": "Land unter : Klimakrise frisst Häuserwerte",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/haus/eigenheim-besitzer-drohen-schaeden-durch-klimakrise-fluten-und-braende-19049335.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Umflutet: Wenn der Bungalow wie beim Jahrhunderthochwasser in Niederbayern 2013 unter Wasser steht, wird es teuer."
+    },
+    {
       "title": "Angespannter Markt : Mieten in Metropolen steigen rasant",
       "url": "https://www.faz.net/aktuell/wirtschaft/mieten-in-metropolen-steigen-rasant-angespannte-lage-19056982.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -1014,12 +1031,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/grundsteuer-mal-sehen-wer-sich-an-das-versprechen-haelt-19053486.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Welche Stadt verhält sich wie? Einfamilienhäuser in Erfurt"
-    },
-    {
-      "title": "Harter Brocken für die Städte : Diese Bunker sind echte Verwandlungskünstler",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/bauen/weltkrieg-in-hamburg-was-aus-alten-bunkern-werden-kann-19033756.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Pyramide mal fünf: Der mehrstöckige Aufbau an der Hamburger Feldstraße soll komplett begrünt werden."
     },
     {
       "title": "Kostenlose Immobilienbewertung : Wir wissen, dass wahrer Luxus ein schönes Zuhause ist.",
