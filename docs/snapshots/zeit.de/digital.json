@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-26T11:09:57",
+  "timestamp": "2023-07-26T12:22:33",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Galaxy Unpacked: Samsung stellt neue Falt-Handys vor",
+      "teaser": "Samsung setzt weiter große Hoffnungen in faltbare Smartphones. Die größte Neuerung bei den neuen Flip- und Fold-Modellen fällt aber eher klein aus.",
+      "url": "https://www.zeit.de/digital/mobil/2023-07/galaxy-unpacked-samsung-galaxy-z-flip-5-fold-5",
+      "image_url": "https://img.zeit.de/digital/mobil/2023-07/galaxy-unpacked-samsung-galaxy-z-flip-5-fold-5-bild/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); X: Ein klassischer Elon-Musk-Move",
       "teaser": "Twitter heißt jetzt X. Damit verzichtet Elon Musk auf eine der bekanntesten Marken der Welt. Warum tut er das? Er hofft auf einen Effekt wie bei den WeightWatchers.",
       "url": "https://www.zeit.de/2023/32/x-twitter-elon-musk-umbenennung-social-media",
-      "image_url": "https://img.zeit.de/2023/32/x-twitter-elon/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/32/x-twitter-elon/wide__822x462",
+      "image_title": "X: Ein klassischer Elon-Musk-Move"
     },
     {
       "title": "Martin Grasser: \"Der Vogel erinnert uns an eine großartige Version des Internets\"",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/digital/2023-07/martin-grasser-twitter-x-logo-blauer-vogel",
       "image_url": "https://img.zeit.de/2023-07/martin-grasser-interview-bild-2/wide__822x462",
       "image_title": "Martin Grasser: \"Der Vogel erinnert uns an eine großartige Version des Internets\""
-    },
-    {
-      "title": "Worldcoin: Krypto trifft Grundeinkommen",
-      "teaser": "Mit der Kryptowährung Worldcoin sollen Menschen beweisen können, dass sie keine KI sind. Sie bekommen dafür sogar Geld geschenkt. Müssen aber ihre Iris scannen lassen.",
-      "url": "https://www.zeit.de/digital/internet/2023-07/worldcoin-openai-sam-altman-iris-scan",
-      "image_url": "https://img.zeit.de/digital/2023-07/worldcoin-openai-sam-altman-iris-scan-bild/wide__822x462",
-      "image_title": "Worldcoin: Krypto trifft Grundeinkommen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sam Altman : \"Irgendwann werden wir ein Modell erschaffen, das gefährlich ist\"",
@@ -96,10 +96,10 @@
       "image_title": "Stack Overflow: Da könnte ja jeder coden"
     },
     {
-      "title": "Twitter: Elon Musk will berühmtes Vogel-Logo aufgeben",
-      "url": "https://www.zeit.de/digital/2023-07/twitter-logo-aenderung-elon-musk",
-      "image_url": "https://img.zeit.de/digital/2023-07/twitter-logo-aenderung-elon-musk-bild/wide__822x462",
-      "image_title": "Twitter: Elon Musk will berühmtes Vogel-Logo aufgeben"
+      "title": "Twitter: Der Satz mit X",
+      "url": "https://www.zeit.de/digital/internet/2023-07/elon-musk-twitter-vogel-logo-marke-x",
+      "image_url": "https://img.zeit.de/digital/internet/2023-07/twitter-x-logo/wide__822x462",
+      "image_title": "Twitter: Der Satz mit X"
     },
     {
       "title": "Remini auf TikTok: Was kann die App, die Fotoshootings abschaffen soll?",
@@ -110,12 +110,12 @@
       "url": "https://www.zeit.de/digital/datenschutz/2023-07/vpn-streaming-privatsphaere-vorteile-nachteile-faq"
     },
     {
-      "title": "Twitter: Der Satz mit X",
-      "url": "https://www.zeit.de/digital/internet/2023-07/elon-musk-twitter-vogel-logo-marke-x"
+      "title": "Twitter: Elon Musk will berühmtes Vogel-Logo aufgeben",
+      "url": "https://www.zeit.de/digital/2023-07/twitter-logo-aenderung-elon-musk"
     },
     {
-      "title": "Streamingdienst: Netflix gewinnt durch Maßnahmen gegen Passwort-Teilen neue Abonnenten",
-      "url": "https://www.zeit.de/digital/2023-07/netflix-account-teilen-massnahmen-nutzer-umsatz"
+      "title": "Martin Grasser: \"Der Vogel erinnert uns an eine großartige Version des Internets\"",
+      "url": "https://www.zeit.de/digital/2023-07/martin-grasser-twitter-x-logo-blauer-vogel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Threads : Der Gorilla hat den Raum betreten",
@@ -134,8 +134,8 @@
       "url": "https://www.zeit.de/digital/mobil/2023-07/remini-tiktok-ki-app-bewerbungsfotos-sexismus"
     },
     {
-      "title": "Streamingdienst: Netflix gewinnt durch Maßnahmen gegen Passwort-Teilen neue Abonnenten",
-      "url": "https://www.zeit.de/digital/2023-07/netflix-account-teilen-massnahmen-nutzer-umsatz"
+      "title": "Martin Grasser: \"Der Vogel erinnert uns an eine großartige Version des Internets\"",
+      "url": "https://www.zeit.de/digital/2023-07/martin-grasser-twitter-x-logo-blauer-vogel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stack Overflow: Da könnte ja jeder coden",
@@ -150,16 +150,23 @@
       "url": "https://www.zeit.de/digital/2023-07/threads-meta-twitter-konkurrent-social-media"
     },
     {
-      "title": "Twitter: Elon Musk will berühmtes Vogel-Logo aufgeben",
-      "url": "https://www.zeit.de/digital/2023-07/twitter-logo-aenderung-elon-musk"
-    },
-    {
       "title": "Twitter: Der Satz mit X",
       "url": "https://www.zeit.de/digital/internet/2023-07/elon-musk-twitter-vogel-logo-marke-x"
     },
     {
+      "title": "Twitter: Elon Musk will berühmtes Vogel-Logo aufgeben",
+      "url": "https://www.zeit.de/digital/2023-07/twitter-logo-aenderung-elon-musk"
+    },
+    {
       "title": "Remini auf TikTok: Was kann die App, die Fotoshootings abschaffen soll?",
       "url": "https://www.zeit.de/digital/mobil/2023-07/remini-tiktok-ki-app-bewerbungsfotos-sexismus"
+    },
+    {
+      "title": "Worldcoin: Krypto trifft Grundeinkommen",
+      "teaser": "Mit der Kryptowährung Worldcoin sollen Menschen beweisen können, dass sie keine KI sind. Sie bekommen dafür sogar Geld geschenkt. Müssen aber ihre Iris scannen lassen.",
+      "url": "https://www.zeit.de/digital/internet/2023-07/worldcoin-openai-sam-altman-iris-scan",
+      "image_url": "https://img.zeit.de/digital/2023-07/worldcoin-openai-sam-altman-iris-scan-bild/wide__822x462",
+      "image_title": "Worldcoin: Krypto trifft Grundeinkommen"
     },
     {
       "title": "OpenAI: OpenAI-Gründer Sam Altman startet Digitalwährung Worldcoin",
@@ -174,13 +181,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-07/elon-musk-twitter-vogel-logo-marke-x",
       "image_url": "https://img.zeit.de/digital/internet/2023-07/twitter-x-logo/wide__822x462",
       "image_title": "Twitter: Der Satz mit X"
-    },
-    {
-      "title": "Schufa: Bonify-App ist nach Sicherheitslücke vorübergehend offline",
-      "teaser": "Wie sicher ist die neue App der Schufa? Eine Hackerin behauptet, den Bonitätsscore von CDU-Politiker Jens Spahn erhalten zu haben. Der App-Betreiber beschwichtigt.",
-      "url": "https://www.zeit.de/digital/2023-07/schufa-bonify-app-sicherheitsluecke-datenschutz",
-      "image_url": "https://img.zeit.de/digital/2023-07/schufa-app-bonify-sicherheitsluecke-offline-bild/wide__822x462",
-      "image_title": "Schufa: Bonify-App ist nach Sicherheitslücke vorübergehend offline"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Künstliche Intelligenz: Kinderleicht. Aber nicht für KI",
@@ -211,6 +211,13 @@
       "image_title": "TikTok : Ein Sog von Schminktipps und Suizidgedanken"
     },
     {
+      "title": "Schufa: Bonify-App ist nach Sicherheitslücke vorübergehend offline",
+      "teaser": "Wie sicher ist die neue App der Schufa? Eine Hackerin behauptet, den Bonitätsscore von CDU-Politiker Jens Spahn erhalten zu haben. Der App-Betreiber beschwichtigt.",
+      "url": "https://www.zeit.de/digital/2023-07/schufa-bonify-app-sicherheitsluecke-datenschutz",
+      "image_url": "https://img.zeit.de/digital/2023-07/schufa-app-bonify-sicherheitsluecke-offline-bild/wide__822x462",
+      "image_title": "Schufa: Bonify-App ist nach Sicherheitslücke vorübergehend offline"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); ROG Ally von Asus: Ein Ding der Liebe",
       "teaser": "Stark wie ein Computer, mobil wie ein Game Boy: Mit dem Asus ROG Ally soll PC-Gaming auch unterwegs möglich sein. Wie toll – wären da nicht die Probleme mit Windows.",
       "url": "https://www.zeit.de/digital/2023-07/rog-ally-asus-gaming-handheld-test",
@@ -225,13 +232,6 @@
       "image_title": "Twitter: Elon Musk will berühmtes Vogel-Logo aufgeben"
     },
     {
-      "title": "Kaspersky: Vertrauen ist gut, aber Kontrolle hilft auch nicht immer",
-      "teaser": "Die Antivirensoftware von Kaspersky ist weit verbreitet. Aber ist das russische Softwareunternehmen vertrauenswürdig? Von der Schwierigkeit, das zu beweisen.",
-      "url": "https://www.zeit.de/digital/datenschutz/2023-07/kaspersky-antivirensoftware-russland-sicherheitsfirma-datenschutz",
-      "image_url": "https://img.zeit.de/digital/datenschutz/2023-07/kaspersky-antivirensoftware-russland-sicherheitsfirma-datenschutz-bild-2/wide__822x462",
-      "image_title": "Kaspersky: Vertrauen ist gut, aber Kontrolle hilft auch nicht immer"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -239,11 +239,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Glasfaserkabel im Ozean: Der unbemerkte Wirtschaftskrieg auf dem Meeresgrund",
-      "teaser": "Quasi das ganze Internet läuft durch riesige Kabel auf dem Meeresgrund. Nun aber streiten sich die USA und China. Am Ende könnte es ein Ost- und ein West-Internet geben.",
-      "url": "https://www.zeit.de/2023/31/glasfaserkabel-ozean-internet-usa-china",
-      "image_url": "https://img.zeit.de/2023/31/glasfaserkabel-ozean-internet-usa-china-bild/wide__822x462",
-      "image_title": "Glasfaserkabel im Ozean: Der unbemerkte Wirtschaftskrieg auf dem Meeresgrund"
+      "title": "Kaspersky: Vertrauen ist gut, aber Kontrolle hilft auch nicht immer",
+      "teaser": "Die Antivirensoftware von Kaspersky ist weit verbreitet. Aber ist das russische Softwareunternehmen vertrauenswürdig? Von der Schwierigkeit, das zu beweisen.",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-07/kaspersky-antivirensoftware-russland-sicherheitsfirma-datenschutz",
+      "image_url": "https://img.zeit.de/digital/datenschutz/2023-07/kaspersky-antivirensoftware-russland-sicherheitsfirma-datenschutz-bild-2/wide__822x462",
+      "image_title": "Kaspersky: Vertrauen ist gut, aber Kontrolle hilft auch nicht immer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Diablo IV\": Jetzt wieder düster, ganz ehrlich!",

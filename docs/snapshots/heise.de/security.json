@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-26T11:09:12",
+  "timestamp": "2023-07-26T12:21:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.0e63bee735261a5879cd",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.e0adeb9fe4212f00a949",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Lenovo Hyperscale",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Sicherheitsluecken-bedrohen-Hyperscale-Systeme-von-Lenovo-9227295.html"
+    },
     {
       "title": "Mikrotik-Router",
       "url": "https://www.heise.de/news/Jetzt-patchen-Root-Sicherheitsluecke-bedroht-Mikrotik-Router-9226696.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Luecken-gestopft-Apple-bringt-iOS-16-6-macOS-13-5-watchOS-9-6-und-tvOS-16-6-9225677.html"
     },
     {
-      "title": "Ivanti MobileIron",
-      "url": "https://www.heise.de/news/Ivanti-schliesst-Zero-Day-Luecke-in-MobileIron-9225583.html"
+      "title": "Sicherheitsupdates: Sicherheitslücken bedrohen Hyperscale-Systeme von Lenovo",
+      "teaser": "Angreifer könnten zwei Sicherheitslücken in Hyperscale-Systemen von Lenovo ausnutzen und Schadcode ausführen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Sicherheitsluecken-bedrohen-Hyperscale-Systeme-von-Lenovo-9227295.html"
     },
     {
       "title": "Jetzt patchen! Root-Sicherheitslücke bedroht Mikrotik-Router",
@@ -151,11 +156,6 @@
       "title": "OpenSSH 9.3p2 dichtet hochriskantes Sicherheitsleck ab",
       "teaser": "Die OpenSSH-Entwickler haben Version 9.3p2 veröffentlicht. Sie schließt eine Sicherheitslücke, die als hochriskant gilt.",
       "url": "https://www.heise.de/news/OpenSSH-9-3p2-dichtet-hochriskantes-Sicherheitsleck-ab-9222861.html"
-    },
-    {
-      "title": "Citrix-Zero-Days: Angriffsspuren auf Netscaler ADC und Gateway aufspüren",
-      "teaser": "Vor der Verfügbarkeit von Updates wurden CItrix-Lücken bereits in freier Wildbahn angegriffen. Daher ist eine Überprüfung auf Angriffsspuren sinnvoll.",
-      "url": "https://www.heise.de/news/Citrix-Zero-Days-Systeme-auf-Angriffspuren-untersuchen-9221655.html"
     },
     {
       "title": "heise Security Tour 2023",
