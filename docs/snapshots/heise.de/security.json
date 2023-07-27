@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-27T06:14:30",
+  "timestamp": "2023-07-27T07:10:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Aruba Access Points",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Access-Points-von-Aruba-uebernehmen-9227914.html"
+    },
+    {
       "title": "Lenovo Hyperscale",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Sicherheitsluecken-bedrohen-Hyperscale-Systeme-von-Lenovo-9227295.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Weltweit-ueber-15-000-Citrix-Server-angreifbar-9225769.html"
     },
     {
-      "title": "iOS, macOS, tvOS, watchOS",
-      "url": "https://www.heise.de/news/Luecken-gestopft-Apple-bringt-iOS-16-6-macOS-13-5-watchOS-9-6-und-tvOS-16-6-9225677.html"
+      "title": "Sicherheitsupdates: Angreifer können Access Points von Aruba übernehmen",
+      "teaser": "Wenn die Netzwerkbetriebssysteme ArubaOS 10 oder InstantOS zum Einsatz kommen, sind Access Points von Aruba verwundbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Access-Points-von-Aruba-uebernehmen-9227914.html"
     },
     {
       "title": "Sicherheitsupdates: Sicherheitslücken bedrohen Hyperscale-Systeme von Lenovo",
@@ -151,11 +156,6 @@
       "title": "Große Sprachmodelle: BSI warnt vor manipulierenden Prompts",
       "teaser": "Angriffe durch Indirect Prompt Injections bei KI-Sprachmodellen sind dem Bundesamt für Sicherheit in der Informationstechnik zufolge schwer zu verhindern.",
       "url": "https://www.heise.de/news/BSI-warnt-vor-Prompt-Injections-bei-generativen-Sprachmodellen-9222807.html"
-    },
-    {
-      "title": "OpenSSH 9.3p2 dichtet hochriskantes Sicherheitsleck ab",
-      "teaser": "Die OpenSSH-Entwickler haben Version 9.3p2 veröffentlicht. Sie schließt eine Sicherheitslücke, die als hochriskant gilt.",
-      "url": "https://www.heise.de/news/OpenSSH-9-3p2-dichtet-hochriskantes-Sicherheitsleck-ab-9222861.html"
     },
     {
       "title": "heise Security Tour 2023",
