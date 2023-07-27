@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-27T13:13:50",
+  "timestamp": "2023-07-27T14:10:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.e0adeb9fe4212f00a949",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2095abe1b47974c1eca0",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Sophos UTM",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Sicherheitsloesung-Sophos-UTM-attackieren-9228570.html"
+    },
     {
       "title": "Aruba Access Points",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Access-Points-von-Aruba-uebernehmen-9227914.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Root-Sicherheitsluecke-bedroht-Mikrotik-Router-9226696.html"
     },
     {
-      "title": "Citrix Gateway, Netscaler ADC",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Weltweit-ueber-15-000-Citrix-Server-angreifbar-9225769.html"
+      "title": "Sicherheitsupdate: Angreifer können Sicherheitslösung Sophos UTM attackieren",
+      "teaser": "Sophos Unified Threat Management ist verwundbar. Aktuelle Software schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Sicherheitsloesung-Sophos-UTM-attackieren-9228570.html"
     },
     {
       "title": "Sicherheitsupdates: Sicherheitslücken bedrohen Hyperscale-Systeme von Lenovo",
@@ -151,12 +156,6 @@
       "teaser": "Hackerin Lilith Wittmann will aus der Schufa-App Bonify Kreditwürdigkeits-Infos zu Ex-Minister Spahn erhalten haben. Der Betreiber dementiert eine echte Lücke.",
       "url": "https://www.heise.de/news/Schufa-App-Bonify-Sicherheitsleck-gibt-kurzzeitig-beliebige-Daten-preis-9224215.html",
       "image_title": "Schufa-Schriftzug auf Gebäude"
-    },
-    {
-      "title": "Microsoft reagiert auf Online-Exchange-Fiasko: Mehr Logs für alle",
-      "teaser": "Bislang konnten M365-Kunden nur auf eingeschränkte Logging-Daten zugreifen; umfangreiche Protokolldaten etwa zu Zugriffen auf die Postfächer kosteten extra.",
-      "url": "https://www.heise.de/news/Microsoft-reagiert-auf-Online-Exchange-Fiasko-Mehr-Logs-fuer-alle-9222889.html",
-      "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
     },
     {
       "title": "heise Security Tour 2023",
