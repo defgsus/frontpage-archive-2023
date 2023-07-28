@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-28T11:09:03",
+  "timestamp": "2023-07-28T12:21:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.d30830dec258e55775a1",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.8d6bbb6f5f2716ab5e4a",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "Qnap",
+      "url": "https://www.heise.de/news/Angreifer-koennen-NAS-und-IP-Videoueberwachungssysteme-von-Qnap-lahmlegen-9229575.html"
+    },
     {
       "title": "ZImbra",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-E-Mail-Loesung-Zimbra-9228982.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Access-Points-von-Aruba-uebernehmen-9227914.html"
     },
     {
-      "title": "Lenovo Hyperscale",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Sicherheitsluecken-bedrohen-Hyperscale-Systeme-von-Lenovo-9227295.html"
+      "title": "Angreifer können NAS- und IP-Videoüberwachungssysteme von Qnap lahmlegen",
+      "teaser": "Mehrere Netzwerkprodukte von Qnap sind für eine DoS-Attacken anfällig. Dagegen abgesicherte Software schafft Abhilfe.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-NAS-und-IP-Videoueberwachungssysteme-von-Qnap-lahmlegen-9229575.html"
     },
     {
       "title": "Angreifer erbeuten 32 Millionen US-Dollar von Kryptowährungsplattform Coinspaid",
@@ -68,6 +73,11 @@
       "title": "Sicherheitsupdate: Angreifer können Sicherheitslösung Sophos UTM attackieren",
       "teaser": "Sophos Unified Threat Management ist verwundbar. Aktuelle Software schafft Abhilfe.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Sicherheitsloesung-Sophos-UTM-attackieren-9228570.html"
+    },
+    {
+      "title": "Sicherheitsupdates: Angreifer können Access Points von Aruba übernehmen",
+      "teaser": "Wenn die Netzwerkbetriebssysteme ArubaOS 10 oder InstantOS zum Einsatz kommen, sind Access Points von Aruba verwundbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Access-Points-von-Aruba-uebernehmen-9227914.html"
     },
     {
       "title": "Sicherheitsupdates: Sicherheitslücken bedrohen Hyperscale-Systeme von Lenovo",
@@ -145,17 +155,6 @@
       "teaser": "Ein gestohlener Schlüssel funktionierte möglicherweise nicht nur bei Exchange Online, sondern war eine Art Masterkey für große Teile der Microsoft-Cloud.",
       "url": "https://www.heise.de/news/Neue-Erkenntnisse-Microsofts-Cloud-Luecken-viel-groesser-als-angenommen-9224640.html",
       "image_title": "Blitz während eines Unwetters"
-    },
-    {
-      "title": "heise devSec: Eröffnungs-Keynote behandelt die Auswirkungen von KI auf Security",
-      "teaser": "Auf der Konferenz zu sicherer Softwareentwicklung betrachtet David Fuhr neue Bedrohungen und Angriffsvektoren durch KI sowie geeignete Gegenmaßnahmen.",
-      "url": "https://www.heise.de/news/heise-devSec-Eroeffnungs-Keynote-behandelt-die-Auswirkungen-von-KI-auf-Security-9224445.html"
-    },
-    {
-      "title": "iX-Workshop: Effiziente IT-Sicherheit für kleine und mittlere Unternehmen",
-      "teaser": "Erhalten Sie einen Überblick über Methoden und Best Practices für eine effiziente Cybersicherheitsstrategie. 10% Rabatt bis 7. August",
-      "url": "https://www.heise.de/news/iX-Workshop-Effiziente-IT-Sicherheit-fuer-kleine-und-mittlere-Unternehmen-9207644.html",
-      "image_title": "iX-Workshop: IT-Sicherheit für KMU"
     },
     {
       "title": "heise Security Tour 2023",
