@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-28T12:22:06",
+  "timestamp": "2023-07-28T13:15:03",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Waldbrände: Wo es in Europa besonders heftig brennt und gebrannt hat",
+      "teaser": "Auf Rhodos sind die meisten Feuer gelöscht, auch in Sizilien entspannt sich die Lage: Unsere Karte zeigt die schlimmsten Waldbrände der vergangenen Woche.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/waldbraende-europa-rhodos-sizilien",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/waldbraende-suedeuropa-trockenheit-feuer-klimawandel-bild-2/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Waldbrände: Brennt es wirklich mehr?",
       "teaser": "Flammen auf Rhodos, Rauch in New York: In den Medien sind Waldbrände überall zu sehen. Aber sind sie wirklich häufiger und schlimmer geworden? Eine Datenrecherche",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/waldbraende-suedeuropa-trockenheit-feuer-klimawandel",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/waldbraende-suedeuropa-trockenheit-feuer-klimawandel-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/waldbraende-suedeuropa-trockenheit-feuer-klimawandel-bild/wide__822x462",
+      "image_title": "Waldbrände: Brennt es wirklich mehr?"
     },
     {
       "title": "Nematoden: Fadenwürmer überlebten 46.000 Jahre im Permafrost",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/fadenwuermer-ueberleben-46000-jahre-permafrost-sibirien",
       "image_url": "https://img.zeit.de/wissen/2023-07/fadenwuermer-ueberleben-46000-jahre-permafrost-sibirien-bild/wide__822x462",
       "image_title": "Nematoden: Fadenwürmer überlebten 46.000 Jahre im Permafrost"
-    },
-    {
-      "title": "Tierversuche in der EU: \"Künstliche Intelligenz ist oft schon besser als ein Tierversuch\"",
-      "teaser": "Eine Bürgerinitiative forderte die Abschaffung aller Tierversuche in der EU – und scheiterte. Dabei gäbe es schon heute gute Alternativen, wie ein Toxikologe erklärt.",
-      "url": "https://www.zeit.de/wissen/2023-07/tierversuche-eu-forschung-abschaffung-petition",
-      "image_url": "https://img.zeit.de/wissen/2023-07/tierversuche-eu-forschung-abschaffung/wide__822x462",
-      "image_title": "Tierversuche in der EU: \"Künstliche Intelligenz ist oft schon besser als ein Tierversuch\""
     },
     {
       "title": "AnzeigeTransfer und Innovation",
@@ -83,18 +83,18 @@
       "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/waldbraende-hitzewelle-griechenland-kanada-faq-bild-3/cinema__980x420"
     },
     {
+      "title": "Tierversuche in der EU: \"Künstliche Intelligenz ist oft schon besser als ein Tierversuch\"",
+      "teaser": "Eine Bürgerinitiative forderte die Abschaffung aller Tierversuche in der EU – und scheiterte. Dabei gäbe es schon heute gute Alternativen, wie ein Toxikologe erklärt.",
+      "url": "https://www.zeit.de/wissen/2023-07/tierversuche-eu-forschung-abschaffung-petition",
+      "image_url": "https://img.zeit.de/wissen/2023-07/tierversuche-eu-forschung-abschaffung/wide__822x462",
+      "image_title": "Tierversuche in der EU: \"Künstliche Intelligenz ist oft schon besser als ein Tierversuch\""
+    },
+    {
       "title": "Alpha-Gal-Syndrom: Mehr als 100.000 Amerikaner nach Zeckenbiss allergisch gegen Fleisch",
       "teaser": "Übelkeit, Erbrechen und Schwellungen: Laut einem Bericht reagieren zahlreiche US-Amerikaner mit diesen Symptomen auf Fleisch. Auslöser soll der Speichel einer Zecke sein.",
       "url": "https://www.zeit.de/wissen/2023-07/zeckenbiss-allergie-fleisch-milch-usa",
       "image_url": "https://img.zeit.de/wissen/2023-07/zecken-fleischallergie-foto/wide__822x462",
       "image_title": "Alpha-Gal-Syndrom: Mehr als 100.000 Amerikaner nach Zeckenbiss allergisch gegen Fleisch"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Brand auf Autofrachter: Wie groß ist die Gefahr fürs Wattenmeer?",
-      "teaser": "Der havarierte Frachter \"Fremantle Highway\" brennt, die Sorge vor einer Ölkatastrophe wächst. Lässt sie sich verhindern? Verursachte ein E-Auto das Feuer? Was wir wissen.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq-bild/wide__822x462",
-      "image_title": "Brand auf Autofrachter: Wie groß ist die Gefahr fürs Wattenmeer?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hitze: Ein Juli wie die Klimakrise im Zeitraffer",
@@ -104,18 +104,25 @@
       "image_title": "Hitze: Ein Juli wie die Klimakrise im Zeitraffer"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hitze in den USA : Eine Hölle aus glühendem Asphalt und Palmen",
-      "teaser": "Seit zwei Wochen durchgängig mehr als 43 Grad: Phoenix ist die heißeste Stadt der USA. Besonders trifft die Hitzeglocke eine Gruppe, die ihr kaum entfliehen kann.",
-      "url": "https://www.zeit.de/politik/ausland/2023-07/usa-phoenix-hitze-heat-dome-extremwetter-klimawandel",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-07/usa-phoenix-hitze-heat-dome-extremwetter-klimawandel-bild-4/wide__822x462",
-      "image_title": "Hitze in den USA : Eine Hölle aus glühendem Asphalt und Palmen"
+      "title": "Z+ (abopflichtiger Inhalt); El Niño : Er wird das Weltwetter verändern",
+      "teaser": "Im Pazifik baut sich El Niño auf, der ungeahnte Wärme, Dürre und Überschwemmungen bringen kann. Diese Animation und Grafiken zeigen, was dort passiert.",
+      "url": "https://www.zeit.de/wissen/2023-06/el-nino-klimawandel-phaenomen-pazifik-mexiko",
+      "image_url": "https://img.zeit.de/wissen/2023-06/el-nino-phaenomen-pazifik-temperaturen/wide__822x462",
+      "image_title": "El Niño : Er wird das Weltwetter verändern"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hitze: Sag alles ab!",
-      "teaser": "Viele Menschen beschweren sich dieser Tage wieder über die Hitze. Dabei ermöglicht diese uns einen süßen Daseinszustand. Man muss sich ihr nur ergeben.",
-      "url": "https://www.zeit.de/kultur/2023-07/hitze-entschleunigung-pflichtverteidigung",
-      "image_url": "https://img.zeit.de/kultur/2023-07/wochenende-30-hitze-entschleunigung-pflichtverteidigung-bild/wide__822x462",
-      "image_title": "Hitze: Sag alles ab!"
+      "title": "Z+ (abopflichtiger Inhalt); Temperatur der Meere : Warum die Wärme in den Ozeanen alle Rekorde bricht",
+      "teaser": "Die Meere sind viel zu warm. Das könnte Ökosystemen schaden, einen heißen Sommer bringen – und verändern, was Forscher vom Klimawandel erwarten. Ein Flug über den Globus",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-06/temperatur-meere-ozeane-nordatlantik-el-nino",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-06/temperatur-meere-ozeane-nordatlantik-el-nino-bild/wide__822x462",
+      "image_title": "Temperatur der Meere : Warum die Wärme in den Ozeanen alle Rekorde bricht"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Brand auf Autofrachter: Wie groß ist die Gefahr fürs Wattenmeer?",
+      "teaser": "Der havarierte Frachter \"Fremantle Highway\" brennt, die Sorge vor einer Ölkatastrophe wächst. Lässt sie sich verhindern? Verursachte ein E-Auto das Feuer? Was wir wissen.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq-bild/wide__822x462",
+      "image_title": "Brand auf Autofrachter: Wie groß ist die Gefahr fürs Wattenmeer?"
     },
     {
       "title": "Klima: Juli 2023 wird heißester Monat seit Beginn der Wetteraufzeichnungen",
@@ -128,22 +135,15 @@
       "title": "Z+ (abopflichtiger Inhalt); Extremwetter: Kein Sommer, wie er früher einmal war",
       "teaser": "Langanhaltende Hitze in Nordamerika, Südeuropa und Asien, und Waldbrände weltweit: Diese Sommerwochen 2023 sind extrem: Welche Rolle spielt dabei das Klima?",
       "url": "https://www.zeit.de/2023/32/extremwetter-hitzewelle-klimawandel-waldbraende",
-      "image_url": "https://img.zeit.de/2023/32/extremwetter-hitzewelle-klimawandel-waldbraende-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/32/extremwetter-hitzewelle-klimawandel-waldbraende-teaserbild/cinema__980x420",
       "image_title": "Extremwetter: Kein Sommer, wie er früher einmal war"
     },
     {
       "title": "Nordsee: Brennender Frachter driftet vor niederländischer Küste ab",
       "teaser": "Der Autofrachter in der Nordsee brennt noch immer. Laut Küstenwache ist er Richtung Westen abgedriftet. Bundesumweltministerin Steffi Lemke bietet deutsche Hilfe an.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/nordsee-frachtschiff-brand-abgedriftet-niederlande",
-      "image_url": "https://img.zeit.de/wissen/2023-07/nordsee-frachtschiff-brand-abgedriftet-niederlande-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-07/nordsee-frachtschiff-brand-abgedriftet-niederlande-bild/wide__822x462",
       "image_title": "Nordsee: Brennender Frachter driftet vor niederländischer Küste ab"
-    },
-    {
-      "title": "Nordsee: Frachtschiff vor Küste der Niederlande brennt weiterhin",
-      "teaser": "Die \"Fremantle Highway\" steht noch immer vor der niederländischen Küste in Flammen. Hinweise auf einen Austritt größerer Mengen Öl gab es laut Reederei zunächst nicht.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/frachtschiff-niederlande-brand-kuestenwache",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frachtschiff-niederlande-brand-kuestenwache-bild/wide__822x462",
-      "image_title": "Nordsee: Frachtschiff vor Küste der Niederlande brennt weiterhin"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Windkraftwerke: Hier könnten all die Windräder stehen",
@@ -167,6 +167,13 @@
       "image_title": "Wissenspodcast: Warum ChatGPT fast jeden Witz gleich anfängt"
     },
     {
+      "title": "Nordsee: Frachtschiff vor Küste der Niederlande brennt weiterhin",
+      "teaser": "Die \"Fremantle Highway\" steht noch immer vor der niederländischen Küste in Flammen. Hinweise auf einen Austritt größerer Mengen Öl gab es laut Reederei zunächst nicht.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/frachtschiff-niederlande-brand-kuestenwache",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frachtschiff-niederlande-brand-kuestenwache-bild/wide__822x462",
+      "image_title": "Nordsee: Frachtschiff vor Küste der Niederlande brennt weiterhin"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Klimawandel: Niemand muss untätig zuschauen",
       "teaser": "Wälder brennen, Meere sind zu warm und Hitzewellen verheerend. Die Klimakrise ist offensichtlich wie nie und der Mensch reagiert in Zeitlupe. Dabei gibt es einen Ausweg.",
       "url": "https://www.zeit.de/2023/32/klimawandel-hitzewelle-waldbraende-extremwetter-erderwaermung",
@@ -175,24 +182,17 @@
     },
     {
       "title": "Nordsee: Frachtschiff vor niederländischer Küste fängt Feuer",
-      "teaser": "Wegen eines Brands mussten die Besatzungsmitglieder von Bord springen, ein Mensch starb dabei. Sinkt das Frachtschiff, könnten 3.000 Autos auf dem Meeresgrund landen.",
+      "teaser": "Wegen eines Brands mussten die Besatzungsmitglieder von Bord springen, ein Mensch starb dabei. Sinkt das Frachtschiff, könnten 3.000 Autos auf dem Meeresgrund landen. 399 Kommentare",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/frachtschiff-nordsee-feuer-niederlande-3000-autos",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frachtschiff-nordsee-feuer-niederlande-3000-autos-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frachtschiff-nordsee-feuer-niederlande-3000-autos-bild/cinema__980x420",
       "image_title": "Nordsee: Frachtschiff vor niederländischer Küste fängt Feuer"
     },
     {
       "title": "Cannabis: Kinder- und Jugendmediziner warnen vor Cannabislegalisierung",
-      "teaser": "Ärzte haben die Befürchtung, dass die Cannabislegalisierung die psychische Gesundheit und Entwicklung junger Menschen gefährdet. Sie fordern einen besseren Jugendschutz. 299 Kommentare",
+      "teaser": "Ärzte haben die Befürchtung, dass die Cannabislegalisierung die psychische Gesundheit und Entwicklung junger Menschen gefährdet. Sie fordern einen besseren Jugendschutz.",
       "url": "https://www.zeit.de/wissen/2023-07/cannabis-kinder-jugend-mediziner-warnung",
-      "image_url": "https://img.zeit.de/wissen/2023-07/cannabis-jugendliche-konsum-warng-aerzte-legalisierung/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-07/cannabis-jugendliche-konsum-warng-aerzte-legalisierung/wide__822x462",
       "image_title": "Cannabis: Kinder- und Jugendmediziner warnen vor Cannabislegalisierung"
-    },
-    {
-      "title": "Klimawandel: Forscher messen im Mittelmeer neuen Temperaturrekord",
-      "teaser": "Nicht nur die Anrainerstaaten verzeichnen Hitzerekorde – auch im Mittelmeer selbst herrschen Höchsttemperaturen. Die Wasseroberfläche erhitzte sich auf 28,71 Grad.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/mittelmeer-hitzewelle-hoechsttemperatur-copernicus",
-      "image_url": "https://img.zeit.de/wissen/2023-07/meeresinstitut-icm-mittelmeer-temperatur-bild-2/wide__822x462",
-      "image_title": "Klimawandel: Forscher messen im Mittelmeer neuen Temperaturrekord"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klimawandel • Das Beste aus Z+: In welcher Klimazukunft werden Sie oder Ihr Kind leben?",
@@ -202,10 +202,17 @@
       "image_title": "Klimawandel • Das Beste aus Z+: In welcher Klimazukunft werden Sie oder Ihr Kind leben?"
     },
     {
+      "title": "Klimawandel: Forscher messen im Mittelmeer neuen Temperaturrekord",
+      "teaser": "Nicht nur die Anrainerstaaten verzeichnen Hitzerekorde – auch im Mittelmeer selbst herrschen Höchsttemperaturen. Die Wasseroberfläche erhitzte sich auf 28,71 Grad. 128 Kommentare",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/mittelmeer-hitzewelle-hoechsttemperatur-copernicus",
+      "image_url": "https://img.zeit.de/wissen/2023-07/meeresinstitut-icm-mittelmeer-temperatur-bild-2/cinema__980x420",
+      "image_title": "Klimawandel: Forscher messen im Mittelmeer neuen Temperaturrekord"
+    },
+    {
       "title": "Extremwetter: Aktuelle Hitzewellen laut Studie durch Klimawandel verursacht",
-      "teaser": "Eine Studie belegt den Zusammenhang zwischen der Klimakrise und dem derzeitigen Extremwetter. Ohne menschlichen Einfluss wäre es demnach in Europa deutlich kühler. 865 Kommentare",
+      "teaser": "Eine Studie belegt den Zusammenhang zwischen der Klimakrise und dem derzeitigen Extremwetter. Ohne menschlichen Einfluss wäre es demnach in Europa deutlich kühler.",
       "url": "https://www.zeit.de/wissen/2023-07/klimawandel-hitze-europa-usa-studie-imperial-college-london",
-      "image_url": "https://img.zeit.de/wissen/2023-07/klimawandel-hitze-europa-usa-studie-imperial-college-london-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-07/klimawandel-hitze-europa-usa-studie-imperial-college-london-bild-2/wide__822x462",
       "image_title": "Extremwetter: Aktuelle Hitzewellen laut Studie durch Klimawandel verursacht"
     },
     {
@@ -219,14 +226,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot nach dem Zweiten Weltkrieg: Die Zeit des großen Wohnungsbaus ist lange vorbei",
       "teaser": "Nach dem Zweiten Weltkrieg werden in Westdeutschland Millionen staatlich geförderte Wohnungen gebaut – auch mit bezahlbaren Mieten. Warum funktioniert das heute nicht?",
       "url": "https://www.zeit.de/zeit-geschichte/2023/04/wohnungsnot-zweiter-weltkrieg-sozialer-wohnungsbau",
-      "image_url": "https://img.zeit.de/wissen/geschichte/2023-07/wohnungsnot-zweiter-weltkrieg-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/geschichte/2023-07/wohnungsnot-zweiter-weltkrieg-teaser/cinema__980x420",
       "image_title": "Wohnungsnot nach dem Zweiten Weltkrieg: Die Zeit des großen Wohnungsbaus ist lange vorbei"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wildfleisch und Klimaschutz: Aber Wild ist doch okay ...",
       "teaser": "Fleisch ist klimaschädlich, das weiß mittlerweile jeder. Wild aus heimischer Jagd ist aber zumindest noch keine Klimasauerei.",
       "url": "https://www.zeit.de/2023/31/wildfleisch-klimaschutz-tierhaltung-klima-ausreden",
-      "image_url": "https://img.zeit.de/2023/31/aber-wild-ist-doch-okay-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/31/aber-wild-ist-doch-okay-bild-1/wide__822x462",
       "image_title": "Wildfleisch und Klimaschutz: Aber Wild ist doch okay ..."
     },
     {
@@ -235,13 +242,6 @@
       "url": "https://www.zeit.de/2023/31/smartphone-konzentration-brain-drain-forschung",
       "image_url": "https://img.zeit.de/2023/31/smartphone-konzentration-brain-drain-forschung-bild/wide__822x462",
       "image_title": "Smartphone und Konzentration: Wie sehr das Smartphone unserer Konzentration schadet"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Quiz: Der feine Unterschied",
-      "teaser": "Graupel oder Hagel – was ist größer? Guyana oder Guinea – was liegt wo? Testen Sie in unserem Grafikquiz, wie gut Ihr Detailwissen ist.",
-      "url": "https://www.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere",
-      "image_url": "https://img.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere-teaser/wide__822x462",
-      "image_title": "Quiz: Der feine Unterschied"
     },
     {
       "title": "Extremwetter: Aktuelle Hitzewellen laut Studie durch Klimawandel verursacht",
@@ -329,25 +329,25 @@
       "image_title": "Krisenpodcast \"Auch das noch?\": Wie Wasserknappheit schon bald den Alltag verändern könnte"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Quiz: Der feine Unterschied",
+      "teaser": "Graupel oder Hagel – was ist größer? Guyana oder Guinea – was liegt wo? Testen Sie in unserem Grafikquiz, wie gut Ihr Detailwissen ist.",
+      "url": "https://www.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere",
+      "image_url": "https://img.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere-teaser/wide__822x462",
+      "image_title": "Quiz: Der feine Unterschied"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Farbwahrnehmung: Die Farbe Blau, die kannten die alten Griechen nicht",
       "teaser": "Frühere Kulturen hatten kein Wort für Blau und bezeichneten Gesichter als grün. Wie der Mensch Farben wahrnimmt und wie sich das über Jahrhunderte verändert hat.",
       "url": "https://www.zeit.de/zeit-wissen/2023/04/farbwahrnehmung-farben-evolution-forschung-geschichte",
-      "image_url": "https://img.zeit.de/wissen/2023-07/farbwahrnehmung-farben-evolution-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/2023-07/farbwahrnehmung-farben-evolution-teaser/cinema__980x420",
       "image_title": "Farbwahrnehmung: Die Farbe Blau, die kannten die alten Griechen nicht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klimaschutz : Aber die Chinesen ...",
       "teaser": "Auf das bisschen CO₂, das Deutschland im Vergleich zu China ausstößt, kommt es eh nicht an, finden Sie? Stimmt nur nicht.",
       "url": "https://www.zeit.de/2023/31/china-klimaschutz-co2-klima-ausreden",
-      "image_url": "https://img.zeit.de/2023/31/aber-die-chinesen-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/31/aber-die-chinesen-bild-1/wide__822x462",
       "image_title": "Klimaschutz : Aber die Chinesen ..."
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Währungsreform 1948 : Die D-Mark war eine Amerikanerin",
-      "teaser": "1948 kam das neue Geld: 5,7 Milliarden D-Mark wurden in den USA gedruckt und in Holzkisten nach Deutschland verschifft. Die Sowjetunion blockierte daraufhin West-Berlin.",
-      "url": "https://www.zeit.de/zeit-geschichte/2023/04/waehrungsreform-1948-freier-markt-geschichte",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2023/04/5-7-milliarden-in-kisten-bild-5/wide__822x462",
-      "image_title": "Währungsreform 1948 : Die D-Mark war eine Amerikanerin"
     },
     {
       "title": "Weltraumschrott: Unser Müll im All",
@@ -371,10 +371,17 @@
       "image_title": "Schwammstadt: Es war einmal eine Betonwüste"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Währungsreform 1948 : Die D-Mark war eine Amerikanerin",
+      "teaser": "1948 kam das neue Geld: 5,7 Milliarden D-Mark wurden in den USA gedruckt und in Holzkisten nach Deutschland verschifft. Die Sowjetunion blockierte daraufhin West-Berlin.",
+      "url": "https://www.zeit.de/zeit-geschichte/2023/04/waehrungsreform-1948-freier-markt-geschichte",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2023/04/5-7-milliarden-in-kisten-bild-5/cinema__980x420",
+      "image_title": "Währungsreform 1948 : Die D-Mark war eine Amerikanerin"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Urlaub und Klimaschutz: Aber Reisen erweitert den Horizont ...",
       "teaser": "Um die Welt zu fliegen ist fantastisch und es ist ein Drama, dass die Welt dadurch kaputtgeht. Am Ende gibt es aber kein Entkommen vor der Erderhitzung.",
       "url": "https://www.zeit.de/2023/31/urlaub-klimaschutz-reisen-klima-ausreden",
-      "image_url": "https://img.zeit.de/2023/31/aber-reisen-erweitert-den-horizont-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/31/aber-reisen-erweitert-den-horizont-bild-1/wide__822x462",
       "image_title": "Urlaub und Klimaschutz: Aber Reisen erweitert den Horizont ..."
     },
     {
@@ -383,13 +390,6 @@
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/italien-hitzewelle-hoechsttemperaturen-sizilien-sardinien",
       "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/talien-hitzewelle-hoechsttemperaturen-sizilien-sardinien-bild/wide__822x462",
       "image_title": "Hitzewelle: Italienischer Wetterdienst warnt vor Temperaturen bis 48 Grad"
-    },
-    {
-      "title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger",
-      "teaser": "Laut einer spanischen Datenauswertung erhöhen sich infolge der Klimakrise die Wassertemperatur und der Salzgehalt des Mittelmeeres. Beides gefährdet die Artenvielfalt.",
-      "url": "https://www.zeit.de/wissen/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt-bild/wide__822x462",
-      "image_title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger"
     },
     {
       "title": "Event Horizon Telescope: Hallo Höllenpforte!",
@@ -434,32 +434,32 @@
       "image_title": "Schleimpilze: Wie aus einer anderen Welt"
     },
     {
+      "title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger",
+      "teaser": "Laut einer spanischen Datenauswertung erhöhen sich infolge der Klimakrise die Wassertemperatur und der Salzgehalt des Mittelmeeres. Beides gefährdet die Artenvielfalt.",
+      "url": "https://www.zeit.de/wissen/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt-bild/cinema__980x420",
+      "image_title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger"
+    },
+    {
       "title": "Klimaforscher Mojib Latif: \"Point of no Return\" beim Klimawandel laut Experte noch nicht erreicht",
-      "teaser": "Nach Einschätzung des UN-Generalsekretärs ist der Klimawandel außer Kontrolle. Der Kieler Klimaforscher Mojib Latif sieht Hoffnung: Das 1,5-Grad-Ziel sei noch erreichbar. 1.042 Kommentare",
+      "teaser": "Nach Einschätzung des UN-Generalsekretärs ist der Klimawandel außer Kontrolle. Der Kieler Klimaforscher Mojib Latif sieht Hoffnung: Das 1,5-Grad-Ziel sei noch erreichbar.",
       "url": "https://www.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris",
-      "image_url": "https://img.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris-bild/wide__822x462",
       "image_title": "Klimaforscher Mojib Latif: \"Point of no Return\" beim Klimawandel laut Experte noch nicht erreicht"
     },
     {
       "title": "Manganknollen: Meeresbodenbehörde vertagt Entscheidung zu Tiefseebergbau",
       "teaser": "Der Abbau von Manganknollen auf dem Meeresboden könnte Rohstoffe für E-Autos liefern – birgt aber Gefahren. Ein Regelwerk soll erst in zwei Jahren beschlossen werden.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/tiefseebergbau-internationale-meeresbodenbehoerde-sitzung-manganknollen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/tiefseebergbau-internationale-meeresbodenbehoerde-sitzung-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/tiefseebergbau-internationale-meeresbodenbehoerde-sitzung-bild/cinema__980x420",
       "image_title": "Manganknollen: Meeresbodenbehörde vertagt Entscheidung zu Tiefseebergbau"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dürre in Frankreich: Auf der Suche nach Trinkwasser für Hunderttausende",
       "teaser": "In Frankreich bleibt mancherorts nur noch die Versorgung mit Plastikflaschen. Besuch bei einer Frau, die neue Wasserquellen finden soll",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/frankreich-duerre-wasserknappheit-wasserversorgung-klimakrise",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frankreich-duerre-wasserknappheit-wasserversorgung-klimakrise-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frankreich-duerre-wasserknappheit-wasserversorgung-klimakrise-bild/wide__822x462",
       "image_title": "Dürre in Frankreich: Auf der Suche nach Trinkwasser für Hunderttausende"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Globale Erwärmung: Aber dafür wird das Wetter schön …",
-      "teaser": "Geht die Erderhitzung so weiter, dann wird Deutschland zum neuen Spanien oder Italien. Kuschlig wird es trotzdem nicht – im Gegenteil.",
-      "url": "https://www.zeit.de/2023/31/globale-erwaermung-wetter-hitze-klima-ausreden",
-      "image_url": "https://img.zeit.de/2023/31/aber-dafuer-wird-das-wetter-schoen-bild-1/wide__822x462",
-      "image_title": "Globale Erwärmung: Aber dafür wird das Wetter schön …"
     },
     {
       "title": "Politikpodcast: \"Hitze ist der Silent Killer\"",
@@ -476,10 +476,17 @@
       "image_title": "Hitzewelle: Die Hitze hat längst begonnen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Globale Erwärmung: Aber dafür wird das Wetter schön …",
+      "teaser": "Geht die Erderhitzung so weiter, dann wird Deutschland zum neuen Spanien oder Italien. Kuschlig wird es trotzdem nicht – im Gegenteil.",
+      "url": "https://www.zeit.de/2023/31/globale-erwaermung-wetter-hitze-klima-ausreden",
+      "image_url": "https://img.zeit.de/2023/31/aber-dafuer-wird-das-wetter-schoen-bild-1/cinema__980x420",
+      "image_title": "Globale Erwärmung: Aber dafür wird das Wetter schön …"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Klima-Ausreden: Aber ich fliege nicht, ich esse kein Fleisch – und was ist mit China?",
       "teaser": "Jeder hat so seine Klima-Ausreden, warum mehr Schutz der Atmosphäre nicht drin sei. Blicken wir auf die beliebtesten: Wo sie helfen, wo nicht mehr und was dahintersteckt.",
       "url": "https://www.zeit.de/2023/31/klima-ausreden-ernaehrung-bio",
-      "image_url": "https://img.zeit.de/wissen/2023-07/klima-ausreden-ernaehrung/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-07/klima-ausreden-ernaehrung/wide__822x462",
       "image_title": "Klima-Ausreden: Aber ich fliege nicht, ich esse kein Fleisch – und was ist mit China?"
     },
     {
@@ -490,13 +497,6 @@
       "image_title": "Löwin in Brandenburg : Vermisst irgendjemand eine Raubkatze?"
     },
     {
-      "title": "US-Raumfahrtbehörde: Nasa rechnet mit heißestem Juli seit Jahrhunderten",
-      "teaser": "Dem Nasa-Chefklimatologen zufolge könnte 2023 das heißeste Jahr seit Beginn der Aufzeichnungen werden. Weltweit gebe es beispiellose klimatische Veränderungen.",
-      "url": "https://www.zeit.de/wissen/2023-07/nasa-juli-2023-heissester-monat",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/nasa-heissester-juli-seit-jahrhunderten-bild/wide__822x462",
-      "image_title": "US-Raumfahrtbehörde: Nasa rechnet mit heißestem Juli seit Jahrhunderten"
-    },
-    {
       "title": "Sprachtest: Wie gut ist Ihr Französisch?",
       "teaser": "Sprache bildet die Grundlage für Kommunikation. Wie gut die eigenen Sprachkenntnisse sind, können Sie schnell mit unserem digitalen Sprachtest herausfinden.",
       "url": "https://sprachtest.zeit.de/franzoesisch?wt_zmc=fix.int.zonaudev.alias.alias.zeitde.alias.spotlight-sprachtest-link-franzoesisch.x&utm_medium=fix&utm_source=alias_zonaudev_int&utm_campaign=alias&utm_content=zeitde_alias_spotlight-sprachtest-link-franzoesisch_x",
@@ -504,15 +504,15 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
     },
     {
-      "title": "RKI: Corona-Maßnahmen waren laut Bericht wirksam für Pandemiebekämpfung",
-      "teaser": "Was haben Masken, Impfungen und Kontaktbeschränkungen während der Pandemie gebracht? Ein Bericht des RKI zeigt: Vor allem die Kombination hat Ansteckungen verhindert.",
-      "url": "https://www.zeit.de/wissen/2023-07/rki-corona-massnahmen-bericht-wirksam",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-07/corona-massnahmen-waren-wirksam-fuer-pandemie-bekaempfung-bericht-bild/wide__822x462",
-      "image_title": "RKI: Corona-Maßnahmen waren laut Bericht wirksam für Pandemiebekämpfung"
+      "title": "US-Raumfahrtbehörde: Nasa rechnet mit heißestem Juli seit Jahrhunderten",
+      "teaser": "Dem Nasa-Chefklimatologen zufolge könnte 2023 das heißeste Jahr seit Beginn der Aufzeichnungen werden. Weltweit gebe es beispiellose klimatische Veränderungen.",
+      "url": "https://www.zeit.de/wissen/2023-07/nasa-juli-2023-heissester-monat",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/nasa-heissester-juli-seit-jahrhunderten-bild/wide__822x462",
+      "image_title": "US-Raumfahrtbehörde: Nasa rechnet mit heißestem Juli seit Jahrhunderten"
     },
     {
       "title": "Bundesgesundheitsminister: Karl Lauterbach will Zahl der Hitzetoten halbieren",
-      "teaser": "Etwa 8.000 Menschen starben im vergangenen Jahr an Hitzefolgen. Der Hitzeschutzplan des Gesundheitsministers sieht eine deutliche Reduzierung der Todesfälle vor.",
+      "teaser": "Ein nationaler Hitzeschutzplan soll die Zahl der Toten durch Hitzefolgen deutlich reduzieren. Als Vorbild bezeichnet der Bundesgesundheitsminister Frankreich.",
       "url": "https://www.zeit.de/gesundheit/2023-07/karl-lauterbach-hitzetote-reduzieren",
       "image_url": "https://img.zeit.de/gesundheit/2023-07/karl-lauterbach-hitzetote-reduzieren-bild/cinema__980x420",
       "image_title": "Bundesgesundheitsminister: Karl Lauterbach will Zahl der Hitzetoten halbieren"
