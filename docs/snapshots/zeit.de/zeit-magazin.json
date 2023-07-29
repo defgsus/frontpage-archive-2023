@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-29T08:12:44",
+  "timestamp": "2023-07-29T09:10:44",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -50,7 +50,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Urlaub à la Angela",
+      "title": "Z+ Wenn Sie mal wieder einen im Tee haben wollen",
+      "teaser": "Immer nur Zitrone oder Pfirsich? Wie langweilig! Diesem Eistee geben Hibiskus, Himbeeren und Rosenblütensirup seinen Geschmack.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/32/hibiskus-eistee-himbeeren-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/32/erfrischung-bild-1/wide__822x462",
+      "image_title": "Hibiskus-Eistee: Wenn Sie mal wieder einen im Tee haben wollen"
+    },
+    {
+      "title": "Z+ Ferien wie Angela Merkel: Urlaub à la Angela",
       "teaser": "Im Gegensatz zu anderen Spitzenpolitikern verbrachte Merkel ihre Freizeit in erschwinglichen Unterkünften. Unser Autor hat Ferien in denselben Hotels wie sie gemacht.",
       "url": "https://www.zeit.de/zeit-magazin/2023/32/angela-merkel-ferien-urlaub-hotel",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-07/angela-merkel-ferien-urlaub-hotel-teaser/wide__822x462",
@@ -62,13 +69,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/kirschenmichel-sauerkirschen-rezept-kuechenzuruf",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/kirschenmichel-sauerkirschen-rezept-kuechenzuruf-teaser/wide__822x462",
       "image_title": "Kirschenmichel: Echt süß, diese Sauerkirschen"
-    },
-    {
-      "title": "Z+ Familientherapie : Bei euch läuft doch alles, oder?",
-      "teaser": "Die Kempers sehen sich lange als heile Familie – bis die Wutanfälle der Tochter irgendwann unerträglich werden. Wann kommt der Punkt, an dem man sich Hilfe suchen sollte?",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-03/familientherapie-eltern-kinder-konflikte-hilfe",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-03/familientherapie-eltern-kinder-konflikte/wide__822x462",
-      "image_title": "Familientherapie : Bei euch läuft doch alles, oder?"
     },
     {
       "title": "Podcast: Eine Reise durch Zürich",
@@ -84,10 +84,10 @@
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Harald Martenstein: Rette sich, wer kann",
-      "url": "https://www.zeit.de/zeit-magazin/2023/32/harald-martenstein-schiffsreisen-atlantik",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/harald-martenstein-schiffsreisen-atlantik-bild/tile__315x394__D6C887",
-      "image_title": "Harald Martenstein: Rette sich, wer kann"
+      "title": "Z+ Familientherapie : Bei euch läuft doch alles, oder?",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-03/familientherapie-eltern-kinder-konflikte-hilfe",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-03/familientherapie-eltern-kinder-konflikte/tile__315x394",
+      "image_title": "Familientherapie : Bei euch läuft doch alles, oder?"
     },
     {
       "title": "Der Apfel braucht inzwischen selbst einen Doktor",
@@ -114,11 +114,11 @@
       "image_title": "Lebensmittelhändler: Früchte der Liebe"
     },
     {
-      "title": "Z+ Rickie Lee Jones: \"Menschen, denen du vertraust, werden dich hintergehen\"",
-      "teaser": "Sich bei jedem Konflikt zu fragen, ob man selbst das Problem ist, und nicht zurückzuschauen: Das hat die Sängerin Rickie Lee Jones vom Leben gelernt.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/32/ricky-lee-jones-ratschlaege-leben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/32/was-ich-gern-frueher-gewusst-haette-bild-1/wide__822x462",
-      "image_title": "Rickie Lee Jones: \"Menschen, denen du vertraust, werden dich hintergehen\""
+      "title": "Harald Martenstein: Rette sich, wer kann",
+      "teaser": "Bei einem möglichen Schiffbruch kann Sexismus ein Vorteil für Frauen sein. Aber die besten Überlebenschancen hängen nicht vom Geschlecht ab.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/32/harald-martenstein-schiffsreisen-atlantik",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/harald-martenstein-schiffsreisen-atlantik-bild/wide__822x462__D6C887",
+      "image_title": "Harald Martenstein: Rette sich, wer kann"
     },
     {
       "title": "Bio oder konventionell: Was ist gesund für uns und die Umwelt?",
@@ -126,6 +126,13 @@
       "url": "https://zeit-magazin.cmk.zeit.de/cms/articles/15781/anzeige/dm-drogerie-markt-gmbh-co-kg/bio-oder-konventionell-was-ist-gesund-fuer-uns-und-die-umwelt",
       "image_url": "https://img.zeit.de/angebote/zeit-magazin/linkobjekte/dm/sp-03-zmo-dm-artikelbild/wide__822x462",
       "image_title": "Bio oder konventionell: Was ist gesund für uns und die Umwelt?"
+    },
+    {
+      "title": "Z+ Rickie Lee Jones: \"Menschen, denen du vertraust, werden dich hintergehen\"",
+      "teaser": "Sich bei jedem Konflikt zu fragen, ob man selbst das Problem ist, und nicht zurückzuschauen: Das hat die Sängerin Rickie Lee Jones vom Leben gelernt.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/32/ricky-lee-jones-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/32/was-ich-gern-frueher-gewusst-haette-bild-1/wide__822x462",
+      "image_title": "Rickie Lee Jones: \"Menschen, denen du vertraust, werden dich hintergehen\""
     },
     {
       "title": "Z+ Cleanfluencerin: Schneller sauber, als sie putzen kann",
@@ -198,13 +205,6 @@
       "image_title": "Verliebtsein am Arbeitsplatz: \"Wir sprachen nie über diese Situation\""
     },
     {
-      "title": "Z+ Teppiche: Beste Grundlage",
-      "teaser": "Ein guter Teppich wärmt nicht nur die Füße, sondern macht einen Raum erst wohnlich. Bei der Auswahl kommt es auf Textur, Muster und Farbe an – und die perfekte Größe.",
-      "url": "https://www.zeit.de/zeit-magazin/2023-07/teppiche-textur-einrichtung-tipps-zimmerservice",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/wochenende30-teppiche-textur-einrichtung-tipps-zimmerservice-aufmacher-neu/wide__822x462",
-      "image_title": "Teppiche: Beste Grundlage"
-    },
-    {
       "title": "Z+ Clairet: Ein erfrischender Trinkspaß",
       "url": "https://www.zeit.de/zeit-magazin/2023-07/clairet-rotwein-bordeaux-weinkolumne",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/clairet-rotwein-bordeaux-weinkolumne-teaserbild/tile__315x394",
@@ -235,6 +235,12 @@
       "image_title": "Fruchteis mit Kondensmilch: Wenn dir das Leben gefrorene Früchte gibt, mach Eiscreme daraus"
     },
     {
+      "title": "Z+ Teppiche: Beste Grundlage",
+      "url": "https://www.zeit.de/zeit-magazin/2023-07/teppiche-textur-einrichtung-tipps-zimmerservice",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/wochenende30-teppiche-textur-einrichtung-tipps-zimmerservice-aufmacher-neu/tile__315x394",
+      "image_title": "Teppiche: Beste Grundlage"
+    },
+    {
       "title": "Z+ Kochen für den Vatikan: Pasta alla cardinale",
       "url": "https://www.zeit.de/2023/31/kochen-vatikan-restaurant-la-vittoria",
       "image_url": "https://img.zeit.de/2023/31/pasta-alla-cardinale-bild-1/tile__315x394",
@@ -257,12 +263,6 @@
       "url": "https://www.zeit.de/2023/31/intervallfasten-ernaehrung-gesundheit-alter",
       "image_url": "https://img.zeit.de/2023/31/intervallfasten-ernaehrung-gesundheit-alter-bild/tile__315x394",
       "image_title": "Intervallfasten : 16 Stunden nichts essen, jeden Tag – mein Jungbrunnen"
-    },
-    {
-      "title": "Z+ Spanische Tortilla: Tempo, Tempo, kleine Tortilla",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/spanische-tortilla-rezept-resteessen-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/spanische-tortilla-rezept-resteessen-wochenmarkt-teaserbild/tile__315x394",
-      "image_title": "Spanische Tortilla: Tempo, Tempo, kleine Tortilla"
     },
     {
       "title": "Z+ Pubertät : \"Die Pubertät ist der letzte gewaltige Umbauprozess des Gehirns\"",
@@ -301,10 +301,17 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/penetration-geschlechtsverkehr-oragsmus-besserer-sex-maennlichkeit"
     },
     {
+      "title": "Z+ Spanische Tortilla: Tempo, Tempo, kleine Tortilla",
+      "teaser": "Sie haben Kartoffeln vom Vortag übrig, ein paar Eier sind auch noch da? Dann machen Sie eine Tortilla daraus! Das geht ruckzuck und schmeckt kalt genauso gut wie warm.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/spanische-tortilla-rezept-resteessen-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/spanische-tortilla-rezept-resteessen-wochenmarkt-teaserbild/square__460x460",
+      "image_title": "Spanische Tortilla: Tempo, Tempo, kleine Tortilla"
+    },
+    {
       "title": "Z+ Verreisen mit Handgepäck : Komprimiert unterwegs",
       "teaser": "\"Rose, wie kriege ich alles, was ich für den Urlaub brauche, ins Handgepäck?\" – fragt Thomas",
       "url": "https://www.zeit.de/entdecken/2023-07/verreisen-handgepaeck-urlaub-packen",
-      "image_url": "https://img.zeit.de/entdecken/2023-07/wochenende-30-frag-rose-koffer-bild/square__460x460",
+      "image_url": "https://img.zeit.de/entdecken/2023-07/wochenende-30-frag-rose-koffer-bild/wide__822x462",
       "image_title": "Verreisen mit Handgepäck : Komprimiert unterwegs"
     },
     {
@@ -330,9 +337,8 @@
     },
     {
       "title": "Z+ Kindeswohl: Darf sie noch Mutter sein?",
-      "teaser": "Eine Frau bringt ihre Säuglinge ins Krankenhaus und wird verdächtigt, die Zwillinge misshandelt zu haben. Um sie zurückzubekommen, muss sie sich als Mutter neu beweisen.",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/kindeswohl-mutter-kinder-krankenhaus-gefaehrdung",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-06/kindeswohl-mutter-kinder-krankenhaus/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-06/kindeswohl-mutter-kinder-krankenhaus/tile__315x394",
       "image_title": "Kindeswohl: Darf sie noch Mutter sein?"
     },
     {
@@ -346,12 +352,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/freddo-cappuccino-kaffee-griechenland-yamas-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/freddo-cappuccino-kaffee-griechenland-yamas-wochenmarkt-bild/tile__315x394",
       "image_title": "Freddo Cappuccino: Kaffee ist ein langsames Getränk"
-    },
-    {
-      "title": "Z+ Tiere bei Nacht: Die dunkle Seite des Tages",
-      "url": "https://www.zeit.de/zeit-magazin/2023/31/tiere-nacht-pflanzen-berlin",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/31/da-draussen-bild-1/tile__315x394",
-      "image_title": "Tiere bei Nacht: Die dunkle Seite des Tages"
     },
     {
       "title": "Z+ Endometriose: \"Wie soll guter Sex mit Endometriose gehen?\"",
