@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-07-29T19:08:11",
+  "timestamp": "2023-07-29T20:10:34",
   "url": "https://www.bild.de/auto/startseite/auto/auto-home-15478182.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,59 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,69889490.1-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.5f5b2186.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.ca83b462.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.7fe1576d.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.a7db796e.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Gute Nachricht für Autobauer Mercedes-Benz macht mehr Gewinn",
-      "url": "https://www.bild.de/regional/stuttgart/stuttgart-aktuell/autobauer-in-stuttgart-mercedes-benz-macht-mehr-gewinn-84836654.bild.html"
-    },
-    {
-      "title": "Fiat-Flunder So entsteht das tiefste Auto der Welt",
-      "url": "https://www.bild.de/video/clip/auto/guinness-rekord-so-entsteht-das-tiefste-auto-der-welt-84746980.bild.html"
-    },
-    {
-      "title": "Wegen E-Autos Erhöhtes Explosions-Risiko auf Schiffen!",
-      "url": "https://www.bild.de/auto/mobilitaet-reisen-motorrad/mobilitaet-und-mehr/fremantle-highway-versicherungs-studie-warnte-vor-feuer-durch-e-autos-84828826.bild.html"
-    }
-  ]
+  "articles": []
 }
