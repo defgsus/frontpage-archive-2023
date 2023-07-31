@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-31T11:09:20",
+  "timestamp": "2023-07-31T12:24:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.a95e91ed9902a243e091",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.7e2cf36efcfaaf70b48c",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "WordPress-Plug-in Ninja Forms",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-Websites-mit-Ninja-Forms-Plug-in-attackierbar-9230884.html"
+    },
     {
       "title": "Ivanti EPMM",
       "url": "https://www.heise.de/news/Jetzt-patchen-Ivanti-schliesst-erneute-Zero-Day-Luecke-in-EPMM-9230517.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-E-Mail-Loesung-Zimbra-9228982.html"
     },
     {
-      "title": "Sophos UTM",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Angreifer-koennen-Sicherheitsloesung-Sophos-UTM-attackieren-9228570.html"
+      "title": "Sicherheitsupdate: WordPress-Websites mit Plug-in Ninja Forms attackierbar",
+      "teaser": "Angreifer könnten über eine Sicherheitslücke im Ninja-Forms-Plug-in auf eigentlich geschützte WordPress-Daten zugreifen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-Websites-mit-Ninja-Forms-Plug-in-attackierbar-9230884.html"
     },
     {
       "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -148,11 +153,6 @@
       "teaser": "Erlangen Sie spezielle Prüfverfahrenskompetenz für § 8a BSIG; inklusive optionaler, direkt anschließender Abschlussprüfung und Zertifizierung.",
       "url": "https://www.heise.de/news/iX-Workshop-KRITIS-Spezielle-Pruefverfahrenskompetenz-fuer-8a-BSIG-9207978.html",
       "image_title": "Online-Workshop: KRITIS – Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG"
-    },
-    {
-      "title": "Jetzt patchen! Weltweit über 15.000 Citrix-Server angreifbar",
-      "teaser": "Sicherheitsforscher haben tausende verwundbare Citrix-Instanzen von Gateway und Netscaler ADC entdeckt. Davon sind auch Systeme in Deutschland betroffen.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Weltweit-ueber-15-000-Citrix-Server-angreifbar-9225769.html"
     },
     {
       "title": "heise Security Tour 2023",
