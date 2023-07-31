@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-07-31T09:12:52",
+  "timestamp": "2023-07-31T10:13:01",
   "url": "https://www.zeit.de/wissen/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Spiegelbild: (Kein) Spieglein, Spieglein an der Wand",
+      "teaser": "Was würde mit unserer Selbstwahrnehmung passieren, wenn es keine Spiegel gäbe? Wie wir uns selbst sehen, hängt stark mit unserem Selbstwertgefühl zusammen.",
+      "url": "https://www.zeit.de/zeit-wissen/2023/04/spiegel-psychologie-selbstwahrnehmung-spiegelstadium",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/04/was-wuerde-mit-unserer-selbstwahrnehmung-passieren-wenn-es-keine-spiegel-gaebe-bild-1/cinema__980x420"
+    },
+    {
       "title": "Klitoris: So haben Sie die Klitoris vielleicht noch nicht gesehen",
       "teaser": "Wie ein Penis aussieht, wissen alle. Das weibliche Lustorgan, die Klitoris, wurde dagegen selbst in Anatomiebüchern lange falsch dargestellt. Ein Überblick in Grafiken",
       "url": "https://www.zeit.de/2023/32/klitoris-anatomie-orgasmus-weibliches-genital",
-      "image_url": "https://img.zeit.de/2023/32/klitoris-infografik/klitoris-anatomie-orgasmus-weibliches-genital-teaserbild/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/32/klitoris-infografik/klitoris-anatomie-orgasmus-weibliches-genital-teaserbild/wide__822x462",
+      "image_title": "Klitoris: So haben Sie die Klitoris vielleicht noch nicht gesehen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); X. Weltfestspiele der Jugend und Studenten: Die sonnigsten Tage der DDR",
@@ -63,13 +70,6 @@
       "image_title": "X. Weltfestspiele der Jugend und Studenten: Die sonnigsten Tage der DDR"
     },
     {
-      "title": "Brand auf Autofrachter: Starker Wind verhindert Abschleppen des Frachters",
-      "teaser": "Das Abschleppen des havarierten Frachtern \"Fremantle Highway\" könnte sich wegen des Südwestwindes um Tage verzögern. Noch immer könnte das Schiff sinken. Was wir wissen.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq-bild-2/wide__822x462",
-      "image_title": "Brand auf Autofrachter: Starker Wind verhindert Abschleppen des Frachters"
-    },
-    {
       "title": "AnzeigeTransfer und Innovation",
       "teaser": "Wie lässt sich akademisches Wissen in zukunftsweisendes Know-how verwandeln? Um Antworten zu finden, setzen Hochschulen auf eine eng verzahnte Kooperation.",
       "url": "https://zeitfuerx.de/forschung/transfer-und-innovation/",
@@ -77,17 +77,17 @@
       "image_title": "Transfer und Innovation"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Waldbrände: Waldbrände, die sich der Mensch selbst gelegt hat",
-      "teaser": "Es brennt in Griechenland, Touristen fliehen von den Urlaubsinseln. Wo sich Feuer mit dem Klimawandel verändern und warum dabei der Mensch stets die größte Gefahr ist.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/waldbraende-hitzewelle-griechenland-kanada-faq",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/waldbraende-hitzewelle-griechenland-kanada-faq-bild-3/cinema__980x420"
-    },
-    {
       "title": "Fischsterben in der Oder: \"Ich gebe die Hoffnung nicht auf\"",
       "teaser": "Eigentlich wollte Jörn Geßner den Stör vom Aussterben bewahren. Dann kam die Oder-Katastrophe und mit ihr das Fischsterben. Doch der Biologe wildert weiter Fische aus.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/fischsterben-oder-stoere-joern-gessner",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/fischsterben-oder-stoere-joern-gessner-teaser-bild-6/wide__822x462",
-      "image_title": "Fischsterben in der Oder: \"Ich gebe die Hoffnung nicht auf\""
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/fischsterben-oder-stoere-joern-gessner-teaser-bild-2/cinema__980x420"
+    },
+    {
+      "title": "Brand auf Autofrachter: Starker Wind verhindert Abschleppen des Frachters",
+      "teaser": "Das Abschleppen des havarierten Frachtern \"Fremantle Highway\" könnte sich wegen des Südwestwindes um Tage verzögern. Noch immer könnte das Schiff sinken. Was wir wissen.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/autofrachter-brand-nordsee-fremantle-highway-faq-bild-2/wide__822x462",
+      "image_title": "Brand auf Autofrachter: Starker Wind verhindert Abschleppen des Frachters"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Klimaforschung: Aber die Wissenschaft zweifelt doch auch …",
@@ -252,8 +252,8 @@
       "url": "https://www.zeit.de/wissen/2023-07/klima-juli-2023-heissester-monat-wetter"
     },
     {
-      "title": "Nordsee: Frachtschiff vor niederländischer Küste fängt Feuer",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/frachtschiff-nordsee-feuer-niederlande-3000-autos"
+      "title": "Z+ (abopflichtiger Inhalt); Klimawandel: Niemand muss untätig zuschauen",
+      "url": "https://www.zeit.de/2023/32/klimawandel-hitzewelle-waldbraende-extremwetter-erderwaermung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dürre in Frankreich: Auf der Suche nach Trinkwasser für Hunderttausende",
@@ -298,8 +298,8 @@
       "url": "https://www.zeit.de/wissen/2023-07/klima-juli-2023-heissester-monat-wetter"
     },
     {
-      "title": "Nordsee: Frachtschiff vor niederländischer Küste fängt Feuer",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/frachtschiff-nordsee-feuer-niederlande-3000-autos"
+      "title": "Z+ (abopflichtiger Inhalt); Klimawandel: Niemand muss untätig zuschauen",
+      "url": "https://www.zeit.de/2023/32/klimawandel-hitzewelle-waldbraende-extremwetter-erderwaermung"
     },
     {
       "title": "Nordsee: Frachtschiff vor niederländischer Küste fängt Feuer",
@@ -425,25 +425,25 @@
       "image_title": "Smartphone und Konzentration: Wie sehr das Smartphone unserer Konzentration schadet"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Waldbrände: Waldbrände, die sich der Mensch selbst gelegt hat",
+      "teaser": "Es brennt in Griechenland, Touristen fliehen von den Urlaubsinseln. Wo sich Feuer mit dem Klimawandel verändern und warum dabei der Mensch stets die größte Gefahr ist.",
+      "url": "https://www.zeit.de/wissen/umwelt/2023-07/waldbraende-hitzewelle-griechenland-kanada-faq",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/waldbraende-hitzewelle-griechenland-kanada-faq-bild-3/wide__822x462",
+      "image_title": "Waldbrände: Waldbrände, die sich der Mensch selbst gelegt hat"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Quiz: Der feine Unterschied",
       "teaser": "Graupel oder Hagel – was ist größer? Guyana oder Guinea – was liegt wo? Testen Sie in unserem Grafikquiz, wie gut Ihr Detailwissen ist.",
       "url": "https://www.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere",
-      "image_url": "https://img.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/31/quiz-verwechselungen-laender-flaggen-tiere-teaser/cinema__980x420",
       "image_title": "Quiz: Der feine Unterschied"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Farbwahrnehmung: Die Farbe Blau, die kannten die alten Griechen nicht",
       "teaser": "Frühere Kulturen hatten kein Wort für Blau und bezeichneten Gesichter als grün. Wie der Mensch Farben wahrnimmt und wie sich das über Jahrhunderte verändert hat.",
       "url": "https://www.zeit.de/zeit-wissen/2023/04/farbwahrnehmung-farben-evolution-forschung-geschichte",
-      "image_url": "https://img.zeit.de/wissen/2023-07/farbwahrnehmung-farben-evolution-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/2023-07/farbwahrnehmung-farben-evolution-teaser/wide__822x462",
       "image_title": "Farbwahrnehmung: Die Farbe Blau, die kannten die alten Griechen nicht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Währungsreform 1948 : Die D-Mark war eine Amerikanerin",
-      "teaser": "1948 kam das neue Geld: 5,7 Milliarden D-Mark wurden in den USA gedruckt und in Holzkisten nach Deutschland verschifft. Die Sowjetunion blockierte daraufhin West-Berlin.",
-      "url": "https://www.zeit.de/zeit-geschichte/2023/04/waehrungsreform-1948-freier-markt-geschichte",
-      "image_url": "https://img.zeit.de/zeit-geschichte/2023/04/5-7-milliarden-in-kisten-bild-5/wide__822x462",
-      "image_title": "Währungsreform 1948 : Die D-Mark war eine Amerikanerin"
     },
     {
       "title": "Vereinte Nationen: Welternährungsprogramm muss Hilfsleistungen kürzen",
@@ -460,10 +460,17 @@
       "image_title": "Sondervermögen: Rote Zahlen für eine grüne Zukunft"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Währungsreform 1948 : Die D-Mark war eine Amerikanerin",
+      "teaser": "1948 kam das neue Geld: 5,7 Milliarden D-Mark wurden in den USA gedruckt und in Holzkisten nach Deutschland verschifft. Die Sowjetunion blockierte daraufhin West-Berlin.",
+      "url": "https://www.zeit.de/zeit-geschichte/2023/04/waehrungsreform-1948-freier-markt-geschichte",
+      "image_url": "https://img.zeit.de/zeit-geschichte/2023/04/5-7-milliarden-in-kisten-bild-5/cinema__980x420",
+      "image_title": "Währungsreform 1948 : Die D-Mark war eine Amerikanerin"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Urlaub und Klimaschutz: Aber Reisen erweitert den Horizont ...",
       "teaser": "Um die Welt zu fliegen ist fantastisch und es ist ein Drama, dass die Welt dadurch kaputtgeht. Am Ende gibt es aber kein Entkommen vor der Erderhitzung.",
       "url": "https://www.zeit.de/2023/31/urlaub-klimaschutz-reisen-klima-ausreden",
-      "image_url": "https://img.zeit.de/2023/31/aber-reisen-erweitert-den-horizont-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/31/aber-reisen-erweitert-den-horizont-bild-1/wide__822x462",
       "image_title": "Urlaub und Klimaschutz: Aber Reisen erweitert den Horizont ..."
     },
     {
@@ -474,13 +481,6 @@
       "image_title": "Hitzewelle: Italienischer Wetterdienst warnt vor Temperaturen bis 48 Grad"
     },
     {
-      "title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger",
-      "teaser": "Laut einer spanischen Datenauswertung erhöhen sich infolge der Klimakrise die Wassertemperatur und der Salzgehalt des Mittelmeeres. Beides gefährdet die Artenvielfalt.",
-      "url": "https://www.zeit.de/wissen/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt-bild/wide__822x462",
-      "image_title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger"
-    },
-    {
       "title": "Sprachtest: Wie gut ist Ihr Französisch?",
       "teaser": "Sprache bildet die Grundlage für Kommunikation. Wie gut die eigenen Sprachkenntnisse sind, können Sie schnell mit unserem digitalen Sprachtest herausfinden.",
       "url": "https://sprachtest.zeit.de/franzoesisch?wt_zmc=fix.int.zonaudev.alias.alias.zeitde.alias.spotlight-sprachtest-link-franzoesisch.x&utm_medium=fix&utm_source=alias_zonaudev_int&utm_campaign=alias&utm_content=zeitde_alias_spotlight-sprachtest-link-franzoesisch_x",
@@ -488,25 +488,25 @@
       "image_title": "Sprachtest: Wie gut ist Ihr Französisch?"
     },
     {
-      "title": "Klimaforscher Mojib Latif: \"Point of no Return\" beim Klimawandel laut Experte noch nicht erreicht",
-      "teaser": "Nach Einschätzung des UN-Generalsekretärs ist der Klimawandel außer Kontrolle. Der Kieler Klimaforscher Mojib Latif sieht Hoffnung: Das 1,5-Grad-Ziel sei noch erreichbar.",
-      "url": "https://www.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris",
-      "image_url": "https://img.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris-bild/wide__822x462",
-      "image_title": "Klimaforscher Mojib Latif: \"Point of no Return\" beim Klimawandel laut Experte noch nicht erreicht"
+      "title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger",
+      "teaser": "Laut einer spanischen Datenauswertung erhöhen sich infolge der Klimakrise die Wassertemperatur und der Salzgehalt des Mittelmeeres. Beides gefährdet die Artenvielfalt.",
+      "url": "https://www.zeit.de/wissen/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/mittelmeer-klimawandel-wassertemperatur-salzgehalt-artenvielfalt-bild/wide__822x462",
+      "image_title": "ICM-CSIC: Mittelmeer wird laut Studie wärmer und salziger"
+    },
+    {
+      "title": "Krankenhausreform: Das Krankenhaus schließt. Ist das so schlimm?",
+      "teaser": "Deutschland baut die Klinikversorgung um. Im oberpfälzische Roding kann man die Folgen bereits besichtigen: Die einst stolze Klinik ist einem Gesundheitscampus gewichen.",
+      "url": "https://www.zeit.de/2023/32/krankenhausreform-karl-lauterbach-schliessungen-spezialisierung-medizinische-versorgung",
+      "image_url": "https://img.zeit.de/2023/32/krankenhaus-klinikreform-teaserbild/cinema__980x420",
+      "image_title": "Krankenhausreform: Das Krankenhaus schließt. Ist das so schlimm?"
     },
     {
       "title": "E-Rezept: Mehr Apotheken bieten Einlösung eines E-Rezepts durch Chipkarte an",
       "teaser": "80 Prozent der Apotheken können nach Verbandsangaben inzwischen elektronische Gesundheitskarten einlesen. So können E-Rezepte statt rosa Verschreibungen eingelöst werden.",
       "url": "https://www.zeit.de/gesundheit/2023-07/elektronisches-rezept-apotheken-gesundheitskarte-medikamente",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/elektronisches-rezept-apotheken-gesundheitskarte-medikamente-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2023-07/elektronisches-rezept-apotheken-gesundheitskarte-medikamente-bild/wide__822x462",
       "image_title": "E-Rezept: Mehr Apotheken bieten Einlösung eines E-Rezepts durch Chipkarte an"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Binge-Eating: \"Die Patienten lernen einen Schokoriegel anzusehen, ohne ihn zu essen\"",
-      "teaser": "Binge-Eating ist die häufigste Essstörung in Deutschland. Wer daran leidet, verliert oft die Kontrolle. Psychologin Anja Hilbert weiß, wie man die Störung heilen kann.",
-      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2023-07/binge-eating-disorder-essen-kontrolle-therapie",
-      "image_url": "https://img.zeit.de/gesundheit/2023-07/binge-eating-disorder-essen-kontrolle-therapie-bild/wide__822x462",
-      "image_title": "Binge-Eating: \"Die Patienten lernen einen Schokoriegel anzusehen, ohne ihn zu essen\""
     },
     {
       "title": "Klimakrise: Wie extrem wird das Wetter noch?",
@@ -530,18 +530,18 @@
       "image_title": "Pariser Klimaabkommen: Sind 1,5 Grad überhaupt noch zu schaffen?"
     },
     {
+      "title": "Klimaforscher Mojib Latif: \"Point of no Return\" beim Klimawandel laut Experte noch nicht erreicht",
+      "teaser": "Nach Einschätzung des UN-Generalsekretärs ist der Klimawandel außer Kontrolle. Der Kieler Klimaforscher Mojib Latif sieht Hoffnung: Das 1,5-Grad-Ziel sei noch erreichbar. 1.042 Kommentare",
+      "url": "https://www.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris",
+      "image_url": "https://img.zeit.de/wissen/2023-07/klimawandel-mojib-latif-klimaabkommen-paris-bild/cinema__980x420",
+      "image_title": "Klimaforscher Mojib Latif: \"Point of no Return\" beim Klimawandel laut Experte noch nicht erreicht"
+    },
+    {
       "title": "Manganknollen: Meeresbodenbehörde vertagt Entscheidung zu Tiefseebergbau",
       "teaser": "Der Abbau von Manganknollen auf dem Meeresboden könnte Rohstoffe für E-Autos liefern – birgt aber Gefahren. Ein Regelwerk soll erst in zwei Jahren beschlossen werden.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-07/tiefseebergbau-internationale-meeresbodenbehoerde-sitzung-manganknollen",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/tiefseebergbau-internationale-meeresbodenbehoerde-sitzung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/tiefseebergbau-internationale-meeresbodenbehoerde-sitzung-bild/wide__822x462",
       "image_title": "Manganknollen: Meeresbodenbehörde vertagt Entscheidung zu Tiefseebergbau"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dürre in Frankreich: Auf der Suche nach Trinkwasser für Hunderttausende",
-      "teaser": "In Frankreich bleibt mancherorts nur noch die Versorgung mit Plastikflaschen. Besuch bei einer Frau, die neue Wasserquellen finden soll",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-07/frankreich-duerre-wasserknappheit-wasserversorgung-klimakrise",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-07/frankreich-duerre-wasserknappheit-wasserversorgung-klimakrise-bild/wide__822x462",
-      "image_title": "Dürre in Frankreich: Auf der Suche nach Trinkwasser für Hunderttausende"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wiener Prater : Venedig in Wien",
