@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-01T08:14:27",
+  "timestamp": "2023-08-01T09:11:32",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Arbeitsmarkt: Arbeitslosenzahlen im Juli erneut gestiegen",
+      "teaser": "Die schwache Konjunktur hinterlasse Spuren, sagt Bundesagentur-Chefin Andrea Nahles. Die Zahl der Arbeitslosen ist wie zu erwarten mit Beginn der Sommerpause gestiegen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-08/arbeitslosigkeit-juli-arbeitsmarkt-andrea-nahles",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/arbeitslosigkeit-juli-arbeitsmarkt-andrea-nahles-bild/cinema__980x420"
+    },
+    {
       "title": "Elektroautos: Volker Wissing setzt auf günstigere E-Autos durch \"Dienstwageneffekt\"",
       "teaser": "Dienstwagen werden öfter ausgetauscht als Privatfahrzeuge. Daher hofft der Bundesverkehrsminister auf mehr bezahlbare Elektroautos auf dem Gebrauchtwagenmarkt.",
       "url": "https://www.zeit.de/wirtschaft/2023-08/e-autos-volker-wissing-dienstwageneffekt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-08/e-autos-volker-wissing-dienstwageneffekt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/e-autos-volker-wissing-dienstwageneffekt-bild/wide__822x462",
+      "image_title": "Elektroautos: Volker Wissing setzt auf günstigere E-Autos durch \"Dienstwageneffekt\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Inflation Reduction Act: Amerika boomt wieder",
@@ -66,22 +73,15 @@
       "title": "San Francisco: Leuchtendes X-Logo vom Dach des Twitter-Hauptquartiers entfernt",
       "teaser": "Eine etwa ein Stockwerk hohe, beleuchtete Installation auf dem Dach der Twitter-Zentrale hatte Nachbarn verärgert und gegen Bauauflagen verstoßen. Nun ist das X weg.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/twitter-x-zentrale-installation-entfernung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/x-logo-twitter-abbau-san-francisco/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/x-logo-twitter-abbau-san-francisco/cinema__980x420",
       "image_title": "San Francisco: Leuchtendes X-Logo vom Dach des Twitter-Hauptquartiers entfernt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Solarindustrie in Deutschland: \"Das US-Programm ist für Investoren einfach gigantisch\"",
       "teaser": "Peter Fath entwickelt mit seiner Firma Solarfabriken und kennt die attraktivsten Standorte weltweit. Er empfiehlt Investoren ein Land, auf das man nicht sofort kommt.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/solarindustrie-deutschland-standort-china-usa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/solarindustrie-deutschland-standort-china-usa-wueste/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/solarindustrie-deutschland-standort-china-usa-wueste/wide__822x462",
       "image_title": "Solarindustrie in Deutschland: \"Das US-Programm ist für Investoren einfach gigantisch\""
-    },
-    {
-      "title": "Ifo-Umfrage: Ökonomen erwarten weltweit deutlichen Anstieg der Immobilienpreise",
-      "teaser": "Die Preise für Immobilien könnten laut einer Umfrage in manchen Ländern um bis zu 25 Prozent jährlich steigen. In Europa dürfte die Entwicklung aber moderater ausfallen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/immobilienpreise-weltweit-ifo-umfrage",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/immobilien-preise-steigerung-nachfrage-angebot/wide__822x462",
-      "image_title": "Ifo-Umfrage: Ökonomen erwarten weltweit deutlichen Anstieg der Immobilienpreise"
     },
     {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
@@ -91,11 +91,11 @@
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
     },
     {
-      "title": "Verbraucherpreise: Inflation in der Eurozone schwächt sich weiter ab",
-      "teaser": "Der Inflationsdruck in den Euroländern lässt trotz der höheren Leitzinsen nur leicht nach. Die Verbraucherpreise lagen im Juli 5,3 Prozent über denen im Vorjahresmonat.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/eurozone-inflation-gesunken-juli",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/eurozone-inflation-gesunken-juli-bild/wide__822x462",
-      "image_title": "Verbraucherpreise: Inflation in der Eurozone schwächt sich weiter ab"
+      "title": "Ifo-Umfrage: Ökonomen erwarten weltweit deutlichen Anstieg der Immobilienpreise",
+      "teaser": "Die Preise für Immobilien könnten laut einer Umfrage in manchen Ländern um bis zu 25 Prozent jährlich steigen. In Europa dürfte die Entwicklung aber moderater ausfallen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-07/immobilienpreise-weltweit-ifo-umfrage",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/immobilien-preise-steigerung-nachfrage-angebot/wide__822x462",
+      "image_title": "Ifo-Umfrage: Ökonomen erwarten weltweit deutlichen Anstieg der Immobilienpreise"
     },
     {
       "title": "Tarifstreit bei der Bahn: Bahn-Schlichtung abgeschlossen – Vermittler wollen Ergebnis vorstellen",
@@ -203,6 +203,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Verbraucherpreise: Inflation in der Eurozone schwächt sich weiter ab",
+      "teaser": "Der Inflationsdruck in den Euroländern lässt trotz der höheren Leitzinsen nur leicht nach. Die Verbraucherpreise lagen im Juli 5,3 Prozent über denen im Vorjahresmonat.",
+      "url": "https://www.zeit.de/wirtschaft/2023-07/eurozone-inflation-gesunken-juli",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/eurozone-inflation-gesunken-juli-bild/wide__822x462",
+      "image_title": "Verbraucherpreise: Inflation in der Eurozone schwächt sich weiter ab"
+    },
+    {
       "title": "Tesla-Fabrik Grünheide: Wasserverband warnt vor Folgen für Grundwasser durch Tesla-Ausbau",
       "teaser": "In Grünheide will Tesla seine Fabrik ausbauen. Das Unternehmen weist ökologische Probleme, die der regionale Wasserverband befürchtet, als unbegründet zurück.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-07/tesla-gruenheide-ausbau-umwelt-wasserverband",
@@ -225,16 +232,16 @@
     },
     {
       "title": "Wohnungsbau: Zahl der Sozialwohnungen in Deutschland sinkt",
-      "teaser": "Jährlich 100.000 neue Sozialwohnungen wollte die Bundesregierung schaffen. 2022 gelang das nicht. Unterm Strich gibt es sogar weniger Wohnungen für Geringverdiener.",
+      "teaser": "Jährlich 100.000 neue Sozialwohnungen wollte die Bundesregierung schaffen. 2022 gelang das nicht. Unterm Strich gibt es sogar weniger Wohnungen für Geringverdiener. 179 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-07/sozialwohnungen-neubau-bundesregierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/wohnungsblock-frankfurt-sozialwohnungen/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/wohnungsblock-frankfurt-sozialwohnungen/cinema__980x420",
       "image_title": "Wohnungsbau: Zahl der Sozialwohnungen in Deutschland sinkt"
     },
     {
       "title": "Lebensmittel: Penny-Discounter schlägt Umweltkosten auf Artikelpreise drauf",
-      "teaser": "Bei Penny kosten Wiener Würstchen ab Montag 6,01 Euro statt 3,19 Euro. Bei der vorübergehenden Aktion werden Auswirkungen auf die Umwelt in einige Preise einbezogen. 983 Kommentare",
+      "teaser": "Bei Penny kosten Wiener Würstchen ab Montag 6,01 Euro statt 3,19 Euro. Bei der vorübergehenden Aktion werden Auswirkungen auf die Umwelt in einige Preise einbezogen.",
       "url": "https://www.zeit.de/wirtschaft/2023-07/lebensmittel-penny-wahrer-preis-umweltfolgekosten",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/discounter-aktion-folgekosten-umwelt-penny-wiener-wuerstchen/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-07/discounter-aktion-folgekosten-umwelt-penny-wiener-wuerstchen/wide__822x462",
       "image_title": "Lebensmittel: Penny-Discounter schlägt Umweltkosten auf Artikelpreise drauf"
     },
     {
@@ -243,13 +250,6 @@
       "url": "https://www.zeit.de/2023/32/taiwan-chipproduktion-china-invasion",
       "image_url": "https://img.zeit.de/2023/32/sorglos-vor-der-invasion-bild-1/wide__822x462",
       "image_title": "Taiwan: Ein Schutzschild aus Silizium"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Sondervermögen: Rote Zahlen für eine grüne Zukunft",
-      "teaser": "Mit einem Sondervermögen will Berlin Maßnahmen gegen die Klimakrise finanzieren. Auch andere Bundesländer gehen so vor. Doch Ökonomen zweifeln an der Verhältnismäßigkeit.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/sondervermoegen-berlin-klimaschutz-saarland-bremen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-07/sondervermoegen-berlin-klimaschutz-saarland-bremen-bild/wide__822x462",
-      "image_title": "Sondervermögen: Rote Zahlen für eine grüne Zukunft"
     },
     {
       "title": "Zugverkehr: Deutsche Bahn erwirtschaftet Verlust im ersten Halbjahr",
@@ -301,11 +301,11 @@
       "image_title": "Anschlussfinanzierung Immobilien: So bleiben die Raten im Rahmen"
     },
     {
-      "title": "WirtschaftsWocheGallium aus China: Macht Peking ernst, droht der Autoindustrie Stillstand",
+      "title": "WirtschaftsWocheGallium aus China: Macht Peking Ernst, droht der Autoindustrie Stillstand",
       "teaser": "Ab heute gelten Chinas Exportbeschränkungen bei Gallium und Germanium. Vor allem Gallium ist für unzählige deutsche Hightech-Produkte unverzichtbar. Alternative Materialien gibt es kaum.",
       "url": "https://www.wiwo.de/technologie/umwelt/gallium-aus-china-macht-peking-ernst-droht-der-autoindustrie-stillstand/29288256.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/img_9801/29289180/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Gallium aus China: Macht Peking ernst, droht der Autoindustrie Stillstand"
+      "image_title": "Gallium aus China: Macht Peking Ernst, droht der Autoindustrie Stillstand"
     },
     {
       "title": "WirtschaftsWocheSo arbeite ich #2 | Alice Mascia: „Ich trainiere jeden Morgen, sieben Tage die Woche“",
