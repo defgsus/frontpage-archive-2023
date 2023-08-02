@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-02T09:10:31",
+  "timestamp": "2023-08-02T10:11:41",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -143,14 +143,16 @@
       "url": "https://www.heise.de/news/Zahlen-bitte-Scheinbares-Antlitz-in-3X1-5-Quadratkilometern-Das-Marsgesicht-9231316.html"
     },
     {
-      "title": "Olimex bringt ESP32-S3-DevKit-Lipo auf den Markt",
-      "teaser": "Vor zwei Jahren veröffentlichte Olimex das ESP32-S2-DevKit-Lipo-USB. Jetzt ist der Nachfolger mit dem neuen ESP32 S3 erschienen.",
-      "url": "https://www.heise.de/news/Olimex-bringt-ESP32-S3-DevKit-Lipo-auf-den-Markt-9232624.html"
+      "title": "Python: Pläne für effizienteres Multithreading ohne Global Interpreter Lock",
+      "teaser": "Das Python Steering Council veröffentlicht die Planung für das langfristige Ende des Global Interpreter Lock, der als Hindernis für Multithreading gilt.",
+      "url": "https://www.heise.de/news/Python-Plaene-fuer-effizienteres-Multithreading-ohne-Global-Interpreter-Lock-9232435.html",
+      "image_title": "Python"
     },
     {
-      "title": "\"Star Wars Jedi Survivor\": EA arbeitet an Version für PS4 und Xbox One",
-      "teaser": "\"Star Wars Jedi Survivor\" erschien ursprünglich nur für PS5, Xbox Series X/S und PC. Nun sollen aber auch die älteren Konsolen versorgt werden.",
-      "url": "https://www.heise.de/news/Star-Wars-Jedi-Survivor-EA-arbeitet-an-Version-fuer-PS4-und-Xbox-One-9232466.html"
+      "title": "Youtube testet KI-Zusammenfassungen von Videos",
+      "teaser": "Generative KI kann Inhalte zusammenfassen – auch von ganzen Videos. Damit experimentiert Google derzeit bei Youtube.",
+      "url": "https://www.heise.de/news/Youtube-testet-KI-Zusammenfassungen-von-Videos-9232604.html",
+      "image_title": "Warsaw,,Poland,-,10.06.2020:,Youtube,App,On,The,Smartphone.,Youtube"
     },
     {
       "title": "Mobilfunkstandard 5G – was Unternehmen beim Einsatz beachten sollten",
@@ -158,15 +160,58 @@
       "url": "https://www.heise.de/solutions/gcore/mobilfunkstandard-5g-was-unternehmen-beim-einsatz-beachten-sollten/?source=nat_teas"
     },
     {
+      "title": "Wie Sie Passkey-Logins in eigenen Webdiensten ergänzen",
+      "teaser": "Passkeys sind sicherer als Passwörter und alltagstauglicher als FIDO2-Authentifizierungen. Wir zeigen, wie Sie diese in bestehende Webanwendungen integrieren.",
+      "url": "https://www.heise.de/ratgeber/Passkey-Logins-in-eigenen-Webdiensten-ergaenzen-9224988.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "Erdüberlastungstag: Wie die Kreislaufwirtschaft mehr Nachhaltigkeit bringen kann",
+      "teaser": "Ab dem heutigen Erdüberlastungstag lebt die Menschheit über ihre Verhältnisse. Die Kreislaufwirtschaft bietet Potenzial, Ressourcen nachhaltiger zu nutzen.",
+      "url": "https://www.heise.de/hintergrund/Erdueberlastungstag-Wie-die-Kreislaufwirtschaft-mehr-Nachhaltigkeit-bringen-kann-6510749.html",
+      "image_title": ","
+    },
+    {
+      "title": "Olimex bringt ESP32-S3-DevKit-Lipo auf den Markt",
+      "teaser": "Vor zwei Jahren veröffentlichte Olimex das ESP32-S2-DevKit-Lipo-USB. Jetzt ist der Nachfolger mit dem neuen ESP32 S3 erschienen.",
+      "url": "https://www.heise.de/news/Olimex-bringt-ESP32-S3-DevKit-Lipo-auf-den-Markt-9232624.html"
+    },
+    {
+      "title": "\"Star Wars Jedi Survivor\" erscheint auch für PS4 und Xbox One",
+      "teaser": "\"Star Wars Jedi Survivor\" erschien ursprünglich nur für PS5, Xbox Series X/S und PC. Nun sollen aber auch die älteren Konsolen versorgt werden.",
+      "url": "https://www.heise.de/news/Star-Wars-Jedi-Survivor-EA-arbeitet-an-Version-fuer-PS4-und-Xbox-One-9232466.html"
+    },
+    {
       "title": "Pro & Contra: Brauchen wir noch einen Mac Pro?",
       "teaser": "Der Mac Studio mit M2 Ultra hat den gleichen Prozessor wie der neue Mac Pro, kostet aber wesentlich weniger. Wozu dann noch einen Apple-Tower?",
       "url": "https://www.heise.de/meinung/Pro-Contra-Brauchen-wir-noch-einen-Mac-Pro-9221898.html"
     },
     {
-      "title": "Die Hoffnung stirbt zuletzt: Apple-Patent erwähnt 5G in MacBooks",
+      "title": "UpdateDie Hoffnung stirbt zuletzt: Apple-Patent erwähnt 5G in MacBooks",
       "teaser": "Apple hat schon vor Jahren damit experimentiert, MacBooks mit Funkmodems auszustatten. Nun wärmt ein neuer Patentantrag die Gerüchte wieder auf.",
       "url": "https://www.heise.de/news/Die-Hoffnung-stirbt-zuletzt-Apple-Patent-erwaehnt-5G-in-MacBooks-9231772.html",
       "image_title": "Funkender Mac"
+    },
+    {
+      "title": "Windows-Spiele auf Apple-HardwareSo laufen Diablo 4, Cyberpunk und Co. auf dem Mac problemlos",
+      "teaser": "Windows-Spiele auf dem MacBook zocken? Mit dem Game Porting Toolkit kein Problem. Wir zeigen, was zu tun ist und wie die Spiele laufen.",
+      "url": "https://www.heise.de/ratgeber/Windows-Spiele-auf-dem-Mac-So-laufen-Diablo-4-Cyberpunk-und-Co-problemlos-9203934.html"
+    },
+    {
+      "title": "Effizient Werbung blockieren: Anleitung für AdGuard Home und Raspberry Pi",
+      "teaser": "Der wirkungsvollste Schutz gegen unerwünschte Werbung ist ein DNS-basierter Werbeblocker. Wir erklären, wie Sie AdGuard für Ihr Netzwerk ​einrichten.",
+      "url": "https://www.heise.de/ratgeber/Effizient-Werbung-blockieren-Anleitung-fuer-AdGuard-Home-und-Raspberry-Pi-9219120.html",
+      "image_title": "Werbeblocker AdBlock"
+    },
+    {
+      "title": "Hardware-TestGünstige Prozessoren mit guter Spiele-Leistung",
+      "teaser": "Vier CPUs bis 160 Euro mit ordentlicher Spieleleistung zeigen im Test, was sie können.",
+      "url": "https://www.heise.de/tests/Vier-guenstige-CPUs-fuer-aktuelle-Spiele-im-Test-9211321.html"
+    },
+    {
+      "title": "heise+ Aktionsangebot",
+      "teaser": "Ein halbes Jahr zum halben Preis: heise+ 6 Monate mit 50% Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur für kurze Zeit!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Bug in der Beta: iOS und iPadOS 17 mögen keine eigenen Fonts mehr",
@@ -189,27 +234,6 @@
       "teaser": "Erfahren Sie, wie Sie Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf den Datenschutz und die Informationssicherheit umsetzen können.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-und-datenschutzfreundlich-konfigurieren-9212007.html",
       "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Windows-Spiele auf Apple-HardwareSo laufen Diablo 4, Cyberpunk und Co. auf dem Mac problemlos",
-      "teaser": "Windows-Spiele auf dem MacBook zocken? Mit dem Game Porting Toolkit kein Problem. Wir zeigen, was zu tun ist und wie die Spiele laufen.",
-      "url": "https://www.heise.de/ratgeber/Windows-Spiele-auf-dem-Mac-So-laufen-Diablo-4-Cyberpunk-und-Co-problemlos-9203934.html"
-    },
-    {
-      "title": "Effizient Werbung blockieren: Anleitung für AdGuard Home und Raspberry Pi",
-      "teaser": "Der wirkungsvollste Schutz gegen unerwünschte Werbung ist ein DNS-basierter Werbeblocker. Wir erklären, wie Sie AdGuard für Ihr Netzwerk ​einrichten.",
-      "url": "https://www.heise.de/ratgeber/Effizient-Werbung-blockieren-Anleitung-fuer-AdGuard-Home-und-Raspberry-Pi-9219120.html",
-      "image_title": "Werbeblocker AdBlock"
-    },
-    {
-      "title": "Hardware-TestGünstige Prozessoren mit guter Spiele-Leistung",
-      "teaser": "Vier CPUs bis 160 Euro mit ordentlicher Spieleleistung zeigen im Test, was sie können.",
-      "url": "https://www.heise.de/tests/Vier-guenstige-CPUs-fuer-aktuelle-Spiele-im-Test-9211321.html"
-    },
-    {
-      "title": "heise+ Aktionsangebot",
-      "teaser": "Ein halbes Jahr zum halben Preis: heise+ 6 Monate mit 50% Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur für kurze Zeit!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
     },
     {
       "title": "Webdienste zur KI-gestützten Erstellung von Präsentationen im Test",
@@ -262,6 +286,11 @@
       "image_title": "Meta-Logo, dazu Text: MITTWOCH Meta-Werbung und -Nachrichtensperren, Uber-Zahlen, Telekom Austria & US-Atomkraftwerk"
     },
     {
+      "title": "KI-Architekturen richtig einsetzen",
+      "teaser": "Machine Learning und andere Methoden der künstlichen Intelligenz (KI) stellen je nach Anwendung sehr unterschiedliche Anforderungen an die IT-Umgebung. Welche Rechnerarchitektur für welche Aufgaben am besten geeignet ist - und wie sich mit der richtigen Architektur Performance und Effektivität von KI-Projekten steigern lässt!",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/ki-architekturen-richtig-einsetzen-4553/?source=hbsad"
+    },
+    {
       "title": "Bit-Rauschen, der Prozessor-Podcast: Woran Halbleiter sterben",
       "teaser": "Mancher Alt-PC läuft nach Jahrzehnten noch. Doch auch Halbleiter leben nicht ewig. Wie sie ausfallen, erklärt der Podcast Bit-Rauschen, Folge 2023/16.",
       "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Woran-Halbleiter-sterben-7464317.html",
@@ -283,11 +312,6 @@
       "title": "AMDs Ryzen-Prozessoren machen weiter Minus",
       "teaser": "Zurück zur Profitabilität – wenn auch nur knapp. Dank Eypc, Ryzen, Xilinx-Chips, Konsolen und einer kleinen Steuererleichterung kommt AMD aus dem Minus.",
       "url": "https://www.heise.de/news/AMD-landet-haarscharf-in-den-schwarzen-Zahlen-9232387.html"
-    },
-    {
-      "title": "KI-Architekturen richtig einsetzen",
-      "teaser": "Machine Learning und andere Methoden der künstlichen Intelligenz (KI) stellen je nach Anwendung sehr unterschiedliche Anforderungen an die IT-Umgebung. Welche Rechnerarchitektur für welche Aufgaben am besten geeignet ist - und wie sich mit der richtigen Architektur Performance und Effektivität von KI-Projekten steigern lässt!",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/ki-architekturen-richtig-einsetzen-4553/?source=hbsad"
     },
     {
       "title": "In Kanada: Meta blockiert ab sofort Links auf Nachrichten",
@@ -321,28 +345,6 @@
       "title": "Fritzfon X6: AVM vergrößert das Telefon-Display",
       "teaser": "AVM legt eine verbesserte Version des Fritzfon C6 auf. Die X6-Version verwendet ein größeres Display und erhält eine programmierbare Favoritentaste.",
       "url": "https://www.heise.de/news/Fritzfon-X6-AVM-vergroessert-das-Telefon-Display-9232255.html"
-    },
-    {
-      "title": "FISA: Weißes Haus bringt kleine Korrektur bei Massenüberwachung ins Spiel",
-      "teaser": "Berater des US-Präsidenten empfehlen erstmals kleine Korrekturen eines US-Überwachungsgesetzes und kritisieren dessen Missbrauch durchs FBI.",
-      "url": "https://www.heise.de/news/FISA-Weisses-Haus-bringt-kleine-Korrektur-bei-Massenueberwachung-ins-Spiel-9232262.html",
-      "image_title": "Jacke mit FBI-Schriftzug"
-    },
-    {
-      "title": "Fachkräftemangel: Bremse für KI-Startups und KI-Einsatz im Mittelstand",
-      "teaser": "Für die deutschen KI-Startups ist der Mangel an Fachleuten laut einer Studie wesentliches Wachstumshemmnis. Und dem Mittelstand fehlt Expertise für den Einsatz.",
-      "url": "https://www.heise.de/news/Fachkraeftemangel-Bremse-fuer-KI-Startups-und-KI-Einsatz-im-Mittelstand-9232200.html",
-      "image_title": "Student,Using,Laptop,In,Library,And,Illustration,Of,Virtual,Icons."
-    },
-    {
-      "title": "Algorithmus identifiziert potenziell gefährlichen Asteroiden 2022 SF289",
-      "teaser": "Ein Algorithmus hat einen potenziell gefährlichen Asteroiden entdeckt. Er könnte zukünftig die Zeit verschaffen, die nötig ist, um Gegenmaßnahmen einzuleiten.",
-      "url": "https://www.heise.de/news/HelioLinc3D-Algorithmus-Astronomen-entdecken-potenziell-gefaehrlichen-Asteroiden-9232185.html"
-    },
-    {
-      "title": "Open Source: Schleswig-Holstein kritisiert \"massive Kürzungen\" im Bundeshaushalt",
-      "teaser": "Digitale Souveränität sei \"weit aus dem Fokus des Bundes gerückt\", kritisiert die Landesregierung von Schleswig-Holstein. Open Source komme zu kurz.",
-      "url": "https://www.heise.de/news/Open-Source-Schleswig-Holstein-kritisiert-massive-Kuerzungen-im-Bundeshaushalt-9231702.html"
     },
     {
       "title": "Microsofts gestohlener Schlüssel mächtiger als vermutet",
@@ -511,6 +513,12 @@
       "url": "https://www.heise.de/news/ESA-Windsatellit-Aeolus-kontrolliert-ueber-Antarktis-verglueht-9230022.html"
     },
     {
+      "title": "Fachkräftemangel: Bremse für KI-Startups und KI-Einsatz im Mittelstand",
+      "teaser": "Für die deutschen KI-Startups ist der Mangel an Fachleuten laut einer Studie wesentliches Wachstumshemmnis. Und dem Mittelstand fehlt Expertise für den Einsatz.",
+      "url": "https://www.heise.de/news/Fachkraeftemangel-Bremse-fuer-KI-Startups-und-KI-Einsatz-im-Mittelstand-9232200.html",
+      "image_title": "Student,Using,Laptop,In,Library,And,Illustration,Of,Virtual,Icons."
+    },
+    {
       "title": "Jobs in der AutoindustrieTeamleiterin SW-Entwicklung und Fördermittelprojekte",
       "teaser": "Jobs, die in der Autoindustrie und bei Zulieferern künftig wichtig sind: Wie man Herstellung optimiert, dass sie kosteneffizient und resilient bleibt.",
       "url": "https://www.heise.de/hintergrund/Jobs-in-der-Autoindustrie-Teamleiterin-SW-Entwicklung-und-Foerdermittelprojekte-9214688.html",
@@ -525,11 +533,6 @@
       "title": "Gehälter 2023Gehälter 2023: Das verdienen Mitarbeiter im IT-Support",
       "teaser": "Reich wird man als IT-Supporter eher nicht. Aber der Job eignet sich hervorragend für den Karrierestart in der IT-Branche – auch für Quereinsteiger.",
       "url": "https://www.heise.de/hintergrund/Gehaelter-2023-Das-verdienen-Mitarbeiter-im-IT-Support-9227083.html"
-    },
-    {
-      "title": "Games-Branche im Wachstum: Schon 12.000 Deutsche arbeiten in Spielefirmen",
-      "teaser": "Die deutsche Spielebranche legt erneut zu: Immer mehr Firmen werden gegründet, immer mehr Menschen arbeiten dort. Doch Vertreter sehen das Wachstum in Gefahr.",
-      "url": "https://www.heise.de/news/Deutsche-Games-Branche-waechst-auf-12-000-Angestellte-9226739.html"
     },
     {
       "title": "Twitter ohne Vogel, Google ohne Internet, Netflix ohne Basis-Abo | #heiseshow",
@@ -715,19 +718,19 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-smartwatches-mit-ekg-ab-99-euro/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
-      "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
-      "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
+      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
+      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
+      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
     },
     {
-      "title": "Streiter für die wahre Demokratie? Lanz kanzelt Aiwanger ab",
-      "teaser": "Mediensplitter (32): Der TV-Moderator macht vor, wie leicht es ist, Etiketten zu verteilen und den Platzanweiser zu spielen. Die AfD steht als Elefant im Raum. Gefährlich ist nicht nur der Populismus.",
-      "url": "https://www.heise.de/tp/features/Streiter-fuer-die-wahre-Demokratie-Lanz-kanzelt-Aiwanger-ab-9207988.html"
+      "title": "Russland: Kreml sucht Kanonenfutter",
+      "teaser": "Offizielle haben im Herbst 2022 Nachteile einer Mobilmachung begriffen. Jetzt werben sie intensiv um Freiwillige. Was der Wegfall der Wagner-Truppe bedeutet.",
+      "url": "https://www.heise.de/tp/features/Russland-Kreml-sucht-Kanonenfutter-9209013.html"
     },
     {
-      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
-      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
-      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
+      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
+      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
+      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
     },
     {
       "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
