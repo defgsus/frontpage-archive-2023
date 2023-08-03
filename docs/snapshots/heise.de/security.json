@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-03T08:13:51",
+  "timestamp": "2023-08-03T09:11:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti MobileIron",
+      "url": "https://www.heise.de/news/Upgrade-noetig-Kritische-Luecke-bedroht-aeltere-MobileIron-Ausgaben-von-Ivanti-9233587.html"
+    },
+    {
       "title": "Firefox, Thunderbird und Tor Browser",
       "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Firefox-Thunderbird-und-Tor-Browser-erschienen-9233478.html"
     },
@@ -44,18 +48,19 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-Websites-mit-Ninja-Forms-Plug-in-attackierbar-9230884.html"
     },
     {
-      "title": "Ivanti EPMM",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Ivanti-schliesst-erneute-Zero-Day-Luecke-in-EPMM-9230517.html"
+      "title": "Upgrade nötig: Kritische Lücke bedroht ältere MobileIron-Ausgaben von Ivanti",
+      "teaser": "Angreifer können an einer kritischen Schwachstelle in der nicht mehr im Support befindlichen Mobile-Device-Management-Lösung Ivanti MobileIron ansetzen.",
+      "url": "https://www.heise.de/news/Upgrade-noetig-Kritische-Luecke-bedroht-aeltere-MobileIron-Ausgaben-von-Ivanti-9233587.html"
     },
     {
-      "title": "Sicherheitsupdates für Firefox, Thunderbird und Tor Browser erschienen",
-      "teaser": "Angreifer könnten aus der Firefox-Sandbox ausbrechen. Die Entwickler haben noch weitere Lücken geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-fuer-Firefox-Thunderbird-und-Tor-Browser-erschienen-9233478.html"
+      "title": "Open-Source-Firewall OPNsense in neuer Version erschienen",
+      "teaser": "In der aktuellen OPNsense-Ausgabe haben die Entwickler in erster Linie Fehler bereinigt, aber auch Plug-ins aktualisiert.",
+      "url": "https://www.heise.de/news/Open-Source-Firewall-OPNsense-in-neuer-Version-erschienen-9232634.html"
     },
     {
-      "title": "Videokonferenz: BSI findet kritische Security-Schwachstellen bei BigBlueButton​",
-      "teaser": "Das BSI-Projekt CAOS hat den Code von Videokonferenz-Tools untersucht. Zwei kritische Lücken bei BigBlueButton haben die Entwickler inzwischen geschlossen.​",
-      "url": "https://www.heise.de/news/CAOS-BSI-prueft-Open-Source-Projekte-findet-Luecken-bei-Videokonferenz-Tools-9232811.html"
+      "title": "Collide+Power: Seitenkanalangriffe auf alle Prozessoren",
+      "teaser": "Beim Angriffsmuster Collide+Power ermöglicht eine Analyse der Leistungsaufnahme, geschützte Daten auszulesen. Grundsätzlich sind alle modernen CPUs betroffen.",
+      "url": "https://www.heise.de/news/Collide-Power-Seitenkanalangriffe-auf-alle-Prozessoren-9231995.html"
     },
     {
       "title": "Sicherheitsrisiko: Einige Canon-Drucker klammern sich an WLAN-Passwort",
@@ -149,11 +154,6 @@
       "title": "Ransomware-Gang ALPHV will mit Leaking-API Druck auf Opfer erhöhen",
       "teaser": "Cyberkriminelle überlegen sich regelmäßig neue Druckmittel, damit Opfer Lösegeld zahlen. Nun geht die ALPHV-Gang den nächsten Schritt.",
       "url": "https://www.heise.de/news/Ransomware-Gang-ALPHV-will-mit-Leaking-API-Druck-auf-Opfer-erhoehen-9228091.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Angreifer können Access Points von Aruba übernehmen",
-      "teaser": "Wenn die Netzwerkbetriebssysteme ArubaOS 10 oder InstantOS zum Einsatz kommen, sind Access Points von Aruba verwundbar.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Access-Points-von-Aruba-uebernehmen-9227914.html"
     },
     {
       "title": "heise Security Tour 2023",

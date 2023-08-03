@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-03T08:13:52",
+  "timestamp": "2023-08-03T09:11:05",
   "url": "https://www.volksstimme.de/blaulicht",
   "response": {
     "status": 200
@@ -44,11 +44,25 @@
   ],
   "articles": [
     {
-      "title": "Unwetter im Landkreis Börde: Schlammlawine auf der B189",
-      "url": "https://www.volksstimme.de/blaulicht/wolmirstedt/schlammmassen-unwetter-im-landkreis-boerde-schlammlawine-auf-der-b189-3663655",
+      "title": "Altes Löschfahrzeug geht in Osterburg im Kreis Stendal in Flammen auf",
+      "url": "https://www.volksstimme.de/blaulicht/stendal/altes-loschfahrzeug-geht-in-osterburg-im-kreis-stendal-in-flammen-auf-3663741",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/03/49b4bcca-e89b-47de-960c-cd3e69afb2e8.jpeg?rect=668%2C171%2C2748%2C1650&width=100",
+      "image_title": "Auf einem Grundstück an der Düsedauer Straße in Osterburg stand am Mittwoch der Aufbau eines früheren Löschfahrzeuges in Flammen.",
+      "topic": "Brand"
+    },
+    {
+      "title": "Unwetter im Landkreis Stendal: Schlammlawine auf der B189",
+      "url": "https://www.volksstimme.de/blaulicht/stendal/schlammmassen-unwetter-im-landkreis-stendal-schlammlawine-auf-der-b189-3663655",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/03/3c016125-5bdf-4b4d-98ab-1d924010b0a9.jpeg?rect=0%2C96%2C1024%2C576&width=100",
       "image_title": "Eine Schlammlawine hat die B189 bei Dolle blockiert.",
       "topic": "Schlammmassen"
+    },
+    {
+      "title": "Überfall auf Tankstelle im Harz: Polizei sucht Täter",
+      "url": "https://www.volksstimme.de/blaulicht/wernigerode/fahndung-uberfall-auf-tankstelle-im-harz-polizei-sucht-taeter-3663694",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/03/18cc5ff4-9dd6-48df-b6fb-af46faf70272.jpeg?rect=202%2C303%2C3231%2C1817&width=100",
+      "image_title": "In Ballenstedt wurde eine Tankstelle überfallen.",
+      "topic": "Fahndung"
     },
     {
       "title": "Mann tritt nach fremdenfeindlichen Äußerungen in Magdeburg auf Frau ein",
@@ -98,20 +112,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/02/e869ab8f-add1-49ee-aa43-9d5e89d03f1b.jpeg?rect=222%2C333%2C3556%2C2000&width=100",
       "image_title": "In Magdeburg wurden zwei Autos durch einen Autoreifen demoliert.",
       "topic": "Polizei"
-    },
-    {
-      "title": "Mann beißt Passant vor Magdeburger Hauptbahnhof",
-      "url": "https://www.volksstimme.de/blaulicht/magdeburg/polizei-mann-beisst-passant-vor-magdeburger-hauptbahnhof-3663235",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/02/cf93a8ff-7f79-450a-9c4b-c149f5be5049.jpeg?rect=351%2C309%2C3299%2C1855&width=100",
-      "image_title": "In Magdeburg wurden sowohl ein Passant als auch ein Sicherheitsmitarbeiter von einem Mann gebissen.",
-      "topic": "Polizei"
-    },
-    {
-      "title": "Auto steht in Osterburg im Kreis Stendal in Flammen",
-      "url": "https://www.volksstimme.de/blaulicht/stendal/auto-steht-in-osterburg-im-kreis-stendal-in-flammen-3663014",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/02/61b0bf4f-bf4f-4fc5-bdbf-60fae2c8fac2.jpeg?rect=247%2C132%2C1634%2C878&width=100",
-      "image_title": "Einsatzkräfte der Feuerwehr löschten am Dienstagabend in Osterburg einen Fahrzeugbrand.",
-      "topic": "Feuerwehr im Einsatz"
     },
     {
       "title": "Vorwurf der Vergewaltigung in Burg: Polizei mit neuen Erkenntnissen",
@@ -289,6 +289,13 @@
       "topic": "Beendorf"
     },
     {
+      "title": "Mann beißt Passant vor Magdeburger Hauptbahnhof",
+      "url": "https://www.volksstimme.de/blaulicht/magdeburg/polizei-mann-beisst-passant-vor-magdeburger-hauptbahnhof-3663235",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/02/cf93a8ff-7f79-450a-9c4b-c149f5be5049.jpeg?rect=351%2C309%2C3299%2C1855&width=100",
+      "image_title": "In Magdeburg wurden sowohl ein Passant als auch ein Sicherheitsmitarbeiter von einem Mann gebissen.",
+      "topic": "Polizei"
+    },
+    {
       "title": "Polizei Magdeburg sucht nach Autobrand Zeugen",
       "url": "https://www.volksstimme.de/blaulicht/magdeburg/fahndung-polizei-magdeburg-sucht-nach-autobrand-zeugen-3662640",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/01/a4d3e8d9-3c8d-4a25-a355-89ce945739dd.jpeg?rect=519%2C0%2C2963%2C2963&width=100",
@@ -314,13 +321,6 @@
       "url": "https://www.volksstimme.de/blaulicht/magdeburg/polizei-flucht-vor-verkehrskontrolle-mit-ueber-100-stundenkilometern-durch-magdeburg-3660386",
       "image_url": "https://bmg-images.forward-publishing.io/2023/07/28/e5e67f13-20ca-454e-bbb3-3041003b1275.jpeg?rect=170%2C667%2C3555%2C1999&width=100",
       "image_title": "In Magdeburg kam es zu einer Verfolgungsjagd, so die Polizei.",
-      "topic": "Polizei"
-    },
-    {
-      "title": "Flucht nach Unfall im Magdeburger City-Tunnel",
-      "url": "https://www.volksstimme.de/blaulicht/magdeburg/polizei-flucht-nach-unfall-im-magdeburger-city-tunnel-3659888",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/07/27/156e6e91-e55f-4ac8-9cfb-ba83aa04213b.jpeg?rect=0%2C613%2C1350%2C759&width=100",
-      "image_title": "Ein Lkw-Fahrer flüchtete nach einem Unfall im Magdeburger City-Tunnel, so die Polizei.",
       "topic": "Polizei"
     },
     {
@@ -464,6 +464,13 @@
       "topic": "Strohpresse defekt?"
     },
     {
+      "title": "Auto steht in Osterburg im Kreis Stendal in Flammen",
+      "url": "https://www.volksstimme.de/blaulicht/stendal/auto-steht-in-osterburg-im-kreis-stendal-in-flammen-3663014",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/02/61b0bf4f-bf4f-4fc5-bdbf-60fae2c8fac2.jpeg?rect=247%2C132%2C1634%2C878&width=100",
+      "image_title": "Einsatzkräfte der Feuerwehr löschten am Dienstagabend in Osterburg einen Fahrzeugbrand.",
+      "topic": "Feuerwehr im Einsatz"
+    },
+    {
       "title": "15 Schulbusse in Stendal weisen bei Polizeikontrolle Mängel auf",
       "url": "https://www.volksstimme.de/blaulicht/stendal/schulbuskontrolle-15-schulbusse-in-stendal-weisen-bei-polizeikontrolle-maengel-auf-3662645",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/01/0c95fd80-c066-438a-9ed8-b53b783ca9fd.jpeg?rect=313%2C316%2C3373%2C1897&width=100",
@@ -490,13 +497,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/07/27/d397bb61-35da-4dbe-823a-bf9ae8913842.jpeg?rect=214%2C21%2C1041%2C586&width=100",
       "image_title": "Unfall auf der B 189 bei Osterburg, Höhe Norma. Der Skoda stieß beim Auffahren auf die Bundesstraße mit einem Pkw zusammen.",
       "topic": "Polizei"
-    },
-    {
-      "title": "Unfall auf Umleitungsstrecke in Stendal - Stau in der Eisenbahnstraße",
-      "url": "https://www.volksstimme.de/blaulicht/stendal/baustelle-nachtigalplatz-in-stendal-unfall-auf-umleitung-stau-in-der-eisenbahnstrasse-3658427",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/07/25/c00b4734-daaa-4622-9475-c07c5445fa74.jpeg?rect=416%2C325%2C3372%2C1625&width=100",
-      "image_title": "In der Eisenbahnstraße in Stendal kam es am Dienstag, 25. Juli, gegen 11 Uhr zu einem Auffahrunfall. Auf der Umleitungsstrecke der Nachtigalplatz-Baustelle bildete sich vorübergehend ein Stau.",
-      "topic": "Baustelle Nachtigalplatz"
     },
     {
       "title": "30 Kühe auf großer Abenteuertour im Harz",
