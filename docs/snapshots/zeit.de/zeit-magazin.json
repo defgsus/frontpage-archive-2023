@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-03T15:11:55",
+  "timestamp": "2023-08-03T16:13:48",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -50,7 +50,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Augen auf bei der Salatwahl",
+      "title": "Z+ Wie man sich einen Beerendienst erweist",
+      "teaser": "Wenn man sich im Winter an den Sommer erinnern will, hilft ein Geschmack: der von Schwarzen Johannisbeeren. Jetzt ist die beste Zeit, um daraus Gelee zu kochen.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-08/gelee-schwarze-johannisbeeren-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-08/gelee-schwarze-johannesbeeren-rezept-teaserbild/wide__822x462",
+      "image_title": "Gelee aus schwarzen Johannisbeeren: Wie man sich einen Beerendienst erweist"
+    },
+    {
+      "title": "Z+ Schwarzaugenbohnen-Salat: Augen auf bei der Salatwahl",
       "teaser": "Schwarzaugenbohnen sind eine wichtige Zutat in vielen westafrikanischen Gerichten. In diesem Salat bringt ein Erdnuss-Dressing sie besonders zur Geltung.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/schwarzaugenbohnen-salat-erdnuss-ingwer-dressing-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/schwarzaugenbohnen-salat-erdnuss-ingwer-dressing-rezept-wochenmarkt-bild/wide__822x462",
@@ -62,13 +69,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023-08/china-zoo-baer-mensch-kostuem",
       "image_url": "https://img.zeit.de/2023-08/china-zoo-baer-mensch-kostuem-bild/wide__822x462",
       "image_title": "China: Ein Bär von einem Mann"
-    },
-    {
-      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
-      "teaser": "Bedürfnisorientierte Erziehung, doch das Kind ist frech, nervig und ungehorsam? Viele Eltern haben nicht verstanden, was Attachment Parenting in der Praxis bedeutet.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung/wide__822x462",
-      "image_title": "Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch"
     },
     {
       "title": "Podcast: Eine Reise durch Zürich",
@@ -84,10 +84,10 @@
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Rindfleisch in Austernsoße mit Brokkoli: Rind zum Reinsetzen",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/rindfleisch-austernsosse-brokkoli-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/rindfleisch-austernsosse-teaser/tile__315x394",
-      "image_title": "Rindfleisch in Austernsoße mit Brokkoli: Rind zum Reinsetzen"
+      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung/tile__315x394",
+      "image_title": "Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch"
     },
     {
       "title": "Der Apfel braucht inzwischen selbst einen Doktor",
@@ -205,6 +205,12 @@
       "image_title": "Harald Martenstein: Rette sich, wer kann"
     },
     {
+      "title": "Z+ Rindfleisch in Austernsoße mit Brokkoli: Rind zum Reinsetzen",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/rindfleisch-austernsosse-brokkoli-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/rindfleisch-austernsosse-teaser/tile__315x394",
+      "image_title": "Rindfleisch in Austernsoße mit Brokkoli: Rind zum Reinsetzen"
+    },
+    {
       "title": "Z+ Ernährung von Jugendlichen: \"Essen ist ein gutes Mittel, sich abzugrenzen\"",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/ernaehrung-jugendliche-fast-food",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/kinderernaehrung-teaser/tile__315x394",
@@ -259,52 +265,53 @@
       "image_title": "\"Wochenmarkt\"-Podcast: Sarah-Lee Heinrich kocht TikTok-Nudeln"
     },
     {
+      "title": "Z+ Suizid: Bitte mach, dass das nicht wahr ist",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/suizid-jugendliche-freundschaft"
+    },
+    {
+      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder"
+    },
+    {
+      "title": "Z+ Penetration: Die wahrscheinlich älteste Gewohnheit der Menschheit",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/penetration-geschlechtsverkehr-oragsmus-besserer-sex-maennlichkeit"
+    },
+    {
+      "title": "Z+ Penetration: Die wahrscheinlich älteste Gewohnheit der Menschheit",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/penetration-geschlechtsverkehr-oragsmus-besserer-sex-maennlichkeit"
+    },
+    {
+      "title": "Z+ Suizid: Bitte mach, dass das nicht wahr ist",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/suizid-jugendliche-freundschaft"
+    },
+    {
+      "title": "Z+ Bademode: Ein knappes Höschen",
+      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-07/badehosen-kurz-maenner-bademode-deutschland"
+    },
+    {
+      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder"
+    },
+    {
+      "title": "Z+ Bademode: Ein knappes Höschen",
+      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-07/badehosen-kurz-maenner-bademode-deutschland"
+    },
+    {
+      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder"
+    },
+    {
       "title": "Z+ Queere Hochzeitsmode: Brautkleid für alle",
+      "teaser": "Trotz seiner Vorliebe für Weiß hat Loïc Gros' Atelier wenig mit einem Brautladen gemein. Wie kommt die genderfluide Hochzeitsmode des Designers an?",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-07/queere-hochzeitsmode-genderfluid-brautkleid",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-07/queere-hochzeitsmode-genderfluid-brautkleid-teaser/tile__315x394",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-07/queere-hochzeitsmode-genderfluid-brautkleid-teaser/square__460x460",
       "image_title": "Queere Hochzeitsmode: Brautkleid für alle"
-    },
-    {
-      "title": "Z+ Suizid: Bitte mach, dass das nicht wahr ist",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/suizid-jugendliche-freundschaft"
-    },
-    {
-      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder"
-    },
-    {
-      "title": "Z+ Penetration: Die wahrscheinlich älteste Gewohnheit der Menschheit",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/penetration-geschlechtsverkehr-oragsmus-besserer-sex-maennlichkeit"
-    },
-    {
-      "title": "Z+ Penetration: Die wahrscheinlich älteste Gewohnheit der Menschheit",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/penetration-geschlechtsverkehr-oragsmus-besserer-sex-maennlichkeit"
-    },
-    {
-      "title": "Z+ Suizid: Bitte mach, dass das nicht wahr ist",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-07/suizid-jugendliche-freundschaft"
-    },
-    {
-      "title": "Z+ Bademode: Ein knappes Höschen",
-      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-07/badehosen-kurz-maenner-bademode-deutschland"
-    },
-    {
-      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder"
-    },
-    {
-      "title": "Z+ Bademode: Ein knappes Höschen",
-      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-07/badehosen-kurz-maenner-bademode-deutschland"
-    },
-    {
-      "title": "Z+ Bedürfnisorientierte Erziehung: Der Unterschied liegt zwischen Bedürfnis und Wunsch",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-07/beduerfnisorientierte-erziehung-attachment-parenting-kindererziehung-tyrannenkinder"
     },
     {
       "title": "Z+ Trüffelanbau: Das Comeback der duftenden Knolle",
       "teaser": "Trüffel aus Deutschland? Das ist kein kulinarisches Märchen. In freier Wildbahn dürfen die feinen Knollen nicht geerntet werden. Also legen die Trüffelwirte Plantagen an.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/trueffel-deutschland-trueffelanbau-plantage",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/trueffel-deutschland-trueffelanbau-plantage-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/trueffel-deutschland-trueffelanbau-plantage-bild/wide__822x462",
       "image_title": "Trüffelanbau: Das Comeback der duftenden Knolle"
     },
     {
@@ -330,9 +337,8 @@
     },
     {
       "title": "Z+ Selbst gemachter Müsliriegel: Der Kraftriegel des Snackmeisters",
-      "teaser": "In der Pausenbox, im Sportbeutel oder auf Reisen: Müsliriegel sind der beste Snack für zwischendurch. Komisch eigentlich, dass man den nie selbst macht – bis jetzt.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-07/selbstgemachter-muesliriegel-vegan-kokos-ahorn",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/selbstgemachter-muesliriegel-vegan-kokos-ahorn-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-07/selbstgemachter-muesliriegel-vegan-kokos-ahorn-teaserbild/tile__315x394",
       "image_title": "Selbst gemachter Müsliriegel: Der Kraftriegel des Snackmeisters"
     },
     {
@@ -346,12 +352,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/31/arbeit-jugendliche-babysitter-mindestlohn-pruefers-toechter",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-07/arbeit-jugendliche-babysitter-mindestlohn-pruefers-toechter-bild/tile__315x394",
       "image_title": "Arbeit von Jugendlichen: \"Geld ist nicht alles\""
-    },
-    {
-      "title": "Sizilien: La dolce America",
-      "url": "https://www.zeit.de/zeit-magazin/2023/31/sizilien-amerika-salvatore-di-gregorio-fotografie",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/31/americano-bild-1/tile__315x394",
-      "image_title": "Sizilien: La dolce America"
     },
     {
       "title": "Z+ Endometriose: \"Wie soll guter Sex mit Endometriose gehen?\"",
