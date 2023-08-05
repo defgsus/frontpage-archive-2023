@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-05T19:07:41",
+  "timestamp": "2023-08-05T20:10:18",
   "url": "https://www.faz.net/aktuell/politik/",
   "response": {
     "status": 200
@@ -104,6 +104,12 @@
   ],
   "articles": [
     {
+      "title": "Flüchtlinge in der Türkei : Herr Chiu baut ein Haus",
+      "url": "https://www.faz.net/aktuell/politik/ausland/syrische-fluechtlinge-in-der-tuerkei-herr-chiu-baut-ein-haus-19071706.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "„Die türkische Fahne ist unser Schutz gegen Rassismus“, sagt der Taiwanese Chiu Chen-Yu."
+    },
+    {
       "title": "Nebeneinkünfte im Bundestag : AfD-Abgeordnete haben 2022 am meisten verdient",
       "url": "https://www.faz.net/aktuell/politik/inland/nebeneinkuenfte-im-bundestag-so-viel-verdienen-abgeordnete-19081622.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -114,12 +120,6 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/truth-social-trump-aeusserung-hat-juristisches-nachspiel-19083505.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Donald Trump am Donnerstag am Flughafen in Washington"
-    },
-    {
-      "title": "Putsch in Niger : Ein Militärdiktator ohne Plan",
-      "url": "https://www.faz.net/aktuell/politik/ausland/warum-der-putsch-in-niger-gefaehrlich-ist-19081471.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Fernsehansprache der Putschisten am 26. Juli. Der Mann in blauer Uniform ist Amadou Adramane, Sprecher des „Nationalen Rats für den Schutz des Vaterlandes“."
     },
     {
       "title": "Trotz Anklage : Die gefährlichen Versprechen des „Heilsbringers“",
@@ -184,6 +184,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Putsch in Niger : Ein Militärdiktator ohne Plan",
+      "url": "https://www.faz.net/aktuell/politik/ausland/warum-der-putsch-in-niger-gefaehrlich-ist-19081471.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Eine Fernsehansprache der Putschisten am 26. Juli. Der Mann in blauer Uniform ist Amadou Adramane, Sprecher des „Nationalen Rats für den Schutz des Vaterlandes“."
+    },
+    {
       "title": "Marienwallfahrt in Portugal : Wo die Leibwächter dem Papst die Kinder reichen",
       "url": "https://www.faz.net/aktuell/politik/ausland/portugal-wie-die-glaeubigen-dem-papst-in-fatima-nahkommen-19083284.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -209,9 +215,7 @@
     },
     {
       "title": "Umgang mit Verfassungsfeinden : Kein Zwang zur Zusammenarbeit mit der AfD",
-      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-kommunen-kein-zwang-zur-zusammenarbeit-19081366.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wie umgehen mit ihm? In Sonneberg stellt die AfD erstmals einen Landrat."
+      "url": "https://www.faz.net/aktuell/politik/inland/afd-in-kommunen-kein-zwang-zur-zusammenarbeit-19081366.html"
     },
     {
       "title": "Korruptionsprozess in Pakistan : Oppositionsführer Khan nach Urteil verhaftet",
@@ -219,7 +223,9 @@
     },
     {
       "title": "General a. D. Ben Hodges : „Das ist ein Versagen“",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-ben-hodges-fordert-raketen-fuer-kiew-19080947.html"
+      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-ben-hodges-fordert-raketen-fuer-kiew-19080947.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Besatzung eines ukrainischen Panzers in einem Waldstück in der Nähe der Front (Aufnahme von Anfang Juli 2023)"
     },
     {
       "title": "Verschmutzung der Ostsee : Wenn Fjorde kollabieren",
@@ -238,12 +244,6 @@
       "url": "https://www.faz.net/aktuell/politik/inland/cdu-friedrich-merz-muss-mit-den-merkel-leuten-rechnen-19078722.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Friedrich Merz, Mario Czaja, und Christina Stumpp im Juni auf dem kleinen Parteitag in Berlin"
-    },
-    {
-      "title": "Russland nach dem Aufstand : Der für Putin unverzichtbare Putschist",
-      "url": "https://www.faz.net/aktuell/politik/ausland/russland-nach-dem-aufstand-wieso-putin-nicht-auf-prigoschin-verzichtet-19078920.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Prigoschin mit einem Vertreter der Zentralafrikanischen Republik beim Gipfel in St. Petersburg."
     },
     {
       "title": ": Nawalnyj zu weiteren 19 Jahren Haft verurteilt",
@@ -404,28 +404,28 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/papst-franziskus-gibt-europa-mitschuld-fuer-ukrainekrieg-19079008.html"
     },
     {
-      "title": "Fraktur : Durfte Markus Söder Ernst Jünger zitieren?",
-      "url": "https://www.faz.net/aktuell/politik/inland/was-hat-markus-soeder-mit-ernst-juenger-zu-tun-19081700.html"
+      "title": "Religionssoziologe Pollack : „Ich kenne keinen Landstrich auf der Welt, in dem es keine Religion gibt“",
+      "url": "https://www.faz.net/aktuell/politik/religions-soziologe-detlef-pollack-ueber-die-zukunft-der-kirche-19063943.html"
     },
     {
       "title": "General a. D. Ben Hodges : „Das ist ein Versagen“",
       "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-ben-hodges-fordert-raketen-fuer-kiew-19080947.html"
     },
     {
-      "title": "Verschmutzung der Ostsee : Wenn Fjorde kollabieren",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ostsee-wird-zum-toten-meer-verschmutzung-laesst-fjorde-kollabieren-19065811.html"
+      "title": "General a. D. Ben Hodges : „Das ist ein Versagen“",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-ben-hodges-fordert-raketen-fuer-kiew-19080947.html"
     },
     {
-      "title": "Religionssoziologe Pollack : „Ich kenne keinen Landstrich auf der Welt, in dem es keine Religion gibt“",
-      "url": "https://www.faz.net/aktuell/politik/religions-soziologe-detlef-pollack-ueber-die-zukunft-der-kirche-19063943.html"
+      "title": "Fraktur : Durfte Markus Söder Ernst Jünger zitieren?",
+      "url": "https://www.faz.net/aktuell/politik/inland/was-hat-markus-soeder-mit-ernst-juenger-zu-tun-19081700.html"
     },
     {
       "title": "Kandidatin für Europawahl : Rackete löst Kritik innerhalb der Linken aus",
       "url": "https://www.faz.net/aktuell/politik/inland/europawahl-rackete-loest-kritik-innerhalb-der-linken-aus-19083118.html"
     },
     {
-      "title": "General a. D. Ben Hodges : „Das ist ein Versagen“",
-      "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-ben-hodges-fordert-raketen-fuer-kiew-19080947.html"
+      "title": "Verschmutzung der Ostsee : Wenn Fjorde kollabieren",
+      "url": "https://www.faz.net/aktuell/politik/ausland/ostsee-wird-zum-toten-meer-verschmutzung-laesst-fjorde-kollabieren-19065811.html"
     },
     {
       "title": "Bundestrainerin zu WM-Debakel : „Ich bin noch nie weggelaufen, wenn es schwierig wird“",
