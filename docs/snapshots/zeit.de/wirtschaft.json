@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-07T04:13:21",
+  "timestamp": "2023-08-07T05:11:07",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Produktivität: US-Unternehmen haben die besseren Manager",
+      "teaser": "Deutsche Manager suchen die Schuld am Abstieg der deutschen Wirtschaft bei der Regierung, der Bürokratie und den Mitarbeitern. Nur nicht bei sich selbst.",
+      "url": "https://www.zeit.de/wirtschaft/2023-08/usa-europa-produktivitaet-manager-wirtschaft-abstieg",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/usa-europa-produktivitaet-manager-wirtschaft-abstieg-foto/cinema__980x420"
+    },
+    {
       "title": "Wohnraum: Experten warnen vor Dauerkrise beim Wohnungsbau",
       "teaser": "Statt 400.000 neuer Wohnungen werden wohl nur 214.000 gebaut. Das liegt laut Experten an den hohen Kosten, die den Bau unrentabel machen. Besserung ist nicht in Sicht.",
       "url": "https://www.zeit.de/wirtschaft/2023-08/wohnungsbau-arge-analyse-wohnungsbau-krise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-08/neubau/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/neubau/wide__822x462",
+      "image_title": "Wohnraum: Experten warnen vor Dauerkrise beim Wohnungsbau"
     },
     {
       "title": "Dehoga: Gaststättenverband warnt vor massenhaften Schließungen",
@@ -66,22 +73,15 @@
       "title": "TikTok: TikTok lässt in der EU das Abschalten personalisierter Empfehlungen zu",
       "teaser": "Die chinesische Plattform TikTok will künftig keine personalisierten Vorschläge mehr anzeigen, wenn die Nutzer das nicht wollen. In der EU gibt es dazu ein neues Gesetz.",
       "url": "https://www.zeit.de/wirtschaft/2023-08/tik-tok-eu-personalisierte-vorschlaege",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-08/tik-tok-eu-personalisierte-vorschlaege-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/tik-tok-eu-personalisierte-vorschlaege-bild-2/cinema__980x420",
       "image_title": "TikTok: TikTok lässt in der EU das Abschalten personalisierter Empfehlungen zu"
     },
     {
       "title": "Einkommensungleichheit: Die Scham des Reichtums",
       "teaser": "Verzerrte Wahrnehmung: Viele Arme zählen sich selbst fälschlicherweise zur Mittelschicht – viele Reiche aber ebenso. Das sagt einiges über unsere Gesellschaft aus.",
       "url": "https://www.zeit.de/wirtschaft/2023-08/einkommen-vermoegen-ungleichheit-selbstwahrnehmung-umfrage",
-      "image_url": "https://img.zeit.de/2023-08/einkommen-vermoegen-ungleichheit-selbstwahrnehmung-umfrage-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023-08/einkommen-vermoegen-ungleichheit-selbstwahrnehmung-umfrage-bild/wide__822x462",
       "image_title": "Einkommensungleichheit: Die Scham des Reichtums"
-    },
-    {
-      "title": "Altenpflege: Mit Ende 30 schon Angst vorm Alter",
-      "teaser": "Pflege im Heim ist so teuer geworden, dass viele auf Sozialhilfe angewiesen sind. Die Politik muss sie dauerhaft finanzieren, spart aber lieber an der falschen Stelle.",
-      "url": "https://www.zeit.de/wirtschaft/2023-08/altenpflege-pflegeheim-kosten-sozialhilfe-finanzierung-5vor8",
-      "image_url": "https://img.zeit.de/politik/2023-08/altenpflege-pflegeheim-kosten-sozialhilfe-finanzierung-5vor8-bild/wide__822x462",
-      "image_title": "Altenpflege: Mit Ende 30 schon Angst vorm Alter"
     },
     {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
@@ -91,11 +91,11 @@
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
     },
     {
-      "title": "Konjunktur: Industrie verzeichnet im Juni überraschend Auftragsplus",
-      "teaser": "Mit 7,0 Prozent mehr Bestellungen verzeichneten deutsche Unternehmen im Juni den größten Zuwachs seit drei Jahren. Insgesamt bleibt der Ausblick allerdings negativ.",
-      "url": "https://www.zeit.de/wirtschaft/2023-08/industrie-grossbestellungen-anstieg",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-08/industrie-grossbestellungen-anstieg-bild/wide__822x462",
-      "image_title": "Konjunktur: Industrie verzeichnet im Juni überraschend Auftragsplus"
+      "title": "Altenpflege: Mit Ende 30 schon Angst vorm Alter",
+      "teaser": "Pflege im Heim ist so teuer geworden, dass viele auf Sozialhilfe angewiesen sind. Die Politik muss sie dauerhaft finanzieren, spart aber lieber an der falschen Stelle.",
+      "url": "https://www.zeit.de/wirtschaft/2023-08/altenpflege-pflegeheim-kosten-sozialhilfe-finanzierung-5vor8",
+      "image_url": "https://img.zeit.de/politik/2023-08/altenpflege-pflegeheim-kosten-sozialhilfe-finanzierung-5vor8-bild/wide__822x462",
+      "image_title": "Altenpflege: Mit Ende 30 schon Angst vorm Alter"
     },
     {
       "title": "Einkommensungleichheit: Die Scham des Reichtums",
@@ -203,6 +203,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Konjunktur: Industrie verzeichnet im Juni überraschend Auftragsplus",
+      "teaser": "Mit 7,0 Prozent mehr Bestellungen verzeichneten deutsche Unternehmen im Juni den größten Zuwachs seit drei Jahren. Insgesamt bleibt der Ausblick allerdings negativ.",
+      "url": "https://www.zeit.de/wirtschaft/2023-08/industrie-grossbestellungen-anstieg",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/industrie-grossbestellungen-anstieg-bild/wide__822x462",
+      "image_title": "Konjunktur: Industrie verzeichnet im Juni überraschend Auftragsplus"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); E.on-Chef Leonhard Birnbaum: \"Ohne Innovation werden wir scheitern\"",
       "teaser": "Leonhard Birnbaum führt als Chef von E.on eines der größten Energieunternehmen Europas. Im Interview erklärt er, warum die Klimawende nur mit neuer Technologie gelingt.",
       "url": "https://www.zeit.de/2023/33/leonhard-birnbaum-eon-chef-energiewende-klimakrise",
@@ -227,14 +234,14 @@
       "title": "Wirtschaftskrise: Inflation in der Türkei steigt nach Steuererhöhungen deutlich",
       "teaser": "Erstmals seit Monaten nimmt die Inflation in der Türkei wieder zu. Die Verbraucherpreise stiegen um 9,49 Prozent. Die schwache Lira macht den Kampf schwierig.",
       "url": "https://www.zeit.de/wirtschaft/2023-08/tuerkei-inflation-steuern-zentralbank",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/tuerkische-inflationsrate-steigt-steuererhoehungen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/tuerkische-inflationsrate-steigt-steuererhoehungen-bild/cinema__980x420",
       "image_title": "Wirtschaftskrise: Inflation in der Türkei steigt nach Steuererhöhungen deutlich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Start-up Greenforce • Das Beste aus Z+: Pickepackevoll mit falschen Angaben",
       "teaser": "Die Greenforce-Revolution ist Veggiefleisch in Pulverform. Will sehr gesund und nachhaltig sein. Wer es prüft, kommt zu anderen Fakten. Alles natürlich \"keine Absicht\".",
       "url": "https://www.zeit.de/wirtschaft/2023-08/greenforce-startup-oekobilanz-fleisch-alternativen-pulver",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-08/greenforce-startup-oekobilanz-fleisch-alternativen-pulver-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-08/greenforce-startup-oekobilanz-fleisch-alternativen-pulver-bild/wide__822x462",
       "image_title": "Start-up Greenforce • Das Beste aus Z+: Pickepackevoll mit falschen Angaben"
     },
     {
@@ -243,13 +250,6 @@
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-08/usa-trinkgeld-loehne-tipflation",
       "image_url": "https://img.zeit.de/wirtschaft/geldanlage/2023-08/usa-trinkgeld-loehne-tipflation-restaurant/wide__822x462",
       "image_title": "Trinkgeld in den USA: Es ist völlig außer Kontrolle geraten"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Konjunktur: Amerika, du machst es besser!",
-      "teaser": "Unsere US-Korrespondentin blickt besorgt auf ihr Heimatland: Für sie ist es kein Wunder, dass die deutsche Wirtschaft nur langsam wieder auf die Füße kommt.",
-      "url": "https://www.zeit.de/2023/33/konjunktur-deutschland-usa-kapitalmarkt-risikobereitschaft",
-      "image_url": "https://img.zeit.de/2023/33/amerika-du-machst-es-besser-bild-1/wide__822x462",
-      "image_title": "Konjunktur: Amerika, du machst es besser!"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Umweltpreise bei Penny: Neun teurere Penny-Produkte sind noch viel zu wenig",
