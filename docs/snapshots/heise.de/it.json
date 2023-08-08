@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-08T09:10:30",
+  "timestamp": "2023-08-08T10:11:30",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,18 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.10068dd3b2518736065d",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.73c4423aac9d4f54ef26",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Raspberry Pi 4: In Deutschland wieder gut verfügbar",
+      "teaser": "Die Raspberry Pi Foundation hält Wort. Die 4er-Raspis sind wieder zu normalen Preisen erhältlich – zumindest, wenn man sich mit 4 GByte RAM begnügt.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-4-In-Deutschland-wieder-gut-verfuegbar-9236511.html",
+      "image_title": "Raspberry Pi 4 in der Produktion"
+    },
     {
       "title": "Zum Tode Bram Moolenaars: Vim-Koryphäe, Weltenbummler und Spendensammler",
       "teaser": "Bram Moolenaar ist tot, Erfinder und Hauptautor des Editors Vim. Er bleibt als Entwickler, Spendensammler und Weltenbummler in Erinnerung.",
@@ -36,11 +42,6 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Drucker-von-HP-und-Samsung-attackieren-9236703.html"
     },
     {
-      "title": "Vernetzte Geräte: EU gewährt Aufschub für höhere Cybersicherheit",
-      "teaser": "Die EU wollte Hersteller von Smartphones, Wearables & Co. ab 2024 zu deutlich mehr IT-Sicherheit und Datenschutz verpflichten. Doch jetzt gibt es Aufschub.",
-      "url": "https://www.heise.de/news/Vernetzte-Geraete-EU-gewaehrt-Aufschub-fuer-hoehere-Cybersicherheit-9235663.html"
-    },
-    {
       "title": "Musiknotation für Schlagzeuge mit Dorico 5 Pro im Test",
       "teaser": "Dorico bringt die Drum-Machine Groove Agent samt Schlagzeug-Samples mit. So lassen sich Drum-Spuren in die Partitur ziehen. Wir haben es in der Praxis getestet.",
       "url": "https://www.heise.de/tests/Musiknotation-fuer-Schlagzeuge-mit-Dorico-5-Pro-im-Test-9236345.html"
@@ -49,6 +50,22 @@
       "title": "Microsoft Teams als Telefonanlage im Unternehmen nutzen",
       "teaser": "Für Videokonferenzen kommt schon in vielen Unternehmen Microsoft Teams zum Einsatz. Wir erklären, wie die Software mittlerweile auch das Telefon ersetzen kann.",
       "url": "https://www.heise.de/hintergrund/Microsoft-Teams-als-Telefonanlage-im-Unternehmen-nutzen-9234691.html"
+    },
+    {
+      "title": "Cross-Platform-Programmierung mit .NET MAUI: Die Webinar-Serie von heise",
+      "teaser": "In fünf Webinaren vom 6. September bis 4. Oktober 2023 lernen Developer die vielfältigen Möglichkeiten moderner App-Entwicklung mit .NET MAUI kennen.",
+      "url": "https://www.heise.de/news/Cross-Platform-Programmierung-mit-NET-MAUI-Die-Webinar-Serie-von-heise-9212106.html"
+    },
+    {
+      "title": "TSMC: Spezialvertrag für Apple wegen 3-nm-Verfahren?",
+      "teaser": "Einem Medienbericht zufolge hat sich Apples einzige Foundry bereit erklärt, defekte 3-nm-SoCs der kommenden A17-Baureihe nicht zu berechnen. Die Hintergründe.",
+      "url": "https://www.heise.de/news/TSMC-Spezialvertrag-fuer-Apple-wegen-3-nm-Verfahren-9237289.html"
+    },
+    {
+      "title": "Channels in Go: Bequem parallel",
+      "teaser": "Viele fürchten nebenläufige Programmierung. Channels in Go können diese Art der Softwareentwicklung aber wesentlich erleichtern.",
+      "url": "https://www.heise.de/hintergrund/Channels-in-Go-Bequem-parallel-9229651.html",
+      "image_title": "Go"
     },
     {
       "title": "Toshiba: Die Milliarden-Übernahme beginnt",
@@ -114,23 +131,6 @@
       "title": "Druck-Management-Lösung: Sicherheitslücken gefährden Papercut-Server",
       "teaser": "Im schlimmsten Fall können Angreifer Schadcode auf Papercut-Servern ausführen. Nicht alle Systeme sind standardmäßig gefährdet.",
       "url": "https://www.heise.de/news/Druck-Management-Loesung-Sicherheitsluecken-gefaehrden-Papercut-Server-9236953.html"
-    },
-    {
-      "title": "Knuddels arbeitet mit Bundeskriminalamt und KI gegen Cybergrooming",
-      "teaser": "Um seine Community vor Cybergrooming zu schützen, setzt Knuddels auf die Zusammenarbeit mit dem Bundeskriminalamt. Inzwischen gebe es eine leichte Verbesserung.",
-      "url": "https://www.heise.de/news/Knuddels-will-mit-Bundeskriminalamt-und-KI-gegen-Cybergrooming-vorgehen-9219188.html"
-    },
-    {
-      "title": "Ständer mit Spezialkühler für MacBooks",
-      "teaser": "Zwar werden moderne Apple-Notebooks nur selten heiß, doch anspruchsvolle Aufgaben bringen auch M1 und M2 ins Schwitzen. Cooling Docks von Svalt sollen helfen.",
-      "url": "https://www.heise.de/news/Staender-mit-Spezialkuehler-fuer-MacBooks-9233066.html",
-      "image_title": "Ständer mit Lüfter von Svalt"
-    },
-    {
-      "title": "Instagram will KI-Inhalte automatisiert kennzeichnen",
-      "teaser": "Künstliche Intelligenz soll auf allen Meta-Plattformen einziehen – offensichtlich aber auch automatisch gekennzeichnet werden.",
-      "url": "https://www.heise.de/news/Instagram-will-KI-Inhalte-automatisiert-kennzeichnen-9236806.html",
-      "image_title": "Smartphone mit den Apps von Facebook, Facebook-Messenger, Instragm, WhatsApp und Oculus vor dem Meta-Logo"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
