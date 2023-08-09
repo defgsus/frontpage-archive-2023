@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-09T11:09:16",
+  "timestamp": "2023-08-09T12:23:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,7 +32,11 @@
   ],
   "articles": [
     {
-      "title": "SAP",
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-bedrohen-Android-11-12-und-13-9239055.html"
+    },
+    {
+      "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-Angreifer-koennen-Passwort-Hashes-von-SAP-PowerDesigner-auslesen-9238910.html"
     },
     {
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-Schutzmechanismus-von-Windows-9238686.html"
     },
     {
-      "title": "Papercut NG/MF",
-      "url": "https://www.heise.de/news/Druck-Management-Loesung-Sicherheitsluecken-gefaehrden-Papercut-Server-9236953.html"
+      "title": "IT-Sicherheitstag 2023: Zero Trust und Backup-Strategien bei Ransomware-Befall",
+      "teaser": "Der IT-Sicherheitstag am 9. November zeigt, mit welchen Cyber-Sicherheitsstrategien und -mechanismen sich Unternehmen angemessen schützen können.",
+      "url": "https://www.heise.de/news/IT-Sicherheitstag-2023-Zero-Trust-und-Backup-Strategien-bei-Ransomware-Befall-9238881.html"
+    },
+    {
+      "title": "Patchday: Kritische Schadcode-Lücken bedrohen Android 11, 12 und 13",
+      "teaser": "Google und weitere Hersteller von Android-Geräten haben ihren monatlichen Sammel-Sicherheitsupdates veröffentlicht.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-bedrohen-Android-11-12-und-13-9239055.html",
+      "image_title": "Editorial,Illistrative.,Software,Update,On,Android.,The,Samsung,Phone,Is"
     },
     {
       "title": "Patchday: Angreifer können Zugangsbeschränkungen von SAP PowerDesigner umgehen",
@@ -138,16 +149,6 @@
       "title": "Open-Source-Firewall OPNsense in neuer Version erschienen",
       "teaser": "In der aktuellen OPNsense-Ausgabe haben die Entwickler in erster Linie Fehler bereinigt, aber auch Plug-ins aktualisiert.",
       "url": "https://www.heise.de/news/Open-Source-Firewall-OPNsense-in-neuer-Version-erschienen-9232634.html"
-    },
-    {
-      "title": "Videokonferenz: BSI findet kritische Security-Schwachstellen bei BigBlueButton​",
-      "teaser": "Das BSI-Projekt CAOS hat den Code von Videokonferenz-Tools untersucht. Zwei kritische Lücken bei BigBlueButton haben die Entwickler inzwischen geschlossen.​",
-      "url": "https://www.heise.de/news/CAOS-BSI-prueft-Open-Source-Projekte-findet-Luecken-bei-Videokonferenz-Tools-9232811.html"
-    },
-    {
-      "title": "Collide+Power: Seitenkanalangriffe auf alle Prozessoren",
-      "teaser": "Beim Angriffsmuster Collide+Power ermöglicht eine Analyse der Leistungsaufnahme, geschützte Daten auszulesen. Grundsätzlich sind alle modernen CPUs betroffen.",
-      "url": "https://www.heise.de/news/Collide-Power-Seitenkanalangriffe-auf-alle-Prozessoren-9231995.html"
     },
     {
       "title": "heise Security Tour 2023",
