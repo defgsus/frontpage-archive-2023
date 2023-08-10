@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-10T09:11:25",
+  "timestamp": "2023-08-10T10:12:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2592947b5631377ab857",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d250d388c95c5529d047",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Zoom",
+      "url": "https://www.heise.de/news/Videomeeting-Anwendungen-Zoom-ruestet-Produkte-gegen-moegliche-Attacken-9240044.html"
+    },
     {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-bedrohen-Android-11-12-und-13-9239055.html"
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Anwendungen-fuer-Schadcode-Attacken-anfaellig-9238765.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-umgehen-Schutzmechanismus-von-Windows-9238686.html"
+      "title": "Exchange als Einfallstor? Daten zu 40 Millionen britischen Wählern einsehbar",
+      "teaser": "Schon 2022 hat die britische Wahlkommission Unbekannte in ihren Systemen identifiziert. Erst jetzt wurde die Öffentlichkeit über den immensen Hack informiert.",
+      "url": "https://www.heise.de/news/Exchange-als-Einfallstor-Daten-zu-40-Millionen-britischen-Waehlern-einsehbar-9240071.html",
+      "image_title": "Stimmabgabe an einer Wahlurne"
+    },
+    {
+      "title": "Videomeeting-Anwendungen: Zoom rüstet Produkte gegen mögliche Attacken",
+      "teaser": "Wichtige Sicherheitsupdates, für unter anderem den Windows-Client von Zoom, schließen mehrere Lücken.",
+      "url": "https://www.heise.de/news/Videomeeting-Anwendungen-Zoom-ruestet-Produkte-gegen-moegliche-Attacken-9240044.html"
     },
     {
       "title": "Schnellere Updates: Google will die Sicherheitspatch-Lücke bei Chrome minimieren",
@@ -140,16 +151,6 @@
       "title": "Nach dem geklauten Master-Key für Azure: Hilfestellung von Microsoft",
       "teaser": "Microsofts Playbook zum Umgang mit Token-Diebstahl in der Azure-Cloud soll Anwendern helfen herauszufinden, ob ihre Azure-Dienste kompromittiert sind",
       "url": "https://www.heise.de/news/Nach-dem-geklauten-Master-Key-fuer-Azure-Hilfestellung-von-Microsoft-9234954.html"
-    },
-    {
-      "title": "Sicherheitsupdates F5 BIG-IP: Angreifer können Passwörter erraten",
-      "teaser": "Es sind wichtige Sicherheitspatches für mehrere BIG-IP-Produkte von F5 erschienen. Admins sollten zeitnah handeln.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-F5-BIG-IP-Angreifer-koennen-Passwoerter-erraten-9234641.html"
-    },
-    {
-      "title": "Microsoft-Cloud: Weitere kritische Lücke – scharfe Kritik an Microsoft",
-      "teaser": "Mehr als drei Monaten wusste Microsoft von einer kritischen Lücke der Azure-Cloud, ohne sie zu schließen. Der Chef von Tenable findet dafür harsche Worte.",
-      "url": "https://www.heise.de/news/Microsoft-Cloud-Weitere-kritische-Luecke-scharfe-Kritik-an-Microsoft-9234573.html"
     },
     {
       "title": "heise Security Tour 2023",
