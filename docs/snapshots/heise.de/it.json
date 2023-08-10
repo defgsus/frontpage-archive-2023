@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-10T18:13:31",
+  "timestamp": "2023-08-10T19:08:47",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Über ein Jahr im System: Daten zu 40 Millionen britischen Wählern kompromittiert",
+      "teaser": "Schon 2022 hat die britische Wahlkommission Unbekannte in ihren Systemen identifiziert. Erst jetzt wurde die Öffentlichkeit über den immensen Hack informiert.",
+      "url": "https://www.heise.de/news/Exchange-als-Einfallstor-Daten-zu-40-Millionen-britischen-Waehlern-einsehbar-9240071.html",
+      "image_title": "Stimmabgabe an einer Wahlurne"
+    },
+    {
       "title": "TSMC kommt als ESMC nach Deutschland",
       "teaser": "Es ist offiziell: TSMC gründet mit Bosch, Infineon und NXP das Gemeinschaftsunternehmen ESMC. Die Chip-Fertigung wird moderner als bisher angenommen.",
       "url": "https://www.heise.de/news/TSMC-kommt-als-ESMC-nach-Deutschland-9237991.html"
@@ -35,12 +41,6 @@
       "teaser": "Ende 2020 haben die USA einen weitreichenden Hackerangriff Chinas auf Japans streng geheime Netzwerke entdeckt. Geschehen ist offenbar trotzdem lange nichts.",
       "url": "https://www.heise.de/news/Schlimm-schockierend-schlimm-China-hatte-Zugriff-auf-sensible-Netze-Japans-9237379.html",
       "image_title": "Japanische Flagge aus Partikeln"
-    },
-    {
-      "title": "Apple testet vermutlich mehrere M3-Modelle",
-      "teaser": "Apple hat damit begonnen, die nächste Generation seines Mac-SoC zu testen. Einem Bericht zufolge landeten mehrere Modelle in Logfiles von Entwicklern.",
-      "url": "https://www.heise.de/news/Bericht-Apple-testet-mehrere-M3-Modelle-9237605.html",
-      "image_title": "Apple M3"
     },
     {
       "title": "Einplatinenrechner LattePanda Sigma im Test",
@@ -64,7 +64,7 @@
     },
     {
       "title": "Nordirland: Gegner des Friedens angeblich im Besitz der Polizeidaten",
-      "teaser": "Offenbar wurden die versehentlich publizierten Daten zu allen Polizeiangestellten in Nordirland nicht schnell genug entfernt. Nun wächst die Verunsicherung.",
+      "teaser": "Offenbar wurden versehentlich publizierte Daten zu allen Polizeiangestellten in Nordirland nicht schnell genug entfernt.",
       "url": "https://www.heise.de/news/Nordirland-Gegner-des-Friedens-angeblich-im-Besitz-der-Polizeidaten-9240699.html",
       "image_title": "Polizist in Belfast"
     },
@@ -125,15 +125,15 @@
       "url": "https://www.heise.de/news/Autonome-KI-Agenten-Smallville-Experiment-ist-jetzt-Open-Source-9240006.html"
     },
     {
-      "title": "Über ein Jahr im System: Daten zu 40 Millionen britischen Wählern kompromittiert",
-      "teaser": "Schon 2022 hat die britische Wahlkommission Unbekannte in ihren Systemen identifiziert. Erst jetzt wurde die Öffentlichkeit über den immensen Hack informiert.",
-      "url": "https://www.heise.de/news/Exchange-als-Einfallstor-Daten-zu-40-Millionen-britischen-Waehlern-einsehbar-9240071.html",
-      "image_title": "Stimmabgabe an einer Wahlurne"
-    },
-    {
       "title": "c’t-Workshop: Kea-DHCP richtig einrichten und konfigurieren",
       "teaser": "Kea-DHCP hat den bisherigen DHCP-Server des Internet Systems Consortium abgelöst. Die modular aufgebaute Software hat gegenüber ihrem Vorgänger viele Vorteile.",
       "url": "https://www.heise.de/news/c-t-Workshop-Kea-DHCP-richtig-einrichten-und-konfigurieren-9238976.html"
+    },
+    {
+      "title": "Programmiersprache Go 1.21 hat Kompatibilität und Codeoptimierung im Fokus",
+      "teaser": "Über eine Umgebungsvariable lässt sich der Umgang mit Änderungen in Go-Releases steuern, und die Sprache stabilisiert die Profile-Guided Optimization.",
+      "url": "https://www.heise.de/news/Programmiersprache-Go-1-21-hat-Kompatibilitaet-und-Codeoptimierung-im-Fokus-9239813.html",
+      "image_title": "A,Pillar,With,A,Lot,Of,Traffic,Lights.,Berlin,,Germany"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
