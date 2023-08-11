@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-11T11:08:57",
+  "timestamp": "2023-08-11T12:19:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Dell CITV, DSITV",
+      "url": "https://www.heise.de/news/Statischer-Schluessel-in-Dell-Compellent-leakt-Zugangsdaten-fuer-VMware-vCenter-9241495.html"
+    },
+    {
       "title": "Nextcloud",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Nextcloud-Angreifer-koennen-Daten-loeschen-9241051.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Kritische-Schadcode-Luecken-bedrohen-Android-11-12-und-13-9239055.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-Angreifer-koennen-Passwort-Hashes-von-SAP-PowerDesigner-auslesen-9238910.html"
+      "title": "Statischer Schlüssel in Dell Compellent leakt Zugangsdaten für VMware vCenter",
+      "teaser": "Aufgrund einer Schwachstelle in Dells Compellent Integration Tools for VMware (CITV) können Angreifer Log-in-Daten entschlüsseln.",
+      "url": "https://www.heise.de/news/Statischer-Schluessel-in-Dell-Compellent-leakt-Zugangsdaten-fuer-VMware-vCenter-9241495.html"
     },
     {
       "title": "Lesetipp: Wenn der Microsoft Defender zum Angreifer wird",
@@ -147,12 +152,6 @@
       "title": "Ransomware: Deutschland häufigstes Ziel unter nicht-englischsprachigen Ländern​",
       "teaser": "Ransomware-Angriffe nehmen weltweit zu. Eine Auswertung von Malwarebytes speziell für Deutschland blickt auf die Lage hierzulande.​",
       "url": "https://www.heise.de/news/Ransomware-Angriffe-nehmen-hierzulande-zu-neue-Techniken-verschaerfen-die-Lage-9238315.html"
-    },
-    {
-      "title": "\"Schlimm, schockierend schlimm\": China hat Japans Militär gehackt",
-      "teaser": "Ende 2020 haben die USA einen weitreichenden Hackerangriff Chinas auf Japans streng geheime Netzwerke entdeckt. Geschehen ist offenbar trotzdem lange nichts.",
-      "url": "https://www.heise.de/news/Schlimm-schockierend-schlimm-China-hatte-Zugriff-auf-sensible-Netze-Japans-9237379.html",
-      "image_title": "Japanische Flagge aus Partikeln"
     },
     {
       "title": "heise Security Tour 2023",
