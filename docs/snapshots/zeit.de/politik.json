@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-11T00:48:04",
+  "timestamp": "2023-08-11T01:41:16",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Mutmaßlicher Agent bei der Bundeswehr: FDP und CDU fordern nach Spionageverdacht Konsequenzen für AfD",
+      "teaser": "Der festgenommene Bundeswehrsoldat stand der AfD nahe. Die FDP fordert die Sicherheitsüberprüfung von Mitarbeitern der Partei. Ein CDU-Politiker geht weiter.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-08/spionageverdacht-bundeswehr-afd-fdp-cdu-verbotsverfahren",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-08/bundesamt-ausruestung-koblenz-spionage-2/cinema__980x420"
+    },
+    {
       "title": "Liveblog: Ukraine-Krieg: Ein Toter und viele Verletzte nach Luftangriff auf Saporischschja",
       "teaser": "Laut der Militärverwaltung von Saporischschja galt der Angriff zivilen Gebäuden. Ein Mensch wurde getötet, mindestens 16 verletzt, darunter mehrere Kinder. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/ukraine-liveblog-verletzter-saporischschja/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/ukraine-liveblog-verletzter-saporischschja/wide__822x462",
+      "image_title": "Ukraine-Krieg: Ein Toter und viele Verletzte nach Luftangriff auf Saporischschja"
     },
     {
       "title": "Flucht nach Europa: Tunesien und Libyen nehmen Geflüchtete aus Wüste auf",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-08/tunesien-lybien-gefluechtete-aufnahme",
       "image_url": "https://img.zeit.de/politik/ausland/2023-08/tunesien-gefluechtete-wueste-bild/wide__822x462",
       "image_title": "Flucht nach Europa: Tunesien und Libyen nehmen Geflüchtete aus Wüste auf"
-    },
-    {
-      "title": "Iran: Fünf US-Bürger aus Gefängnis in Teheran entlassen",
-      "teaser": "Im Iran sind fünf seit Jahren inhaftierte US-Amerikaner in den Hausarrest überstellt worden. Die US-Regierung sprach von einem \"ermutigenden Schritt\".",
-      "url": "https://www.zeit.de/politik/ausland/2023-08/iran-us-buerger-haft-freilassung-hausarrest",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/iran-us-buerger-haft-freilassung-hausarrest-bild/wide__822x462",
-      "image_title": "Iran: Fünf US-Bürger aus Gefängnis in Teheran entlassen"
     },
     {
       "title": "Ukraine-Überblick: Explosionen nahe Krim-Brücke, Polen erwägt Grenzschließungen",
@@ -162,10 +162,17 @@
       "image_title": "Politische Gefangene in Russland: \"Sogar in diesem Käfig liebe ich mein Land\""
     },
     {
+      "title": "Iran: Fünf US-Bürger aus Gefängnis in Teheran entlassen",
+      "teaser": "Im Iran sind fünf seit Jahren inhaftierte US-Amerikaner in den Hausarrest überstellt worden. Die US-Regierung sprach von einem \"ermutigenden Schritt\".",
+      "url": "https://www.zeit.de/politik/ausland/2023-08/iran-us-buerger-haft-freilassung-hausarrest",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/iran-us-buerger-haft-freilassung-hausarrest-bild/cinema__980x420",
+      "image_title": "Iran: Fünf US-Bürger aus Gefängnis in Teheran entlassen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot in London: Diese Stadt macht arm",
       "teaser": "170.000 Menschen in London haben keine Wohnung, jeder 50. Einwohner. Zwar wird gebaut, aber das lindert die Not kaum – neue Wohnungen werden direkt nach Übersee verkauft.",
       "url": "https://www.zeit.de/politik/ausland/2023-08/london-wohnungsnot-mietpreise-sozialwohnungen-obdachlosigkeit",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/london-wohnungsnot-mietpreise-sozialwohnungen/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/london-wohnungsnot-mietpreise-sozialwohnungen/wide__822x462",
       "image_title": "Wohnungsnot in London: Diese Stadt macht arm"
     },
     {
@@ -179,7 +186,7 @@
       "title": "Dokumentenaffäre: Donald Trump plädiert in allen Anklagepunkten auf nicht schuldig",
       "teaser": "In mittlerweile 40 Punkten wird in der Dokumentenaffäre gegen Donald Trump ermittelt. Vor Gericht besteht der Anwalt des früheren US-Präsidenten auf dessen Unschuld.",
       "url": "https://www.zeit.de/politik/ausland/2023-08/donald-trump-dokumentenaffaere-gerichtsverfahren",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/donald-trump-anklagepunkte-zurueckweisung-dokumentenaffaere-gericht-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/donald-trump-anklagepunkte-zurueckweisung-dokumentenaffaere-gericht-bild/cinema__980x420",
       "image_title": "Dokumentenaffäre: Donald Trump plädiert in allen Anklagepunkten auf nicht schuldig"
     },
     {
@@ -198,14 +205,14 @@
       "title": "Ukraine-Überblick: Russland attackiert offenbar Hilfsgüterausgabe, Ukraine evakuiert Orte",
       "teaser": "Bei der Verteilung von Hilfsgütern soll Russland Menschen in Cherson beschossen haben. Mehr als 11.000 Ukrainer werden vor Kämpfen in Sicherheit gebracht. Der Tag",
       "url": "https://www.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-cherson-angriff-humanitaere-hilfsgueter",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-cherson-angriff-humanitaere-hilfsgueter-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-cherson-angriff-humanitaere-hilfsgueter-bild/cinema__980x420",
       "image_title": "Ukraine-Überblick: Russland attackiert offenbar Hilfsgüterausgabe, Ukraine evakuiert Orte"
     },
     {
       "title": "Nachrichtenpodcast: Gewalt wird zum politischen Mittel",
       "teaser": "Die Lage in Ecuador bleibt angespannt: Nun wurde Präsidentschaftskandidat Villavicencio ermordet. Außerdem: Die Putschisten in Niger stellen eine neue Regierung vor.",
       "url": "https://www.zeit.de/politik/2023-08/fernando-villavicencio-ecuador-praesidentschaftskandidat-mord-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Gewalt wird zum politischen Mittel"
     },
     {
@@ -217,16 +224,16 @@
     },
     {
       "title": "Bundespräsident: Frank-Walter Steinmeier warnt vor Aushöhlung der Demokratie",
-      "teaser": "Der Bundespräsident sieht im Schutz der Demokratie eine Bürgerpflicht. Das Grundgesetz erlaube viel – aber nicht die Integration von Verfassungsfeinden.",
+      "teaser": "Der Bundespräsident sieht im Schutz der Demokratie eine Bürgerpflicht. Das Grundgesetz erlaube viel – aber nicht die Integration von Verfassungsfeinden. 429 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-08/frank-walter-steinmeier-verfassungskonvent-herrenchiemsee-buergerpflicht",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-08/frank-walter-steinmeier-verfassungskonvent-herrenchiemsee-buergerpflicht-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-08/frank-walter-steinmeier-verfassungskonvent-herrenchiemsee-buergerpflicht-bild/cinema__980x420",
       "image_title": "Bundespräsident: Frank-Walter Steinmeier warnt vor Aushöhlung der Demokratie"
     },
     {
       "title": "Militärputsch: Vertrauter von Nigerias Präsident trifft Nigers Militärführung",
       "teaser": "Delegationen der Ecowas war es bislang nicht gelungen: Ein Vertrauter von Nigerias Präsident hat nun Putschisten in Niger getroffen. Ecowas berät über weiteres Vorgehen.",
       "url": "https://www.zeit.de/politik/ausland/2023-08/niger-ecowas-nigeria-treffen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/niger-ecowas-nigeria-treffen-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/niger-ecowas-nigeria-treffen-bild/wide__822x462",
       "image_title": "Militärputsch: Vertrauter von Nigerias Präsident trifft Nigers Militärführung"
     },
     {
@@ -263,13 +270,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-08/ecuador-praesidentschaftskandidat-villavicencio-erschossen-sicherheitsrat-lasso",
       "image_url": "https://img.zeit.de/politik/ausland/2023-08/ecuador-praesidentschaftskandidat-villavicencio-erschossen-sicherheitsrat-lasso-bild/wide__822x462",
       "image_title": "Ecuador: Präsidentschaftskandidat Wochen vor der Wahl erschossen"
-    },
-    {
-      "title": "Michael Reiterer: \"Ihr habt keine Strategie!\"",
-      "teaser": "Michael Reiterer war der erste EU-Botschafter in Bern. Schon damals versuchte er den Schweizern klarzumachen: Ihr müsst endlich wissen, was ihr von Europa wollt.",
-      "url": "https://www.zeit.de/2023/34/michael-reiterer-schweiz-eu-botschafter-bern",
-      "image_url": "https://img.zeit.de/2023/34/ihr-habt-keine-strategie-bild-1/wide__822x462",
-      "image_title": "Michael Reiterer: \"Ihr habt keine Strategie!\""
     },
     {
       "title": "Pflegezeit: Union fordert Lohnersatz für pflegende Angehörige",
@@ -314,11 +314,11 @@
       "image_title": "Anklagen: Was Donald Trump nun droht"
     },
     {
-      "title": "Sanija Ameti: \"Die Schweiz wird dann frei sein, wenn Europa ihre Heimat wird\"",
-      "teaser": "Die Schweiz ist in ihren Mythen gefangen, kritisiert Sanija Ameti, die Co-Präsidentin von Operation Libero. Nur eine Volksabstimmung könne das Verhältnis zur EU klären.",
-      "url": "https://www.zeit.de/2023/34/sanija-ameti-operation-libero-schweiz",
-      "image_url": "https://img.zeit.de/2023/34/die-schweiz-wird-dann-frei-sein-wenn-europa-ihre-heimat-wird-bild-1/wide__822x462",
-      "image_title": "Sanija Ameti: \"Die Schweiz wird dann frei sein, wenn Europa ihre Heimat wird\""
+      "title": "Michael Reiterer: \"Ihr habt keine Strategie!\"",
+      "teaser": "Michael Reiterer war der erste EU-Botschafter in Bern. Schon damals versuchte er den Schweizern klarzumachen: Ihr müsst endlich wissen, was ihr von Europa wollt.",
+      "url": "https://www.zeit.de/2023/34/michael-reiterer-schweiz-eu-botschafter-bern",
+      "image_url": "https://img.zeit.de/2023/34/ihr-habt-keine-strategie-bild-1/wide__822x462",
+      "image_title": "Michael Reiterer: \"Ihr habt keine Strategie!\""
     },
     {
       "title": "Anzeige: Studieren in Berlin",
