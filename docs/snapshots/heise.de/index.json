@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-11T08:12:57",
+  "timestamp": "2023-08-11T09:10:14",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -123,7 +123,7 @@
     },
     {
       "title": "RobotaxisGroßer Sieg für Waymo und Cruise in San Francisco",
-      "teaser": "Die zuständige kalifornische Behörde hat die Beschränkungen für autonome Taxis aufgehoben. Die Stadt selbst war dagegen, die Öffentlichkeit gespalten.",
+      "teaser": "Die kalifornische Behörde hat die Beschränkungen für autonome Taxis aufgehoben. Die Stadt war dagegen, die Öffentlichkeit gespalten.",
       "url": "https://www.heise.de/news/Stadt-dagegen-Beschraenkungen-fuer-autonome-Taxis-in-San-Francisco-aufgehoben-9240897.html",
       "image_title": "Fußgänger und Robotaxi"
     },
@@ -151,8 +151,89 @@
       "url": "https://www.heise.de/news/Disney-Abo-wird-in-Deutschland-teurer-9239857.html"
     },
     {
+      "title": "Myonen: Fermilab präzisiert Messwert, neue Theorien könnten Diskrepanz auflösen",
+      "teaser": "Nach der präzisierten Vermessung der Myonen spricht man am Fermilab vom \"Showdown zwischen Theorie und Experiment\". Der könnte aber trotzdem ausfallen.",
+      "url": "https://www.heise.de/news/Myonen-Fermilab-praezisiert-Messwert-neue-Theorien-koennten-Diskrepanz-aufloesen-9241068.html",
+      "image_title": "Der kreisförmige Teilchenbeschleuniger"
+    },
+    {
+      "title": "Selbst-Hacking: Interne Netzwerke selbst auditieren",
+      "teaser": "Mit den richtigen Werkzeugen lässt sich im eigenen Netzwerk ein Selbstaudit durchführen. So kann man Sicherheitsrisiken aufspüren und sie anschließend beheben.",
+      "url": "https://www.heise.de/ratgeber/Selbst-Hacking-Interne-Netzwerke-selbst-auditieren-9238877.html"
+    },
+    {
+      "title": "Mobilfunkstandard 5G – was Unternehmen beim Einsatz beachten sollten",
+      "teaser": "Der aktuelle Mobilfunkstandard 5G ist mittlerweile fast überall verfügbar, allerdings noch nicht in voller Ausbaustufe. Wie Unternehmen schon jetzt profitieren - und was in Zukunft möglich sein wird!",
+      "url": "https://www.heise.de/solutions/gcore/mobilfunkstandard-5g-was-unternehmen-beim-einsatz-beachten-sollten/?source=nat_teas"
+    },
+    {
+      "title": "Lesen lernen: Was spricht für das Buch, was für den Bildschirm?",
+      "teaser": "Digitale Medien verändern, wie wir lesen – und wie Kinder in der Schule lesen lernen. Ob das nun gut ist oder schlecht, hängt nicht nur von der Dosis ab.",
+      "url": "https://www.heise.de/hintergrund/Lesen-lernen-Was-spricht-fuer-das-Buch-was-fuer-den-Bildschirm-9240662.html"
+    },
+    {
+      "title": "Bitkom: Hemmnisse für Frauen in der Digitalwirtschaft abbauen",
+      "teaser": "Ein höherer Frauenanteil könnte den Fachkräftemangel mildern, meint der Bitkom. Ein kostenloser Leitfaden soll Firmen helfen, mehr Frauen für sich zu gewinnen.",
+      "url": "https://www.heise.de/news/Bitkom-Hemmnisse-fuer-Frauen-in-der-Digitalwirtschaft-abbauen-9241043.html"
+    },
+    {
+      "title": "Apple Watch: Vorbereitungen auf das Mikro-LED-Zeitalter",
+      "teaser": "Apples Computeruhr soll das erste Gerät des Herstellers sein, in dem ein Mikro-LED-Display steckt. In Südkorea bereitet sich ein Lieferant gerade darauf vor.",
+      "url": "https://www.heise.de/news/Apple-Watch-Vorbereitungen-auf-das-Mikro-LED-Zeitalter-9240504.html",
+      "image_title": "Tauchen mit Apple Watch Ultra"
+    },
+    {
+      "title": "Mac & i-Podcast: Macs und Gaming – kriegt Apple die Kurve?",
+      "teaser": "Seit Jahren verspricht Apple mehr Spiele für den Mac, doch das Angebot ist trostlos. Wir diskutieren in Episode 51 über Apples neue Gaming-Initiative.",
+      "url": "https://www.heise.de/news/Mac-i-Podcast-Macs-und-Gaming-kriegt-Apple-die-Kurve-9234325.html",
+      "image_title": "Macs und Gaming"
+    },
+    {
+      "title": "Salesforce startet KI-Codeassistenten Einstein GPT for Developers",
+      "teaser": "Das KI-Werkzeug erstellt wie GitHub Copilot Code anhand eines Prompts. Einstein GPT for Developers zielt zunächst auf die Salesforce-Programmiersprache Apex.",
+      "url": "https://www.heise.de/news/Salesforce-startet-KI-Codeassistenten-Einstein-GPT-for-Developers-9240919.html"
+    },
+    {
+      "title": "Windows XP bootet unter visionOS",
+      "teaser": "Nicht nur ein Spaß: Die Macher hinter dem UTM-Projekt für virtuelle Maschinen wollen Windows auf die Vision Pro holen.",
+      "url": "https://www.heise.de/news/Windows-XP-bootet-unter-visionOS-9240508.html",
+      "image_title": "Windows auf Vision Pro"
+    },
+    {
+      "title": "Wie Sie Passkey-Logins in eigenen Webdiensten ergänzen",
+      "teaser": "Passkeys sind sicherer als Passwörter und alltagstauglicher als FIDO2-Authentifizierungen. Wir zeigen, wie Sie diese in bestehende Webanwendungen integrieren.",
+      "url": "https://www.heise.de/ratgeber/Passkey-Logins-in-eigenen-Webdiensten-ergaenzen-9224988.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "Windows-Spiele auf Apple-HardwareSo laufen Diablo 4, Cyberpunk und Co. auf dem Mac problemlos",
+      "teaser": "Windows-Spiele auf dem MacBook zocken? Mit dem Game Porting Toolkit kein Problem. Wir zeigen, was zu tun ist und wie die Spiele laufen.",
+      "url": "https://www.heise.de/ratgeber/Windows-Spiele-auf-dem-Mac-So-laufen-Diablo-4-Cyberpunk-und-Co-problemlos-9203934.html"
+    },
+    {
+      "title": "Werbung blockierenAnleitung für AdGuard Home und Raspberry Pi",
+      "teaser": "Ein DNS-basierter Werbeblocker: Wir erklären, wie Sie AdGuard für Ihr Netzwerk ​einrichten.",
+      "url": "https://www.heise.de/ratgeber/Effizient-Werbung-blockieren-Anleitung-fuer-AdGuard-Home-und-Raspberry-Pi-9219120.html",
+      "image_title": "Werbeblocker AdBlock"
+    },
+    {
+      "title": "heise+ Aktionsangebot",
+      "teaser": "Ein halbes Jahr zum halben Preis: heise+ 6 Monate mit 50% Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur für kurze Zeit!",
+      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "AlertSicherheitsupdates für Nextcloud: Angreifer können Daten löschen",
+      "teaser": "Die Cloud-Computing-Software Nextcloud ist verwundbar. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Nextcloud-Angreifer-koennen-Daten-loeschen-9241051.html"
+    },
+    {
+      "title": "100 Tage Deutschlandticket: Knirschende Digitalisierung",
+      "teaser": "Verbraucherschützer haben in den vergangenen Monaten Kritik zum Deutschlandticket gesammelt. heise online hat die Verkehrsunternehmen und die Bahn dazu befragt.",
+      "url": "https://www.heise.de/news/100-Tage-Deutschlandticket-VDV-und-Bahn-antworten-auf-Kundenbeschwerden-9240993.html"
+    },
+    {
       "title": "secIT Digital: Mit Workshop-Kow-how Cybergangster in Schach halten",
-      "teaser": "Wie funktioniere eigentlich IT-Attacken auf Firmen und was kann man dagegen tun? Die Referenten der Security-Konferenz secIT Digital haben die Antworten.",
+      "teaser": "Wie funktionieren eigentlich IT-Attacken auf Firmen und was kann man dagegen tun? Die Referenten der Security-Konferenz secIT Digital haben die Antworten.",
       "url": "https://www.heise.de/news/secIT-Digital-Mit-Workshop-Kow-how-Cybergangster-in-Schach-halten-9240092.html"
     },
     {
@@ -160,11 +241,6 @@
       "teaser": "Das Abschießen von Spionageballons hat viele Nachteile. Das US-Verteidigungsministerium will ein System entwickeln lassen, das eine unversehrte Bergung zulässt.",
       "url": "https://www.heise.de/news/Statt-abschiessen-DARPA-will-Spionageballons-kuenftig-unversehrt-einfangen-9240981.html",
       "image_title": "Common,News,Shot,Of,The,Chinese,Spy,Balloon,,Showing,Its"
-    },
-    {
-      "title": "Mobile Sicherheit – warum Unternehmen jetzt handeln müssen",
-      "teaser": "In vielen Unternehmen sind Smartphones längst zum unverzichtbaren Arbeitsmittel geworden. Ihr Einsatz erhöht aber das Risiko, Opfer einer Cyberattacke zu werden. IT-Sicherheitsverantwortliche sollten deshalb Maßnahmen ergreifen, um die mobile IT-Infrastruktur vor Gefahren zu schützen.",
-      "url": "https://www.heise.de/solutions/samsung/mobile-sicherheit-warum-unternehmen-jetzt-handeln-muessen/?source=nat_teas"
     },
     {
       "title": "Vermögensaufbau mit ETFs: Wie es gelingt und für wen es sich lohnt",
@@ -199,28 +275,6 @@
       "url": "https://www.heise.de/hintergrund/Haeufigster-ausloesender-Faktor-fuer-E-Scooter-Unfaelle-ist-infrastrukturbedingt-9234205.html"
     },
     {
-      "title": "Wie Sie Passkey-Logins in eigenen Webdiensten ergänzen",
-      "teaser": "Passkeys sind sicherer als Passwörter und alltagstauglicher als FIDO2-Authentifizierungen. Wir zeigen, wie Sie diese in bestehende Webanwendungen integrieren.",
-      "url": "https://www.heise.de/ratgeber/Passkey-Logins-in-eigenen-Webdiensten-ergaenzen-9224988.html",
-      "image_title": ", Andreas Martini"
-    },
-    {
-      "title": "Windows-Spiele auf Apple-HardwareSo laufen Diablo 4, Cyberpunk und Co. auf dem Mac problemlos",
-      "teaser": "Windows-Spiele auf dem MacBook zocken? Mit dem Game Porting Toolkit kein Problem. Wir zeigen, was zu tun ist und wie die Spiele laufen.",
-      "url": "https://www.heise.de/ratgeber/Windows-Spiele-auf-dem-Mac-So-laufen-Diablo-4-Cyberpunk-und-Co-problemlos-9203934.html"
-    },
-    {
-      "title": "Werbung blockierenAnleitung für AdGuard Home und Raspberry Pi",
-      "teaser": "Ein DNS-basierter Werbeblocker: Wir erklären, wie Sie AdGuard für Ihr Netzwerk ​einrichten.",
-      "url": "https://www.heise.de/ratgeber/Effizient-Werbung-blockieren-Anleitung-fuer-AdGuard-Home-und-Raspberry-Pi-9219120.html",
-      "image_title": "Werbeblocker AdBlock"
-    },
-    {
-      "title": "heise+ Aktionsangebot",
-      "teaser": "Ein halbes Jahr zum halben Preis: heise+ 6 Monate mit 50% Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur für kurze Zeit!",
-      "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
-    },
-    {
       "title": "Gesundheitswesen: Wie Zero Trust die Telematik sicherer machen soll",
       "teaser": "Mit einem Zero-Trust-Modell will die Gematik die Telematikinfrastruktur für das Medizinwesen auf ein neues Sicherheitsniveau bringen. Ein Blick ins Feinkonzept.",
       "url": "https://www.heise.de/hintergrund/Gesundheitswesen-Wie-Zero-Trust-die-Telematikinfrastruktur-sicherer-machen-soll-9218611.html",
@@ -235,6 +289,11 @@
       "title": "Konzentration auf Business-Kunden: Skydio gibt Consumer-Drohnen auf",
       "teaser": "Skydio will sich auf Kunden aus Unternehmen und dem öffentlichen Sektor konzentrieren. Das Privatkundengeschäft mit Drohnen wie Skydio 2 wird aufgegeben.",
       "url": "https://www.heise.de/news/Skydio-gibt-Consumer-Drohnen-auf-9240907.html"
+    },
+    {
+      "title": "Anonymisierung sensibler Daten im IT-Betrieb",
+      "teaser": "Beim täglichen IT-Betrieb fallen sensible Daten an, die geschützt werden müssen. Welche rechtlichen Aspekte dabei eine Rolle spielen und welche technischen Herausforderungen es zu beachten gilt, erfahren Sie im Live-Webcast am 28. September um 11 Uhr.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/anonymisierung-sensibler-daten-im-it-betrieb-grundschutz-fuer-dumps-logs-und-traces-4513/?source=hbsad_ersatz"
     },
     {
       "title": "Robotaxis: Großer Sieg für Waymo und Cruise in San Francisco",
@@ -294,65 +353,6 @@
       "url": "https://www.heise.de/news/software-architektur-tv-Wie-geht-die-Luftfahrt-mit-dem-Faktor-Mensch-um-9240719.html"
     },
     {
-      "title": "Nutzen Sie das Nachhaltigkeitspotenzial Ihres Rechenzentrums?",
-      "teaser": "Rechenzentren verbrauchen viel Energie, ihre Effizienz lässt sich aber verbessern. Susanne Nolte, Expertin des Fachmagazins iX, zeigt in diesem Webcast auf, an welchen Stellen Unternehmen ansetzen und wie sie von den Verbesserungen profitieren können.",
-      "url": "https://business-services.heise.de/it-management/rechenzentren/beitrag/nachhaltigkeit-im-rechenzentrum-was-ist-moeglich-wo-klemmt-es-4545/?source=hbsad-ersatz"
-    },
-    {
-      "title": "Nordirland: Gegner des Friedens angeblich im Besitz der Polizeidaten",
-      "teaser": "Offenbar wurden versehentlich publizierte Daten zu allen Polizeiangestellten in Nordirland nicht schnell genug entfernt.",
-      "url": "https://www.heise.de/news/Nordirland-Gegner-des-Friedens-angeblich-im-Besitz-der-Polizeidaten-9240699.html",
-      "image_title": "Polizist in Belfast"
-    },
-    {
-      "title": "Gesellschaft für Telemedizin: Fernbehandlungen im Digitalgesetz zu kurz gedacht",
-      "teaser": "Laut deutscher Gesellschaft für Telemedizin werden Fernbehandlungen im Entwurf zum Digitalgesetz des Bundesgesundheitsministeriums zu wenig berücksichtigt.",
-      "url": "https://www.heise.de/news/Gesellschaft-fuer-Telemedizin-Fernbehandlungen-im-Digitalgesetz-zu-kurz-gedacht-9240405.html",
-      "image_title": "Heart,Love,Health,Ai,Tech,Code,And,Cyber,Dating,Symbol, Gesundheitsdaten, Herz, Computer, Arzt am Computer"
-    },
-    {
-      "title": "SK Hynix stapelt über 300 Speicherlagen in einem einzigen Chip",
-      "teaser": "SK Hynix hat als erster Speicherhersteller die nächste NAND-Flash-Generation angekündigt. Die Speicherdichte übersteigt erstmals 20 Gbit pro Quadratmillimeter.",
-      "url": "https://www.heise.de/news/SSDs-Mehr-als-300-Speicherlagen-in-einem-einzigen-Chip-9240680.html"
-    },
-    {
-      "title": "z/OS 3.1: Mainframe-Betriebssystem erhält KI-Features",
-      "teaser": "Weil z/OS 3.1 das Mainframe-Betriebssystem um derart zentrale KI-Funktionen ergänzt, überspringt IBM bei der Versionsnummer sogar die Hauptversion.",
-      "url": "https://www.heise.de/news/z-OS-3-1-Mainframe-Betriebssystem-erhaelt-KI-Features-9240652.html"
-    },
-    {
-      "title": "Verfassungsschutz: Iranische Hacker wollen Regimekritiker hierzulande ausspähen",
-      "teaser": "Das Bundesamt für Verfassungsschutz warnt vor \"konkreten Ausspähversuchen\" der Gruppe Charming Kitten bei Exil-Iranern mit \"ausgefeiltem Social Engineering\".",
-      "url": "https://www.heise.de/news/Verfassungsschutz-Iranische-Hacker-wollen-Regimekritiker-hierzulande-ausspaehen-9240674.html",
-      "image_title": "Frau schneidet sich während einer Demo gegen die Islamische Republik die Haare ab"
-    },
-    {
-      "title": "Explosionszeichnungen mit der kostenlosen Software FreeCAD erzeugen",
-      "teaser": "Anleitungen mit Explosionsgrafiken zu erstellen ist leicht, wenn man FreeCAD und die richtigen Add-ons nutzt. Wir zeigen Schritt für Schritt, wie das geht.",
-      "url": "https://www.heise.de/hintergrund/Explosionszeichnungen-mit-der-kostenlosen-Software-FreeCAD-erzeugen-9231155.html"
-    },
-    {
-      "title": "Höhepunkt der Perseiden 2023: Sternschnuppen beobachten und fotografieren",
-      "teaser": "Aufbleiben lohnt sich: Die Perseiden erreichen ihr Maximum. Das ist die beste Zeit für die Jagd auf Sternschnuppen. So sind Sie erfolgreich.",
-      "url": "https://www.heise.de/ratgeber/Hoehepunkt-der-Perseiden-2023-Sternschnuppen-beobachten-und-fotografieren-9240132.html"
-    },
-    {
-      "title": "Kurz informiert: Breitbandausbau, US-Investitionen, Twitter, Disney+",
-      "teaser": "Unser werktäglicher News-Überblick fasst die wichtigsten Nachrichten des Tages kurz und knapp zusammen.",
-      "url": "https://www.heise.de/news/Kurz-informiert-Breitbandausbau-US-Investitionen-Twitter-Disney-9240345.html"
-    },
-    {
-      "title": "Mars-Rover Curiosity: Schlammrisse als Spur sehr lebensfreundlicher Bedingungen",
-      "teaser": "Curiosity hat in einer neuen Umgebung Strukturen am Boden gefunden, die auf jahreszeitliche Wechsel zwischen Feuchtigkeit und Trockenheit hindeuten.",
-      "url": "https://www.heise.de/news/Fuer-Leben-guenstig-Mars-Rover-Curiosity-findet-Spuren-jahreszeitlicher-Wechsel-9240534.html",
-      "image_title": "Die sternförmigen Schlammrisse auf dem Marsboden"
-    },
-    {
-      "title": "Jetzt in der Make 4/23: NAS-Backup-Station mit E-Ink-Display",
-      "teaser": "Manuell NAS-Backups zu erstellen, ist einfach, wenn man die selbstgebaute Backup-Station aus der Make 4/23 hat. Die macht das meiste nämlich automatisch.",
-      "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-23-NAS-Backup-Station-mit-E-Ink-Display-9240401.html"
-    },
-    {
       "title": "Heftiger Sonnenausbruch erstmals parallel auf Erde, Mond und Mars beobachtet",
       "url": "https://www.heise.de/news/Heftiger-Sonnenausbruch-erstmals-parallel-auf-Erde-Mond-und-Mars-beobachtet-9236727.html",
       "image_title": "Die Sonne"
@@ -383,12 +383,12 @@
       "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Stimmung-in-den-USA-kippt-Biden-steht-unter-Druck-9235555.html"
     },
     {
-      "title": "Urteil: Kunde muss zahlen, wenn er auf E-Mail mit gefälschter Rechnung reinfällt",
-      "url": "https://www.heise.de/news/Urteil-Kunde-muss-zahlen-wenn-er-auf-E-Mail-mit-gefaelschter-Rechnung-reinfaellt-9235755.html"
-    },
-    {
       "title": "Elektroauto: VW überholt Tesla bei deutschen Erstzulassungen",
       "url": "https://www.heise.de/news/Elektroauto-VW-ueberholt-Tesla-bei-deutschen-Erstzulassungen-9237506.html"
+    },
+    {
+      "title": "Urteil: Kunde muss zahlen, wenn er auf E-Mail mit gefälschter Rechnung reinfällt",
+      "url": "https://www.heise.de/news/Urteil-Kunde-muss-zahlen-wenn-er-auf-E-Mail-mit-gefaelschter-Rechnung-reinfaellt-9235755.html"
     },
     {
       "title": "Autonome KI-AgentenSmallville-Experiment ist jetzt Open Source",
@@ -455,7 +455,7 @@
       "image_title": "Hände am Smartphone im Dunkeln"
     },
     {
-      "title": "Gehälter 2023: Das verdienen Softwareentwickler in Deutschland",
+      "title": "Gehälter 2023Das verdienen Softwareentwickler in Deutschland",
       "url": "https://www.heise.de/hintergrund/Gehaelter-2023-Das-verdienen-Softwareentwickler-in-Deutschland-9239031.html"
     },
     {
@@ -574,6 +574,11 @@
       "image_title": "Hamas Connect2Office Stand"
     },
     {
+      "title": "Jetzt in der Make 4/23: NAS-Backup-Station mit E-Ink-Display",
+      "teaser": "Manuell NAS-Backups zu erstellen, ist einfach, wenn man die selbstgebaute Backup-Station aus der Make 4/23 hat. Die macht das meiste nämlich automatisch.",
+      "url": "https://www.heise.de/news/Jetzt-in-der-Make-4-23-NAS-Backup-Station-mit-E-Ink-Display-9240401.html"
+    },
+    {
       "title": "Löten mit einer Hand: Dieses Projekt macht’s möglich",
       "teaser": "Zur Unterstützung beim Löten gibt es Hilfsmittel wie Helping Hands und Lupen. Der Maker RoboticWorx hat ein Open Source Projekt zum Einhandlöten veröffentlicht.",
       "url": "https://www.heise.de/news/Loeten-mit-einer-Hand-Dieses-Projekt-macht-s-moeglich-9239087.html"
@@ -582,11 +587,6 @@
       "title": "Explosionszeichnungen mit der kostenlosen Software FreeCAD erzeugen",
       "teaser": "Anleitungen mit Explosionsgrafiken zu erstellen ist leicht, wenn man FreeCAD und die richtigen Add-ons nutzt. Wir zeigen Schritt für Schritt, wie das geht.",
       "url": "https://www.heise.de/hintergrund/Explosionszeichnungen-mit-der-kostenlosen-Software-FreeCAD-erzeugen-9231155.html"
-    },
-    {
-      "title": "Runde Displays mit Touchscreen für Raspberry Pis",
-      "teaser": "Größere runde Displays waren bislang kaum auf dem Markt. Waveshare bringt jetzt eins mit 4 Zoll Durchmesser für Raspberrys auf den Markt.",
-      "url": "https://www.heise.de/news/Runde-Displays-mit-Touchscreen-fuer-Raspberry-Pis-9236918.html"
     },
     {
       "title": "Fotoreiseführer Odenwald: Ein Paradies für Landschafts- und Astrofotografen",
@@ -716,20 +716,20 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-smartwatches-mit-ekg-ab-99-euro/11kg4jj?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
+      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
+      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
+      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
+    },
+    {
       "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
       "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
       "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
     },
     {
-      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
-      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
-      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
-    },
-    {
-      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
-      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
-      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
-      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
+      "title": "Wie der Verfassungsschutz in die Meinungsfreiheit eingreift",
+      "teaser": "Der deutsche Inlandsgeheimdienst wird zunehmend zum politischen Akteur. Macht sich Behördenchef Haldenwang einer strafbaren Nötigung im Amt schuldig? Und was hat das mit Orwells \"1984\" zu tun?",
+      "url": "https://www.heise.de/tp/features/Wie-der-Verfassungsschutz-in-die-Meinungsfreiheit-eingreift-9206508.html"
     },
     {
       "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
