@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-15T12:19:43",
+  "timestamp": "2023-08-15T13:12:15",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Bastelcomputer: Raspberry Pi 4 auch mit 8 GByte RAM wieder verfügbar",
+      "teaser": "Auf die Raspi-Version mit 2 und 4 GByte Speicher folgt das Modell mit 8 GByte. Der Preis ist unter 100 Euro gefallen.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-4-Jetzt-auch-mit-8-GByte-RAM-wieder-verfuegbar-9243466.html"
+    },
+    {
       "title": "Leaks aus Logfiles: Konfigurationen aller M3-SoCs bekannt",
       "teaser": "Apple leakt sich einmal mehr selbst: In Logdateien bekannter Apps sind nun alle möglichen M3-Konfigurationen aufgetaucht, inklusive Kernanzahl von CPU und GPU.",
       "url": "https://www.heise.de/news/Leaks-aus-Logfiles-Konfigurationen-aller-M3-SoCs-bekannt-9242937.html",
@@ -37,9 +42,9 @@
       "url": "https://www.heise.de/news/Canon-HP-vor-Gericht-All-in-One-Drucker-scannen-nur-mit-Tinte-im-Tank-9242758.html"
     },
     {
-      "title": "20 Jahre Blaster-Wurm: Der nächste Super-GAU wartet in der Cloud",
-      "teaser": "Als Blaster über Windows-PCs weltweit herfiel, war die Aufregung groß. Gefahr gebannt? Mitnichten, meint Jürgen Schmidt und blickt besorgt in die Cloud.",
-      "url": "https://www.heise.de/meinung/20-Jahre-Blaster-Wurm-Der-naechste-Super-GAU-wartet-in-der-Cloud-9241438.html"
+      "title": "Storm-558: Angriff auf Exchange-Mails von Regierungsbehörden und vielleicht mehr",
+      "teaser": "Mit einem kompromittierten Signing Key hat die APT-Gruppe Storm-0558 E-Mails amerikanischer und wohl auch europäischer Behörden ausspioniert. Eine Einordnung.",
+      "url": "https://www.heise.de/hintergrund/Storm-558-Angriff-auf-Exchange-Mails-von-Regierungsbehoerden-und-vielleicht-mehr-9243694.html"
     },
     {
       "title": "Besuch in einer Grafikkartenfabrik in Taiwan",
@@ -47,9 +52,31 @@
       "url": "https://www.heise.de/hintergrund/Besuch-in-einer-Grafikkartenfabrik-in-Taiwan-9240987.html"
     },
     {
-      "title": "Druckertinten per Abo: Dienste mit monatlichen Seitenkontingenten im Vergleich",
-      "teaser": "Ärgern Sie sich über teure Tinte oder Tonerkartuschen? Mit einem Abo bekommen Sie pro Monat eine bestimmte Anzahl von Druckseiten zum Festpreis.",
-      "url": "https://www.heise.de/tests/Druckertinten-per-Abo-Dienste-mit-monatlichen-Seitenkontingenten-im-Vergleich-9243118.html"
+      "title": "l+f: Trojaner unterscheiden nicht zwischen Gut und Böse",
+      "teaser": "D’oh! Sicherheitsforscher sind auf rund 120.000 mit Malware infizierte PCs gestoßen – von Cybergangstern.",
+      "url": "https://www.heise.de/news/l-f-Trojaner-unterscheiden-nicht-zwischen-Gut-und-Boese-9244810.html"
+    },
+    {
+      "title": "Shure MVX2U: Neues USB-Interface für XLR-Mikrofone",
+      "teaser": "Nach dem Podcast-Mikrofon MV7 bietet Shure nun ein kompaktes Audio-Interface für Podcaster und Streamer an, das sich direkt an XLR-Mikrofone anschließen lässt.",
+      "url": "https://www.heise.de/news/Shure-MVX2U-Neues-USB-Interface-fuer-XLR-Mikrofone-9243699.html"
+    },
+    {
+      "title": "Fehlersuche: Guard Clauses – den Code auf Fehler vorbereiten",
+      "teaser": "Fehlersuche im Code ist zeitaufwendig. Kluge Strategien für Exceptions und Guard Clauses helfen, effizient versteckte Übeltäter aufzudecken.",
+      "url": "https://www.heise.de/hintergrund/Fehlersuche-Guard-Clauses-den-Code-auf-Fehler-vorbereiten-9241426.html",
+      "image_title": "Zwei Verkehrsampeln vor wolkigem Abendhimmel."
+    },
+    {
+      "title": "Kommentar: 25 Jahre iMac – braucht es Apples All-in-One noch?",
+      "teaser": "Am 15. August 1998 kam der Rechner heraus, mit dem sich Apple aus der Krise befreite. Doch heute landet der iMac nur noch unter ferner liefen. Das ist schade.",
+      "url": "https://www.heise.de/meinung/Kommentar-25-Jahre-iMac-braucht-es-Apples-All-in-One-noch-9244701.html",
+      "image_title": "iMac M1"
+    },
+    {
+      "title": "China-Hardware: Günstige Mainboards mit aufgelötetem 10-Kerner",
+      "teaser": "Die chinesische Firma Erying packt Intels Core i7-13620H auf ein Desktop-Mainboard. Das Paket ist dort günstiger als hierzulande ein einzelner Core i5-13400.",
+      "url": "https://www.heise.de/news/Desktop-Mainboards-mit-Notebook-CPU-Guenstige-10-Kerner-in-China-9244734.html"
     },
     {
       "title": "Ericsson: Neues Design verspricht weniger Plastik in Verpackungen",
@@ -108,34 +135,6 @@
       "teaser": "Apples Mac mini erlaubt keine Erweiterung des internen Flash-Moduls. Ein Bastler hat nun gezeigt, dass es doch geht – allerdings nur mit Radikalansatz.",
       "url": "https://www.heise.de/news/Mac-mini-mit-Apple-Silicon-SSD-Upgrade-mit-Loetkolben-9244170.html",
       "image_title": "Mac mini M1"
-    },
-    {
-      "title": "Kryptowährung: FBI warnt vor Betrugsmasche mit Beta-Apps",
-      "teaser": "Cyberkriminelle schleusen dem FBI zufolge Beta-Apps mit Schadcode in offizielle App Stores, um bei Opfern abzukassieren.",
-      "url": "https://www.heise.de/news/Kryptowaehrung-FBI-warnt-vor-Betrugsmasche-mit-Beta-Apps-9244313.html"
-    },
-    {
-      "title": "iX-Workshop: Microsoft 365 sicher und datenschutzfreundlich konfigurieren",
-      "teaser": "Erfahren Sie, wie Sie Microsoft 365 sicher betreiben und notwendige Maßnahmen in Bezug auf Datenschutz und Informationssicherheit umsetzen. (Last Call)",
-      "url": "https://www.heise.de/news/iX-Workshop-Microsoft-365-sicher-und-datenschutzfreundlich-konfigurieren-9239345.html",
-      "image_title": "Sicherer Einsatz von Microsoft 365 (iX-Workshop)"
-    },
-    {
-      "title": "Web-Tipps: Aufrüttelnde Klimadaten",
-      "teaser": "Klimawandel, Luft- und Oberflächentemperatur: Das Climate Change Institute der Universität Maine veröffentlich relevante Klima- und Wettervorhersagemodelle.",
-      "url": "https://www.heise.de/news/Web-Tipps-Aufruettelnde-Klimadaten-9241247.html"
-    },
-    {
-      "title": "Online-Workshop: Sichere Apps für iOS und Android entwickeln",
-      "teaser": "Der zweitägige Workshop konzentriert sich Ende August praxisnah auf die Verwendung von Sicherheitsmechanismen und Kryptographie bei der App-Entwicklung.",
-      "url": "https://www.heise.de/news/Online-Workshop-Sichere-Apps-fuer-iOS-und-Android-entwickeln-9240409.html",
-      "image_title": "Workshop \"Sichere Apps für iOS und Android entwickeln\""
-    },
-    {
-      "title": "Wasserdichte SSDs und USB-Hubs mit NVMe-Slot: Externe Speicher ab 50 Euro",
-      "teaser": "SSDs sind ideal als externe Speicher für große Datenmengen geeignet. TechStage zeigt robuste, wasserdichte Speicher sowie mobile USB-Hubs mit NVMe-Slot.",
-      "url": "https://www.techstage.de/ratgeber/wasserdichte-ssds-und-usb-hubs-mit-nvme-slot-externe-speicher-ab-50-euro/mg8kk7r?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
