@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-15T13:12:15",
+  "timestamp": "2023-08-15T14:09:51",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,14 +42,28 @@
       "url": "https://www.heise.de/news/Canon-HP-vor-Gericht-All-in-One-Drucker-scannen-nur-mit-Tinte-im-Tank-9242758.html"
     },
     {
-      "title": "Storm-558: Angriff auf Exchange-Mails von Regierungsbehörden und vielleicht mehr",
-      "teaser": "Mit einem kompromittierten Signing Key hat die APT-Gruppe Storm-0558 E-Mails amerikanischer und wohl auch europäischer Behörden ausspioniert. Eine Einordnung.",
-      "url": "https://www.heise.de/hintergrund/Storm-558-Angriff-auf-Exchange-Mails-von-Regierungsbehoerden-und-vielleicht-mehr-9243694.html"
+      "title": "Smart City: Ins Netz mit mit NB-IoT und LTE-M",
+      "teaser": "Mit den kommerziellen Funkstandards NB-IoT und LTE-M kann jede Stadt ein eigenes IoT-Netz aufbauen – und das mit überschaubaren Ressourcen.",
+      "url": "https://www.heise.de/ratgeber/Smart-City-Ins-Netz-mit-mit-NB-IoT-und-LTE-M-9230856.html",
+      "image_title": ", Moritz Reichartz"
     },
     {
-      "title": "Besuch in einer Grafikkartenfabrik in Taiwan",
-      "teaser": "​Im taiwanischen Fertigungswerk von PowerColor konnten wir die Produktion einer Radeon RX 7900 XTX von der Platine bis zum Versand begleiten. Ein Einblick.",
-      "url": "https://www.heise.de/hintergrund/Besuch-in-einer-Grafikkartenfabrik-in-Taiwan-9240987.html"
+      "title": "Zukunftspläne für Smart Cities: Das ist dran am Versprechen vernetzter Städte",
+      "teaser": "Die Smart-City-Entwicklung wird bereits vom Bund gefördert, konkreter Nutzen bleibt bisher aus. Wir zeigen, was erfolgreiche Projekte ausmacht und wo es hakt.",
+      "url": "https://www.heise.de/ratgeber/Zukunftsplaene-fuer-Smart-Cities-Das-ist-dran-am-Versprechen-vernetzter-Staedte-9230588.html",
+      "image_title": "Moritz Reichartz"
+    },
+    {
+      "title": "LoRaWAN: Selbstbaunetz für die Smart City",
+      "teaser": "Der Funkstandard LoRaWAN erlaubt es, das nötige Netz für drahtlose Sensoren selbst aufzuziehen, ohne sich auf kommerzielle Netzbetreiber verlassen zu müssen.",
+      "url": "https://www.heise.de/ratgeber/LoRaWAN-Selbstbaunetz-fuer-die-Smart-City-9229746.html",
+      "image_title": ", Moritz Reichartz"
+    },
+    {
+      "title": "Smart City: Sensordaten auswerten mit ThingsBoard",
+      "teaser": "Datensammeln allein macht noch keine Smart City. Erst mit einer Datenplattform werden aus Rohdaten Auswertungen mit Mehrwert. ThingsBoard leistet das.",
+      "url": "https://www.heise.de/ratgeber/Smart-City-Sensordaten-auswerten-mit-ThingsBoard-9229527.html",
+      "image_title": ", Moritz Reichartz"
     },
     {
       "title": "l+f: Trojaner unterscheiden nicht zwischen Gut und Böse",
@@ -66,6 +80,11 @@
       "teaser": "Fehlersuche im Code ist zeitaufwendig. Kluge Strategien für Exceptions und Guard Clauses helfen, effizient versteckte Übeltäter aufzudecken.",
       "url": "https://www.heise.de/hintergrund/Fehlersuche-Guard-Clauses-den-Code-auf-Fehler-vorbereiten-9241426.html",
       "image_title": "Zwei Verkehrsampeln vor wolkigem Abendhimmel."
+    },
+    {
+      "title": "Storm-558: Angriff auf Exchange-Mails von Regierungsbehörden und vielleicht mehr",
+      "teaser": "Mit einem kompromittierten Signing Key hat die APT-Gruppe Storm-0558 E-Mails amerikanischer und wohl auch europäischer Behörden ausspioniert. Eine Einordnung.",
+      "url": "https://www.heise.de/hintergrund/Storm-558-Angriff-auf-Exchange-Mails-von-Regierungsbehoerden-und-vielleicht-mehr-9243694.html"
     },
     {
       "title": "Kommentar: 25 Jahre iMac – braucht es Apples All-in-One noch?",
@@ -117,24 +136,6 @@
       "title": "Next Level C++: In fünf Webinaren zum Profi in C++ mit der heise Academy",
       "teaser": "Ab dem 23. Oktober macht die heise Academy Sie zum C++-Experten. In fünf Webinaren meistern Sie Templates, API-Design, Speicherverwaltung und Design Patterns.",
       "url": "https://www.heise.de/news/Next-Level-C-In-fuenf-Webinaren-zum-Profi-in-C-mit-der-heise-Academy-9240933.html"
-    },
-    {
-      "title": "iX-Workshop: Produktiver programmieren mit Github Copilot (Mit Frühbucherrabatt)",
-      "teaser": "Anwendungen schneller und komfortabler programmieren mit den KI-Funktionen von GitHub Copilot - eine Praxisanleitung,",
-      "url": "https://www.heise.de/news/iX-Workshop-Produktiver-programmieren-mit-Github-Copilot-Mit-Fruehbucherrabatt-9239314.html",
-      "image_title": "iX-Workshop Machine Learning mit scikit-learn"
-    },
-    {
-      "title": "Was braucht mehr Strom: Festplatten oder SSDs?",
-      "teaser": "Ein Anbieter von Speicherdienstleistungen behauptet, dass SSDs nicht immer sparsamer seien als Festplatten. Wir haben vor einigen Jahren mal nachgemessen.",
-      "url": "https://www.heise.de/news/Was-braucht-mehr-Strom-Festplatten-oder-SSDs-9244421.html",
-      "image_title": "Festplatte von Western Digital"
-    },
-    {
-      "title": "Mac mini mit Apple Silicon: SSD-Upgrade mit Lötkolben",
-      "teaser": "Apples Mac mini erlaubt keine Erweiterung des internen Flash-Moduls. Ein Bastler hat nun gezeigt, dass es doch geht – allerdings nur mit Radikalansatz.",
-      "url": "https://www.heise.de/news/Mac-mini-mit-Apple-Silicon-SSD-Upgrade-mit-Loetkolben-9244170.html",
-      "image_title": "Mac mini M1"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
