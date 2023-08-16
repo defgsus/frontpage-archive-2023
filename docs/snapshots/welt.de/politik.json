@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-16T08:13:35",
+  "timestamp": "2023-08-16T09:10:50",
   "url": "https://www.welt.de/politik/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.e7dde087.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.53c486f5.js",
       "id": null,
       "text": null
     },
@@ -19,12 +19,19 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.7ed33d71.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.ad510219.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Richtungsstreit in der „Letzten Generation“",
+      "teaser": "Der Kern der „Letzten Generation“ steht intern immer stärker unter Beschuss. Unsere WELT-Investigativreporter Alexander Dinger und Lennart Pfahler berichten über einen neuen Richtungsstreit innerhalb der Klimaaktivisten. Am 23. August laden wir Sie ab 15 Uhr ein, mit unseren Reportern über die neuesten Entwicklungen zu diskutieren.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246930018/7297935087-ci23x11-w20/teaser-generisch-LP-AD-23-08.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
     {
       "title": "CDU-Innenminister von NRW und Sachsen rechnen mit „komplettem Kontrollverlust“",
       "teaser": "Herbert Reul und Armin Schuster, Innenminister von NRW und Sachsen, üben scharfe Kritik an Karl Lauterbachs Gesetz zur Cannabisfreigabe. Auch aus dem hessischen Justizministerium und dem Hamburger Senat werden kurz vor Beschluss am Mittwochvormittag noch einmal Befürchtungen laut.",
@@ -53,13 +60,6 @@
       "url": "https://www.welt.de/politik/ausland/article246928042/Ukraine-News-Russische-Drohnen-in-Donaumuendung-eingedrungen.html",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile246928106/7517931287-ci23x11-w20/Ukraine-Increases-Cargo-Traffic-Through-Its-River-Ports.jpg",
       "image_title": "Ukraine Increases Cargo Traffic Through Its River Ports"
-    },
-    {
-      "title": "Nordkorea äußert sich erstmals zu US-Soldat Travis King",
-      "teaser": "Vor vier Wochen hatte ein US-Soldat nach seiner Entlassung aus einem südkoreanischen Gefängnis die Grenze nach Nordkorea überquert. Jetzt äußert sich das Regime zu dem Vorfall – und greift dabei in die anti-amerikanische Propagandakiste.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile246927702/6277938397-ci23x11-w20/North-Korea-US.jpg",
-      "image_title": "Fast zwei Monate hat Travis King wegen Körperverletzung in einem südkoreanischen Gefängnis verbracht"
     },
     {
       "title": "„Schade, dass ein Ministerpräsident das Narrativ der AfD und Russlands bedient“",
@@ -134,7 +134,7 @@
     {
       "title": "Knapp 400.000 Afghanen in Deutschland – und die Folgen",
       "teaser": "Die Asylpolitik und gesonderte Aufnahmeprogramme ermöglichen inzwischen fast 400.000 Afghanen ein Leben in Deutschland. Viele von ihnen haben bereits anderswo in der EU ein Asylverfahren durchlaufen. Wie gelingt hier die Integration, wie viele sind von Sozialleistungen abhängig?",
-      "url": "https://www.welt.de/politik/deutschland/plus246922822/Asylpolitik-Knapp-400-000-Afghanen-in-Deutschland-und-die-Folgen.html",
+      "url": "https://www.welt.de/politik/deutschland/plus246922822/Asylpolitik-Knapp-400-000-Afghanen-in-Deutschland-das-sind-die-Folgen.html",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile246923036/2227931507-ci23x11-w20/Erstaufnahmeeinrichtung-Eisenhuettenstadt.jpg",
       "image_title": "Migranten in der Zentralen Erstaufnahmeeinrichtung für Asylbewerber in Eisenhüttenstadt (Brandenburg)",
       "author": "Marcel Leubecher"
@@ -160,6 +160,13 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Nordkorea äußert sich erstmals zu US-Soldat Travis King",
+      "teaser": "Vor vier Wochen hatte ein US-Soldat nach seiner Entlassung aus einem südkoreanischen Gefängnis die Grenze nach Nordkorea überquert. Jetzt äußert sich das Regime zu dem Vorfall – und greift dabei in die anti-amerikanische Propagandakiste.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile246927702/6277938397-ci23x11-w20/North-Korea-US.jpg",
+      "image_title": "Fast zwei Monate hat Travis King wegen Körperverletzung in einem südkoreanischen Gefängnis verbracht"
+    },
+    {
       "title": "Wie Deutschlands harte Linie gegen die Taliban scheiterte",
       "teaser": "Nach dem Fall Kabuls schlug die Bundesregierung eine harte Linie ein: Den Taliban wurde die Entwicklungshilfe gestrichen und der Kontakt abgebrochen – in der Hoffnung auf einen gemäßigten Kurs. Doch das Gegenteil trat ein. Experten haben jetzt einen Grund ausgemacht.",
       "url": "https://www.welt.de/politik/ausland/plus246921678/Afghanistan-Wie-Deutschlands-harte-Linie-gegen-die-Taliban-scheiterte.html",
@@ -168,7 +175,7 @@
       "author": "Lara Jäkel"
     },
     {
-      "title": "Wie Polen Europas neue Migrationspolitik zu Fall bringen will",
+      "title": "Polens Angriff auf die neue EU-Migrationspolitik",
       "teaser": "Warschau will Brüssels neue Asylreform mit aller Macht torpedieren. Helfen soll dabei ein nationales Referendum, das parallel zur kommenden Wahl stattfindet. Ein neues Kapitel der Konfrontation scheint vorprogrammiert – und Polens Beispiel könnte weiterreichende Konsequenzen haben.",
       "url": "https://www.welt.de/politik/ausland/plus246924166/Migration-Wie-Polen-Europas-neue-Asylpolitik-zu-Fall-bringen-will.html",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile246924160/0577938287-ci23x11-w20/DWO-Teaser-fluechtende-polen-aw-Kopie.jpg",
@@ -199,13 +206,6 @@
       "author": "Christine Kensche"
     },
     {
-      "title": "Baerbock bricht Reise in Pazifik-Region ab – Pannen-Flieger werden ausgemustert",
-      "teaser": "Gleich zweimal innerhalb von 24 Stunden hat Annalena Baerbock vergeblich versucht, mit einem Airbus der Flugbereitschaft nach Australien zu kommen. Die einwöchige Dienstreise brach sie am Dienstagmorgen ab. Die pannengeplagten Regierungsflieger sollen ausgemustert werden.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile246911756/3527931837-ci23x11-w20/Panne-Baerbock-muss-Reise-nach-Australien-unterbrechen.jpg",
-      "image_title": "Panne: Baerbock muss Reise nach Australien unterbrechen"
-    },
-    {
       "title": "Jetzt greifen Städte zu präventiven Versammlungsverboten für Klimakleber",
       "teaser": "Versammlungsverbote hatte es zuletzt während der Corona-Pandemie gegeben. Nun greifen immer mehr Städte zu dem Instrument, um Blockaden radikaler Aktivisten zu verhindern. Aber sind diese gravierenden Grundrechtseingriffe wirksam – und juristisch haltbar?",
       "url": "https://www.welt.de/politik/deutschland/",
@@ -231,7 +231,7 @@
     {
       "title": "„Sinnvoller Weg“ oder Grundrechts-Verletzung? Bezahlkarten für Asylbewerber sorgen für Streit",
       "teaser": "In mehreren Regionen ist geplant, das sogenannte Taschengeld für Asylbewerber nicht mehr bar auszuzahlen. Fast alle Parteien im Bundestag zeigen sich dafür offen – allerdings aus höchst unterschiedlichen Gründen. Die Linke hingegen reagiert ebenso wie Flüchtlingshelfer alarmiert.",
-      "url": "https://www.welt.de/politik/deutschland/plus246914682/Asylpolitik-Sinnvoller-Weg-oder-Grundrechtsverletzung-Bezahlkarten-fuer-Asylbewerber-sorgen-fuer-Streit.html",
+      "url": "https://www.welt.de/politik/deutschland/plus246914682/Asylpolitik-Sinnvoll-oder-Grundrechtsverletzung-Bezahlkarten-fuer-Asylbewerber-sorgen-fuer-Streit.html",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile246915660/2357930687-ci23x11-w20/Zentrale-Anlaufstelle-fuer-Asylbewerber-in-Sachsen-Anhalt.jpg",
       "image_title": "„Notwendigen persönlichen Bedarf“ nicht mehr bar bezahlen? In mehreren Regionen gibt es entsprechende Pläne für Asylbewerber",
       "author": "Johannes Wiedemann"
@@ -285,6 +285,13 @@
       "image_url": "https://img.welt.de/img/vermischtes/kriminalitaet/mobile246813110/4507935507-ci23x11-w20/Mordprozess-gegen-Hells-Angels-Rocker.jpg",
       "image_title": "Ein mutmaßlicher Zeuge im „Wettbüro-Prozess“ wird vor dem „California Coffee Shop“ festgenommen, weil er zuvor ein Kamerateam angegriffen hatte",
       "author": "Vanessa Nischik"
+    },
+    {
+      "title": "Baerbock bricht Reise in Pazifik-Region ab – Pannen-Flieger werden ausgemustert",
+      "teaser": "Gleich zweimal innerhalb von 24 Stunden hat Annalena Baerbock vergeblich versucht, mit einem Airbus der Flugbereitschaft nach Australien zu kommen. Die einwöchige Dienstreise brach sie am Dienstagmorgen ab. Die pannengeplagten Regierungsflieger sollen ausgemustert werden.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile246911756/3527931837-ci23x11-w20/Panne-Baerbock-muss-Reise-nach-Australien-unterbrechen.jpg",
+      "image_title": "Panne: Baerbock muss Reise nach Australien unterbrechen"
     },
     {
       "title": "Haseloff lehnt vorgezogene Erhöhung des CO₂-Preises ab",
@@ -373,13 +380,6 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile246903208/6847935257-ci23x11-w20/DWO-IP-Teaser-Burg-Parteien-cw-jpg.jpg",
       "image_title": "Burg in Sachsen-Anhalt",
       "author": "Nikolaus Doll"
-    },
-    {
-      "title": "Polizei ermittelt nach mutmaßlichem Angriff auf AfD-Politiker",
-      "teaser": "Der bayerische AfD-Landtagskandidat Andreas Jurca wurde in der Nacht zu Samstag in Augsburg attackiert, nach Parteiangaben erlitt der 35-Jährige schwere Verletzungen. Einen Zusammenhang mit seiner politischen Tätigkeit bestätigten Polizei und Staatsanwaltschaft nicht.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile246903256/7817939877-ci23x11-w20/Augsburger-AfD-Politiker-Andreas-Jurca.jpg",
-      "image_title": "Der Augsburger AfD-Politiker Andreas Jurca (Archivbild von November 2022)"
     },
     {
       "title": "Der Preis der Hast",
