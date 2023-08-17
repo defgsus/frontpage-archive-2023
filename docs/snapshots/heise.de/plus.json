@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-17T15:10:43",
+  "timestamp": "2023-08-17T16:14:05",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -58,6 +58,11 @@
       "url": "https://www.heise.de/hintergrund/Storm-558-Angriff-auf-Exchange-Mails-von-Regierungsbehoerden-und-vielleicht-mehr-9243694.html"
     },
     {
+      "title": "Python-Grundlagen: Mit dem datetime-Modul effizient mit Daten und Zeiten umgehen",
+      "teaser": "Mit dem eingebauten datetime-Modul in Python werden Sie zum Meister der Zeit und formatieren Daten oder berechnen Zeitabstände.",
+      "url": "https://www.heise.de/hintergrund/Python-Grundlagen-Mit-dem-datetime-Modul-effizient-mit-Daten-und-Zeiten-umgehen-9252303.html"
+    },
+    {
       "title": "Kurztests: LoRaWAN-Tracker, Podcast-Mikro Rode PodMic und Intel-Arc-Grafikkarte",
       "teaser": "Ein LoRaWAN-Tracker von ELV, das Rode PodMic und die Sparkle Intel Arc A380 ELF im Kurztest.",
       "url": "https://www.heise.de/tests/Kurztests-LoRaWAN-Tracker-Podcast-Mikro-Rode-PodMic-und-Intel-Arc-Grafikkarte-9245646.html"
@@ -68,7 +73,7 @@
       "url": "https://www.heise.de/hintergrund/Sparen-mit-dynamischen-Stromtarifen-Fuer-wen-sie-sich-lohnen-was-sie-kosten-9244963.html"
     },
     {
-      "title": "Entwickeln für die Vision Pro: So funktioniert das visionOS-SDK",
+      "title": "Entwickeln für die Apple Vision Pro: So funktioniert das visionOS-SDK",
       "teaser": "Zwar lässt die Vision Pro noch auf sich warten. Entwickler können das Apple-Headset aber bereits näher kommen. Wir zeigen, wie man mit dem Simulator arbeitet.",
       "url": "https://www.heise.de/hintergrund/Entwickeln-fuer-die-Vision-Pro-So-funktioniert-das-visionOS-SDK-9246103.html",
       "image_title": "visionOS-SDK mit Simulator"
@@ -135,12 +140,6 @@
       "image_title": ", Moritz Reichartz"
     },
     {
-      "title": "Smart City: Sensordaten auswerten mit ThingsBoard",
-      "teaser": "Datensammeln allein macht noch keine Smart City. Erst mit einer Datenplattform werden aus Rohdaten Auswertungen mit Mehrwert. ThingsBoard leistet das.",
-      "url": "https://www.heise.de/ratgeber/Smart-City-Sensordaten-auswerten-mit-ThingsBoard-9229527.html",
-      "image_title": ", Moritz Reichartz"
-    },
-    {
       "title": "Elektroauto Audi Q8 55 e-tron quattro im Test: Plus bei Batterie und Effizienz",
       "url": "https://www.heise.de/tests/Elektroauto-Audi-Q8-55-e-tron-quattro-im-Test-Plus-bei-Batterie-und-Effizienz-9218498.html",
       "image_title": "Audi Q8 e-tron"
@@ -154,6 +153,12 @@
       "title": "Elektroauto Smart #1 Brabus im Test: Schneller als die meisten Porsche",
       "url": "https://www.heise.de/tests/Elektroauto-Smart-1-Brabus-im-Test-Schneller-als-die-meisten-Porsche-9206464.html",
       "image_title": "Smart #1"
+    },
+    {
+      "title": "Smart City: Sensordaten auswerten mit ThingsBoard",
+      "teaser": "Datensammeln allein macht noch keine Smart City. Erst mit einer Datenplattform werden aus Rohdaten Auswertungen mit Mehrwert. ThingsBoard leistet das.",
+      "url": "https://www.heise.de/ratgeber/Smart-City-Sensordaten-auswerten-mit-ThingsBoard-9229527.html",
+      "image_title": ", Moritz Reichartz"
     },
     {
       "title": "Geld verdienen mit Online-Trading: Auf welche Gebühren Sie achten müssen",
@@ -230,12 +235,6 @@
       "title": "3D-Drucker: AnkerMake M5C im Test",
       "teaser": "Wie schnell und gut der AnkerMake M5C druckt und ob er sich leicht bedienen lässt, zeigt unser Test.",
       "url": "https://www.heise.de/tests/3D-Drucker-Wir-haben-den-neuen-AnkerMake-M5C-getestet-9239449.html"
-    },
-    {
-      "title": "Supply Chain Security: Wie viel Standard steckt in SBOMs?",
-      "teaser": "Wer SBOMs sinnvoll einsetzen will, muss sich mit Standards zur Identifikation von Komponenten und Schwachstellen auseinandersetzen. Wir geben einen Überblick.",
-      "url": "https://www.heise.de/hintergrund/Supply-Chain-Security-Standard-in-SBOMs-9241110.html",
-      "image_title": "x"
     },
     {
       "title": "Recherchieren über die Bundesnetzagentur: Strommarktdaten aus dem SMARD-Portal",
@@ -338,16 +337,17 @@
       "url": "https://www.heise.de/ratgeber/Duschen-mit-Sonnenwaerme-Teil-2-Mobiler-solarer-Warmwassergenerator-im-Eigenbau-9224994.html"
     },
     {
+      "title": "Supply Chain Security: Wie viel Standard steckt in SBOMs?",
+      "url": "https://www.heise.de/hintergrund/Supply-Chain-Security-Standard-in-SBOMs-9241110.html",
+      "image_title": "x"
+    },
+    {
       "title": "Einstieg in MLOps, Teil 2: Mit Kubeflow und Evidently Modellendpunkte erstellen",
       "url": "https://www.heise.de/ratgeber/Einstieg-in-MLOps-Teil-2-Mit-Kubeflow-und-Evidently-Modellendpunkte-erstellen-9240128.html"
     },
     {
       "title": "Marktübersicht zu Tools für Managed Monitoring aus der Cloud",
       "url": "https://www.heise.de/tests/Marktuebersicht-zu-Tools-fuer-Managed-Monitoring-aus-der-Cloud-9238699.html"
-    },
-    {
-      "title": "Einplatinenrechner LattePanda Sigma im Test",
-      "url": "https://www.heise.de/tests/Einplatinenrechner-LattePanda-Sigma-im-Test-9239874.html"
     },
     {
       "title": "Neuling in der Klasse: ChatGPT und Co. kommen in die Schule",
