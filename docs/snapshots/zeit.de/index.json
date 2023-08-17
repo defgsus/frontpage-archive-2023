@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-17T07:09:50",
+  "timestamp": "2023-08-17T08:13:14",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -58,6 +58,12 @@
       "src": "https://static.zeit.de/p/zeit.web/js/site.0808c5a06e95b76f9a8b.js",
       "id": null,
       "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.d61cdf4a.mjs",
+      "id": null,
+      "text": null
     }
   ],
   "articles": [
@@ -75,11 +81,39 @@
       "image_title": "Die Linke: Die Leere als Chance"
     },
     {
+      "title": "Janine Wissler: Linkenchefin ruft Bundestagsfraktion zum Zusammenhalt auf",
+      "teaser": "Nach dem Rückzug der Fraktionschefs geht der Streit bei der Linken weiter. Nun warnt Janine Wissler: Ihre Partei dürfe sich nicht länger mit sich selbst beschäftigen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-08/linke-vorsitzende-janine-wissler-bundestagsfraktion-zusammenhalt",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-08/janine-wissler-bild/wide__822x462",
+      "image_title": "Janine Wissler: Linkenchefin ruft Bundestagsfraktion zum Zusammenhalt auf"
+    },
+    {
       "title": "Arrow 3: USA billigen Verkauf von Raketenabwehrsystem an Deutschland",
       "teaser": "Israel hat die US-Erlaubnis für den Verkauf ihres Raketenabwehrsystems an Deutschland erhalten. Der Deal ist wohl das größte Rüstungsgeschäft der israelischen Geschichte.",
       "url": "https://www.zeit.de/politik/ausland/2023-08/israel-raketenabwehrsystem-arrow-3-deutschland-usa-erlaubnis",
       "image_url": "https://img.zeit.de/politik/ausland/2023-08/israel-raketenabwehrsystem-arrow-3-deutschland-usa-erlaubnis-bild/wide__822x462",
       "image_title": "Arrow 3: USA billigen Verkauf von Raketenabwehrsystem an Deutschland"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); VW Bulli gebraucht kaufen: \"Außen top, innen sauber. Bis ich bemerkt habe: Wow, alles fake\"",
+      "teaser": "Enrico Nagy berät Menschen beim Kauf eines Bullis. Er weiß, weshalb ein T2 nicht alltagstauglich ist, wie teuer ein T3 ist und warum ein T4 kein Benziner sein sollte.",
+      "url": "https://www.zeit.de/arbeit/2023-08/vw-bulli-gebraucht-kaufen-betrug-tipps",
+      "image_url": "https://img.zeit.de/arbeit/2023-08/bulli/cinema__980x420",
+      "image_title": "VW Bulli gebraucht kaufen: \"Außen top, innen sauber. Bis ich bemerkt habe: Wow, alles fake\""
+    },
+    {
+      "title": "\"Der Ostcast\": Der berühmteste Häftling Russlands",
+      "teaser": "Obwohl er Putins größter Gegner ist, polarisiert er im Ausland wie kein anderer russischer Oppositionspolitiker. Wer ist Alexej Nawalny und wofür steht er?",
+      "url": "https://www.zeit.de/politik/2023-08/alexej-nawalny-opposition-russland-podcast",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/alexej-nawalny-opposition-russland/wide__822x462",
+      "image_title": "\"Der Ostcast\": Der berühmteste Häftling Russlands"
+    },
+    {
+      "title": "Ukraine-Karte aktuell: Ukrainische Streitkräfte hissen Flagge in Uroschajne",
+      "teaser": "Das Dorf Uroschajne, das zwischen den Regionen Saporischschja und Donezk liegt, ist von ukrainischen Truppen zurückerobert. Bei Bachmut rücken russische Truppen vor.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
+      "image_title": "Ukraine-Karte aktuell: Ukrainische Streitkräfte hissen Flagge in Uroschajne"
     },
     {
       "title": "Waldbrände: Kanadische Behörden ordnen Evakuierung von Regionalhauptstadt an",
@@ -89,43 +123,27 @@
       "image_title": "Waldbrände: Kanadische Behörden ordnen Evakuierung von Regionalhauptstadt an"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ampel-Regierung: Blockst du mich, dann block ich dich",
-      "teaser": "Die Familienministerin bremst das Wachstumschancengesetz des Finanzministers aus – und die Ampel streitet schon wieder. Was steckt hinter dem Manöver der Grünen?",
-      "url": "https://www.zeit.de/politik/deutschland/2023-08/ampel-regierung-lisa-paus-christian-lindner-wachstumschancengesetz-kindergrundsicherung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-08/ampel-regierung-lisa-paus-christian-lindner-wachstumschancengesetz-kindergrundsicherung-bild/wide__822x462",
-      "image_title": "Ampel-Regierung: Blockst du mich, dann block ich dich"
+      "title": "Statistisches Bundesamt: Zahl der Erwerbstätigen im zweiten Jahresquartal nur gering gestiegen",
+      "teaser": "Die Erwerbstätigenquote in Deutschland ist im vergangenen Quartal nur gering gestiegen. Im Vergleich zum Vorjahr liegt Deutschland sogar unter dem EU-Durchschnitt.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-08/erwerbstaetige-deutschland-arbeit-statistisches-bundesamt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Onlinebewertungen: Vertraue keiner Bewertung, die ChatGPT zusammengefasst hat",
       "teaser": "Das Internet strotzt vor Bewertungen. Viele davon sind fake. Damit sie niemand mehr lesen muss, will sie Amazon mit KI zusammenfassen. Was kann da schon schiefgehen.",
       "url": "https://www.zeit.de/digital/internet/2023-08/online-bewertungen-zusammenfassung-amazon-ki",
-      "image_url": "https://img.zeit.de/digital/internet/2023-08/amazon-fuenf-sterne/cinema__980x420",
+      "image_url": "https://img.zeit.de/digital/internet/2023-08/online-bewertungen-zusammenfassung-amazon-ki-bild/wide__822x462",
       "image_title": "Onlinebewertungen: Vertraue keiner Bewertung, die ChatGPT zusammengefasst hat"
     },
     {
-      "title": "Ukraine-Überblick: Ukraine produziert mehr Drohnen, lehnt Gespräche über Gastransit ab",
-      "teaser": "Präsident Selenskyj bezeichnet Drohnen als \"Augen und Schutz\" an der Front. Der Energieminister der Ukraine hofft, dass Europa ohne russisches Gas auskommt. Die Nacht",
-      "url": "https://www.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-drohnen-produktion-gastransit-russland",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-punisher-drohne-gastransit/wide__822x462",
-      "image_title": "Ukraine-Überblick: Ukraine produziert mehr Drohnen, lehnt Gespräche über Gastransit ab"
+      "title": "Künstliche Intelligenz: Fragen Sie ZEIT ONLINE",
+      "teaser": "Es ist ein Experiment: Unser neues Tool sucht mithilfe von KI im Wissensschatz von ZEIT ONLINE nach Antworten auf Ihre Fragen. Registrieren Sie sich jetzt als Testuser.",
+      "url": "https://www.zeit.de/beta/fragen-sie-zeit-online",
+      "image_url": "https://img.zeit.de/administratives/2023-08/fragen-sie-zon-bild/wide__822x462",
+      "image_title": "Künstliche Intelligenz: Fragen Sie ZEIT ONLINE"
     },
     {
-      "title": "Haiti: Kriminelle Banden kontrollieren laut UN 80 Prozent von Port-au-Prince",
-      "teaser": "Die Vereinten Nationen schätzen, dass es 130.000 Vertriebene in Haitis Hauptstadt gibt. Kriminelle Banden terrorisieren die Bewohner mit Gewalt und Entführungen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-08/bandengewalt-haiti-flucht-vertreibung-gewalt-port-au-prince",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/bandengewalt-haiti-flucht-vertreibung-gewalt-port-au-prince-bild/wide__822x462",
-      "image_title": "Haiti: Kriminelle Banden kontrollieren laut UN 80 Prozent von Port-au-Prince"
-    },
-    {
-      "title": "Debattenkultur in Deutschland: In Deutschland beißt man lieber zu",
-      "teaser": "Eine Mehrheit der Deutschen findet die hiesigen Debatten zu wenig humorvoll. Das Lauernde eines Markus Lanz ist dabei nur das eine Problem.",
-      "url": "https://www.zeit.de/2023/35/debattenkultur-deutschland-humor",
-      "image_url": "https://img.zeit.de/politik/2023-08/debattenkultur-deutschland-humor-teaserbild-2/wide__822x462",
-      "image_title": "Debattenkultur in Deutschland: In Deutschland beißt man lieber zu"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Forever Young\" von Valeria Bruni Tedeschi: Der eigene Abgrund",
-      "teaser": "Warum willst spielen, heißt die erste Frage: In ihrem Spielfilm \"Forever Young\" erzählt die Regisseurin Valeria Bruni Tedeschi von ihren Anfängen als Schauspielschülerin.",
+      "title": "\"Forever Young\" von Valeria Bruni Tedeschi: Der eigene Abgrund",
+      "teaser": "Warum willst du Theater spielen, heißt die erste Frage: In \"Forever Young\" erzählt die Regisseurin Valeria Bruni Tedeschi von ihren Anfängen als Schauspielschülerin.",
       "url": "https://www.zeit.de/2023/35/forever-young-valeria-bruni-tedeschi-film",
       "image_url": "https://img.zeit.de/2023/35/die-erste-frage-ist-warum-willst-du-theater-spielen-bild-1/cinema__980x420",
       "image_title": "\"Forever Young\" von Valeria Bruni Tedeschi: Der eigene Abgrund"
@@ -137,6 +155,13 @@
       "image_url": "https://img.zeit.de/2023-08/packshot-23-35-1000x620.jpg/imagegroup/original__1000x620"
     },
     {
+      "title": "Debattenkultur in Deutschland: In Deutschland beißt man lieber zu",
+      "teaser": "Eine Mehrheit der Deutschen findet die hiesigen Debatten zu wenig humorvoll. Das Lauernde eines Markus Lanz ist dabei nur das eine Problem.",
+      "url": "https://www.zeit.de/2023/35/debattenkultur-deutschland-humor",
+      "image_url": "https://img.zeit.de/politik/2023-08/debattenkultur-deutschland-humor-teaserbild-2/wide__822x462",
+      "image_title": "Debattenkultur in Deutschland: In Deutschland beißt man lieber zu"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Frühstücken • Das Beste aus Z+: Warum man morgens viel essen sollte",
       "teaser": "Frühstück oder kein Frühstück, ist für Viele die Frage. Expertinnen sagen: Auslassen ist ungesund. Warum Kalorien am Morgen wichtig sind, auch wenn man abnehmen will.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2021-09/fruehstuecken-gesundheit-auslassen-viel-essen-expertenmeinung-ernaehrung-kalorien-morgen",
@@ -144,25 +169,11 @@
       "image_title": "Frühstücken • Das Beste aus Z+: Warum man morgens viel essen sollte"
     },
     {
-      "title": "Genderverbot an Schulen: \"Bildungspolitik sollte die Demokratie nicht kaputtmachen\"",
-      "teaser": "Gendern mit Sonderzeichen ist an Schulen in Sachsen-Anhalt verboten worden. Eva Gerth von der GEW sagt, Lehrkräfte und Schüler sollten selbst entscheiden, ob sie gendern.",
-      "url": "https://www.zeit.de/gesellschaft/2023-08/sachsen-anhalt-schule-genderverbot-sonderzeichen",
-      "image_url": "https://img.zeit.de/gesellschaft/schule/2023-08/gendern-sachsen-anhalt-verbot/wide__822x462",
-      "image_title": "Genderverbot an Schulen: \"Bildungspolitik sollte die Demokratie nicht kaputtmachen\""
-    },
-    {
       "title": "Sexueller Missbrauch: Insassinnen in Frauengefängnis verklagen US-Strafvollzugsbehörde",
       "teaser": "Acht Gefängnisinsassinnen werfen einer Haftaufsichtsbehörde vor, nicht genug gegen sexuellen Missbrauch getan zu haben. Die Fälle reichen in die Neunzigerjahre zurück.",
       "url": "https://www.zeit.de/politik/ausland/2023-08/usa-kalifornien-gefaengnis-anklage-missbrauch",
       "image_url": "https://img.zeit.de/gesellschaft/2023-08/usa-kalifornien-gefaengnis-anklage-missbrauch-bild/wide__822x462",
       "image_title": "Sexueller Missbrauch: Insassinnen in Frauengefängnis verklagen US-Strafvollzugsbehörde"
-    },
-    {
-      "title": "Mitarbeiter entlassen: British Museum meldet den Verlust mehrerer Ausstellungsobjekte",
-      "teaser": "Mehrere Gegenstände aus der Sammlung des renommierten British Museum sind verschwunden oder beschädigt. Im Verdacht steht ein Mitarbeiter, der bereits entlassen wurde.",
-      "url": "https://www.zeit.de/kultur/2023-08/british-museum-diebstahl-gegenstaende-sammlung-entlassung",
-      "image_url": "https://img.zeit.de/kultur/2023-08/british-museum-diebstahl-gegenstaende-sammlung-entlassung-bild/wide__822x462",
-      "image_title": "Mitarbeiter entlassen: British Museum meldet den Verlust mehrerer Ausstellungsobjekte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Familientherapie : Bei euch läuft doch alles, oder?",
@@ -306,11 +317,11 @@
       "image_title": "Ludwig Erhard in der NS-Zeit: War Ludwig Erhard ein Helfer der Nazis?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Armut: Er war immer auf der Suche. Er wusste nur nicht, wonach.",
-      "teaser": "Christian möchte einfach nur der Armut entkommen. Chronik eines Lebens zwischen Missbrauch, Drogen, illegalen Kryptomillionen und dem Kampf um den eigenen Sohn",
-      "url": "https://www.zeit.de/zeit-verbrechen/2023/22/armut-entkommen-lebensgeschichte-missbrauch-drogen-psychiatrie",
-      "image_url": "https://img.zeit.de/zeit-verbrechen/2023/22/hoffnung-in-berlin-bild-1/wide__822x462",
-      "image_title": "Armut: Er war immer auf der Suche. Er wusste nur nicht, wonach."
+      "title": "Z+ (abopflichtiger Inhalt); Ampel-Regierung: Blockst du mich, dann block ich dich",
+      "teaser": "Die Familienministerin bremst das Wachstumschancengesetz des Finanzministers aus – und die Ampel streitet schon wieder. Was steckt hinter dem Manöver der Grünen?",
+      "url": "https://www.zeit.de/politik/deutschland/2023-08/ampel-regierung-lisa-paus-christian-lindner-wachstumschancengesetz-kindergrundsicherung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-08/ampel-regierung-lisa-paus-christian-lindner-wachstumschancengesetz-kindergrundsicherung-bild/wide__822x462",
+      "image_title": "Ampel-Regierung: Blockst du mich, dann block ich dich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); ChatGPT: Führ mich zum Schotter, Chatbot!",
@@ -365,7 +376,7 @@
     },
     {
       "title": "Kathrin Vogler: NRW-Linkenchefin spricht sich für Zukunft ohne Sahra Wagenknecht aus",
-      "teaser": "Kathrin Vogler findet, dass die Linke ihre Zukunft ohne die einstige Fraktionschefin Sahra Wagenknecht planen sollte. Es gehe jetzt darum, die Partei zu erhalten.",
+      "teaser": "Kathrin Vogler findet, dass die Linke ihre Zukunft ohne die einstige Fraktionschefin Sahra Wagenknecht planen sollte. Es gehe jetzt darum, die Partei zu erhalten. 149 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-08/linke-nordrhein-westfalen-kathrin-vogler-sahra-wagenknecht",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-08/linke-nordrhein-westfalen-kathrin-vogler-sahra-wagenknecht-bild-2/cinema__980x420",
       "image_title": "Kathrin Vogler: NRW-Linkenchefin spricht sich für Zukunft ohne Sahra Wagenknecht aus"
@@ -378,11 +389,11 @@
       "image_title": "Nachrichtenpodcast: Wenn der Rubel nicht mehr rollt"
     },
     {
-      "title": "Migration: Französische Polizei nimmt vier mutmaßliche Schlepper fest",
-      "teaser": "Nach dem Tod von sechs Menschen bei dem Versuch, den Ärmelkanal zu überqueren, sind vier Männer festgenommen worden. Sie sollen die Überfahrt organisiert haben.",
-      "url": "https://www.zeit.de/politik/ausland/2023-08/bootsunglueck-aermelkanal-migranten-schlepper-festnahme",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/rettungsboot-aermelkanal-grossbritannien/wide__822x462",
-      "image_title": "Migration: Französische Polizei nimmt vier mutmaßliche Schlepper fest"
+      "title": "Ukraine-Überblick: Ukraine produziert mehr Drohnen, lehnt Gespräche über Gastransit ab",
+      "teaser": "Präsident Selenskyj bezeichnet Drohnen als \"Augen und Schutz\" an der Front. Der Energieminister der Ukraine hofft, dass Europa ohne russisches Gas auskommt. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-drohnen-produktion-gastransit-russland",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-08/ukraine-ueberblick-punisher-drohne-gastransit/wide__822x462",
+      "image_title": "Ukraine-Überblick: Ukraine produziert mehr Drohnen, lehnt Gespräche über Gastransit ab"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Geschichte der ZEIT: Erinnerst du dich?",
@@ -421,7 +432,7 @@
     },
     {
       "title": "Verteidigungsausgaben: Regierung streicht Nato-Quote aus dem Haushalt",
-      "teaser": "Eigentlich hatte die Bundesregierung geplant, jährlich zwei Prozent der Wirtschaftsleistung für Verteidigung auszugeben. Das Ziel hat sie laut Medienberichten aufgegeben. 327 Kommentare",
+      "teaser": "Eigentlich hatte die Bundesregierung geplant, jährlich zwei Prozent der Wirtschaftsleistung für Verteidigung auszugeben. Das Ziel hat sie laut Medienberichten aufgegeben. 341 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-08/verteidigungsausgaben-bundeshaushalt-nato-quote",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-08/jaehrliche-nato-quote-gestrichen-haushalt-bild/cinema__980x420",
       "image_title": "Verteidigungsausgaben: Regierung streicht Nato-Quote aus dem Haushalt"
@@ -450,7 +461,9 @@
     {
       "title": "WirtschaftsWocheLockangebote für Sparer: Zinsköder beim Tagesgeld: So viel gibt es bei vermeintlichen Top-Anbietern wirklich",
       "teaser": "Viele Banken haben die Zinsen für Tagesgeld angehoben. Doch die Angebote sind oft zeitlich begrenzt. Wer nichts verschenken will, muss ins Kleingedruckte schauen – manch ein Top-Anbieter entzaubert sich dort selbst.",
-      "url": "https://www.wiwo.de/my/finanzen/geldanlage/lockangebote-fuer-sparer-zinskoeder-beim-tagesgeld-so-viel-gibt-es-bei-vermeintlichen-top-anbietern-wirklich/29333148.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett"
+      "url": "https://www.wiwo.de/my/finanzen/geldanlage/lockangebote-fuer-sparer-zinskoeder-beim-tagesgeld-so-viel-gibt-es-bei-vermeintlichen-top-anbietern-wirklich/29333148.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100-pro-imago-creative-premium-6/29333218/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Lockangebote für Sparer: Zinsköder beim Tagesgeld: So viel gibt es bei vermeintlichen Top-Anbietern wirklich"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schönheitsideale: \"Schwarze Frauen sind bei erhöhtem BMI oft gesünder als weiße Frauen\"",
@@ -474,11 +487,11 @@
       "image_title": "Grenzüberschreitungen beim Sex : Er wollte nicht, sie machte weiter"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Rückgabe der Benin-Bronzen: Wenn gute Absichten in die Mühlen der Politik geraten",
-      "teaser": "Die Rückgabe der Benin-Bronzen verlief holprig. Der Fall gilt als abgeschlossen, ist es aber nicht. Welche Lehren sollte man für die Restitution von Raubkunst ziehen?",
-      "url": "https://www.zeit.de/2023/35/rueckgabe-benin-bronzen-kolonialismus-politik",
-      "image_url": "https://img.zeit.de/2023/35/rueckgabe-benin-bronzen-kolonialismus-politik-teaserbild/cinema__980x420",
-      "image_title": "Rückgabe der Benin-Bronzen: Wenn gute Absichten in die Mühlen der Politik geraten"
+      "title": "Mitarbeiter entlassen: British Museum meldet den Verlust mehrerer Ausstellungsobjekte",
+      "teaser": "Mehrere Gegenstände aus der Sammlung des renommierten British Museum sind verschwunden oder beschädigt. Im Verdacht steht ein Mitarbeiter, der bereits entlassen wurde.",
+      "url": "https://www.zeit.de/kultur/2023-08/british-museum-diebstahl-gegenstaende-sammlung-entlassung",
+      "image_url": "https://img.zeit.de/kultur/2023-08/british-museum-diebstahl-gegenstaende-sammlung-entlassung-bild/cinema__980x420",
+      "image_title": "Mitarbeiter entlassen: British Museum meldet den Verlust mehrerer Ausstellungsobjekte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Das Pferd im Brunnen\" von Valery Tscheplanowa: Rotzfrech noch beim Sterben",
@@ -502,25 +515,25 @@
       "image_title": "Rhiannon Giddens: Kleine Kulturgeschichte des Banjos"
     },
     {
-      "title": "Getreideabkommen: Ukrainische Landwirte leiden unter Tiefstpreisen",
-      "teaser": "Moskaus Aufkündigung des Getreideabkommens setzt den ukrainischen Bauern zu. Landwirt Mykola überlebte Raketenangriffe, leidet aber unter den wirtschaftlichen Folgen.",
-      "url": "https://www.zeit.de/video/2023-08/6333788607112/getreideabkommen-ukrainische-landwirte-leiden-unter-tiefstpreisen",
-      "image_url": "https://img.zeit.de/video/2023-08/6333788607112-still/cinema__980x420",
-      "image_title": "Getreideabkommen: Ukrainische Landwirte leiden unter Tiefstpreisen"
-    },
-    {
       "title": "Ampel-Koalition: Kein Kabinettsbeschluss zum Wachstumschancengesetz",
       "teaser": "Eigentlich wollte das Kabinett Steuerpläne von Bundesfinanzminister Christian Lindner auf den Weg bringen. Bundesfamilienministerin Lisa Paus legte jedoch ein Veto ein.",
       "url": "https://www.zeit.de/video/2023-08/6333856221112/ampel-koalition-kein-kabinettsbeschluss-zum-wachstumschancengesetz",
-      "image_url": "https://img.zeit.de/video/2023-08/6333856221112-still/wide__822x462",
+      "image_url": "https://img.zeit.de/video/2023-08/6333856221112-still/cinema__980x420",
       "image_title": "Ampel-Koalition: Kein Kabinettsbeschluss zum Wachstumschancengesetz"
     },
     {
-      "title": "Cannabis: Bund Deutscher Kriminalbeamter kritisiert Teillegalisierung",
-      "teaser": "Dirk Peglow, Vorsitzender des BDK, hält den Gesetzentwurf zur Cannabislegalisierung für ein \"Bürokratiemonster\". Die Umsetzung sei in der Praxis kaum zu kontrollieren.",
-      "url": "https://www.zeit.de/video/2023-08/6333832210112/cannabis-bund-deutscher-kriminalbeamter-kritisiert-teillegalisierung",
-      "image_url": "https://img.zeit.de/video/2023-08/6333832210112-still/wide__822x462",
-      "image_title": "Cannabis: Bund Deutscher Kriminalbeamter kritisiert Teillegalisierung"
+      "title": "Die Linke: Fraktionschef Dietmar Bartsch tritt zurück",
+      "teaser": "\"Diese Entscheidung stand für mich sehr, sehr lange fest\", sagt Bartsch. Er habe seinen Rücktritt aufgrund der Situation innerhalb der Partei aufgeschoben.",
+      "url": "https://www.zeit.de/video/2023-08/6333803201112/die-linke-fraktionschef-dietmar-bartsch-tritt-zurueck",
+      "image_url": "https://img.zeit.de/video/2023-08/6333803201112-still/wide__822x462",
+      "image_title": "Die Linke: Fraktionschef Dietmar Bartsch tritt zurück"
+    },
+    {
+      "title": "Cannabis: Bundeskabinett verabschiedet Teillegalisierung",
+      "teaser": "25 Gramm Cannabis sollen Erwachsene in Zukunft straffrei besitzen dürfen. Laut dem Gesetzentwurf dürften Privatpersonen zudem drei Cannabispflanzen selbst anbauen.",
+      "url": "https://www.zeit.de/video/2023-08/6333810710112/cannabis-bundeskabinett-verabschiedet-teillegalisierung",
+      "image_url": "https://img.zeit.de/video/2023-08/6333810710112-still/wide__822x462",
+      "image_title": "Cannabis: Bundeskabinett verabschiedet Teillegalisierung"
     },
     {
       "title": "Artenschutz: Mexiko richtet 13 neue Naturschutzgebiete ein",
@@ -632,7 +645,7 @@
       "title": "Z+ (abopflichtiger Inhalt); Sektkapsel: Das Ende des Aluhuts",
       "teaser": "Dank einer EU-Regelung dürfen Schaumweine künftig ohne Alukapsel daherkommen. Gut für die Umwelt und den Gewinn der Winzer. Warum sind einige Sektgrößen unzufrieden?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-08/sektkapsel-eu-regelung-winzer-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-08/sektkapsel-eu-regelung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-08/sektkapsel-eu-regelung-bild2/cinema__980x420",
       "image_title": "Sektkapsel: Das Ende des Aluhuts"
     },
     {
@@ -657,11 +670,11 @@
       "image_title": "Geraldine Rauch: \"Natürlich gibt es Übergriffe an der TU Berlin\""
     },
     {
-      "title": "Verlagsangebot Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Berufswahl: Wichtig ist die Work-Langeweile-Balance",
@@ -720,18 +733,18 @@
       "image_title": "Schulkinder: Bundeselternrat fordert nach Kritik an Elterntaxis besseren ÖPNV"
     },
     {
-      "title": "Z+ (registrierungspflichtiger Inhalt); Ronald Schill: Ein gnadenloser Verführer",
+      "title": "Ronald Barnabas Schill : Vor 20 Jahren endete die Ära Schill: Ein gnadenloser Verführer",
+      "teaser": "ZEIT-Autor Christoph Twickel blickt zurück. Außerdem: Innensenator kritisiert geplante Cannabis-Freigabe, Spontanbesuch der Elbphilharmonie Plaza bleibt kostenlos",
+      "url": "https://www.zeit.de/hamburg/2023-08/elbvertiefung-17-08-2023",
+      "image_url": "https://img.zeit.de/hamburg/2023-08/beust-schill/wide__822x462",
+      "image_title": "Ronald Barnabas Schill : Vor 20 Jahren endete die Ära Schill: Ein gnadenloser Verführer"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ronald Schill: Ein gnadenloser Verführer",
       "teaser": "Ronald Barnabas Schill war der Rechtspopulist, dem Hamburg zu Füßen lag. Vor 20 Jahren endete seine politische Karriere mit einer irren Pressekonferenz.",
       "url": "https://www.zeit.de/2023/32/ronald-schill-karriere-hamburg-entlassung",
       "image_url": "https://img.zeit.de/2023/32/ein-gnadenloser-verfuehrer-bild-1/wide__822x462",
       "image_title": "Ronald Schill: Ein gnadenloser Verführer"
-    },
-    {
-      "title": "Z+ (registrierungspflichtiger Inhalt); Grünflächen in Hamburg: Es wird wild",
-      "teaser": "Hamburgs Grünflächen sollen ökologischer werden. Oder, aus Sicht der städtischen Gärtner: unordentlicher. Für einige ist das schwer gewöhnungsbedürftig.",
-      "url": "https://www.zeit.de/2023/32/hamburg-gruenflaechen-stadtplanung-oekologie",
-      "image_url": "https://img.zeit.de/hamburg/2023-07/hamburg-gruenflaechen-stadtplanung-oekologie-schlump/wide__822x462",
-      "image_title": "Grünflächen in Hamburg: Es wird wild"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Australien gegen England: Eine Sam Kerr war nicht genug",
@@ -750,7 +763,9 @@
     {
       "title": "Z+ (abopflichtiger Inhalt); Pöbelnde Fußballer: Könnt ihr euch mal benehmen?",
       "teaser": "Wenn der Schiedsrichter einen Fehler macht, muss man ihn anschreien – oder? Wir haben eine Fußballmannschaft gebeten, es ein halbes Jahr lang ohne Meckern zu probieren.",
-      "url": "https://www.zeit.de/2023/35/schiedsrichter-entscheidungen-fussball-sv-empor-berlin-fair-play"
+      "url": "https://www.zeit.de/2023/35/schiedsrichter-entscheidungen-fussball-sv-empor-berlin-fair-play",
+      "image_url": "https://img.zeit.de/2023/35/schiedsrichter-entscheidungen-fussball-sv-empor-berlin-fair-play-teaserbild/wide__822x462",
+      "image_title": "Pöbelnde Fußballer: Könnt ihr euch mal benehmen?"
     },
     {
       "title": "Was jetzt?: Das Wichtigste in Kürze",
@@ -802,36 +817,36 @@
       "image_title": "Kleines Kreuzworträtsel: Eckchen"
     },
     {
-      "title": "Bürgermeister: Steffen Scheller sagt nach Unwetter schnelle Hilfe zu",
-      "url": "https://www.zeit.de/news/2023-08/17/steffen-scheller-sagt-nach-unwetter-schnelle-hilfe-zu"
+      "title": "Fußball: Wo die Bundesliga im TV übertragen wird",
+      "url": "https://www.zeit.de/news/2023-08/17/wo-die-bundesliga-im-tv-uebertragen-wird"
     },
     {
-      "title": "Berlin-Köpenick: Frau in Köpenick tot aufgefunden: Mutmaßliches Tötungsdelikt",
-      "url": "https://www.zeit.de/news/2023-08/17/frau-in-koepenick-tot-aufgefunden-mutmassliches-toetungsdelikt"
+      "title": "Bundesliga: Wechsel von VfB-Kapitän Endo nach Liverpool rückt näher",
+      "url": "https://www.zeit.de/news/2023-08/17/wechsel-von-vfb-kapitaen-endo-nach-liverpool-rueckt-naeher"
     },
     {
-      "title": "Fußball: Berichte: Liverpool mit Interesse an Gravenberch",
-      "url": "https://www.zeit.de/news/2023-08/17/berichte-liverpool-mit-interesse-an-gravenberch"
+      "title": "Wesel: Sohn soll Mutter bewusstlos geschlagen haben",
+      "url": "https://www.zeit.de/news/2023-08/17/sohn-soll-mutter-bewusstlos-geschlagen-haben"
     },
     {
-      "title": "Natur: Vor 23 Jahren in Madagaskar entdeckter Gecko ist neue Art",
-      "url": "https://www.zeit.de/news/2023-08/17/vor-23-jahren-in-madagaskar-entdeckter-gecko-ist-neue-art"
+      "title": "Parteien: Linken-Chefin Wissler ruft Fraktion zum Zusammenhalt auf",
+      "url": "https://www.zeit.de/news/2023-08/17/linken-chefin-wissler-ruft-fraktion-zum-zusammenhalt-auf"
     },
     {
-      "title": "Köln: 16-Jähriger nach Streit lebensgefährlich verletzt",
-      "url": "https://www.zeit.de/news/2023-08/17/16-jaehriger-nach-streit-lebensgefaehrlich-verletzt"
+      "title": "Musik: Streichertalente erhalten Preis der Jeunesses Musicales",
+      "url": "https://www.zeit.de/news/2023-08/17/streichertalente-erhalten-preis-der-jeunesses-musicales"
     },
     {
-      "title": "Wetter: Erneut lokale schwere Gewitter in Hessen möglich",
-      "url": "https://www.zeit.de/news/2023-08/17/erneut-lokale-schwere-gewitter-in-hessen-moeglich"
+      "title": "Literatur: Schriftstellerin Ronja von Rönne will Schauspielerin werden",
+      "url": "https://www.zeit.de/news/2023-08/17/schriftstellerin-ronja-von-roenne-will-schauspielerin-werden"
     },
     {
-      "title": "Museum: Baselitz-Raum in Dresden wieder mit Werken des Künstlers",
-      "url": "https://www.zeit.de/news/2023-08/17/baselitz-raum-in-dresden-wieder-mit-werken-des-kuenstlers"
+      "title": "Bremen: Zollbeamte schnappen mutmaßlichen Drogenkurier",
+      "url": "https://www.zeit.de/news/2023-08/17/zollbeamte-schnappen-mutmasslichen-drogenkurier"
     },
     {
-      "title": "Fußball: Burdenski: Füllkrug-Treffer gegen Bayern wäre Mosaikstein",
-      "url": "https://www.zeit.de/news/2023-08/17/burdenski-fuellkrug-treffer-gegen-bayern-waere-mosaikstein"
+      "title": "Erdölfreie Funktionskleidung: Fleecejacke aus Holz",
+      "url": "https://www.zeit.de/news/2023-08/17/fleecejacke-aus-holz"
     }
   ]
 }
