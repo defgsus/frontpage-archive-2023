@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-18T10:11:21",
+  "timestamp": "2023-08-18T11:08:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IBM Security Guardium",
+      "url": "https://www.heise.de/news/Sicherheitsloesung-IBM-Security-Guardium-als-Einfallstor-fuer-Angreifer-9263452.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecken-bedrohen-Cisco-Produkte-9259510.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Luecken-in-Kennzeichenerkennungssoftware-gefaehrden-Axis-Ueberwachungskamera-9245978.html"
     },
     {
-      "title": "CyberPower- und Dataprobe-Software",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Hintertueren-in-Datenzentren-platzieren-9245788.html"
+      "title": "Kommentar: Microsoft provoziert den Cloud-GAU – und reagiert dann katastrophal​",
+      "teaser": "Microsoft lässt sich einen Signing Key für Azure klauen. Bis jetzt ist die Tragweite des Angriffs unklar. Das ist unverantwortlich, kommentiert Oliver Diedrich.",
+      "url": "https://www.heise.de/meinung/Kommentar-Microsoft-provoziert-den-Cloud-GAU-und-reagiert-dann-katastrophal-9258697.html"
+    },
+    {
+      "title": "Sicherheitslösung: IBM Security Guardium als Einfallstor für Angreifer",
+      "teaser": "Eine kritische Lücke bedroht Systeme mit IBM Security Guardium. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsloesung-IBM-Security-Guardium-als-Einfallstor-fuer-Angreifer-9263452.html"
     },
     {
       "title": "Sicherheitsupdates: Root-Lücken bedrohen Cisco-Produkte",
@@ -145,18 +155,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-Fruehbucherrabatt-9238851.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Schwerwiegende Sicherheitslücken bedrohen hierzulande kritische Infrastrukturen",
-      "teaser": "Aufgrund von mehreren Schwachstellen in einem SDK, das im Industriebereich zum Einsatz kommt, sind Attacken auf kritische Infrastrukturen möglich.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-kritische-Infrastrukturen-lahmlegen-9243092.html",
-      "image_title": "Mast einer Überlandstromleitung mit stilisiertem Hintergrund und den sichtbaren Worten \"Cyber Attack\"."
-    },
-    {
-      "title": "Chef der Cyberagentur: Wir müssen neu über Sicherheit nachdenken",
-      "teaser": "Cybersicherheit hierzulande findet der Chef der Halleschen Bundesagentur für Innovation in der Cybersicherheit ausbaufähig. Hackbacks sieht er kritisch.",
-      "url": "https://www.heise.de/news/Chef-der-Cyberagentur-Wir-muessen-neu-ueber-Sicherheit-nachdenken-9243028.html",
-      "image_title": "Shot,Of,Data,Center,With,Multiple,Rows,Of,Fully,Operational"
     },
     {
       "title": "heise Security Tour 2023",
