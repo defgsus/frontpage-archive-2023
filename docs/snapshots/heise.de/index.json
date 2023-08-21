@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-21T02:15:03",
+  "timestamp": "2023-08-21T03:11:08",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -149,19 +149,24 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-zu-25-Jahren-iMac-9256417.html"
     },
     {
+      "title": "Brasilien: Hacker sollte für Bolsonaro elektronische Wahlmaschine manipulieren",
+      "teaser": "Ein brasilianischer Hacker behauptet, er wurde angeheuert, um die elektronischen Wahlurnen bei den Wahlen 2022 zu manipulieren. Bolsonaro widerspricht.",
+      "url": "https://www.heise.de/news/Brasilien-Hacker-sollte-fuer-Bolsonaro-elektronische-Wahlmaschine-manipulieren-9268511.html"
+    },
+    {
       "title": "Android Auto, Apple Carplay & DAB+ nachrüsten: Displays, Moniceiver & Receiver",
       "teaser": "Wer an seinem alten Auto hängt, muss nicht auf Bluetooth, DAB+ oder Android Auto verzichten. Der Ratgeber zeigt Moniceiver, Adapter und Displays zum Nachrüsten.",
       "url": "https://www.techstage.de/ratgeber/android-auto-apple-carplay-und-dab-nachruesten-displays-moniceiver-und-receiver/wf62yz0?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Mobile Sicherheit – warum Unternehmen jetzt handeln müssen",
+      "teaser": "In vielen Unternehmen sind Smartphones längst zum unverzichtbaren Arbeitsmittel geworden. Ihr Einsatz erhöht aber das Risiko, Opfer einer Cyberattacke zu werden. IT-Sicherheitsverantwortliche sollten deshalb Maßnahmen ergreifen, um die mobile IT-Infrastruktur vor Gefahren zu schützen.",
+      "url": "https://www.heise.de/solutions/samsung/mobile-sicherheit-warum-unternehmen-jetzt-handeln-muessen/?source=nat_teas"
+    },
+    {
       "title": "Stadt Nürnberg hielt Warnung vor Unwetter per Cell Broadcast für nicht notwendig",
       "teaser": "Vor den extremen Unwettern in Nürnberg warnten die Behörden digital nur per App, nicht per Cell Broadcast. Man fürchtete unter anderem zu viele Notrufe.",
       "url": "https://www.heise.de/news/Stadt-Nuernberg-hielt-Warnung-vor-Unwetter-per-Cell-Broadcast-fuer-nicht-notwendig-9268460.html"
-    },
-    {
-      "title": "Was Unternehmen bei Rugged-Smartphones und Tablets beachten sollten",
-      "teaser": "Robuste Mobilgeräte sind überall dort im Einsatz, wo raue Arbeits- und Umweltbedingungen herrschen. Bei der Beschaffung sollte man aber nicht nur auf Widerstandsfähigkeit und Robustheit achten, sondern auch Aspekte wie Bedienbarkeit und Sicherheit berücksichtigen.",
-      "url": "https://www.heise.de/solutions/samsung/robuste-mobilgeraete-was-unternehmen-bei-der-auswahl-von-rugged-smartphones-und-tablets-beachten-sollten/?source=nat_teas"
     },
     {
       "title": "Vodafone erreicht 90-Prozent-Marke bei Abdeckung mit Funkstandard 5G",
@@ -189,12 +194,6 @@
       "url": "https://www.heise.de/news/Datenschutzbeauftragter-KI-beim-Datensammeln-mit-Regeln-bremsen-9268248.html"
     },
     {
-      "title": "Waldbrände: Kanada fordert Meta auf, Nachrichtensperre aufzuheben",
-      "teaser": "Die kanadische Regierung verlangt, dass Facebook und Instagram Nachrichten über die Waldbrände anzeigen. Die News fehlen wegen eines neuen Gesetzes.",
-      "url": "https://www.heise.de/news/Waldbraende-Kanada-fordert-Meta-auf-Nachrichtensperre-aufzuheben-9268278.html",
-      "image_title": "Smartphone mit den Apps von Facebook, Facebook-Messenger, Instragm, WhatsApp und Oculus vor dem Meta-Logo"
-    },
-    {
       "title": "Wie man auch mit JavaScript objektorientiert programmieren kann",
       "teaser": "Objektorientierte Programmierung (OOP) fördert die Strukturierung von Code durch Objekte und Klassen. Auch JavaScript unterstützt die OOP-Prinzipien.",
       "url": "https://www.heise.de/ratgeber/Wie-man-auch-mit-JavaScript-objektorientiert-programmieren-kann-9237425.html"
@@ -213,6 +212,12 @@
       "title": "heise+ Aktionsangebot",
       "teaser": "Ein halbes Jahr zum halben Preis: heise+ 6 Monate mit 50% Rabatt testen und geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur für kurze Zeit!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Waldbrände: Kanada fordert Meta auf, Nachrichtensperre aufzuheben",
+      "teaser": "Die kanadische Regierung verlangt, dass Facebook und Instagram Nachrichten über die Waldbrände anzeigen. Die News fehlen wegen eines neuen Gesetzes.",
+      "url": "https://www.heise.de/news/Waldbraende-Kanada-fordert-Meta-auf-Nachrichtensperre-aufzuheben-9268278.html",
+      "image_title": "Smartphone mit den Apps von Facebook, Facebook-Messenger, Instragm, WhatsApp und Oculus vor dem Meta-Logo"
     },
     {
       "title": "Selbst-Hacking: Interne Netzwerke selbst auditieren",
@@ -278,14 +283,14 @@
       "url": "https://www.heise.de/news/Autonomes-Fahren-Cruise-muss-Flotte-nach-Unfall-in-San-Francisco-halbieren-9268089.html"
     },
     {
-      "title": "Devuan 5.0 mit rootless startx und Wayland ohne elogind",
-      "teaser": "Devuan 5 ist ein von systemd befreites Debian, das beim Init-System freie Wahl lässt. Es basiert auf dem zuvor veröffentlichten Debian 12 \"Bookworm\".",
-      "url": "https://www.heise.de/news/Devuan-5-0-mit-rootless-startx-und-Wayland-ohne-elogind-9268057.html"
-    },
-    {
       "title": "Der grüne Supercomputer: Wie nachhaltiges High-Performance Computing gelingt",
       "teaser": "Nachhaltigkeit und Energieeffizienz spielen auch im Supercomputing-Bereich eine immer größere Rolle. Am Beispiel des Projekts LUMI zeigt sich, wie sich der CO2-Fußabdruck eines Supercomputers minimieren lässt, ohne Kompromisse bei der Leistung machen zu müssen.",
       "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/nachhaltigkeit/beitrag/der-gruene-supercomputer-wie-nachhaltiges-high-performance-computing-gelingt-4558/?source=hbsadersatz"
+    },
+    {
+      "title": "Devuan 5.0 mit rootless startx und Wayland ohne elogind",
+      "teaser": "Devuan 5 ist ein von systemd befreites Debian, das beim Init-System freie Wahl lässt. Es basiert auf dem zuvor veröffentlichten Debian 12 \"Bookworm\".",
+      "url": "https://www.heise.de/news/Devuan-5-0-mit-rootless-startx-und-Wayland-ohne-elogind-9268057.html"
     },
     {
       "title": "Besuch in einer Grafikkartenfabrik in Taiwan",
@@ -334,11 +339,6 @@
       "teaser": "Nächster Streich beim Umbau des früheren Kurznachrichtendienstes Twitter. Elon Musk kündigte an, das Blockieren abzuschaffen. Hater und Trolle dürfte es freuen.",
       "url": "https://www.heise.de/news/X-Twitter-Musk-will-Blockier-Funktion-abschaffen-9267926.html",
       "image_title": "Die Blockier-Funktion in X"
-    },
-    {
-      "title": "Top 6: Die besten Balkonkraftwerke ab 219 € – Fachhandel besser als Discounter",
-      "teaser": "Balkonkraftwerke sind günstig, einfach zu installieren und reduzieren die Stromkosten. Wir zeigen, welche Mini-PV-Anlagen in den Tests am besten abschneiden.",
-      "url": "https://www.techstage.de/bestenliste/top-6-die-besten-balkonkraftwerke-ab-219-euro-fachhandel-besser-als-discounter/ywhkvwx?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Einstein vor Ablösung? Hinweis auf Zusammenbruch der Relativitätstheorie",
@@ -727,14 +727,14 @@
       "url": "https://www.heise.de/tp/features/Russland-Kreml-sucht-Kanonenfutter-9209013.html"
     },
     {
-      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
-      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
-      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
-      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
-      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
-      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
+      "title": "Warum gibt es keine deutschen Unternehmen, die nur E-Autos herstellen?",
+      "teaser": "Die Elektroauto-Verkäufe gehen weltweit steil nach oben. Auch in Deutschland. Aber Tesla und chinesische Hersteller hängen VW und Co. ab. Warum das so ist und wir aufs Elektropedal treten müssen.",
+      "url": "https://www.heise.de/tp/features/Warum-gibt-es-keine-deutschen-Unternehmen-die-nur-E-Autos-herstellen-9207186.html"
     },
     {
       "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
