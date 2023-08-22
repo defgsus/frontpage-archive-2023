@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-22T07:10:18",
+  "timestamp": "2023-08-22T08:14:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Adobe ColdFusion",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-schieben-Schadcode-durch-Luecke-in-Adobe-ColdFusion-9278446.html"
+    },
+    {
       "title": "Ivanti Sentry",
       "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Ivanti-Sentry-geschlossen-9278280.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Update-bereits-ausgespielt-Kritische-Luecke-in-WinRAR-erlaubte-Code-Ausfuehrung-9268105.html"
     },
     {
-      "title": "IBM Security Guardium",
-      "url": "https://www.heise.de/news/Sicherheitsloesung-IBM-Security-Guardium-als-Einfallstor-fuer-Angreifer-9263452.html"
+      "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+      "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen. Last Call",
+      "url": "https://www.heise.de/news/iX-Workshop-Cybersicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-9214610.html",
+      "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
+    },
+    {
+      "title": "Jetzt patchen! Angreifer schieben Schadcode durch Lücke in Adobe ColdFusion",
+      "teaser": "Angreifer attackieren Adobes Middleware ColdFusion. Sicherheitsupdates sind verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-schieben-Schadcode-durch-Luecke-in-Adobe-ColdFusion-9278446.html"
     },
     {
       "title": "iX-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
@@ -141,18 +152,6 @@
       "title": "Jetzt patchen! Citrix ShareFile im Visier von Angreifern",
       "teaser": "Unbekannte Angreifer nutzen eine kritische Sicherheitslücke in Citrix ShareFile StorageZones Controller aus. Updates sind verfügbar.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Citrix-ShareFile-9247830.html"
-    },
-    {
-      "title": "iX-Workshop: Zu einer sicheren Unternehmens-IT mit Zero Trust (Last Call)",
-      "teaser": "Lernen Sie in diesem Online-Tagesworkshop, wie Sie mit dem Sicherheitsmodell Zero Trust Ihre Unternehmens-IT effektiv schützen. - 10 % Rabatt bis 23.08.",
-      "url": "https://www.heise.de/news/iX-Workshop-Zu-einer-sicheren-Unternehmens-IT-mit-Zero-Trust-Last-Call-9218909.html",
-      "image_title": "iX-Workshop: Sichere Unternehmens-IT mit Zero Trust"
-    },
-    {
-      "title": "Medienberichte: Angriffswelle auf LinkedIn-Konten",
-      "teaser": "Derzeit häufen sich offenbar Angriffe auf LinkedIn-Konten. Wer die Zwei-Faktor-Authentifizierung noch nicht aktiviert hat, sollte dies jetzt tun.",
-      "url": "https://www.heise.de/news/Medienberichte-Angriffswelle-auf-LinkedIn-Konten-9247666.html",
-      "image_title": "Online-Netzwerk LinkedIn"
     },
     {
       "title": "heise Security Tour 2023",
