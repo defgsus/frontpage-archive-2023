@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-22T05:10:08",
+  "timestamp": "2023-08-22T06:13:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Sentry",
+      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Ivanti-Sentry-geschlossen-9278280.html"
+    },
+    {
       "title": "Junos OS",
       "url": "https://www.heise.de/news/Angreifer-koennen-Sicherheitsluecken-in-Junos-OS-zu-kritischer-Gefahr-eskalieren-9273706.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsloesung-IBM-Security-Guardium-als-Einfallstor-fuer-Angreifer-9263452.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecken-bedrohen-Cisco-Produkte-9259510.html"
+      "title": "iX-Workshop: Linux-Server härten (mit Frühbucherrabatt)",
+      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
+      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Fruehbucherrabatt-9245541.html",
+      "image_title": "iX-Workshop: Linux-Server härten"
+    },
+    {
+      "title": "Kritische Zero-Day-Lücke in Ivanti Sentry geschlossen",
+      "teaser": "Ivanti schließt in Sentry, vormals MobileIron Sentry, eine kritische Sicherheitslücke. Sie wird bereits angegriffen.",
+      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Ivanti-Sentry-geschlossen-9278280.html"
     },
     {
       "title": "MOVEit-Lücke: Gesundheitsdaten von Millionen Menschen in den USA geleakt",
@@ -142,17 +153,6 @@
       "teaser": "Derzeit häufen sich offenbar Angriffe auf LinkedIn-Konten. Wer die Zwei-Faktor-Authentifizierung noch nicht aktiviert hat, sollte dies jetzt tun.",
       "url": "https://www.heise.de/news/Medienberichte-Angriffswelle-auf-LinkedIn-Konten-9247666.html",
       "image_title": "Online-Netzwerk LinkedIn"
-    },
-    {
-      "title": "IP-Telefonie: Schwachstellen in der Provisionierung von Zoom und Audiocodes​",
-      "teaser": "Über eine Lücke im Zoom-Admin-Panel konnte man IP-Telefonen von Audiocodec manipulierte Firmware-Download-URLs zuweisen.​ Die Hersteller haben reagiert.",
-      "url": "https://www.heise.de/news/IP-Telefonie-Schwachstellen-in-der-Provisionierung-von-Zoom-und-Audiocodes-9247685.html"
-    },
-    {
-      "title": "Phishing-Attacken im Namen von Sparkassen und Banken",
-      "teaser": "Phishing-Versuche zielen mit einer neuen Masche auf die Sparkasse ab. Angeblich sei eine Aktivierung des S-ID-Checks erforderlich.",
-      "url": "https://www.heise.de/news/S-ID-Check-Sparkasse-warnt-vor-Phishing-Attacke-9246002.html",
-      "image_title": "N26Bank"
     },
     {
       "title": "heise Security Tour 2023",
