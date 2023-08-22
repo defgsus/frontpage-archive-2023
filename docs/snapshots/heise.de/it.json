@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-22T06:13:40",
+  "timestamp": "2023-08-22T07:10:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,21 @@
   ],
   "articles": [
     {
+      "title": "LKA warnt vor Betrugsmasche mit Bezug auf Steuer-Bescheid und -Betrug",
+      "teaser": "E-Mails mit Bezug auf Steuerbescheid, -betrug oder Einkommenssteuer, vorgeblich etwa von \"Steuerbehörden\", machen die Runde, warnt das LKA Niedersachsen.",
+      "url": "https://www.heise.de/news/LKA-warnt-vor-Betrugsmasche-mit-Bezug-auf-Steuer-Bescheid-und-Betrug-9269903.html"
+    },
+    {
+      "title": "Indien: Lizenzpflicht für Elektronikimporte schreckt Apple und Co. auf",
+      "teaser": "Premierminister Modi will mehr High-Tech lokal produzieren. Das hat Auswirkungen auf große Hersteller wie Apple, die selbst in Indien investieren.",
+      "url": "https://www.heise.de/news/Indien-Lizenzpflicht-fuer-Elektronikimporte-schreckt-Apple-und-Co-auf-9268515.html",
+      "image_title": "Indische Flagge"
+    },
+    {
       "title": "X: Tweetdeck ab jetzt kostenpflichtig",
       "teaser": "Bei X müssen Nutzer für das Tweetdeck jetzt zahlen. Das ehemalige Twitter wird weiter kommerzialisiert.",
       "url": "https://www.heise.de/news/X-Tweetdeck-kostenpflichtig-9267776.html",
       "image_title": "X-Logo auf dem Twitter-Profil Elon Musks"
-    },
-    {
-      "title": "BKA-Bericht für 2022: IT-Attacken kosten deutsche Firmen 203 Milliarden Euro",
-      "teaser": "Das Bundeskriminalamt hat sein Bundeslagebild Cybercrime für 2022 veröffentlicht und zeigt unter anderem den Haupteintrittsvektor für Schadcode auf.",
-      "url": "https://www.heise.de/news/BKA-Bericht-fuer-2022-IT-Attacken-kosten-deutsche-Firmen-203-Milliarden-Euro-9249673.html"
-    },
-    {
-      "title": "USB-SSDs von Sandisk: Ausfälle häufen sich",
-      "teaser": "Bei einigen externen SSDs von WD und Sandisk droht Datenverlust: Die Speichermedien haben Probleme mit ihren Dateisystemen.",
-      "url": "https://www.heise.de/news/Externe-Sandisk-SSDs-fallen-am-laufenden-Band-aus-9247983.html"
     },
     {
       "title": "Raspi-Projekt: Stau- und Wettervorhersage als KI-Bild anzeigen lassen",
@@ -59,7 +60,7 @@
       "image_title": "iX-Workshop: Linux-Server härten"
     },
     {
-      "title": "Kritische Zero-Day-Lücke in Ivanti Sentry geschlossen",
+      "title": "Kritische Sicherheitslücke in Ivanti Sentry wird bereits missbraucht",
       "teaser": "Ivanti schließt in Sentry, vormals MobileIron Sentry, eine kritische Sicherheitslücke. Sie wird bereits angegriffen.",
       "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Ivanti-Sentry-geschlossen-9278280.html"
     },
@@ -108,11 +109,6 @@
       "url": "https://www.heise.de/news/Android-Apps-in-Windows-WSA-ruestet-Vulkan-API-Support-fuer-Apps-nach-9272466.html"
     },
     {
-      "title": "LKA warnt vor Betrugsmasche mit Bezug auf Steuer-Bescheid und -Betrug",
-      "teaser": "E-Mails mit Bezug auf Steuerbescheid, -betrug oder Einkommenssteuer, vorgeblich etwa von \"Steuerbehörden\", machen die Runde, warnt das LKA Niedersachsen.",
-      "url": "https://www.heise.de/news/LKA-warnt-vor-Betrugsmasche-mit-Bezug-auf-Steuer-Bescheid-und-Betrug-9269903.html"
-    },
-    {
       "title": "Microservices und Web-API: Webinare über moderne und sichere Softwarearchitektur",
       "teaser": "Mehr Effizienz und Sicherheit durch Microservices und Web-APIs. Lernen Sie in fünf Webinaren vom 14.09. bis 12.10. moderne Architekturen zu beherrschen.",
       "url": "https://www.heise.de/news/Microservices-und-Web-API-Webinare-ueber-moderne-und-sichere-Softwarearchitektur-9222416.html"
@@ -123,15 +119,19 @@
       "url": "https://www.heise.de/news/Huawei-Prozessoren-kehren-angeblich-mit-7-nm-Technik-zurueck-9271260.html"
     },
     {
-      "title": "Indien: Lizenzpflicht für Elektronikimporte schreckt Apple und Co. auf",
-      "teaser": "Premierminister Modi will mehr High-Tech lokal produzieren. Das hat Auswirkungen auf große Hersteller wie Apple, die selbst in Indien investieren.",
-      "url": "https://www.heise.de/news/Indien-Lizenzpflicht-fuer-Elektronikimporte-schreckt-Apple-und-Co-auf-9268515.html",
-      "image_title": "Indische Flagge"
-    },
-    {
       "title": "10-Jähriges: Die Berlin Expert Days melden sich zurück",
       "teaser": "Programmiersprachen, DevOps, Emerging Technologies und viele Themen mehr: Nach vier Jahren Pause feiert die BED-Con in Berlin in diesem Jahr Zehnjähriges.",
       "url": "https://www.heise.de/news/10-Jaehriges-Die-Berlin-Expert-Days-melden-sich-zurueck-9268747.html"
+    },
+    {
+      "title": "VMware Explore 2023: Runecast führt agentenlose Schwachstellenscans ein​",
+      "teaser": "Mit der neuen Version 6.7 des Analysetools Runecast lassen sich künftig auch Betriebssysteme und Applikationen in VMware-Umgebungen ohne Agenten überprüfen.",
+      "url": "https://www.heise.de/news/VMware-Explore-2023-Runecast-fuehrt-agentenlose-Schwachstellenscans-ein-9268839.html"
+    },
+    {
+      "title": "Verschwinden von alten Tweets: Links- und Bilder-Probleme bei X (früher Twitter)",
+      "teaser": "Der Kurznachrichtendienst X/Twitter leidet unter Gedächtnisstörungen: Die meisten Links und Bilder, die vor Ende 2014 gepostet wurden, sind verschwunden.",
+      "url": "https://www.heise.de/news/Verschwinden-von-alten-Tweets-Links-und-Bilder-Probleme-bei-X-ehemals-Twitter-9268773.html"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
