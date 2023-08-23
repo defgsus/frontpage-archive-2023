@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-23T05:09:49",
+  "timestamp": "2023-08-23T06:13:30",
   "url": "https://www.volksstimme.de/",
   "response": {
     "status": 200
@@ -44,6 +44,12 @@
   ],
   "articles": [
     {
+      "title": "Kommt die Kurtaxe für Magdeburg?",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/39fde6b1-f517-4efe-8cfd-c0bf060d0028.jpeg?rect=0%2C15%2C2191%2C1507&width=100",
+      "image_title": "Touristen, die Magdeburg und sein Wahrzeichen, den Dom, erkunden, nutzen dazu auch gern den roten Bus. Noch zahlen Touristen in der Landeshauptstadt keinen Gästebeitrag.",
+      "topic": "Tourismus und Gastgewerbe"
+    },
+    {
       "title": "Mutter angeklagt: Totes Baby aus Tangerhütte lag mit 16 Messerstichen im Container",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/2fbcf7ef-4667-43f7-a39a-00ba432d313c.jpeg?rect=460%2C266%2C1396%2C786&width=100",
       "image_title": "Susanne P. (Name geändert) ist vor dem Landgericht Stendal angeklagt, ihr neugeborenes Kind im Mai 2023 in Tangerhütte getötet und in einen Altkleidercontainer geworfen zu haben.",
@@ -57,16 +63,10 @@
     },
     {
       "title": "An diesem Weg in Magdeburg wird bis Weihnachten gebaut",
+      "url": "https://www.volksstimme.de/lokal/magdeburg/an-diesem-weg-in-magdeburg-wird-bis-weihnachten-gebaut-3676075",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/084f694b-c562-4b83-b381-3c7aef422fbd.jpeg?rect=0%2C0%2C2192%2C1460&width=100",
       "image_title": "Ein Loch klafft in dieser Straße unter dem Magdeburger Ring.",
       "topic": "Bauen und Verkehr"
-    },
-    {
-      "title": "Kommt die Kurtaxe für Magdeburg?",
-      "url": "https://www.volksstimme.de/lokal/magdeburg/kommt-die-kurtaxe-fur-magdeburg-3676082",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/39fde6b1-f517-4efe-8cfd-c0bf060d0028.jpeg?rect=0%2C15%2C2191%2C1507&width=100",
-      "image_title": "Touristen, die Magdeburg und sein Wahrzeichen, den Dom, erkunden, nutzen dazu auch gern den roten Bus. Noch zahlen Touristen in der Landeshauptstadt keinen Gästebeitrag.",
-      "topic": "Tourismus und Gastgewerbe"
     },
     {
       "title": "Woran es lag, dass bei den letzten Regenfällen mehrere Straße in Schönebeck voll Wasser waren",
@@ -188,18 +188,60 @@
       "topic": "1. FC Magdeburg"
     },
     {
+      "title": "Lücken schließen in Schermen",
+      "url": "https://www.volksstimme.de/lokal/burg/lucken-schliessen-in-schermen-3675995",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/6214c342-e378-44f2-a758-911c66cab06b.jpeg?rect=0%2C0%2C4000%2C3000&width=100",
+      "image_title": "Die Kirche und der Maulbeerbaum sind die Wahrzeichen von Schermen. Nicht weit davon entfernt am Wörmlitzer Weg könnte es eine kleine Wohnbebauung geben.",
+      "topic": "Wohnbebauung"
+    },
+    {
+      "title": "Gesunkene Strompreise an der Börse: So teuer wird’s für die Zerbster",
+      "url": "https://www.volksstimme.de/lokal/zerbst/energiekosten-strompreise-boerse-teuer-zerbst-3675881",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/c333994c-dc0f-45b5-9b51-7a96d2594567.jpeg?rect=264%2C89%2C3152%2C1774&width=100",
+      "image_title": "An der Strombörse sind die Preise wieder gefallen - was haben die Zerbster davon?",
+      "topic": "Energiekosten"
+    },
+    {
+      "title": "McDonalds, Burger King und Subway: Wie attraktiv ist Genthin für Fast-Food-Ketten?",
+      "url": "https://www.volksstimme.de/lokal/genthin/gastronomie-mcdonalds-burger-king-und-subway-wie-attraktiv-ist-genthin-fuer-fast-food-ketten-3675939",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/dbcabf98-38a0-46df-b2bc-dc9c1fbfb85c.jpeg?rect=1012%2C81%2C2984%2C1679&width=100",
+      "image_title": "Was planen die Fast-Food Ketten derzeit für die Region Genthin?",
+      "topic": "Gastronomie"
+    },
+    {
+      "title": "„Alarm“ für Gießerei im Landkreis Stendal: Strom wird zum Problem",
+      "url": "https://www.volksstimme.de/lokal/tangerhuette/alarm-fur-giesserei-im-landkreis-stendal-strom-wird-zum-problem-3676264",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/c147ebd9-a767-4295-a1cf-522bf72083c6.jpeg?rect=179%2C208%2C2747%2C1777&width=100",
+      "image_title": "Bürgermeister Andreas Brohm (von links) und Landrat Patrick Puhlmann lassen sich in der Gießerei „TechnoGuss“ in Tangerhütte durch die Produktion führen. Geschäftsführer Stefan Maier und Planungschef Peter Schulz geben Auskunft - etwa zu Sandformteilen für die Produktion von Seiltrommeln.",
+      "topic": "Steigende Kosten"
+    },
+    {
+      "title": "Stadtfest in Schönebeck: Das sollten Besucher jetzt wissen",
+      "url": "https://www.volksstimme.de/lokal/schoenebeck/veranstaltungen-stadtfest-schoenebeck-800-jahr-feier-programm-das-sollten-besucher-wissen-3675969",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/518b2e7c-c680-4aa3-81c8-8ddbbcc3732a.jpeg?rect=0%2C0%2C4000%2C3000&width=100",
+      "image_title": "Am Dinestag wurde weiter die Bühne auf dem Markt aufgebaut,",
+      "topic": "800-Jahr-Feier"
+    },
+    {
+      "title": "Bürgermeisterwahl in Kalbe: Leser fragen, Kandidaten antworten",
+      "url": "https://www.volksstimme.de/lokal/gardelegen/burgermeisterwahl-in-kalbe-leser-fragen-kandidaten-antworten-3675970",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/63cc4539-d8dd-4e48-a318-dc5339c85506.jpeg?rect=0%2C163%2C2749%2C1103&width=100",
+      "image_title": "In einem Wahllokal wird ein Stimmzettel in eine Wahlurne geworfen. Das wird auch am 24. September in der Einheitsgemeinde Kalbe so sein.",
+      "topic": "Wahl"
+    },
+    {
+      "title": "Sanierung liegt voll im Plan",
+      "url": "https://www.volksstimme.de/lokal/burg/sanierung-liegt-voll-im-plan-3675972",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/f345aba9-f8d3-499d-a501-5ddca6a3ce48.jpeg?rect=0%2C113%2C1076%2C697&width=100",
+      "image_title": "Bislang liegt die Sanierung der Ortsdurchfahrt Königsborn voll im Platz. Im November soll die Straße wieder frei sein.",
+      "topic": "B 246 in Königsborn"
+    },
+    {
       "title": "Der Weihnachtsmarkt in Salzwedel zieht um",
       "url": "https://www.volksstimme.de/lokal/salzwedel/der-weihnachtsmarkt-in-salzwedel-zieht-um-3676040",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/88fe5179-168e-44dc-9d19-e1e789c67394.jpeg?rect=0%2C65%2C1077%2C653&width=100",
       "image_title": "Der Weihnachtsbaum bleibt auf dem Rathausturmplatz.",
       "topic": "Adventszeit"
-    },
-    {
-      "title": "Stadtfest in Schönebeck: Das sollten Besucher jetzt wissen",
-      "url": "https://www.volksstimme.de/lokal/schoenebeck/stadtfest-in-schonebeck-das-sollten-besucher-jetzt-wissen-3675969",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/518b2e7c-c680-4aa3-81c8-8ddbbcc3732a.jpeg?rect=0%2C0%2C4000%2C3000&width=100",
-      "image_title": "Am Dinestag wurde weiter die Bühne auf dem Markt aufgebaut,",
-      "topic": "800-Jahr-Feier"
     },
     {
       "title": "Über Park and Ride soll die Anreise zum Schönebecker Stadtfest realisiert werden",
@@ -213,48 +255,6 @@
       "url": "https://www.volksstimme.de/lokal/osterburg/modernisierung-des-hallenbades-in-osterburg-im-kreis-stendal-ruckt-in-weite-ferne-3675997",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/eb169104-68ff-40ab-a159-a98607eb8e75.jpeg?rect=0%2C0%2C3835%2C2547&width=100",
       "image_title": "Nachwuchsschwimmer des Osterburger Schwimmvereins beim Training im Hallenbad."
-    },
-    {
-      "title": "Zwillinge (90): Die Familie war und ist ihr Verein",
-      "url": "https://www.volksstimme.de/lokal/stassfurt/zwillinge-90-die-familie-war-und-ist-ihr-verein-3676006",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/f725f154-b0c9-41b3-820a-d38ac911d1d8.jpeg?rect=216%2C347%2C1076%2C1732&width=100",
-      "image_title": "Die Zwillinge mit ihrer Mutter Ida Sebrowski, als sie noch in Ostpreußen lebten.",
-      "topic": "Leben"
-    },
-    {
-      "title": "Tolles aus Ton: Töpfermarkt in Leitzkau nahe Magdeburg",
-      "url": "https://www.volksstimme.de/lokal/burg/tolles-aus-ton-topfermarkt-in-leitzkau-nahe-magdeburg-3675974",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/34467cbf-555c-48b6-a0c7-ea324fffe909.jpeg?rect=0%2C131%2C1634%2C2048&width=100",
-      "image_title": "Viola Handke und Detlef Leps freuen sich auf den diesjährigen Leitzkauer Töpfermarkt. Beide stecken derzeit voll in den Vorbereitungen der 29. Auflage.",
-      "topic": "Kunsthandwerk"
-    },
-    {
-      "title": "Auf der Holtemme schwimmen Enten um die Wette",
-      "url": "https://www.volksstimme.de/lokal/blankenburg/auf-der-holtemme-schwimmen-enten-um-die-wette-3676067",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/e2d5f36e-5d63-4c24-8539-2d341b0e0d20.jpeg?rect=0%2C0%2C3989%2C2659&width=100",
-      "image_title": "In Derenburg steigt am Sonntag, 27. August, das beliebte Entenrennen auf der Holtemme.",
-      "topic": "Parkfest in Derenburg"
-    },
-    {
-      "title": "Ein Ständchen der Kita zur goldenen Hochzeit in Eggersdorf",
-      "url": "https://www.volksstimme.de/lokal/ein-standchen-der-kita-zur-goldenen-hochzeit-in-eggersdorf-3675873",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/cc0a626d-9319-44a8-8996-2fca39cdad89.jpeg?rect=0%2C0%2C1921%2C1282&width=100",
-      "image_title": "Blumen und ein Ständchen überbrachten die Kinder der Eggersdorfer dem glücklichen Paar zur goldenen Hochzeit.",
-      "topic": "Goldene Hochzeit"
-    },
-    {
-      "title": "Vorwurf: Mord mit dem Merkmal der Heimtücke",
-      "url": "https://www.volksstimme.de/lokal/kloetze/vorwurf-mord-mit-dem-merkmal-der-heimtucke-3676022",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/c7eded18-1999-4790-94bd-e4bac91c12af.jpeg?rect=0%2C0%2C4000%2C2694&width=100",
-      "image_title": "Holger Stahlknecht vertritt die Familie der getöteten Kezhia aus Klötze.",
-      "topic": "Kezhia-Prozess"
-    },
-    {
-      "title": "Haldensleber Stadtbibliothek fährt auf Sparflamme",
-      "url": "https://www.volksstimme.de/lokal/haldensleben/haldensleber-stadtbibliothek-fahrt-auf-sparflamme-3676012",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/930b5d4f-f995-44d6-9e0b-3c0eae8d5739.jpeg?rect=1%2C128%2C1057%2C595&width=100",
-      "image_title": "Angelika Ermel (links), Sofie Mlodoch und Marius Schulze in der Ausweichbibliothek in der Kulturfabrik in Haldensleben.",
-      "topic": "Freizeit"
     },
     {
       "title": "Gewitter verhageln Bauern in Sachsen-Anhalt die Ernte",
@@ -352,39 +352,39 @@
       "topic": "Mitarbeiter unter Schock"
     },
     {
-      "title": "Bauhaus über Doping-Vorurteile: „Ist doch eh gedopt“",
-      "url": "https://www.volksstimme.de/sport/bauhaus-uber-doping-vorurteile-ist-doch-eh-gedopt-3676243",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/77352bff-a9f7-4227-9cea-8307a69e68f5.jpeg?rect=0%2C132%2C2048%2C1152&width=100",
-      "image_title": "Phil Bauhaus sieht Probleme in der Doping-Vergangenheit seiner Sportart.",
-      "topic": "Radsport"
+      "title": "Union-Manager Ruhnert kritisiert Personalwahl beim DFB",
+      "url": "https://www.volksstimme.de/sport/union-manager-ruhnert-kritisiert-personalwahl-beim-dfb-3676267",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/964533b6-7ca2-4ae3-a041-fcc0cca93a63.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Union Berlins Manager Oliver Ruhnert fehlt beim Personal des DFB die Pluralität.",
+      "topic": "Zu viel Südwesten"
     },
     {
-      "title": "Schiedsrichter: TV-Serie über Referees „hilft“ VAR-Akzeptanz",
-      "url": "https://www.volksstimme.de/sport/fussball/schiedsrichter-tv-serie-uber-referees-hilft-var-akzeptanz-3676237",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/597fbcef-3d74-4660-99da-12f055094c80.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Schiedsrichter Deniz Aytekin zeigt Sandhausens Tim Knipping (r) die gelbe Karte.",
-      "topic": "Bundesliga"
+      "title": "Abuaku im 400-Meter-Hürden-Finale: „Nichts zu verlieren“",
+      "url": "https://www.volksstimme.de/sport/abuaku-im-400-meter-hurden-finale-nichts-zu-verlieren-3676187",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/df4bb6b7-e21f-4729-9ef8-a46d1647d810.jpeg?rect=0%2C334%2C2048%2C1152&width=100",
+      "image_title": "Joshua Abuaku bei der WM das Finale über 400 Meter Hürden erreicht.",
+      "topic": "Leichtathletik-WM"
     },
     {
-      "title": "Wer fehlt, wer spielt? Die Stars bei der Basketball-WM",
-      "url": "https://www.volksstimme.de/sport/wer-fehlt-wer-spielt-die-stars-bei-der-basketball-wm-3676235",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/3346700b-86a1-49df-a2bb-9e18d4a58334.jpeg?rect=0%2C146%2C2048%2C1152&width=100",
-      "image_title": "Luka Doncic will mit Slowenien eine WM-Medaille holen.",
-      "topic": "Basketball"
+      "title": "Carro gratuliert DFB zu Wolf: Wollten ihn auch holen",
+      "url": "https://www.volksstimme.de/sport/fussball/carro-gratuliert-dfb-zu-wolf-wollten-ihn-auch-holen-3676151",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/b538da32-b664-4ca3-8207-3dd4cb0d4a09.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Fernando Carro, Vorsitzender der Geschäftsführung bei der Bayer 04 Leverkusen, beglückwünscht den DFB.",
+      "topic": "Bayer-Boss"
     },
     {
-      "title": "Bayer-Boss kontert Bremens Filbry: „Irritierend und unnötig“",
-      "url": "https://www.volksstimme.de/sport/fussball/bayer-boss-kontert-bremens-filbry-irritierend-und-unnotig-3676229",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/e3316e2d-4e5b-4116-bb49-82c3c109ef9b.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Der Vorstoß seines Bremer Kollegen Klaus Filbry hat Club-Chef Fernando Carro von Bayer Leverkusen nicht gefallen.",
-      "topic": "Bundesliga"
+      "title": "Sportphilosoph: Bundesliga-Clubs „Leuchttürme“ ihrer Region",
+      "url": "https://www.volksstimme.de/sport/fussball/sportphilosoph-bundesliga-clubs-leuchtturme-ihrer-region-3676194",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/191f27d0-daf8-46f7-9f04-903ffa21a507.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Sportphilosoph Gunter Gebauer sieht die Entwicklung im Profifußball kritisch.",
+      "topic": "Fußball"
     },
     {
-      "title": "Basketballerin A’ja Wilson stellt WNBA-Rekord ein",
-      "url": "https://www.volksstimme.de/sport/basketballerin-a-ja-wilson-stellt-wnba-rekord-ein-3676210",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/1ecc1e0f-659d-4809-8d03-562765483df7.jpeg?rect=0%2C88%2C2048%2C1152&width=100",
-      "image_title": "Las Vegas Aces Stürmerin A'ja Wilson (22) zieht zum Korb gegen Los Angeles Sparks Stürmerin Azura Stevens (23).",
-      "topic": "Basketball"
+      "title": "Hockey-Damen treffen im Halbfinale auf Belgien",
+      "url": "https://www.volksstimme.de/sport/hockey-damen-treffen-im-halbfinale-auf-belgien-3676202",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/1bc1be67-38b0-4900-a0bd-a6964039a27c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Deutschlands Jette Fleschütz (l) und Pauline Heinz bejubeln das Tor zum 5:0. gegen Irland.",
+      "topic": "Heim-EM"
     },
     {
       "title": "FCM: Spielervermittler aus HSV-Umfeld mischt bei Elfadli mit",
@@ -408,6 +408,34 @@
       "topic": "2. Bundesliga"
     },
     {
+      "title": "Medien: Ranghoher russischer General Surowikin abgesetzt",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/medien-ranghoher-russischer-general-surowikin-abgesetzt-3676053",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/bf572af8-a6bb-4ff5-b22c-d0506e6285fc.jpeg?rect=0%2C79%2C2048%2C1152&width=100",
+      "image_title": "Galt als einer der wichtigsten Verbündeten von Söldnerchef Jewgeni Prigoschin in der regulären russischen Armee bei dessen Machtkampf mit Verteidigungsminister Sergej Schoigu und Generalstabschef Waleri Gerassimow: Sergej Surowikin.",
+      "topic": "Russische Invasion"
+    },
+    {
+      "title": "Moskau meldet erneute ukrainische Drohnenangriffe",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/moskau-meldet-erneute-ukrainische-drohnenangriffe-3676272",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/837b1505-e141-4c23-9f32-ebfe7c8dcb15.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Die russische Luftabwehr hat nach Angaben aus Moskau erneut ukrainische Drohnenangriffe über der Hauptstadtregion abgewehrt.",
+      "topic": "Krieg"
+    },
+    {
+      "title": "Die AfD in Amt und Würden - alle anderen in der Zwickmühle",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/die-afd-in-amt-und-wurden-alle-anderen-in-der-zwickmuhle-3676227",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/f1c297eb-68c3-4181-bf23-961079340896.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Robert Sesselmann (AfD), neuer Landrat des Kreises Sonneberg in Thüringen.",
+      "topic": "Parteien"
+    },
+    {
+      "title": "Verbraucher kaufen sparsame Hausgeräte - und schalten Eco ab",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/verbraucher-kaufen-sparsame-hausgerate-und-schalten-eco-ab-3676263",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/d98b30b5-518c-45e3-97c5-5b42d224fb75.jpeg?rect=0%2C74%2C2048%2C1152&width=100",
+      "image_title": "Einer Umfrage zufolge nutzen nur 15 Prozent der Verbraucher das Eco-Programm der Waschmaschine.",
+      "topic": "Umfrage"
+    },
+    {
       "title": "Russen kämpfen mit Kriegsfolgen",
       "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/russen-kampfen-mit-kriegsfolgen-3676259",
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/4f2e4e14-b7d8-4f18-9da2-88c4f873ea89.jpeg?rect=0%2C87%2C2048%2C1152&width=100",
@@ -415,67 +443,46 @@
       "topic": "Rubel und Kaufkraft"
     },
     {
-      "title": "Brics-Staaten wollen Dominanz des Westens schwächen",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/brics-staaten-wollen-dominanz-des-westens-schwachen-3676186",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/347b45e8-b857-4788-88b3-83cec0b635ce.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Kremlchef Wladimir Putin nimmt per Videokonferenz am Brics-Gipfel teil.",
-      "topic": "Geopolitik"
-    },
-    {
-      "title": "Heizungsgesetz: FDP wirft Habeck „Ahnungslosigkeit“ vor",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/heizungsgesetz-fdp-wirft-habeck-ahnungslosigkeit-vor-3676253",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/9be2ceea-93f0-466d-915f-5fcc1a812e5f.jpeg?rect=0%2C92%2C2048%2C1152&width=100",
-      "image_title": "Der stellvertretende FDP-Vorsitzende Wolfgang Kubicki kritisiert Wirtschaftsminister Robert Habeck (Grüne) scharf.",
-      "topic": "Energie"
-    },
-    {
-      "title": "Krieg gegen die Ukraine: So ist die Lage",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/krieg-gegen-die-ukraine-so-ist-die-lage-3676247",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/4ff03cc9-99c6-4daa-b81b-0add5a3cc405.jpeg?rect=0%2C48%2C2048%2C1152&width=100",
-      "image_title": "Anlässlich des ukrainischen Unabhängigkeitstages am 24. August bereiten Soldaten in Kiew eine Ausstellung mit erbeuteten russischen Panzern vor.",
-      "topic": "Russische Invasion"
-    },
-    {
-      "title": "Kindergrundsicherung: Esken rechnet mit baldiger Einigung",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/kindergrundsicherung-esken-rechnet-mit-baldiger-einigung-3676207",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/f6b0fab4-f312-480c-acbe-778524239bb4.jpeg?rect=0%2C105%2C2048%2C1152&width=100",
-      "image_title": "Mit der Kindergrundsicherung sollen Leistungen für Familien zusammengefasst und zugleich erhöht werden.",
-      "topic": "Soziales"
-    },
-    {
-      "title": "Früherer Boxstar René Weller ist tot",
-      "url": "https://www.volksstimme.de/panorama/fruherer-boxstar-rene-weller-ist-tot-3676125",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/2dd9ed73-2c79-4afe-8b7d-7020d7bb80c3.jpeg?rect=0%2C187%2C2048%2C1152&width=100",
-      "image_title": "René Weller ist gestorben.",
-      "topic": "Trauer"
-    },
-    {
-      "title": "Sonne und Wolken in Berlin und Brandenburg erwartet",
-      "url": "https://www.volksstimme.de/panorama/sonne-und-wolken-in-berlin-und-brandenburg-erwartet-3676258",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/43b64a90-e2f5-48b3-a3f1-03f200e723b6.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Die Sonne kommt hinter Regenwolken hervor.",
-      "topic": "Wetter"
-    },
-    {
-      "title": "Weil dringt auf Lösung im Umgang mit Wölfen",
-      "url": "https://www.volksstimme.de/panorama/weil-dringt-auf-losung-im-umgang-mit-wolfen-3676255",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/565abe03-050f-4d70-8e9e-e007df88515c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Niedersachsens Ministerpräsident Stephan Weil (SPD) bei einem Interview.",
+      "title": "Seehundretter sind fast täglich ehrenamtlich im Einsatz",
+      "url": "https://www.volksstimme.de/panorama/seehundretter-sind-fast-taglich-ehrenamtlich-im-einsatz-3675491",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/c81e748f-3842-447a-b188-1c6359b77784.jpeg?rect=0%2C192%2C2048%2C1152&width=100",
+      "image_title": "Der ehrenamtliche Seehundretter Eilt Arnold steht an einem Quad am Strand der Insel Wangerooge.",
       "topic": "Naturschutz"
     },
     {
-      "title": "Mehrere Stadtteile in Bremen ohne Strom",
-      "url": "https://www.volksstimme.de/panorama/mehrere-stadtteile-in-bremen-ohne-strom-3676251",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/1461c8f1-c380-4300-b964-1e986d14fa25.jpeg?rect=0%2C91%2C2048%2C1152&width=100",
-      "image_title": "Der eingeschaltete Schutzschalter einer Mehrfachsteckdose leuchtet rot.",
-      "topic": "Notfälle"
+      "title": "„Den letzten Kampf verloren“: Boxwelt trauert um René Weller",
+      "url": "https://www.volksstimme.de/panorama/den-letzten-kampf-verloren-boxwelt-trauert-um-rene-weller-3676125",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/2dd9ed73-2c79-4afe-8b7d-7020d7bb80c3.jpeg?rect=0%2C187%2C2048%2C1152&width=100",
+      "image_title": "René Weller ist gestorben.",
+      "topic": "Legende"
     },
     {
-      "title": "Cell Broadcast sieben Mal in Brandenburg eingesetzt",
-      "url": "https://www.volksstimme.de/panorama/cell-broadcast-sieben-mal-in-brandenburg-eingesetzt-3676249",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/16c9c591-2488-456b-85a5-d6bddf7c588d.jpeg?rect=0%2C106%2C2048%2C1152&width=100",
-      "image_title": "Seit Februar warnen Behörden in Deutschland über Cell Broadcast mit einer Art SMS vor Hochwasser, Großbränden und anderen folgenschweren Ereignissen.",
-      "topic": "Katastrophenschutz"
+      "title": "Auto fährt in Pulsnitz gegen Hauswand: Zwei Schwerverletzte",
+      "url": "https://www.volksstimme.de/panorama/auto-fahrt-in-pulsnitz-gegen-hauswand-zwei-schwerverletzte-3676271",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/34fa94d5-4ae5-4b4a-9063-6df8a98d3efa.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Blaulicht leuchtet auf dem Dach eines Streifenwagens der Polizei.",
+      "topic": "Kreis Bautzen"
+    },
+    {
+      "title": "Ausstellung über geschichtliches Großereignis in Dannenberg",
+      "url": "https://www.volksstimme.de/panorama/ausstellung-uber-geschichtliches-grossereignis-in-dannenberg-3676265",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/339d6707-15d4-4754-a883-da7fa44157bc.jpeg?rect=0%2C31%2C2048%2C1152&width=100",
+      "image_title": "Der Waldemarturm.",
+      "topic": "Geschichte"
+    },
+    {
+      "title": "Carro kontert Bremens Filbry: „Irritierend und unnötig“",
+      "url": "https://www.volksstimme.de/panorama/carro-kontert-bremens-filbry-irritierend-und-unnotig-3676245",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/31ce9c5f-e6e7-42bb-9793-c6664b0712ce.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Fernando Carro, Vorsitzender der Geschäftsführung bei der Bayer 04 Leverkusen, steht in der BayArena.",
+      "topic": "Bundesliga"
+    },
+    {
+      "title": "30 Jahre Weltkrieg: „Onoda: 10.000 Nächte im Dschungel“",
+      "url": "https://www.volksstimme.de/kultur/tv-und-streaming/30-jahre-weltkrieg-onoda-10-000-nachte-im-dschungel-3676119",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/08/23/f6f86aed-91cf-4976-9294-fb9fe3599de0.jpeg?rect=0%2C100%2C2048%2C1152&width=100",
+      "image_title": "Kozuka (Yuya Matsuura, li.) und Leutnant Onoda (Yuya Endo) in „Onoda : 10.000 Nächte im Dschungel“.",
+      "topic": "TV-Tipp"
     },
     {
       "title": "„L'Italiano“-Sänger Toto Cutugno gestorben",
@@ -504,13 +511,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/e303ef83-a37d-40c6-bd9c-cdf903811bc1.jpeg?rect=0%2C563%2C1638%2C921&width=100",
       "image_title": "Ein Teil der insgesamt zwanzig Titel umfassenden Longlist für den Deutschen Buchpreis.",
       "topic": "Literatur"
-    },
-    {
-      "title": "„München Mord“-Fall aus der Feder von Marcus Mittermeier",
-      "url": "https://www.volksstimme.de/kultur/tv-und-streaming/munchen-mord-fall-aus-der-feder-von-marcus-mittermeier-3675755",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/08/22/d47da733-8f5d-40c2-90fa-f3e0a35ae6e5.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Marcus Mittermeier als Kriminaloberkommissar Harald Neuhauser beim Dreh zum 20. Film der ZDF-Krimireihe „München Mord“.",
-      "topic": "ZDF-Krimireihe"
     },
     {
       "title": "Ein halbes Jahr Cell Broadcast: 175 Warnungen in Deutschland",
