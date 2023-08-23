@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-23T06:13:39",
+  "timestamp": "2023-08-23T07:10:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Veeam Backup & Replication",
+      "url": "https://www.heise.de/news/Backup-Software-Angriffe-auf-Veeam-Sicherheitsluecke-9282365.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-Sicherheitsluecken-ab-9282328.html"
     },
@@ -44,19 +48,26 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-schieben-Schadcode-durch-Luecke-in-Adobe-ColdFusion-9278446.html"
     },
     {
-      "title": "Ivanti Sentry",
-      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Ivanti-Sentry-geschlossen-9278280.html"
-    },
-    {
-      "title": "Webbrowser: Update für Google Chrome dichtet hochriskante Sicherheitslücken ab",
-      "teaser": "Google hat den Webbrowser Chrome aktualisiert. Das Update dichtet fünf zum Teil als hochriskant eingestufte Lecks ab.",
-      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-Sicherheitsluecken-ab-9282328.html"
+      "title": "Backup-Software: Angriffe auf Veeam-Sicherheitslücke",
+      "teaser": "Die Cybersicherheitsbehörde CISA warnt vor aktuell laufenden Angriffen auf eine Veeam-Backup-Schwachstelle. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Backup-Software-Angriffe-auf-Veeam-Sicherheitsluecke-9282365.html"
     },
     {
       "title": "Anonymisierendes Linux: CPU-Seitenkanalangriffe in Tails 5.16.1 verhindert",
       "teaser": "Bereits vergangene Woche haben die Tails-Entwickler die Version 5.16.1 herausgegeben. Sie enthält Korrekturen für die Downfall- und Inception-CPU-Fehler.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-16-1-verhindert-Seitenkanalangriffe-9279023.html",
       "image_title": "Tails 5.16.1-Desktop auf Notebook auf Tisch"
+    },
+    {
+      "title": "Sicherheitslücken: Smarte Glühbirne von TP-Link als Einfallstor ins WLAN",
+      "teaser": "Sicherheitsforscher warnen in einem wissenschaftlichen Artikel welche Gefahr selbst von vergleichsweise simplen IoT-Geräten ausgehen kann.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Smarte-Gluehbirne-von-TP-Link-als-Einfallstor-ins-WLAN-9278651.html"
+    },
+    {
+      "title": "Android-Malware-Apps: Mit Tricks der Entdeckung entgehen",
+      "teaser": "IT-Sicherheitsforscher haben Android-Malware-Apps untersucht und sind dabei auf einige Tricks gestoßen, mit denen sie der Entdeckung entgehen wollen.",
+      "url": "https://www.heise.de/news/Android-Malware-Apps-Mit-Tricks-der-Entdeckung-entgehen-9278774.html",
+      "image_title": "Hände am Smartphone, alles gehüllt in rotes Licht"
     },
     {
       "title": "iX-Workshop Cybersicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
@@ -142,16 +153,6 @@
       "title": "Kommentar zum Azure-Master-Key-Diebstahl: Microsofts Reaktion lässt tief blicken",
       "teaser": "Microsoft lässt sich einen Signing Key für Azure klauen. Bis jetzt ist die Tragweite des Angriffs unklar. Das ist unverantwortlich, kommentiert Oliver Diedrich.",
       "url": "https://www.heise.de/meinung/Kommentar-Microsoft-provoziert-den-Cloud-GAU-und-reagiert-dann-katastrophal-9258697.html"
-    },
-    {
-      "title": "Sicherheitslösung: IBM Security Guardium als Einfallstor für Angreifer",
-      "teaser": "Eine kritische Lücke bedroht Systeme mit IBM Security Guardium. Sicherheitspatches sind verfügbar.",
-      "url": "https://www.heise.de/news/Sicherheitsloesung-IBM-Security-Guardium-als-Einfallstor-fuer-Angreifer-9263452.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Root-Lücken bedrohen Cisco-Produkte",
-      "teaser": "Es sind wichtige Sicherheitsupdates für unter anderem Cisco Unified Communications Manager und Prime Infrastructure erschienen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Root-Luecken-bedrohen-Cisco-Produkte-9259510.html"
     },
     {
       "title": "heise Security Tour 2023",
