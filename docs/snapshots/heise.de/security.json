@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-23T08:13:59",
+  "timestamp": "2023-08-23T09:10:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Asustor Data Master (ADM)",
+      "url": "https://www.heise.de/news/Asustor-Schwachstellen-im-NAS-Betriebssystem-ermoeglichen-Uebernahme-9282503.html"
+    },
+    {
+      "title": "Aruba",
+      "url": "https://www.heise.de/news/Schwachstellen-im-Web-Interface-machen-Aruba-Orchestrator-angreifbar-9282524.html"
+    },
+    {
       "title": "Veeam Backup & Replication",
       "url": "https://www.heise.de/news/Backup-Software-Angriffe-auf-Veeam-Sicherheitsluecke-9282365.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-Sicherheitsluecken-ab-9282328.html"
     },
     {
-      "title": "TP-Link Tapo L530E",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Smarte-Gluehbirne-von-TP-Link-als-Einfallstor-ins-WLAN-9278651.html"
+      "title": "Asustor: Schwachstellen im NAS-Betriebssystem ermöglichen Übernahme",
+      "teaser": "Das NAS-Betriebssystem Asustor Data Master enthält Sicherheitslücken, die Angreifern aus dem Netz die Übernahme ermöglichen. Ein Update ist verfügbar.",
+      "url": "https://www.heise.de/news/Asustor-Schwachstellen-im-NAS-Betriebssystem-ermoeglichen-Uebernahme-9282503.html"
     },
     {
-      "title": "Adobe ColdFusion",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-schieben-Schadcode-durch-Luecke-in-Adobe-ColdFusion-9278446.html"
+      "title": "Schwachstellen im Web-Interface machen Aruba Orchestrator angreifbar",
+      "teaser": "Angreifer können Arubas SD-WAN-Managementlösung EdgeConnect SD-WAN Orchestrator attackieren.",
+      "url": "https://www.heise.de/news/Schwachstellen-im-Web-Interface-machen-Aruba-Orchestrator-angreifbar-9282524.html"
     },
     {
       "title": "iX-Workshop: Effiziente IT-Sicherheit für kleine und mittlere Unternehmen",
@@ -144,17 +154,6 @@
       "title": "MobileIron: Diebstahl persönlicher Daten von Polizei-Mitarbeitern in der Schweiz",
       "teaser": "Durch einen Datendiebstahl, ermöglicht durch eine Zero-Day-Schwachstelle in MobileIron, flossen persönliche Daten der Mitarbeiter der Berner Kantonspolizei ab.",
       "url": "https://www.heise.de/news/MobileIron-Diebstahl-persoenlicher-Daten-von-Polizei-Mitarbeitern-in-der-Schweiz-9268426.html"
-    },
-    {
-      "title": "Update bereits ausgespielt: Kritische Lücke in WinRAR erlaubte Code-Ausführung",
-      "teaser": "Das verbreitete Kompressionstool WinRAR besaß in älteren Versionen eine schwere Lücke, die beliebige Codeausführung erlaubte. Die aktuelle Version schließt sie.",
-      "url": "https://www.heise.de/news/Update-bereits-ausgespielt-Kritische-Luecke-in-WinRAR-erlaubte-Code-Ausfuehrung-9268105.html"
-    },
-    {
-      "title": "Fukushima-Verklappung: Anonymous greift Website der japanischen Atombehörde an",
-      "teaser": "Aus Protest gegen die geplante Kühlwassereinleitung aus der Atomruine Fukushimas ins Meer, greift Anonymus Websites der japanischen Atomlobby an.",
-      "url": "https://www.heise.de/news/Fukushima-Verklappung-Anonymous-greift-Website-der-japanische-Atombehoerde-an-9267694.html",
-      "image_title": "Fukushima,Nuclear,Plant,Chimneys,,Japan"
     },
     {
       "title": "heise Security Tour 2023",
