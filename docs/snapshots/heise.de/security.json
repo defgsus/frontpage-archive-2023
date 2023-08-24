@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-24T09:10:49",
+  "timestamp": "2023-08-24T10:11:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-Firewalls-und-Switches-von-Cisco-moeglich-9283445.html"
+    },
+    {
+      "title": "Winrar, unrar.dll, unrar64.dll",
+      "url": "https://www.heise.de/news/WinRAR-Luecke-weitreichender-als-gedacht-9283622.html"
+    },
+    {
       "title": "Asustor Data Master (ADM)",
       "url": "https://www.heise.de/news/Asustor-Schwachstellen-im-NAS-Betriebssystem-ermoeglichen-Uebernahme-9282503.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Schwachstellen-im-Web-Interface-machen-Aruba-Orchestrator-angreifbar-9282524.html"
     },
     {
-      "title": "Veeam Backup & Replication",
-      "url": "https://www.heise.de/news/Backup-Software-Angriffe-auf-Veeam-Sicherheitsluecke-9282365.html"
+      "title": "Sicherheitsupdates: DoS-Attacken auf Firewalls und Switches von Cisco möglich",
+      "teaser": "Angreifer können Geräte von Cisco via DoS-Attacken lahmlegen. Der Netzwerkausrüster hat Sicherheitspatches veröffentlicht.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-Firewalls-und-Switches-von-Cisco-moeglich-9283445.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-Sicherheitsluecken-ab-9282328.html"
+      "title": "WinRAR-Lücke weitreichender als gedacht",
+      "teaser": "Am Wochenende wurde eine Sicherheitslücke in WinRAR bekannt. Die wirkt sich auf andere Software aus. Zudem gibt es weitere, bereits missbrauchte Lecks darin.",
+      "url": "https://www.heise.de/news/WinRAR-Luecke-weitreichender-als-gedacht-9283622.html"
     },
     {
       "title": "Microsoft: Windows-Update-Vorschauen schützen vor Downfall-CPU-Lücke",
@@ -146,16 +156,6 @@
       "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
       "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-mit-Fruehbucherrabatt-9245541.html",
       "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Kritische Sicherheitslücke in Ivanti Sentry wird bereits missbraucht",
-      "teaser": "Ivanti schließt in Sentry, vormals MobileIron Sentry, eine kritische Sicherheitslücke. Sie wird bereits angegriffen.",
-      "url": "https://www.heise.de/news/Kritische-Zero-Day-Luecke-in-Ivanti-Sentry-geschlossen-9278280.html"
-    },
-    {
-      "title": "MOVEit-Lücke: Gesundheitsdaten von Millionen Menschen in den USA geleakt",
-      "teaser": "Mehr als 4 Millionen Menschen in den USA wurden über einen Leak ihrer Gesundheitsdaten informiert. Offenbar wurde die bekannte MOVEit-Sicherheitslücke genutzt.",
-      "url": "https://www.heise.de/news/MOVEit-Luecke-Gesundheitsdaten-von-Millionen-Menschen-in-den-USA-geleakt-9272470.html"
     },
     {
       "title": "heise Security Tour 2023",

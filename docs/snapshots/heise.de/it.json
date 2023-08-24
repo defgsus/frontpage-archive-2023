@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-24T09:10:42",
+  "timestamp": "2023-08-24T10:11:24",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,19 +43,53 @@
       "image_title": "Indische Flagge"
     },
     {
+      "title": "Programmieren mit Python: Doppelwürfel-Verschlüsselung verstehen und umsetzen",
+      "teaser": "Vor dem Computer-Zeitalter schützten Spione Geheimnisse mit Chiffren wie Doppelwürfel. Wir erklären, wie das funktioniert und programmieren in Python nach.",
+      "url": "https://www.heise.de/hintergrund/Programmieren-mit-Python-Doppelwuerfel-Verschluesselung-verstehen-und-umsetzen-9279040.html"
+    },
+    {
       "title": "GitOps: Repository-Strukturen und -Patterns in der Theorie",
       "teaser": "Ist die Einführung von GitOps beschlossen und der Operator ausgewählt, wird der Prozess entworfen. Definierte Repository-Patterns geben Orientierungshilfe.",
       "url": "https://www.heise.de/hintergrund/GitOps-Repository-Strukturen-und-Patterns-in-der-Theorie-9247815.html"
     },
     {
-      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
-      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
-      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
+      "title": "Sicherheitsupdates: DoS-Attacken auf Firewalls und Switches von Cisco möglich",
+      "teaser": "Angreifer können Geräte von Cisco via DoS-Attacken lahmlegen. Der Netzwerkausrüster hat Sicherheitspatches veröffentlicht.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-Firewalls-und-Switches-von-Cisco-moeglich-9283445.html"
     },
     {
-      "title": "Programmieren mit Python: Doppelwürfel-Verschlüsselung verstehen und umsetzen",
-      "teaser": "Vor dem Computer-Zeitalter schützten Spione Geheimnisse mit Chiffren wie Doppelwürfel. Wir erklären, wie das funktioniert und programmieren in Python nach.",
-      "url": "https://www.heise.de/hintergrund/Programmieren-mit-Python-Doppelwuerfel-Verschluesselung-verstehen-und-umsetzen-9279040.html"
+      "title": "Kurztests: Gurtwickler für Rolladen, Haushaltsplaner-App und USB-SSD",
+      "teaser": "Eine bunte Mischung an Gadgets für den Alltag: Wir haben einen Gurtwickler für Rolläden, eine App zur Haushaltsplanung und eine kompakte USB-SSD getestet.",
+      "url": "https://www.heise.de/tests/Kurztests-Gurtwickler-fuer-Rolladen-Haushaltsplaner-App-und-USB-SSD-9282573.html",
+      "image_title": ","
+    },
+    {
+      "title": "Last Call: Requirements Engineering: 5 Webinare für mehr Erfolg von IT-Projekten",
+      "teaser": "Vom 1. bis 29. September 2023 erklären Veikko Krypczyk und Elena Bochkor, wie Requirements Engineering zum Gelingen von Softwareentwicklungs-Projekten beiträgt.",
+      "url": "https://www.heise.de/news/Last-Call-Requirements-Engineering-5-Webinare-fuer-mehr-Erfolg-von-IT-Projekten-9212100.html"
+    },
+    {
+      "title": "WinRAR-Lücke weitreichender als gedacht",
+      "teaser": "Am Wochenende wurde eine Sicherheitslücke in WinRAR bekannt. Die wirkt sich auf andere Software aus. Zudem gibt es weitere, bereits missbrauchte Lecks darin.",
+      "url": "https://www.heise.de/news/WinRAR-Luecke-weitreichender-als-gedacht-9283622.html"
+    },
+    {
+      "title": "Vision Pro: Apple berichtet von positivem Entwickler-Feedback",
+      "teaser": "Im Rahmen von \"Dev Labs\" zeigt Apple Entwicklern, was das Headset des Konzerns kann. Doch wie kommt das an? Laut Apple: gut.",
+      "url": "https://www.heise.de/news/Vision-Pro-Apple-berichtet-von-positivem-Entwickler-Feedback-9283638.html",
+      "image_title": "Entwickler bei Vision Pro Labs"
+    },
+    {
+      "title": "Teams 2.0: Microsoft macht offenbar Schluss mit dem Anwendungs-Wirrwarr",
+      "teaser": "Im neuen Teams kann man sich wohl parallel mit geschäftlichen und privaten Konten anmelden. Ein Adressbuch verwaltet Kontakte. Die Details bleiben aber unklar.",
+      "url": "https://www.heise.de/news/Teams-2-0-Microsoft-macht-offenbar-Schluss-mit-dem-Anwendungs-Wirrwarr-9283670.html",
+      "image_title": "Team-Plattform Microsoft «Teams»"
+    },
+    {
+      "title": "iMac oder Studio Display: HiRise Pro hebt an und lagert Zubehör",
+      "teaser": "Twelve South hat ein neues Zubehörprodukt für Apple-Desktop-Setups im Angebot: Es positioniert Bildschirme besser und hilft beim Aufräumen.",
+      "url": "https://www.heise.de/news/iMac-oder-Studio-Display-HiRise-Pro-hebt-an-und-lagert-Zubehoer-9278730.html",
+      "image_title": "Twelve South HiRise Pro"
     },
     {
       "title": "Verletzte und ihren Status in Kampfgebieten per Drohne überwachen",
@@ -96,45 +130,9 @@
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
-      "title": "GitOps-Tools im detaillierten Vergleich: Argo CD und Flux",
-      "teaser": "Wer seine Kubernetes-Umgebung auf GitOps umstellt, benötigt einen passenden GitOps-Operator, wie Argo CD oder Flux.Wir besprechen die Features und Unterschiede.",
-      "url": "https://www.heise.de/hintergrund/GitOps-Tools-im-detaillierten-Vergleich-Argo-CD-und-Flux-9245592.html"
-    },
-    {
-      "title": "Edge AI: TinyML und TensorFlow Lite – Teil 2",
-      "teaser": "Mit dem KI-Framework TensorFlow Lite beziehungsweise TensorFlow Lite for Microcontrollers lassen sich KNN-Inferenzmodelle auch auf Kleinstgeräten ausführen.",
-      "url": "https://www.heise.de/hintergrund/Edge-AI-TinyML-und-TensorFlow-Lite-Teil-2-9238381.html",
-      "image_title": "Edge AI"
-    },
-    {
-      "title": "#heiseshow: Solarpaket, Amazons Hüllenlosigkeit und Perso per Post",
-      "teaser": "Für Balkonkraftwerke gibt es neue Perspektiven, Amazon verzichtet gerne mal auf den Smiley-Karton und der Perso kommt per Post. Dies und mehr in der #heiseshow.",
-      "url": "https://www.heise.de/news/heiseshow-Solarpaket-Amazons-Huellenlosigkeit-und-Perso-per-Post-9283072.html",
-      "image_title": "heiseshow - Jeden Donnerstag LIVE um 17 Uhr"
-    },
-    {
-      "title": "Umsatzexplosion: Nvidia ist der Schaufelverkäufer unter den KI-Goldgräbern",
-      "teaser": "Nvidias Datenzentren-Sparte boomt. Die Quartalsbilanz übertrifft die ohnehin extrem hohen Erwartungen deutlich: fast 14-facher Betriebsgewinn.",
-      "url": "https://www.heise.de/news/Umsatzexplosion-Nvidia-ist-der-Schaufelverkaeufer-unter-den-KI-Goldgraebern-9283249.html",
-      "image_title": "Nvidias KI-Beschleuniger H100"
-    },
-    {
-      "title": "CDU-Vorschlag: Streit über Vorrang für Open Source im Thüringer Vergaberecht",
-      "teaser": "Die Open Source Business Alliance warnt vor einem \"dramatischen Rückschritt\": Die CDU wolle die vorrangige Beschaffung freier Software in Thüringen streichen.​",
-      "url": "https://www.heise.de/news/CDU-Vorschlag-Streit-ueber-Vorrang-fuer-Open-Source-im-Thueringer-Vergaberecht-9283204.html",
-      "image_title": "Pinguin, gerade aus dem Wasser auf einen Felsen gehüpft, streckt seine Flügel aus"
-    },
-    {
-      "title": "Vorwurf von \"Racial Bias\" bei Apple-Watch-Sensoren: US-Sammelklage abgewiesen",
-      "teaser": "Wegen der möglichen Beeinträchtigung der Blutsauerstoffmessung durch dunklere Haut hat ein Kunde gegen Apple geklagt. Weit kam die Sammelklage nicht.",
-      "url": "https://www.heise.de/news/Vorwurf-von-Racial-Bias-bei-Apple-Watch-Sensoren-US-Sammelklage-abgewiesen-9283148.html",
-      "image_title": "Frau mit einer Apple Watch"
-    },
-    {
-      "title": "Gesundheitsdaten: Empfehlungen von Krankenkassen im Bundestag umstritten",
-      "teaser": "Der Plan, dass Krankenkassen aufgrund von Abrechnungsdaten Empfehlungen abgeben dürfen, löst bei Gesundheitspolitikern im Bundestag gemischte Gefühle aus.",
-      "url": "https://www.heise.de/news/Gesundheitsdaten-Empfehlungen-von-Krankenkassen-im-Bundestag-umstritten-9282867.html",
-      "image_title": "Stethoskop mit Kreuz inmitten eines Buchs mit aufgeblätterten Seiten"
+      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
+      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
+      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
