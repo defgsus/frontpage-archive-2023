@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-24T05:10:18",
+  "timestamp": "2023-08-24T06:14:04",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -60,6 +60,33 @@
       "url": "https://www.heise.de/ratgeber/Baumarkt-Whirlpool-aufruesten-WLAN-Steuerung-fuer-Bestway-Spa-mit-ESP-Controller-9237753.html"
     },
     {
+      "title": "GitOps: Repository-Strukturen und -Patterns in der Theorie",
+      "teaser": "Ist die Einführung von GitOps beschlossen und der Operator ausgewählt, wird der Prozess entworfen. Definierte Repository-Patterns geben Orientierungshilfe.",
+      "url": "https://www.heise.de/hintergrund/GitOps-Repository-Strukturen-und-Patterns-in-der-Theorie-9247815.html"
+    },
+    {
+      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
+      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
+      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
+    },
+    {
+      "title": "GitOps-Tools im detaillierten Vergleich: Argo CD und Flux",
+      "teaser": "Wer seine Kubernetes-Umgebung auf GitOps umstellt, benötigt einen passenden GitOps-Operator, wie Argo CD oder Flux.Wir besprechen die Features und Unterschiede.",
+      "url": "https://www.heise.de/hintergrund/GitOps-Tools-im-detaillierten-Vergleich-Argo-CD-und-Flux-9245592.html"
+    },
+    {
+      "title": "Edge AI: TinyML und TensorFlow Lite – Teil 2",
+      "teaser": "Mit dem KI-Framework TensorFlow Lite beziehungsweise TensorFlow Lite for Microcontrollers lassen sich KNN-Inferenzmodelle auch auf Kleinstgeräten ausführen.",
+      "url": "https://www.heise.de/hintergrund/Edge-AI-TinyML-und-TensorFlow-Lite-Teil-2-9238381.html",
+      "image_title": "Edge AI"
+    },
+    {
+      "title": "Fotoreiseführer Südtirol: Alpenregion mit Flair",
+      "teaser": "Im Norden Italiens liegt das beschauliche Südtirol. Die Region lockt mit ihrer herrlichen Landschaft, gutem Essen, urigen Tälern und mittelalterlichen Städten.",
+      "url": "https://www.heise.de/ratgeber/Fotoreisefuehrer-Suedtirol-Alpenregion-mit-Flair-9236391.html",
+      "image_title": ", Alle Bilder: Judith Niederwanger und Alexander Pichler"
+    },
+    {
       "title": "Buch oder Bildschirm? Welchen Einfluss das Medium auf das Lesenlernen hat",
       "teaser": "Digitale Medien verändern, wie wir lesen – und wie unsere Kinder in der Schule lesen lernen. Ob das nun gut ist oder schlecht, hängt nicht nur von der Dosis ab.",
       "url": "https://www.heise.de/hintergrund/Buch-oder-Bildschirm-Welchen-Einfluss-das-Medium-auf-das-Lesenlernen-hat-9282234.html",
@@ -117,6 +144,20 @@
       "url": "https://www.heise.de/tests/Solar-auf-dem-Fensterbrett-im-Test-Was-ein-Fensterkraftwerk-wirklich-leistet-9267807.html"
     },
     {
+      "title": "Smart Charging und V2G: Wie Elektroautos bei der Energiewende helfen können",
+      "url": "https://www.heise.de/hintergrund/Smart-Charging-und-V2G-Autos-helfen-bei-Energiewende-9235371.html"
+    },
+    {
+      "title": "Elektroauto Audi Q8 55 e-tron quattro im Test: Plus bei Batterie und Effizienz",
+      "url": "https://www.heise.de/tests/Elektroauto-Audi-Q8-55-e-tron-quattro-im-Test-Plus-bei-Batterie-und-Effizienz-9218498.html",
+      "image_title": "Audi Q8 e-tron"
+    },
+    {
+      "title": "Elektroauto VW ID.3 Facelift im Test: Endlich ein würdiger Golf-Nachfolger",
+      "url": "https://www.heise.de/tests/Elektroauto-VW-ID-3-Facelift-im-Test-Endlich-gut-9221045.html",
+      "image_title": "VW ID.3 2023"
+    },
+    {
       "title": "Mac Pro M2 Ultra im Test: Der Erweiterbare",
       "teaser": "Der überfällige Schritt zu Apples eigenen ARM-Prozessoren ist beim Mac Pro endlich vollzogen. Lohnt er sich im Vergleich zur hausinternen Konkurrenz Mac Studio?",
       "url": "https://www.heise.de/tests/Mac-Pro-M2-Ultra-im-Test-Der-Erweiterbare-9267764.html",
@@ -144,20 +185,6 @@
       "teaser": "Der wöchentliche Newsletter von heise+ diesmal über Scammer abwehren, Dynamic Pricing austricksen, Mini-Windkraftanlagen, Online-Trading",
       "url": "https://www.heise.de/news/heise-Update-vom-18-August-2023-Lesetipps-fuers-Wochenende-9258184.html",
       "image_title": "heise+ Update Volker Zota"
-    },
-    {
-      "title": "Smart Charging und V2G: Wie Elektroautos bei der Energiewende helfen können",
-      "url": "https://www.heise.de/hintergrund/Smart-Charging-und-V2G-Autos-helfen-bei-Energiewende-9235371.html"
-    },
-    {
-      "title": "Elektroauto Audi Q8 55 e-tron quattro im Test: Plus bei Batterie und Effizienz",
-      "url": "https://www.heise.de/tests/Elektroauto-Audi-Q8-55-e-tron-quattro-im-Test-Plus-bei-Batterie-und-Effizienz-9218498.html",
-      "image_title": "Audi Q8 e-tron"
-    },
-    {
-      "title": "Elektroauto VW ID.3 Facelift im Test: Endlich ein würdiger Golf-Nachfolger",
-      "url": "https://www.heise.de/tests/Elektroauto-VW-ID-3-Facelift-im-Test-Endlich-gut-9221045.html",
-      "image_title": "VW ID.3 2023"
     },
     {
       "title": "Fotoreiseführer Tessin: Historische Architektur in beeindruckender Landschaft",
@@ -213,33 +240,6 @@
       "title": "Retrospiele authentisch auf günstigem 4:3-Monitor zocken",
       "teaser": "Weil Retrotitel auf 16:9-Fernsehern keine gute Figur machen, lohnt sich die Anschaffung eines 4:3-Bildschirms. Wir haben mit einem Modell probegespielt.",
       "url": "https://www.heise.de/ratgeber/Retrospiele-authentisch-auf-guenstigem-4-3-Monitor-zocken-9244309.html"
-    },
-    {
-      "title": "E-Book-Reader Boox Poke 5 mit vollwertigem Android und E-Ink-Display im Test",
-      "teaser": "Die meisten E-Book-Reader eignen sich nur zum Lesen. Der Poke 5 macht vieles anders und versucht sich darüber hinaus als schwarzweißes Android-Tablet.",
-      "url": "https://www.heise.de/tests/E-Book-Reader-Boox-Poke-5-mit-vollwertigem-Android-und-E-Ink-Display-im-Test-9244334.html",
-      "image_title": ","
-    },
-    {
-      "title": "Baumarkt-Whirlpool aufrüsten – WLAN-Steuerung für Bestway Spa mit ESP-Controller",
-      "teaser": "Wir zeigen Ihnen, wie Sie Ihren Whirlpool für Fernsteuerung über Funknetz und Alexa-Unterstützung hacken.",
-      "url": "https://www.heise.de/ratgeber/Baumarkt-Whirlpool-aufruesten-WLAN-Steuerung-fuer-Bestway-Spa-mit-ESP-Controller-9237753.html"
-    },
-    {
-      "title": "Ratgeber: Mini-Windkraftanlagen für Gartenhaus, Boot und Wohnmobil",
-      "teaser": "Mehr als Spielerei? Windkraftanlagen für den Inselbetrieb versorgen Sie unterwegs mit Strom auf dem Boot oder dem Camper. Dabei gibt es einiges zu beachten.",
-      "url": "https://www.heise.de/ratgeber/Ratgeber-Mini-Windkraftanlagen-fuer-Gartenhaus-Boot-und-Wohnmobil-9243850.html"
-    },
-    {
-      "title": "Wann Preiserhöhungen bei Mobilfunk- und Festnetzverträgen zulässig sind",
-      "teaser": "Vodafone und 1&1 haben ihre Kunden jüngst mit Preiserhöhungen während der Mindestvertragslaufzeit überrascht. Das geht nur unter bestimmten Voraussetzungen.",
-      "url": "https://www.heise.de/hintergrund/Wann-Preiserhoehungen-bei-Mobilfunk-und-Festnetzvertraegen-zulaessig-sind-9240559.html"
-    },
-    {
-      "title": "Smart City: Ins Netz mit mit NB-IoT und LTE-M",
-      "teaser": "Mit den kommerziellen Funkstandards NB-IoT und LTE-M kann jede Stadt ein eigenes IoT-Netz aufbauen – und das mit überschaubaren Ressourcen.",
-      "url": "https://www.heise.de/ratgeber/Smart-City-Ins-Netz-mit-mit-NB-IoT-und-LTE-M-9230856.html",
-      "image_title": ", Moritz Reichartz"
     },
     {
       "title": "Recherchieren über die Bundesnetzagentur: Strommarktdaten aus dem SMARD-Portal",
@@ -331,16 +331,16 @@
       "image_title": "Apple Vision Pro"
     },
     {
+      "title": "Baumarkt-Whirlpool aufrüsten – WLAN-Steuerung für Bestway Spa mit ESP-Controller",
+      "url": "https://www.heise.de/ratgeber/Baumarkt-Whirlpool-aufruesten-WLAN-Steuerung-fuer-Bestway-Spa-mit-ESP-Controller-9237753.html"
+    },
+    {
       "title": "Erfahrungsbericht: Bestückte Platinen in China zum unschlagbaren Preis bestellen",
       "url": "https://www.heise.de/ratgeber/Erfahrungsbericht-Bestueckte-Platinen-in-China-zum-unschlagbaren-Preis-bestellen-9213681.html"
     },
     {
       "title": "3D-Drucker: AnkerMake M5C im Test",
       "url": "https://www.heise.de/tests/3D-Drucker-Wir-haben-den-neuen-AnkerMake-M5C-getestet-9239449.html"
-    },
-    {
-      "title": "Explosionszeichnungen mit der kostenlosen Software FreeCAD erzeugen",
-      "url": "https://www.heise.de/hintergrund/Explosionszeichnungen-mit-der-kostenlosen-Software-FreeCAD-erzeugen-9231155.html"
     },
     {
       "title": "Storm-558: Angriff auf Exchange-Mails von Regierungsbehörden und vielleicht mehr",

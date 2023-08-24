@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-24T05:10:03",
+  "timestamp": "2023-08-24T06:13:45",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -43,16 +43,46 @@
       "image_title": "Indische Flagge"
     },
     {
-      "title": "Gekonnt abnabeln: Externe Laufwerke sicher vom Mac entfernen",
-      "teaser": "Wenn man ein externes Medium nicht ordnungsgemäß auswirft, bevor man es abstöpselt, meckert macOS. Ist das wirklich riskant und wie vermeidet man das Problem?",
-      "url": "https://www.heise.de/hintergrund/Gekonnt-abnabeln-Externe-Laufwerke-sicher-vom-Mac-entfernen-9278415.html",
-      "image_title": ","
+      "title": "GitOps: Repository-Strukturen und -Patterns in der Theorie",
+      "teaser": "Ist die Einführung von GitOps beschlossen und der Operator ausgewählt, wird der Prozess entworfen. Definierte Repository-Patterns geben Orientierungshilfe.",
+      "url": "https://www.heise.de/hintergrund/GitOps-Repository-Strukturen-und-Patterns-in-der-Theorie-9247815.html"
     },
     {
-      "title": "Speicherduell: DDR4- und DDR5-RAM im Preis-Leistungs-Vergleich",
-      "teaser": "Moderne Intel-Prozessoren können mit beiden Speichertypen umgehen. Wir testen, welche Anwendungen von DDR5-RAM profitieren und ob sich der Aufpreis lohnt.",
-      "url": "https://www.heise.de/tests/Speicherduell-DDR4-und-DDR5-RAM-im-Preis-Leistungs-Vergleich-9278326.html",
-      "image_title": ","
+      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
+      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
+      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
+    },
+    {
+      "title": "c’t-Workshop: Internetausfälle kompensieren",
+      "teaser": "Firmen sind auf funktionierende Internetanbindungen angewiesen. Der Online-Workshop von c’t erklärt, wie Sie redundante Verbindungen realisieren.",
+      "url": "https://www.heise.de/news/c-t-Workshop-Internetausfaelle-kompensieren-9282534.html"
+    },
+    {
+      "title": "GitOps: Repository-Strukturen und -Patterns in der Theorie",
+      "teaser": "Ist die Einführung von GitOps beschlossen und der Operator ausgewählt, wird der Prozess entworfen. Definierte Repository-Patterns geben Orientierungshilfe.",
+      "url": "https://www.heise.de/hintergrund/GitOps-Repository-Strukturen-und-Patterns-in-der-Theorie-9247815.html"
+    },
+    {
+      "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Sie Ihre Entra ID (Azure Active Directory) einschließlich der Azure-Dienste härten und effektiv gegen Angriffe schützen. Rabatt bis 07.09.",
+      "url": "https://www.heise.de/news/iX-Workshop-Entra-ID-Azure-Active-Directory-gegen-Angriffe-absichern-9247507.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
+    },
+    {
+      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
+      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
+      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
+    },
+    {
+      "title": "GitOps-Tools im detaillierten Vergleich: Argo CD und Flux",
+      "teaser": "Wer seine Kubernetes-Umgebung auf GitOps umstellt, benötigt einen passenden GitOps-Operator, wie Argo CD oder Flux.Wir besprechen die Features und Unterschiede.",
+      "url": "https://www.heise.de/hintergrund/GitOps-Tools-im-detaillierten-Vergleich-Argo-CD-und-Flux-9245592.html"
+    },
+    {
+      "title": "Edge AI: TinyML und TensorFlow Lite – Teil 2",
+      "teaser": "Mit dem KI-Framework TensorFlow Lite beziehungsweise TensorFlow Lite for Microcontrollers lassen sich KNN-Inferenzmodelle auch auf Kleinstgeräten ausführen.",
+      "url": "https://www.heise.de/hintergrund/Edge-AI-TinyML-und-TensorFlow-Lite-Teil-2-9238381.html",
+      "image_title": "Edge AI"
     },
     {
       "title": "#heiseshow: Solarpaket, Amazons Hüllenlosigkeit und Perso per Post",
@@ -104,38 +134,6 @@
       "teaser": "Das anstehende KI-Tool watsonx Code Assistant for Z von IBM soll beim Übersetzen von COBOL zu Java unterstützen und somit Mainframe-Anwendungen modernisieren.",
       "url": "https://www.heise.de/news/IBM-plant-Modernisierung-von-COBOL-Anwendungen-durch-Kuenstliche-Intelligenz-9282753.html",
       "image_title": "Series,Mainframe,In,A,Futuristic,Representation,Of,A,Matrix,Code"
-    },
-    {
-      "title": "IT-Sicherheitstag 2023: NIS2-Richtlinien richtig umsetzen",
-      "teaser": "Der IT-Sicherheitstag am 9.11. zeigt, was NIS2 für Unternehmen bedeutet und womit sich Fachleute in der IT-Security aktuell auseinandersetzen müssen.",
-      "url": "https://www.heise.de/news/IT-Sicherheitstag-2023-NIS2-Richtlinien-richtig-umsetzen-9279402.html"
-    },
-    {
-      "title": "Microsoft integriert Python in Excel",
-      "teaser": "Microsoft bringt seine Tabellenkalkulation Excel und die Programmiersprache Python zusammen. Wie das funktioniert und was genau geplant ist.",
-      "url": "https://www.heise.de/news/Microsoft-integriert-Python-in-Excel-9282783.html",
-      "image_title": "Python wird in Microsoft Excel integriert"
-    },
-    {
-      "title": "Awareness für Cybersicherheit im Unternehmen stärken: ein Praxisworkshop der iX",
-      "teaser": "Im iX-Workshop \"Cybersicherheit: Awareness richtig gemacht\" lernen Sie hands-on, wie Sie im eigenen Unternehmen nachhaltige Awareness-Kampagnen umsetzen.",
-      "url": "https://www.heise.de/news/Awareness-fuer-Cybersicherheit-im-Unternehmen-staerken-ein-Praxisworkshop-der-iX-9245859.html",
-      "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Wi-Fi 7: Asus zeigt seine ersten Mainboards",
-      "teaser": "Für Intels \"Raptor Lake\"-Refresh legt Asus neue Z790-Mainboards auf. Sie alle funken künftig mit Wi-Fi 7.",
-      "url": "https://www.heise.de/news/Asus-zeigt-die-ersten-eigenen-Mainboards-mit-Wi-Fi-7-9282637.html"
-    },
-    {
-      "title": "Asustor: Schwachstellen im NAS-Betriebssystem ermöglichen Übernahme",
-      "teaser": "Das NAS-Betriebssystem Asustor Data Master enthält Sicherheitslücken, die Angreifern aus dem Netz die Übernahme ermöglichen. Ein Update ist verfügbar.",
-      "url": "https://www.heise.de/news/Asustor-Schwachstellen-im-NAS-Betriebssystem-ermoeglichen-Uebernahme-9282503.html"
-    },
-    {
-      "title": "Sprachmodell hinter ChatGPT: GPT-3.5 Turbo mit eigenen Daten füttern",
-      "teaser": "Das KI-Sprachmodell GPT-3.5 Turbo von OpenAI lässt sich ab sofort per Finetuning individualisieren. Ab Herbst soll das auch bei GPT-4 möglich sein.",
-      "url": "https://www.heise.de/news/KI-Sprachmodell-GPT-3-5-Turbo-jetzt-mit-eigenen-Daten-nachtrainieren-9282550.html"
     },
     {
       "title": "Mehr Sichtweite – Mehr Kunden",
