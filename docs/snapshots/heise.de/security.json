@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-25T08:13:51",
+  "timestamp": "2023-08-25T09:10:43",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Openfire-Server",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-platzieren-Backdoors-auf-Openfire-Servern-9284656.html"
+    },
+    {
       "title": "IBM",
       "url": "https://www.heise.de/news/IBM-Security-Guardium-Angreifer-koennen-Log-in-Daten-leaken-9284563.html"
     },
@@ -44,19 +48,15 @@
       "url": "https://www.heise.de/news/WinRAR-Luecke-weitreichender-als-gedacht-9283622.html"
     },
     {
-      "title": "Asustor Data Master (ADM)",
-      "url": "https://www.heise.de/news/Asustor-Schwachstellen-im-NAS-Betriebssystem-ermoeglichen-Uebernahme-9282503.html"
+      "title": "Jetzt patchen! Angreifer platzieren Backdoors auf Openfire-Servern",
+      "teaser": "Derzeit gibt es Attacken auf Openfire-Server. Patches sind verfügbar. IT-Sicherheitsforscher warnen vor tausenden angreifbaren Systemen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-platzieren-Backdoors-auf-Openfire-Servern-9284656.html"
     },
     {
       "title": "Sicherheitsupdates: IBM Security Guardium auf mehreren Wegen angreifbar",
       "teaser": "IBM hat wichtige Sicherheitspatches für Security Guardium und Security Verify Access veröffentlicht.",
       "url": "https://www.heise.de/news/IBM-Security-Guardium-Angreifer-koennen-Log-in-Daten-leaken-9284563.html",
       "image_title": "Bucharest,,Romania,-,June,06,,2019:,The,Ibm,Logo,Is"
-    },
-    {
-      "title": "Windows-Update-Vorschau: Möglicher Boot-Abbruch wegen nicht unterstützter CPU",
-      "teaser": "Nach der Installation der Windows-Update-Vorschauen kann es zum Abbruch des Bootvorgangs mit einer Fehlermeldung bezüglich der CPU kommen.",
-      "url": "https://www.heise.de/news/Microsoft-Update-Vorschauen-koennen-mit-Fehlermeldung-Bootvorgang-abbrechen-9284551.html"
     },
     {
       "title": "Last Call: Webinar-Serie Ethical Hacking für Admins – Lerne Pentesting und mehr",
@@ -78,6 +78,11 @@
       "title": "Microsoft: Windows-Update-Vorschauen schützen vor Downfall-CPU-Lücke",
       "teaser": "Microsoft hat die Vorschauen auf die Windows-Updates im September veröffentlicht. Sie bringen Gegenmaßnahmen für die Downfall-Intel-CPU-Lücke mit.",
       "url": "https://www.heise.de/news/Microsoft-Windows-Update-Vorschauen-schuetzen-vor-Downfall-CPU-Luecke-9283485.html"
+    },
+    {
+      "title": "2,6 Millionen Datensätze von Duolingo-Nutzern bei Have I Been Pwned",
+      "teaser": "Have I Been Pwned hat der Datensammlung 2,6 Millionen Datensätze von Duolingo hinzugefügt. Diese waren im digitalen Untergrund aufgetaucht.",
+      "url": "https://www.heise.de/news/2-6-Millionen-Datensaetze-von-Duolingo-Nutzern-bei-Have-I-Been-Pwned-9283391.html"
     },
     {
       "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
@@ -150,11 +155,6 @@
       "teaser": "Bereits vergangene Woche haben die Tails-Entwickler die Version 5.16.1 herausgegeben. Sie enthält Korrekturen für die Downfall- und Inception-CPU-Fehler.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-16-1-verhindert-Seitenkanalangriffe-9279023.html",
       "image_title": "Tails 5.16.1-Desktop auf Notebook auf Tisch"
-    },
-    {
-      "title": "Sicherheitslücken: Smarte Glühbirne von TP-Link als Einfallstor ins WLAN",
-      "teaser": "Sicherheitsforscher warnen in einem wissenschaftlichen Artikel welche Gefahr selbst von vergleichsweise simplen IoT-Geräten ausgehen kann.",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Smarte-Gluehbirne-von-TP-Link-als-Einfallstor-ins-WLAN-9278651.html"
     },
     {
       "title": "heise Security Tour 2023",
