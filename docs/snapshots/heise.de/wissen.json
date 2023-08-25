@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-25T05:10:09",
+  "timestamp": "2023-08-25T06:14:16",
   "url": "https://www.heise.de/newsticker/wissen/",
   "response": {
     "status": 200
@@ -43,14 +43,33 @@
       "image_title": "Close,View,Of,Batteries,Alkaline,1.5,Volts,In,Size,Aa"
     },
     {
-      "title": "GitOps: Repository-Strukturen und -Patterns in der Theorie",
-      "teaser": "Ist die Einführung von GitOps beschlossen und der Operator ausgewählt, wird der Prozess entworfen. Definierte Repository-Patterns geben Orientierungshilfe.",
-      "url": "https://www.heise.de/hintergrund/GitOps-Repository-Strukturen-und-Patterns-in-der-Theorie-9247815.html"
+      "title": "Windows absichern mit AppLocker",
+      "teaser": "Ein PC bleibt sicher, wenn auf ihm nur eine Auswahl von Programmen läuft. Mit ein paar Tricks und c’t-Skripten schützt AppLocker Ihren heimischen Rechner.",
+      "url": "https://www.heise.de/ratgeber/Windows-absichern-mit-AppLocker-9245853.html",
+      "image_title": ", Albert Hulm"
     },
     {
-      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
-      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
-      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
+      "title": "Windows: Schutz vor Schadsoftware mit AppLocker und Whitelisting",
+      "teaser": "Dass Windows nur Programme ausführen darf, die Sie zuvor erlaubt haben, erhöht den Schutz vor Schadsoftware. Was dafür nötig ist, habt man von Haus aus an Bord.",
+      "url": "https://www.heise.de/ratgeber/Windows-Schutz-vor-Schadsoftware-mit-AppLocker-und-Whitelisting-9244342.html",
+      "image_title": ", Albert Hulm"
+    },
+    {
+      "title": "Rudel aus High-Tech-Hunden bewegt tonnenschwere Lasten",
+      "teaser": "Ein Karlsruher Start-Up entwickelt ein modulares Transportsystem, das den Umzug und Austausch von schweren Anlagen erleichtern soll.",
+      "url": "https://www.heise.de/hintergrund/Rudel-aus-High-Tech-Hunden-bewegt-tonnenschwere-Lasten-9284074.html"
+    },
+    {
+      "title": "Landesregierung Hessen will reflektierten Umgang mit KI im Unterricht",
+      "teaser": "Mit einer Handreichung für Lehrkräfte hat Hessen bereits Material für den Umgang mit KI in Schulen erstellt. Ihre Haltung wiederholte die Landesregierung nun.",
+      "url": "https://www.heise.de/news/Landesregierung-Hessen-will-reflektierten-Umgang-mit-KI-im-Unterricht-9284492.html",
+      "image_title": "Chatgpt,Artificial,Intelligence,Chatbot,App,On,The,Smartphone,Screen.,Blue"
+    },
+    {
+      "title": "Windows absichern per Whitelisting: Wie Sie Restric’tor einrichten und verwenden",
+      "teaser": "Mit Software Restriction Policies (SRPs) starten Anwendungen erst nach vorheriger Genehmigung. Diese verwalten Sie bequem mit unserem Werkzeug Restric’tor.",
+      "url": "https://www.heise.de/ratgeber/Windows-absichern-per-Whitelisting-Wie-Sie-Restric-tor-einrichten-und-verwenden-9244101.html",
+      "image_title": ", Albert Hulm"
     },
     {
       "title": "Wie die Auswirkungen von Strompreiszonen und Netzentgelten aussehen",
@@ -98,6 +117,16 @@
       "url": "https://www.heise.de/news/MIT-macht-Tailsitter-Drohnen-manoevrierbarer-9283377.html"
     },
     {
+      "title": "GitOps: Repository-Strukturen und -Patterns in der Theorie",
+      "teaser": "Ist die Einführung von GitOps beschlossen und der Operator ausgewählt, wird der Prozess entworfen. Definierte Repository-Patterns geben Orientierungshilfe.",
+      "url": "https://www.heise.de/hintergrund/GitOps-Repository-Strukturen-und-Patterns-in-der-Theorie-9247815.html"
+    },
+    {
+      "title": "Secrets Management für GitOps: Wie Sie Zugangsdaten in Git aufbewahren können",
+      "teaser": "Ob mit oder ohne Kubernetes: Konfigurationen an einem zentralen Ort zu speichern, hat sich bewährt. Doch wohin mit den Zugangsdaten?",
+      "url": "https://www.heise.de/hintergrund/Secrets-Management-fuer-GitOps-Wie-Sie-Zugangsdaten-in-Git-aufbewahren-koennen-9245802.html"
+    },
+    {
       "title": "GitOps-Tools im detaillierten Vergleich: Argo CD und Flux",
       "teaser": "Wer seine Kubernetes-Umgebung auf GitOps umstellt, benötigt einen passenden GitOps-Operator, wie Argo CD oder Flux.Wir besprechen die Features und Unterschiede.",
       "url": "https://www.heise.de/hintergrund/GitOps-Tools-im-detaillierten-Vergleich-Argo-CD-und-Flux-9245592.html"
@@ -107,34 +136,6 @@
       "teaser": "Mit dem KI-Framework TensorFlow Lite beziehungsweise TensorFlow Lite for Microcontrollers lassen sich KNN-Inferenzmodelle auch auf Kleinstgeräten ausführen.",
       "url": "https://www.heise.de/hintergrund/Edge-AI-TinyML-und-TensorFlow-Lite-Teil-2-9238381.html",
       "image_title": "Edge AI"
-    },
-    {
-      "title": "Firefox: Alle Tabs als Lesezeichen",
-      "teaser": "Ich habe in Firefox ein Fenster mit vielen Tabs offen und würde sie gern alle auf einen Schlag als Bookmark speichern.",
-      "url": "https://www.heise.de/ratgeber/Firefox-Alle-Tabs-als-Lesezeichen-9236133.html"
-    },
-    {
-      "title": "Quantencomputer-resistent: Google veröffentlicht sicherere Fido2-Implementierung",
-      "teaser": "Gemeinsam mit der ETH Zürich entwickelte Google erstmals eine Fido2-Implementierung, die Angriffen von Quantencomputern trotzen soll.",
-      "url": "https://www.heise.de/news/Google-veroeffentlicht-erste-Quantencomputer-resistente-Fido2-Implementierung-9283078.html"
-    },
-    {
-      "title": "Buch oder Bildschirm? Welchen Einfluss das Medium auf das Lesenlernen hat",
-      "teaser": "Digitale Medien verändern, wie wir lesen – und wie unsere Kinder in der Schule lesen lernen. Ob das nun gut ist oder schlecht, hängt nicht nur von der Dosis ab.",
-      "url": "https://www.heise.de/hintergrund/Buch-oder-Bildschirm-Welchen-Einfluss-das-Medium-auf-das-Lesenlernen-hat-9282234.html",
-      "image_title": "Junge tippt unter einer Bettdecke lächelnd am Smartphone"
-    },
-    {
-      "title": "Chandrayaan-3: Indiens Mondsonde auf dem Mond gelandet",
-      "teaser": "Indien ist die vierte Nation, der es gelungen ist, eine Mondsonde auf dem Erdtrabanten zu landen. Jetzt beginnt die Erkundungsmission am Südpol.",
-      "url": "https://www.heise.de/news/Indiens-Mondsonde-Chandrayaan-3-auf-dem-Mond-gelandet-9282985.html",
-      "image_title": "Anspannung im Kontrollzentrum während des Landeanflugs"
-    },
-    {
-      "title": "Simulation: Schwarze Löcher können 10 Prozent der Lichtgeschwindigkeit erreichen",
-      "teaser": "Ein Schwarzes Loch, das aus einer Kollision zweier Vorgänger entsteht, kann extrem schnell werden. Nun wurde mit Simulationen ermittelt, wie schnell genau.",
-      "url": "https://www.heise.de/news/Simulation-Schwarze-Loecher-koennen-10-Prozent-der-Lichtgeschwindigkeit-erreichen-9282858.html",
-      "image_title": "Künstlerische Darstellung eines Schwarzen Lochs im All"
     }
   ]
 }
