@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-26T15:09:43",
+  "timestamp": "2023-08-26T16:12:10",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.9eaa4e1326041b6b738f.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -170,32 +176,43 @@
   ],
   "articles": [
     {
+      "title": "Aiwanger wehrt sich : Antisemitisches Flugblatt hat jemand anderes verfasst",
+      "url": "https://www.faz.net/aktuell/politik/inland/antisemitisches-flugblatt-aiwanger-verweist-auf-anderen-verfasser-19129452.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Währt sich gegen Vorwürfe: Hubert Aiwanger"
+    },
+    {
+      "title": "Wahlkampf in Bayern : Ein Bierzelt für Aiwanger im Landkreis Erding",
+      "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-im-landkreis-erding-wahlkampf-in-bayern-19088416.html"
+    },
+    {
       "title": "Jüngster Schweizergardist : „Es wäre mir eine Ehre, mein Leben für den Papst zu geben“",
       "url": "https://www.faz.net/aktuell/gesellschaft/menschen/juengster-schweizergardist-warum-er-sein-leben-fuer-den-papst-geben-wuerde-19128059.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die Schweizer Gardisten schützen das Leben des Papstes."
     },
     {
-      "title": "Ungesunde Ernährung : Deutschlands süße Krise",
-      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ernaehrung-warum-jeder-zweite-deutsche-uebergewicht-hat-19112823.html",
+      "title": "Fußball-Bundesliga : Dortmund hadert nach schwachem Spiel in Bochum",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-in-bundesliga-borussia-dortmund-gegen-vfl-bochum-mit-1-1-19098216.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Ungesundes Essen ist omnipräsent"
+      "image_title": "Emotionsgeladen: Dortmunds Felix Nmecha (rechts)"
     },
     {
-      "title": "Bundesliga im Liveticker : Was fällt dem BVB in der Schlussphase noch ein?",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Prigoschins Tod : Das Gesetz der Gewalt in Russland",
+      "title": "Doppelte Staatsbürgerschaft : Wer Deutscher werden darf",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/ausland/prigoschins-tod-gesetz-der-gewalt-in-putins-russland-19127599.html",
+      "url": "https://www.faz.net/aktuell/politik/inland/doppelte-staatsbuergerschaft-wer-deutscher-werden-darf-19127597.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Wohnungsmarkt : Schlecht für Mieter",
       "teaser": "Ein Kommentar von",
       "url": "https://www.faz.net/aktuell/finanzen/kommentar-schlecht-fuer-mieter-19128391.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Prigoschins Tod : Das Gesetz der Gewalt in Russland",
+      "teaser": "Ein Kommentar von",
+      "url": "https://www.faz.net/aktuell/politik/ausland/prigoschins-tod-gesetz-der-gewalt-in-putins-russland-19127599.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -242,10 +259,10 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Kein trauriges Bild : Der Mugshot könnte sich für Trump lohnen",
-      "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/gesellschaft/donald-trumps-mugshot-koennte-sich-fuer-ihn-lohnen-19128803.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "Ungesunde Ernährung : Deutschlands süße Krise",
+      "url": "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/ernaehrung-warum-jeder-zweite-deutsche-uebergewicht-hat-19112823.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ungesundes Essen ist omnipräsent"
     },
     {
       "title": "Pro Sieben Sat.1 : „Natürlich sind wir nicht begeistert“",
@@ -254,26 +271,18 @@
       "image_title": "TV ist schon längst nicht mehr linear."
     },
     {
-      "title": "Antisemitisches Flugblatt : Politiker verlangen von Aiwanger Aufklärung",
-      "url": "https://www.faz.net/aktuell/politik/inland/aiwanger-soll-als-schueler-antisemitisches-flugblatt-verfasst-haben-19129452.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Hubert Aiwanger spricht bei einer Demonstration gegen die Klimapolitik der Ampelregierung am 10. Juni 2023 in Erding."
-    },
-    {
       "title": "Wohnmobile von MB Rent : Mercedes miet",
       "url": "https://www.faz.net/aktuell/technik-motor/motor/mb-rent-bietet-jetzt-auch-grosse-wohnmobile-an-19116048.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Flexibel ins Vanlife-Abenteuer: Reisemobile von Mercedes-Benz können auch online gemietet werden."
     },
     {
-      "title": "Verstappen auf Pole Position : „Max macht keine Fehler“",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-max-verstappen-rast-zur-pole-position-in-zandvoort-19130007.html"
+      "title": "Simon Rolfes im Interview : „Die Spanier bilden besser aus“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusens-simon-rolfes-spanier-bilden-besser-aus-19124581.html"
     },
     {
-      "title": "Simon Rolfes im Interview : „Die Spanier bilden besser aus“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bayer-leverkusens-simon-rolfes-spanier-bilden-besser-aus-19124581.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "„Xabi ist eine Persönlichkeit, die stark reflektiert“, sagt Simon Rolfes über Xabi Alonso (links)."
+      "title": "Verstappen auf Pole Position : „Max macht keine Fehler“",
+      "url": "https://www.faz.net/aktuell/sport/formel-1/formel-1-max-verstappen-rast-zur-pole-position-in-zandvoort-19130007.html"
     },
     {
       "title": "IW-Untersuchung : Die deutsche Industrie kommt nicht voran",
@@ -286,15 +295,15 @@
       "image_title": "Beatrix von Storch (AfD) im März 2022 im Bundestag"
     },
     {
-      "title": "F.A.Z. Machtprobe : Starlink im Ukrainekrieg: Wie weit reicht die Macht von Elon Musk?",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/starlink-im-ukrainekrieg-wie-weit-reicht-die-macht-von-elon-musk-19129103.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
       "title": "Ukraine-Liveblog : London: Russland könnte Angriffe auf Kupjansk und Lyman verstärken",
       "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-london-russland-koennte-angriffe-auf-lyman-verstaerken-faz-19030454.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ein ukrainischer Soldat trägt eine Granate in Richtung einer Haubitze an der Frontlinie in den Außenbezirken von Lyman."
+    },
+    {
+      "title": "F.A.Z. Machtprobe : Starlink im Ukrainekrieg: Wie weit reicht die Macht von Elon Musk?",
+      "url": "https://www.faz.net/podcasts/f-a-z-podcast-machtprobe/starlink-im-ukrainekrieg-wie-weit-reicht-die-macht-von-elon-musk-19129103.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": "Russland : Die mysteriösen Todesfälle in der Elite",
@@ -303,20 +312,32 @@
       "image_title": "Helfer bergen Leichen aus dem abgestürzten Flugzeug von Jewgeni Prigoschin."
     },
     {
+      "title": "Musealer Fehlgriff : Lauranas Laura? Aber nicht doch!",
+      "url": "https://www.faz.net/aktuell/feuilleton/das-kunsthistorische-museum-wien-verbluefft-mit-steiler-these-19128727.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "„Weibliche Büste“ hieß es bisher, wenn man von Francesco Lauranas Marmorwerk sprach. Nun soll es die legendäre Laura sein. Im Wikipedia-Eintrag zu Petrarca wird die Skulptur schon wie das authentische Porträt seiner Muse gehandelt."
+    },
+    {
       "title": "Zu Besuch bei Zwiesel Glas : Wie entsteht ein Weinglas der Extraklasse?",
       "url": "https://www.faz.net/aktuell/stil/essen-trinken/getraenke/wie-entsteht-ein-weinglas-der-extraklasse-19125424.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Handarbeit bei Höllenhitze: Glasbläser in der Manufaktur von Zwiesel Kristallglas im Bayerischen Wald."
     },
     {
-      "title": "Arthur Schopenhauer : Die Welt ist schlecht und wird es immer bleiben",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-philosoph-schopenhauer-die-welt-ist-schlecht-und-wird-es-immer-bleiben-19120918.html",
+      "title": "Union besiegt Darmstadt 4:1 : Nationalspieler Gosens trifft beim Startelfdebüt zweimal",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-union-berlin-besiegt-darmstadt-4-1-19098214.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Arthur Schopenhauer, 1788–1860"
+      "image_title": "Doppelt erfolgreich in Darmstadt: Robin Gosens"
     },
     {
-      "title": "Analyse des Ressentiments : Wenn der Mensch den Hass auf alles genießt",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/sachbuch/cynthia-fleurys-buch-hier-liegt-bitterkeit-begraben-19120678.html"
+      "title": "Hoffenheim trifft drei Mal : Heidenheimer Frust nach wilder Schlussphase",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-heidenheim-verliert-erstes-bundesliga-heimspiel-gegen-hoffenheim-2-3-19098210.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Kein Sieg im ersten Bundesliga-Heimspiel: Heidenheim und Trainer Frank Schmidt (links)"
+    },
+    {
+      "title": "Arthur Schopenhauer : Die Welt ist schlecht und wird es immer bleiben",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-philosoph-schopenhauer-die-welt-ist-schlecht-und-wird-es-immer-bleiben-19120918.html"
     },
     {
       "title": "Rheinland-Pfalz : Mutmaßlich illegales Autorennen – Fußgänger getötet",
@@ -347,15 +368,15 @@
       "image_title": "Nina Schwichtenberg, 32, mit ihrem Partner Patrick Kahlo nach dem Umzug auf Bali"
     },
     {
+      "title": ": Nach Bränden auf Maui: Weiterhin Hunderte Menschen vermisst",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
       "title": ": Spaniens Nationalspielerinnen treten in den Streik",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": ": Kampf gegen Inflation: Fed-Chef Powell hält weitere Zinserhöhungen offen",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": ": Rubiales nach Kuss-Skandal: „Ich werde nicht zurücktreten“",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -413,16 +434,22 @@
       "image_title": "Ein wenig schwärmen ist ok: Xhaka"
     },
     {
-      "title": "Zweite Fußball-Bundesliga : Hertha BSC gelingt beim 5:0 gegen Fürth fast alles",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-hertha-bsc-gelingt-beim-5-0-gegen-fuerth-fast-alles-19083939.html",
+      "title": "Freiburg siegt dank Philipp : „Er kann es, hat es in sich – das wussten wir immer“",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-freiburg-besiegt-bremen-durch-tor-von-philipp-19098218.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Geschafft: Die Hertha hat nach dem Abstieg in die zweite Liga den ersten Sieg eingefahren."
+      "image_title": "Einmal drücken bitte: Die Freiburger Mannschaftskollegen freuen sich mit dem Torschützen Maximilian Philipp (links)."
     },
     {
-      "title": "Nach Kuss-Eklat bei Fußball-WM : Hermoso fühlte sich als „Opfer eines Übergriffs“",
-      "url": "https://www.faz.net/aktuell/sport/fussball/luis-rubiales-verweigert-ruecktritt-spanierinnen-treten-in-streik-19128407.html",
+      "title": "EM-Aus der Hockey-Herren : „Das hat mir das Herz zerrissen“",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/deutschland-bei-hockey-em-gegen-england-ausgeschieden-19130245.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Will unter Luis Rubiales als Verbandschef nicht mehr spielen: Jennifer Hermoso"
+      "image_title": "Muss von Lukas Windfeder getröstet werden: Mats Grambusch (links)"
+    },
+    {
+      "title": "Prigoschins Tod : Das Gesetz der Gewalt in Russland",
+      "url": "https://www.faz.net/aktuell/politik/ausland/prigoschins-tod-gesetz-der-gewalt-in-putins-russland-19127599.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Radikalisierung des russischen Regimes: Präsident Wladimir Putin mit seinem früheren „Koch“, Jewgeni Prigoschin."
     },
     {
       "title": "Parteitag in Münster : Die NRW-SPD hat neue Vorsitzende",
@@ -441,12 +468,6 @@
       "url": "https://www.faz.net/aktuell/politik/inland/landkreise-fuer-kindergrundsicherung-auf-mindestmass-19130096.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Im Stress: Familienministerin Lisa Paus (Grüne) will mit aller Macht die Kindergrundsicherung durchsetzen."
-    },
-    {
-      "title": "Vorwahlen der Republikaner : Wie Trump verhindert werden könnte",
-      "url": "https://www.faz.net/aktuell/politik/ausland/us-wahlen-wie-trump-verhindert-werden-koennte-19127470.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Noch zu viele: Republikanische Bewerber bei der TV-Debatte"
     },
     {
       "title": "Flughafen bei Amsterdam : Schiphol meldet mehr Fluggäste – und das ganz ohne Chaos",
@@ -515,6 +536,12 @@
       "image_title": "US-Notenbankchef Jerome Powell bleibt bei seiner restriktiven Geldpolitik."
     },
     {
+      "title": "Analyse des Ressentiments : Wenn der Mensch den Hass auf alles genießt",
+      "url": "https://www.faz.net/aktuell/feuilleton/buecher/rezensionen/sachbuch/cynthia-fleurys-buch-hier-liegt-bitterkeit-begraben-19120678.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Politische Aspekte spielen bei ihr nur eine untergeordnete Rolle: Cynthia Fleury"
+    },
+    {
       "title": "Serie „Unsere Reisebegleiter“ : Griechische Wunder im späten Licht",
       "url": "https://www.faz.net/aktuell/feuilleton/unsere-reisebegleiter/mit-dem-antiken-reisefuehrer-pausanias-in-griechenland-19128025.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -531,12 +558,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/debatten/berg-karabach-genozid-an-den-armeniern-19125160.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Das armenische Dadiwank-Kloster in Berg-Karabach"
-    },
-    {
-      "title": "CHART Art Fair in Kopenhagen : Ganz entspannt zur Kunst finden",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/chart-art-fair-in-kopenhagen-19128227/wieder-im-schloss-19128217.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wieder im Schloss Charlottenborg in Kopenhagen: die CHART Art Fair 2023"
     },
     {
       "title": "Arbeiten im grünen Bereich (9) : Zwischen Blog und Balkon",
@@ -599,6 +620,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Schwaben : Unwetter in Bayern wirft Bierzelt um – rund 30 Verletzte",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/unwetter-in-bayern-wirft-bierzelt-um-rund-30-verletzte-19130593.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Ein Rettungswagen fährt mit Blaulicht (Symbolbild)"
+    },
+    {
       "title": "Mallorca : Briten wegen mutmaßlicher Gruppenvergewaltigung festgenommen",
       "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/gruppenvergewaltigung-auf-mallorca-briten-festgenommen-19130254.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -615,12 +642,6 @@
       "url": "https://www.faz.net/aktuell/gesellschaft/tiere/feuerwehr-rettet-hund-aus-sechs-meter-tiefem-erdloch-19129619.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Nach sechs Stunden war es endlich so weit: Die Feuerwehr übergab den Vierbeiner wohlbehalten seiner Besitzerin."
-    },
-    {
-      "title": "Prozess um sexuelle Nötigung : Hat sie sich den Übergriff ausgedacht?",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/prozess-um-sexuelle-noetigung-hat-sie-sich-den-uebergriff-ausgedacht-19128932.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Am Ende wird das Amtsgericht urteilen müssen: Wie der Prozess ausgeht, ist unklar."
     },
     {
       "title": "Neue Naturfaser im Test : Heute das T-Shirt für morgen",
@@ -934,6 +955,12 @@
       "image_title": "Zum Glück ein Zuhause: Eine zehn Jahre alte Bewohnerin des Monikahauses steht in ihrem Zimmer, das sie selbst dekoriert hat."
     },
     {
+      "title": "CHART Art Fair in Kopenhagen : Ganz entspannt zur Kunst finden",
+      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/chart-art-fair-in-kopenhagen-19128227/wieder-im-schloss-19128217.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wieder im Schloss Charlottenborg in Kopenhagen: die CHART Art Fair 2023"
+    },
+    {
       "title": "Pablo Picassos Sohn : Claude Picasso gestorben",
       "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/claude-picasso-gestorben-19127542.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -944,12 +971,6 @@
       "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/auf-den-spuren-des-kunsthaendlers-richard-owen-19112600.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Am Quai Voltaire, wo heute immer noch Bouquinisten ihre Bücher feilbieten, unterhielt Richard Owen eine Galerie: Aufnahme von um 1930"
-    },
-    {
-      "title": "Raubkunst oder nicht? : Selig sind, die genau wissen, was sie versteigern",
-      "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/bergpredigt-aus-dem-fuehrerbau-kommt-zur-auktion-19120800.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Unklar: Wem gehörte die „Bergpredigt“ von Frans Francken d.J vor 1943?"
     },
     {
       "title": "Mietmarkt für Berufseinsteiger : Die Vermietung lohnt nicht mehr",
