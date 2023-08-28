@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-28T07:10:39",
+  "timestamp": "2023-08-28T08:14:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Drupal-Plug-ins",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Drupal-Plug-ins-mit-Schadcode-Luecken-9286388.html"
+    },
+    {
       "title": "Barracuda ESG",
       "url": "https://www.heise.de/news/FBI-Warnung-Barracuda-ESG-Appliances-noch-immer-bedroht-umgehend-entfernen-9284695.html"
     },
@@ -44,19 +48,9 @@
       "url": "https://www.heise.de/news/IBM-Security-Guardium-Angreifer-koennen-Log-in-Daten-leaken-9284563.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-DoS-Attacken-auf-Firewalls-und-Switches-von-Cisco-moeglich-9283445.html"
-    },
-    {
-      "title": "Update korrigiert Verschlüsselung von Qnap-Betriebssystemen",
-      "teaser": "Qnap hat aktualisierte Versionen der QTS- und QuTS hero-Betriebssysteme veröffentlicht. Sie korrigieren unter anderem zu schwache Verschlüsselung.",
-      "url": "https://www.heise.de/news/Qnap-Betriebssystem-schlampt-bei-Verschluesselung-9286394.html"
-    },
-    {
-      "title": "Stalkerware-Anbieter gehackt: Opfer entfernt, Daten zur Kundschaft geleakt",
-      "teaser": "Ein Anbieter von Stalkerware wurde gehackt und Angreifer haben die Verbindungen zu den infizierten Geräten gekappt. Daten zur Kundschaft wurden dagegen geleakt.",
-      "url": "https://www.heise.de/news/Stalkerware-Anbieter-gehackt-Opfer-entfernt-Daten-zur-Kundschaft-geleakt-9286337.html",
-      "image_title": "Hände an Smartphone im Dunklen"
+      "title": "Sicherheitsupdates: Drupal-Plug-ins mit Schadcode-Lücken",
+      "teaser": "Wenn bestimmte Plug-ins zum Einsatz kommen, sind mit dem CMS Drupal erstellte Websites attackierbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Drupal-Plug-ins-mit-Schadcode-Luecken-9286388.html"
     },
     {
       "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern (10% Rabatt bis 10.9.)",
@@ -70,20 +64,25 @@
       "url": "https://www.heise.de/news/Schweiz-Daten-der-Militaerpolizei-im-Darknet-aufgetaucht-9286189.html"
     },
     {
-      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
-      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
-      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
-    },
-    {
       "title": "US-Antidrogenbehörde fällt auf Kryptowährungs-Scammer rein",
       "teaser": "Statt an den US Marshals Service schickte die US-Drogenbekämpfungsbehörde DEA versehentlich 55.000 US-Dollar in Tether auf eine Adresse von Scammern.",
       "url": "https://www.heise.de/news/US-Antidrogenbehoerde-faellt-auf-Kryptowaehrungs-Scammer-rein-9285903.html"
+    },
+    {
+      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
+      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
+      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
     },
     {
       "title": "Wie Tastatursoftware die Privatsphäre Hunderter Millionen Chinesen gefährdet",
       "teaser": "Apps von Drittanbietern machen das Tippen auf Chinesisch auf PC oder Smartphone zwar effizienter, sind aber auch ein Alptraum für den Datenschutz der Nutzer.",
       "url": "https://www.heise.de/hintergrund/Wie-Tastatursoftware-die-Privatsphaere-Hunderter-Millionen-Chinesen-gefaehrdet-9282943.html",
       "image_title": "Frau mit Smartphone in China"
+    },
+    {
+      "title": "FBI-Warnung: Barracuda ESG-Updates unwirksam, Appliances sofort entfernen",
+      "teaser": "Das FBI warnt vor den Barracuda-ESG-Schwachstellen, die Ende Mai bekannt wurden. Es geht davon aus, dass alle Geräte kompromittiert seien.",
+      "url": "https://www.heise.de/news/FBI-Warnung-Barracuda-ESG-Appliances-noch-immer-bedroht-umgehend-entfernen-9284695.html"
     },
     {
       "title": "Jetzt patchen! Angreifer platzieren Backdoors auf Openfire-Servern",
@@ -95,6 +94,11 @@
       "teaser": "IBM hat wichtige Sicherheitspatches für Security Guardium und Security Verify Access veröffentlicht.",
       "url": "https://www.heise.de/news/IBM-Security-Guardium-Angreifer-koennen-Log-in-Daten-leaken-9284563.html",
       "image_title": "Bucharest,,Romania,-,June,06,,2019:,The,Ibm,Logo,Is"
+    },
+    {
+      "title": "Windows-Update-Vorschau: Möglicher Boot-Abbruch wegen nicht unterstützter CPU",
+      "teaser": "Nach der Installation der Windows-Update-Vorschauen kann es zum Abbruch des Bootvorgangs mit einer Fehlermeldung bezüglich der CPU kommen.",
+      "url": "https://www.heise.de/news/Microsoft-Update-Vorschauen-koennen-mit-Fehlermeldung-Bootvorgang-abbrechen-9284551.html"
     },
     {
       "title": "Last Call: Webinar-Serie Ethical Hacking für Admins – Lerne Pentesting und mehr",
@@ -154,11 +158,6 @@
       "teaser": "Im iX-Workshop \"Cybersicherheit: Awareness richtig gemacht\" lernen Sie hands-on, wie Sie im eigenen Unternehmen nachhaltige Awareness-Kampagnen umsetzen.",
       "url": "https://www.heise.de/news/Awareness-fuer-Cybersicherheit-im-Unternehmen-staerken-ein-Praxisworkshop-der-iX-9245859.html",
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
-    },
-    {
-      "title": "Asustor: Schwachstellen im NAS-Betriebssystem ermöglichen Übernahme",
-      "teaser": "Das NAS-Betriebssystem Asustor Data Master enthält Sicherheitslücken, die Angreifern aus dem Netz die Übernahme ermöglichen. Ein Update ist verfügbar.",
-      "url": "https://www.heise.de/news/Asustor-Schwachstellen-im-NAS-Betriebssystem-ermoeglichen-Uebernahme-9282503.html"
     },
     {
       "title": "heise Security Tour 2023",
