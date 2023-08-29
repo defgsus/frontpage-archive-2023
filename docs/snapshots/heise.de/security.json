@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-29T09:11:06",
+  "timestamp": "2023-08-29T10:11:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zoho ManageEngine",
+      "url": "https://www.heise.de/news/Zoho-ManageEngine-Umgehung-der-Mehrfaktorauthentifizierung-in-vielen-Produkten-9287917.html"
+    },
+    {
       "title": "Juniper",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-legt-Attacken-auf-Juniper-Firewalls-nahe-9287740.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Drupal-Plug-ins-mit-Schadcode-Luecken-9286388.html"
     },
     {
-      "title": "Barracuda ESG",
-      "url": "https://www.heise.de/news/FBI-Warnung-Barracuda-ESG-Appliances-noch-immer-bedroht-umgehend-entfernen-9284695.html"
+      "title": "Zoho ManageEngine: Schwachstelle erlaubt Umgehen von Mehrfaktorauthentifizierung",
+      "teaser": "In diversen Zoho ManageEngine-Produkten können Angreifer aufgrund einer Sicherheitslücke die Mehrfaktorauthentifizierung umgehen. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/Zoho-ManageEngine-Umgehung-der-Mehrfaktorauthentifizierung-in-vielen-Produkten-9287917.html"
     },
     {
       "title": "Jetzt patchen! Exploitcode legt Attacken auf Juniper-Firewalls nahe",
@@ -65,14 +70,14 @@
       "image_title": "Hacker,Commits,Computer,Crime,Online"
     },
     {
-      "title": "Stalker-Malware: Whiffy Recon schnüffelt Standort alle 60 Sekunden aus",
-      "teaser": "Eine Malware namens Whiffy Recon überprüft alle 60 Sekunden den Standort des infizierten Geräts. Es bleibt unklar, wozu.",
-      "url": "https://www.heise.de/news/Malware-Whiffy-Recon-spioniert-Ort-des-infizierten-Geraets-aus-9286754.html"
-    },
-    {
       "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
       "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
       "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
+    },
+    {
+      "title": "Stalker-Malware: Whiffy Recon schnüffelt Standort alle 60 Sekunden aus",
+      "teaser": "Eine Malware namens Whiffy Recon überprüft alle 60 Sekunden den Standort des infizierten Geräts. Es bleibt unklar, wozu.",
+      "url": "https://www.heise.de/news/Malware-Whiffy-Recon-spioniert-Ort-des-infizierten-Geraets-aus-9286754.html"
     },
     {
       "title": "MOVEit: 10 Millionen Datensätze bei französischem Arbeitsamt geleakt",
@@ -154,11 +159,6 @@
       "title": "WinRAR-Lücke weitreichender als gedacht",
       "teaser": "Am Wochenende wurde eine Sicherheitslücke in WinRAR bekannt. Die wirkt sich auf andere Software aus. Zudem gibt es weitere, bereits missbrauchte Lecks darin.",
       "url": "https://www.heise.de/news/WinRAR-Luecke-weitreichender-als-gedacht-9283622.html"
-    },
-    {
-      "title": "Microsoft: Windows-Update-Vorschauen schützen vor Downfall-CPU-Lücke",
-      "teaser": "Microsoft hat die Vorschauen auf die Windows-Updates im September veröffentlicht. Sie bringen Gegenmaßnahmen für die Downfall-Intel-CPU-Lücke mit.",
-      "url": "https://www.heise.de/news/Microsoft-Windows-Update-Vorschauen-schuetzen-vor-Downfall-CPU-Luecke-9283485.html"
     },
     {
       "title": "heise Security Tour 2023",
