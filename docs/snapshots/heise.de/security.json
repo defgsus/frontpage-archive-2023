@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-29T07:10:31",
+  "timestamp": "2023-08-29T08:14:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Juniper",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-legt-Attacken-auf-Juniper-Firewalls-nahe-9287740.html"
+    },
+    {
+      "title": "7-Zip",
+      "url": "https://www.heise.de/news/Jetzt-updaten-Hochriskante-Sicherheitsluecken-in-7-Zip-ermoeglichen-Codeschmuggel-9287669.html"
+    },
+    {
       "title": "Drupal-Plug-ins",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Drupal-Plug-ins-mit-Schadcode-Luecken-9286388.html"
     },
@@ -40,12 +48,9 @@
       "url": "https://www.heise.de/news/FBI-Warnung-Barracuda-ESG-Appliances-noch-immer-bedroht-umgehend-entfernen-9284695.html"
     },
     {
-      "title": "Openfire-Server",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-platzieren-Backdoors-auf-Openfire-Servern-9284656.html"
-    },
-    {
-      "title": "IBM",
-      "url": "https://www.heise.de/news/IBM-Security-Guardium-Angreifer-koennen-Log-in-Daten-leaken-9284563.html"
+      "title": "Jetzt patchen! Exploitcode legt Attacken auf Juniper-Firewalls nahe",
+      "teaser": "Sicherheitsforscher haben Schwachstellen in Juniper Firewalls und Switches dokumentiert. Das können Angreifer nun missbrauchen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-legt-Attacken-auf-Juniper-Firewalls-nahe-9287740.html"
     },
     {
       "title": "Bundesinnenministerium: Komplexes Netzwerk verbreitet russische Desinformation",
@@ -65,20 +70,26 @@
       "url": "https://www.heise.de/news/Malware-Whiffy-Recon-spioniert-Ort-des-infizierten-Geraets-aus-9286754.html"
     },
     {
+      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
+      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
+      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
+    },
+    {
       "title": "MOVEit: 10 Millionen Datensätze bei französischem Arbeitsamt geleakt",
       "teaser": "Die Folgen der MOVEit-Sicherheitslücke sind noch immer nicht ausgestanden. Beim französischen Arbeitsamt wurden bis zu 10 Millionen Datensätze dadurch kopiert.",
       "url": "https://www.heise.de/news/MOVEit-Luecke-Franzoesisches-Arbeitsamt-verliert-10-Millionen-Datensaetze-9286515.html",
       "image_title": "Closeup,Of,Laptop,Keyboard,Illumination,,Backlit,Keyboard"
     },
     {
-      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
-      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
-      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
-    },
-    {
       "title": "Sicherheitsupdates: Drupal-Plug-ins mit Schadcode-Lücken",
       "teaser": "Wenn bestimmte Plug-ins zum Einsatz kommen, sind mit dem CMS Drupal erstellte Websites attackierbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Drupal-Plug-ins-mit-Schadcode-Luecken-9286388.html"
+    },
+    {
+      "title": "Stalkerware-Anbieter gehackt: Opfer entfernt, Daten zur Kundschaft geleakt",
+      "teaser": "Ein Anbieter von Stalkerware wurde gehackt und Angreifer haben die Verbindungen zu den infizierten Geräten gekappt. Daten zur Kundschaft wurden dagegen geleakt.",
+      "url": "https://www.heise.de/news/Stalkerware-Anbieter-gehackt-Opfer-entfernt-Daten-zur-Kundschaft-geleakt-9286337.html",
+      "image_title": "Hände an Smartphone im Dunklen"
     },
     {
       "title": "iX-Workshop: Windows 10 und 11 im Unternehmen absichern (10% Rabatt bis 10.9.)",
@@ -148,17 +159,6 @@
       "title": "Microsoft: Windows-Update-Vorschauen schützen vor Downfall-CPU-Lücke",
       "teaser": "Microsoft hat die Vorschauen auf die Windows-Updates im September veröffentlicht. Sie bringen Gegenmaßnahmen für die Downfall-Intel-CPU-Lücke mit.",
       "url": "https://www.heise.de/news/Microsoft-Windows-Update-Vorschauen-schuetzen-vor-Downfall-CPU-Luecke-9283485.html"
-    },
-    {
-      "title": "2,6 Millionen Datensätze von Duolingo-Nutzern bei Have I Been Pwned",
-      "teaser": "Have I Been Pwned hat der Datensammlung 2,6 Millionen Datensätze von Duolingo hinzugefügt. Diese waren im digitalen Untergrund aufgetaucht.",
-      "url": "https://www.heise.de/news/2-6-Millionen-Datensaetze-von-Duolingo-Nutzern-bei-Have-I-Been-Pwned-9283391.html"
-    },
-    {
-      "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Sie Ihre Entra ID (Azure Active Directory) einschließlich der Azure-Dienste härten und effektiv gegen Angriffe schützen. Rabatt bis 07.09.",
-      "url": "https://www.heise.de/news/iX-Workshop-Entra-ID-Azure-Active-Directory-gegen-Angriffe-absichern-9247507.html",
-      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "heise Security Tour 2023",
