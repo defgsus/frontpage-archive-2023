@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-29T16:14:59",
+  "timestamp": "2023-08-29T17:10:40",
   "url": "https://www.zeit.de/sinn/index",
   "response": {
     "status": 200
@@ -50,11 +50,18 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Erforschung der Familiengeschichte: Die Toten wohnen in den Anekdoten",
-      "teaser": "Unser Autor war bei einem Familientreffen und beugte sich über alte Bilder. Jetzt fragt er sich: Was fasziniert uns so an unseren Vorfahren?",
-      "url": "https://www.zeit.de/2023/36/familiengeschichte-erforschung-erinnerung-fotos",
-      "image_url": "https://img.zeit.de/2023/36/die-toten-wohnen-in-den-anekdoten-bild-1/cinema__980x420",
-      "image_title": "Erforschung der Familiengeschichte: Die Toten wohnen in den Anekdoten"
+      "title": "Z+ (abopflichtiger Inhalt); Johannes Schröder: \"Wohltuend wären Lehrkräfte, die mal gescheitert sind\"",
+      "teaser": "Johannes Schröder hasste Notengeben und Konferenzen. Er gab den Lehrerberuf auf und wurde Comedian. Wann lernt man wirklich was fürs Leben?",
+      "url": "https://www.zeit.de/2023/36/johannes-schroeder-lernen-schule-berufswechsel",
+      "image_url": "https://img.zeit.de/2023/36/wohltuend-waeren-lehrkraefte-die-mal-gescheitert-sind-bild-1/cinema__980x420",
+      "image_title": "Johannes Schröder: \"Wohltuend wären Lehrkräfte, die mal gescheitert sind\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hunde und Menschen: Sitz, Platz, Zuhaus",
+      "teaser": "Die eine ist für ihren Hund aus der Ukraine geflohen, die andere wäre ohne ihren womöglich tot. Sie wurden Freunde, weil sie ihre Tiere wichtiger nehmen als sich selbst.",
+      "url": "https://www.zeit.de/sinn/2023-08/hunde-menschen-liebe-ukraine-lebensrettung",
+      "image_url": "https://img.zeit.de/sinn/2023-08/hunde-menschen-liebe-ukraine-lebensrettung-2/wide__822x462",
+      "image_title": "Hunde und Menschen: Sitz, Platz, Zuhaus"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Russin in Kiew: \"Da wusste ich: Ich muss weg\"",
@@ -62,13 +69,6 @@
       "url": "https://www.zeit.de/2023/36/russin-kiew-nationalitaet-scham",
       "image_url": "https://img.zeit.de/2023/36/da-wusste-ich-ich-muss-weg-bild-2/wide__822x462",
       "image_title": "Russin in Kiew: \"Da wusste ich: Ich muss weg\""
-    },
-    {
-      "title": "Spiritualität von Yoga: \"Yoga wird in unserer westlichen Welt zum Sport degradiert\"",
-      "teaser": "Philipp Ernst Lemke bildet Yoga-Lehrerinnen und -Lehrer aus. Den Hype um die Lehre sieht er kritisch und wünscht sich mehr Spiritualität.",
-      "url": "https://www.zeit.de/2023/36/yoga-spiritualitaet-sport-lehrer-ausbildung",
-      "image_url": "https://img.zeit.de/2023/36/yoga-wird-in-unserer-westlichen-welt-zum-sport-degradiert-bild-1/wide__822x462",
-      "image_title": "Spiritualität von Yoga: \"Yoga wird in unserer westlichen Welt zum Sport degradiert\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Besser Leben: Hat das Leben mehr Sinn, wenn wir weniger arbeiten?",
@@ -83,6 +83,20 @@
       "url": "https://www.zeit.de/sinn/2023-01/winter-depression-norwegen-natur",
       "image_url": "https://img.zeit.de/sinn/2023-01/winter-depression-norwegen-natur-bild/square__460x460",
       "image_title": "Winterdepression: Kann ich mich davor schützen, im Winter depressiv zu werden?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Erforschung der Familiengeschichte: Die Toten wohnen in den Anekdoten",
+      "teaser": "Unser Autor war bei einem Familientreffen und beugte sich über alte Bilder. Jetzt fragt er sich: Was fasziniert uns so an unseren Vorfahren?",
+      "url": "https://www.zeit.de/2023/36/familiengeschichte-erforschung-erinnerung-fotos",
+      "image_url": "https://img.zeit.de/2023/36/die-toten-wohnen-in-den-anekdoten-bild-1/wide__822x462",
+      "image_title": "Erforschung der Familiengeschichte: Die Toten wohnen in den Anekdoten"
+    },
+    {
+      "title": "Spiritualität von Yoga: \"Yoga wird in unserer westlichen Welt zum Sport degradiert\"",
+      "teaser": "Philipp Ernst Lemke bildet Yoga-Lehrerinnen und -Lehrer aus. Den Hype um die Lehre sieht er kritisch und wünscht sich mehr Spiritualität.",
+      "url": "https://www.zeit.de/2023/36/yoga-spiritualitaet-sport-lehrer-ausbildung",
+      "image_url": "https://img.zeit.de/2023/36/yoga-wird-in-unserer-westlichen-welt-zum-sport-degradiert-bild-1/wide__822x462",
+      "image_title": "Spiritualität von Yoga: \"Yoga wird in unserer westlichen Welt zum Sport degradiert\""
     },
     {
       "title": "Queere Kinder: Wie schütze ich mein Kind vor Anfeindungen?",
@@ -102,22 +116,8 @@
       "title": "Z+ (abopflichtiger Inhalt); Rente in Deutschland: Ruhesitz gesucht",
       "teaser": "Mieten, Pflegekosten, Energie: Alles wird teurer. Kann man sich Deutschland als Rentner überhaupt noch leisten? Dann doch besser auswandern.",
       "url": "https://www.zeit.de/2023/35/rente-deutschland-kosten-lebensstandard",
-      "image_url": "https://img.zeit.de/2023/35/ruhesitz-gesucht-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/35/ruhesitz-gesucht-bild-1/cinema__980x420",
       "image_title": "Rente in Deutschland: Ruhesitz gesucht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Neuanfang: Wie kann ich sicher sein, dass ein Neuanfang gelingt?",
-      "teaser": "Wer etwas grundlegend ändern will im Leben, schaut nach vorne. Für den Erfolg des Vorhabens ist es aber mindestens genauso wichtig, das Alte gut abzuschließen.",
-      "url": "https://www.zeit.de/2023/35/neuanfang-psychologie-aenderungen-leben",
-      "image_url": "https://img.zeit.de/2023/35/wie-kann-ich-sicher-sein-dass-ein-neuanfang-gelingt-bild-1/wide__822x462",
-      "image_title": "Neuanfang: Wie kann ich sicher sein, dass ein Neuanfang gelingt?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ikigai: \"Es hat mir geholfen, mich weniger in meine To-do-Listen zu verbeißen\"",
-      "teaser": "Erfüllung in den kleinen Dingen finden – in Japan heißt diese Lebensphilosophie Ikigai. Wie hilft sie im Alltag? Ein Gespräch mit der Psychologin Katharina Stenger",
-      "url": "https://www.zeit.de/2023/35/ikigai-lebensphilosophie-japan-psychologie-katharina-stenger",
-      "image_url": "https://img.zeit.de/2023/35/es-hat-mir-geholfen-mich-weniger-in-meine-to-do-listen-zu-verbeissen-bild-1/cinema__980x420",
-      "image_title": "Ikigai: \"Es hat mir geholfen, mich weniger in meine To-do-Listen zu verbeißen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Berufswechsel : \"Als Arzt war ich ständig pleite und gestresst\"",
@@ -141,18 +141,32 @@
       "image_title": "Kinderwunsch: \"Willst du ein Kind mit mir?\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Johannes Schröder: \"Wohltuend wären Lehrkräfte, die mal gescheitert sind\"",
-      "teaser": "Johannes Schröder hasste Notengeben und Konferenzen. Er gab den Lehrerberuf auf und wurde Comedian. Wann lernt man wirklich was fürs Leben?",
-      "url": "https://www.zeit.de/2023/36/johannes-schroeder-lernen-schule-berufswechsel",
-      "image_url": "https://img.zeit.de/2023/36/wohltuend-waeren-lehrkraefte-die-mal-gescheitert-sind-bild-1/square__460x460",
-      "image_title": "Johannes Schröder: \"Wohltuend wären Lehrkräfte, die mal gescheitert sind\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Dorothee Sölle: Wie wird man glücklich mit einer schwierigen Liebe?",
       "teaser": "Dorothee Sölle und Fulbert Steffensky waren ein berühmtes Theologenpaar. Jetzt blickt der 90-jährige Witwer zurück und verrät, wie Glück trotz großer Gegensätze gelingt.",
       "url": "https://www.zeit.de/2023/33/dorothee-soelle-fulbert-steffensky-theologie-evangelische-kirche",
       "image_url": "https://img.zeit.de/2023/33/dorothee-war-eine-harte-romantikerin-bild-1/square__460x460",
       "image_title": "Dorothee Sölle: Wie wird man glücklich mit einer schwierigen Liebe?"
+    },
+    {
+      "title": "Z+ (registrierungspflichtiger Inhalt); Rainald Grebe: \"Ich löffle jetzt Leinöl\"",
+      "teaser": "Rainald Grebe wurde bekannt mit bösen Liedern über Mittelschichtspärchen und Brandenburg. Jetzt wohnt er dort, hat eine Achtsamkeitsapp und geht zur Akupunktur.",
+      "url": "https://www.zeit.de/2023/32/rainald-grebe-gesundheit-glueck-lebenssinn-tod",
+      "image_url": "https://img.zeit.de/2023/32/ich-loeffle-jetzt-leinoel-bild-1/square__460x460",
+      "image_title": "Rainald Grebe: \"Ich löffle jetzt Leinöl\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Neuanfang: Wie kann ich sicher sein, dass ein Neuanfang gelingt?",
+      "teaser": "Wer etwas grundlegend ändern will im Leben, schaut nach vorne. Für den Erfolg des Vorhabens ist es aber mindestens genauso wichtig, das Alte gut abzuschließen.",
+      "url": "https://www.zeit.de/2023/35/neuanfang-psychologie-aenderungen-leben",
+      "image_url": "https://img.zeit.de/2023/35/wie-kann-ich-sicher-sein-dass-ein-neuanfang-gelingt-bild-1/wide__822x462",
+      "image_title": "Neuanfang: Wie kann ich sicher sein, dass ein Neuanfang gelingt?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Ikigai: \"Es hat mir geholfen, mich weniger in meine To-do-Listen zu verbeißen\"",
+      "teaser": "Erfüllung in den kleinen Dingen finden – in Japan heißt diese Lebensphilosophie Ikigai. Wie hilft sie im Alltag? Ein Gespräch mit der Psychologin Katharina Stenger",
+      "url": "https://www.zeit.de/2023/35/ikigai-lebensphilosophie-japan-psychologie-katharina-stenger",
+      "image_url": "https://img.zeit.de/2023/35/es-hat-mir-geholfen-mich-weniger-in-meine-to-do-listen-zu-verbeissen-bild-1/wide__822x462",
+      "image_title": "Ikigai: \"Es hat mir geholfen, mich weniger in meine To-do-Listen zu verbeißen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Körperbehaarung: \"Ich spüre ihre Blicke und dass Ekel darin liegt\"",
@@ -172,36 +186,29 @@
       "title": "Z+ (abopflichtiger Inhalt); Konzertbesuch: Heavy Metal gegen Depressionen",
       "teaser": "Nach einem Konzert fühlen sich viele Metal-Fans mental ausgeglichener als zuvor. Wie kann das sein? In der Szene werden psychische Erkrankungen offen thematisiert.",
       "url": "https://www.zeit.de/2023/34/konzertbesuch-heavy-metal-mentale-gesundheit",
-      "image_url": "https://img.zeit.de/2023/34/konzertbesuch-heavy-metal-mentale-gesundheit-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/34/konzertbesuch-heavy-metal-mentale-gesundheit-teaserbild/square__460x460",
       "image_title": "Konzertbesuch: Heavy Metal gegen Depressionen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Konversion zum Islam: Allahs Tochter",
       "teaser": "Als Lisa Thielsch 2015 Flüchtlingen half, dachte sie: Vielleicht wird sie einige der Neuankömmlinge von ihrem katholischen Glauben überzeugen. Doch dann kam es anders.",
       "url": "https://www.zeit.de/2023/33/konversion-islam-muslime-christentum-katholische-kirche",
-      "image_url": "https://img.zeit.de/2023/33/allahs-tochter-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/33/allahs-tochter-bild-1/square__460x460",
       "image_title": "Konversion zum Islam: Allahs Tochter"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Soziale Anerkennung: Ach, die Achtsamen",
       "teaser": "Die Nachbarn kaufen Meditationsbänkchen und Fairtrade-Kaffee, haben aber kein Herz für den Paketboten. Verlieren sie bei ihrer Sinnsuche den Menschen aus dem Blick?",
       "url": "https://www.zeit.de/2023/33/soziale-anerkennung-prenzlauer-berg-nachbarschaft-lieferboten-achtsamkeit",
-      "image_url": "https://img.zeit.de/2023/33/soziale-anerkennung-prenzlauer-berg-nachbarschaft-lieferboten-achtsamkeit-teaser/square__460x460",
+      "image_url": "https://img.zeit.de/2023/33/soziale-anerkennung-prenzlauer-berg-nachbarschaft-lieferboten-achtsamkeit-teaser/wide__822x462",
       "image_title": "Soziale Anerkennung: Ach, die Achtsamen"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Patrick Broome: \"Je ruhiger es in mir wird, desto intensiver spüre ich das Leben\"",
       "teaser": "Patrick Broome ist einer der bekanntesten Yogalehrer des Landes. Er weiß, wie man zur inneren Mitte findet und in welcher Position blockierte Energie wieder fließt.",
       "url": "https://www.zeit.de/sinn/2023-07/patrick-broome-yoga-koerper-entspannung",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/patrick-broome-yoga-koerper-entspannung-aufmacher/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/patrick-broome-yoga-koerper-entspannung-aufmacher/wide__822x462",
       "image_title": "Patrick Broome: \"Je ruhiger es in mir wird, desto intensiver spüre ich das Leben\""
-    },
-    {
-      "title": "Z+ (registrierungspflichtiger Inhalt); Rainald Grebe: \"Ich löffle jetzt Leinöl\"",
-      "teaser": "Rainald Grebe wurde bekannt mit bösen Liedern über Mittelschichtspärchen und Brandenburg. Jetzt wohnt er dort, hat eine Achtsamkeitsapp und geht zur Akupunktur.",
-      "url": "https://www.zeit.de/2023/32/rainald-grebe-gesundheit-glueck-lebenssinn-tod",
-      "image_url": "https://img.zeit.de/2023/32/ich-loeffle-jetzt-leinoel-bild-1/wide__822x462",
-      "image_title": "Rainald Grebe: \"Ich löffle jetzt Leinöl\""
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Glaube: Wie geht beten?",
@@ -209,13 +216,6 @@
       "url": "https://www.zeit.de/2023/31/glaube-beten-gott-dialog",
       "image_url": "https://img.zeit.de/2023/31/danke-lieber-gott-bild-1/wide__822x462",
       "image_title": "Glaube: Wie geht beten?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Urlaubshass: Ich hasse Urlaub",
-      "teaser": "Während alle in die Ferien fahren, bleibt unser Autor zu Hause. Was suchen die Leute bloß am Pool, am Strand und auf den Bergwiesen? Entspannung geht doch ganz anders.",
-      "url": "https://www.zeit.de/2023/31/urlaub-hass-druck-arbeit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-07/urlaub-hass-druck/wide__822x462",
-      "image_title": "Urlaubshass: Ich hasse Urlaub"
     }
   ]
 }
