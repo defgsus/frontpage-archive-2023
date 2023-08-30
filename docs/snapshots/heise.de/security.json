@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-30T06:14:27",
+  "timestamp": "2023-08-30T07:10:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Aria Operations for Networks",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-inV-Mware-Aria-Operations-for-Networks-9288934.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-stopft-hochriskante-Sicherheitsluecke-9288903.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Zoho-ManageEngine-Umgehung-der-Mehrfaktorauthentifizierung-in-vielen-Produkten-9287917.html"
     },
     {
-      "title": "Juniper",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Exploitcode-legt-Attacken-auf-Juniper-Firewalls-nahe-9287740.html"
+      "title": "Kritische Sicherheitslücke in VMware Aria Operations for Networks",
+      "teaser": "VMware schließt Sicherheitslücken in Aria Operations for Networks. Eine gilt als kritisch und erlaubt den Zugriff ohne Anmeldung.",
+      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-inV-Mware-Aria-Operations-for-Networks-9288934.html"
     },
     {
       "title": "Japan: Hacker monatelang in Systemen der Cyberabwehrbehörde",
@@ -64,14 +69,14 @@
       "url": "https://www.heise.de/news/Webbrowser-Firefox-117-ESR-115-2-und-ESR-102-15-dichten-Sicherheitslecks-ab-9288483.html"
     },
     {
-      "title": "MalDoc in PDF: Japanisches CERT warnt vor in PDFs versteckten Malware-Dokumenten",
-      "teaser": "Cyberkriminelle finden immer neue Wege, Malware vor der Erkennung zu verstecken. Das japanische CERT hat jetzt bösartige Word-Dokumente in PDFs gefunden.",
-      "url": "https://www.heise.de/news/MalDoc-in-PDF-Japanisches-CERT-warnt-vor-versteckter-Malware-9288262.html"
-    },
-    {
       "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
       "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
       "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
+      "title": "MalDoc in PDF: Japanisches CERT warnt vor in PDFs versteckten Malware-Dokumenten",
+      "teaser": "Cyberkriminelle finden immer neue Wege, Malware vor der Erkennung zu verstecken. Das japanische CERT hat jetzt bösartige Word-Dokumente in PDFs gefunden.",
+      "url": "https://www.heise.de/news/MalDoc-in-PDF-Japanisches-CERT-warnt-vor-versteckter-Malware-9288262.html"
     },
     {
       "title": "Zoho ManageEngine: Schwachstelle erlaubt Umgehen von Mehrfaktorauthentifizierung",
@@ -154,11 +159,6 @@
       "teaser": "IBM hat wichtige Sicherheitspatches für Security Guardium und Security Verify Access veröffentlicht.",
       "url": "https://www.heise.de/news/IBM-Security-Guardium-Angreifer-koennen-Log-in-Daten-leaken-9284563.html",
       "image_title": "Bucharest,,Romania,-,June,06,,2019:,The,Ibm,Logo,Is"
-    },
-    {
-      "title": "Windows-Update-Vorschau: Möglicher Boot-Abbruch wegen nicht unterstützter CPU",
-      "teaser": "Nach der Installation der Windows-Update-Vorschauen kann es zum Abbruch des Bootvorgangs mit einer Fehlermeldung bezüglich der CPU kommen.",
-      "url": "https://www.heise.de/news/Microsoft-Update-Vorschauen-koennen-mit-Fehlermeldung-Bootvorgang-abbrechen-9284551.html"
     },
     {
       "title": "heise Security Tour 2023",
