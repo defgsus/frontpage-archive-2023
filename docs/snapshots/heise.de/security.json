@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-30T08:14:20",
+  "timestamp": "2023-08-30T09:10:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Notepad+++",
+      "url": "https://www.heise.de/news/Entwickler-von-Notepad-ignoriert-offensichtlich-Sicherheitsluecken-9289124.html"
+    },
+    {
       "title": "VMware Aria Operations for Networks",
       "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-inV-Mware-Aria-Operations-for-Networks-9288934.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Webbrowser-Firefox-117-ESR-115-2-und-ESR-102-15-dichten-Sicherheitslecks-ab-9288483.html"
     },
     {
-      "title": "Zoho ManageEngine",
-      "url": "https://www.heise.de/news/Zoho-ManageEngine-Umgehung-der-Mehrfaktorauthentifizierung-in-vielen-Produkten-9287917.html"
+      "title": "Entwickler von Notepad++ ignoriert offensichtlich Sicherheitslücken",
+      "teaser": "Mehrere Sicherheitslücken gefährden den Texteditor Notepad++. Trotz Informationen zu den Lücken und möglichen Fixes steht ein Sicherheitsupdate noch aus.",
+      "url": "https://www.heise.de/news/Entwickler-von-Notepad-ignoriert-offensichtlich-Sicherheitsluecken-9289124.html"
     },
     {
       "title": "Botnet: Internationale Strafverfolger deinstallieren 700.000 Qakbot-Drohnen",
@@ -65,14 +70,14 @@
       "image_title": "Nahaufnahme der japanischen Flagge"
     },
     {
-      "title": "Webbrowser: Google-Chrome-Update stopft hochriskante Sicherheitslücke",
-      "teaser": "Google bessert im Webbrowser Chrome eine als hochriskant eingestufte Schwachstelle aus.",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-stopft-hochriskante-Sicherheitsluecke-9288903.html"
-    },
-    {
       "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
       "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
       "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
+    },
+    {
+      "title": "Webbrowser: Google-Chrome-Update stopft hochriskante Sicherheitslücke",
+      "teaser": "Google bessert im Webbrowser Chrome eine als hochriskant eingestufte Schwachstelle aus.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-stopft-hochriskante-Sicherheitsluecke-9288903.html"
     },
     {
       "title": "Webbrowser: Neue Firefox-Releases schließen mehrere Sicherheitslücken",
@@ -154,11 +159,6 @@
       "title": "FBI-Warnung: Barracuda ESG-Updates unwirksam, Appliances sofort entfernen",
       "teaser": "Das FBI warnt vor den Barracuda-ESG-Schwachstellen, die Ende Mai bekannt wurden. Es geht davon aus, dass alle Geräte kompromittiert seien.",
       "url": "https://www.heise.de/news/FBI-Warnung-Barracuda-ESG-Appliances-noch-immer-bedroht-umgehend-entfernen-9284695.html"
-    },
-    {
-      "title": "Jetzt patchen! Angreifer platzieren Backdoors auf Openfire-Servern",
-      "teaser": "Derzeit gibt es Attacken auf Openfire-Server. Patches sind verfügbar. IT-Sicherheitsforscher warnen vor tausenden angreifbaren Systemen.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-platzieren-Backdoors-auf-Openfire-Servern-9284656.html"
     },
     {
       "title": "heise Security Tour 2023",
