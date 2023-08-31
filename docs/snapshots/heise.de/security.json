@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-31T11:08:55",
+  "timestamp": "2023-08-31T12:20:48",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Tools",
+      "url": "https://www.heise.de/news/VMware-Tools-Schwachstelle-ermoeglicht-Angreifern-unbefugte-Aktionen-in-Gaesten-9290783.html"
+    },
+    {
       "title": "Splunk",
       "url": "https://www.heise.de/news/Big-Data-Splunk-dichtet-hochriskante-Luecken-ab-9290325.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Entwickler-von-Notepad-ignoriert-offensichtlich-Sicherheitsluecken-9289124.html"
     },
     {
-      "title": "VMware Aria Operations for Networks",
-      "url": "https://www.heise.de/news/Kritische-Sicherheitsluecke-inV-Mware-Aria-Operations-for-Networks-9288934.html"
+      "title": "VMware Tools: Schwachstelle ermöglicht Angreifern unbefugte Aktionen in Gästen",
+      "teaser": "VMware warnt vor einer Sicherheitslücke in VMware Tools. Sie ermöglicht eine Man-in-the-Middle-Attacke auf Gastsysteme.",
+      "url": "https://www.heise.de/news/VMware-Tools-Schwachstelle-ermoeglicht-Angreifern-unbefugte-Aktionen-in-Gaesten-9290783.html"
+    },
+    {
+      "title": "Letzte Chance: Die heise Security Tour 2023",
+      "teaser": "Zero Trust, KI, NIS2 und mehr. Die Eintages-Konferenz gibt Profis den Überblick der wichtigen Security-Themen – praxisorientiert und Hersteller-unabhängig.",
+      "url": "https://www.heise.de/news/Letzte-Chance-Die-heise-Security-Tour-2023-9289751.html",
+      "image_title": "heise Security Tour 2023"
     },
     {
       "title": "Big Data: Splunk dichtet hochriskante Lücken ab",
@@ -58,6 +69,11 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Attacken-auf-Aruba-Switches-moeglich-9290375.html"
     },
     {
+      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
+      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
+      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
       "title": "Android-Malware: Badbazaar wurde im Google Play Store und Samsung-Store verteilt",
       "teaser": "IT-Forscher haben aufgepeppte Signal- und Telegram-Apps im Google Play- und Samsung-Store entdeckt. Die spähen jedoch ihre Opfer aus.",
       "url": "https://www.heise.de/news/Android-Malware-Badbazaar-wurde-im-Google-Play-Store-und-Samsung-Store-verteilt-9290217.html"
@@ -67,11 +83,6 @@
       "teaser": "Nach dem Arne Schönbohm infolge einer ZDF-Sendung abberufen wurde, fordert er vom ZDF nun 100.000 Euro Schadenersatz. Dieses weist die Forderungen zurück.",
       "url": "https://www.heise.de/news/Ex-BSI-Praesident-Schoenbohm-fordert-100-000-Euro-Schadenersatz-vom-ZDF-9290044.html",
       "image_title": "Schönbohm"
-    },
-    {
-      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
-      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
-      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
     },
     {
       "title": "Cisco warnt vor Ransomware-Angriffen auf VPNs ohne Mehrfaktorauthentifizierung",
@@ -147,17 +158,6 @@
       "title": "Sicherheitsupdates: Drupal-Plug-ins mit Schadcode-Lücken",
       "teaser": "Wenn bestimmte Plug-ins zum Einsatz kommen, sind mit dem CMS Drupal erstellte Websites attackierbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Drupal-Plug-ins-mit-Schadcode-Luecken-9286388.html"
-    },
-    {
-      "title": "Update korrigiert Verschlüsselung von Qnap-Betriebssystemen",
-      "teaser": "Qnap hat aktualisierte Versionen der QTS- und QuTS hero-Betriebssysteme veröffentlicht. Sie korrigieren unter anderem zu schwache Verschlüsselung.",
-      "url": "https://www.heise.de/news/Qnap-Betriebssystem-schlampt-bei-Verschluesselung-9286394.html"
-    },
-    {
-      "title": "Stalkerware-Anbieter gehackt: Opfer entfernt, Daten zur Kundschaft geleakt",
-      "teaser": "Ein Anbieter von Stalkerware wurde gehackt und Angreifer haben die Verbindungen zu den infizierten Geräten gekappt. Daten zur Kundschaft wurden dagegen geleakt.",
-      "url": "https://www.heise.de/news/Stalkerware-Anbieter-gehackt-Opfer-entfernt-Daten-zur-Kundschaft-geleakt-9286337.html",
-      "image_title": "Hände an Smartphone im Dunklen"
     },
     {
       "title": "heise Security Tour 2023",
