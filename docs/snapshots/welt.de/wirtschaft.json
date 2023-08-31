@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-08-31T13:13:49",
+  "timestamp": "2023-08-31T14:10:36",
   "url": "https://www.welt.de/wirtschaft/",
   "response": {
     "status": 200
@@ -26,8 +26,16 @@
   ],
   "articles": [
     {
+      "title": "Karriere – Der WELT-Newsletter für Ihre Chance im Berufsleben",
+      "teaser": "Ob Student, Azubi oder Führungskraft: Der Newsletter für alle, die mehr wollen – vom Job, vom Gehalt, vom Leben. Immer montags, gleich zum Wochenstart.",
+      "url": "https://www.welt.de/newsletter/",
+      "image_url": "https://img.welt.de/img/newsletter/mobile247152996/5577933527-ci23x11-w20/NL-Karriere-Schnittbogen-jpg.jpg",
+      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
+      "author": "Judith Mischke"
+    },
+    {
       "title": "„Fetisch Privateigentum“ – ein Post und seine ungeahnten Folgen",
-      "teaser": "Die Ökonomin Claudia Kemfert veröffentlicht beim Tagesspiegel einen Gastbeitrag zum Thema Transformation. Der Text stößt auf geringes Interesse – bis ihr Institut den Text mit einem Post in den sozialen Medien bewirbt.",
+      "teaser": "Die Ökonomin Claudia Kemfert veröffentlicht im „Tagesspiegel“ einen Gastbeitrag zum Thema Transformation. Der Text stößt auf geringes Interesse – bis ihr Institut den Text mit einem Post in den sozialen Medien bewirbt.",
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile247216038/5627933997-ci23x11-w20/Greenpeace-Studie-Gruene-Konjunkturhilfen.jpg",
       "image_title": "Claudia Kemfert leitet beim Deutschen Institut für Wirtschaftsforschung (DIW) die Abteilung für Energie, Verkehr und Umwelt",
@@ -55,14 +63,6 @@
       "image_url": "https://img.welt.de/img/bildergalerien/mobile247028508/5837937477-ci23x11-w20/wirelane-e1684751203554.jpg",
       "image_title": "Eine Ladesäule des Münchener Anbieters Wirelane",
       "author": "GründerszeneDaniel Hüfner"
-    },
-    {
-      "title": "Dieses Gutachten offenbart einen gravierenden Fehler der Wärmewende",
-      "teaser": "Die Fahrpläne zum Bau kommunaler Wärmenetze sind ein entscheidender Bestandteil des Gebäudes-Energiegesetzes. Ein neues Rechtsgutachten zeigt jedoch einen groben Konflikt mit dem Wettbewerbsrecht auf. Dieser könnte den gesamten Zeitplan auf den Kopf stellen.",
-      "url": "https://www.welt.de/wirtschaft/plus247188996/Dieses-Gutachten-offenbart-einen-gravierenden-Fehler-der-Waermewende.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile247207636/3667932227-ci23x11-w20/Gaspreis.jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Daniel Wetzel"
     },
     {
       "title": "„Es sind die Energiepreise und die Lebensmittelpreise, die die Treiber sind“",
@@ -125,7 +125,7 @@
     {
       "title": "Der heikle Glasfaser-Irrtum",
       "teaser": "Bis 2030 soll jeder deutsche Haushalt einen Glasfaseranschluss bekommen – so das Ziel der Regierung. Die Branche meldet: Mehr als ein Drittel der Gebäude ist schon so weit. Doch das stimmt nicht. Die Vor-Ort-Zahlen geben etwas anderes wieder. Für Kunden kann das später zum Problem werden.",
-      "url": "https://www.welt.de/wirtschaft/webwelt/plus247185582/Schnelles-Internet-Der-heikle-Glasfaser-Irrtum.html",
+      "url": "https://www.welt.de/wirtschaft/webwelt/plus247185582/Internet-Der-heikle-Glasfaser-Irrtum-Fuer-Kunden-kann-das-spaeter-zum-Problem-werden.html",
       "image_url": "https://img.welt.de/img/wirtschaft/webwelt/mobile247190344/8517937127-ci23x11-w20/DWO-Teaser-Glasfaser-ms-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Thomas Heuzeroth"
@@ -240,14 +240,6 @@
       "author": "Frank Stocker"
     },
     {
-      "title": "25 Prozent Plus jedes Jahr – Hier geht der Immobilien-Boom weiter",
-      "teaser": "In den nächsten zehn Jahren könnten die Kaufpreise für Immobilien weltweit steigen, zeigt eine Umfrage. In einigen Regionen sollen sogar Preissteigerungen um 25 Prozent jährlich und mehr möglich sein. Überraschenderweise weisen die Experten auch für Deutschland ein kräftiges Plus aus.",
-      "url": "https://www.welt.de/wirtschaft/plus246670246/Immobilien-Jaehrlich-25-Prozent-Plus-wo-es-mit-dem-Boom-weitergeht.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile246672760/4577931927-ci23x11-w20/DWO-FI-Teaser-Immo-Schwellenlaender-ag.jpg",
-      "image_title": "Kein alternativer Text für dieses Bild vorhanden",
-      "author": "Michael Fabricius"
-    },
-    {
       "title": "Diese Berufe wird es im Jahr 2030 nicht mehr geben",
       "teaser": "Eine McKinsey-Studie hat untersucht, welche Jobs in den Vereinigten Staaten bis Ende des Jahrzehnts verschwinden, weil künstliche Intelligenz dann die Arbeit erledigen könnte. Eine Lohngruppe ist 14 Mal häufiger betroffen, vier Branchen müssen besonders bluten. Es gibt aber auch Gewinner.",
       "url": "https://www.welt.de/wirtschaft/plus246679990/KI-Diese-Berufe-wird-es-im-Jahr-2030-nicht-mehr-geben.html",
@@ -256,11 +248,27 @@
       "author": "Jacob Zinkula"
     },
     {
+      "title": "Autarkie dank Batterie? Das sind die 8 größten Speicher-Irrtümer",
+      "teaser": "Viele Verbraucher planen die Anschaffung eines Hausspeichers für die Photovoltaikanlage. Sie erhoffen sich dadurch Unabhängigkeit vom Stromversorger und dessen hohen Preisen. Doch so einfach ist es nicht. WELT klärt über die größten Irrtümer zu Kosten, Akkus oder Haltbarkeit auf.",
+      "url": "https://www.welt.de/wirtschaft/plus247108674/Photovoltaik-Autarkie-dank-Batterie-Das-sind-die-8-groessten-Speicher-Irrtuemer.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile247153386/1717936677-ci23x11-w20/Workers-installing-solar-panels-on-roof-framework-of-new-home-Ne.jpg",
+      "image_title": "Auf deutschen Dächern herrscht seit Jahren ein Photovoltaik-Installations-Boom",
+      "author": "Stephan Maaß"
+    },
+    {
       "title": "Champagner für alle!",
       "teaser": "In Kooperation mit Statista zeigt WELT täglich einen Ausschnitt unseres Alltags in Zahlen. Heute zum Thema Champagner-Import.",
       "url": "https://www.welt.de/wirtschaft/",
       "image_url": "https://img.welt.de/img/wirtschaft/mobile235813724/3920249907-ci16x9-w20/20211221-DWO-Champagne-Exports-STAT-jpg.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
+    },
+    {
+      "title": "Karriere – Der WELT-Newsletter für Ihre Chance im Berufsleben",
+      "url": "https://www.welt.de/newsletter/article247152842/Neu-Der-woechentliche-Karriere-Newsletter-von-WELT.html"
+    },
+    {
+      "title": "Mit Hühnerkot klimaneutral - Kraftstoff aus Bio-LNG-Anlage",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247217724/Mit-Huehnerkot-klimaneutral-Kraftstoff-aus-Bio-LNG-Anlage.html"
     },
     {
       "title": "„Fetisch Privateigentum“ – ein Post und seine ungeahnten Folgen",
@@ -308,7 +316,7 @@
     },
     {
       "title": "An dieser EU-Regel verzweifeln Deutschlands Firmen",
-      "url": "https://www.welt.de/wirtschaft/plus247188718/Buerokratie-Burnout-An-dieser-EU-Regel-verzweifeln-Deutschlands-Firmen.html"
+      "url": "https://www.welt.de/wirtschaft/plus247188718/Deutschlands-Firmen-verzweifeln-an-dieser-EU-Regel-Buerokratie-Burnout.html"
     },
     {
       "title": "Autobranche vor IAA unter Druck: Die Sorgen der Konzerne",
@@ -323,8 +331,8 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247206032/Verfahrensfehler-Berger-Anwalt-will-Cum-Ex-Urteile-kippen.html"
     },
     {
-      "title": "Wissing mahnt ÖPNV-Reformen an",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247206018/Wissing-mahnt-OEPNV-Reformen-an.html"
+      "title": "Streit über ÖPNV-Geld geht weiter",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247206018/Streit-ueber-OEPNV-Geld-geht-weiter.html"
     },
     {
       "title": "Fraunhofer entwickelt Folie mit Solarzellen für Autos",
@@ -373,14 +381,6 @@
     {
       "title": "Insolvenz: Gerch will alle Projekte fortführen",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247196092/Insolvenz-Gerch-will-alle-Projekte-fortfuehren.html"
-    },
-    {
-      "title": "Technik-Show IFA 2023 setzt auf Grün",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247193000/Technik-Show-IFA-2023-setzt-auf-Gruen.html"
-    },
-    {
-      "title": "Geduld verlangt: Inflation geht nur langsam zurück",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wirtschaft_nt/article247192450/Geduld-verlangt-Inflation-geht-nur-langsam-zurueck.html"
     }
   ]
 }
