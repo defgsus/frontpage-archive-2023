@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-01T07:10:13",
+  "timestamp": "2023-09-01T08:13:48",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Nur in Europa: Windows 11 wird Standardbrowser künftig ausnahmslos akzeptieren",
+      "teaser": "Auch wenn man unter Windows 11 den Standardbrowser ändert, wird das teilweise ignoriert. Das soll sich mit einem Update ändern – aber nur in Teilen Europas.",
+      "url": "https://www.heise.de/news/Windows-11-akzeptiert-Standardbrowser-kuenftig-ausnahmslos-aber-nur-in-Europa-9290520.html",
+      "image_title": "Windows 11 auf Laptop"
+    },
+    {
       "title": "Linux 6.5 mit zahlreichen Optimierungen erschienen",
       "teaser": "Der Linux-Kernel 6.5 liefert Optimierungen und Unterstützung für USB4 v2, MIDI 2.0 und WiFi 7. Memory-Leaks sagt er den Kampf an.",
       "url": "https://www.heise.de/news/Linux-6-5-mit-zahlreichen-Optimierungen-erschienen-9289506.html"
@@ -35,12 +41,6 @@
       "teaser": "Wie Dropbox hatte auch Microsoft ein Abo mit unbegrenztem Cloudspeicher für Firmen im Angebot. Das wurde vor wenigen Wochen still und heimlich entfernt.",
       "url": "https://www.heise.de/news/Vor-Dropbox-Microsoft-Angebot-mit-unbegrenzten-OneDrive-Speicher-verschwunden-9287799.html",
       "image_title": "OneDrive auf Smartphone und im Browser"
-    },
-    {
-      "title": "Polen: Offenbar mit simplem Radiosignal rund 20 Züge angehalten",
-      "teaser": "Ein mutmaßlich mit dem Krieg in der Ukraine in Verbindung stehender Angriff auf Polens Eisenbahnnetz hat angeblich eine einfache technische Erklärung.",
-      "url": "https://www.heise.de/news/Polen-Offenbar-mit-simplem-Radiosignal-rund-20-Zuege-angehalten-9286854.html",
-      "image_title": "Viele Eisenbahnschienen vor Sonnenuntergang"
     },
     {
       "title": "Vielseitiger Schönschreiber: Was der Editor Bear 2 für Apple-Geräte taugt",
@@ -53,6 +53,22 @@
       "teaser": "Drei Erfahrungsberichte: Daten einer fehlerhaften Windows-Installation, einer beschädigten Mac-Mini-SSD und einer kaputten SSD eines Linux-Servers retten.",
       "url": "https://www.heise.de/ratgeber/Datenrettung-unter-Windows-macOS-und-Linux-Drei-Erfahrungsberichte-9287732.html",
       "image_title": ", Michael Vogt"
+    },
+    {
+      "title": "iX-Workshop: Sicher in die Public Cloud: Azure & Co. effektiv absichern",
+      "teaser": "Lernen Sie, wie Sie die Public Cloud sicher und datenschutzkonform nutzen und entwickeln Sie Ihren eigenen Leitfaden für Ihr Unternehmen. Last Call",
+      "url": "https://www.heise.de/news/iX-Workshop-Sicher-in-die-Public-Cloud-Azure-Co-effektiv-absichern-9214666.html",
+      "image_title": "iX-Workshop Sichere Nutzung der Public Cloud"
+    },
+    {
+      "title": "Powertoys 0.73.0: Neues \"Zuschneiden und Sperren\" und viele Korrekturen",
+      "teaser": "Die Version 0.73.0 der Werkzeugsammlung Powertoys korrigiert viele Kleinigkeiten, bringt aber auch die neue Funktion \"Zuschneiden und Sperren\".",
+      "url": "https://www.heise.de/news/Powertoys-0-73-0-Neues-Zuschneiden-und-Sperren-und-viele-Korrekturen-9291531.html"
+    },
+    {
+      "title": "Acronis: Updates dichten Sicherheitslecks in mehreren Produkten ab",
+      "teaser": "Acronis hat Sicherheitsmeldungen zu insgesamt zwölf Schwachstellen in mehreren Produkten herausgegeben. Updates stehen länger bereit.",
+      "url": "https://www.heise.de/news/Acronis-Updates-dichten-Sicherheitslecks-in-mehreren-Produkten-ab-9291446.html"
     },
     {
       "title": "Buchbesprechung: Get Your Hands Dirty on Clean Architecture",
@@ -121,22 +137,6 @@
       "teaser": "Für 2024 vergibt Apple ein neues, begrenztes Kontingent an gerooteten iPhones an ausgewählte Sicherheitsforscher – allerneueste Hardware gibt es aber nicht.",
       "url": "https://www.heise.de/news/iPhone-mit-Apple-Jailbreak-Sicherheitsforscher-koennen-sich-wieder-bewerben-9290995.html",
       "image_title": "Gerootetes iPhone"
-    },
-    {
-      "title": "Böhmermann-Ente: Schönbohm verklagt Bundesinnenministerium",
-      "teaser": "Der geschasste BSI-Chef Schönbohm reicht beim Verwaltungsgericht Klage gegen das Bundesministerium des Innern ein. In der Gerichtsakte ist von Mobbing die Rede.",
-      "url": "https://www.heise.de/news/Boehmermann-Ente-Schoenbohm-verklagt-Bundesinnenministerium-9291025.html",
-      "image_title": "Schönbohm"
-    },
-    {
-      "title": "Jitsi: Videokonferenz-Dienst missbraucht, ab jetzt gilt die Accountpflicht",
-      "teaser": "Online-Meetings mit Jitsi gibt es ab jetzt nur noch, wenn sich der Ersteller mit einem Account einloggt. Die Anonymität war ein großes Argument für den Dienst.",
-      "url": "https://www.heise.de/news/Videokonferenzen-Jitsi-Meetings-jetzt-nur-noch-mit-Account-9290846.html"
-    },
-    {
-      "title": "Google zeigt: So geht KI für Administratoren und Entwickler im Firmenalltag",
-      "teaser": "Natürlich ging es auf der Google Cloud Next nur um KI. Doch statt noch mehr Hype-Demos zeigt Google lieber viel für das Backend.",
-      "url": "https://www.heise.de/news/Google-zeigt-So-geht-KI-fuer-Administratoren-und-Entwickler-im-Firmenalltag-9290763.html"
     },
     {
       "title": "BRANDMAUER IT ist Champion bei Managed Workplace Services",
