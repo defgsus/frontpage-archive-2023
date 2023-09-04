@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-04T06:14:47",
+  "timestamp": "2023-09-04T07:10:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Aria Operations for Network",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
+    },
+    {
       "title": "Securepoint VPN",
       "url": "https://www.heise.de/news/Update-schliesst-kritische-Luecke-im-Securepoint-VPN-9291723.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/VMware-Tools-Schwachstelle-ermoeglicht-Angreifern-unbefugte-Aktionen-in-Gaesten-9290783.html"
     },
     {
-      "title": "Splunk",
-      "url": "https://www.heise.de/news/Big-Data-Splunk-dichtet-hochriskante-Luecken-ab-9290325.html"
+      "title": "Jetzt aktualisieren! Proof-of-Concept für kritische VMware-Aria-Lücke",
+      "teaser": "Vergangene Woche hat VMware Updates zum Schließen einer kritischen Sicherheitslücke herausgegeben. Jetzt ist ein Proof-of-Concept verfügbar. Zeit fürs Update!",
+      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
     },
     {
       "title": "Cyberangriff: Datenleck bei Deutsche Leasing",
@@ -64,15 +69,15 @@
       "url": "https://www.heise.de/news/BSI-weist-Automobilindustrie-auf-Sicherheitsprobleme-hin-9292044.html"
     },
     {
+      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
+      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
+      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
+    },
+    {
       "title": "Kritische Lücke in VPN von Securepoint",
       "teaser": "Updates sollen eine kritische Sicherheitslücke in der VPN-Software von Securepoint schließen, durch die Angreifer ihre Rechte ausweiten können.",
       "url": "https://www.heise.de/news/Update-schliesst-kritische-Luecke-im-Securepoint-VPN-9291723.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
-      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
-      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
     },
     {
       "title": "Acronis: Updates dichten Sicherheitslecks in mehreren Produkten ab",
@@ -154,11 +159,6 @@
       "title": "Webbrowser: Google-Chrome-Update stopft hochriskante Sicherheitslücke",
       "teaser": "Google bessert im Webbrowser Chrome eine als hochriskant eingestufte Schwachstelle aus.",
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-stopft-hochriskante-Sicherheitsluecke-9288903.html"
-    },
-    {
-      "title": "Webbrowser: Neue Firefox-Releases schließen mehrere Sicherheitslücken",
-      "teaser": "Die Mozilla-Entwickler haben die Firefox-Versionen 117, ESR 115.2 und ESR 102.15 herausgegeben, die mehrere teils hochriskante Sicherheitslücken schließen.",
-      "url": "https://www.heise.de/news/Webbrowser-Firefox-117-ESR-115-2-und-ESR-102-15-dichten-Sicherheitslecks-ab-9288483.html"
     },
     {
       "title": "heise Security Tour 2023",
