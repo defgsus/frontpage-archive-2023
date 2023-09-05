@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-05T06:14:16",
+  "timestamp": "2023-09-05T07:10:20",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "AVM Fritzbox",
+      "url": "https://www.heise.de/news/Fritzbox-Firmware-7-57-und-7-31-von-AVM-dichten-Sicherheitsluecke-ab-9294758.html"
+    },
+    {
       "title": "VMware Aria Operations for Network",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Acronis-Updates-dichten-Sicherheitslecks-in-mehreren-Produkten-ab-9291446.html"
     },
     {
-      "title": "VMware Tools",
-      "url": "https://www.heise.de/news/VMware-Tools-Schwachstelle-ermoeglicht-Angreifern-unbefugte-Aktionen-in-Gaesten-9290783.html"
+      "title": "Fritzbox: Firmware 7.57 und 7.31 von AVM dichten Sicherheitslücke ab",
+      "teaser": "AVM hat für zahlreiche Fritzboxen die Firmware 7.57 und 7.31 veröffentlicht. Es handelt sich um ein Stabilitäts- und Sicherheitsupdate.",
+      "url": "https://www.heise.de/news/Fritzbox-Firmware-7-57-und-7-31-von-AVM-dichten-Sicherheitsluecke-ab-9294758.html",
+      "image_title": "AVM-Router Fritzbox 7590 AX"
     },
     {
       "title": "Telemedizin-Anbieter Medgate nach Angriffen gestört",
@@ -64,15 +70,15 @@
       "url": "https://www.heise.de/news/Ransomware-Cyberangriffe-auf-MSSQL-Datenbanken-9293829.html"
     },
     {
+      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
+      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
+      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
       "title": "Enkeltrick: Bundesnetzagentur schaltet tausende Rufnummern ab",
       "teaser": "Betrüger denken sich immer wieder neue Maschen aus, der alte Enkeltrick ist aber anscheinend nicht totzukriegen.",
       "url": "https://www.heise.de/news/Hallo-Mama-das-ist-meine-neue-Rufnummer-Enkeltrick-Rufnummern-abgeschaltet-9293981.html",
       "image_title": "Ein schwarzer Fernsprechapparat mit Wählscheibe, daneben steht ein schwarzes Schnurlostelefon in einer Ladeschale"
-    },
-    {
-      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
-      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
-      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
     },
     {
       "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
@@ -155,12 +161,6 @@
       "title": "Android-Malware: Badbazaar wurde im Google Play Store und Samsung-Store verteilt",
       "teaser": "IT-Forscher haben aufgepeppte Signal- und Telegram-Apps im Google Play- und Samsung-Store entdeckt. Die spähen jedoch ihre Opfer aus.",
       "url": "https://www.heise.de/news/Android-Malware-Badbazaar-wurde-im-Google-Play-Store-und-Samsung-Store-verteilt-9290217.html"
-    },
-    {
-      "title": "Ex-BSI-Präsident Schönbohm fordert 100.000 Euro Schadenersatz vom ZDF",
-      "teaser": "Nach dem Arne Schönbohm infolge einer ZDF-Sendung abberufen wurde, fordert er vom ZDF nun 100.000 Euro Schadenersatz. Dieses weist die Forderungen zurück.",
-      "url": "https://www.heise.de/news/Ex-BSI-Praesident-Schoenbohm-fordert-100-000-Euro-Schadenersatz-vom-ZDF-9290044.html",
-      "image_title": "Schönbohm"
     },
     {
       "title": "heise Security Tour 2023",
