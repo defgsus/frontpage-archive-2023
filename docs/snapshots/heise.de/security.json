@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-06T08:14:12",
+  "timestamp": "2023-09-06T09:11:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Asus-Router",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Kontrolle-ueber-Asus-Router-erlangen-9296210.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-SIcherheitsluecken-ab-9295977.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
     },
     {
-      "title": "Securepoint VPN",
-      "url": "https://www.heise.de/news/Update-schliesst-kritische-Luecke-im-Securepoint-VPN-9291723.html"
+      "title": "Sicherheitsupdates: Angreifer können Kontrolle über Asus-Router erlangen",
+      "teaser": "Mehrere Sicherheitslücken gefährden verschiedene Router-Modelle von Asus. Patches sichern Geräte ab.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Kontrolle-ueber-Asus-Router-erlangen-9296210.html"
     },
     {
-      "title": "Anonymisierendes Linux: Tails 5.17 verbessert Druckerunterstützung",
+      "title": "Anonymisierendes Linux: Tails 5.17 mit kleinen Updates und mehr Druckern",
       "teaser": "Die anonymisierende Linux-Distribution Tails ist in Version 5.17 erschienen. Sie aktualisiert Kernkomponenten und verbessert die Druckerunterstützung.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-17-verbessert-Druckerunterstuetzung-9296077.html"
     },
@@ -63,14 +68,14 @@
       "url": "https://www.heise.de/news/BSI-Affaere-Faeser-soll-Verfassungsschutz-gegen-Schoenbohm-eingesetzt-haben-9295868.html"
     },
     {
-      "title": "Microsoft: Verbesserter Schutz vor MitM-Attacken in Exchange",
-      "teaser": "Microsoft will Exchange besser vor Man-in-the-Middle-Angriffen schützen. Dazu gibt es neue Schutzmaßnahmen für Exchange 2016 und 2019 (On-Premise).",
-      "url": "https://www.heise.de/news/Microsoft-Verbesserter-Schutz-vor-MitM-Attacken-in-Exchange-9295445.html"
-    },
-    {
       "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
       "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
       "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
+    },
+    {
+      "title": "Microsoft: Verbesserter Schutz vor MitM-Attacken in Exchange",
+      "teaser": "Microsoft will Exchange besser vor Man-in-the-Middle-Angriffen schützen. Dazu gibt es neue Schutzmaßnahmen für Exchange 2016 und 2019 (On-Premise).",
+      "url": "https://www.heise.de/news/Microsoft-Verbesserter-Schutz-vor-MitM-Attacken-in-Exchange-9295445.html"
     },
     {
       "title": "Okta warnt vor Social-Engineering-Angriffen auf IT-Service-Personal",
@@ -154,12 +159,6 @@
       "teaser": "Einer chinesischen Gruppierung ist vor zwei Jahren ein Einbruch bei einer deutschen Bundesbehörde gelungen. Wie sie vorgeht, erklärt der Verfassungsschutz.",
       "url": "https://www.heise.de/news/Cyberspionage-Chinesische-Gruppe-hat-deutsche-Kartographiebehoerde-gehackt-9291268.html",
       "image_title": "Chinesische Flagge aus leuchtenden Punkten"
-    },
-    {
-      "title": "iPhone mit Apple-Jailbreak: Sicherheitsforscher können sich wieder bewerben",
-      "teaser": "Für 2024 vergibt Apple ein neues, begrenztes Kontingent an gerooteten iPhones an ausgewählte Sicherheitsforscher – allerneueste Hardware gibt es aber nicht.",
-      "url": "https://www.heise.de/news/iPhone-mit-Apple-Jailbreak-Sicherheitsforscher-koennen-sich-wieder-bewerben-9290995.html",
-      "image_title": "Gerootetes iPhone"
     },
     {
       "title": "heise Security Tour 2023",
