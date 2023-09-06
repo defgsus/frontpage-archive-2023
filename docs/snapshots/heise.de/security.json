@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-06T11:09:10",
+  "timestamp": "2023-09-06T12:21:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Android-11-12-13-moeglich-9296497.html"
+    },
+    {
       "title": "Asus-Router",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Kontrolle-ueber-Asus-Router-erlangen-9296210.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Fritzbox-Firmware-7-57-und-7-31-von-AVM-dichten-Sicherheitsluecke-ab-9294758.html"
     },
     {
-      "title": "VMware Aria Operations for Network",
-      "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
+      "title": "Lockbit veröffentlicht Daten von britischem Hochsicherheits-Zaunbauer",
+      "teaser": "Ein Windows-7-PC war Einfallstor: Lockbit konnte bei einem Zaunbauer für Hochsicherheitsbereiche aus dem Vereinigten Königreich einbrechen und Daten stehlen.",
+      "url": "https://www.heise.de/news/Lockbit-veroeffentlicht-Daten-von-britischem-Hochsicherheits-Zaunbauer-9296464.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
     },
     {
       "title": "Sicherheitsupdates: Angreifer können Kontrolle über Asus-Router erlangen",
@@ -63,14 +69,14 @@
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-SIcherheitsluecken-ab-9295977.html"
     },
     {
+      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
+      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
+      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
       "title": "BSI-Affäre: Faeser soll Verfassungsschutz gegen Schönbohm eingesetzt haben",
       "teaser": "Nach der Abberufung von BSI-Präsident Schönbohm soll sich die Ministerin vor dem Innenausschuss erklären.​ Es geht um den Einsatz des Verfassungsschutzes.",
       "url": "https://www.heise.de/news/BSI-Affaere-Faeser-soll-Verfassungsschutz-gegen-Schoenbohm-eingesetzt-haben-9295868.html"
-    },
-    {
-      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
-      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
-      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
     },
     {
       "title": "Microsoft: Verbesserter Schutz vor MitM-Attacken in Exchange",
@@ -112,6 +118,12 @@
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
+      "title": "Microsoft deaktiviert TLS 1.0 und 1.1 in künftigen Windows-Versionen",
+      "teaser": "Microsoft weist darauf hin, dass ab diesem Monat in neuen Windows-Betriebssystemen die TLS-Protokolle 1.0 und 1.1 standardmäßig deaktiviert werden.",
+      "url": "https://www.heise.de/news/Microsoft-deaktiviert-TLS-1-0-und-1-1-in-kuenftigen-Windows-Versionen-9293694.html",
+      "image_title": "TLS und die Rauferei um das \"richtige\" Internet"
+    },
+    {
       "title": "Jetzt aktualisieren! Proof-of-Concept für kritische VMware-Aria-Lücke",
       "teaser": "Vergangene Woche hat VMware Updates zum Schließen einer kritischen Sicherheitslücke herausgegeben. Jetzt ist ein Proof-of-Concept verfügbar. Zeit fürs Update!",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
@@ -147,18 +159,6 @@
       "title": "Acronis: Updates dichten Sicherheitslecks in mehreren Produkten ab",
       "teaser": "Acronis hat Sicherheitsmeldungen zu insgesamt zwölf Schwachstellen in mehreren Produkten herausgegeben. Updates stehen länger bereit.",
       "url": "https://www.heise.de/news/Acronis-Updates-dichten-Sicherheitslecks-in-mehreren-Produkten-ab-9291446.html"
-    },
-    {
-      "title": "iX-Workshop: Rechtskonform – IT-Produkte nach EU-Recht prüfen und zertifizieren",
-      "teaser": "Lernen Sie, wie Sie IT-Produkte für die Prüfung und Zertifizierung nach Standards wie CC, BSZ und NESAS vorbereiten – Anwendungen, Stolpersteine, Prüfpraxis",
-      "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-9283132.html",
-      "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
-    },
-    {
-      "title": "Cyberspionage: Chinesische Gruppe hat deutsche Kartographiebehörde gehackt",
-      "teaser": "Einer chinesischen Gruppierung ist vor zwei Jahren ein Einbruch bei einer deutschen Bundesbehörde gelungen. Wie sie vorgeht, erklärt der Verfassungsschutz.",
-      "url": "https://www.heise.de/news/Cyberspionage-Chinesische-Gruppe-hat-deutsche-Kartographiebehoerde-gehackt-9291268.html",
-      "image_title": "Chinesische Flagge aus leuchtenden Punkten"
     },
     {
       "title": "heise Security Tour 2023",
