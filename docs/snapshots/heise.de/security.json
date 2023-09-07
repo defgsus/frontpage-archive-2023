@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-07T07:10:24",
+  "timestamp": "2023-09-07T08:14:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "TP-Link",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Unbefugte-Zugriffe-auf-TP-Link-Router-moeglich-9297306.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html"
     },
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Kontrolle-ueber-Asus-Router-erlangen-9296210.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-SIcherheitsluecken-ab-9295977.html"
-    },
-    {
-      "title": "Cisco schließt teils kritische Sicherheitslücken in mehreren Produkten",
-      "teaser": "In mehreren Cisco-Produkten lauern Sicherheitslücken, die Updates schließen sollen. Eine gilt sogar als kritisch.",
-      "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html",
-      "image_title": "Aufmacher Cisco viele Patches"
+      "title": "Sicherheitsupdates: Unbefugte Zugriffe auf TP-Link-Router möglich",
+      "teaser": "Angreifer können verschiedene Router von TP-Link attackieren und im schlimmsten Fall eigene Befehle auf Geräten ausführen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Unbefugte-Zugriffe-auf-TP-Link-Router-moeglich-9297306.html"
     },
     {
       "title": "Lockbit veröffentlicht Daten von britischem Hochsicherheits-Zaunbauer",
@@ -70,9 +69,9 @@
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-17-verbessert-Druckerunterstuetzung-9296077.html"
     },
     {
-      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
-      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
-      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
+      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
+      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
     },
     {
       "title": "Webbrowser: Hochriskante Schwachstellen in Google Chrome geschlossen",
@@ -94,6 +93,12 @@
       "teaser": "Der Identitäts- und Zugriffs-Management-Dienstleister Okta warnt vor aktuell laufenden Social-Engineering-Attacken auf IT-Service-Personal.",
       "url": "https://www.heise.de/news/Okta-warnt-vor-Social-Engineering-Angriffen-auf-IT-Service-Personal-9295019.html",
       "image_title": "Angriff, Cybersicherheit"
+    },
+    {
+      "title": "AVM: Fritzbox-Firmware 7.57 und 7.31 stopfen Sicherheitsleck",
+      "teaser": "AVM hat für zahlreiche Fritzboxen die Firmware 7.57 und 7.31 veröffentlicht. Es handelt sich um Stabilitäts- und Sicherheitsupdates.",
+      "url": "https://www.heise.de/news/Fritzbox-Firmware-7-57-und-7-31-von-AVM-dichten-Sicherheitsluecke-ab-9294758.html",
+      "image_title": "AVM-Router Fritzbox 7590 AX"
     },
     {
       "title": "Nach Cyberangriff: Telemedizin-Dienste von Medgate wieder erreichbar",
@@ -154,12 +159,6 @@
       "title": "Falscher CVE-Eintrag: Die kritische curl-Lücke, die keine war",
       "teaser": "CVE-Einträge können grob in die Irre führen – wie der Entwickler des Open-Source-Tools curl jetzt am eigenen Projekt feststellen musste.",
       "url": "https://www.heise.de/news/Falscher-CVE-Eintrag-Die-kritische-curl-Luecke-die-keine-war-9291671.html"
-    },
-    {
-      "title": "Kritische Lücke in VPN von Securepoint",
-      "teaser": "Updates sollen eine kritische Sicherheitslücke in der VPN-Software von Securepoint schließen, durch die Angreifer ihre Rechte ausweiten können.",
-      "url": "https://www.heise.de/news/Update-schliesst-kritische-Luecke-im-Securepoint-VPN-9291723.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "heise Security Tour 2023",
