@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-07T06:14:14",
+  "timestamp": "2023-09-07T07:10:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Android-11-12-13-moeglich-9296497.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-SIcherheitsluecken-ab-9295977.html"
     },
     {
-      "title": "AVM Fritzbox",
-      "url": "https://www.heise.de/news/Fritzbox-Firmware-7-57-und-7-31-von-AVM-dichten-Sicherheitsluecke-ab-9294758.html"
+      "title": "Cisco schließt teils kritische Sicherheitslücken in mehreren Produkten",
+      "teaser": "In mehreren Cisco-Produkten lauern Sicherheitslücken, die Updates schließen sollen. Eine gilt sogar als kritisch.",
+      "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html",
+      "image_title": "Aufmacher Cisco viele Patches"
     },
     {
       "title": "Lockbit veröffentlicht Daten von britischem Hochsicherheits-Zaunbauer",
@@ -64,14 +70,14 @@
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-17-verbessert-Druckerunterstuetzung-9296077.html"
     },
     {
+      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
+      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
+      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
       "title": "Webbrowser: Hochriskante Schwachstellen in Google Chrome geschlossen",
       "teaser": "Google stopft mit aktualisiertern Chrome-Versionen vier als hochriskant eingestufte Sicherheitslücken.",
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-hochriskante-SIcherheitsluecken-ab-9295977.html"
-    },
-    {
-      "title": "NIS2: Wer ist von der neuen EU-Security-Richtlinie betroffen?",
-      "teaser": "Die Cyberresilienz von kritischen und wichtigen Unternehmen stärken: Das ist das Ziel der EU-Richtlinie NIS2. Die Vorgaben gelten nun für deutlich mehr Betriebe als bisher – und zwar auch indirekt, wenn sie Teil einer Lieferkette sind.",
-      "url": "https://www.heise.de/solutions/sophos/nis2-und-cybersicherheit-welche-unternehmen-von-der-eu-richtlinie-betroffen-sind-und-was-auf-sie-zukommt/?source=nat_teas"
     },
     {
       "title": "BSI-Affäre: Faeser soll Verfassungsschutz gegen Schönbohm eingesetzt haben",
@@ -154,11 +160,6 @@
       "teaser": "Updates sollen eine kritische Sicherheitslücke in der VPN-Software von Securepoint schließen, durch die Angreifer ihre Rechte ausweiten können.",
       "url": "https://www.heise.de/news/Update-schliesst-kritische-Luecke-im-Securepoint-VPN-9291723.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Acronis: Updates dichten Sicherheitslecks in mehreren Produkten ab",
-      "teaser": "Acronis hat Sicherheitsmeldungen zu insgesamt zwölf Schwachstellen in mehreren Produkten herausgegeben. Updates stehen länger bereit.",
-      "url": "https://www.heise.de/news/Acronis-Updates-dichten-Sicherheitslecks-in-mehreren-Produkten-ab-9291446.html"
     },
     {
       "title": "heise Security Tour 2023",
