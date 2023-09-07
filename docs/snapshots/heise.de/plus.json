@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-07T13:14:04",
+  "timestamp": "2023-09-07T14:10:30",
   "url": "https://www.heise.de/plus/",
   "response": {
     "status": 200
@@ -57,6 +57,28 @@
       "title": "HintergrundMegabyte: Metas Transformer-Architektur für maschinelles Lernen erklärt",
       "teaser": "Metas Transformer-Modell verzichtet auf einen Tokenizer und verarbeitet Daten byteweise. Damit soll es gleichermaßen Texte, Bilder und Audio beherrschen.",
       "url": "https://www.heise.de/hintergrund/Megabyte-Metas-Transformer-Architektur-fuer-maschinelles-Lernen-erklaert-9290201.html"
+    },
+    {
+      "title": "Security: Die zehn Schwachstellen der großen KI-Modelle",
+      "teaser": "Das OWASP veröffentlichte die Topliste der größten Schwachstellen von Sprachmodellen. Neben alten Bekannten enthält die Liste auch Besonderheiten.",
+      "url": "https://www.heise.de/hintergrund/Security-Die-zehn-Schwachstellen-der-grossen-KI-Modelle-9297433.html"
+    },
+    {
+      "title": "Wie Quantencomputer künstliche neuronale Netze beschleunigen sollen",
+      "teaser": "Die deutsche Autoindustrie lotet aus, wie sie mit Quantencomputern und KI Produktionsprozesse beschleunigen und verbessern kann.",
+      "url": "https://www.heise.de/hintergrund/Wie-Quantencomputer-kuenstliche-neuronale-Netze-beschleunigen-sollen-9296368.html",
+      "image_title": "Qsolid / Copyright Forschungszentrum Jülich Sascha Kreklau"
+    },
+    {
+      "title": "Im Test: Connect-Element für Gravitrax-Kugelbahnen",
+      "teaser": "Das Connect-Element für die Gravitrax-Kugelbahn gibt Gelegenheit dazu, den Lauf der Kugel per App oder per selbstgeschriebener Software zu programmieren.",
+      "url": "https://www.heise.de/tests/Im-Test-Connect-Element-fuer-Gravitrax-Kugelbahnen-9296845.html"
+    },
+    {
+      "title": "Kubernetes-Secrets verschlüsselt in Git speichern mit Sealed Secrets",
+      "teaser": "Mit dem Werkzeug Sealed Secrets kann man Kubernetes-Secrets verschlüsselt in Git-Repositories ablegen, ohne seine Geheimnisse allen zugänglich zu machen.",
+      "url": "https://www.heise.de/ratgeber/Kubernetes-Secrets-verschluesselt-in-Git-speichern-mit-Sealed-Secrets-9296802.html",
+      "image_title": ", KI Midjourney Bearbeitung: c’t"
     },
     {
       "title": "Wie sich Ansible Rulebooks richtig einsetzen lassen",
@@ -122,6 +144,20 @@
       "image_title": "!!!Aufmacher (Aufnahmesituation mit Kamera und Handy) kommt von missi,"
     },
     {
+      "title": "Elektroauto Fiat 500E Cabrio im Test: Der teure Charmeur",
+      "url": "https://www.heise.de/tests/Elektroauto-Fiat-500E-Cabrio-im-Test-Der-teure-Charmeur-9228668.html",
+      "image_title": "Fiat 500E Cabrio"
+    },
+    {
+      "title": "Smart Charging und V2G: Wie Elektroautos bei der Energiewende helfen können",
+      "url": "https://www.heise.de/hintergrund/Smart-Charging-und-V2G-Autos-helfen-bei-Energiewende-9235371.html"
+    },
+    {
+      "title": "Elektroauto Audi Q8 55 e-tron quattro im Test: Plus bei Batterie und Effizienz",
+      "url": "https://www.heise.de/tests/Elektroauto-Audi-Q8-55-e-tron-quattro-im-Test-Plus-bei-Batterie-und-Effizienz-9218498.html",
+      "image_title": "Audi Q8 e-tron"
+    },
+    {
       "title": "IaaS: Terraform-Schwachstellenscanner im Detail",
       "teaser": "Terrascan bringt einen Regelsatz mit, um Terraform-Skripte zu prüfen. Eigene Complianceregeln oder spezielle Anforderungen sind auch umsetzbar. Ein Überblick.",
       "url": "https://www.heise.de/ratgeber/IaaS-Terraform-Schwachstellenscanner-im-Detail-9294291.html"
@@ -141,20 +177,6 @@
       "title": "Viel Lesestoff für wenig Geld: Bücher leihen mit der Onleihe",
       "teaser": "Billiger kommen Sie nicht an neue E-Books: Wir zeigen, was die digitale Ausleihe deutscher Stadtbibliotheken bietet und auf welchen Geräten sie funktioniert.",
       "url": "https://www.heise.de/ratgeber/Viel-Lesestoff-fuer-wenig-Geld-Buecher-leihen-mit-der-Onleihe-9294384.html"
-    },
-    {
-      "title": "Elektroauto Fiat 500E Cabrio im Test: Der teure Charmeur",
-      "url": "https://www.heise.de/tests/Elektroauto-Fiat-500E-Cabrio-im-Test-Der-teure-Charmeur-9228668.html",
-      "image_title": "Fiat 500E Cabrio"
-    },
-    {
-      "title": "Smart Charging und V2G: Wie Elektroautos bei der Energiewende helfen können",
-      "url": "https://www.heise.de/hintergrund/Smart-Charging-und-V2G-Autos-helfen-bei-Energiewende-9235371.html"
-    },
-    {
-      "title": "Elektroauto Audi Q8 55 e-tron quattro im Test: Plus bei Batterie und Effizienz",
-      "url": "https://www.heise.de/tests/Elektroauto-Audi-Q8-55-e-tron-quattro-im-Test-Plus-bei-Batterie-und-Effizienz-9218498.html",
-      "image_title": "Audi Q8 e-tron"
     },
     {
       "title": "Internet per Mobilfunk für feste Standorte: Tarife im Vergleich",
@@ -214,30 +236,6 @@
       "title": "Sicherheitslücken aufdecken: Rahmenbedingungen für Hackerkooperation schaffen",
       "teaser": "Es existieren immer Sicherheitslücken in Unternehmen. Externe Hacker können bei ihrer Entdeckung helfen, brauchen aber verbindliche Rahmenbedingungen.",
       "url": "https://www.heise.de/hintergrund/Sicherheitsluecken-aufdecken-Rahmenbedingungen-fuer-Hackerkooperation-schaffen-9290402.html"
-    },
-    {
-      "title": "Superschnellen 3D-Drucker für 400 Euro bauen auf Basis von The 100",
-      "teaser": "Ein rasend schneller CoreXY-3D-Drucker für unter 400 Euro, der den Testdruck Benchy in unter fünf Minuten druckt? So einen Drucker haben wir zusammengebaut.",
-      "url": "https://www.heise.de/ratgeber/Superschnellen-3D-Drucker-fuer-400-Euro-bauen-auf-Basis-von-The-100-9286928.html",
-      "image_title": ","
-    },
-    {
-      "title": "Vielseitiger Schönschreiber: Was der Editor Bear 2 für Apple-Geräte taugt",
-      "teaser": "Mit Bear 2 verwaltet und synchronisiert man Markdown-Texte und Notizen. Wir haben uns die App für Mac, iPhone und iPad angesehen.",
-      "url": "https://www.heise.de/tests/Vielseitiger-Schoenschreiber-Was-der-Editor-Bear-2-fuer-Apple-Geraete-taugt-9290423.html",
-      "image_title": "Bear 2 auf dem Mac"
-    },
-    {
-      "title": "Datenrettung unter Windows, macOS und Linux – Drei Erfahrungsberichte",
-      "teaser": "Drei Erfahrungsberichte: Daten einer fehlerhaften Windows-Installation, einer beschädigten Mac-Mini-SSD und einer kaputten SSD eines Linux-Servers retten.",
-      "url": "https://www.heise.de/ratgeber/Datenrettung-unter-Windows-macOS-und-Linux-Drei-Erfahrungsberichte-9287732.html",
-      "image_title": ", Michael Vogt"
-    },
-    {
-      "title": "Bei Datenverlust: Drei Tools zur Datenrettung vorgestellt",
-      "teaser": "Manchmal rücken fehlerhafte Festplatten, SD-Karten oder SSDs Daten nicht mehr heraus. Wir stellen die Tools ddrescue, TestDisk und PhotoRec vor.",
-      "url": "https://www.heise.de/ratgeber/Bei-Datenverlust-Drei-Tools-zur-Datenrettung-vorgestellt-9286472.html",
-      "image_title": ", Michael Vogt"
     },
     {
       "title": "Für wen sie sich lohnen, was sie kostenSparen mit dynamischen Stromtarifen",
@@ -301,18 +299,23 @@
       "image_title": "VW ID.3 2023"
     },
     {
-      "title": "Test: AMD Radeon RX 7800 XT und 7700 XT bieten GeForce RTX4070 und 4060Ti Paroli",
-      "url": "https://www.heise.de/tests/AMD-Radeon-RX-7800-XT-und-7700-XT-bieten-GeForce-RTX-4070-und-4060-Ti-Paroli-9296216.html"
+      "title": "Wie Quantencomputer künstliche neuronale Netze beschleunigen sollen",
+      "url": "https://www.heise.de/hintergrund/Wie-Quantencomputer-kuenstliche-neuronale-Netze-beschleunigen-sollen-9296368.html",
+      "image_title": "Qsolid / Copyright Forschungszentrum Jülich Sascha Kreklau"
     },
     {
-      "title": "Tastenkürzel: Microsoft Office unter Windows und macOS per Tastatur bedienen",
-      "url": "https://www.heise.de/ratgeber/Tastenkuerzel-Microsoft-Office-unter-Windows-und-macOS-per-Tastatur-bedienen-9294964.html",
-      "image_title": "KI Midjourney Bearbeitung c’t"
+      "title": "Im Test: Connect-Element für Gravitrax-Kugelbahnen",
+      "url": "https://www.heise.de/tests/Im-Test-Connect-Element-fuer-Gravitrax-Kugelbahnen-9296845.html"
     },
     {
-      "title": "Im Test: Sieben Screenrecorder für Windows, macOS, Linux und Webbrowser",
-      "url": "https://www.heise.de/tests/Im-Test-Sieben-Screenrecorder-fuer-Windows-macOS-Linux-und-Webbrowser-9290541.html",
-      "image_title": ","
+      "title": "Kubernetes-Secrets verschlüsselt in Git speichern mit Sealed Secrets",
+      "url": "https://www.heise.de/ratgeber/Kubernetes-Secrets-verschluesselt-in-Git-speichern-mit-Sealed-Secrets-9296802.html",
+      "image_title": ", KI Midjourney Bearbeitung: c’t"
+    },
+    {
+      "title": "Vielseitiger Schönschreiber: Was der Editor Bear 2 für Apple-Geräte taugt",
+      "url": "https://www.heise.de/tests/Vielseitiger-Schoenschreiber-Was-der-Editor-Bear-2-fuer-Apple-Geraete-taugt-9290423.html",
+      "image_title": "Bear 2 auf dem Mac"
     },
     {
       "title": "Videotürklingeln für iOS im Test: Wer da?",
@@ -323,11 +326,6 @@
       "title": "15 Minuten Weltruhm: Die Leaker-Szene rund um die Apple-Geheimnisse",
       "url": "https://www.heise.de/hintergrund/15-Minuten-Weltruhm-Die-Leaker-Szene-rund-um-die-Apple-Geheimnisse-9284249.html",
       "image_title": "Person in Kaputzenpullover vor einem Apple-Logo"
-    },
-    {
-      "title": "Gekonnt abnabelnExterne Laufwerke sicher vom Mac entfernen",
-      "url": "https://www.heise.de/hintergrund/Gekonnt-abnabeln-Externe-Laufwerke-sicher-vom-Mac-entfernen-9278415.html",
-      "image_title": ","
     },
     {
       "title": "FreeCAD mit Add-ons anpassen und erweitern",
