@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-07T12:20:56",
+  "timestamp": "2023-09-07T13:13:50",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Aruba",
+      "url": "https://www.heise.de/news/Aruba-schliesst-hochriskante-Luecken-in-Controllern-und-Gateways-9297925.html"
+    },
+    {
       "title": "TP-Link",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Unbefugte-Zugriffe-auf-TP-Link-Router-moeglich-9297306.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Android-11-12-13-moeglich-9296497.html"
     },
     {
-      "title": "Asus-Router",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Kontrolle-ueber-Asus-Router-erlangen-9296210.html"
+      "title": "Aruba schließt hochriskante Lücken in Controllern und Gateways",
+      "teaser": "Für Aruba-Controller und -Gateways der Serien 9000 und 9200 gibt es Updates, die hochriskante Sicherheitslücken schließen.",
+      "url": "https://www.heise.de/news/Aruba-schliesst-hochriskante-Luecken-in-Controllern-und-Gateways-9297925.html"
+    },
+    {
+      "title": "China: Informationspflicht gibt Hackern womöglich Zugriff auf Sicherheitslücken",
+      "teaser": "Tech-Firmen müssen in China Informationen über Sicherheitslücken umgehend an die Regierung geben. Von dort dürften die auch an staatliche Hackergruppen gehen.",
+      "url": "https://www.heise.de/news/China-Informationspflicht-gibt-Hackern-womoeglich-Zugriff-auf-Sicherheitsluecken-9297913.html",
+      "image_title": "Digitale chinesische Flagge"
     },
     {
       "title": "Verschlüsselung bedroht: Digitalwirtschaft läuft Sturm gegen Chatkontrolle",
@@ -59,6 +70,11 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Unbefugte-Zugriffe-auf-TP-Link-Router-moeglich-9297306.html"
     },
     {
+      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
+      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
+      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
       "title": "Patchday: Schadcode-Attacken auf Android 11, 12, 13 möglich",
       "teaser": "Google und weitere Hersteller von Android-Geräten haben wichtige Sicherheitsupdates veröffentlicht. Eine Lücke wird bereits ausgenutzt.",
       "url": "https://www.heise.de/news/Patchday-Schadcode-Attacken-auf-Android-11-12-13-moeglich-9296497.html",
@@ -69,11 +85,6 @@
       "teaser": "Ein Windows-7-PC war Einfallstor: Lockbit konnte bei einem Zaunbauer für Hochsicherheitsbereiche aus dem Vereinigten Königreich einbrechen und Daten stehlen.",
       "url": "https://www.heise.de/news/Lockbit-veroeffentlicht-Daten-von-britischem-Hochsicherheits-Zaunbauer-9296464.html",
       "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
-    },
-    {
-      "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
-      "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
-      "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
     },
     {
       "title": "Sicherheitsupdates: Angreifer können Kontrolle über Asus-Router erlangen",
@@ -150,17 +161,6 @@
       "title": "Jetzt aktualisieren! Proof-of-Concept für kritische VMware-Aria-Lücke",
       "teaser": "Vergangene Woche hat VMware Updates zum Schließen einer kritischen Sicherheitslücke herausgegeben. Jetzt ist ein Proof-of-Concept verfügbar. Zeit fürs Update!",
       "url": "https://www.heise.de/news/Jetzt-aktualisieren-Proof-of-Concept-fuer-kritische-VMware-Aria-Luecke-9293630.html"
-    },
-    {
-      "title": "Cyberangriff: Datenleck bei Deutsche Leasing",
-      "teaser": "Ein Cyberangriff vor drei Monaten auf die Deutsche Leasing führte zunächst zur Abschaltung der Systeme. Nun ist klar: Es sind Daten abgeflossen.",
-      "url": "https://www.heise.de/news/Cyberangriff-Datenleck-bei-Deutsche-Leasing-9293021.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "IT-Sicherheit: Verfassungsschutz fordert mehr Engagement von Unternehmen",
-      "teaser": "Die Mehrheit der vom Bitkom befragten tausend Unternehmen wurde voriges Jahr aus dem Cyperspace angegriffen. Der Verfassungsschutz warnt vor großen Schäden.",
-      "url": "https://www.heise.de/news/IT-Sicherheit-Verfassungsschutz-fordert-mehr-Engagement-von-Unternehmen-9292914.html"
     },
     {
       "title": "heise Security Tour 2023",
