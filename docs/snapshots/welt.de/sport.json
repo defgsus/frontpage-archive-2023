@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-07T04:13:40",
+  "timestamp": "2023-09-07T05:10:25",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "Zverev verpasst Halbfinale nach deutlicher Niederlage gegen Alcaraz",
+      "teaser": "Glatt in drei Sätzen scheiterte Alexander Zverev an Titelverteidiger Carlos Alcaraz. In Satz zwei musste sich der Deutsche zudem behandeln lassen. Ein Lob vom Gewinner gab es dennoch.",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile247335216/8487932657-ci23x11-w20/2023-US-Open-Day-10.jpg",
+      "image_title": "Gegen Carlos Alcaraz (rechts) konnte Zverev nichts ausrichten"
+    },
     {
       "title": "BVB-Profi Thorgan Hazard wechselt nach Anderlecht",
       "teaser": "In Deutschland war das Transferfenster seit Freitagabend geschlossen – in Belgien aber konnten Clubs noch bis Mittwochabend Neuzugänge registrieren. Ein BVB-Profi hat diese Option nun genutzt.",
@@ -54,13 +61,6 @@
       "image_url": "https://img.welt.de/img/sport/triathlon/mobile247277594/2527937147-ci23x11-w20/Ironman-promenade-des-anglais.jpg",
       "image_title": "Um 6.50 Uhr fällt am Sonntag hier der Start zur Ironman-WM, zum letzten großen Rennen des Jan Frodeno",
       "author": "Melanie Haack"
-    },
-    {
-      "title": "Sieg mit Schwachpunkt – „Das wahrscheinlich schlechteste Spiel, das ich je gespielt habe“",
-      "teaser": "Deutschland kämpft sich gegen Lettland ins Halbfinale der Basketball-WM. Dort wartet am Freitag Topfavorit USA auf das Team von Gordon Herbert. Dann bedarf es einer deutlichen Leistungssteigerung. Besonders von Dennis Schröder, der gegen die Letten einen schwachen Tag erwischte.",
-      "url": "https://www.welt.de/sport/basketball/",
-      "image_url": "https://img.welt.de/img/sport/basketball/mobile247324802/0987935447-ci23x11-w20/Basketball-WM-2023-Deutschland-Lettland.jpg",
-      "image_title": "Dennis Schröder traf nur vier seiner 26 Versuche gegen Lettland. Trotzdem steht Deutschland im WM-Halbfinale"
     },
     {
       "title": "„Lange auf den Moment gewartet“ – Ter Stegen schickt Kampfansage an Neuer",
@@ -250,6 +250,13 @@
       "image_title": "Nicht zu schlagen: Carlos Sainz wurde nach seiner Bestzeit von den Ferrari-Fans in Monza gefeiert"
     },
     {
+      "title": "Sieg mit Schwachpunkt – „Das wahrscheinlich schlechteste Spiel, das ich je gespielt habe“",
+      "teaser": "Deutschland kämpft sich gegen Lettland ins Halbfinale der Basketball-WM. Dort wartet am Freitag Topfavorit USA auf das Team von Gordon Herbert. Dann bedarf es einer deutlichen Leistungssteigerung. Besonders von Dennis Schröder, der gegen die Letten einen schwachen Tag erwischte.",
+      "url": "https://www.welt.de/sport/basketball/",
+      "image_url": "https://img.welt.de/img/sport/basketball/mobile247324802/0987935447-ci23x11-w20/Basketball-WM-2023-Deutschland-Lettland.jpg",
+      "image_title": "Dennis Schröder traf nur vier seiner 26 Versuche gegen Lettland. Trotzdem steht Deutschland im WM-Halbfinale"
+    },
+    {
       "title": "Ter Stegen macht eine Kampfansage an Neuer",
       "teaser": "Die deutsche Nationalmannschaft steht gegen Frankreich und Japan unter extremen Zugzwang. Im Tor wird Marc-Andre ter Stegen stehen. Der Keeper des FC Barcelona sieht sich als klare Nummer eins und möchte diesen Status auch nicht kampflos hergeben.",
       "url": "https://www.welt.de/sport/fussball/",
@@ -417,13 +424,6 @@
       "image_title": "Thomas Müller ist wieder Nationalspieler"
     },
     {
-      "title": "Die deutsche Hilflosigkeit",
-      "teaser": "Die deutsche Nationalelf wurde bei der WM in Katar von Kameras begleitet. Nun ist die Doku fertig. Was ein Helden-Epos werden sollte, ist ein Dokument der Entzauberung. One-Love-Debatte, Disziplinlosigkeiten, Traineransprachen: In dieser Mannschaft stimmte wenig.",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/sport/fussball/mobile247264206/6357935247-ci23x11-w20/WM-2022-Pressekonferenz-Deutschland.jpg",
-      "image_title": "Bundestrainer Hansi Flick und das deutsche Nationalteam stecken in einer tiefen Krise"
-    },
-    {
       "title": "„Ich habe mich nie um Gewichte gekümmert“",
       "teaser": "Jay Cutler ist eine Legende des Bodybuilding. Mit 50 Jahren ist der Mann immer noch in Bestform, auch wenn er heute andere Ziele für seinen Körper verfolgt. Training, Ernährung, Routinen: In einem seiner raren Interviews gibt Cutler hier Einblick in seinen Lebenswandel.",
       "url": "https://www.welt.de/sport/fitness/plus246709198/Bodybuilder-Legende-Jay-Cutler-Ich-habe-mich-nie-um-Gewichte-gekuemmert.html",
@@ -566,8 +566,12 @@
       "image_title": "Bayer 04 Leverkusen v SV Darmstadt 98 - Bundesliga"
     },
     {
-      "title": "Zverev verpasst Halbfinale mit Niederlage gegen Alcaraz",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article247335196/Zverev-verpasst-Halbfinale-mit-Niederlage-gegen-Alcaraz.html"
+      "title": "Zverev verpasst Halbfinale nach deutlicher Niederlage gegen Alcaraz",
+      "url": "https://www.welt.de/sport/article247335204/US-Open-Zverev-verpasst-Halbfinale-nach-deutlicher-Niederlage-gegen-Alcaraz.html"
+    },
+    {
+      "title": "Ausgelaugter Zverev verpasst Überraschung gegen Alcaraz",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article247335196/Ausgelaugter-Zverev-verpasst-Ueberraschung-gegen-Alcaraz.html"
     },
     {
       "title": "BVB-Profi Thorgan Hazard wechselt nach Anderlecht",
@@ -622,12 +626,12 @@
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-suedwest/article247329498/SV-Stuttgarter-Kickers-VfR-Aalen-Ist-die-Schlappe-verdaut-Regionalliga-Suedwest.html"
     },
     {
-      "title": "SSVg Velbert - FC Gütersloh",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247329464/SSVg-Velbert-FC-Guetersloh-Velbert-und-Gueterloh-im-Aufsteigerduell-Regionalliga-West.html"
-    },
-    {
       "title": "KSV Hessen Kassel - SG Barockstadt Fulda-Lehnerz",
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-suedwest/article247329482/KSV-Hessen-Kassel-SG-Barockstadt-Fulda-Lehnerz-Heimmacht-KSV-Hessen-Kassel-Regionalliga-Suedwest.html"
+    },
+    {
+      "title": "SSVg Velbert - FC Gütersloh",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247329464/SSVg-Velbert-FC-Guetersloh-Velbert-und-Gueterloh-im-Aufsteigerduell-Regionalliga-West.html"
     },
     {
       "title": "TSV Steinbach - Eintracht Frankfurt U21",
@@ -680,10 +684,6 @@
     {
       "title": "Vom Held zum Herausforderer: Die neue Rolle des Timo Boll",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article247323024/Vom-Held-zum-Herausforderer-Die-neue-Rolle-des-Timo-Boll.html"
-    },
-    {
-      "title": "„Die Knaller kommen früh in der Saison“",
-      "url": "https://www.welt.de/sport/article247305894/Handball-Bundesliga-Kretzschmar-Knaller-kommen-frueh-in-der-Saison.html"
     }
   ]
 }
