@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-08T11:09:08",
+  "timestamp": "2023-09-08T12:20:21",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,28 +19,28 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.855b4122e3848d96ab73",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.38f87e119a766676e911",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Mozilla: Autos sammeln Daten zum Einwanderungsstatus und zur sexuellen Aktivität",
+      "teaser": "Mozilla hat Autos von 25 Herstellern auf die Einhaltung des Datenschutzes geprüft – mit verheerendem Ergebnis.",
+      "url": "https://www.heise.de/news/Mozilla-Autos-sammeln-Daten-zum-Einwanderungsstatus-und-zur-sexuellen-Aktivitaet-9295153.html",
+      "image_title": "3 Stop-Tafeln nebeneinander"
+    },
+    {
+      "title": "Surface-Hardware: Microsoft löst weitere Vierkern-Prozessoren ab",
+      "teaser": "Microsoft plagt ein Problem: Durch die azyklische Vorstellung wird selbst das nächste High-End-Surface eine fast schon wieder veraltete CPU verwenden.",
+      "url": "https://www.heise.de/news/Microsoft-Surface-Neue-Notebooks-und-Tablets-mit-schnelleren-CPUs-9299001.html"
+    },
+    {
       "title": "Core i-13000: Fehlerhafte BIOS-Versionen verursachen Bluescreens",
       "teaser": "In Intels BIOS-Microcode hat sich ein Fehler eingeschlichen. Er verursacht unter bestimmten Voraussetzungen Bluescreens.",
       "url": "https://www.heise.de/news/Bluescreens-PCs-mit-Raptor-Lake-Prozessoren-benoetigen-BIOS-Updates-9297866.html",
       "image_title": "Intels CPU-Topmodell Core i9-13900K aus der Raptor-Lake-Generation."
-    },
-    {
-      "title": "China: Informationspflicht gibt Hackern womöglich Zugriff auf Sicherheitslücken",
-      "teaser": "Tech-Firmen müssen in China Informationen über Sicherheitslücken umgehend an die Regierung geben. Von dort dürften die auch an staatliche Hackergruppen gehen.",
-      "url": "https://www.heise.de/news/China-Informationspflicht-gibt-Hackern-womoeglich-Zugriff-auf-Sicherheitsluecken-9297913.html",
-      "image_title": "Digitale chinesische Flagge"
-    },
-    {
-      "title": "Allianz der Halbleiterregionen: Europa lobbyiert jetzt für die Chipfertigung",
-      "teaser": "27 EU-Regionen bilden die Allianz der Halbleiterregionen. Sie beeinflusst die Fördermittelverteilung und lobbyiert gegen ein Verbot von Ewigkeitschemikalien.",
-      "url": "https://www.heise.de/news/Sachsen-initiiert-Allianz-der-Halbleiterregionen-9298376.html"
     },
     {
       "title": "Ausprobiert: So schlägt sich ein Thin Client als Desktop-Ersatz​",
@@ -52,6 +52,21 @@
       "teaser": "Es muss nicht immer Tippen sein: Goodnotes 6 für iPadOS erkennt und korrigiert Fehler selbst in handschriftlichen Notizen. Wir haben die App getestet.",
       "url": "https://www.heise.de/tests/Effektiver-als-Papier-und-Bleistift-9297521.html",
       "image_title": "Goodnotes 6 auf dem iPad"
+    },
+    {
+      "title": "Von wegen altes Legacy-Eisen: Der Mainframe hat noch einige Tricks auf Lager!​",
+      "teaser": "Fast alle Mainframe-Nutzer sehen die Großrechner positiv, will BMC herausgefunden haben. Und investieren wollen vor allem neue Nutzer.",
+      "url": "https://www.heise.de/news/Von-wegen-altes-Legacy-Eisen-Der-Mainframe-hat-noch-einige-Tricks-auf-Lager-9299346.html"
+    },
+    {
+      "title": "Neu in .NET 7.0 [30]: LINQ-Operatoren Order() und OrderDescending()",
+      "teaser": "Microsoft hat die Operatoren zum Sortieren von Listen um verkürzte Varianten ergänzt.",
+      "url": "https://www.heise.de/blog/Neu-in-NET-7-0-30-LINQ-Operatoren-Order-und-OrderDescending-9298973.html"
+    },
+    {
+      "title": "Blazor-Entwicklung: Komponenten, die immer passen",
+      "teaser": "Blazor-Anwendungen mit unterschiedlichen Schichtarchitekturen können gemeinsame Razor Components nutzen: Ein Fallbeispiel zeigt den Einsatz in der Praxis.",
+      "url": "https://www.heise.de/hintergrund/Blazor-Entwicklung-Komponenten-die-immer-passen-9297727.html"
     },
     {
       "title": "l+f: Das rätselhafte root-Passwort",
@@ -87,11 +102,6 @@
       "url": "https://www.heise.de/news/40-Prozent-mehr-Spam-Mails-GMX-und-web-de-sehen-KI-als-Grund-9298921.html"
     },
     {
-      "title": "Surface-Hardware: Microsoft löst weitere Vierkern-Prozessoren ab",
-      "teaser": "Microsoft plagt ein Problem: Durch die azyklische Vorstellung wird selbst das nächste High-End-Surface eine fast schon wieder veraltete CPU verwenden.",
-      "url": "https://www.heise.de/news/Microsoft-Surface-Neue-Notebooks-und-Tablets-mit-schnelleren-CPUs-9299001.html"
-    },
-    {
       "title": "Zoom bringt KI-Funktionen in Video-Meetings",
       "teaser": "Der neue KI-Assistent von Zoom bietet viele Möglichkeiten und wirft Fragen zum Datenschutz auf.",
       "url": "https://www.heise.de/news/Zoom-bringt-KI-Funktionen-in-Video-Meetings-9297572.html"
@@ -123,17 +133,6 @@
       "title": "Umfrage: WebAssembly wächst über das Web hinaus",
       "teaser": "Eine Umfrage von CNCF zeigt, dass immer mehr Entwickler WebAssembly für Projekte jenseits des Browsers einsetzen. Sie schätzen Flexibilität und Portierbarkeit.",
       "url": "https://www.heise.de/news/Umfrage-WebAssembly-waechst-ueber-das-Web-hinaus-9298069.html"
-    },
-    {
-      "title": "Reform der Notfallversorgung: Mehr Telemedizin und zentrale Notrufstelle geplant",
-      "teaser": "Auch mit einem digitalen Echtzeitregister und der E-Patientenakte soll die Notfallversorgung effizienter gestaltet werden.",
-      "url": "https://www.heise.de/news/Reform-der-Notfallversorgung-E-Patientenakte-und-Register-sollen-helfen-9298344.html",
-      "image_title": "Hände, die ein Smartphone bedienen, um Hife zu holen"
-    },
-    {
-      "title": "Malvertising-Kampagne will Mac-Nutzern Atomic Stealer unterjubeln",
-      "teaser": "IT-Forscher beobachten eine Malvertising-Kampagne, deren Urheber Mac-Nutzern den Atomic Stealer unterschieben wollen. Der klaut etwa Krypto-Währungen.",
-      "url": "https://www.heise.de/news/Malvertising-Kampagne-will-Mac-Nutzern-Atomic-Stealer-unterjubeln-9298637.html"
     },
     {
       "title": "BRANDMAUER IT ist Champion bei Managed Workplace Services",
