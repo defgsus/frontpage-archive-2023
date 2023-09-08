@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-08T10:11:22",
+  "timestamp": "2023-09-08T11:09:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -33,7 +33,7 @@
   "articles": [
     {
       "title": "iOS, iPadOS, macOS, watchOS",
-      "url": "https://www.heise.de/news/Notfall-und-Bugfix-Updates-fuer-iPhone-iPad-Mac-und-Apple-Watch-9298564.html"
+      "url": "https://www.heise.de/news/NSO-Group-Angriff-Notfall-Updates-fuer-iPhone-iPad-Mac-und-Apple-Watch-9298564.html"
     },
     {
       "title": "Aruba",
@@ -48,7 +48,7 @@
       "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html"
     },
     {
-      "title": "Anstieg bei KI-gestützten mehrstufigen Malware- und Phishing-Attacken beobachtet",
+      "title": "KI-gestützte mehrstufige Phishing- und Malware-Angriffe auf dem Vormarsch",
       "teaser": "Ein IT-Sicherheitsunternehmen sieht eine Zunahme an mehrstufigen Phishing- und Malware-Angriffen. Diese seien aufgrund KI-Nutzung bedrohlicher.",
       "url": "https://www.heise.de/news/Anstieg-bei-KI-gestuetzten-mehrstufigen-Malware-und-Phishing-Attacken-beobachtet-9298871.html",
       "image_title": "Ai(artificial,Intelligence),Concept. Bard, ChatGPT, KI, Chatbot"
@@ -59,20 +59,26 @@
       "url": "https://www.heise.de/news/40-Prozent-mehr-Spam-Mails-GMX-und-web-de-sehen-KI-als-Grund-9298921.html"
     },
     {
+      "title": "\"Apple-Fans nerven\": Flipper Zero produziert Phantom-Geräte über Bluetooth LE",
+      "teaser": "Apple-Geräte sind anfällig für Spoofing-Angriffe über BLE. Spezielle Bluetooth-Hardware ist dafür seit kurzem nicht mehr notwendig.",
+      "url": "https://www.heise.de/news/Apple-Fans-nerven-Flipper-Zero-produziert-Phantom-Geraete-ueber-Bluetooth-LE-9298061.html",
+      "image_title": "iPhones unter BLE-Beschuss"
+    },
+    {
       "title": "Malvertising-Kampagne will Mac-Nutzern Atomic Stealer unterjubeln",
       "teaser": "IT-Forscher beobachten eine Malvertising-Kampagne, deren Urheber Mac-Nutzern den Atomic Stealer unterschieben wollen. Der klaut etwa Krypto-Währungen.",
       "url": "https://www.heise.de/news/Malvertising-Kampagne-will-Mac-Nutzern-Atomic-Stealer-unterjubeln-9298637.html"
     },
     {
-      "title": "NSO-Group-Angriff: Notfall-Updates für iPhone, iPad, Mac und Apple Watch",
-      "teaser": "Apple hat am Donnerstagabend nochmals Updates für seine aktuellen Betriebssysteme nachgeschoben. Enthalten sind Fixes für einen aktiven Exploit.",
-      "url": "https://www.heise.de/news/Notfall-und-Bugfix-Updates-fuer-iPhone-iPad-Mac-und-Apple-Watch-9298564.html",
-      "image_title": "Apple-Logo"
-    },
-    {
       "title": "Warum Ransomware-Angriffe bedrohlicher werden und wie Sie sich schützen können",
       "teaser": "Auch wenn die Zahl der Ransomware-Attacken zuletzt gleich geblieben ist, ist das keine Entwarnung. Denn die Angreifer gehen immer professioneller vor und verschlüsseln eine größere Anzahl an Daten. Unternehmen benötigen eine Kombination verschiedener Abwehrmechanismen.",
       "url": "https://www.heise.de/solutions/sophos/warum-ransomware-angriffe-bedrohlicher-werden-und-wie-unternehmen-sich-schuetzen-koennen/?source=nat_teas"
+    },
+    {
+      "title": "NSO-Group-Angriff: Notfall-Updates für iPhone, iPad, Mac und Apple Watch",
+      "teaser": "Apple hat am Donnerstagabend nochmals Updates für seine aktuellen Betriebssysteme nachgeschoben. Enthalten sind Fixes für einen aktiven Exploit.",
+      "url": "https://www.heise.de/news/NSO-Group-Angriff-Notfall-Updates-fuer-iPhone-iPad-Mac-und-Apple-Watch-9298564.html",
+      "image_title": "Apple-Logo"
     },
     {
       "title": "Aruba-Controller und -Gateways mit hochriskanten Sicherheitslücken",
@@ -95,6 +101,12 @@
       "title": "Sicherheitsupdates: Unbefugte Zugriffe auf TP-Link-Router möglich",
       "teaser": "Angreifer können verschiedene Router von TP-Link attackieren und im schlimmsten Fall eigene Befehle auf Geräten ausführen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Unbefugte-Zugriffe-auf-TP-Link-Router-moeglich-9297306.html"
+    },
+    {
+      "title": "Cisco warnt vor teils kritischen Lücken und liefert Updates für mehrere Produkte",
+      "teaser": "In mehreren Cisco-Produkten lauern Sicherheitslücken, die Updates schließen sollen. Eine gilt sogar als kritisch.",
+      "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html",
+      "image_title": "Aufmacher Cisco viele Patches"
     },
     {
       "title": "Patchday: Schadcode-Attacken auf Android 11, 12, 13 möglich",
@@ -150,16 +162,6 @@
       "teaser": "Der Schweizer Telemedizin-Anbieter Medgate ist nach einem Cyberangriff wieder einsatzfähig. Sensible Daten seien nicht abgeflossen.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Telemedizin-Pionier-Medgate-9294652.html",
       "image_title": "Viele E-Mails schwirren um Arzt herum"
-    },
-    {
-      "title": "secIT Digital: Wenn der Drucker zum Feind im Firmennetzwerk mutiert",
-      "teaser": "Durch IoT-Hacking können Angreifer über eigentlich unscheinbare Geräte jede Menge Schaden anrichten. Die secIT Digital zeigt, wie man sich davor schützt.",
-      "url": "https://www.heise.de/news/secIT-Digital-Wenn-der-Drucker-zum-Feind-im-Firmennetzwerk-mutiert-9291598.html"
-    },
-    {
-      "title": "Ransomware: Cyberangriffe auf MSSQL-Datenbanken",
-      "teaser": "Derzeit greifen Cyberkriminelle MSSQL-Datenbanken vermehrt mit Brute-Force-Attacken an. Ihr Ziel ist die Verteilung der Ransomware Freeworld.",
-      "url": "https://www.heise.de/news/Ransomware-Cyberangriffe-auf-MSSQL-Datenbanken-9293829.html"
     },
     {
       "title": "heise Security Tour 2023",
