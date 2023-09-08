@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-08T06:14:20",
+  "timestamp": "2023-09-08T07:10:04",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Core i-13000: Fehlerhafte BIOS-Versionen verursachen Bluescreens",
+      "teaser": "In Intels BIOS-Microcode hat sich ein Fehler eingeschlichen. Er verursacht unter bestimmten Voraussetzungen Bluescreens.",
+      "url": "https://www.heise.de/news/Bluescreens-PCs-mit-Raptor-Lake-Prozessoren-benoetigen-BIOS-Updates-9297866.html",
+      "image_title": "Intels CPU-Topmodell Core i9-13900K aus der Raptor-Lake-Generation."
+    },
+    {
       "title": "China: Informationspflicht gibt Hackern womöglich Zugriff auf Sicherheitslücken",
       "teaser": "Tech-Firmen müssen in China Informationen über Sicherheitslücken umgehend an die Regierung geben. Von dort dürften die auch an staatliche Hackergruppen gehen.",
       "url": "https://www.heise.de/news/China-Informationspflicht-gibt-Hackern-womoeglich-Zugriff-auf-Sicherheitsluecken-9297913.html",
@@ -35,12 +41,6 @@
       "title": "Allianz der Halbleiterregionen: Europa lobbyiert jetzt für die Chipfertigung",
       "teaser": "27 EU-Regionen bilden die Allianz der Halbleiterregionen. Sie beeinflusst die Fördermittelverteilung und lobbyiert gegen ein Verbot von Ewigkeitschemikalien.",
       "url": "https://www.heise.de/news/Sachsen-initiiert-Allianz-der-Halbleiterregionen-9298376.html"
-    },
-    {
-      "title": "Google Fonts: Österreichischer Massen-Abmahner scheitert​",
-      "teaser": "Zehntausende österreichische Webseiten machten Frau Z. unwohl, weil sie ihre IP-Adresse angeblich in die USA schickten. Beweisen kann sie das nicht.​",
-      "url": "https://www.heise.de/news/Google-Fonts-Oesterreichischer-Massen-Abmahner-scheitert-9295922.html",
-      "image_title": "Ein Notebook, auf dem der Schriftzug Fonts angezeigt wird"
     },
     {
       "title": "KI: Wie Benchmarks die Leistung großer Sprachmodelle messen und vergleichen",
@@ -53,6 +53,23 @@
       "teaser": "Besonders gute Ergebnisse erzielt man mit KI-Sprachmodellen, wenn man sie mit den richtigen Prompts anleitet. Für die Output-Kontrolle helfen dann Werkzeuge.",
       "url": "https://www.heise.de/ratgeber/KI-Sprachmodelle-Tipps-und-Tools-fuer-den-produktiven-Einsatz-9287624.html",
       "image_title": "KI Midjourney Bearbeitung c’t"
+    },
+    {
+      "title": "Malvertising-Kampagne will Mac-Nutzern Atomic Stealer unterjubeln",
+      "teaser": "IT-Forscher beobachten eine Malvertising-Kampagne, deren Urheber Mac-Nutzern den Atomic Stealer unterschieben wollen. Der klaut etwa Krypto-Währungen.",
+      "url": "https://www.heise.de/news/Malvertising-Kampagne-will-Mac-Nutzern-Atomic-Stealer-unterjubeln-9298637.html"
+    },
+    {
+      "title": "Goodnotes 6 für iPad im Test: Effektiver als Papier und Bleistift",
+      "teaser": "Es muss nicht immer Tippen sein: Goodnotes 6 für iPadOS erkennt und korrigiert Fehler selbst in handschriftlichen Notizen. Wir haben die App getestet.",
+      "url": "https://www.heise.de/tests/Effektiver-als-Papier-und-Bleistift-9297521.html",
+      "image_title": "Goodnotes 6 auf dem iPad"
+    },
+    {
+      "title": "Trickbot-Malware: USA und Großbritannien verhängen Sanktionen gegen mehr Russen",
+      "teaser": "Die USA und Großbritannien ziehen mehr mutmaßliche Cyberkriminelle aus der Anonymität. Gegen mehrere Russen wurden Sanktionen verhängt und Anklagen eingereicht.",
+      "url": "https://www.heise.de/news/Trickbot-Malware-USA-und-Grossbritannien-verhaengen-Sanktionen-gegen-mehr-Russen-9298641.html",
+      "image_title": "Hände am Laptop im Gegenlicht, Vordergrund im Dunklen"
     },
     {
       "title": "Konferenz zu IIoT und IoT: Jetzt noch Vortrag zur building IoT 2024 einreichen",
@@ -120,21 +137,6 @@
       "title": "Razzia: Polizei zerschlägt illegalen Streamingdienst",
       "teaser": "Mehrere Männer haben in Reutlingen einen illegalen Streamingdienst betrieben. Sie boten Kunden bundesweit und im Ausland gegen Gebühr Pay-TV-Inhalte an.",
       "url": "https://www.heise.de/news/Razzia-Polizei-zerschlaegt-illegalen-Streamingdienst-9298251.html"
-    },
-    {
-      "title": "Es gibt nicht nur ChatGPT: Jetzt noch zur Webinar-Serie zu LLMs anmelden",
-      "teaser": "Die Webinar-Serie von Heise zeigt ab dem 21. September, wie Unternehmen Large Language Models für diverse Zwecke einsetzen und anpassen können.",
-      "url": "https://www.heise.de/news/Es-gibt-nicht-nur-ChatGPT-Jetzt-noch-zur-Webinar-Serie-zu-LLMs-anmelden-9298163.html"
-    },
-    {
-      "title": "Slack: Eine Anwendung schluckt alle Firmenprozesse",
-      "teaser": "Fast eine Million Nutzer würden bereits ihre Firmenprozesse in Slack automatisieren – und jetzt erhalten sie einen runderneuerten Workflow Builder.",
-      "url": "https://www.heise.de/news/Slack-Eine-Anwendung-schluckt-alle-Firmenprozesse-9297959.html"
-    },
-    {
-      "title": "Security: Die zehn Schwachstellen der großen KI-Modelle",
-      "teaser": "Das OWASP veröffentlichte die Topliste der größten Schwachstellen von Sprachmodellen. Neben alten Bekannten enthält die Liste auch Besonderheiten.",
-      "url": "https://www.heise.de/hintergrund/Security-Die-zehn-Schwachstellen-der-grossen-KI-Modelle-9297433.html"
     },
     {
       "title": "BRANDMAUER IT ist Champion bei Managed Workplace Services",
