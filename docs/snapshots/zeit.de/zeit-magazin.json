@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-10T13:12:16",
+  "timestamp": "2023-09-10T14:10:09",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -50,7 +50,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ \"Warum darf ich nicht zur Schule gehen?\"",
+      "title": "Z+ So schmeckt es am besten",
+      "teaser": "Heute wird der ZEITmagazin Wochenmarkt drei Jahre alt. Zur Feier des Tages präsentieren wir die zehn beliebtesten Rezepte: von Auberginen-Pasta bis Wunder-Rührei.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/beliebte-rezepte-3-jahre-wochenmarkt-klassiker-online",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/beliebte-rezepte-3-jahre-wochenmarkt-klassiker-online-bild/wide__822x462",
+      "image_title": "Beliebte Rezepte: So schmeckt es am besten"
+    },
+    {
+      "title": "Z+ Bildung mit Behinderung: \"Warum darf ich nicht zur Schule gehen?\"",
       "teaser": "Der siebenjährige Sohn mit Behinderung besucht seit einem Jahr eine Regelschule. Die erschöpften Eltern fragen sich mittlerweile, ob das wirklich der richtige Weg war.",
       "url": "https://www.zeit.de/2023/38/bildung-behinderung-regelschule-ines-schipperges",
       "image_url": "https://img.zeit.de/2023/38/bildung-behinderung-regelschule-ines-schipperges-teaserbild/wide__822x462",
@@ -62,13 +69,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/38/grace-wales-bonner-modedesignerin-black-culture",
       "image_url": "https://img.zeit.de/zeit-magazin/2023/38/die-grosse-unbekannte-bild-6/wide__822x462",
       "image_title": "Grace Wales Bonner: Inspiriert von Josephine Baker und Kendrick Lamar"
-    },
-    {
-      "title": "Z+ Lederjacken: Schaut her, ich bin Alpha",
-      "teaser": "Das Tragen von Tierhaut ist in unserer Gesellschaft eine Visitenkarte der Virilität. In Lederjacken entdeckt jeder Mann den Schwarzenegger in sich.",
-      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-09/lederjacken-maenner-mode-design",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-09/wochenende-37-mode-kolumne-lederjacke-bild/wide__822x462",
-      "image_title": "Lederjacken: Schaut her, ich bin Alpha"
     },
     {
       "title": "Ehrenamt verpflichten?",
@@ -84,10 +84,10 @@
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Cocktailschirmchen: Ein Schirmchen für alles",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/cocktailschirmchen-partys-getraenke-dekoration",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/wochenende-37-ode-an-ein-ding-bild/tile__315x394",
-      "image_title": "Cocktailschirmchen: Ein Schirmchen für alles"
+      "title": "Z+ Lederjacken: Schaut her, ich bin Alpha",
+      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-09/lederjacken-maenner-mode-design",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-09/wochenende-37-mode-kolumne-lederjacke-bild/tile__315x394",
+      "image_title": "Lederjacken: Schaut her, ich bin Alpha"
     },
     {
       "title": "Auf Messers Schneide",
@@ -219,6 +219,12 @@
       "image_title": "Harald Martenstein: Denunziantentum passt nicht in eine Demokratie"
     },
     {
+      "title": "Cocktailschirmchen: Ein Schirmchen für alles",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/cocktailschirmchen-partys-getraenke-dekoration",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/wochenende-37-ode-an-ein-ding-bild/tile__315x394",
+      "image_title": "Cocktailschirmchen: Ein Schirmchen für alles"
+    },
+    {
       "title": "Z+ Tomaten: So schmeckt der Sommer im Winter",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/tomaten-sugo-zimt-rezept",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/tomaten-sugo-zimt-rezept-teaser-bild/tile__315x394",
@@ -273,12 +279,6 @@
       "image_title": "Ines Geipel: \"Der Sprint ist kein tragfähiges Lebensmodell\""
     },
     {
-      "title": "Z+ Krebs und Partnerschaft: \"Unsere ganze Zeit miteinander ist ein langer Abschied\"",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-08/krebs-partnerschaft-plaene-tod-vorbereitung",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-08/krebs-partnerschaft-plaene-tod-2/tile__315x394",
-      "image_title": "Krebs und Partnerschaft: \"Unsere ganze Zeit miteinander ist ein langer Abschied\""
-    },
-    {
       "title": "Z+ Distressed-Look: Das ideale Kostüm für das Nervenkostüm",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-08/distressed-look-mode-margiela",
       "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-08/wochenende-36-mode-kolumne-distressed-look-bild/square__460x460",
@@ -325,18 +325,25 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/38/lady-anne-glenconner-prinzessin-margaret-hofdame-leben"
     },
     {
-      "title": "Z+ Paar mit fünf Kindern: \"Sieben Leute sind um acht Uhr genau da, wo sie gerade sein müssen\"",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-06/paar-fuenf-kindern-organisation-schule-stress-morgenroutine"
+      "title": "Z+ Trystan Pütter : \"Es ist okay, müde, traurig und schwach zu sein\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/38/trystan-puetter-ratschlaege-leben"
     },
     {
       "title": "Z+ Paar mit fünf Kindern: \"Sieben Leute sind um acht Uhr genau da, wo sie gerade sein müssen\"",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-06/paar-fuenf-kindern-organisation-schule-stress-morgenroutine"
+    },
+    {
+      "title": "Z+ Krebs und Partnerschaft: \"Unsere ganze Zeit miteinander ist ein langer Abschied\"",
+      "teaser": "Karo und Samad planen ein gemeinsames Leben. Dann erfährt sie mit Mitte 30, dass sie an Krebs sterben wird. Gemeinsam bereitet das Paar den Abschied vor.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-08/krebs-partnerschaft-plaene-tod-vorbereitung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-08/krebs-partnerschaft-plaene-tod-2/square__460x460",
+      "image_title": "Krebs und Partnerschaft: \"Unsere ganze Zeit miteinander ist ein langer Abschied\""
     },
     {
       "title": "Z+ Schulschwarm: \"Sie entschlüsselte die Widmung sofort\"",
       "teaser": "Als Teenager verliebt er sich in sie. Seine Gefühle inspirieren ihn zu einer Melodie. Doch erst zu ihrem 70. Geburtstag schickt er ihr seinen musikalischen Liebesbrief.",
       "url": "https://www.zeit.de/zeit-magazin/2023/37/schulschwarm-jugendliche-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-08/schulschwarm-jugendliche-liebeskolumne-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-08/schulschwarm-jugendliche-liebeskolumne-bild/wide__822x462",
       "image_title": "Schulschwarm: \"Sie entschlüsselte die Widmung sofort\""
     },
     {
@@ -362,9 +369,8 @@
     },
     {
       "title": "Z+ Hiyashi Chuka: Fällt aus dem Ramen",
-      "teaser": "Im Sommer bleibt die Küche gern mal kalt – auch in Japan. Denn Ramen-Nudeln schmecken nicht nur heiß in der Suppe, sondern genauso als erfrischender Salat.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-08/hiyashi-chuka-rezept-resteessen-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-08/hiyashi-chuka-rezept-resteessen-wochenmarkt-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-08/hiyashi-chuka-rezept-resteessen-wochenmarkt-teaserbild/tile__315x394",
       "image_title": "Hiyashi Chuka: Fällt aus dem Ramen"
     },
     {
@@ -378,12 +384,6 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-08/kindergrundsicherung-christian-lindner-lisa-paus-ampelkoalition",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-08/kindergrundsicherung-christian-lindner-bild/tile__315x394",
       "image_title": "Kindergrundsicherung: Lindners Welt"
-    },
-    {
-      "title": "Z+ Alleine spielen: Jetzt geh doch mal spielen",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-08/alleine-spielen-kinder-eltern-beschaeftigung",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-08/eltern-kinder-selbst-beschaeftigung-betreuung/tile__315x394",
-      "image_title": "Alleine spielen: Jetzt geh doch mal spielen"
     }
   ]
 }
