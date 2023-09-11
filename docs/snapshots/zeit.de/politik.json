@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-11T09:11:45",
+  "timestamp": "2023-09-11T10:12:17",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,24 +50,24 @@
   ],
   "articles": [
     {
-      "title": "Liveblog: Ukraine-Krieg: Annalena Baerbock besucht Umspannwerk bei Kiew",
-      "teaser": "Die Außenministerin ist zum vierten Mal seit Kriegsbeginn in der Ukraine. Bei dem Besuch geht es auch um die Energieversorgung. Ukraine rückt im Süden vor. Das Liveblog",
+      "title": "Reise nach Kiew: Annalena Baerbock sichert Ukraine Unterstützung bei EU-Beitritt zu",
+      "teaser": "Die Außenministerin ist zum vierten Mal seit Kriegsbeginn in der Ukraine. Ein EU-Beitritt sei die \"notwendige geopolitische Konsequenz\" – dennoch mahnt sie Reformen an.",
+      "url": "https://www.zeit.de/politik/2023-09/annalena-baerbock-ukraine-kiew-eu",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-baerbock-umspannwerk-besuch-blog-bild/cinema__980x420"
+    },
+    {
+      "title": "Russland: Regierungspartei gewinnt Wahlen in annektierten Regionen",
+      "teaser": "Bei zahlreichen Regionalwahlen in Russland siegt Putins Partei Einiges Russland. Auch die Scheinwahlen in den besetzten Gebieten der Ukraine gewinnt die Partei.",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/russland-regionalwahlen-moskau-besetzte-gebiete",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/russland-regionalwahlen-moskau-besetzte-gebiete-bild/wide__822x462",
+      "image_title": "Russland: Regierungspartei gewinnt Wahlen in annektierten Regionen"
+    },
+    {
+      "title": "Liveblog: Ukraine-Krieg: Kim Jong Un laut Berichten auf dem Weg nach Russland",
+      "teaser": "Nordkoreas Machthaber reist Medienberichten zufolge zu einem Treffen mit Russlands Präsident Wladimir Putin. Rheinmetall soll Schützenpanzer instand setzen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-aussenministerin-baerbock-kiew-besuch-bild/cinema__980x420"
-    },
-    {
-      "title": "Ukraine-Karte aktuell: Ukraine berichtet von Fortschritten bei Bachmut und Robotyne",
-      "teaser": "Ukrainische Truppen sollen südlich von Bachmut vorgedrungen sein. Regen und Schlamm könnten im Herbst das Vorrücken der ukrainischen und russischen Truppen verlangsamen.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/wide__822x462",
-      "image_title": "Ukraine-Karte aktuell: Ukraine berichtet von Fortschritten bei Bachmut und Robotyne"
-    },
-    {
-      "title": "G20-Gipfel in Brasilien: Lula hält Verhaftung Putins bei G20-Gipfel nun doch für möglich",
-      "teaser": "Der brasilianische Präsident Lula schränkt seine Sicherheitszusage an Putin ein. Es sei die Justiz, die über eine mögliche Verhaftung beim G20-Gipfel 2024 entscheide.",
-      "url": "https://www.zeit.de/politik/2023-09/lula-wladimir-putin-g20",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/lula-wladimir-putin-g20-bild/wide__822x462",
-      "image_title": "G20-Gipfel in Brasilien: Lula hält Verhaftung Putins bei G20-Gipfel nun doch für möglich"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-kim-jong-un-besuch-russland-putin-bild/wide__822x462",
+      "image_title": "Ukraine-Krieg: Kim Jong Un laut Berichten auf dem Weg nach Russland"
     },
     {
       "title": "Indien: G20 einigen sich auf gemeinsame Abschlusserklärung",
@@ -162,31 +162,38 @@
       "image_title": "Ukraine: Russlands Bollwerk bröckelt"
     },
     {
+      "title": "Ukraine-Karte aktuell: Ukraine berichtet von Fortschritten bei Bachmut und Robotyne",
+      "teaser": "Ukrainische Truppen sollen südlich von Bachmut vorgedrungen sein. Regen und Schlamm könnten im Herbst das Vorrücken der ukrainischen und russischen Truppen verlangsamen.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2022-11/teaserbild-karte-ukraine-russland-vormarschgebiete/cinema__980x420",
+      "image_title": "Ukraine-Karte aktuell: Ukraine berichtet von Fortschritten bei Bachmut und Robotyne"
+    },
+    {
+      "title": "G20-Gipfel in Brasilien: Lula hält Verhaftung Putins bei G20-Gipfel nun doch für möglich",
+      "teaser": "Der brasilianische Präsident Lula schränkt seine Sicherheitszusage an Putin ein. Es sei die Justiz, die über eine mögliche Verhaftung beim G20-Gipfel 2024 entscheide.",
+      "url": "https://www.zeit.de/politik/2023-09/lula-wladimir-putin-g20",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/lula-wladimir-putin-g20-bild/wide__822x462",
+      "image_title": "G20-Gipfel in Brasilien: Lula hält Verhaftung Putins bei G20-Gipfel nun doch für möglich"
+    },
+    {
       "title": "Waffenlieferungen an die Ukraine: Die Ukraine braucht die Taurus, gerade jetzt",
       "teaser": "Die Ukraine muss so schnell wie möglich viel Gelände zurückgewinnen – das ist in Deutschlands Interesse. Olaf Scholz' Spiel auf Zeit in der Taurus-Debatte ist riskant.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/waffenlieferungen-ukraine-taurus-bundesregierung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/waffenlieferungen-ukraine-taurus-bundesregierung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/waffenlieferungen-ukraine-taurus-bundesregierung-bild/wide__822x462",
       "image_title": "Waffenlieferungen an die Ukraine: Die Ukraine braucht die Taurus, gerade jetzt"
     },
     {
-      "title": "Russland: Regierungspartei gewinnt Wahlen in annektierten Regionen",
-      "teaser": "Bei zahlreichen Regionalwahlen in Russland siegt Putins Partei Einiges Russland. Auch die Scheinwahlen in den besetzten Gebieten der Ukraine gewinnt die Partei.",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/russland-regionalwahlen-moskau-besetzte-gebiete",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/russland-regionalwahlen-moskau-besetzte-gebiete-bild/wide__822x462",
-      "image_title": "Russland: Regierungspartei gewinnt Wahlen in annektierten Regionen"
-    },
-    {
       "title": "Verteidigung: Boris Pistorius will Kasernen der Bundeswehr modernisieren",
-      "teaser": "Dem Verteidigungsminister zufolge müssen zahlreiche Bundeswehr-Einrichtungen saniert werden. Die \"Spuren des Sparkurses\" vergangener Jahre seien deutlich zu sehen.",
+      "teaser": "Dem Verteidigungsminister zufolge müssen zahlreiche Bundeswehr-Einrichtungen saniert werden. Die \"Spuren des Sparkurses\" vergangener Jahre seien deutlich zu sehen. 155 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-verteidigung-infrastruktur",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-verteidigung-infrastruktur-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-verteidigung-infrastruktur-bild/cinema__980x420",
       "image_title": "Verteidigung: Boris Pistorius will Kasernen der Bundeswehr modernisieren"
     },
     {
       "title": "Nachrichtenpodcast: \"Die Region galt als hohe Risikozone für Erdbeben\"",
       "teaser": "Mehr als 300.000 Menschen sind von den Folgen des Erdbebens in Marokko betroffen. Wieso eine Vorhersage wenig verändert hätte. Und: strengere Airbnb-Regeln für New York.",
       "url": "https://www.zeit.de/politik/2023-09/erdbeben-marokko-marrakesch-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: \"Die Region galt als hohe Risikozone für Erdbeben\""
     },
     {
@@ -200,14 +207,14 @@
       "title": "Politikpodcast: \"Söder hat sich an Aiwanger ausgeliefert\"",
       "teaser": "Bayerns Ministerpräsident hat seinen Vize gerettet, aber für ihn fängt das Drama erst an: Was bedeutet die Affäre für seine politische Zukunft, was für die Union im Bund?",
       "url": "https://www.zeit.de/politik/2023-09/landtagswahl-bayern-markus-soeder-hubert-aiwanger-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2023-09/bayern-aiwanger-soeder-politikteil/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-09/bayern-aiwanger-soeder-politikteil/cinema__980x420",
       "image_title": "Politikpodcast: \"Söder hat sich an Aiwanger ausgeliefert\""
     },
     {
       "title": "Thüringen: AfD-Kandidat erreicht Stichwahl um Oberbürgermeisteramt",
-      "teaser": "Im thüringischen Nordhausen erhält AfD-Mann Jörg Prophet fast doppelt so viele Stimmen wie der parteilose Amtsinhaber. Für die absolute Mehrheit reicht es aber nicht. 452 Kommentare",
+      "teaser": "Im thüringischen Nordhausen erhält AfD-Mann Jörg Prophet fast doppelt so viele Stimmen wie der parteilose Amtsinhaber. Für die absolute Mehrheit reicht es aber nicht.",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/joerg-prophet-afd-thueringen-nordhausen-oberbuergermeister",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/nordhausen-oberbuergermeisterwahl-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/nordhausen-oberbuergermeisterwahl-bild/wide__822x462",
       "image_title": "Thüringen: AfD-Kandidat erreicht Stichwahl um Oberbürgermeisteramt"
     },
     {
@@ -221,14 +228,14 @@
       "title": "Ukraine-Überblick: Zwei NGO-Mitarbeiter getötet, Russland greift Kiew mit Drohnen an",
       "teaser": "Eine Spanierin und ein Kanadier sterben beim Versuch, humanitäre Hilfe in Bachmut zu leisten. Die Ukraine wehrt einen Drohnenangriff auf Kiew ab. Das war der Tag.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-ngo-mitarbeiterin-tot-russland-drohnen-kiew",
-      "image_url": "https://img.zeit.de/politik/2023-09/ukraine-ueberblick-ngo-road-to-relief-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-09/ukraine-ueberblick-ngo-road-to-relief-bild/cinema__980x420",
       "image_title": "Ukraine-Überblick: Zwei NGO-Mitarbeiter getötet, Russland greift Kiew mit Drohnen an"
     },
     {
       "title": "G20-Gipfel: Russland und westliche Staaten bezeichnen G20-Erklärung als Erfolg",
-      "teaser": "Deutschland, Frankreich und die USA zeigen sich zufrieden. Der russischen Sicht auf den Gipfel widersprechen sie jedoch. Klimaschützer kritisieren die Ergebnisse. 113 Kommentare",
+      "teaser": "Deutschland, Frankreich und die USA zeigen sich zufrieden. Der russischen Sicht auf den Gipfel widersprechen sie jedoch. Klimaschützer kritisieren die Ergebnisse.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/g20-gipfel-abschlusserklaerung-usa-russland",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/g20-erklaerung-erfolg-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/g20-erklaerung-erfolg-bild/wide__822x462",
       "image_title": "G20-Gipfel: Russland und westliche Staaten bezeichnen G20-Erklärung als Erfolg"
     },
     {
@@ -281,13 +288,6 @@
       "image_title": "Illegale Einwanderung: Nancy Faeser will stärker gegen Schleuser vorgehen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Die Grünen in Bayern: Nobody's Darling",
-      "teaser": "Markus Söder regiert lieber mit Hubert Aiwanger als mit den Grünen. Unterwegs im Wahlkampf mit Katharina Schulze von der Partei, die vielen in Bayern zum Feindbild taugt",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/gruene-bayern-wahlkampf-katharina-schulze-markus-soeder",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/gruene-bayern-wahlkampf-katharina-schulze-markus-soeder-bild/wide__822x462",
-      "image_title": "Die Grünen in Bayern: Nobody's Darling"
-    },
-    {
       "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
       "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
       "url": "https://www.zeit.de/serie/stoerungsmelder/",
@@ -295,11 +295,11 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
-      "title": "Migration: FDP will Maghreb-Staaten zu sicheren Herkunftsländern erklären",
-      "teaser": "Viele Kommunen kommen bei der bei Aufnahme von Geflüchteten an ihre Grenzen. Die FDP will nun Abschiebungen erleichtern. Widerstand kommt von den Grünen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/migration-fdp-maghreb-staaten-sichere-herkunftslaender",
-      "image_url": "https://img.zeit.de/politik/2023-09/fdp-sichere-herkunftslaender-eu-aussengrenze-asylverfahren-bild/wide__822x462",
-      "image_title": "Migration: FDP will Maghreb-Staaten zu sicheren Herkunftsländern erklären"
+      "title": "Z+ (abopflichtiger Inhalt); Die Grünen in Bayern: Nobody's Darling",
+      "teaser": "Markus Söder regiert lieber mit Hubert Aiwanger als mit den Grünen. Unterwegs im Wahlkampf mit Katharina Schulze von der Partei, die vielen in Bayern zum Feindbild taugt",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/gruene-bayern-wahlkampf-katharina-schulze-markus-soeder",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/gruene-bayern-wahlkampf-katharina-schulze-markus-soeder-bild/wide__822x462",
+      "image_title": "Die Grünen in Bayern: Nobody's Darling"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Usher: \"Seien Sie vorsichtig mit dem Wort Liebe\"",
