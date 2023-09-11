@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-11T07:10:47",
+  "timestamp": "2023-09-11T08:15:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Notepad++",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-in-Notepad-geschlossen-9300531.html"
+    },
+    {
       "title": "iOS, iPadOS, macOS, watchOS",
       "url": "https://www.heise.de/news/NSO-Group-Angriff-Notfall-Updates-fuer-iPhone-iPad-Mac-und-Apple-Watch-9298564.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Unbefugte-Zugriffe-auf-TP-Link-Router-moeglich-9297306.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Cisco-schliesst-teils-kritische-SIcherheitsluecken-in-mehreren-Produkten-9297182.html"
+      "title": "Passwortmanager: LastPass-Hacker scheinen Kennworttresore zu knacken",
+      "teaser": "Cyberkriminelle haben vergangenes Jahr LastPass-Kennworttresore kopiert. Nun scheinen sie diese zu knacken und Krypto-Wallets leerzuräumen.",
+      "url": "https://www.heise.de/news/Passwortmanager-LastPass-Hacker-scheinen-Kennworttresore-zu-knacken-9300583.html",
+      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
+    },
+    {
+      "title": "Sicherheitsupdate: Mehrere Lücken in Notepad++ geschlossen",
+      "teaser": "In der aktuellen Version des freien Texteditors für Windows hat der Entwickler mehrere Sicherheitsprobleme gelöst.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-in-Notepad-geschlossen-9300531.html"
     },
     {
       "title": "Senat vs. \"kybernetische Waffe\": Pegasus darf in Polen nicht mehr genutzt werden",
@@ -145,18 +156,6 @@
       "title": "Microsoft: Verbesserter Schutz vor MitM-Attacken in Exchange",
       "teaser": "Microsoft will Exchange besser vor Man-in-the-Middle-Angriffen schützen. Dazu gibt es neue Schutzmaßnahmen für Exchange 2016 und 2019 (On-Premise).",
       "url": "https://www.heise.de/news/Microsoft-Verbesserter-Schutz-vor-MitM-Attacken-in-Exchange-9295445.html"
-    },
-    {
-      "title": "Okta warnt vor Social-Engineering-Angriffen auf IT-Service-Personal",
-      "teaser": "Der Identitäts- und Zugriffs-Management-Dienstleister Okta warnt vor aktuell laufenden Social-Engineering-Attacken auf IT-Service-Personal.",
-      "url": "https://www.heise.de/news/Okta-warnt-vor-Social-Engineering-Angriffen-auf-IT-Service-Personal-9295019.html",
-      "image_title": "Angriff, Cybersicherheit"
-    },
-    {
-      "title": "AVM: Fritzbox-Firmware 7.57 und 7.31 stopfen Sicherheitsleck",
-      "teaser": "AVM hat für zahlreiche Fritzboxen die Firmware 7.57 und 7.31 veröffentlicht. Es handelt sich um Stabilitäts- und Sicherheitsupdates.",
-      "url": "https://www.heise.de/news/Fritzbox-Firmware-7-57-und-7-31-von-AVM-dichten-Sicherheitsluecke-ab-9294758.html",
-      "image_title": "AVM-Router Fritzbox 7590 AX"
     },
     {
       "title": "heise Security Tour 2023",
