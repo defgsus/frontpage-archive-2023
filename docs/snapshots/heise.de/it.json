@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-12T10:11:52",
+  "timestamp": "2023-09-12T11:09:18",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,22 @@
   ],
   "articles": [
     {
+      "title": "\"Phoenix2\": AMDs erster Hybrid-Prozessor kombiniert heimlich Zen 4 mit Zen 4c",
+      "teaser": "Offiziell gibt es ihn gar nicht, inoffiziell kursieren bereits Die-Shots und ein erster Test – AMDs Phoenix2 kombiniert unterschiedliche CPU-Kerne.",
+      "url": "https://www.heise.de/news/Phoenix2-Prozessor-AMDs-kurioseste-Nicht-Vorstellung-des-Jahres-9301380.html",
+      "image_title": "Ryzen-4000U-Prozessor"
+    },
+    {
+      "title": "SSD-Preise haben ihren Tiefpunkt hinter sich",
+      "teaser": "Wer eine neue SSD kaufen möchte, sollte sich bald entscheiden. Die Preise zahlreicher Modelle steigen wieder.",
+      "url": "https://www.heise.de/news/SSD-Preise-haben-ihren-Tiefpunkt-hinter-sich-9300997.html",
+      "image_title": "SSDs als M.2-Kärtchen"
+    },
+    {
       "title": "Ukraine-Krieg: Satelliteninternet Starlink \"an allen Fronten\" im Einsatz",
       "teaser": "Starlink spielt für die ukrainischen Truppen eine \"signifikante Rolle\" beim Kampf gegen Russland. Das hat jetzt ein ukrainischer Geheimdienstchef erklärt.",
       "url": "https://www.heise.de/news/Ukraine-Krieg-Satelliteninternet-Starlink-an-allen-Fronten-im-Einsatz-9300647.html",
       "image_title": "Starlink-Antenne im Schnee"
-    },
-    {
-      "title": "Microsoft beendet Verteilung von Druckertreibern durch Windows Update",
-      "teaser": "Microsoft hat angekündigt, keine proprietären Druckertreiber mehr über Windows Update verteilen zu wollen.",
-      "url": "https://www.heise.de/news/Microsoft-beendet-Verteilung-von-Druckertreibern-durch-Windows-Update-9299187.html"
-    },
-    {
-      "title": "SAP setzt Ankaufstour fort, will EAM-Startup Leanix übernehmen",
-      "teaser": "Mit dem Ankauf von LeanIX will SAP sein Prozess-Transformation-Portfolio ausbauen. Das lassen sich die Walldorfer Gerüchten zufolge 1,2 Milliarden Euro kosten.",
-      "url": "https://www.heise.de/news/Naechste-Uebernahme-SAP-will-EAM-Spezialisten-LeanIX-kaufen-9299623.html"
     },
     {
       "title": "Marktübersicht: RPA-Tools zur Automatisierung repetitiver Aufgaben",
@@ -51,6 +53,27 @@
       "teaser": "Wenn Hacker beim Absender einer Rechnung als PDF im Mail-Anhang eine Schwachstelle finden, kann der Schaden beim Rechnungsempfänger hängenbleiben.",
       "url": "https://www.heise.de/hintergrund/Rechnung-per-E-Mail-Wer-bei-Manipulation-durch-Hacker-haftet-9299135.html",
       "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "MITEXX 2023: Das Programm des IT-Events für den Mittelstand",
+      "teaser": "Am 9. November 2023 startet die MITEXX in Mainz mit einem maßgeschneiderten IT-Themenprogramm für den Mittelstand.",
+      "url": "https://www.heise.de/news/MITEXX-2023-Das-Programm-des-IT-Events-fuer-den-Mittelstand-9298008.html"
+    },
+    {
+      "title": "l+f: Rockstar Games crackt eigene Spiele",
+      "teaser": "Warum sich Arbeit machen, wenn das schon andere erledigt haben?",
+      "url": "https://www.heise.de/news/l-f-Rockstar-Games-crackt-eigene-Spiele-9302407.html"
+    },
+    {
+      "title": "Apple Vision Pro: 3D ist tot, lang lebe 3D | TNBT-Podcast",
+      "teaser": "Dreidimensionale Inhalte sind eine Herausforderung, das gilt für gefloppte 3D-Fernseher wie für die Vision Pro. Ein Deep Dive zu Display-Technik.",
+      "url": "https://www.heise.de/news/Apple-Vision-Pro-3D-ist-tot-lang-lebe-3D-TNBT-Podcast-9302391.html",
+      "image_title": "Apple Vision Pro: 3D ist tot, lang lebe 3D TNBT-Podcast"
+    },
+    {
+      "title": "Unterwegs mit Cruise: Mit dem Robotaxi durch San Francisco",
+      "teaser": "Cruise betreibt in San Francisco eine Flotte autonomer Robotaxis. Wir haben so eines ausprobiert und uns nachts fahrerlos kutschieren lassen.",
+      "url": "https://www.heise.de/news/Unterwegs-mit-Cruise-Mit-dem-Robotaxi-durch-San-Francisco-9302078.html"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -114,28 +137,6 @@
       "teaser": "Microsoft und der auf Pathologie spezialisierte Software-Hersteller Paige AI kooperieren für \"größtes KI-Tool\" gegen Krebs.",
       "url": "https://www.heise.de/news/Paige-AI-und-Microsoft-kooperieren-fuer-groesstes-KI-Tool-gegen-Krebs-9301577.html",
       "image_title": "Tumor, Tumorzellen, Krebs"
-    },
-    {
-      "title": "Ebays \"Magical Listing\": Automatische Anzeigenerstellung dank KI",
-      "teaser": "Foto hochladen, fertig. Ebay füllt automatisch alle Informationsfelder einer Anzeige aus. Magisch sei das – oder einfach KI.",
-      "url": "https://www.heise.de/news/Ebays-Magical-Listing-Automatische-Anzeigenerstellung-dank-KI-9301531.html"
-    },
-    {
-      "title": "JavaScript-Runtime Bun 1.0 ist produktionsreif",
-      "teaser": "Die junge, Performance-fokussierte Runtime Bun hat die Produktionsreife erreicht und versteht sich als Konkurrenz zum deutlich älteren Node.js.",
-      "url": "https://www.heise.de/news/JavaScript-Runtime-Bun-1-0-ist-produktionsreif-9301310.html",
-      "image_title": "Monorail,Motion,Blur,In,Dubai,,Uae.,Dubai,Metro,,Abstract.,Fpv"
-    },
-    {
-      "title": "Webframework CakePHP 5.0 führt Union Types ein",
-      "teaser": "Version 5.0 des Webframeworks legt Union Types als Standard fest, aktualisiert auf PHP 8.1 sowie PHPUnit 10.x und bringt Neues für die Datenbank.",
-      "url": "https://www.heise.de/news/Webframework-CakePHP-5-0-fuehrt-Union-Types-ein-9300981.html"
-    },
-    {
-      "title": "Facebook Pixel: Meta muss sich Klage wegen Gesundheitsdatensammlung stellen",
-      "teaser": "Meta Platforms muss sich einer geplanten Klage wegen der Sammlung persönlicher Gesundheitsdaten von Patienten stellen. Meta hatte das zunächst angezweifelt.",
-      "url": "https://www.heise.de/news/Facebook-Pixel-US-Sammelklage-wegen-Gesundheitsdaten-kommt-voran-9301187.html",
-      "image_title": "Paris,,France,-,January,03,,2017,:,Photo,Of,Facebook"
     },
     {
       "title": "BRANDMAUER IT ist Champion bei Managed Workplace Services",
