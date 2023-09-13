@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-13T07:10:27",
+  "timestamp": "2023-09-13T08:14:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Angriffe-mittels-praeparierter-PDF-Dateien-auf-Adobe-Acrobat-9303487.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-unter-anderem-Microsoft-Word-9303443.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-kritische-Datenleak-Luecke-in-BusinessObjects-9302399.html"
     },
@@ -40,18 +48,20 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-kritische-Schadcode-Luecke-in-Chrome-naheliegend-9301825.html"
     },
     {
-      "title": "HPE OneView",
-      "url": "https://www.heise.de/news/HPE-OneView-Kritische-Luecke-erlaubt-Umgehung-von-Authentifizierung-9301047.html"
-    },
-    {
-      "title": "Notepad++",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Mehrere-Luecken-in-Notepad-geschlossen-9300531.html"
+      "title": "Ab sofort erhältlich: Trojaner mit Desinfec’t 2023/24 aufspüren",
+      "teaser": "Windows-Viren beseitigen und Daten retten: Das c’t-Sicherheitstool Desinfec’t ist in einer überarbeiteten Ausgabe erschienen.",
+      "url": "https://www.heise.de/news/Ab-sofort-erhaeltlich-Trojaner-mit-Desinfec-t-2023-24-aufspueren-9300522.html"
     },
     {
       "title": "Patchday: SAP schließt kritische Datenleak-Lücke in BusinessObjects",
       "teaser": "Es sind wichtige Sicherheitsupdates für SAP-Software erschienen. Admins sollten zeitnah handeln.",
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-kritische-Datenleak-Luecke-in-BusinessObjects-9302399.html",
       "image_title": "Patchday SAP"
+    },
+    {
+      "title": "l+f: Rockstar Games crackt eigene Spiele",
+      "teaser": "Warum sich Arbeit machen, wenn das schon andere erledigt haben?",
+      "url": "https://www.heise.de/news/l-f-Rockstar-Games-crackt-eigene-Spiele-9302407.html"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -69,6 +79,11 @@
       "teaser": "Im iX-Workshop \"Cybersicherheit: Awareness richtig gemacht\" lernen Sie hands-on, wie Sie im eigenen Unternehmen nachhaltige Awareness-Kampagnen umsetzen.",
       "url": "https://www.heise.de/news/iX-Praxis-Workshop-Awareness-fuer-Cybersicherheit-im-Unternehmen-staerken-9296871.html",
       "image_title": "iX-Workshop: Cybersicherheit – Awareness richtig gemacht"
+    },
+    {
+      "title": "Jetzt patchen! Attacken auf kritische Schadcode-Lücke in Chrome naheliegend",
+      "teaser": "Google warnt vor Exploitcode für eine Schwachstelle in Chrome. Eine abgesicherte Version des Webbrowsers ist verfügbar.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-kritische-Schadcode-Luecke-in-Chrome-naheliegend-9301825.html"
     },
     {
       "title": "Ransomware-Verdacht: Sicherheitsvorfall bei US-Hotelkette MGM Resorts",
@@ -140,24 +155,6 @@
       "title": "Aruba-Controller und -Gateways mit hochriskanten Sicherheitslücken",
       "teaser": "Für Aruba-Controller und -Gateways der Serien 9000 und 9200 gibt es Updates, die hochriskante Sicherheitslücken schließen.",
       "url": "https://www.heise.de/news/Aruba-schliesst-hochriskante-Luecken-in-Controllern-und-Gateways-9297925.html"
-    },
-    {
-      "title": "China: Informationspflicht gibt Hackern womöglich Zugriff auf Sicherheitslücken",
-      "teaser": "Tech-Firmen müssen in China Informationen über Sicherheitslücken umgehend an die Regierung geben. Von dort dürften die auch an staatliche Hackergruppen gehen.",
-      "url": "https://www.heise.de/news/China-Informationspflicht-gibt-Hackern-womoeglich-Zugriff-auf-Sicherheitsluecken-9297913.html",
-      "image_title": "Digitale chinesische Flagge"
-    },
-    {
-      "title": "Gestohlener Microsoft-Schlüssel stammte aus einem Crash-Dump",
-      "teaser": "Angreifer konnten mit gestohlenem Schlüssel weitreichend auf Cloud-Ressourcen von Microsoft zugreifen. Der Schlüssel kam wohl aus einem Crash-Dump.",
-      "url": "https://www.heise.de/news/Gestohlener-Microsoft-Schluessel-stammte-aus-einem-Crash-Dump-9297240.html",
-      "image_title": "Blitz während eines Unwetters"
-    },
-    {
-      "title": "Verschlüsselung bedroht: Digitalwirtschaft läuft Sturm gegen Chatkontrolle",
-      "teaser": "Gut 25 Verbände mahnen die EU-Gesetzgeber, auch im Kampf gegen sexuellen Missbrauch das Recht auf Privatsphäre insbesondere durch Verschlüsselung zu wahren.",
-      "url": "https://www.heise.de/news/Verschluesselung-bedroht-Digitalwirtschaft-laeuft-Sturm-gegen-Chatkontrolle-9297460.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "heise Security Tour 2023",
