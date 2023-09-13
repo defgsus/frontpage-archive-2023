@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-13T11:09:01",
+  "timestamp": "2023-09-13T12:21:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Foxit PDF",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Schlupfloecher-in-Foxit-PDF-geschlossen-9303972.html"
+    },
+    {
       "title": "Firefox Thunderbird",
       "url": "https://www.heise.de/news/Notfallpatch-sichert-Firefox-und-Thunderbird-gegen-Attacken-ab-9303536.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Angreifer-attackieren-unter-anderem-Microsoft-Word-9303443.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-SAP-schliesst-kritische-Datenleak-Luecke-in-BusinessObjects-9302399.html"
+      "title": "Sicherheitsupdates: Schadcode-Schlupflöcher in Foxit PDF geschlossen",
+      "teaser": "Angreifer können Windows-Systeme mit Foxit PDF Editor oder Foxit PDF Reader attackieren.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-Schlupfloecher-in-Foxit-PDF-geschlossen-9303972.html"
     },
     {
       "title": "Notfallpatch sichert Firefox und Thunderbird gegen Attacken ab",
@@ -151,12 +156,6 @@
       "url": "https://www.heise.de/news/Malvertising-Kampagne-will-Mac-Nutzern-Atomic-Stealer-unterjubeln-9298637.html"
     },
     {
-      "title": "NSO-Group-Angriff: Notfall-Updates für iPhone, iPad, Mac und Apple Watch",
-      "teaser": "Apple hat am Donnerstagabend nochmals Updates für seine aktuellen Betriebssysteme nachgeschoben. Enthalten sind Fixes für einen aktiven Exploit.",
-      "url": "https://www.heise.de/news/NSO-Group-Angriff-Notfall-Updates-fuer-iPhone-iPad-Mac-und-Apple-Watch-9298564.html",
-      "image_title": "Apple-Logo"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Auf der Konferenz lernen Sie den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern. Es erwarten Sie sechs Vorträge von ausgewiesenen IT-Security-Experten.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
@@ -178,6 +177,11 @@
       "url": "https://www.heise.de/meinung/20-Jahre-Blaster-Wurm-Der-naechste-Super-GAU-wartet-in-der-Cloud-9241438.html"
     },
     {
+      "title": "Re: Welche Version hat der aktuelle Patch von Desinfect 2023?",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Welche-Version-hat-der-aktuelle-Patch-von-Desinfect-2023/posting-43106268/show/"
+    },
+    {
       "title": "In VirtualBox wird genau deswegen vor dem Setzen des \"3D\"-Häkchens gewarnt!",
       "teaser": "Forum: Gefährliches Gedächtnis der Grafikkarte",
       "url": "https://www.heise.de/forum/heise-Security/News-Kommentare/Gefaehrliches-Gedaechtnis-der-Grafikkarte/In-VirtualBox-wird-genau-deswegen-vor-dem-Setzen-des-3D-Haekchens-gewarnt/posting-43105567/show/"
@@ -186,11 +190,6 @@
       "title": "Nachweis für Scan",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Nachweis-fuer-Scan/posting-43101635/show/"
-    },
-    {
-      "title": "Re: Updates für Desinfec't: Anleitung und Changelog",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Updates-fuer-Desinfec-t-Anleitung-und-Changelog/posting-43097212/show/"
     }
   ]
 }
