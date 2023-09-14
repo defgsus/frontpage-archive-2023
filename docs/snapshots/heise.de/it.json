@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-14T11:09:39",
+  "timestamp": "2023-09-14T12:21:09",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Starlink ist wieder online",
+      "teaser": "Nachdem Starlink weltweit für ungefähr eine Stunde ausgefallen war, ist die Störung wieder behoben.",
+      "url": "https://www.heise.de/news/Starlink-ist-offline-9303306.html",
+      "image_title": "Starlink-Schüssel steht auf einem Holztisch; im Hintergrund eine demontierte Satellitenschüssel mit Aufschrift \"HughesNet\""
+    },
+    {
       "title": "Trotz 600 Prompts und Photoshop-Korrektur: Kein Copyright für nächstes KI-Bild",
       "teaser": "Das Bild \"Théâtre D'opéra Spatial\" sorgte vor einem Jahr für Aufsehen, als es einen Kunstwettbewerb gewann. Nun wurde ihm US-Urheberrechtsschutz verwehrt.",
       "url": "https://www.heise.de/news/Nicht-der-Tod-der-Kunst-Kein-US-Copyright-fuer-weltbekanntes-Bild-einer-KI-9301742.html",
@@ -35,12 +41,6 @@
       "title": "Thunderbolt 5: Das bessere USB4 Version 2.0, jetzt offiziell",
       "teaser": "Die nächste Thunderbolt-5-Generation kann per USB-C mit einem Trick 120 Gbit/s übertragen. Zudem lädt TB5 Geräte mit 140 bis 240 Watt.",
       "url": "https://www.heise.de/news/Thunderbolt-5-Das-bessere-USB4-Version-2-0-jetzt-offiziell-9302431.html"
-    },
-    {
-      "title": "Passwortmanager: LastPass-Hacker scheinen Kennworttresore zu knacken",
-      "teaser": "Cyberkriminelle haben vergangenes Jahr LastPass-Kennworttresore kopiert. Nun scheinen sie diese zu knacken und Krypto-Wallets leerzuräumen.",
-      "url": "https://www.heise.de/news/Passwortmanager-LastPass-Hacker-scheinen-Kennworttresore-zu-knacken-9300583.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
     },
     {
       "title": "Im Test: SageMaker für Machine Learning in der Cloud",
@@ -54,12 +54,28 @@
       "image_title": "Das gezeichnete Stickerlogo Yerba Mate über einem Topf, aus dem Pflanzen ranken"
     },
     {
+      "title": "l+f: Zehnminuten-Telefonat ermöglicht MGM-Hack",
+      "teaser": "Social Engineering at its finest: So einfach haben die Angreifer offensichtlich die Casino-Kette MGM Ressort attackiert.",
+      "url": "https://www.heise.de/news/l-f-Zehnminuten-Telefonat-ermoeglicht-MGM-Hack-9305196.html"
+    },
+    {
+      "title": "iPhone 15 Pro, neue AirPods Pro 2: Wie sich Apple auf die Vision Pro vorbereitet",
+      "teaser": "Apple ist dabei, ein neues Ökosystem aufzubauen. Drei der neuen Geräte, die in dieser Woche gezeigt wurden, nehmen direkten Bezug auf die Vision Pro.",
+      "url": "https://www.heise.de/news/iPhone-15-Pro-neue-AirPods-Pro-2-Wie-sich-Apple-auf-die-Vision-Pro-vorbereitet-9304523.html",
+      "image_title": "TV auf der Vision Pro"
+    },
+    {
+      "title": "Amazon: KI hilft Händlern Produkte bereitzustellen",
+      "teaser": "Für Händler ist es künftig einfacher, Produkte bei Amazon einzustellen. Generative KI übernimmt zahlreiche Aufgaben.",
+      "url": "https://www.heise.de/news/Amazon-KI-hilft-Haendlern-Produkte-bereitzustellen-9304804.html"
+    },
+    {
       "title": "Hackerkollektiv Cult of the Dead Cow veröffentlicht Privacy-Framework",
       "teaser": "Das Hackerkollektiv cDc hat ein Framework veröffentlicht, das Entwicklern hilft, einen verschlüsselten Peer-to-Peer-Datenaustausch in ihre Apps zu integrieren.",
       "url": "https://www.heise.de/news/Hackerkollektiv-Cult-of-the-Dead-Cow-veroeffentlicht-Privacy-Framework-9304796.html"
     },
     {
-      "title": "Pegasus: iPhone russischer Journalisten in Deutschland mit Spyware infiziert",
+      "title": "Pegasus: iPhone russischer Journalistin in Deutschland mit Spyware infiziert",
       "teaser": "Das iPhone der Inhaberin des russischen Exil-Nachrichtenmagazins Meduza wurde mit Pegasus infiziert – in Deutschland. Wer dahintersteckt, ist unklar.",
       "url": "https://www.heise.de/news/Pegasus-iPhone-russischer-Journalisten-in-Deutschland-mit-Spyware-infiziert-9304862.html"
     },
@@ -117,24 +133,6 @@
       "teaser": "Lernen Sie, wie Sie IT-Produkte für die Prüfung und Zertifizierung nach Standards wie CC, BSZ und NESAS vorbereiten – Anwendungen, Stolpersteine, Prüfpraxis",
       "url": "https://www.heise.de/news/iX-Workshop-Rechtskonform-IT-Produkte-nach-EU-Recht-pruefen-und-zertifizieren-9301350.html",
       "image_title": "Workshop: Rechtskonform - IT-Produkte prüfen und zertifizieren"
-    },
-    {
-      "title": "#heiseshow: Apple Event, Homeoffice-Streit, sammelwütige Autos",
-      "teaser": "Diesmal in der #heiseshow: Wie stark der neue iPhone-Jahrgang ist, ob Remote-Arbeit auf dem Rückzug ist und warum einige Autohersteller so viele Daten sammeln.",
-      "url": "https://www.heise.de/news/heiseshow-Apple-Event-Homeoffice-Streit-sammelwuetige-Autos-9304517.html",
-      "image_title": "heiseshow - Jeden Donnerstag LIVE um 17 Uhr"
-    },
-    {
-      "title": "Warum am bundesweiten Warntag auch die Handys klingeln",
-      "teaser": "Am bundesweiten Warntag wird in Deutschland erneut mit Cell Broadcast gewarnt. Diese FAQ klärt die wichtigsten Fragen zum Test.",
-      "url": "https://www.heise.de/ratgeber/Cell-Broadcast-Was-Sie-ueber-DE-Alert-zum-Warntag-am-Donnerstag-wissen-muessen-7361288.html",
-      "image_title": "Funkturm im Hintergrund, im Vordergrund ein Handy mit einer Warnung; Stimmung des KI-generierten Bildes etwas deprimierend"
-    },
-    {
-      "title": "Wenn das iPhone komisch klingelt: Warntag 2023 mit Cell Broadcast",
-      "teaser": "Am 14. September sollen auch iPhones in Deutschland ein Alarmsignal ausgeben. Wir liefern Antworten auf die Fragen rund um den ungewöhnlichen Warnton in iOS.",
-      "url": "https://www.heise.de/news/Wenn-das-iPhone-komisch-klingelt-Warntag-2023-mit-Cell-Broadcast-9304371.html",
-      "image_title": "iPhone in Hand."
     },
     {
       "title": "BRANDMAUER IT ist Champion bei Managed Workplace Services",
