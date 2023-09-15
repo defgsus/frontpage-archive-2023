@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-15T13:13:47",
+  "timestamp": "2023-09-15T14:10:29",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Maler und Bildhauer: Kolumbianischer Künstler Fernando Botero ist tot",
+      "teaser": "Er galt als einer der wichtigsten zeitgenössischen Künstler Lateinamerikas und war bekannt für seine üppigen Menschen- und Tierbilder. Fernando Botero wurde 91 Jahre alt.",
+      "url": "https://www.zeit.de/kultur/kunst/2023-09/kuenstler-fernando-botero-tot",
+      "image_url": "https://img.zeit.de/kultur/kunst/2023-09/kuenstler-fernando-botero-tot-bild/cinema__980x420"
+    },
+    {
       "title": "Mutmaßliche Raubkunst: Drei Kunstwerke von Egon Schiele in US-Museen beschlagnahmt",
       "teaser": "Die drei Bilder des österreichischen Malers sollen während der NS-Zeit geraubt worden sein. Die Erben des früheren Besitzers fordern seit Jahren die Rückgabe der Werke.",
       "url": "https://www.zeit.de/kultur/kunst/2023-09/raubkunst-schiele-usa",
-      "image_url": "https://img.zeit.de/kultur/2023-09/egon-schiele-raubkunst-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2023-09/egon-schiele-raubkunst-bild/wide__822x462",
+      "image_title": "Mutmaßliche Raubkunst: Drei Kunstwerke von Egon Schiele in US-Museen beschlagnahmt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Karin Beier: \"Ich bin über die Jahre immer politischer geworden\"",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/2023/39/anthropolis-karin-beier-hamburger-schauspielhaus-theater-europaeische-geschichte",
       "image_url": "https://img.zeit.de/2023/39/anthropolis-karin-beier-hamburger-schauspielhaus-theater-europaeische-geschichte-bild/wide__822x462",
       "image_title": "Karin Beier: \"Ich bin über die Jahre immer politischer geworden\""
-    },
-    {
-      "title": "\"Tod den Lebenden\" und \"Aufgestaut\": Manche kugeln rum, andere kleben fest",
-      "teaser": "ARD und ZDF steigen mit eigenen Comedy- und Dramaserien in den Klimaprotest ein. Hinter Bums-WG- und Porsche-Fahrer-Klischees warten auch ein paar echte Erkenntnisse.",
-      "url": "https://www.zeit.de/kultur/film/2023-09/tod-den-lebenden-aufgestaut-ard-zdf-comedyserien",
-      "image_url": "https://img.zeit.de/kultur/film/2023-09/tod-den-lebenden-bild/wide__822x462",
-      "image_title": "\"Tod den Lebenden\" und \"Aufgestaut\": Manche kugeln rum, andere kleben fest"
     },
     {
       "title": "AnzeigeAuf zu neuen Ufern: Kultur an der Donau und der Traisen",
@@ -169,11 +169,11 @@
       "url": "https://www.zeit.de/kultur/2023-09/bergkarabach-armenien-aserbaidschan-blockade-konflikt-10nach8"
     },
     {
-      "title": "Mitski: Fucking Erhabenheit!",
-      "teaser": "Die Songwriterin Mitski transzendiert jede private Vergeblichkeit. Ihr siebtes Album ist Oper, Folk und betrunkener Torkeltanz: Popmusik nach dem Urknallprinzip.",
-      "url": "https://www.zeit.de/kultur/musik/2023-09/the-land-is-inhospitable-and-so-are-we-mitski-album-indie-rock",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-09/mitski/wide__822x462",
-      "image_title": "Mitski: Fucking Erhabenheit!"
+      "title": "\"Tod den Lebenden\" und \"Aufgestaut\": Manche kugeln rum, andere kleben fest",
+      "teaser": "ARD und ZDF steigen mit eigenen Comedy- und Dramaserien in den Klimaprotest ein. Hinter Bums-WG- und Porsche-Fahrer-Klischees warten auch ein paar echte Erkenntnisse.",
+      "url": "https://www.zeit.de/kultur/film/2023-09/tod-den-lebenden-aufgestaut-ard-zdf-comedyserien",
+      "image_url": "https://img.zeit.de/kultur/film/2023-09/tod-den-lebenden-bild/wide__822x462",
+      "image_title": "\"Tod den Lebenden\" und \"Aufgestaut\": Manche kugeln rum, andere kleben fest"
     },
     {
       "title": "AnzeigeLandschaftsarchitektur der Zukunft auf dem Vitra Campus",
@@ -197,6 +197,13 @@
       "image_title": "Schönheitseingriffe: Wir können nicht gewinnen"
     },
     {
+      "title": "Mitski: Fucking Erhabenheit!",
+      "teaser": "Die Songwriterin Mitski transzendiert jede private Vergeblichkeit. Ihr siebtes Album ist Oper, Folk und betrunkener Torkeltanz: Popmusik nach dem Urknallprinzip.",
+      "url": "https://www.zeit.de/kultur/musik/2023-09/the-land-is-inhospitable-and-so-are-we-mitski-album-indie-rock",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-09/mitski/wide__822x462",
+      "image_title": "Mitski: Fucking Erhabenheit!"
+    },
+    {
       "title": "Russische Künstlerin: Opernintendant Schulz verteidigt Auftritt von Anna Netrebko",
       "teaser": "Als wichtiges Zeichen verteidigt der Intendant der Berliner Staatsoper den Auftritt der österreichisch-russischen Sopranistin Anna Netrebko. Kritiker wollen protestieren.",
       "url": "https://www.zeit.de/kultur/2023-09/netrebko-schulz-staatsoper-auftritt-proteste",
@@ -218,13 +225,6 @@
       "image_title": "\"Fallende Blätter\" von Aki Kaurismäki: Die Kerle müssen ihr Konzept von Härte dringend überdenken"
     },
     {
-      "title": "\"Sieben Winter in Teheran\": Ihre Geschichte soll weiterleben",
-      "teaser": "Der Dokumentarfilm \"Sieben Winter in Teheran\" erzählt von einer zum Tode verurteilten jungen Iranerin. Im Gefängnis wird sie zur Kämpferin für Frauenrechte.",
-      "url": "https://www.zeit.de/kultur/film/2023-09/dokumentarfilm-sieben-winter-in-teheran-reyhaneh-jabbari-steffi-niederzoll",
-      "image_url": "https://img.zeit.de/kultur/film/2023-09/dokumentarfilm-sieben-winter-in-teheran-reyhaneh-jabbari-teaser/wide__822x462",
-      "image_title": "\"Sieben Winter in Teheran\": Ihre Geschichte soll weiterleben"
-    },
-    {
       "title": "\"The Morning Show\": Ausgerechnet Aniston",
       "teaser": "\"The Morning Show\" ist das Luxus- und Prestigeprojekt des Techunternehmens Apple. Hammeridee nun: In Staffel drei der Serie soll ein Techunternehmer das Fernsehen retten.",
       "url": "https://www.zeit.de/kultur/film/2023-09/the-morning-show-apple-tv-serie-staffel-3-rezension",
@@ -239,6 +239,13 @@
       "image_title": "\"Kleine Probleme\" von Nele Pollatschek: Wie aber macht man es denn gut?"
     },
     {
+      "title": "\"Sieben Winter in Teheran\": Ihre Geschichte soll weiterleben",
+      "teaser": "Der Dokumentarfilm \"Sieben Winter in Teheran\" erzählt von einer zum Tode verurteilten jungen Iranerin. Im Gefängnis wird sie zur Kämpferin für Frauenrechte.",
+      "url": "https://www.zeit.de/kultur/film/2023-09/dokumentarfilm-sieben-winter-in-teheran-reyhaneh-jabbari-steffi-niederzoll",
+      "image_url": "https://img.zeit.de/kultur/film/2023-09/dokumentarfilm-sieben-winter-in-teheran-reyhaneh-jabbari-teaser/wide__822x462",
+      "image_title": "\"Sieben Winter in Teheran\": Ihre Geschichte soll weiterleben"
+    },
+    {
       "title": "Theateraufführung von \"Noch wach?\": Wie überlebt man die eigene Literatur?",
       "teaser": "Im Hamburger Thalia Theater wurde die Dramatisierung des Schlüsselromans \"Noch wach?\" von Benjamin von Stuckrad-Barre uraufgeführt. Der Autor hatte auch seinen Auftritt.",
       "url": "https://www.zeit.de/2023/39/theater-noch-wach-hamburg-benjamin-stuckrad-barre",
@@ -249,14 +256,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Constantin Schreiber • Das Beste aus Z+: \"Jetzt weiß ich, wo du wohnst\"",
       "teaser": "Für seine Bücher wird der Autor Constantin Schreiber angefeindet und bedroht. Nun hat er genug: Er will sich \"zu allem, was mit dem Islam zu tun hat, nicht mehr äußern\".",
       "url": "https://www.zeit.de/2023/39/constantin-schreiber-islam-tagesschau-sprecher-anfeindung",
-      "image_url": "https://img.zeit.de/2023/39/constantin-schreiber-islam-tagesschau-sprecher-anfeindung-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/39/constantin-schreiber-islam-tagesschau-sprecher-anfeindung-bild/cinema__980x420",
       "image_title": "Constantin Schreiber • Das Beste aus Z+: \"Jetzt weiß ich, wo du wohnst\""
     },
     {
       "title": "Architekturausstellung in Frankfurt: Baut Barrikaden! Plant ein Protestcamp!",
       "teaser": "Das Deutsche Architekturmuseum in Frankfurt widmet sich improvisierten Bauten des politischen Protests. Es ist eine der aufregendsten Ausstellungen des Jahres.",
       "url": "https://www.zeit.de/2023/38/architekturausstellung-dam-frankfurt-protest-architektur-barrikaden-camps-sekundenkleber",
-      "image_url": "https://img.zeit.de/2023/38/architekturausstellung-dam-frankfurt-protest-architektur-barrikaden-camps-sekundenkleber-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/38/architekturausstellung-dam-frankfurt-protest-architektur-barrikaden-camps-sekundenkleber-bild/wide__822x462",
       "image_title": "Architekturausstellung in Frankfurt: Baut Barrikaden! Plant ein Protestcamp!"
     },
     {
@@ -270,14 +277,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Lisz Hirn über Österreich: \"Manchmal verzweifelt man schon ein bisschen\"",
       "teaser": "Die Philosophin Lisz Hirn wundert sich über die \"absurden\" Debatten in der österreichischen Politik. Diese entstünden nicht zuletzt durch die Eitelkeit vieler Amtsträger.",
       "url": "https://www.zeit.de/2023/38/lisz-hirn-oesterreich-politik-debatten",
-      "image_url": "https://img.zeit.de/2023/38/ich-denke-nicht-normal-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/38/ich-denke-nicht-normal-bild-1/cinema__980x420",
       "image_title": "Lisz Hirn über Österreich: \"Manchmal verzweifelt man schon ein bisschen\""
     },
     {
       "title": "Bilderverkauf vom Museum Langmatt: \"Hochverrat am kulturellen Erbe\"",
       "teaser": "Das Museum Langmatt in schweizerischen Baden braucht dringend Geld und will Bilder verkaufen. In der Kunstbranche gilt das vielen als skandalöses No-Go.",
       "url": "https://www.zeit.de/2023/38/museum-langmatt-baden-bilderverkauf-geld",
-      "image_url": "https://img.zeit.de/2023/38/museum-langmatt-baden-bilderverkauf-geld-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/38/museum-langmatt-baden-bilderverkauf-geld-bild/wide__822x462",
       "image_title": "Bilderverkauf vom Museum Langmatt: \"Hochverrat am kulturellen Erbe\""
     },
     {
@@ -291,22 +298,15 @@
       "title": "Journalistenpreis: Elmar Theveßen und Ina Ruck erhalten Hanns-Joachim-Friedrichs-Preis",
       "teaser": "Den Friedrichs-Preis teilen sich in diesem Jahr ARD und ZDF. Drei ukrainische Chefredakteurinnen werden außerdem mit einem Sonderpreis ausgezeichnet.",
       "url": "https://www.zeit.de/kultur/film/2023-09/hanns-joachim-friedrichs-preis-ina-ruck-elmar-thevessen",
-      "image_url": "https://img.zeit.de/kultur/2023-09/hanns-joachim-friedrichs-preis-ina-ruck-elmar-thevessen/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-09/hanns-joachim-friedrichs-preis-ina-ruck-elmar-thevessen/cinema__980x420",
       "image_title": "Journalistenpreis: Elmar Theveßen und Ina Ruck erhalten Hanns-Joachim-Friedrichs-Preis"
     },
     {
       "title": "Detlef Felken: \"Lesen ist human, schön und effizient\"",
       "teaser": "Detlef Felken, legendärer Cheflektor des Verlags C. H. Beck, geht in den Ruhestand. Zum Abschied spricht er über zunehmende Debattenschärfe und künstliche Intelligenz.",
       "url": "https://www.zeit.de/2023/38/detlef-falken-c-h-beck-cheflektor-verlag-sachbuecher",
-      "image_url": "https://img.zeit.de/2023/38/detlef-falken-c-h-beck-cheflektor-verlag-sachbuecher-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/38/detlef-falken-c-h-beck-cheflektor-verlag-sachbuecher-teaserbild/wide__822x462",
       "image_title": "Detlef Felken: \"Lesen ist human, schön und effizient\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Elon-Musk-Biografie: Einen wie ihn hat die Welt wirklich noch nicht gesehen",
-      "teaser": "Walter Isaacsons Biografie über Elon Musk wurde gespannt erwartet. Sie zeichnet das ambivalente Bild eines genialischen Ingenieurs und empathielosen Menschenschinders.",
-      "url": "https://www.zeit.de/kultur/2023-09/elon-musk-biografie-walter-isaacson",
-      "image_url": "https://img.zeit.de/kultur/2023-09/elon-musk-biografie-walter-isaacson-bild/wide__822x462",
-      "image_title": "Elon-Musk-Biografie: Einen wie ihn hat die Welt wirklich noch nicht gesehen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Die Insel der Tausend Leuchttürme\": Er moerst wieder",
@@ -321,6 +321,13 @@
       "url": "https://www.zeit.de/2023/38/paul-maar-das-sams-kindheit-literatur",
       "image_url": "https://img.zeit.de/2023/38/paul-maar-das-sams-kindheit-literatur-teaserbild/square__460x460",
       "image_title": "Paul Maar: \"Man sollte die Bücher lassen, wie sie sind\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Elon-Musk-Biografie: Einen wie ihn hat die Welt wirklich noch nicht gesehen",
+      "teaser": "Walter Isaacsons Biografie über Elon Musk wurde gespannt erwartet. Sie zeichnet das ambivalente Bild eines genialischen Ingenieurs und empathielosen Menschenschinders.",
+      "url": "https://www.zeit.de/kultur/2023-09/elon-musk-biografie-walter-isaacson",
+      "image_url": "https://img.zeit.de/kultur/2023-09/elon-musk-biografie-walter-isaacson-bild/wide__822x462",
+      "image_title": "Elon-Musk-Biografie: Einen wie ihn hat die Welt wirklich noch nicht gesehen"
     },
     {
       "title": "Digitale Persönlichkeit: Wie man aus dem Internet verschwindet",
@@ -342,13 +349,6 @@
       "url": "https://www.zeit.de/2023/38/gerald-krieghofer-philosoph-falsche-zitate",
       "image_url": "https://img.zeit.de/2023/38/die-mentalitaet-der-oesterreicher-ist-wie-ein-punschkrapfen-aussen-rot-innen-braun-und-immer-ein-bis-bild-1/wide__822x462",
       "image_title": "Gerald Krieghofer: \"Die Mentalität der Österreicher ist wie ein Punschkrapfen\"*"
-    },
-    {
-      "title": "Feuilletonpodcast: Mode ohne Models",
-      "teaser": "Welche Phänomene machen unsere Gegenwart aus? In der neuen Live-Episode des Feuilletonpodcasts kommt das Publikum zu Wort.",
-      "url": "https://www.zeit.de/kultur/2023-09/z2x-festival-mode-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2023-09/z2x-festival-mode-feuilleton/wide__822x462",
-      "image_title": "Feuilletonpodcast: Mode ohne Models"
     },
     {
       "title": "Bergkarabach: Totenstille",
