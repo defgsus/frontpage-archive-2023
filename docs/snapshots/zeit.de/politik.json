@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-16T06:13:27",
+  "timestamp": "2023-09-16T07:09:15",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Industriestrompreis: Olaf Scholz hat weiter Vorbehalte gegen Industriestrompreis",
+      "teaser": "Die 16 Bundesländer, SPD und Grüne fordern einen subventionierten Strompreis für die Industrie. Bundeskanzler Scholz bleibt skeptisch.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/scholz-modernisierung-opposition-industriestrompreis",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/scholz-modernisierung-opposition-industriestrompreis-bild-3/cinema__980x420"
+    },
+    {
       "title": "El Chapo: Mexiko liefert Sohn von Drogenboss El Chapo an die USA aus",
       "teaser": "Die USA gehen davon aus, dass der Sohn von El Chapo das Drogenkartell nach dessen Festnahme übernommen hatte. Ermittler werfen ihm die Anordnung mehrerer Morde vor.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/el-chapo-auslieferung-sohn-mexiko-usa",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ovidio-guzman-el-chapo-ueberfuehung-mexiko-usa/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ovidio-guzman-el-chapo-ueberfuehung-mexiko-usa/wide__822x462",
+      "image_title": "El Chapo: Mexiko liefert Sohn von Drogenboss El Chapo an die USA aus"
     },
     {
       "title": "Oskar Lafontaine : Der ewige Rebell der deutschen Linken",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-09/oskar-lafontaine-sahra-wagenknecht-die-linke-spd",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-09/oskar-lafontaine-sahra-wagenknecht-die-linke-spd-bild/wide__822x462",
       "image_title": "Oskar Lafontaine : Der ewige Rebell der deutschen Linken"
-    },
-    {
-      "title": "Nachrichtenpodcast: Ein Jahr nach Jîna Aminis Tod",
-      "teaser": "Die gewaltsame Festnahme und der Tod von Jîna Amini lösten Proteste im Iran aus. Wo steht das Land ein Jahr nach Beginn der Proteste? Und: Dumpingpreise bei Solarmodulen",
-      "url": "https://www.zeit.de/politik/2023-09/iran-jina-mahsa-amini-todestag-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Ein Jahr nach Jîna Aminis Tod"
     },
     {
       "title": "Thüringer Landtag: \"Diese Abstimmung war ein ganz besonderer politischer Tabubruch\"",
@@ -162,31 +162,38 @@
       "image_title": "Ukraine: Russlands Bollwerk bröckelt"
     },
     {
+      "title": "Nachrichtenpodcast: Ein Jahr nach Jîna Aminis Tod",
+      "teaser": "Die gewaltsame Festnahme und der Tod von Jîna Amini lösten Proteste im Iran aus. Wo steht das Land ein Jahr nach Beginn der Proteste? Und: Dumpingpreise bei Solarmodulen",
+      "url": "https://www.zeit.de/politik/2023-09/iran-jina-mahsa-amini-todestag-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Ein Jahr nach Jîna Aminis Tod"
+    },
+    {
       "title": "Libyen: Mehrere Kinder durch verschmutztes Wasser in Libyen erkrankt",
       "teaser": "Nach den Überschwemmungen in Libyen wächst die Sorge vor einem Ausbruch von Cholera. In Darna sind bereits mehrere Kinder durch verschmutztes Wasser erkrankt.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/libyen-verschmutzung-wasser-krankheiten-cholera-kinder",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/libyen-ueberschwemmung-kinder-schlamm-spielzeug/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/libyen-ueberschwemmung-kinder-schlamm-spielzeug/wide__822x462",
       "image_title": "Libyen: Mehrere Kinder durch verschmutztes Wasser in Libyen erkrankt"
     },
     {
       "title": "Ukraine-Überblick: Rückeroberung von Andrijiwka, Festnahme von früherem Minister",
       "teaser": "Die Rückeroberung eines Dorfs nahe Bachmut ist laut einem Kommandeur entscheidend für den Vormarsch. Ein Ex-Minister wurde wegen Landesverrats festgenommen. Die Nacht",
       "url": "https://www.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-bachmut-rueckeroberung-andrijiwka",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-bachmut-rueckeroberung-andrijiwka-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-bachmut-rueckeroberung-andrijiwka-bild-3/wide__822x462",
       "image_title": "Ukraine-Überblick: Rückeroberung von Andrijiwka, Festnahme von früherem Minister"
     },
     {
       "title": "Baufinanzierung: Bundesbauministerin kündigt Ausweitung von Baugeld für Familien an",
-      "teaser": "Klara Geywitz will Familien beim Erwerb von Wohneigentum stärker unterstützen. Unter anderem sollen die Einkommensgrenze und die Kredithöhe bei Förderungen erhöht werden.",
+      "teaser": "Klara Geywitz will Familien beim Erwerb von Wohneigentum stärker unterstützen. Unter anderem sollen die Einkommensgrenze und die Kredithöhe bei Förderungen erhöht werden. 153 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/baufinanzierung-bundesbauministerin-ausweitung-baugeld-familien",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/bau-immobilien-kredit-baugeld/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/baufinanzierung-bundesbauministerin-ausweitung-baugeld-familien-bild/cinema__980x420",
       "image_title": "Baufinanzierung: Bundesbauministerin kündigt Ausweitung von Baugeld für Familien an"
     },
     {
       "title": "G77-Gipfel: Kuba fordert stärkeren internationalen Einfluss des Globalen Südens",
       "teaser": "Vertreter der Entwicklungs- und Schwellenländer treffen sich in Kuba. Sie seien Opfer einer \"multidimensionalen Krise\", sagt der kubanische Staatschef Miguel Díaz-Canel.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/kuba-g77-gipfel-kuba-einfluss-globaler-sueden",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/kuba-g77-gipfel-kuba-einfluss-globaler-sueden-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/kuba-g77-gipfel-kuba-einfluss-globaler-sueden-bild/wide__822x462",
       "image_title": "G77-Gipfel: Kuba fordert stärkeren internationalen Einfluss des Globalen Südens"
     },
     {
@@ -198,16 +205,16 @@
     },
     {
       "title": "Thüringen: Staatskanzlei wirft CDU und FDP gezielte Absprache mit AfD vor",
-      "teaser": "Die Regierung von Ministerpräsident Bodo Ramelow glaubt, dass sich CDU, FDP und AfD vor der Abstimmung zur Steuersenkung abgesprochen haben. Die CDU weist dies zurück.",
+      "teaser": "Die Regierung von Ministerpräsident Bodo Ramelow glaubt, dass sich CDU, FDP und AfD vor der Abstimmung zur Steuersenkung abgesprochen haben. Die CDU weist dies zurück. 510 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/thueringen-staatskanzlei-afd-cdu-absprachen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/thueringen-staatskanzlei-absprache-afd-cdu-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/thueringen-staatskanzlei-absprache-afd-cdu-bild/cinema__980x420",
       "image_title": "Thüringen: Staatskanzlei wirft CDU und FDP gezielte Absprache mit AfD vor"
     },
     {
       "title": "Gazastreifen: Israel attackiert Hamas-Posten nach Konfrontationen an Gaza-Grenze",
       "teaser": "An der Grenze zum Gazastreifen kommt es zu gewaltsamen Ausschreitungen zwischen dem israelischen Militär und Palästinensern. Israel reagiert mit einem Luftangriff.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/israel-angriff-gaza-grenze-hamas",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/israel-angriff-hamas-grenze-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/israel-angriff-hamas-grenze-bild/wide__822x462",
       "image_title": "Gazastreifen: Israel attackiert Hamas-Posten nach Konfrontationen an Gaza-Grenze"
     },
     {
@@ -221,14 +228,14 @@
       "title": "Iran: Es ist kein Mut – es ist der Kampf ums Überleben",
       "teaser": "Seit einem Jahr versucht das iranische Regime, die größte Protestbewegung des Landes brutal niederzuschlagen. Doch eine Sache kann es den Menschen nicht nehmen.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/iran-proteste-jina-mahsa-amini-todestag-politische-verfolgung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/iran-proteste-jina-mahsa-amini-todestag/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/iran-proteste-jina-mahsa-amini-todestag/cinema__980x420",
       "image_title": "Iran: Es ist kein Mut – es ist der Kampf ums Überleben"
     },
     {
       "title": "Liveblog: Ukraine-Krieg: Russlands Verteidigungsminister trifft sich mit Kim Jong Un",
       "teaser": "Der Westen befürchtet, dass Russland bei Nordkoreas Regime Rüstungsgüter für den Ukraine-Krieg kauft. Wolodymyr Selenskyj besucht das Weiße Haus. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-russland-newsblog-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/russland-nordkorea-sergej-schoigu-kim-jong-un/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/russland-nordkorea-sergej-schoigu-kim-jong-un/wide__822x462",
       "image_title": "Ukraine-Krieg: Russlands Verteidigungsminister trifft sich mit Kim Jong Un"
     },
     {
@@ -281,13 +288,6 @@
       "image_title": "Thüringer Landtag: \"Diese Abstimmung war ein ganz besonderer politischer Tabubruch\""
     },
     {
-      "title": "Verteidigungsminister: Boris Pistorius kündigt weitere internationale Bundeswehr-Einsätze an",
-      "teaser": "Deutschland müsse reagieren, wenn Russland und China anderen Ländern \"ihren Willen aufzwingen\", sagt der Verteidigungsminister. Er will das Engagement der Armee ausbauen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-einsatz-weltweit",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-einsatz-westfaelische-friedenskonferenz/wide__822x462",
-      "image_title": "Verteidigungsminister: Boris Pistorius kündigt weitere internationale Bundeswehr-Einsätze an"
-    },
-    {
       "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
       "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
       "url": "https://www.zeit.de/serie/stoerungsmelder/",
@@ -295,11 +295,11 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sahra Wagenknecht : Ihre größten Chancen liegen im Osten",
-      "teaser": "Sollte Sahra Wagenknecht tatsächlich eine Partei gründen, müsste die Linke um ihre Existenz fürchten. Bei der AfD sieht man das Projekt als Gefahr – und als Chance.",
-      "url": "https://www.zeit.de/2023/39/wagenknecht-partei-die-linke-afd-linkskonservatismus",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/wagenknecht-partei-die-linke-afd-linkskonservatismus-bild/wide__822x462",
-      "image_title": "Sahra Wagenknecht : Ihre größten Chancen liegen im Osten"
+      "title": "Verteidigungsminister: Boris Pistorius kündigt weitere internationale Bundeswehr-Einsätze an",
+      "teaser": "Deutschland müsse reagieren, wenn Russland und China anderen Ländern \"ihren Willen aufzwingen\", sagt der Verteidigungsminister. Er will das Engagement der Armee ausbauen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-einsatz-weltweit",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/bundeswehr-boris-pistorius-einsatz-westfaelische-friedenskonferenz/wide__822x462",
+      "image_title": "Verteidigungsminister: Boris Pistorius kündigt weitere internationale Bundeswehr-Einsätze an"
     },
     {
       "title": "US-Wahlkampf: In Vergreisung vereint",
