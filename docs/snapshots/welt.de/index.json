@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-17T00:52:56",
+  "timestamp": "2023-09-17T01:49:43",
   "url": "https://www.welt.de",
   "response": {
     "status": 200
@@ -38,6 +38,10 @@
       "url": "https://www.welt.de/vermischtes/article247513530/Angriff-mit-Steinen-und-Flaschen-Ausschreitungen-bei-Eritrea-Veranstaltung-in-Stuttgart-26-Polizisten-verletzt.html"
     },
     {
+      "title": "Nato-Generalsekretär Stoltenberg erwartet langen Krieg",
+      "url": "https://www.welt.de/politik/ausland/article247514324/Ukraine-News-Nato-Generalsekretaer-Stoltenberg-erwartet-langen-Krieg.html"
+    },
+    {
       "title": "SPD und FDP mit schlechtestem Wert seit der Bundestagswahl",
       "url": "https://www.welt.de/politik/deutschland/article247502500/Insa-Umfrage-SPD-und-FDP-mit-schlechtestem-Wert-seit-der-Bundestagswahl.html"
     },
@@ -52,10 +56,6 @@
     {
       "title": "Horror-Haus in Polen – Drei tote Babys im Keller und Inzestvorwürfe",
       "url": "https://www.welt.de/vermischtes/kriminalitaet/article247514244/Horror-Haus-in-Polen-Drei-tote-Babys-im-Keller-und-Inzestvorwuerfe.html"
-    },
-    {
-      "title": "Bundesregierung will gegen „Mogelpackungen“ im Supermarkt vorgehen",
-      "url": "https://www.welt.de/politik/deutschland/article247511842/Verbraucherschutzministerin-Bundesregierung-will-gegen-Mogelpackungen-im-Supermarkt-vorgehen.html"
     },
     {
       "title": "Torwart muss weinend vom Platz, doch Schalke feiert dank verrückter Aufholjagd",
@@ -140,6 +140,13 @@
       "url": "https://www.welt.de/sport/fussball/video-highlights/"
     },
     {
+      "title": "Ausschreitungen bei Eritrea-Veranstaltung in Stuttgart – 26 Polizisten verletzt",
+      "teaser": "Rund 200 Personen haben in Stuttgart Teilnehmer einer Eritrea-Veranstaltung und Polizisten angegriffen. 26 Beamte wurden verletzt. Die Polizei ging mit Schlagstöcken und Pfefferspray gegen die Angreifer vor. Bereits im Juli hatten eritreische Gegner eines Eritrea-Festivals in Gießen Polizisten attackiert.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile247513750/7087937797-ci23x11-w20/Ausschreitungen-bei-Eritrea-Veranstaltung-in-Stuttgart.jpg",
+      "image_title": "Ausschreitungen bei Eritrea-Veranstaltung in Stuttgart"
+    },
+    {
       "title": "Die verräterische Telefonnotiz beim Sturz eines Spitzenbeamten",
       "teaser": "Um ihren missliebigen BSI-Präsidenten aus dem Amt zu entfernen, wählte Bundesinnenministerin Nancy Faeser (SPD) Methoden, die jetzt die Justiz beschäftigen. Ein Vermerk sticht dabei hervor. Schönbohm war auch in einer ZDF-Sendung von Jan Böhmermann verspottet worden.",
       "url": "https://www.welt.de/politik/deutschland/plus247490572/Faeser-Schoenbohm-Affaere-Die-verraeterische-Telefonnotiz.html",
@@ -148,18 +155,11 @@
       "author": "Dirk Banse"
     },
     {
-      "title": "Faeser will am Mittwoch im Innenausschuss zum Fall Schönbohm antworten",
-      "teaser": "Zwei Sondersitzungen des Bundestags-Innenausschusses zum Fall des versetzten Behördenleiters Schönbohm ließ die Bundesinnenministerin verstreichen, nun sagte sie zu, am Mittwoch zu erscheinen. Die Union kündigte eine intensive Befragung der Ministerin an.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile242869555/1977930807-ci23x11-w20/Bundesinnenministerin-Faeser-beim-BSI.jpg",
-      "image_title": "Bundesinnenministerin Faeser beim BSI"
-    },
-    {
-      "title": "Ausschreitungen bei Eritrea-Veranstaltung in Stuttgart – 26 Polizisten verletzt",
-      "teaser": "Rund 200 Personen haben in Stuttgart Teilnehmer einer Eritrea-Veranstaltung und Polizisten angegriffen. 26 Beamte wurden verletzt. Die Polizei ging mit Schlagstöcken und Pfefferspray gegen die Angreifer vor. Bereits im Juli hatten eritreische Gegner eines Eritrea-Festivals in Gießen Polizisten attackiert.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile247513750/7087937797-ci23x11-w20/Ausschreitungen-bei-Eritrea-Veranstaltung-in-Stuttgart.jpg",
-      "image_title": "Ausschreitungen bei Eritrea-Veranstaltung in Stuttgart"
+      "title": "Nato-Generalsekretär Stoltenberg erwartet langen Krieg",
+      "teaser": "Der Krieg in der Ukraine wird nach Einschätzung von Nato-Chef Jens Stoltenberg noch lange andauern – auch wenn sich alle einen schnellen Frieden wünschten. Für die Zeit danach seien Sicherheitsgarantien für die Ukraine nötig. Alle Entwicklungen im Liveticker.",
+      "url": "https://www.welt.de/politik/ausland/article247514324/Ukraine-News-Nato-Generalsekretaer-Stoltenberg-erwartet-langen-Krieg.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile247514326/4647931297-ci23x11-w20/Stoltenberg-Muessen-Militaerausgaben-wie-im-Kalten-Krieg-schaffen.jpg",
+      "image_title": "Jens Stoltenberg, Nato-Generalsekretär"
     },
     {
       "title": "„Sonst knallt es in Deutschland“ – FDP fordert Umdenken der Bundesregierung in Migrationskrise",
@@ -178,11 +178,19 @@
       "author": "Anna Schneider"
     },
     {
-      "title": "Steinmeier – Islam hat in Deutschland „Wurzeln geschlagen“",
-      "teaser": "Religionsfreiheit heiße gerade nicht, dass Deutschland frei von Religion sei, sondern den Religionen Raum zu geben und die Freiheit aller Gläubigen zu schützen, sagte Bundespräsident Steinmeier bei einer Jubiläumsfeier. Doch sein Auftritt wurde auch kritisiert.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/incoming/mobile247507800/4157937277-ci23x11-w20/50-Jahre-Islamische-Kulturzentren-VIKZ.jpg",
-      "image_title": "„Ich kann Sie alle nur weiter ermuntern: Nehmen Sie Ihren Platz in der Mitte unserer gemeinsamen Gesellschaft ein“: Bundespräsident Steinmeier vor der Festveranstaltung des Verbandes der Islamischen Kulturzentren e.V."
+      "title": "„Es geht die Regierung nichts an, welchen Lebensstil die Bürger haben“",
+      "teaser": "Der Kanzler stemmt sich gegen den Eindruck, mit Deutschland ginge es bergab. Vieles im Land dauere aber einfach zu lange. Er wolle Wachstum durch Innovation, nicht Verzicht. Im Interview betont er, dass es nicht die Lösung sein könne, Wohlstand hierzulande zu verringern, damit er woanders entstehen könne.",
+      "url": "https://www.welt.de/politik/deutschland/plus247488904/Olaf-Scholz-Es-geht-die-Regierung-nichts-an-welchen-Lebensstil-die-Buergerinnen-und-Buerger-haben.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247489084/3627936637-ci23x11-w20/1B2620E5-FB48-4628-957F-4E91C97E6C1B-jpg.jpg",
+      "image_title": "Kanzler Olaf Scholz (SPD), 65",
+      "author": "Robin Alexander"
+    },
+    {
+      "title": "Heute in 75 Jahren",
+      "teaser": "WELT AM SONNTAG feiert 75. Geburtstag. Wir haben Persönlichkeiten aus Politik, Wirtschaft, Sport und Gesellschaft gefragt, wie Sie die Welt in 75 Jahren sehen. Lassen Sie sich überraschen, was Christine Lagarde, Bill Gates & Co. antworten.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile247467134/1787935207-ci23x11-w20/DWO-WamS75-Teaser-4Leute.jpg",
+      "image_title": "DWO_WamS75_Teaser_4Leute"
     },
     {
       "title": "Bis 20.000 Euro mehr netto von der Rente – das sollten Sie nun wissen",
@@ -201,29 +209,6 @@
       "author": "Hannelore Crolly"
     },
     {
-      "title": "„Es geht die Regierung nichts an, welchen Lebensstil die Bürger haben“",
-      "teaser": "Der Kanzler stemmt sich gegen den Eindruck, mit Deutschland ginge es bergab. Vieles im Land dauere aber einfach zu lange. Er wolle Wachstum durch Innovation, nicht Verzicht. Im Interview betont er, dass es nicht die Lösung sein könne, Wohlstand hierzulande zu verringern, damit er woanders entstehen könne.",
-      "url": "https://www.welt.de/politik/deutschland/plus247488904/Olaf-Scholz-Es-geht-die-Regierung-nichts-an-welchen-Lebensstil-die-Buergerinnen-und-Buerger-haben.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247489084/3627936637-ci23x11-w20/1B2620E5-FB48-4628-957F-4E91C97E6C1B-jpg.jpg",
-      "image_title": "Kanzler Olaf Scholz (SPD), 65",
-      "author": "Robin Alexander"
-    },
-    {
-      "title": "Heute in 75 Jahren",
-      "teaser": "WELT AM SONNTAG feiert 75. Geburtstag. Wir haben Persönlichkeiten aus Politik, Wirtschaft, Sport und Gesellschaft gefragt, wie Sie die Welt in 75 Jahren sehen. Lassen Sie sich überraschen, was Christine Lagarde, Bill Gates & Co. antworten.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile247467134/1787935207-ci23x11-w20/DWO-WamS75-Teaser-4Leute.jpg",
-      "image_title": "DWO_WamS75_Teaser_4Leute"
-    },
-    {
-      "title": "Beschleunigung auf 8000 km/h – Dieses Mega-Katapult soll Satelliten ins All schießen",
-      "teaser": "Das US-Unternehmen SpinLaunch will Satelliten mit einer riesigen Zentrifuge in den Weltraum katapultieren. Die spektakuläre Methode verspricht schnell und günstig zu sein – und könnte gewaltige Mengen Treibstoff einsparen. Ein großer Name soll bereits auf der Kundenliste stehen.",
-      "url": "https://www.welt.de/wirtschaft/plus247446898/Weltraum-Dieses-Mega-Katapult-soll-Satelliten-ins-All-schiessen.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile247500208/6577933917-ci23x11-w20/SpinLaunch-2023-Suborbital-Accelerator-P-17.jpg",
-      "image_title": "So soll das Satelliten-Katapult vom US-Unternehmen SpinLaunch aussehen",
-      "author": "Gerhard Hegmann"
-    },
-    {
       "title": "Fünfjährige stirbt nach Absturz eines Flugzeugs der Kunstflugstaffel",
       "teaser": "Tragischer Unfall bei einer Probe der italienischen Luftwaffe: Ein Flugzeug der Kunstflugstaffel ist in Turin abgestürzt und in Brand geraten. Trümmerteile trafen das Auto einer Familie. Ein Mädchen starb, ihre Eltern und ein neunjähriger Junge wurden verletzt.",
       "url": "https://www.welt.de/vermischtes/weltgeschehen/",
@@ -237,6 +222,14 @@
       "image_url": "https://img.welt.de/img/vermischtes/mobile247477394/2427933407-ci23x11-w20/Couple-on-the-beach-at-sunset.jpg",
       "image_title": "Getty ImagesGetty Images",
       "author": "Elke Naters"
+    },
+    {
+      "title": "Fünfmal Sex am Tag – soll sie ihren Mann für den Liebhaber verlassen?",
+      "teaser": "Eine Frau startet eine Affäre mit einem Arbeitskollegen und erfährt die Lust und Lebendigkeit, die sie jahrelang in ihrer Ehe vermisst hat. Nun steht sie zwischen zwei Männern. Für wen soll sie sich entscheiden? Unser Paarberater weist auf ein grundsätzliches Problem hin.",
+      "url": "https://www.welt.de/iconist/partnerschaft/plus247427278/Beziehung-Soll-ich-meinen-Mann-fuer-den-Liebhaber-verlassen.html",
+      "image_url": "https://img.welt.de/img/iconist/partnerschaft/mobile247427576/7947932187-ci23x11-w20/Woman-on-phone-in-bed-next-to-sleeping-partner.jpg",
+      "image_title": "Eine Affäre kann alte Lebensgeister wecken. Aber ist sie auch von langer Dauer?",
+      "author": "GesellschaftChristian Thiel"
     },
     {
       "title": "Die bisher gründlichste Widerlegung der „gendergerechten Sprache“",
@@ -253,14 +246,6 @@
       "image_url": "https://img.welt.de/img/finanzen/immobilien/mobile247491618/1617934597-ci23x11-w20/A-woman-sitting-at-a-table-in-her-backyard-using-a-laptop.jpg",
       "image_title": "Mit einem Förderprogramm will die Bauministerin die Nachfrage nach Bestandshäusern stärken",
       "author": "Michael Fabricius"
-    },
-    {
-      "title": "Fünfmal Sex am Tag – soll sie ihren Mann für den Liebhaber verlassen?",
-      "teaser": "Eine Frau startet eine Affäre mit einem Arbeitskollegen und erfährt die Lust und Lebendigkeit, die sie jahrelang in ihrer Ehe vermisst hat. Nun steht sie zwischen zwei Männern. Für wen soll sie sich entscheiden? Unser Paarberater weist auf ein grundsätzliches Problem hin.",
-      "url": "https://www.welt.de/iconist/partnerschaft/plus247427278/Beziehung-Soll-ich-meinen-Mann-fuer-den-Liebhaber-verlassen.html",
-      "image_url": "https://img.welt.de/img/iconist/partnerschaft/mobile247427576/7947932187-ci23x11-w20/Woman-on-phone-in-bed-next-to-sleeping-partner.jpg",
-      "image_title": "Eine Affäre kann alte Lebensgeister wecken. Aber ist sie auch von langer Dauer?",
-      "author": "GesellschaftChristian Thiel"
     },
     {
       "title": "Wenn ein mehrfach vorbestrafter Pädophiler die Fußfessel verweigern darf",
@@ -316,6 +301,10 @@
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
+      "title": "Faeser will am Mittwoch im Innenausschuss zum Fall Schönbohm antworten",
+      "url": "https://www.welt.de/politik/deutschland/article247511500/BSI-Affaere-Faeser-will-am-Mittwoch-im-Innenausschuss-zum-Fall-Schoenbohm-antworten.html"
+    },
+    {
       "title": "CDU-Chef Merz fordert Hürden für Geschlechtsanpassungen",
       "url": "https://www.welt.de/politik/deutschland/article247508480/Selbstbestimmungsgesetz-CDU-Chef-Merz-fordert-Huerden-fuer-Geschlechtsanpassungen.html"
     },
@@ -324,20 +313,16 @@
       "url": "https://www.welt.de/sport/fussball/bundesliga/fc-schalke-04/article247514100/Zweite-Liga-FC-Schalke-04-triumphiert-in-Sieben-Tore-Spektakel.html"
     },
     {
+      "title": "Bochum erkämpft sich gegen Frankfurt einen Punkt",
+      "url": "https://www.welt.de/sport/fussball/bundesliga/article247513652/Bundesliga-VfL-Bochum-erkaempft-sich-gegen-Eintracht-Frankfurt-einen-Punkt.html"
+    },
+    {
       "title": "Bundesregierung will gegen „Mogelpackungen“ im Supermarkt vorgehen",
       "url": "https://www.welt.de/politik/deutschland/article247511842/Verbraucherschutzministerin-Bundesregierung-will-gegen-Mogelpackungen-im-Supermarkt-vorgehen.html"
     },
     {
       "title": "Horror-Haus in Polen – Drei tote Babys im Keller und Inzestvorwürfe",
       "url": "https://www.welt.de/vermischtes/kriminalitaet/article247514244/Horror-Haus-in-Polen-Drei-tote-Babys-im-Keller-und-Inzestvorwuerfe.html"
-    },
-    {
-      "title": "Klitschko drängt Bundesregierung zu „Taurus“-Lieferung",
-      "url": "https://www.welt.de/politik/ausland/article247500952/Ukraine-News-Klitschko-draengt-Bundesregierung-zu-Taurus-Lieferung.html"
-    },
-    {
-      "title": "Taliban nehmen zahlreiche Mitarbeiter von Schweizer Hilfsorganisation fest",
-      "url": "https://www.welt.de/politik/ausland/article247507802/Afghanistan-Taliban-nehmen-zahlreiche-Mitarbeiter-von-Schweizer-Hilfsorganisation-fest.html"
     },
     {
       "title": "Jetzt im Fernsehen",
@@ -431,8 +416,8 @@
       "url": "https://www.welt.de/politik/deutschland/"
     },
     {
-      "title": "„Aufkommensneutrale Grundsteuerreform“ – Kommunale Spitzenverbände rücken von Zusage ab",
-      "url": "https://www.welt.de/wirtschaft/"
+      "title": "Steinmeier – Islam hat in Deutschland „Wurzeln geschlagen“",
+      "url": "https://www.welt.de/politik/deutschland/"
     },
     {
       "title": "Vermisster Sechsjähriger erstochen aufgefunden – Polizei befragt Dorfbewohner",
@@ -494,12 +479,12 @@
       "author": "Holger Zschäpitz"
     },
     {
-      "title": "Mehr als 800.000 Euro – Wohin fließen die Spendengelder für mutmaßliche Rammstein-Opfer?",
-      "teaser": "Die Amadeu Antonio Stiftung sammelte nach Berichten über angebliche sexuelle Übergriffe auf Rammstein-Konzerten Spenden zur Unterstützung mutmaßlicher Betroffener. Dann wurden die Ermittlungen gegen Till Lindemann eingestellt. WELT-Redakteurin Vanessa Nischik hat nachgeforscht, wohin das viele Geld jetzt gehen soll.",
-      "url": "https://www.welt.de/podcasts/kick-off/",
-      "image_url": "https://img.welt.de/img/podcasts/kick-off/mobile247372500/7367935907-ci23x11-w20/Podcast-Host-Imke-Rabiega.jpg",
-      "image_title": "Podcast-Host Imke Rabiega",
-      "author": "Imke Rabiega"
+      "title": "Faeserland – Die Bundesinnenministerin hat mehr als ein Problem",
+      "teaser": "Dagmar Rosenfeld und Robin Alexander berichten vom Treffen mit Olaf Scholz für ein Interview in der WELT am Sonntag. Warum es sich mit nur einem Auge und Augenklappe nicht unbedingt schlechter regiert und der Wahlkämpferin Nancy Faeser die Felle davonschwimmen – auch darüber diskutieren die Hosts.",
+      "url": "https://www.welt.de/podcasts/machtwechsel/",
+      "image_url": "https://img.welt.de/img/podcasts/machtwechsel/mobile244549614/1397930287-ci23x11-w20/DWO-Podcast-Teaser-mit-2zu3.jpg",
+      "image_title": "Dagmar Rosenfeld und Robin Alexander diskutieren jede Woche die wichtigsten Themen der Politik",
+      "author": "Robin Alexander"
     },
     {
       "title": "Wenn Mutterschaft monströs wird",
@@ -572,12 +557,12 @@
       "author": "Christina Horsten"
     },
     {
-      "title": "Die meisten Deutschen sind zu oft dem Hormongift BPA ausgesetzt",
-      "teaser": "Die Chemikalie Bisphenol A (BPA) schwächt das Immunsystem und kann zu Unfruchtbarkeit führen. Dennoch steckt BPA in zahlreichen Alltagsprodukten. Laut einer aktuellen Studie haben fast alle Europäer bedenklich hohe Konzentrationen des Hormongifts im Körper.",
-      "url": "https://www.welt.de/gesundheit/",
-      "image_url": "https://img.welt.de/img/gesundheit/mobile247477516/4657939547-ci23x11-w20/Plastic-packaging.jpg",
-      "image_title": "BPA steckt in vielen Produkten, etwa in Verpackungen aus Kunststoff",
-      "author": "Marco Rauch"
+      "title": "Alle loben Holz – aber keiner baut damit",
+      "teaser": "Holz gilt in der Ampel-Koalition und vor allem bei Umweltschützern beim Hausbau als Material der Zukunft. Andere Länder bauen längst damit. In Deutschland aber nimmt der Anteil nur schleppend zu. Das hat einen ganz bestimmten Grund.",
+      "url": "https://www.welt.de/wirtschaft/",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile247497644/3307939757-ci23x11-w20/Holzhochhaus-Roots-feiert-Richtfest-in-der-Hamburger-Hafencity.jpg",
+      "image_title": "Eine große Ausnahme von der Regel: Das Hochhaus „Roots“ in der Hamburger Hafencity ist zu einem großen Teil aus Holz gebaut",
+      "author": "Michael Fabricius"
     },
     {
       "title": "Wie MDMA und Ecstasy psychisch kranken Menschen helfen können",
@@ -609,12 +594,12 @@
       "image_title": "Kein alternativer Text für dieses Bild vorhanden"
     },
     {
-      "title": "Jobwechsel und Einstellungen erreichen Vorkrisenstand",
-      "teaser": "In der Pandemie ist die Zahl der Neueinstellungen und Jobwechsel deutlich zurückgegangen. Doch diese Zurückhaltung ist schon wieder Geschichte. Es wird so viel gewechselt und neu eingestellt wie vor Corona. Allerdings sehen die Ökonomen ein neues Problem.",
-      "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile247489182/3087939007-ci23x11-w20/108384207.jpg",
-      "image_title": "108384207",
-      "author": "Jan Klauth"
+      "title": "Beschleunigung auf 8000 km/h – Dieses Mega-Katapult soll Satelliten ins All schießen",
+      "teaser": "Das US-Unternehmen SpinLaunch will Satelliten mit einer riesigen Zentrifuge in den Weltraum katapultieren. Die spektakuläre Methode verspricht schnell und günstig zu sein – und könnte gewaltige Mengen Treibstoff einsparen. Ein großer Name soll bereits auf der Kundenliste stehen.",
+      "url": "https://www.welt.de/wirtschaft/plus247446898/Weltraum-Dieses-Mega-Katapult-soll-Satelliten-ins-All-schiessen.html",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile247500208/6577933917-ci23x11-w20/SpinLaunch-2023-Suborbital-Accelerator-P-17.jpg",
+      "image_title": "So soll das Satelliten-Katapult vom US-Unternehmen SpinLaunch aussehen",
+      "author": "Gerhard Hegmann"
     },
     {
       "title": "„Wir drohen unsere Stärken zu verlieren“",
@@ -625,12 +610,12 @@
       "author": "Jan Dams"
     },
     {
-      "title": "Alle loben Holz – aber keiner baut damit",
-      "teaser": "Holz gilt in der Ampel-Koalition und vor allem bei Umweltschützern beim Hausbau als Material der Zukunft. Andere Länder bauen längst damit. In Deutschland aber nimmt der Anteil nur schleppend zu. Das hat einen ganz bestimmten Grund.",
+      "title": "„Aufkommensneutrale Grundsteuerreform“ – Kommunale Spitzenverbände rücken von Zusage ab",
+      "teaser": "Kommunale Spitzenverbände hatten eine aufkommensneutralen Grundsteuerreform versprochen. Davon ist nun so nicht mehr die Rede. Immobilienbesitzer haben Einsprüche gegen 3,25 Millionen Bescheide eingelegt.",
       "url": "https://www.welt.de/wirtschaft/",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile247497644/3307939757-ci23x11-w20/Holzhochhaus-Roots-feiert-Richtfest-in-der-Hamburger-Hafencity.jpg",
-      "image_title": "Eine große Ausnahme von der Regel: Das Hochhaus „Roots“ in der Hamburger Hafencity ist zu einem großen Teil aus Holz gebaut",
-      "author": "Michael Fabricius"
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile247495100/2567939887-ci23x11-w20/Wohnen-am-ehemaligen-Tagebau.jpg",
+      "image_title": "Bislang wurden 33,9 Millionen Grundsteuererklärungen abgegeben",
+      "author": "Karsten Seibel"
     },
     {
       "title": "Streit um den Superpanzer – Europas größtes Rüstungsprojekt steht vor dem Aus",
@@ -1084,6 +1069,10 @@
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/politik_ausland_nt/article247514282/Nato-Admiral-Russland-verliert-jeden-Tag-Boden.html"
     },
     {
+      "title": "Klitschko drängt Bundesregierung zu „Taurus“-Lieferung",
+      "url": "https://www.welt.de/politik/ausland/article247500952/Ukraine-News-Klitschko-draengt-Bundesregierung-zu-Taurus-Lieferung.html"
+    },
+    {
       "title": "FC Schalke 04 - 1. FC Magdeburg",
       "url": "https://www.welt.de/sport/fussball/2-bundesliga/article247458482/FC-Schalke-04-1-FC-Magdeburg-Tore-am-laufenden-Band-2-Bundesliga.html"
     },
@@ -1114,10 +1103,6 @@
     {
       "title": "Horror-Haus in Polen: Drei tote Babys und Inzestvorwürfe",
       "url": "https://www.welt.de/newsticker/dpa_nt/afxline/topthemen/article247514202/Horror-Haus-in-Polen-Drei-tote-Babys-und-Inzestvorwuerfe.html"
-    },
-    {
-      "title": "Frankfurt verpasst zweiten Sieg: 1:1 in Bochum",
-      "url": "https://www.welt.de/regionales/hessen/article247514194/Frankfurt-verpasst-zweiten-Sieg-1-1-in-Bochum.html"
     }
   ]
 }
