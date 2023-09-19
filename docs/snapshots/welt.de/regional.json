@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-19T07:10:54",
+  "timestamp": "2023-09-19T08:15:05",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -25,6 +25,13 @@
     }
   ],
   "articles": [
+    {
+      "title": "AfD in Mecklenburg-Vorpommern vorn – SPD verliert stark",
+      "teaser": "Eine neue Umfrage setzt die Regierung von Ministerpräsidentin Manuela Schwesig (SPD) unter Druck: Die AfD liegt mit 32 Prozent der Stimmen vorne. Ebenfalls zulegen konnten die Grünen in Mecklenburg-Vorpommern.",
+      "url": "https://www.welt.de/politik/",
+      "image_url": "https://img.welt.de/img/politik/mobile247553818/5267934157-ci23x11-w20/Landtags-Sondersitzung-zum-Entwurf-fuer-Doppelhaushalt.jpg",
+      "image_title": "Ministerpräsidentin Manuela Schwesig (SPD)"
+    },
     {
       "title": "Berlin hat „quasi Null“ Aufnahmekapazitäten für Migranten",
       "teaser": "Berlin beherbergt derzeit rund 32.000 Personen in den Gemeinschaftsunterkünften für Asylbewerber. Plätze für noch mehr Migranten zu finden, wird zunehmend schwierig. Am Dienstag berät die Taskforce des Senats.",
@@ -56,13 +63,6 @@
       "author": "Stefan Grund"
     },
     {
-      "title": "18-Jähriger fährt in Hamburg Polizisten an",
-      "teaser": "Weil er einen Polizisten angefahren hat, sitzt ein 18-Jähriger in Hamburg wegen Mordversuchs in Untersuchungshaft. Der Jugendliche fuhr den Beamten offenbar absichtlich an. Er fuhr an einem Stau vorbei und missachtete alle Haltesignale. Das Auto war geliehen.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile247545138/0497936267-ci23x11-w20/Symbolbild-Toetungsdelikt.jpg",
-      "image_title": "Symbolbild - Tötungsdelikt"
-    },
-    {
       "title": "Lieferando-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -83,10 +83,17 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "18-Jähriger fährt in Hamburg Polizisten an",
+      "teaser": "Weil er einen Polizisten angefahren hat, sitzt ein 18-Jähriger in Hamburg wegen Mordversuchs in Untersuchungshaft. Der Jugendliche fuhr den Beamten offenbar absichtlich an. Er fuhr an einem Stau vorbei und missachtete alle Haltesignale. Das Auto war geliehen.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile247545138/0497936267-ci16x9-w20/Symbolbild-Toetungsdelikt.jpg",
+      "image_title": "Symbolbild - Tötungsdelikt"
+    },
+    {
       "title": "Dann geht es erstmals um den „Zeugen Scholz“",
       "teaser": "Zum Auftakt des Strafprozesses gegen den Hamburger Bankier Christian Olearius wird vor allem dessen Rolle bei illegalen Cum-Ex-Geschäften ausgeleuchtet. Doch die ist eng mit dem damaligen Ersten Hamburger Bürgermeister – und heutigen Bundeskanzler – verknüpft.",
       "url": "https://www.welt.de/wirtschaft/plus247543724/Cum-Ex-Prozess-Und-dann-geht-es-um-den-Zeugen-Scholz.html",
-      "image_url": "https://img.welt.de/img/wirtschaft/mobile247543720/9257936417-ci16x9-w20/Cum-Ex-trial-against-the-former-CEO-of-Warburg-Bank-Christian-Olearius-in-B-2.jpg",
+      "image_url": "https://img.welt.de/img/wirtschaft/mobile247543720/9257936417-ci23x11-w20/Cum-Ex-trial-against-the-former-CEO-of-Warburg-Bank-Christian-Olearius-in-B-2.jpg",
       "image_title": "Der angeklagte Bankier Christian Olearius zwischen seinen Anwälten Peter Gauweiler (l.) und Rudolf Hübner (r.) im Gerichtssaal im Bonner Landgericht",
       "author": "Cornelius Welp"
     },
@@ -119,13 +126,6 @@
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile247475844/3127936467-ci23x11-w20/Luftbild-HHLA-Eurogate-Containerterminal.jpg",
       "image_title": "Die Containerterminals von Eurogate (links) und der HHLA am Waltershofer Hafen in Hamburg",
       "author": "Olaf Preuß"
-    },
-    {
-      "title": "CDU will Sondersitzung des Wirtschaftsausschusses",
-      "teaser": "Es müsse die Frage geklärt werden, welchen Nutzen der Einstieg von MSC bei der HHLA tatsächlich habe. Reedereiverband sieht den Vorgang mit Skepsis.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile247519994/8177937747-ci23x11-w20/Containerschiff-von-MSC-in-Hamburg.jpg",
-      "image_title": "Das Containerschiff „MSC Irene“ der Reederei MSC am Hamburger Container Terminal Burchardkai"
     },
     {
       "title": "Berlins Bürgermeister Wegner kritisiert Lindners Schuldenbremse",
@@ -401,8 +401,68 @@
       "image_title": "Grevesmühlen hat per Bürgerentscheid gegen ein Containerdorf für Asylsuchende gestimmt. Im benachbarten Upahl fanden protestierende scharfe Worte"
     },
     {
-      "title": "Zwei Objekte bei Razzia gegen Neonazis durchsucht",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247552986/Zwei-Objekte-bei-Razzia-gegen-Neonazis-durchsucht.html"
+      "title": "Zehnjähriger nach Lkw-Unfall in Pulheim gestorben",
+      "url": "https://www.welt.de/regionales/nrw/article247554822/Zehnjaehriger-nach-Lkw-Unfall-in-Pulheim-gestorben.html"
+    },
+    {
+      "title": "Einbrecher stehlen Motorsägen und Heckenscheren bei Händler",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article247554568/Einbrecher-stehlen-Motorsaegen-und-Heckenscheren-bei-Haendler.html"
+    },
+    {
+      "title": "Durchsuchungen nach Verbot der «Hammerskins Deutschland»",
+      "url": "https://www.welt.de/regionales/thueringen/article247554528/Durchsuchungen-nach-Verbot-der-Hammerskins-Deutschland.html"
+    },
+    {
+      "title": "Sieben Prozent Mehrwertsteuer für Gastro muss bleiben",
+      "url": "https://www.welt.de/regionales/sachsen/article247554420/Sieben-Prozent-Mehrwertsteuer-fuer-Gastro-muss-bleiben.html"
+    },
+    {
+      "title": "infratest-dimap-Umfrage sieht AfD in MV vorn",
+      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article247554392/infratest-dimap-Umfrage-sieht-AfD-in-MV-vorn.html"
+    },
+    {
+      "title": "Viktoria-Frauen im DFB-Pokal-Achtelfinale gegen Jena",
+      "url": "https://www.welt.de/regionales/berlin/article247554306/Viktoria-Frauen-im-DFB-Pokal-Achtelfinale-gegen-Jena.html"
+    },
+    {
+      "title": "Betrunkener versucht Zirkustiere freizulassen",
+      "url": "https://www.welt.de/regionales/sachsen-anhalt/article247554296/Betrunkener-versucht-Zirkustiere-freizulassen.html"
+    },
+    {
+      "title": "Reisesommer bringt Tui noch nicht ganz aufs Vorkrisenniveau",
+      "url": "https://www.welt.de/regionales/niedersachsen/article247554194/Reisesommer-bringt-Tui-noch-nicht-ganz-aufs-Vorkrisenniveau.html"
+    },
+    {
+      "title": "Studie: Menschen in NRW besonders unzufrieden mit Schulen",
+      "url": "https://www.welt.de/regionales/nrw/article247554140/Studie-Menschen-in-NRW-besonders-unzufrieden-mit-Schulen.html"
+    },
+    {
+      "title": "Deckenteil in Hotel eingestürzt: 120 Gäste evakuiert",
+      "url": "https://www.welt.de/regionales/nrw/article247554142/Deckenteil-in-Hotel-eingestuerzt-120-Gaeste-evakuiert.html"
+    },
+    {
+      "title": "Zufriedenheit mit eigenen Schulen: Bayern vorne - NRW hinten",
+      "url": "https://www.welt.de/regionales/bayern/article247553936/Zufriedenheit-mit-eigenen-Schulen-Bayern-vorne-NRW-hinten.html"
+    },
+    {
+      "title": "Ifo-Umfrage: Menschen sehen Lehrermangel als Problem",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247553956/Ifo-Umfrage-Menschen-sehen-Lehrermangel-als-Problem.html"
+    },
+    {
+      "title": "Bafin-Präsident: Probleme bei Postbank müssen behoben werden",
+      "url": "https://www.welt.de/regionales/hessen/article247553600/Bafin-Praesident-Probleme-bei-Postbank-muessen-behoben-werden.html"
+    },
+    {
+      "title": "Reinigung des Brandenburger Tors kostet 35.000 Euro",
+      "url": "https://www.welt.de/regionales/berlin/article247553482/Reinigung-des-Brandenburger-Tors-kostet-35-000-Euro.html"
+    },
+    {
+      "title": "Mehr Frauen im Abgeordnetenhaus nach Wiederholungswahl",
+      "url": "https://www.welt.de/regionales/berlin/article247553454/Mehr-Frauen-im-Abgeordnetenhaus-nach-Wiederholungswahl.html"
+    },
+    {
+      "title": "Razzien gegen Rechtsextreme: Objekte im Südwesten durchsucht",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247552986/Razzien-gegen-Rechtsextreme-Objekte-im-Suedwesten-durchsucht.html"
     },
     {
       "title": "Fachkräftemangel im öffentlichen Dienst verschärft sich",
@@ -419,66 +479,6 @@
     {
       "title": "Autofahrer stirbt bei Zusammenstoß mit Lastwagen",
       "url": "https://www.welt.de/regionales/bayern/article247552850/Autofahrer-stirbt-bei-Zusammenstoss-mit-Lastwagen.html"
-    },
-    {
-      "title": "Erneut Strom-Sparappell für Baden-Württemberg",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247552852/Erneut-Strom-Sparappell-fuer-Baden-Wuerttemberg.html"
-    },
-    {
-      "title": "Razzia gegen Neonazi-Gruppe in sechs Objekten im Saarland",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article247552866/Razzia-gegen-Neonazi-Gruppe-in-sechs-Objekten-im-Saarland.html"
-    },
-    {
-      "title": "Razzia gegen Neonazis: Durchsuchung im Landkreis Fulda",
-      "url": "https://www.welt.de/regionales/hessen/article247552840/Razzia-gegen-Neonazis-Durchsuchung-im-Landkreis-Fulda.html"
-    },
-    {
-      "title": "Polarlichter über Sachsen-Anhalt",
-      "url": "https://www.welt.de/regionales/sachsen-anhalt/article247552816/Polarlichter-ueber-Sachsen-Anhalt.html"
-    },
-    {
-      "title": "E-Bike im Keller in Flammen: 23 Mieter müssen Haus verlassen",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article247552808/E-Bike-im-Keller-in-Flammen-23-Mieter-muessen-Haus-verlassen.html"
-    },
-    {
-      "title": "Erneut Blockaden von Klimademonstranten in Berlin",
-      "url": "https://www.welt.de/regionales/berlin/article247552798/Erneut-Blockaden-von-Klimademonstranten-in-Berlin.html"
-    },
-    {
-      "title": "Zweites Album von Jeremias: Zu viel Gefühl geht nicht",
-      "url": "https://www.welt.de/regionales/niedersachsen/article247552786/Zweites-Album-von-Jeremias-Zu-viel-Gefuehl-geht-nicht.html"
-    },
-    {
-      "title": "Kunst belebt Handel: Galerie-Kunstprojekt geehrt",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article247552226/Kunst-belebt-Handel-Galerie-Kunstprojekt-geehrt.html"
-    },
-    {
-      "title": "Razzia gegen Neonazis an drei Orten",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article247552224/Razzia-gegen-Neonazis-an-drei-Orten.html"
-    },
-    {
-      "title": "Durchsuchungen nach Verbot der «Hammerskins Deutschland»",
-      "url": "https://www.welt.de/regionales/berlin/article247552218/Durchsuchungen-nach-Verbot-der-Hammerskins-Deutschland.html"
-    },
-    {
-      "title": "Sechsstelliger Schaden nach Brand in Asylunterkunft",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247551678/Sechsstelliger-Schaden-nach-Brand-in-Asylunterkunft.html"
-    },
-    {
-      "title": "Krankentransporter prallt in Bushaltestelle: Drei Verletzte",
-      "url": "https://www.welt.de/regionales/nrw/article247551668/Krankentransporter-prallt-in-Bushaltestelle-Drei-Verletzte.html"
-    },
-    {
-      "title": "Nächtlicher Stromausfall in Fulda",
-      "url": "https://www.welt.de/regionales/hessen/article247551664/Naechtlicher-Stromausfall-in-Fulda.html"
-    },
-    {
-      "title": "Auto prallt gegen zwei Bäume: Fahrer schwer verletzt",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article247551620/Auto-prallt-gegen-zwei-Baeume-Fahrer-schwer-verletzt.html"
-    },
-    {
-      "title": "Ludwigshafener Stadtrat stimmt Helmut-Kohl-Allee zu",
-      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article247551594/Ludwigshafener-Stadtrat-stimmt-Helmut-Kohl-Allee-zu.html"
     }
   ]
 }
