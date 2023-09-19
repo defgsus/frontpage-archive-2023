@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-19T19:08:38",
+  "timestamp": "2023-09-19T20:11:30",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -147,19 +147,25 @@
       "url": "https://www.heise.de/ratgeber/Ueber-10-000-Euro-vom-Staat-So-kommen-Sie-an-die-Photovoltaik-Foerderung-der-KfW-9302058.html"
     },
     {
+      "title": "Neue United Acceleration Foundation will oneAPI auf die nächste Stufe heben",
+      "teaser": "Google, Arm, Fujitsu, Imagination Technologies, Intel, Qualcomm und Samsung arbeiten in der neuen Unified Acceleration Foundation (UXL) bei oneAPI zusammen.",
+      "url": "https://www.heise.de/news/Neue-United-Acceleration-Foundation-will-openAPI-auf-die-naechste-Stufe-heben-9310426.html",
+      "image_title": "Blick in den Gang eines Rechenzentrums"
+    },
+    {
       "title": "TechStage Top 10: Die stärksten Powerstations von 1000 bis 3600 Watt",
       "teaser": "Für starke Verbraucher benötigen Powerstations ausreichend Leistung. TechStage zeigt die stärksten Solargeneratoren für Werkzeug, Garten- und Küchengeräte.",
       "url": "https://www.techstage.de/ratgeber/top-10-die-staerksten-powerstations-von-1000-bis-3600-watt/dnjqv2t?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
+      "title": "Cloud-Services: Wie Plattformen die Verwaltung vereinfachen",
+      "teaser": "Der Trend zum Cloud-Bereitstellungsmodell „as-a-Service“ ist ungebrochen. Wenn aber zahlreiche Services genutzt werden, sind Schutz und Verwaltung aufwendig und überfordern viele Unternehmen. Durch den Einsatz von Plattformen lässt sich das Management von Cloud-Services jedoch deutlich vereinfachen.",
+      "url": "https://www.heise.de/solutions/arrow/cloud-services-wie-plattformen-die-verwaltung-vereinfachen/?source=nat_teas"
+    },
+    {
       "title": "Java 21 ist eines der spannendsten Releases der letzten Jahre",
       "teaser": "Mit dem OpenJDK 21 ist gerade ein Release erschienen, für das Hersteller längeren Support (LTS) anbieten. Diese Version hat aber auch sonst einiges zu bieten.",
       "url": "https://www.heise.de/blog/Java-21-ist-eines-der-spannendsten-Releases-der-letzten-Jahre-9309203.html"
-    },
-    {
-      "title": "Managed Services – die logische Antwort auf den Fachkräftemangel",
-      "teaser": "Wenn es darum geht, Systeme und Lösungen zu konfigurieren, überwachen und zu warten, fehlen in Unternehmen oft die personellen Ressourcen. Managed Service Provider entlasten nicht nur die interne IT von Routineaufgaben, sie bieten auch Spezial-Know-how, das vor allem mittelständische Unternehmen kaum selbst aufbauen können.",
-      "url": "https://www.heise.de/solutions/arrow/managed-services-die-logische-antwort-auf-den-fachkraeftemangel/?source=nat_teas"
     },
     {
       "title": "Bundesregierung: Tausende Fachkräfte für Quantentechnologien fehlen",
@@ -188,12 +194,6 @@
       "url": "https://www.heise.de/news/Ohne-Elektromotor-Mini-Explosionen-treiben-Froschroboter-an-9310244.html"
     },
     {
-      "title": "\"Kein Auto zu viel\": Hannovers Konzept für eine \"autofreie Innenstadt\"",
-      "teaser": "Die Innenstadt von Hannover soll laut einem Plan bis 2030 fast autofrei werden, der verbleibende Verkehr soll auf 30 km/h verlangsamt werden.",
-      "url": "https://www.heise.de/news/Kein-Auto-zu-viel-Hannovers-Konzept-fuer-eine-autofreie-Innenstadt-9310278.html",
-      "image_title": "Hauptbahnhof Hannover"
-    },
-    {
       "title": "KI-SprachmodelleTipps und Tools für den produktiven Einsatz",
       "teaser": "Gute Ergebnisse erzielt man mit KI-Sprachmodellen, wenn man sie mit richtigen Prompts anleitet.",
       "url": "https://www.heise.de/ratgeber/KI-Sprachmodelle-Tipps-und-Tools-fuer-den-produktiven-Einsatz-9287624.html",
@@ -215,6 +215,12 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "\"Kein Auto zu viel\": Hannovers Konzept für eine \"autofreie Innenstadt\"",
+      "teaser": "Die Innenstadt von Hannover soll laut einem Plan bis 2030 fast autofrei werden, der verbleibende Verkehr soll auf 30 km/h verlangsamt werden.",
+      "url": "https://www.heise.de/news/Kein-Auto-zu-viel-Hannovers-Konzept-fuer-eine-autofreie-Innenstadt-9310278.html",
+      "image_title": "Hauptbahnhof Hannover"
     },
     {
       "title": "Kurz informiert: 1&1, Handynutzung Schule, Paywall für X, Microsoft-Leaks",
@@ -279,15 +285,15 @@
       "url": "https://www.heise.de/blog/Die-Produktwerker-Das-Product-Operating-Model-von-Marty-Cagan-9309787.html"
     },
     {
+      "title": "KI-Architekturen richtig einsetzen",
+      "teaser": "Machine Learning und andere Methoden der künstlichen Intelligenz (KI) stellen je nach Anwendung sehr unterschiedliche Anforderungen an die IT-Umgebung. Welche Rechnerarchitektur für welche Aufgaben am besten geeignet ist - und wie sich mit der richtigen Architektur Performance und Effektivität von KI-Projekten steigern lässt!",
+      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/ki-architekturen-richtig-einsetzen-4553/?source=hbsad"
+    },
+    {
       "title": "Ransomware-Gang: Weitere Durchsuchungen gegen DoppelPaymer",
       "teaser": "Internationale Strafverfolger sowie das LKA NRW haben Durchsuchungen bei zwei Verdächtigen vorgenommen. Sie sollen zur Gang hinter DoppelPaymer gehören.",
       "url": "https://www.heise.de/news/Ransomware-Gang-Weitere-Durchsuchungen-gegen-DoppelPaymer-9309608.html",
       "image_title": "Futuristische Datenmatrix"
-    },
-    {
-      "title": "KI-Architekturen richtig einsetzen",
-      "teaser": "Machine Learning und andere Methoden der künstlichen Intelligenz (KI) stellen je nach Anwendung sehr unterschiedliche Anforderungen an die IT-Umgebung. Welche Rechnerarchitektur für welche Aufgaben am besten geeignet ist - und wie sich mit der richtigen Architektur Performance und Effektivität von KI-Projekten steigern lässt!",
-      "url": "https://business-services.heise.de/specials/zusammen-das-data-center-weiterentwickeln/future-enterprise/beitrag/ki-architekturen-richtig-einsetzen-4553/?source=hbsad"
     },
     {
       "title": "c't-Webinar: Fantastische Bildwelten mit KI",
@@ -337,12 +343,6 @@
       "title": "Programmiersprache Swift 5.9 führt Makros und ein Ownership-Konzept ein",
       "teaser": "Das neue Makrosystem von Swift bietet mehr als die Textbausteine in C/C++. Ownership bietet ein Konzept, um die Speicherverwaltung zu optimieren.",
       "url": "https://www.heise.de/news/Programmiersprache-Swift-5-9-fuehrt-Makros-und-ein-Ownership-Konzept-ein-9309228.html"
-    },
-    {
-      "title": "Bard steckt ab sofort in Gmail, Drive, Youtube und Co. und prüft sich selbst",
-      "teaser": "Googles Chatbot Bard kann künftig mit fast allen Google-Diensten interagieren. Zudem gibt es eine neue Faktencheck-Funktion.",
-      "url": "https://www.heise.de/news/Bard-steckt-jetzt-in-Gmail-Drive-Youtube-und-co-und-prueft-sich-selbst-9309199.html",
-      "image_title": "Munich,,Germany,-,08.,February,2023:,Google,Bard,-,Ai"
     },
     {
       "title": "Tempo 30 soll leichter eingeführt werden können",
@@ -729,24 +729,24 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-e-scooter-im-test/1wx49v3?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Russische Bewegung für Kriegsdienstverweigerug als \"ausländischer Agent\" eingestuft",
-      "teaser": "Wehrdienstflüchtige aus Russland haben wenig Chancen auf Asyl in der EU. Es mangelt an legalen Einreisewegen. Der Kreml geht dennoch von Verbrüderung aus.",
-      "url": "https://www.heise.de/tp/features/Russische-Bewegung-fuer-Kriegsdienstverweigerug-als-auslaendischer-Agent-eingestuft-9207406.html"
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
     },
     {
-      "title": "Russland: Kreml sucht Kanonenfutter",
-      "teaser": "Offizielle haben im Herbst 2022 Nachteile einer Mobilmachung begriffen. Jetzt werben sie intensiv um Freiwillige. Was der Wegfall der Wagner-Truppe bedeutet.",
-      "url": "https://www.heise.de/tp/features/Russland-Kreml-sucht-Kanonenfutter-9209013.html"
+      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
+      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
+      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
     },
     {
-      "title": "Debatten: Wovon Whataboutism ablenkt",
-      "teaser": "Eine rhetorische Allzweckwaffe und ihr Einsatz in Diskussionen über Assange oder den Ukraine-Krieg. Warum das in polarisierten Meinungsstreits so beliebte Totschlagargument hochproblematisch ist.",
-      "url": "https://www.heise.de/tp/features/Debatten-Wovon-Whataboutism-ablenkt-9207254.html"
+      "title": "Le Pen: Mit ihr vergeht die deutsch-französische Freundschaft?",
+      "teaser": "Unruhen in Frankreich: Es wird wieder über das vorzeitige Ende der Regierung Macron spekuliert. Für Deutschland wären das keine guten Aussichten. Die Krisen-Gewinnerin will einen deutlichen Kurswechsel.",
+      "url": "https://www.heise.de/tp/features/Le-Pen-Mit-ihr-vergeht-die-deutsch-franzoesische-Freundschaft-9208505.html"
     },
     {
-      "title": "Usenet-Anbieter: So finden Sie den besten Provider",
-      "teaser": "Neben Diskussionen findet man im Usenet auch Binärdaten wie Audio- oder Video-Inhalte. Für uneingeschränkten Zugriff benötigt man jedoch einen Premium-Zugang.",
-      "url": "https://www.heise.de/download/specials/Usenet-Anbieter-So-finden-Sie-den-besten-Provider-5996846"
+      "title": "VPN-Test 2023: Die besten VPN-Anbieter im Vergleich",
+      "teaser": "Eine VPN-Verbindung ist die beste Lösung, um anonym zu surfen oder Geoblocking-Sperren zu umgehen. Wir stellen eine Auswahl der besten VPN-Anbieter 2023 vor.",
+      "url": "https://www.heise.de/download/specials/Anonym-surfen-mit-VPN-Die-besten-VPN-Anbieter-im-Vergleich-3798036"
     },
     {
       "title": "Signal - Messenger-App",
