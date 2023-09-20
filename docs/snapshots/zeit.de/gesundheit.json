@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-20T11:10:18",
+  "timestamp": "2023-09-20T12:22:07",
   "url": "https://www.zeit.de/gesundheit/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Bundesweiter Protesttag: Krankenhäuser fordern mehr Geld vom Staat",
+      "teaser": "Die Deutsche Krankenhausgesellschaft warnt vor einer \"dramatischen\" Unterfinanzierung der Kliniken. Auf einem bundesweiten Protesttag fordert der Verband schnelle Hilfen.",
+      "url": "https://www.zeit.de/gesundheit/2023-09/krankenhaeuser-protest-finanzierung-staat",
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/krankenhaeuser-protest-finanzierung-staat-bild/cinema__980x420"
+    },
+    {
       "title": "Erkältungskrankheiten: Hausärzte warnen vor Versorgungsnotstand durch Infektwellen",
       "teaser": "Bundesweit sind rund 5.000 Hausarztstellen unbesetzt, bilanziert der Verband. Erneut drohten im Herbst und Winter lange Wartezeiten am Telefon und in den Praxen.",
       "url": "https://www.zeit.de/gesundheit/2023-09/erkaeltungskrankheiten-hausaerzte-infektwelle-versorgungsnotstand-winter",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/erkaeltungskrankheiten-hausaerzte-infektwelle-versorgungsnotstand-winter-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/erkaeltungskrankheiten-hausaerzte-infektwelle-versorgungsnotstand-winter-bild/wide__822x462",
+      "image_title": "Erkältungskrankheiten: Hausärzte warnen vor Versorgungsnotstand durch Infektwellen"
     },
     {
       "title": "Diabetes: Wie Insulin wirkt",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/video/2021-11/6281604814001/diabetes-wie-insulin-wirkt",
       "image_url": "https://img.zeit.de/video/2021-11/6281604814001-still/wide__822x462",
       "image_title": "Diabetes: Wie Insulin wirkt"
-    },
-    {
-      "title": "Ernährung: Jeder neunte Deutsche ist Vegetarier oder Veganer",
-      "teaser": "Zwölf Prozent der Deutschen verzichten auf den Konsum von Fleisch. Vor allem jüngere Menschen ernähren sich zunehmend pflanzlich. Hauptgründe sind Tierwohl und das Klima.",
-      "url": "https://www.zeit.de/gesundheit/2023-09/anteil-vegetarier-veganer-deutschland",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/anteil-vegetarier-veganer-deutschland-bild/wide__822x462",
-      "image_title": "Ernährung: Jeder neunte Deutsche ist Vegetarier oder Veganer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Magenverkleinerung: \"Viele Menschen halten Adipöse für dumm, willensschwach und gefräßig\"",
@@ -84,18 +84,18 @@
       "image_title": "Stoffwechseltypen: Warum kann der essen, was er will?"
     },
     {
+      "title": "Ernährung: Jeder neunte Deutsche ist Vegetarier oder Veganer",
+      "teaser": "Zwölf Prozent der Deutschen verzichten auf den Konsum von Fleisch. Vor allem jüngere Menschen ernähren sich zunehmend pflanzlich. Hauptgründe sind Tierwohl und das Klima.",
+      "url": "https://www.zeit.de/gesundheit/2023-09/anteil-vegetarier-veganer-deutschland",
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/anteil-vegetarier-veganer-deutschland-bild/wide__822x462",
+      "image_title": "Ernährung: Jeder neunte Deutsche ist Vegetarier oder Veganer"
+    },
+    {
       "title": "Pflege-Report 2023: Viele Pflegeheime verabreichen dauerhaft Schlaf- und Beruhigungsmittel",
       "teaser": "In der Versorgung von Pflegeheimbewohnern gibt es regional große Unterschiede. Eine Studie sieht vor allem große Probleme bei der Vergabe bestimmter Medikamente.",
       "url": "https://www.zeit.de/gesundheit/2023-09/pflegeheime-versorgung-regionale-unterschiede-aok",
       "image_url": "https://img.zeit.de/gesundheit/2023-09/pflegeheime-versorgung-regionale-unterschiede-aok-bild/wide__822x462",
       "image_title": "Pflege-Report 2023: Viele Pflegeheime verabreichen dauerhaft Schlaf- und Beruhigungsmittel"
-    },
-    {
-      "title": "Prävention: Jeder Vierte macht keine Vorsorgeuntersuchungen",
-      "teaser": "Für viele Deutsche ist das Thema gesundheitliche Prävention offenbar kein Thema. Als Grund sieht eine Studie auch fehlende Aufklärung – auch seitens der Krankenkassen.",
-      "url": "https://www.zeit.de/gesundheit/2023-09/health-report-voruntersuchungen",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/health-report-voruntersuchungen-bild/wide__822x462",
-      "image_title": "Prävention: Jeder Vierte macht keine Vorsorgeuntersuchungen"
     },
     {
       "title": "Pornografie und Jugendschutz: \"Es sind die sexuellen Inhalte, die Kinder am meisten verstören\"",
@@ -127,8 +127,8 @@
       "url": "https://www.zeit.de/gesundheit/2023-09/corona-pirola-variante-nachgewiesen-ba-2-86"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); FASD: Zwei Leben, die im Vollrausch begannen",
-      "url": "https://www.zeit.de/gesundheit/2023-08/fasd-syndrom-mutter-schwangerschaft-alkohol"
+      "title": "Z+ (abopflichtiger Inhalt); Schlafwandeln: Auf keinen Fall aufwecken!",
+      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2023-09/schlafwandeln-kinder-schlafstoerungen-gefahr-forschung"
     },
     {
       "title": "Corona: Corona-Variante BA.2.86 erstmals in Deutschland nachgewiesen",
@@ -139,8 +139,8 @@
       "url": "https://www.zeit.de/gesundheit/2023-09/nipahvirus-ausbruch-indien-lockdown-kerala"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schlafwandeln: Auf keinen Fall aufwecken!",
-      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2023-09/schlafwandeln-kinder-schlafstoerungen-gefahr-forschung"
+      "title": "Nipahvirus: Wie gefährlich ist das Nipahvirus?",
+      "url": "https://www.zeit.de/gesundheit/2023-09/nipahvirus-ausbruch-indien-lockdown-kerala"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pirola-Variante: Wird das ein Pirola-Herbst?",
@@ -163,12 +163,12 @@
       "url": "https://www.zeit.de/gesundheit/2023-09/corona-pirola-variante-nachgewiesen-ba-2-86"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); FASD: Zwei Leben, die im Vollrausch begannen",
-      "url": "https://www.zeit.de/gesundheit/2023-08/fasd-syndrom-mutter-schwangerschaft-alkohol"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Schlafwandeln: Auf keinen Fall aufwecken!",
       "url": "https://www.zeit.de/gesundheit/zeit-doctor/2023-09/schlafwandeln-kinder-schlafstoerungen-gefahr-forschung"
+    },
+    {
+      "title": "Nipahvirus: Wie gefährlich ist das Nipahvirus?",
+      "url": "https://www.zeit.de/gesundheit/2023-09/nipahvirus-ausbruch-indien-lockdown-kerala"
     },
     {
       "title": "Ernährung: Jeder neunte Deutsche ist Vegetarier oder Veganer",
@@ -202,25 +202,25 @@
       "url": "https://www.zeit.de/gesundheit/2022-12/krankenhaus-reform-karl-lauterbach-stationaere-behandlung-gesundheitssystem"
     },
     {
+      "title": "Prävention: Jeder Vierte macht keine Vorsorgeuntersuchungen",
+      "teaser": "Für viele Deutsche ist das Thema gesundheitliche Prävention offenbar kein Thema. Als Grund sieht eine Studie auch fehlende Aufklärung – auch seitens der Krankenkassen.",
+      "url": "https://www.zeit.de/gesundheit/2023-09/health-report-voruntersuchungen",
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/health-report-voruntersuchungen-bild/wide__822x462",
+      "image_title": "Prävention: Jeder Vierte macht keine Vorsorgeuntersuchungen"
+    },
+    {
       "title": "Neuer Corona-Impfstoff : Was der neue Corona-Impfstoff bringt",
       "teaser": "Ab heute gibt es in Arztpraxen eine neue Vakzine, die an aktuelle Virusvarianten angepasst ist. Wer sich boostern lassen sollte und was über den Impfstoff bekannt ist.",
       "url": "https://www.zeit.de/gesundheit/2023-09/corona-comirnaty-biontech-angepasst-impfstoff",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/corona-comirnaty-biontech-angepasst-impfstoff-spritze/wide__822x462",
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/corona-comirnaty-biontech-angepasst-impfstoff-spritze/cinema__980x420",
       "image_title": "Neuer Corona-Impfstoff : Was der neue Corona-Impfstoff bringt"
     },
     {
       "title": "Bundesgesundheitsminister: Karl Lauterbach rät Risikogruppen zur Corona-Impfung",
-      "teaser": "Corona sei \"keine Erkältung\", Long Covid bleibe eine Gefahr: Der Bundesgesundheitsminister mahnt zur Vorsicht. Staatliche Maßnahmen seien aber nicht notwendig. 266 Kommentare",
+      "teaser": "Corona sei \"keine Erkältung\", Long Covid bleibe eine Gefahr: Der Bundesgesundheitsminister mahnt zur Vorsicht. Staatliche Maßnahmen seien aber nicht notwendig.",
       "url": "https://www.zeit.de/gesundheit/2023-09/corona-karl-lauterbach-lars-schaade-rki-impfung",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/corona-karl-lauterbach-lars-schaade-rki-impfung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/corona-karl-lauterbach-lars-schaade-rki-impfung-bild/wide__822x462",
       "image_title": "Bundesgesundheitsminister: Karl Lauterbach rät Risikogruppen zur Corona-Impfung"
-    },
-    {
-      "title": "Coronavirus: Corona-Impfsaison beginnt mit aktualisiertem BioNTech-Impfstoff",
-      "teaser": "14 Millionen Dosen des Corona-Impfstoffes werden in den nächsten Wochen ausgeliefert. Empfohlen wird die Auffrischung allerdings nur für besonders gefährdete Menschen.",
-      "url": "https://www.zeit.de/gesundheit/2023-09/corona-impfen-saisonstart-biontech-karl-lauterbach",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-09/corona-impfen-saisonstart-biontech-karl-lauterbach-bild/wide__822x462",
-      "image_title": "Coronavirus: Corona-Impfsaison beginnt mit aktualisiertem BioNTech-Impfstoff"
     },
     {
       "title": "Coronavirus: Alles zu Sars-CoV-2",
@@ -249,17 +249,24 @@
       "image_title": "Antidepressiva: Was, wenn nicht Serotonin?"
     },
     {
+      "title": "Coronavirus: Corona-Impfsaison beginnt mit aktualisiertem BioNTech-Impfstoff",
+      "teaser": "14 Millionen Dosen des Corona-Impfstoffes werden in den nächsten Wochen ausgeliefert. Empfohlen wird die Auffrischung allerdings nur für besonders gefährdete Menschen.",
+      "url": "https://www.zeit.de/gesundheit/2023-09/corona-impfen-saisonstart-biontech-karl-lauterbach",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-09/corona-impfen-saisonstart-biontech-karl-lauterbach-bild/wide__822x462",
+      "image_title": "Coronavirus: Corona-Impfsaison beginnt mit aktualisiertem BioNTech-Impfstoff"
+    },
+    {
       "title": "Coronavirus: Epidemiologe rechnet mit Rückkehr der Maskenpflicht in Pflegeheimen",
-      "teaser": "Bei steigenden Infektionszahlen könnten Pflegeheime und Kliniken wieder die Maskenpflicht einführen, sagt ein Experte. Mit vielen schweren Verläufen rechnet er nicht.",
+      "teaser": "Bei steigenden Infektionszahlen könnten Pflegeheime und Kliniken wieder die Maskenpflicht einführen, sagt ein Experte. Mit vielen schweren Verläufen rechnet er nicht. 183 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-09/corona-impfung-pandemie-maskenpflicht-pflegeheime",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/pflegeheim-maskenpflicht-corona-2/wide__822x462",
+      "image_url": "https://img.zeit.de/gesundheit/2023-09/pflegeheim-maskenpflicht-corona-2/cinema__980x420",
       "image_title": "Coronavirus: Epidemiologe rechnet mit Rückkehr der Maskenpflicht in Pflegeheimen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); FASD: Zwei Leben, die im Vollrausch begannen",
       "teaser": "Weil ihre Mutter in der Schwangerschaft trank, haben Clara und Luise Andrees eine Fetale Alkoholspektrumstörung. Sie galten als verloren – und kämpften sich ins Leben.",
       "url": "https://www.zeit.de/gesundheit/2023-08/fasd-syndrom-mutter-schwangerschaft-alkohol",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-09/fasd-syndrom-mutter-schwangerschaft-alkohol-final-aufmacher-final/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-09/fasd-syndrom-mutter-schwangerschaft-alkohol-final-aufmacher-final/wide__822x462",
       "image_title": "FASD: Zwei Leben, die im Vollrausch begannen"
     },
     {
@@ -289,13 +296,6 @@
       "url": "https://www.zeit.de/gesundheit/2023-09/nipahvirus-ausbruch-indien-lockdown-kerala",
       "image_url": "https://img.zeit.de/gesundheit/2023-09/nipahvirus-ausbruch-indien-lockdown-kerala-bild/wide__822x462",
       "image_title": "Nipahvirus: Wie gefährlich ist das Nipahvirus?"
-    },
-    {
-      "title": "Corona-Impfung: EU-Kommission genehmigt angepassten Impfstoff von Moderna",
-      "teaser": "Wie BioNTech/Pfizer hat auch Moderna seinen Corona-Impfstoff an die derzeit dominante Omikron-Variante XBB.1.5 angepasst. In der EU darf er nun angewandt werden.",
-      "url": "https://www.zeit.de/gesundheit/2023-09/eu-kommission-impfstoff-corona-moderna",
-      "image_url": "https://img.zeit.de/gesundheit/2023-09/eu-kommission-impfstoff-corona-moderna-bild/wide__822x462",
-      "image_title": "Corona-Impfung: EU-Kommission genehmigt angepassten Impfstoff von Moderna"
     }
   ]
 }
