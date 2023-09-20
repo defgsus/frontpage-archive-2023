@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-20T06:14:47",
+  "timestamp": "2023-09-20T07:10:33",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "Intel hat die meisten CPU-Kerne in einem Prozessor",
+      "teaser": "Intel-Chef Pat Gelsinger kündigt für 2024 den Serverprozessor \"Sierra Forest\" mit 288 E-Kernen an sowie einen Supercomputer mit 4000 Gaudi2-Beschleunigern.",
+      "url": "https://www.heise.de/news/Intel-baut-KI-Supercomputer-und-Xeons-mit-288-x86-Kernen-9309140.html",
+      "image_title": "Rack-Server mit zwei Intel-Xeon-Prozessoren"
+    },
+    {
       "title": "Serverstörung der IT.NRW wirkt sich auch bundesweit aus",
       "teaser": "Der Landesbetrieb Information und Technik NRW arbeitet mit Hochdruck daran, eine Serverstörung zu beseitigen, die sich auch bundesweit auswirkt.",
       "url": "https://www.heise.de/news/Serverstoerung-Insolvenzverfahren-de-und-mehrere-andere-Portale-nicht-erreichbar-9309479.html",
@@ -37,12 +43,6 @@
       "url": "https://www.heise.de/news/Qnap-Updates-schliessen-hochriskante-Luecke-9308427.html"
     },
     {
-      "title": "Balkonkraftwerke: Deye schiebt Firmware-Updates für externe Relais nach",
-      "teaser": "Seit Deye zur Einhaltung der VDE-AR-N 4105 externe Relais-Boxen ausliefert, häufen sich Nutzerbeschwerden. Ein Firmware-Update soll helfen.",
-      "url": "https://www.heise.de/news/Balkonkraftwerke-Holperstart-mit-externen-Relais-Boxen-fuer-Deye-Wechselrichter-9307984.html",
-      "image_title": "Deye-Wechselrichter mit externer Relais-Box"
-    },
-    {
       "title": "iOS 17, iPadOS 17, macOS 14: Neue Funktionen in Apple-Apps ausreizen",
       "teaser": "Von Siri, Notizen, Safari bis zu Erinnerungen, iMessage und Musik: Apple verbessert eigene Apps und Dienste massiv. So setzen Sie die neuen Funktionen ein.",
       "url": "https://www.heise.de/ratgeber/iOS-17-Co-Neue-Funktionen-in-Apple-Apps-ausreizen-9309783.html",
@@ -52,6 +52,11 @@
       "title": "KI baut Websites: Was Pagebuilder leisten – und was nicht",
       "teaser": "Websites, die in wenigen Minuten online sind – das klingt verlockend. KI macht's möglich: Sie erzeugt schöne Auftritte ohne Aufwand. Was taugen die Designs?",
       "url": "https://www.heise.de/ratgeber/KI-baut-Websites-Was-Pagebuilder-leisten-und-was-nicht-9308089.html"
+    },
+    {
+      "title": "Jetzt patchen! Angreifer attackieren Trend Micro Apex One & Co.",
+      "teaser": "Eine kritische Sicherheitslücke bedroht verschiedene AV-Produkte von Trend Micro. Sicherheitsupdates stehen zum Download bereit.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Angreifer-attackieren-Trend-Micro-Apex-One-Co-9310621.html"
     },
     {
       "title": "iX-Workshop: Python für Programmier-Erfahrene - Mit Frühbucherrabatt bis 26.09.",
@@ -86,12 +91,6 @@
       "title": "Ryzen Threadripper Pro 7000: Zen 4 für Workstations noch auf dem Plan",
       "teaser": "AMD hat die Ryzen-Threadripper-Familie offenbar nicht vergessen. Die nächste Generation soll im Herbst erscheinen.",
       "url": "https://www.heise.de/news/Ryzen-Threadripper-Pro-7000-Zen-4-fuer-Workstations-noch-auf-dem-Plan-9310364.html"
-    },
-    {
-      "title": "Intel hat die meisten CPU-Kerne in einem Prozessor",
-      "teaser": "Intel-Chef Pat Gelsinger kündigt für 2024 den Serverprozessor \"Sierra Forest\" mit 288 E-Kernen an sowie einen Supercomputer mit 4000 Gaudi2-Beschleunigern.",
-      "url": "https://www.heise.de/news/Intel-baut-KI-Supercomputer-und-Xeons-mit-288-x86-Kernen-9309140.html",
-      "image_title": "Rack-Server mit zwei Intel-Xeon-Prozessoren"
     },
     {
       "title": "\"Meteor Lake\": Einblick in Intels nächste Prozessorgeneration",
