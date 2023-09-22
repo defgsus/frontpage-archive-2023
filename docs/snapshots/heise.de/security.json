@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-22T08:14:21",
+  "timestamp": "2023-09-22T09:11:15",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap",
+      "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
+    },
+    {
       "title": "HPE OneView",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Authentifizierung-von-HPE-OneView-umgehbar-9312816.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/MOVEit-Transfer-Updates-schliessen-hochriskante-Sicherheitsluecken-9312162.html"
     },
     {
-      "title": "Atlassian Bitbucket, Confluence, Jira",
-      "url": "https://www.heise.de/news/Atlassian-warnt-vor-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9311520.html"
-    },
-    {
-      "title": "Sonderheft mit c't-Sicherheitstool Desinfec't 2023/24 ab sofort am Kiosk",
-      "teaser": "Mit dem neuen Desinfec't jagen Windows-Nutzer Trojaner, helfen auf Familien-PCs via Fernzugriff und retten verloren geglaubte Daten.",
-      "url": "https://www.heise.de/news/Sonderheft-mit-c-t-Sicherheitstool-Desinfec-t-2023-24-ab-sofort-am-Kiosk-9311597.html"
+      "title": "Qnap-Updates schließen Codeschmuggel-Lücken",
+      "teaser": "Qnap warnt vor Sicherheitslücken im QTS-Betriebssystem und der Multimedia Console, durch die Angreifer Schadcode einschleusen können.",
+      "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
     },
     {
       "title": "Cisco übernimmt Splunk: Ein neues Security-Schwergewicht entsteht",
@@ -78,6 +78,11 @@
       "title": "Romance-Scam-Masche: Wenn das Date zur Geldanlage in Kryptowährungspools drängt",
       "teaser": "Sicherheitsforscher weisen auf eine Cyberbetrugs-Variante hin, bei der Ganoven ihre Opfer über Romance-Scam zu angeblichen Krypto-Investitionen verleiten.",
       "url": "https://www.heise.de/news/Romance-Scam-Masche-Wenn-das-Date-zur-Geldanlage-in-Kryptowaehrungspools-draengt-9312800.html"
+    },
+    {
+      "title": "Phishing: Vermehrt gefälschte Abmahnungen wegen angeblicher Film-Downloads",
+      "teaser": "Die Verbraucherzentrale NRW warnt vor derzeit gehäuft versendeten Phishing-Mails, die Empfänger mit gefälschten Abmahnungen verunsichern.",
+      "url": "https://www.heise.de/news/Verbraucherzentrale-NRW-warnt-vor-Phishing-Mails-mit-gefaelschten-Abmahnungen-9312464.html"
     },
     {
       "title": "IT-Sicherheitstag 2023: Wann sich SOC-as-a-Service lohnt",
@@ -149,11 +154,6 @@
       "url": "https://www.heise.de/news/Europaeische-TLD-Betreiber-wollen-Cybersicherheit-verbessern-9310011.html"
     },
     {
-      "title": "Härtung des Dateitransfers: Microsoft sichert das SMB-Protokoll ab",
-      "teaser": "Mit zwei Maßnahmen sichert Microsoft sowohl die SMB Client- als auch die Serverseite besser ab. Wir zeigen, worauf Administratoren achten müssen.",
-      "url": "https://www.heise.de/news/Haertung-des-Dateitransfers-Microsoft-sichert-das-SMB-Protokoll-ab-9309870.html"
-    },
-    {
       "title": "heise Security Tour 2023",
       "teaser": "Auf der Konferenz lernen Sie den Spagat zwischen \"Zero Trust\" und dem nötigen Vertrauen für ein funktionierendes Sicherheitskonzept in Ihrer IT zu meistern. Es erwarten Sie sechs Vorträge von ausgewiesenen IT-Security-Experten.",
       "url": "https://heise-security-tour.de/?wt_mc=intern.academy.security.konf_sectour23.hs_teaser.teaser.teaser"
@@ -176,19 +176,19 @@
       "image_title": "Frau mit Smartphone in China"
     },
     {
+      "title": "Re: Thor lite + Open Threat Scanner werden nicht aktualisiert",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Thor-lite-Open-Threat-Scanner-werden-nicht-aktualisiert/posting-43143084/show/"
+    },
+    {
       "title": "Re: USB Sticks werden nach Desinfect2USB_64_Bit nicht erkannt, nicht formatierba",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-USB-Sticks-werden-nach-Desinfect2USB-64-Bit-nicht-erkannt-nicht-formatierba/posting-43142423/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-USB-Sticks-werden-nach-Desinfect2USB-64-Bit-nicht-erkannt-nicht-formatierba/posting-43143026/show/"
     },
     {
       "title": "Re: Desinfect 2023/24 Error 0x1A",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Desinfect-2023-24-Error-0x1A/posting-43137057/show/"
-    },
-    {
-      "title": "Re: Signatur-Updates scheitern",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Signatur-Updates-scheitern/posting-43134685/show/"
     }
   ]
 }
