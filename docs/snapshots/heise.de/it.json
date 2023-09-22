@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-22T09:11:07",
+  "timestamp": "2023-09-22T10:11:51",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,18 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.5ea744bf1f5cbf59320e",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.84d9bf78f6b41e82830d",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Linux-Kernel: Nur noch zwei Jahre Unterstützung",
+      "teaser": "Der Aufwand zur Pflege des Linux-Kernels steigt. Mit der aktuellen Besetzung können die Entwickler dem LTS-Kernel bald nur noch zwei Jahre Backports bieten.",
+      "url": "https://www.heise.de/news/Linux-Kernel-Nur-noch-zwei-Jahre-Unterstuetzung-9312377.html",
+      "image_title": "Folie der Linux Foundation zu Pfelgeaufwand beim Kernel"
+    },
     {
       "title": "Google Suchmaschinen Update: KI-Inhalte landen vor anderen Seiten",
       "teaser": "Googles letztes Update soll dazu geführt haben, dass KI-Inhalte besser ranken und Webseiten Besucher wegbrechen.",
@@ -38,12 +44,6 @@
       "image_title": "Rack-Server mit zwei Intel-Xeon-Prozessoren"
     },
     {
-      "title": "Serverstörung der IT.NRW wirkt sich auch bundesweit aus",
-      "teaser": "Der Landesbetrieb Information und Technik NRW arbeitet mit Hochdruck daran, eine Serverstörung zu beseitigen, die sich auch bundesweit auswirkt.",
-      "url": "https://www.heise.de/news/Serverstoerung-Insolvenzverfahren-de-und-mehrere-andere-Portale-nicht-erreichbar-9309479.html",
-      "image_title": "Papierstapel, Bürokratie, Zettelwirtschaft"
-    },
-    {
       "title": "Die Finanzierungsfrage: Abo für Apps oder nicht?",
       "teaser": "Mac- und iPhone-Entwickler entscheiden sich beim Vertrieb ihrer Apps zunehmend für das Abomodell. Viele User hassen das. Doch ist es immer schlecht?",
       "url": "https://www.heise.de/ratgeber/Die-Finanzierungsfrage-Abo-fuer-Apps-oder-nicht-9311487.html",
@@ -55,18 +55,40 @@
       "url": "https://www.heise.de/ratgeber/Wie-Sie-Windows-11-automatische-Treiberupdates-abgewoehnen-9307917.html"
     },
     {
+      "title": "Machine Learning und KI: Vorträge für die Minds Mastering Machines gesucht",
+      "teaser": "Ab sofort suchen die Veranstalter Vorträge und Workshops für die Minds Mastering Machines in Köln. Im November gibt es zudem einen Online-Thementag zu MLOps.",
+      "url": "https://www.heise.de/news/Machine-Learning-und-KI-Vortraege-fuer-die-Minds-Mastering-Machines-gesucht-9313025.html"
+    },
+    {
+      "title": "Stable Diffusion XL: Wie Sie große und detailreiche Bilder erzeugen",
+      "teaser": "Wir beschreiben, wie Sie Ihr System für Stable Diffusion XL vorbereiten und Bilder mit bislang unerreichter Detailtiefe in hoher Auflösung generieren.",
+      "url": "https://www.heise.de/ratgeber/Stable-Diffusion-XL-Wie-Sie-grosse-und-detailreiche-Bilder-erzeugen-9311545.html",
+      "image_title": "KI Midjourney Bearbeitung c't"
+    },
+    {
+      "title": "Sicherheitslücke: Datenleaks auf Drupal-Websites möglich",
+      "teaser": "Unter bestimmten Voraussetzungen können Angreifer mit dem Content Management System Drupal erstellte Seiten attackieren. Abgesicherte Versionen sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Datenleaks-auf-Drupal-Websites-moeglich-9313594.html"
+    },
+    {
+      "title": "Bereit für macOS 14, iOS 17 und iPadOS 17: iWork-Updates verfügbar",
+      "teaser": "Apple hat seine iWork-Programme Pages, Numbers und Keynote für die neuen Betriebssysteme von iPhone, iPad und Mac fit gemacht.",
+      "url": "https://www.heise.de/news/Bereit-fuer-macOS-14-iOS-17-und-iPadOS-17-iWork-Updates-verfuegbar-9313414.html",
+      "image_title": "iWork auf verschiedenen Geräten"
+    },
+    {
       "title": "Linux-Desktop: Gnome 45 trotz Serverausfall veröffentlicht",
       "teaser": "Unter erschwerten Bedingungen veröffentlichte das Gnome-Projekt die jüngste Version ihres Linux-Desktops, die mit neuen Apps und viel Feinschliff erscheint.",
       "url": "https://www.heise.de/news/Linux-Desktop-Gnome-45-trotz-Serverausfall-veroeffentlicht-9313533.html",
       "image_title": "Screenshot Gnome Desktop mit Einstellungen, neuer Kamera-App und neuem Bildbetrachter offen"
     },
     {
-      "title": "Drei Fragen und Antworten: So einfach trainieren Sie eigene Code-Assistenten",
+      "title": "Drei Fragen und Antworten: Eigene Coding-Assistenten trainieren und nutzen",
       "teaser": "Bildgeneratoren sind nett – in der harten Entwicklerpraxis sind gerade aber Code-Assistenten der KI-Hype. Sie sollte man möglichst selbst trainieren.",
       "url": "https://www.heise.de/news/Drei-Fragen-und-Antworten-So-einfach-trainieren-Sie-eigene-Code-Assistenten-9313666.html"
     },
     {
-      "title": "Qnap-Updates schließen Codeschmuggel-Lücken",
+      "title": "Qnap warnt vor Codeschmuggel durch Schwachstellen",
       "teaser": "Qnap warnt vor Sicherheitslücken im QTS-Betriebssystem und der Multimedia Console, durch die Angreifer Schadcode einschleusen können.",
       "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
     },
@@ -114,28 +136,6 @@
       "teaser": "Lernen Sie, wie Sie mit Ansible Linux-Systeme zentral konﬁgurieren und verwalten sowie Anwendungen automatisiert bereitstellen können.",
       "url": "https://www.heise.de/news/iX-Workshop-Mit-Ansible-Systeme-deployen-und-automatisieren-Last-Call-9302711.html",
       "image_title": "Online-Workshop: Systemdeployment, System-Management und Automatisierung mit Ansible"
-    },
-    {
-      "title": "Wie Sie dem Windows-Setup ein nicht erkanntes Ziellaufwerk bekannt machen",
-      "teaser": "Sie wollen Windows frisch installieren, doch das Setup-Programm findet das Ziellaufwerk nicht? Wir haben da einige Tipps für Sie.",
-      "url": "https://www.heise.de/ratgeber/Wie-Sie-dem-Windows-Setup-ein-nicht-erkanntes-Ziellaufwerk-bekannt-machen-9304100.html",
-      "image_title": ","
-    },
-    {
-      "title": "Treiber für Notebooks: Wie Sie die richtigen finden",
-      "teaser": "Nach der Windows-Installation auf Ihrem Notebook quillt der Gerätemanager mit gelben Ausrufezeichen über? So finden Sie den passenden Treiber für ihre Hardware.",
-      "url": "https://www.heise.de/ratgeber/Treiber-fuer-Notebooks-Wie-Sie-die-richtigen-finden-9298816.html"
-    },
-    {
-      "title": "Smart Heizen: Wie Sie Wärmepumpen optimal betreiben",
-      "teaser": "Die Wärmepumpe hat sich als häufigste Neubau-Heiztechnik etabliert. Dabei gibt einiges zu beachten, da manche Optimierung sogar Zusatzkosten erzeugen kann.",
-      "url": "https://www.heise.de/ratgeber/Smart-Heizen-Wie-Sie-Waermepumpen-optimal-betreiben-9297900.html",
-      "image_title": "Moritz Reichartz"
-    },
-    {
-      "title": "Windows-Setup: Probleme mit Datenträgern lösen",
-      "teaser": "Wenn das Windows-Setup das Ziellaufwerk nicht erkennen will, kann das viele verschiedene Ursachen haben. Systematische Fehlersuche führt häufig zum Ziel.",
-      "url": "https://www.heise.de/ratgeber/Windows-Setup-Probleme-mit-Datentraegern-loesen-9296156.html"
     },
     {
       "title": "smapOne ist die beste No-Code-Plattform im PUR Software Development 2023",

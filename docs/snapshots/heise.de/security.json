@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-22T09:11:15",
+  "timestamp": "2023-09-22T10:11:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d926895509854ddaaa78",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.87d164d51188cb995807",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Drupal",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Datenleaks-auf-Drupal-Websites-moeglich-9313594.html"
+    },
     {
       "title": "Qnap",
       "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Passwort-Luecke-bedroht-Nagios-XI-9312331.html"
     },
     {
-      "title": "MOVEit Transfer",
-      "url": "https://www.heise.de/news/MOVEit-Transfer-Updates-schliessen-hochriskante-Sicherheitsluecken-9312162.html"
+      "title": "Sicherheitslücke: Datenleaks auf Drupal-Websites möglich",
+      "teaser": "Unter bestimmten Voraussetzungen können Angreifer mit dem Content Management System Drupal erstellte Seiten attackieren. Abgesicherte Versionen sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Datenleaks-auf-Drupal-Websites-moeglich-9313594.html"
     },
     {
-      "title": "Qnap-Updates schließen Codeschmuggel-Lücken",
+      "title": "Qnap warnt vor Codeschmuggel durch Schwachstellen",
       "teaser": "Qnap warnt vor Sicherheitslücken im QTS-Betriebssystem und der Multimedia Console, durch die Angreifer Schadcode einschleusen können.",
       "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
     },
@@ -147,11 +152,6 @@
       "teaser": "Die Cyberkriminellen hinter den Casino-Angriffen haben jüngst auch drei Firmen anderer Branchen attackiert. Hier wurde ebenfalls Social Engineering eingesetzt.",
       "url": "https://www.heise.de/news/Casino-Hacker-haben-neben-MGM-und-Caesars-drei-weitere-Unternehmen-angegriffen-9310513.html",
       "image_title": "Straßenszene Las Vegas Strip mit großem Leuchtschild \"MGM\""
-    },
-    {
-      "title": "Cybersicherheit: EU-TLD-Betreiber starten Webseite zum Informationsaustausch",
-      "teaser": "\"Information Sharing and Analysis Center\" nennen europäische TLD-Betreiber ihre Webseite zum Austausch für die Verbesserung von Cybersicherheit.",
-      "url": "https://www.heise.de/news/Europaeische-TLD-Betreiber-wollen-Cybersicherheit-verbessern-9310011.html"
     },
     {
       "title": "heise Security Tour 2023",
