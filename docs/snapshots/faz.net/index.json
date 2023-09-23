@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-23T15:09:35",
+  "timestamp": "2023-09-23T16:12:27",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.28f14a5b7ef760abb6c9.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -170,29 +176,26 @@
   ],
   "articles": [
     {
-      "title": "Internationales Wetteifern : Die Ukraine, ein großes Geschäft?",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wiederaufbauplaene-die-ukraine-ein-grosses-geschaeft-19192994.html",
+      "title": "Bürokratie hart beschnitten : Wie die CSU noch heute unter Stoibers Reformeifer leidet",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wie-die-csu-noch-heute-unter-stoibers-reformeifer-leidet-19192742.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der Reformer und sein Nachfolger: Edmund Stoiber und Markus Söder auf dem CSU-Parteitag an diesem Samstag."
+    },
+    {
+      "title": "Merz auf CSU-Parteitag : „Das Hauptproblem hat einen Namen“",
+      "url": "https://www.faz.net/aktuell/politik/ausland/soeder-mit-mehr-als-96-prozent-als-parteichef-bestaetigt-19195615.html"
+    },
+    {
+      "title": "7:0 gegen Bochum : FC Bayern und Harry Kane sind in Torlaune",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-besiegt-vfl-bochum-vereinsrekord-fuer-harry-kane-19163024.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bayern-Stürmer Harry Kane ist auch gegen Bochum erfolgreich."
+    },
+    {
+      "title": "Internationales Wetteifern : Wer am Wiederaufbau der Ukraine verdienen will",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wer-am-wiederaufbau-der-ukraine-verdienen-will-19192994.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Beschädigtes Wohnhaus in Charkiw."
-    },
-    {
-      "title": "Ukraine-Liveblog : Ukrainischer General spricht von Durchbruch im Süden",
-      "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-kiew-ukrainischer-general-spricht-von-durchbruch-im-sueden-f-a-z-19030454.html"
-    },
-    {
-      "title": "Offensive gegen Russland : „Ukrainische Einheiten sind im Nahkampf besser als russische“",
-      "url": "https://www.faz.net/aktuell/politik/ausland/gegenoffensive-der-ukraine-russland-wurde-auf-der-krim-empfindlich-getroffen-19182855.html"
-    },
-    {
-      "title": "Bundesliga im Liveticker : FC Bayern in Torlaune – BVB führt jetzt auch",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "EZB-Zinspause : Endlich kommt die Chance zurück, ein Haus zu finden",
-      "url": "https://www.faz.net/aktuell/finanzen/zinspause-endlich-kommt-die-chance-ein-haus-zu-finden-19193871.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Häuser im Grünen: Eröffnet die Wende am Immobilienmarkt endlich Chancen für Eigenheimkäufer?"
     },
     {
       "title": "Warschauer Visaskandal : Polens Regierung in der Zwickmühle",
@@ -257,22 +260,42 @@
       "image_title": "Carsten Knop"
     },
     {
-      "title": "Merz auf CSU-Parteitag : „Das Hauptproblem hat einen Namen“",
-      "url": "https://www.faz.net/aktuell/politik/inland/soeder-kritisiert-die-ampel-auf-dem-csu-parteitag-scharf-19195824.html",
+      "title": "Ukraine-Liveblog : Ukrainischer General spricht von Durchbruch im Süden",
+      "url": "https://www.faz.net/aktuell/politik/ukraine-liveticker-kiew-ukrainischer-general-spricht-von-durchbruch-im-sueden-f-a-z-19030454.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der CDU-Vorsitzende Friedrich Merz und der CSU-Vorsitzende Markus Söder beim CSU-Parteitag am Samstag in München"
-    },
-    {
-      "title": "NATO-Beitritt Schwedens : Bremsen nach türkischem Vorbild",
-      "url": "https://www.faz.net/aktuell/politik/ausland/erdogan-und-orban-blockieren-schwedens-nato-beitritt-19193831.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der türkische Präsident Erdoğan und Ungarns Ministerpräsident Orbán im August"
+      "image_title": "Ukrainische Gegenoffensive im Süden des Landes: Soldaten manövrieren ein Bradley Fighting Vehicle (BFV) in der Frontstadt Orichiw."
     },
     {
       "title": "Wende in der Asylpolitik : Soll Europa die Flüchtlingsboote auf dem Mittelmeer aufhalten?",
       "url": "https://www.faz.net/aktuell/politik/inland/fluechtlingspolitik-soll-europa-seine-seegrenze-schliessen-19194216.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ein Schiff der italienischen Küstenwache bringt Flüchtlinge an Land inmitten von Touristenbooten."
+    },
+    {
+      "title": "Scholz über Migration : „Die Zahl hat dramatisch zugenommen“",
+      "url": "https://www.faz.net/aktuell/politik/inland/scholz-will-irregulaere-migration-staerker-kontrollieren-19195213.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bundeskanzler Olaf Scholz (SPD) am Samstag im Wahlkampf in Nürnberg"
+    },
+    {
+      "title": "Nächste Niederlage : Die Lage für Union Berlin spitzt sich zu",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/union-berlin-verliert-in-bundesliga-gegen-tsg-hoffenheim-0-2-19163030.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Diskussionsbedarf: Wout Weghorst (rechts) und Leonardo Bonucci mit Schiedsrichter Deniz Aytekin"
+    },
+    {
+      "title": "Knapper Erfolg gegen Wolfsburg : Dortmund hat mächtig Mühe und jubelt doch",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-in-bundesliga-borussia-dortmund-besiegt-vfl-wolfsburg-1-0-19163028.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Gelbe Jubeltraube: Torschütze Marco Reus inmitten seiner Mitspieler"
+    },
+    {
+      "title": "1:0 in Mönchengladbach : Werner schießt Leipzig zum Auswärtssieg",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/timo-werner-schiesst-rb-leipzig-in-gladbach-zum-bundesliga-sieg-19163026.html"
+    },
+    {
+      "title": "1:2 gegen FC Augsburg : Mainz zurück am Tabellenende",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/mainz-05-verliert-in-bundesliga-gegen-fc-augsburg-1-2-19163022.html"
     },
     {
       "title": "Erdrutsch in Schweden : Hundert Meter Straße brechen mitten im Verkehr nahe Göteborg weg",
@@ -299,6 +322,18 @@
       "image_title": "Ein Sport-Fest in der Hauptstadt: der Berlin-Marathon, hier 2022"
     },
     {
+      "title": "Sneaker statt Anzugsschuhe : Was man in deutschen Büros anziehen kann – und was nicht",
+      "url": "https://www.faz.net/aktuell/rhein-main/die-richtige-kleidung-fuer-das-buero-19172198.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sneaker statt Anzugsschuhe? Der Dresscode ist im Wandel."
+    },
+    {
+      "title": "Herbstbeginn auf Instagram : So fangen Sie den Herbst ein",
+      "url": "https://www.faz.net/aktuell/stil/trends-nischen/herbstanfang-auf-instagram-der-christian-girl-autumn-hat-begonnen-19190600.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Herrliche Farben: Ein Blatt mit auffälliger Herbstfärbung liegt zwischen Ginkgoblättern auf einem Gehweg in Frankfurt im Sonnenlicht."
+    },
+    {
       "title": "Lage in der Ukraine : Abermalige Explosionen erschüttern die Krim",
       "url": "https://www.faz.net/aktuell/politik/ausland/ukraine-krieg-neue-explosionen-erschuettern-die-krim-19195225.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -317,24 +352,12 @@
       "image_title": "Ukraine, Odessa, 3. März 2022. In Personenzügen flüchten Zivilisten vor der russischen Invasion. Wehrtaugliche Männer hingegen werden rekrutiert und dürfen das Land nicht verlassen. Hier verabschiedet sich ein Mann von seiner Frau und seinem Sohn."
     },
     {
-      "title": "Herbstbeginn auf Instagram : So fangen Sie den Herbst ein",
-      "url": "https://www.faz.net/aktuell/stil/trends-nischen/herbstanfang-auf-instagram-der-christian-girl-autumn-hat-begonnen-19190600.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Herrliche Farben: Ein Blatt mit auffälliger Herbstfärbung liegt zwischen Ginkgoblättern auf einem Gehweg in Frankfurt im Sonnenlicht."
+      "title": "Frankfurter Zeitung 23.9.1923 : Wir sind geschlagen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/historische-hyperinflation/wir-sind-geschlagen-frankfurter-zeitung-von-1923-19194523.html"
     },
     {
-      "title": "Wasserträger beim Marathon : Wie „Bottle Claus“ ein Held des Internets wurde",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/berlin-marathon-claus-henning-schulke-wassertraeger-von-eliud-kipchoge-19189178.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Anreicher des Weltrekordlers: Claus-Henning Schulke, genannt „Bottle Claus“"
-    },
-    {
-      "title": "Chaos in Haiti : Selbst die Reichen wollen nur noch weg",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/in-haiti-herrscht-das-gewaltoligopol-von-banden-19193905.html"
-    },
-    {
-      "title": "F.A.Z. Wissen – der Podcast : Leidende Bäume und ein künstlicher Himmel",
-      "url": "https://www.faz.net/aktuell/wissen/erde-klima/was-solares-geoengineering-bringt-19195487.html"
+      "title": "NATO-Beitritt Schwedens : Bremsen nach türkischem Vorbild",
+      "url": "https://www.faz.net/aktuell/politik/ausland/erdogan-und-orban-blockieren-schwedens-nato-beitritt-19193831.html"
     },
     {
       "title": "Was macht ein Leben aus? : Sven fand, er hatte einen guten Grund zu sterben",
@@ -349,16 +372,16 @@
       "image_title": "Francesco De Meo, 59, bis vor zwei Wochen Chef der größten europäischen Klinikkette Helios"
     },
     {
-      "title": "Neuer Antrieb für Elektroräder : Zwölf-Gänge-Menü",
-      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/revolution-im-e-bike-markt-der-neuartige-pinion-antrieb-im-test-19180590.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Flyer Goroc TRX"
-    },
-    {
       "title": "Berühmte Testamente : Vererben wie Kobe Bryant",
       "url": "https://www.faz.net/aktuell/finanzen/meine-finanzen/testament-vererben-wie-nba-legende-kobe-bryant-19193570.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Der amerikanische Basketball-Star war Perfektionist - bei seinem Testament machte er jedoch einen gravierenden Fehler"
+    },
+    {
+      "title": "Kritik von Experten : Lauterbach will neues Präventions-Bundesinstitut starten",
+      "url": "https://www.faz.net/aktuell/feuilleton/lauterbach-will-neues-bundesinstitut-fuer-oeffentliche-gesundheit-starten-19194054.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "In der Coronapandemie hat das Bundesgesundheitsministerium die Kommunikation weitgehend selbst übernommen."
     },
     {
       "title": ": Arbeiter in der US-Autoindustrie weiten Streik aus",
@@ -427,8 +450,8 @@
       "image_title": "Müht sich bisher vergeblich für E-Fuels: Verkehrsminister Volker Wissing verlangt Ausnahmen vom Verbrennerverbot ab 2035."
     },
     {
-      "title": "Politische Kehrtwende : Bundesregierung stellt sich gegen EU-Sanierungspflicht",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/bundesregierung-stellt-sich-gegen-eu-sanierungspflicht-19195245.html"
+      "title": "Logistikhallen der Metro : In Marl steht die größte PV-Aufdachanlage Deutschlands",
+      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/metro-logistikzentrum-auf-dem-dach-wird-sehr-viel-strom-erzeugt-19183216.html"
     },
     {
       "title": "Säumige Schuldner : Viele EU-Staaten ignorieren Strafen aus Brüssel jahrelang",
@@ -439,8 +462,8 @@
       "url": "https://www.faz.net/aktuell/politik/inland/spd-welche-gefahr-fuer-scholz-kann-saskia-esken-werden-19190702.html"
     },
     {
-      "title": "Logistikhallen der Metro : In Marl steht die größte PV-Aufdachanlage Deutschlands",
-      "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/metro-logistikzentrum-auf-dem-dach-wird-sehr-viel-strom-erzeugt-19183216.html"
+      "title": "Politische Kehrtwende : Bundesregierung stellt sich gegen EU-Sanierungspflicht",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/bundesregierung-stellt-sich-gegen-eu-sanierungspflicht-19195245.html"
     },
     {
       "title": "Rheinisches Revier : Nach 170 Jahren naht das Ende der Braunkohlenutzung",
@@ -463,10 +486,10 @@
       "image_title": "Manuel Neuer möchte bald wieder im Tor des FC Bayern stehen."
     },
     {
-      "title": "CAS-Urteil im Fall Potocnik : Dunkle Wolke der Ungewissheit in Köln",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-koeln-mit-problemen-in-der-fussball-bundesliga-und-mit-dem-cas-19193429.html",
+      "title": "Wasserträger beim Marathon : Wie „Bottle Claus“ ein Held des Internets wurde",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/berlin-marathon-claus-henning-schulke-wassertraeger-von-eliud-kipchoge-19189178.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Trainer Steffen Baumgart gewann mit seinen Kölnern in den ersten vier Spielen nur einen Punkt."
+      "image_title": "Der Anreicher des Weltrekordlers: Claus-Henning Schulke, genannt „Bottle Claus“"
     },
     {
       "title": "Krise bei DFB-Frauen : „Es ist einfach frustrierend“",
@@ -499,6 +522,12 @@
       "image_title": "Ramzi Binalshibh auf einem undatierten Fahndungsbild des FBI"
     },
     {
+      "title": "Wegen Wohnungsnot : Kanzler Scholz will bauen billiger machen",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wohnungsnot-kanzler-scholz-will-bauen-billiger-machen-19196142.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bundeskanzler Olaf Scholz (SPD) spricht auf einer Veranstaltung im bayerischen Landtagswahlkampf."
+    },
+    {
       "title": "Aufwendige Klimabürokratie : Berlin sollte auf Veto gegen ESRS-Regeln hinwirken",
       "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/berlin-sollte-auf-veto-gegen-esrs-regeln-hinwirken-19180605.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -517,27 +546,27 @@
       "image_title": "Die italienischen Reedereiunternehmer Gianluigi und Rafaela Aponte"
     },
     {
-      "title": "Mehr KfW-Förderung : Fertighausverband fordert Bauhilfen für mehr Familien",
-      "url": "https://www.faz.net/aktuell/wirtschaft/fertighausverband-fordert-bauhilfen-fuer-mehr-familien-19195536.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Traum vom eigenen Haus rückt für immer mehr Familien in unerreichbare Ferne. Immerhin gibt es günstige KfW-Kredite."
-    },
-    {
       "title": "Produktivität : Generative KI macht Wissensarbeiter 25 Prozent schneller und 40 Prozent besser",
       "url": "https://www.faz.net/pro/d-economy/kuenstliche-intelligenz/ki-macht-wissensarbeiter-schneller-und-besser-19183974.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "„Meetings wurden während der Corona-Krise ineffizient “, sagt Philipp Kolo von der BCG."
     },
     {
-      "title": "Wohlfahrtsgewinn : Generative KI – die neue Basistechnologie",
-      "url": "https://www.faz.net/pro/d-economy/kuenstliche-intelligenz/ki-als-neue-basistechnologie-die-wirtschaft-und-wohlstand-revolutioniert-19185394.html",
+      "title": "Digitale Besitzurkunden : Absturz nach Hype: 95 Prozent aller NFTs sind wertlos",
+      "url": "https://www.faz.net/pro/d-economy/transformation/zwei-jahre-nach-dem-nft-hype-sind-95-prozent-der-besitzurkunden-wertlos-19195727.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "„Bored Apes Yacht Club“; Diese Affen sind mehrere hunderttausend Euro wert."
+    },
+    {
+      "title": "Künstliche Intelligenz : Geringe Nutzung, kaum Weiterbildung, große Bedenken – deutsche Arbeitnehmer sehen KI skeptisch",
+      "url": "https://www.faz.net/pro/d-economy/kuenstliche-intelligenz/kuenstliche-intelligenz-geringe-nutzung-kaum-weiterbildung-bedenken-arbeitnehmer-sind-skeptisch-19170538.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Bitkom : 60 Prozent der Unternehmen in Deutschland lassen generative KI links liegen",
-      "url": "https://www.faz.net/pro/d-economy/kuenstliche-intelligenz/deutsche-unternehmen-lassen-generative-ki-links-liegen-19184378.html",
+      "title": "EZB-Zinspause : Endlich kommt die Chance zurück, ein Haus zu finden",
+      "url": "https://www.faz.net/aktuell/finanzen/zinspause-endlich-kommt-die-chance-ein-haus-zu-finden-19193871.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nach Informationen des Branchenverbandes Bitkom fehlen in Deutschland 137.000 IT-Spezialisten."
+      "image_title": "Häuser im Grünen: Eröffnet die Wende am Immobilienmarkt endlich Chancen für Eigenheimkäufer?"
     },
     {
       "title": "Die Vermögensfrage : Geldregen ohne Ende",
@@ -558,10 +587,10 @@
       "image_title": "Wo steht mein Mietwagen?"
     },
     {
-      "title": "Betriebliche Altersvorsorge : So gibt es mehr Rente für junge Menschen",
-      "url": "https://www.faz.net/aktuell/finanzen/betriebliche-altersvorsorge-wie-die-rente-von-berufsanfaengern-hoeher-wird-19185698.html",
+      "title": "Dritter Film zu Sebastian Kurz : Unter der Zuckerschicht",
+      "url": "https://www.faz.net/aktuell/feuilleton/medien/die-wahrheit-ein-dritter-film-ueber-sebastian-kurz-19194077.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Verfahrenstechnik bei Evonik: Vorsorge fürs Alter ist auch bei jüngeren Mitarbeitern wichtig."
+      "image_title": "Stoff für die Leinwand: Sebastian Kurz bei einer Filmpremiere in Wien"
     },
     {
       "title": "Künstlerin Thao Nguyen Phan : Dünger statt Reis im Magen",
@@ -570,22 +599,16 @@
       "image_title": "In Vietnam und Kambodscha als energieextensive Klimaanlagen eingesetzt: Thao Nguyen Phans Aquarell auf Naturseide „Hanoi Children’s Palace“ (2023) zitiert die Architektur eines „Brise Soleil“, perforierter Betonvorhänge vor den eigentlichen Gebäuden, die das Innere vor Hitze und Sonneneinstrahlung schützen."
     },
     {
+      "title": "Chaos in Haiti : Selbst die Reichen wollen nur noch weg",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/in-haiti-herrscht-das-gewaltoligopol-von-banden-19193905.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Während einer Demonstration in Port-au-Prince brennen die Autoreifen: Haiti Mitte August 2023"
+    },
+    {
       "title": "Walter Isaacsons Buch : Was in der Musk-Biographie fehlt",
       "url": "https://www.faz.net/aktuell/feuilleton/buecher/was-in-walter-isaacsons-biographie-ueber-elon-musk-fehlt-19192691.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Auch die Bewegung seines Großvaters wollte Menschen schon Nummern statt Namen geben: Elon Musk mit Nachwuchs am 17. September in New York."
-    },
-    {
-      "title": "Julio Iglesias zum Achtzigsten : Romantik für alle Kontinente",
-      "url": "https://www.faz.net/aktuell/feuilleton/buehne-und-konzert/dem-weltstar-julio-iglesias-zum-80-geburtstag-19193906.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Julio Iglesias im Jahr 1970"
-    },
-    {
-      "title": "Wer darf vom Osten erzählen? : Der Blick einer neuen Generation auf die alte DDR",
-      "url": "https://www.faz.net/aktuell/feuilleton/buecher/themen/eine-neue-generation-von-autoren-wendet-sich-der-ddr-zu-19193151.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die DDR, wie man sie zu kennen glaubt: Barbara Klemm fotografierte diese Straßenszene 1970 in Leipzig."
     },
     {
       "title": "Kolumne „Nine to five“ : Aber Hallo!",
@@ -696,6 +719,12 @@
       "image_title": "Großer Auftritt: Dragqueen Chardonnay von Tain weiß genau, wie sie die Blicke auf sich ziehen kann."
     },
     {
+      "title": "F.A.Z. Wissen – der Podcast : Leidende Bäume und ein künstlicher Himmel",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/was-solares-geoengineering-bringt-19195487.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Sollte man die Klimaerwärmung dadurch aufhalten, dass man die Sonneneinstrahlung durch einen Aerosol-Schutzgürtel mindert?"
+    },
+    {
       "title": "F.A.Z. Podcast für Deutschland : Preiskampf um E-Autos: Wie China die deutschen Autobauer vorführt",
       "url": "https://www.faz.net/podcasts/f-a-z-podcast-fuer-deutschland/preiskampf-um-e-autos-wie-china-die-deutschen-autobauer-vorfuehrt-19194336.html",
       "image_url": "https://www.faz.net/img/leer.gif"
@@ -705,12 +734,6 @@
       "url": "https://www.faz.net/podcasts/f-a-z-d-economy-podcast/von-digitec-zu-d-economy-was-dahinter-steckt-19193481.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die in der KI gerade so angesagten künstlichen neuronalen Netze orientieren sich an unserer Vorstellung vom Gehirn."
-    },
-    {
-      "title": "F.A.Z. Frühdenker : Präsentiert der DFB Nagelsmann heute offiziell als Bundestrainer?",
-      "url": "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/faz-fruehdenker-praesentiert-der-dfb-nagelsmann-offiziell-als-bundestrainer-19192113.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Trainer Julian Nagelsmann steht vor dem Spiel, Borussia Mönchengladbach gegen Bayern München, an der Seitenlinie."
     },
     {
       "title": "Die aktuelle Ausgabe : Das F.A.Z.-Magazin zum Download",
@@ -820,16 +843,16 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Neuer Antrieb für Elektroräder : Zwölf-Gänge-Menü",
+      "url": "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/revolution-im-e-bike-markt-der-neuartige-pinion-antrieb-im-test-19180590.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Flyer Goroc TRX"
+    },
+    {
       "title": "Fahrbericht Audi Q8 E-Tron : In die zweite Halbzeit",
       "url": "https://www.faz.net/aktuell/technik-motor/motor/fahrberichte/audi-q8-e-tron-im-fahrbericht-positiver-fortschritt-19180557.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Im Test: Audi Q8 E-Tron"
-    },
-    {
-      "title": "Apple iPhone 15 Pro Max : Was das neue iPhone richtig gut macht – und was nicht",
-      "url": "https://www.faz.net/aktuell/technik-motor/digital/iphone-15-pro-max-was-das-neue-iphone-richtig-gut-macht-19189704.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Das iPhone 15 Pro Max im Test"
     },
     {
       "title": "F.A.Z.-Stellenmarkt : Vorstand und Geschäftsführung: Jobs finden",
@@ -892,10 +915,10 @@
       "image_title": "Angesichts steigender Infektionszahlen werden Schnelltests derzeit wieder wichtiger."
     },
     {
-      "title": "Kritik von Experten : Lauterbach will neues Präventions-Bundesinstitut starten",
-      "url": "https://www.faz.net/aktuell/feuilleton/lauterbach-will-neues-bundesinstitut-fuer-oeffentliche-gesundheit-starten-19194054.html",
+      "title": "Logbuch des Klimawandels (6) : Ganz im Norden",
+      "url": "https://www.faz.net/aktuell/wissen/erde-klima/das-forschungsschiff-polarstern-erreicht-den-nordpol-19183732.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "In der Coronapandemie hat das Bundesgesundheitsministerium die Kommunikation weitgehend selbst übernommen."
+      "image_title": "Die Polarstern hat am Nordpol den Meeresboden untersucht."
     },
     {
       "title": "Klimapolitik : Grüne Zölle für Europa",
@@ -916,11 +939,11 @@
       "image_title": "Aussortiert: Viele dieser Altkleider könnten künftig recycelt werden."
     },
     {
-      "title": "Strichmännlein überall : Die fröhliche Apokalypse",
-      "teaser": "Mit mehr als sechshundert Arbeiten des Künstlers, wird das Penck Hotel in Dresden fast schon zu einem Museum.",
+      "title": "La Palma nach dem Vulkanausbruch : Auf der heißesten Straße der Welt",
+      "teaser": "Zwei Jahre nach dem Ausbruch des Vulkans sucht La Palma neue Wege durch die Lava.",
       "url": "https://www.faz.net/aktuell/reise/",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Neue Wildnis: Der Maler Söntke Campen vor seinen Bildern in der Kunsthalle des Penck Hotels"
+      "image_title": "Die Aschestraße auf La Palma ist eine heiße Angelegenheit: Noch immer gibt es gefährliche Hot Spots, die Reifen schmelzen lassen können."
     },
     {
       "title": "F.A.Z.- Bildungsmarkt : Für Ihre nächste Reise nach Frankreich",
@@ -1014,6 +1037,12 @@
       "image_title": "Attraktiv auch für Hauser & Wirth: Basel"
     },
     {
+      "title": "Mehr KfW-Förderung : Fertighausverband fordert Bauhilfen für mehr Familien",
+      "url": "https://www.faz.net/aktuell/wirtschaft/fertighausverband-fordert-bauhilfen-fuer-mehr-familien-19195536.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Der Traum vom eigenen Haus rückt für immer mehr Familien in unerreichbare Ferne. Immerhin gibt es günstige KfW-Kredite."
+    },
+    {
       "title": "Politische Kehrtwende : Bundesregierung stellt sich gegen EU-Sanierungspflicht",
       "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/bundesregierung-stellt-sich-gegen-eu-sanierungspflicht-19195245.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -1024,12 +1053,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/wohnen/notlage-in-baubranche-absagen-beim-wohnungsbaugipfel-19193012.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Die hohen Finanzierungskosten erschweren den Neubau von Wohnungen."
-    },
-    {
-      "title": "Neue Wohnformen : Frankfurt fördert gemeinschaftliche Wohnprojekte",
-      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/stadt-frankfurt-foerdert-gemeinschaftliche-wohnprojekte-19194333.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Beispiel für gemeinschaftliches Wohnen: Hausprojekt auf dem Naxos-Gelände in Frankfurt."
     },
     {
       "title": "Baufinanzierung 2023 : Das Investment meines Lebens",
@@ -1086,13 +1109,14 @@
       "image_title": "Up, up and away: Das TWA Hotel im ehemaligen Flughafengebäude der TWA, das 1962 von Eero Saarinen in New York entworfen wurde"
     },
     {
-      "title": "F.A.Z.-Serie Schneller Schlau : Boden – begehrt, begrenzt, (un)bezahlbar",
-      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/landwirtschaftliche-flaechen-warum-kauf-und-pachtpreise-steigen-19168125.html",
-      "image_url": "https://www.faz.net/img/leer.gif"
+      "title": "Offensive gegen Russland : „Ukrainische Einheiten sind im Nahkampf besser als russische“",
+      "url": "https://www.faz.net/aktuell/politik/ausland/gegenoffensive-der-ukraine-russland-wurde-auf-der-krim-empfindlich-getroffen-19182855.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Bessere Moral als bei den Russen: Ukrainische Soldaten am Samstag an der Frontlinie nahe Andrijewka in der Region Donezk"
     },
     {
-      "title": "Helge Mark Lodder : Ich bin’s",
-      "url": "https://www.faz.net/aktuell/stil/mode-design/content-creator-helge-mark-lodder-fotostrecke-zum-thema-ich-19159853.html",
+      "title": "F.A.Z.-Serie Schneller Schlau : Boden – begehrt, begrenzt, (un)bezahlbar",
+      "url": "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/landwirtschaftliche-flaechen-warum-kauf-und-pachtpreise-steigen-19168125.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
