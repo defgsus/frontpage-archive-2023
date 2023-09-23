@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-23T06:14:16",
+  "timestamp": "2023-09-23T07:09:38",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -50,7 +50,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ \"Das war der ultimative Liebesbeweis\"",
+      "title": "Z+ Die Zucchini können Sie vergessen",
+      "teaser": "Es gibt viele Möglichkeiten, Pasta zur Soße zu verhelfen. Diese klingt wie ein Kochunfall: einfach Zucchini lange zerkochen lassen. Überraschend cremige Angelegenheit!",
+      "url": "https://www.zeit.de/zeit-magazin/2023/40/pasta-zucchini-geschmolzen-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/40/ueberraschung-bild-1/wide__822x462",
+      "image_title": "Pasta mit geschmolzenen Zucchini: Die Zucchini können Sie vergessen"
+    },
+    {
+      "title": "Z+ Brieffreunde: \"Das war der ultimative Liebesbeweis\"",
       "teaser": "Sigrid und David sind 36 Jahre Brieffreunde. Sie lebt in Deutschland, er in Australien. Als David sie Jahre später besucht, verlieben sie sich ineinander – und heiraten.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-09/brieffreunde-heirat-deutschland-australien",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-09/brieffreunde-heirat-deutschland-australien-bild-2/wide__822x462",
@@ -71,23 +78,16 @@
       "image_title": "Café-de-Paris-Butter: Das geheime Butterkommando"
     },
     {
-      "title": "Z+ München: \"Im Glockenbach gibt’s mehr Weinläden als Sozialwohnungen\"",
-      "teaser": "In München schreitet die Gentrifizierung voran. Doch wer Hafermilch bestellt, bekommt womöglich trotzdem nur ein Haferl Milch. 20 Sätze aus der Stadt",
-      "url": "https://www.zeit.de/zeit-magazin/2023/39/muenchen-alltag-muenchner-liste-saetze-stadt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/muenchen-alltag-muenchner-liste-saetze-stadt-bild/wide__822x462",
-      "image_title": "München: \"Im Glockenbach gibt’s mehr Weinläden als Sozialwohnungen\""
-    },
-    {
       "title": "Z+ Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Austern und Champagner: Wir wollen doch nicht bloß protzen",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/austern-champagner-alternativen-weinkolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/austern-champagner-alternativen/tile__315x394",
-      "image_title": "Austern und Champagner: Wir wollen doch nicht bloß protzen"
+      "title": "Z+ München: \"Im Glockenbach gibt’s mehr Weinläden als Sozialwohnungen\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/39/muenchen-alltag-muenchner-liste-saetze-stadt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/muenchen-alltag-muenchner-liste-saetze-stadt-bild/tile__315x394",
+      "image_title": "München: \"Im Glockenbach gibt’s mehr Weinläden als Sozialwohnungen\""
     },
     {
       "title": "Auf Messers Schneide",
@@ -219,6 +219,12 @@
       "image_title": "Bilderwand: So finden Sie den besten Platz für jedes Bild"
     },
     {
+      "title": "Z+ Austern und Champagner: Wir wollen doch nicht bloß protzen",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/austern-champagner-alternativen-weinkolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/austern-champagner-alternativen/tile__315x394",
+      "image_title": "Austern und Champagner: Wir wollen doch nicht bloß protzen"
+    },
+    {
       "title": "Z+ Birnen-Käsekuchen: Sie leuchten wieder weit und breit",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/birnen-kaesekuchen-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/birnen-kaesekuchen-rezept-wochenmarkt-2/tile__315x394",
@@ -271,12 +277,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/auberginensalat-eingelegte-salzzitrone-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/auberginensalat-eingelegte-salzzitrone-rezept-wochenmarkt-teaser/tile__315x394",
       "image_title": "Auberginensalat mit Salzzitrone: Die Welt ist eine Auberginenscheibe"
-    },
-    {
-      "title": "Z+ Kanye West: Knoblauch oder scharf?",
-      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2023-09/kanye-west-berlin-doener-mustafas-gemuesekebap-bianca-censori",
-      "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2023-09/kanye-west-berlin-doener-mustafas-gemuesekebap/tile__315x394",
-      "image_title": "Kanye West: Knoblauch oder scharf?"
     },
     {
       "title": "Z+ Lederjacken: Schaut her, ich bin Alpha",
@@ -333,10 +333,17 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/kaffeekonsum-magen-gesundheit-stoffwechsel-koffein-wochenmarkt"
     },
     {
+      "title": "Z+ Kanye West: Knoblauch oder scharf?",
+      "teaser": "In Italien standen Kanye West und Bianca Censori unter Beobachtung, in Berlin scheint sich kaum jemand für sie zu interessieren. Auch Mustafa machte keine Ausnahme.",
+      "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2023-09/kanye-west-berlin-doener-mustafas-gemuesekebap-bianca-censori",
+      "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2023-09/kanye-west-berlin-doener-mustafas-gemuesekebap/square__460x460",
+      "image_title": "Kanye West: Knoblauch oder scharf?"
+    },
+    {
       "title": "Z+ Schulterpartie: Frauen haben viel zu schultern",
       "teaser": "Runde Schultern statt breites Kreuz: Die Mode hat die weibliche Schulterpartie wiederentdeckt. Das signalisiert zwar Stärke, doch dem Patriarchat geht es weiterhin gut.",
       "url": "https://www.zeit.de/zeit-magazin/2023/39/schulterpartie-frauen-maenner-mode-stil",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-09/schulterpartie-frauen-maenner-mode-stil-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-09/schulterpartie-frauen-maenner-mode-stil-bild/wide__822x462",
       "image_title": "Schulterpartie: Frauen haben viel zu schultern"
     },
     {
@@ -362,9 +369,8 @@
     },
     {
       "title": "Z+ Syrische Spezialitäten in Athen: Für jedes Heimweh das passende Gericht",
-      "teaser": "Ja, Griechen essen am liebsten griechisch. Wer trotzdem mal eine Souvlaki-Pause braucht, findet in Athens Kypseli-Viertel syrische Restaurants und hervorragende Falafel.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/athen-syrienspezialitaeten-yamas-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/athen-syrienspezialitaeten-yamas-wochenmarkt-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/athen-syrienspezialitaeten-yamas-wochenmarkt-bild/tile__315x394",
       "image_title": "Syrische Spezialitäten in Athen: Für jedes Heimweh das passende Gericht"
     },
     {
@@ -378,12 +384,6 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-08/babynamen-finden-vornamen-eltern-schwangerschaft",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-08/babynamen-finden-vornamen-eltern/tile__315x394",
       "image_title": "Babynamen finden: \"Alva hieß mein Pferd im Islandurlaub\""
-    },
-    {
-      "title": "Z+ Frédéric Roy: Der Kreuzzug eines Bäckers gegen das Tiefkühlcroissant",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/frederic-roy-baecker-frankreich-tiefkuehl-croissants",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/frederic-roy-baecker-frankreich-tiefkuehl-croissants-bild/tile__315x394",
-      "image_title": "Frédéric Roy: Der Kreuzzug eines Bäckers gegen das Tiefkühlcroissant"
     }
   ]
 }
