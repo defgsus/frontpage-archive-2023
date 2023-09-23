@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-23T10:10:19",
+  "timestamp": "2023-09-23T11:08:03",
   "url": "https://www.volksstimme.de/",
   "response": {
     "status": 200
@@ -44,7 +44,13 @@
   ],
   "articles": [
     {
-      "title": "Neues Café in Magdeburg eröffnet",
+      "title": "Nach Flugzeugabsturz - Spur zu den toten Soldaten führt nach Salzwedel",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/dbefdaa6-dd60-4ff0-84ab-8d88e82d6b3b.png?rect=3%2C125%2C1381%2C777&width=100",
+      "image_title": "Zehn junge Männer lächeln 1944 bei Sonnenschein in die Kamera. Mit dem Flugzeug im Hintergrund werden sie kurz darauf zu einem Kriegseinsatz gegen Deutschland aufbrechen, den keiner von ihnen überleben wird. Bei Salzwedel wurde ihr Flugzeug beschossen, explodierte und stürzte ab.",
+      "topic": "Vermisste Kameraden"
+    },
+    {
+      "title": "Neues Café in Magdeburg eröffnet - Was Besucher kulinarisches erwartet",
       "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/76f37e96-94b4-440e-ba72-0a656fa7d95f.jpeg?rect=336%2C259%2C3664%2C2384&width=100",
       "image_title": "In Magdeburg gibt es ein neues Café.",
       "topic": "Gastronomie"
@@ -54,12 +60,6 @@
       "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/87051b02-351a-4746-8f8c-82f88b1cf90e.jpeg?rect=192%2C657%2C3784%2C2130&width=100",
       "image_title": "Mehrere Mitglieder der Feuerwehr in Stendal haben ihre Pieper abgegeben.",
       "topic": "Dienst quittiert"
-    },
-    {
-      "title": "A2 im Jerichower Land: Wird die Fahrbahn zwischen Lostau und Burg schon eher fertig?",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/fa5241fe-7257-457d-b4be-c72c92e266f7.jpeg?rect=0%2C319%2C2746%2C1598&width=100",
-      "image_title": "Blick auf die Fahrbahnsanierung, die auf der Autobahn 2 zwischen den Anschlussstellen Lostau und Burg-Ost in Fahrtrichtung Berlin umgesetzt wird.",
-      "topic": "Richtung Berlin"
     },
     {
       "title": "Was Archäologen auf den Intel-Gelände in Magdeburg entdeckt haben",
@@ -139,13 +139,6 @@
       "topic": "2. Bundesliga"
     },
     {
-      "title": "Die Spur zu den toten Soldaten bei Salzwedel",
-      "url": "https://www.volksstimme.de/lokal/salzwedel/die-spur-zu-den-toten-soldaten-bei-salzwedel-3696963",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/dbefdaa6-dd60-4ff0-84ab-8d88e82d6b3b.png?rect=3%2C125%2C1381%2C777&width=100",
-      "image_title": "Zehn junge Männer lächeln 1944 bei Sonnenschein in die Kamera. Mit dem Flugzeug im Hintergrund werden sie kurz darauf zu einem Kriegseinsatz gegen Deutschland aufbrechen, den keiner von ihnen überleben wird. Bei Salzwedel wurde ihr Flugzeug beschossen, explodierte und stürzte ab.",
-      "topic": "Zweiter Weltkrieg"
-    },
-    {
       "title": "Streit um Habeck-Ehrung in Wernigerode: Wer darf sich ins Goldene Buch eintragen?",
       "url": "https://www.volksstimme.de/lokal/wernigerode/streit-um-habeck-ehrung-in-wernigerode-wer-darf-sich-ins-goldene-buch-eintragen-3697090",
       "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/99845f30-e031-43ac-9cb8-9a41c52e556b.jpeg?rect=0%2C0%2C1633%2C967&width=100",
@@ -202,6 +195,13 @@
       "topic": "Fristlos gekündigt"
     },
     {
+      "title": "Gastronomen im Jerichower Land unter Druck - Seit Wochen schon Doppelschichten",
+      "url": "https://www.volksstimme.de/lokal/burg/restaurant-gastronomie-job-jerichower-land-problem-personal-geld-gehalt-3-000-euro-3696136",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/21/20cf52e3-3031-444f-b20a-cda8a389cd15.jpeg?rect=0%2C0%2C3908%2C2344&width=100",
+      "image_title": "Stephanie Timpernagel zapft im Hotel Stadt Genthin.",
+      "topic": "Einstiegsgehalt von 3.000 Euro"
+    },
+    {
       "title": "Wie die Kfz-Zulassung im Salzlandkreis Stück für Stück digitaler wird",
       "url": "https://www.volksstimme.de/lokal/stassfurt/wie-die-kfz-zulassung-im-salzlandkreis-stuck-fur-stuck-digitaler-wird-3696937",
       "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/55ff4abb-b5db-47c8-a916-5c17c4a0cfc9.jpeg?rect=6%2C91%2C1239%2C696&width=100",
@@ -230,18 +230,18 @@
       "topic": "Neueröffnung nach Vandalismus"
     },
     {
-      "title": "Kein Sauerstoffmangel im Mühlenteich",
-      "url": "https://www.volksstimme.de/lokal/kloetze/kein-sauerstoffmangel-im-muhlenteich-3696752",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/0b996878-a32d-43aa-aa37-f61e359cb7c6.jpeg?rect=0%2C239%2C2405%2C1192&width=100",
-      "image_title": "Nicht immer zeigt sich das Wasser des Mühlenteichs so klar wie hier. Ablagerungen auf der Oberfläche haben bei Anwohnern Besorgnis ausgelöst, die laut Bürgermeister aber unbegründet ist.",
-      "topic": "Entwarnung in Beetzendorf"
-    },
-    {
       "title": "Deshalb verweigert das Land Genthin finanzielle Nothilfe",
       "url": "https://www.volksstimme.de/lokal/genthin/deshalb-verweigert-das-land-genthin-finanzielle-nothilfe-3696941",
       "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/26b5f08c-3207-4491-9e86-694c5e1c6c52.jpeg?rect=0%2C0%2C4000%2C2579&width=100",
       "image_title": "Das Land gibt Genthin kein Geld als Nothilfe. Es hat der Stadt eine Absage erteilt.",
       "topic": "Stadthaushalt"
+    },
+    {
+      "title": "Kein Sauerstoffmangel im Mühlenteich",
+      "url": "https://www.volksstimme.de/lokal/kloetze/kein-sauerstoffmangel-im-muhlenteich-3696752",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/22/0b996878-a32d-43aa-aa37-f61e359cb7c6.jpeg?rect=0%2C239%2C2405%2C1192&width=100",
+      "image_title": "Nicht immer zeigt sich das Wasser des Mühlenteichs so klar wie hier. Ablagerungen auf der Oberfläche haben bei Anwohnern Besorgnis ausgelöst, die laut Bürgermeister aber unbegründet ist.",
+      "topic": "Entwarnung in Beetzendorf"
     },
     {
       "title": "Möckeraner Haushalt für 2024: Diskussion mit allen Ortschaften an zwei Tagen",
@@ -321,14 +321,14 @@
       "topic": "Kollision"
     },
     {
-      "title": "Mit Video: Drogenkontrolle auf der gefährlichsten Autobahn in Sachsen-Anhalt",
-      "url": "https://www.volksstimme.de/blaulicht/magdeburg/grosskontrolle-auf-der-a2-bei-magdeburg-gefaehrlichste-autobahn-in-sachsen-anhalt-stundenlang-sachsen-anhalt-video-3696403",
-      "topic": "Stau auf der A2"
-    },
-    {
       "title": "Restaurant in Magdeburg schließt kurz nach der Eröffnung",
       "url": "https://www.volksstimme.de/lokal/magdeburg/restaurant-magdeburg-eroeffnung-geschlossen-polizei-einsatz-3696309",
       "topic": "Polizei im Einsatz"
+    },
+    {
+      "title": "Mit Video: Drogenkontrolle auf der gefährlichsten Autobahn in Sachsen-Anhalt",
+      "url": "https://www.volksstimme.de/blaulicht/magdeburg/grosskontrolle-auf-der-a2-bei-magdeburg-gefaehrlichste-autobahn-in-sachsen-anhalt-stundenlang-sachsen-anhalt-video-3696403",
+      "topic": "Stau auf der A2"
     },
     {
       "title": "Schwerer Motorradunfall auf der Landstraße 9 im Landkreis Stendal",
@@ -387,6 +387,13 @@
       "topic": "2. Bundesliga"
     },
     {
+      "title": "DFB-Direktor: Fußball in „einer der größten Krisen“",
+      "url": "https://www.volksstimme.de/sport/fussball/dfb-direktor-fussball-in-einer-der-grossten-krisen-3697324",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/1a2e1557-73a8-4166-bd0a-3eb243b9f269.jpeg?rect=0%2C56%2C2048%2C1152&width=100",
+      "image_title": "Der deutsche Fußball steckt nach Ansicht von Tobias Haupt in einer seiner größten Krisen.",
+      "topic": "Nationalmannschaften"
+    },
+    {
       "title": "Darmstadt-Trainer: Bundesliga wie ein „Cluburlaub“",
       "url": "https://www.volksstimme.de/sport/fussball/darmstadt-trainer-bundesliga-wie-ein-cluburlaub-3697313",
       "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/df74a32f-245f-4ebc-9ad9-aa8763b4475d.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
@@ -415,11 +422,11 @@
       "topic": "Nach Sturz"
     },
     {
-      "title": "Hopp: Nagelsmann bester Trainer, den ich kenne",
-      "url": "https://www.volksstimme.de/sport/fussball/hopp-nagelsmann-bester-trainer-den-ich-kenne-3697201",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/542f4f95-bc6b-4428-ba0d-242700c9a39c.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Dietmar Hopp (r) hält große Stücke auf Bundestrainer Julian Nagelsmann.",
-      "topic": "Nationalmannschaft"
+      "title": "Bauministerin für Kurswechsel bei Energiesparvorschriften",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/wirtschaft/bauministerin-fur-kurswechsel-bei-energiesparvorschriften-3697238",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/db0f3f54-370b-4a69-a6fd-fe94dcb3ddf8.jpeg?rect=0%2C56%2C2048%2C1152&width=100",
+      "image_title": "„Wir sollten ein einfaches System entwickeln, das energieeffizientes Bauen, die Nutzung umweltgerechter und recycelter Baumaterialien und flächensparendes Bauen fördert“: Bundesbauministerin Klara Geywitz.",
+      "topic": "Klara Geywitz"
     },
     {
       "title": "Studie: Schwache Konjunktur lässt Fachkräftemangel sinken",
@@ -443,53 +450,46 @@
       "topic": "Bundesregierung"
     },
     {
-      "title": "CSU-Parteitag eröffnet - Schlussspurt vor der Wahl",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/csu-parteitag-eroffnet-schlussspurt-vor-der-wahl-3697283",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/00249ec1-e203-436f-9c4f-21cb0c9e0274.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "CSU-Chef Markus Söder und der gesamte Parteivorstand stellen sich auf dem Parteitag in München zu Wahl.",
+      "title": "Söder schwört CSU auf Wahl-Schlussspurt ein",
+      "url": "https://www.volksstimme.de/deutschland-und-welt/deutschland/soder-schwort-csu-auf-wahl-schlussspurt-ein-3697283",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/2daddb20-1cac-46c5-94a2-26bdfa1208f8.jpeg?rect=0%2C141%2C2048%2C1152&width=100",
+      "image_title": "CSU-Chef Markus Söder beim Parteitag in München.",
       "topic": "Bayern"
     },
     {
-      "title": "Netanjahu: Haben einige Monate für Abkommen mit Saudis",
-      "url": "https://www.volksstimme.de/deutschland-und-welt/politik/netanjahu-haben-einige-monate-fur-abkommen-mit-saudis-3696932",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/38ae493c-a83b-44b1-a7e9-ebb57b3b2d46.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Benjamin Netanjahu: „Ich werde tun, was notwendig ist, um Frieden voranzutreiben, was langfristig auch Israels Sicherheitsinteressen dient.“",
-      "topic": "Diplomatie"
+      "title": "„Fremantle Highway“ zwei Monate nach Brand nun in Rotterdam",
+      "url": "https://www.volksstimme.de/panorama/fremantle-highway-zwei-monate-nach-brand-nun-in-rotterdam-3696936",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/6431a60e-31ad-4541-8121-cff60fcdcd98.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
+      "image_title": "Der bei einem Brand schwer beschädigte Autofrachter „Fremantle Highway“ ist nach zwei Tagen Fahrt vom Groninger Eemshaven in Rotterdam angekommen.",
+      "topic": "Beschädigter Autofrachter"
     },
     {
-      "title": "Mindestens zwei Tote bei Bränden auf Sizilien",
-      "url": "https://www.volksstimme.de/panorama/mindestens-zwei-tote-bei-branden-auf-sizilien-3697311",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/6f8cd68c-d4a2-4367-897b-ae8735e456fd.jpeg?rect=0%2C1%2C2048%2C1152&width=100",
-      "image_title": "Brände auf Sizilien: Der nördliche Teil der Mittelmeerinsel ist besonders betroffen.",
-      "topic": "Mittelmeer"
+      "title": "„Fremantle Highway“ zwei Monate nach Großbrand in Rotterdam",
+      "url": "https://www.volksstimme.de/panorama/fremantle-highway-zwei-monate-nach-grossbrand-in-rotterdam-3697328",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/decae989-6e23-4492-bd70-fbf81b0fdf0a.jpeg?rect=0%2C108%2C2048%2C1152&width=100",
+      "image_title": "Der bei einem Brand schwer beschädigte Autofrachter „Fremantle Highway“.",
+      "topic": "Schifffahrt"
     },
     {
-      "title": "Umfrage zu Corona-Sorgen: Einschätzungen gehen auseinander",
-      "url": "https://www.volksstimme.de/panorama/umfrage-zu-corona-sorgen-einschatzungen-gehen-auseinander-3697161",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/5f5efa59-2cdb-4f4a-b547-a77f9422b7f0.jpeg?rect=0%2C90%2C2048%2C1152&width=100",
-      "image_title": "Viele Deutsche machen sich keine Sorgen vor einer möglichen Corona-Ansteckung in diesem Herbst und Winter.",
-      "topic": "Covid-19"
+      "title": "Zwei Frauen schwer verletzt: 56-Jähriger festgenommen",
+      "url": "https://www.volksstimme.de/panorama/zwei-frauen-schwer-verletzt-56-jahriger-festgenommen-3697326",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/1d42452d-9d6c-4173-bdbf-0e917d12ae39.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Mann trägt Handschellen.",
+      "topic": "Kriminalität"
     },
     {
-      "title": "Brand in Mehrfamilienhaus: Elf Menschen verletzt",
-      "url": "https://www.volksstimme.de/panorama/brand-in-mehrfamilienhaus-elf-menschen-verletzt-3697306",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/ebdad312-12ee-4e32-9ed6-83011c3265a7.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Auf dem Dach eines Einsatzfahrzeugs der Feuerwehr leuchtet ein Blaulicht.",
-      "topic": "Landkreis Leipzig"
+      "title": "Sturm „Ophelia“ steuert auf US-Ostküste zu",
+      "url": "https://www.volksstimme.de/panorama/sturm-ophelia-steuert-auf-us-ostkuste-zu-3697323",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/049c2eb2-81f6-470e-8dc3-7703b27ebc67.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
+      "image_title": "Ein Junge gleitet in Norfolk im US-Bundesstaat Virginia über das hohe Wasser des Lafayette River, während sich der Tropensturm „Ophelia“ nähert.",
+      "topic": "Nahezu Hurrikan-Stärke"
     },
     {
-      "title": "Linke-Vorsitzende: Bund bei Bildungsinvestitionen gefordert",
-      "url": "https://www.volksstimme.de/panorama/linke-vorsitzende-bund-bei-bildungsinvestitionen-gefordert-3697307",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/fe66b028-d802-4c33-ad50-8e0e7a432d25.jpeg?rect=0%2C107%2C2048%2C1152&width=100",
-      "image_title": "Ulrike Grosse-Röthig (Die Linke), Parteivorsitzende der Linke in Thüringen, beim Bundesparteitag.",
-      "topic": "Parteien"
-    },
-    {
-      "title": "Hochzeitsgesellschaft verunglückt: Sieben Menschen verletzt",
-      "url": "https://www.volksstimme.de/panorama/hochzeitsgesellschaft-verungluckt-sieben-menschen-verletzt-3697303",
-      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/42ba0c86-0dd0-4c47-a837-ad15fe80067e.jpeg?rect=0%2C0%2C2048%2C1152&width=100",
-      "image_title": "Ein Transporter liegt nach einem Unfall auf dem Dach in einem Straßengraben.",
-      "topic": "Unfälle"
+      "title": "Nach schweren Vorwürfen: Russell Brand meldet sich zu Wort",
+      "url": "https://www.volksstimme.de/panorama/stars/nach-schweren-vorwurfen-russell-brand-meldet-sich-zu-wort-3697320",
+      "image_url": "https://bmg-images.forward-publishing.io/2023/09/23/73d0427e-c26f-47d0-8afa-a4ada0e27fac.jpeg?rect=0%2C12%2C2048%2C1152&width=100",
+      "image_title": "Russell Brand postete ein dreiminütiges Video, in dem er seinen Unterstützern dankt.",
+      "topic": "Komiker"
     },
     {
       "title": "So zufrieden sind die Sachsen-Anhalter mit ihrem Verdienst",
