@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-25T06:15:16",
+  "timestamp": "2023-09-25T07:10:54",
   "url": "https://www.welt.de/politik/",
   "response": {
     "status": 200
@@ -26,6 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Kanadas Unterhauschef entschuldigt sich für Ehrung von SS-Soldat",
+      "teaser": "Beim Besuch des ukrainischen Präsidenten Wolodymyr Selenskyj im kanadischen Parlament wurde ein 98-Jähriger im Publikum als „ukrainischer und kanadischer Held“ vorgestellt. Später wurde klar: Der Mann kämpfte im Zweiten Weltkrieg für eine Freiwilligeneinheit der Nazis.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile247650738/8977930517-ci23x11-w20/Canada-Ukraine-Apology.jpg",
+      "image_title": "Yaroslav Hunka (r.) im kanadischen Parlament in Ottawa"
+    },
+    {
+      "title": "Wer seine Wohnung leer stehen lässt, soll zahlen",
+      "teaser": "Dachziegel fallen, Einsturz droht: Als erste deutsche Kommune bereitet Landau in der Pfalz die Einführung einer Leerstandsteuer für verfallende Immobilien vor. Ein heikles Instrument, mit dem der Bürgermeister von der CDU gegen Spekulanten vorgehen möchte. Andere Städte beobachten das genau.",
+      "url": "https://www.welt.de/politik/plus247641728/Fehlender-Wohnraum-Landau-will-Praezedenzfall-fuer-eine-Leerstandsteuer-schaffen.html",
+      "image_url": "https://img.welt.de/img/politik/mobile247642366/5587934767-ci23x11-w20/Die-Seibel-Ruine.jpg",
+      "image_title": "Das Stadtbild von Landau ist von Leerstand geprägt",
+      "author": "Stefan Frommann"
+    },
+    {
       "title": "Russische Öllieferungen und Einnahmen steigen trotz Sanktionen",
       "teaser": "Russland verdient trotz westlicher Sanktionen wieder gut am Verkauf von Öl. Die steigenden Weltmarktpreise führen auch in Moskau zu steigenden Einnahmen. Der Preisdeckel der G 7 und der EU hat laut einem Bericht der „Financial Times“ kaum noch einen Effekt. Mehr im Liveticker.",
       "url": "https://www.welt.de/politik/ausland/article247649462/Ukraine-News-Russische-Oellieferungen-und-Einnahmen-steigen-trotz-Sanktionen.html",
@@ -35,7 +50,7 @@
     {
       "title": "Diese Staaten schaffen beim Grenzschutz selbst Fakten",
       "teaser": "Die EU hat keinen einheitlichen Grenzschutz. Wie viele Migranten in Deutschland ankommen, hängt daher von den Ländern an den EU-Außengrenzen ab. Nicht alle Maßnahmen sind legal. Besonders ein Land in Südeuropa hat die Lage überraschend gut im Griff.",
-      "url": "https://www.welt.de/politik/ausland/",
+      "url": "https://www.welt.de/politik/ausland/plus247601422/Grenzschutz-in-Europa-Diese-Staaten-schaffen-selbst-Fakten-beim-Grenzschutz.html",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile247622852/3687931117-ci23x11-w20/DWO-AP-Teaser-EU-Grenze-Migration-ag.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
       "author": "Carolina Drüten"
@@ -46,21 +61,6 @@
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile247649380/9997937377-ci23x11-w20/Gremiensitzungen-und-Statements-der-Bundesparteien.jpg",
       "image_title": "Gremiensitzungen und Statements der Bundesparteien"
-    },
-    {
-      "title": "Die Aufholjagd des einstigen Anti-Establishment-Kandidaten",
-      "teaser": "Die Erfolgsserie der AfD im Osten Deutschlands setzt sich am Sonntag nicht fort. Der parteilose Amtsinhaber Kai Buchmann behauptet das Oberbürgermeisteramt in Nordhausen. AfD-Gegner feiern spontan. Doch wie geht es nun weiter? Ein Besuch vor Ort.",
-      "url": "https://www.welt.de/politik/deutschland/",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247649264/9877930077-ci23x11-w20/IMG-1623.jpg",
-      "image_title": "„Können Sie mich kurz aufklären, wie das jetzt abläuft?“ – Kai Buchmann vor Journalisten",
-      "author": "Jan Alexander Casper"
-    },
-    {
-      "title": "Macron verkündet Rückzug der Streitkräfte aus dem Niger",
-      "teaser": "Seit Wochen fordern Unterstützer der Putschisten im Niger den Abzug der französischen Soldaten. Die Spannungen mit Paris spitzen sich immer mehr zu. Nun will Frankreichs Präsident die Streitkräfte zurückholen.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile247649228/1777938967-ci23x11-w20/France-Niger.jpg",
-      "image_title": "Frankreichs Präsident Emmanuel Macron"
     },
     {
       "title": "Wichtige Verbände haben Teilnahme am Wohnungsgipfel abgesagt",
@@ -82,16 +82,24 @@
       "author": "5 Min"
     },
     {
-      "title": "Söder wirft Scholz und Faeser Untätigkeit und Fehler vor",
-      "url": "https://www.welt.de/politik/deutschland/video247649918/Migrationspolitik-Soeder-wirft-Scholz-und-Faeser-Untaetigkeit-und-Fehler-vor.html",
-      "image_url": "https://img.welt.de/img/incoming/mobile247649916/0657930387-ci16x9-w20/426949936-jpg.jpg",
-      "image_title": "CSU-Parteitag 2023 am 23.09.2023 in der Messe München Markus Söder ( Ministerpräsident Bayern ) Foto: Revierfoto",
+      "title": "Faeser bezeichnet Söders Vorschlag für Flüchtlingsobergrenze als nicht umsetzbar",
+      "url": "https://www.welt.de/politik/deutschland/video247649918/Migrationspolitik-Faeser-bezeichnet-Soeders-Vorschlag-fuer-Fluechtlingsobergrenze-als-nicht-umsetzbar.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247650540/0147937127-ci16x9-w20/427248460-1-jpg.jpg",
+      "image_title": "Bundesinnenministerin Nancy Faeser (SPD) spricht während der ARD-Sendung «Anne Will» zum Thema «An der «Belastungsgrenze» - Schafft Deutschland eine bessere Flüchtlingspolitik?». Faeser hat den Vorschlag einer jährlichen Obergrenze für Geflüchtete in Deutschland von CSU-Chef Söder abgelehnt. +++ dpa-Bildfunk +++",
       "author": "6 Min"
     },
     {
       "title": "Zahl der Wohnbauprojekte sinkt – Ein Krisengipfel im Kanzleramt soll helfen",
       "url": "https://www.welt.de/wirtschaft/video247644276/Jetzt-im-Livestream-Zahl-der-Bauprojekte-sinkt-Wohnungsbaugipfel-im-Kanzleramt-soll-helfen.html",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile247644314/8407938337-ci16x9-w1000/Baustelle-Holzbauquartier.jpg"
+    },
+    {
+      "title": "Die Aufholjagd des einstigen Anti-Establishment-Kandidaten",
+      "teaser": "Die Erfolgsserie der AfD im Osten Deutschlands setzt sich am Sonntag nicht fort. Der parteilose Amtsinhaber Kai Buchmann behauptet das Oberbürgermeisteramt in Nordhausen. AfD-Gegner feiern spontan. Doch wie geht es nun weiter? Ein Besuch vor Ort.",
+      "url": "https://www.welt.de/politik/deutschland/",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247649264/9877930077-ci23x11-w20/IMG-1623.jpg",
+      "image_title": "„Können Sie mich kurz aufklären, wie das jetzt abläuft?“ – Kai Buchmann vor Journalisten",
+      "author": "Jan Alexander Casper"
     },
     {
       "title": "Bürger stimmen für großes BMW-Batteriewerk in Bayern",
@@ -131,14 +139,6 @@
       "image_title": "Georg Bätzing ist seit März 2020 Vorsitzender der Deutschen Bischofskonferenz"
     },
     {
-      "title": "Verdrängen, vergessen, vertagen – Deutschlands Umgang mit der Pandemie",
-      "teaser": "Großbritannien, Frankreich, Italien – halb Europa schaut zurück auf die Pandemie. Was schief lief, welche Lehren es gibt. Die Deutschen machen da nicht mit. Für sie ist die Pandemie noch nicht vorbei.",
-      "url": "https://www.welt.de/politik/deutschland/plus247623972/Pandemie-Aufarbeitung.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247623970/4477936017-ci23x11-w20/DWO-Teaser-scholz-lauterbach-steinmeier-aw2.jpg",
-      "image_title": "Bundeskanzler Olaf Scholz, Bundespräsident Frank-Walter Steinmeier, Gesundheitsminister Karl Lauterbach (alle SPD, v.l.)",
-      "author": "Elke Bodderas"
-    },
-    {
       "title": "Weltbild-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -157,6 +157,13 @@
     {
       "title": "Thalia-Gutschein",
       "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Macron verkündet Rückzug der Streitkräfte aus dem Niger",
+      "teaser": "Seit Wochen fordern Unterstützer der Putschisten im Niger den Abzug der französischen Soldaten. Die Spannungen mit Paris spitzen sich immer mehr zu. Nun will Frankreichs Präsident die Streitkräfte zurückholen.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile247649228/1777938967-ci23x11-w20/France-Niger.jpg",
+      "image_title": "Frankreichs Präsident Emmanuel Macron"
     },
     {
       "title": "Polens Außenminister wirft Kanzler Scholz Einmischung in Wahlkampf vor",
@@ -201,6 +208,14 @@
       "image_url": "https://img.welt.de/img/politik/ausland/mobile247642556/2927930287-ci23x11-w20/Bundeskanzlerin-Merkel-empfaengt-Dalai-Lama.jpg",
       "image_title": "Die damalige Bundeskanzlerin Angela Merkel empfängt den Dalai Lama 2007 in Berlin",
       "author": "Christina zur Nedden"
+    },
+    {
+      "title": "Verdrängen, vergessen, vertagen – Deutschlands Umgang mit der Pandemie",
+      "teaser": "Großbritannien, Frankreich, Italien – halb Europa schaut zurück auf die Pandemie. Was schief lief, welche Lehren es gibt. Die Deutschen machen da nicht mit. Für sie ist die Pandemie noch nicht vorbei.",
+      "url": "https://www.welt.de/politik/deutschland/plus247623972/Pandemie-Aufarbeitung.html",
+      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247623970/4477936017-ci23x11-w20/DWO-Teaser-scholz-lauterbach-steinmeier-aw2.jpg",
+      "image_title": "Bundeskanzler Olaf Scholz, Bundespräsident Frank-Walter Steinmeier, Gesundheitsminister Karl Lauterbach (alle SPD, v.l.)",
+      "author": "Elke Bodderas"
     },
     {
       "title": "Erste Flüchtlinge aus Bergkarabach erreichen Armenien",
@@ -363,21 +378,6 @@
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile247635936/0427930587-ci23x11-w20/175-Jahrestag-der-Gruendung-der-Diakonie-Deutschland.jpg",
       "image_title": "Olaf Scholz, hier bei einem Festakt in Berlin"
-    },
-    {
-      "title": "Italien verlangt fast 5000 Euro Kaution von abgelehnten Migranten",
-      "teaser": "Um nach einer Ablehnung nicht in Abschiebehaft genommen zu werden, müssen manche Asylbewerber in Italien künftig eine Kaution von 4938 Euro zahlen. Die Summe soll die Kosten für Unterkunft und Lebensunterhalt abdecken – aber auch für eine mögliche Rückführung.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile247635870/0997932937-ci23x11-w20/Ein-Jahr-Giorgia-Meloni.jpg",
-      "image_title": "Will auch die Höchstdauer der Abschiebehaft erhöhen: Ministerpräsidentin Giorgia Meloni"
-    },
-    {
-      "title": "Die Sorgen-Route nach Deutschland",
-      "teaser": "Immer mehr Migranten strömen ins Land, vertraulichen Polizeiberichten zufolge vor allem über das Baltikum. Behörden und Sicherheitsexperten sind angesichts der Menge an Menschen alarmiert – und ob der Gefahr durch Islamisten. WELT AM SONNTAG war an der litauisch-belarussischen Grenze.",
-      "url": "https://www.welt.de/politik/deutschland/plus247625486/Migration-Die-Sorgen-Route-nach-Deutschland.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247628510/4657939597-ci23x11-w20/In-der-Litauischen-Weissrussischen-Grenzregion-21.jpg",
-      "image_title": "Jeder, der sich der EU-Außengrenze nähern will, braucht eine Sondergenehmigung",
-      "author": "Alexander Dinger"
     },
     {
       "title": "Warum es für Russland jetzt tatsächlich gefährlich wird",
