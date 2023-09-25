@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-25T15:12:17",
+  "timestamp": "2023-09-25T16:14:59",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"In anderen Räumen\" in München: Als die Kunst total wurde",
+      "teaser": "Eine Ausstellung im Haus der Kunst in München erinnert an die Pionierinnen der Immersion. Bevor man in ihre Werke eintaucht, rät ein Schild: \"Fühlen Sie sich wohl.\"",
+      "url": "https://www.zeit.de/kultur/kunst/2023-09/in-anderen-raeumen-environments-von-kuenstlerinnen-muenchen-haus-der-kunst",
+      "image_url": "https://img.zeit.de/kultur/kunst/2023-09/spectral-passage-kasuba/cinema__980x420"
+    },
+    {
       "title": "Feuilletonpodcast: Sind Romane besser als Klimakleber?",
       "teaser": "Immer wieder wird beklagt, dass der Klimawandel in Gegenwartsromanen kaum eine Rolle spielt. Warum bloß?",
       "url": "https://www.zeit.de/kultur/2023-09/literatur-klimawandel-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-pauer-weisbrod/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-pauer-weisbrod/wide__822x462",
+      "image_title": "Feuilletonpodcast: Sind Romane besser als Klimakleber?"
     },
     {
       "title": "Satirepartei: Sibylle Berg kandidiert für Die Partei bei EU-Wahl",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-09/sibylle-berg-die-partei-eu-wahl-spitzenkandidatin",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/schriftstellerin-sibylle-berg-die-partei-bild/wide__822x462",
       "image_title": "Satirepartei: Sibylle Berg kandidiert für Die Partei bei EU-Wahl"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ostdeutsche Literatur: Wenn der Osten literarisch mutiert",
-      "teaser": "Romane über die DDR sind extrem erfolgreich. Aber was passiert, wenn sie jetzt von Nachgeborenen geschrieben werden, die dabei Fehler machen?",
-      "url": "https://www.zeit.de/2023/40/ostdeutsche-literatur-ddr-romane-sprache-kolorit",
-      "image_url": "https://img.zeit.de/2023/40/ostdeutsche-literatur-ddr-romane-sprache-kolorit-teaserbild/wide__822x462",
-      "image_title": "Ostdeutsche Literatur: Wenn der Osten literarisch mutiert"
     },
     {
       "title": "AnzeigeGoldene Kultur- und Genussmomente in Rheinland-Pfalz",
@@ -169,18 +169,18 @@
       "url": "https://www.zeit.de/kultur/2023-09/vermenschlichung-natur-wald-gefuehle-peter-wohlleben"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ostdeutsche Literatur: Wenn der Osten literarisch mutiert",
+      "teaser": "Romane über die DDR sind extrem erfolgreich. Aber was passiert, wenn sie jetzt von Nachgeborenen geschrieben werden, die dabei Fehler machen?",
+      "url": "https://www.zeit.de/2023/40/ostdeutsche-literatur-ddr-romane-sprache-kolorit",
+      "image_url": "https://img.zeit.de/2023/40/ostdeutsche-literatur-ddr-romane-sprache-kolorit-teaserbild/wide__822x462",
+      "image_title": "Ostdeutsche Literatur: Wenn der Osten literarisch mutiert"
+    },
+    {
       "title": "Streik in Hollywood: US-Drehbuchautoren und Studios erzielen vorläufige Einigung",
       "teaser": "Die Gewerkschaft der Drehbuchautoren meldet nach fünf Monaten Streik einen Durchbruch in den Verhandlungen. Damit könnte der Stillstand in Hollywood bald beendet werden.",
       "url": "https://www.zeit.de/kultur/film/2023-09/filmindustrie-drehbuchautoren-hollywood-streik-einigung",
       "image_url": "https://img.zeit.de/kultur/film/2023-09/usa-drehbuchautoren-streik-hollywood-einigung/wide__822x462",
       "image_title": "Streik in Hollywood: US-Drehbuchautoren und Studios erzielen vorläufige Einigung"
-    },
-    {
-      "title": "\"Tatort\" Zürich: Der Vogel schießt?",
-      "teaser": "Drohnen, Bürgerkriegstraumata und ein Vogelbeobachter: Der Schweizer \"Tatort\" versucht schablonenhaft, einen lahmen Fall aufzupeppen.",
-      "url": "https://www.zeit.de/kultur/film/2023-09/tatort-zuerich-blinder-fleck-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2023-09/tatort-zuerich-blinder-fleck-obduktionsbericht-teaserbild/wide__822x462",
-      "image_title": "\"Tatort\" Zürich: Der Vogel schießt?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Longtermism: Welche Superkräfte retten die Zukunft?",
@@ -195,6 +195,13 @@
       "url": "https://www.zeit.de/2023/39/constantin-schreiber-islam-tagesschau-sprecher-anfeindung",
       "image_url": "https://img.zeit.de/2023/39/constantin-schreiber-islam-tagesschau-sprecher-anfeindung-bild/wide__822x462",
       "image_title": "Constantin Schreiber: \"Jetzt weiß ich, wo du wohnst\""
+    },
+    {
+      "title": "\"Tatort\" Zürich: Der Vogel schießt?",
+      "teaser": "Drohnen, Bürgerkriegstraumata und ein Vogelbeobachter: Der Schweizer \"Tatort\" versucht schablonenhaft, einen lahmen Fall aufzupeppen.",
+      "url": "https://www.zeit.de/kultur/film/2023-09/tatort-zuerich-blinder-fleck-obduktionsbericht",
+      "image_url": "https://img.zeit.de/kultur/film/2023-09/tatort-zuerich-blinder-fleck-obduktionsbericht-teaserbild/wide__822x462",
+      "image_title": "\"Tatort\" Zürich: Der Vogel schießt?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Valentinstag\" von Richard Ford: Noch ist Amerika nicht verloren",
@@ -218,13 +225,6 @@
       "image_title": "Veränderungen in der Heimat: Überwältigend schön"
     },
     {
-      "title": "Paris: Französischer Rapper MHD zu zwölf Jahren Haft verurteilt",
-      "teaser": "Der Musiker soll 2018 an einem tödlichen Angriff auf einen 23-Jährigen beteiligt gewesen sein. Auch fünf weitere Mitangeklagte müssen mehrere Jahre in Haft.",
-      "url": "https://www.zeit.de/kultur/musik/2023-09/paris-rapper-mhd-haftstrafe-toedlicher-angriff",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-09/paris-frankreich-rapper-mhd-haftstrafe-bild/wide__822x462",
-      "image_title": "Paris: Französischer Rapper MHD zu zwölf Jahren Haft verurteilt"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Russell Brand: Immer wieder hochgefeuert",
       "teaser": "Mehrfach hat sich Russell Brand neu erfunden, um Skandale zu überstehen. Gegen Vorwürfe der Vergewaltigung soll dem Entertainer die Verbrüderung mit seinen Fans helfen.",
       "url": "https://www.zeit.de/kultur/film/2023-09/russell-brand-vergewaltigung-sexuelle-noetigung-vorwuerfe",
@@ -239,6 +239,13 @@
       "image_title": "Vermenschlichung der Natur: Ein Baum ist ein Baum ist kein Baum"
     },
     {
+      "title": "Paris: Französischer Rapper MHD zu zwölf Jahren Haft verurteilt",
+      "teaser": "Der Musiker soll 2018 an einem tödlichen Angriff auf einen 23-Jährigen beteiligt gewesen sein. Auch fünf weitere Mitangeklagte müssen mehrere Jahre in Haft.",
+      "url": "https://www.zeit.de/kultur/musik/2023-09/paris-rapper-mhd-haftstrafe-toedlicher-angriff",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-09/paris-frankreich-rapper-mhd-haftstrafe-bild/wide__822x462",
+      "image_title": "Paris: Französischer Rapper MHD zu zwölf Jahren Haft verurteilt"
+    },
+    {
       "title": "Kulturpolitik in Potsdam: Kulturelle Selbstverstümmelung",
       "teaser": "Die Bildergalerie von Schloss Sanssouci in Potsdam soll fürs Publikum geschlossen werden. Dahinter steckt eine kulturpolitische Erpressung: Es muss mehr Geld her.",
       "url": "https://www.zeit.de/2023/40/kulturpolitik-potsdam-schliessung-museen-gelder",
@@ -249,14 +256,14 @@
       "title": "Katrin Bennhold: Die Emigrantin",
       "teaser": "Unser Autor traf kürzlich Katrin Bennhold, Redakteurin bei der \"New York Times\", die gerade ein Buch über den Neonazi Franco A. schreibt. Sie sprachen über die Deutschen.",
       "url": "https://www.zeit.de/2023/40/katrin-bennhold-new-york-times-journalismus-migration-usa",
-      "image_url": "https://img.zeit.de/kultur/2023-09/katrin-bennhold-new-york-times-journalismus-migration/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-09/katrin-bennhold-new-york-times-journalismus-migration/cinema__980x420",
       "image_title": "Katrin Bennhold: Die Emigrantin"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dresscode Business: Ohne seidenen Faden",
       "teaser": "Der US-Senat schafft die formelle Kleidung ab und begeht damit einen Fehler. Politik darf nicht zum Decathlon-Sale werden.",
       "url": "https://www.zeit.de/kultur/2023-09/business-dresscode-us-senat-arbeitskleidung-buero",
-      "image_url": "https://img.zeit.de/kultur/2023-09/wochenende-die-pflichtverteidigung-kleidung-anzugtraeger/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-09/wochenende-die-pflichtverteidigung-kleidung-anzugtraeger/wide__822x462",
       "image_title": "Dresscode Business: Ohne seidenen Faden"
     },
     {
@@ -270,14 +277,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Baracke\" von Rainald Goetz: Die Familie ist die kleinste Terrorzelle",
       "teaser": "Aus dem Deutschland der Gewalt gibt es keinen Ausgang: Das neue Stück \"Baracke\" von Rainald Goetz wurde am Deutschen Theater in Berlin uraufgeführt.",
       "url": "https://www.zeit.de/kultur/2023-09/baracke-rainald-goetz-deutsches-theater-berlin-premiere",
-      "image_url": "https://img.zeit.de/kultur/2023-09/baracke-rainald-goetz-deutsches-theater-berlin-premiere-teaserfoto/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-09/baracke-rainald-goetz-deutsches-theater-berlin-premiere-teaserfoto/cinema__980x420",
       "image_title": "\"Baracke\" von Rainald Goetz: Die Familie ist die kleinste Terrorzelle"
     },
     {
       "title": "EU-Migrationspolitik: Nur manche Menschen werden Brüder",
       "teaser": "Die EU scheitert in der Migrationspolitik an den eigenen Ansprüchen. Das geht an ihr Selbstverständnis: Europa ist moralisch auch nicht besser als der Rest der Welt.",
       "url": "https://www.zeit.de/kultur/2023-09/eu-migrationspolitik-asyl-gefluechtete-europa-menschenrechte",
-      "image_url": "https://img.zeit.de/kultur/2023-09/wochenende-39-politisch-motiviert-eu-migration/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-09/wochenende-39-politisch-motiviert-eu-migration/wide__822x462",
       "image_title": "EU-Migrationspolitik: Nur manche Menschen werden Brüder"
     },
     {
@@ -291,22 +298,15 @@
       "title": "Frieden für die Ukraine: Wie kann das enden?",
       "teaser": "Die Fronten im Krieg in der Ukraine bewegen sich kaum. Europa braucht endlich eine Strategie, um Frieden zu ermöglichen.",
       "url": "https://www.zeit.de/2023/40/ukraine-frieden-initiative-europa-russland",
-      "image_url": "https://img.zeit.de/2023/40/wie-kann-das-enden-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/40/wie-kann-das-enden-bild-1/cinema__980x420",
       "image_title": "Frieden für die Ukraine: Wie kann das enden?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Stephen Gould: Das Publikum soll weinen, nicht der Sänger",
       "teaser": "Die Opernwelt hat einen ihrer Größten verloren, den Tenor Stephen Gould. In Bayreuth hätte er diesen Sommer drei Partien singen sollen. Nun ist er gestorben. Ein Nachruf",
       "url": "https://www.zeit.de/kultur/musik/2023-09/stephen-gould-wagner-tenor-bayreuth-nachruf",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-09/stephen-gould-nachruf-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-09/stephen-gould-nachruf-2/wide__822x462",
       "image_title": "Stephen Gould: Das Publikum soll weinen, nicht der Sänger"
-    },
-    {
-      "title": "\"Euphoria\": Schauspieler Angus Cloud starb an versehentlicher Überdosis",
-      "teaser": "Vor einigen Wochen wurde der US-Schauspieler Angus Cloud im Alter von 25 Jahren tot aufgefunden. Jetzt steht die Todesursache fest.",
-      "url": "https://www.zeit.de/kultur/film/2023-09/angus-cloud-autopsiebericht-ueberdosis",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-09/angus-cloud-autopsie/wide__822x462",
-      "image_title": "\"Euphoria\": Schauspieler Angus Cloud starb an versehentlicher Überdosis"
     },
     {
       "title": "\"Tension\" von Kylie Minogue: Alle Handtücher ausgelegt",
@@ -321,6 +321,13 @@
       "url": "https://www.zeit.de/kultur/film/2023-09/liebes-kind-netflix-serie-rezension",
       "image_url": "https://img.zeit.de/kultur/film/2023-09/liebes-kind-1/square__460x460",
       "image_title": "\"Liebes Kind\": Tatort: Haus ohne Fenster"
+    },
+    {
+      "title": "\"Euphoria\": Schauspieler Angus Cloud starb an versehentlicher Überdosis",
+      "teaser": "Vor einigen Wochen wurde der US-Schauspieler Angus Cloud im Alter von 25 Jahren tot aufgefunden. Jetzt steht die Todesursache fest.",
+      "url": "https://www.zeit.de/kultur/film/2023-09/angus-cloud-autopsiebericht-ueberdosis",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-09/angus-cloud-autopsie/wide__822x462",
+      "image_title": "\"Euphoria\": Schauspieler Angus Cloud starb an versehentlicher Überdosis"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Thomas Brezina: \"Wir müssten diese Kinderseele viel mehr fördern und schützen\"",
@@ -347,14 +354,14 @@
       "title": "Römisches Reich auf TikTok: Na, denkt ihr gerade ans alte Rom?",
       "teaser": "Auf TikTok fragen derzeit etliche Frauen ihre Männer, wie oft diese ans Römische Reich denken, und das tun viele Männer offenbar regelmäßig. Das liegt wohl an Sandalen.",
       "url": "https://www.zeit.de/2023/40/roemisches-reich-tiktok-trend-maenner",
-      "image_url": "https://img.zeit.de/2023/40/roemisches-reich-tiktok-trend-maenner-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/40/roemisches-reich-tiktok-trend-maenner-bild/cinema__980x420",
       "image_title": "Römisches Reich auf TikTok: Na, denkt ihr gerade ans alte Rom?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Debatte um Constantin Schreiber: \"Wie oft habe auch ich erwogen zu schweigen\"",
       "teaser": "\"Tagesschau\"-Sprecher Constantin Schreiber hat angekündigt, sich nicht mehr zum Islam zu äußern. Hier reagieren sechs Menschen, für die Anfeindungen zum Alltag gehören.",
       "url": "https://www.zeit.de/2023/40/constantin-schreiber-interview-sprechverbot-islam-reaktionen",
-      "image_url": "https://img.zeit.de/2023/40/constantin-schreiber-interview-sprechverbot-islam-reaktionen-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/40/constantin-schreiber-interview-sprechverbot-islam-reaktionen-teaserbild/wide__822x462",
       "image_title": "Debatte um Constantin Schreiber: \"Wie oft habe auch ich erwogen zu schweigen\""
     },
     {
@@ -370,13 +377,6 @@
       "url": "https://www.zeit.de/kultur/2023-09/michel-foucault-identitaetspolitik-linke-wokeness-susan-neiman-kritik",
       "image_url": "https://img.zeit.de/kultur/2023-09/michel-foucault-identitaetspolitik-linke-wokeness-susan-neiman/wide__822x462",
       "image_title": "Debatte um Identitätspolitik: Feindbild Foucault"
-    },
-    {
-      "title": "Schönheitssalons in Afghanistan: Der letzte sichere Raum",
-      "teaser": "Die Beauty-Industrie bot Arbeit für viele afghanische Frauen. Nun werden die Schönheitssalons geschlossen, schreibt unsere Autorin, deren Identität wir schützen.",
-      "url": "https://www.zeit.de/kultur/2023-09/afghanistan-schoenheitssalons-frauen-taliban-10nach8",
-      "image_url": "https://img.zeit.de/kultur/film/2023-09/afghanistan-schoenheitssalons-frauen-taliban-bild/wide__822x462",
-      "image_title": "Schönheitssalons in Afghanistan: Der letzte sichere Raum"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Deutscher Buchpreis 2023: Herkunft, Herkunft, Herkunft",
@@ -512,6 +512,13 @@
       "image_title": "Streit der Ampelkoalition: Sandkasten im Getriebe"
     },
     {
+      "title": "Schönheitssalons in Afghanistan: Der letzte sichere Raum",
+      "teaser": "Die Beauty-Industrie bot Arbeit für viele afghanische Frauen. Nun werden die Schönheitssalons geschlossen, schreibt unsere Autorin, deren Identität wir schützen.",
+      "url": "https://www.zeit.de/kultur/2023-09/afghanistan-schoenheitssalons-frauen-taliban-10nach8",
+      "image_url": "https://img.zeit.de/kultur/film/2023-09/afghanistan-schoenheitssalons-frauen-taliban-bild/wide__822x462",
+      "image_title": "Schönheitssalons in Afghanistan: Der letzte sichere Raum"
+    },
+    {
       "title": "Bridget Fonda: Die Freiheit der Bridget Fonda",
       "teaser": "Sie war einer der großen Stars der Neunziger, heute ist Bridget Fonda Ende 50 und bezeichnet sich als Zivilistin. Über eine Frau, die genug hat vom Kampfplatz Hollywood.",
       "url": "https://www.zeit.de/kultur/2023-09/bridget-fonda-hollywood-frauen-quentin-tarantino-10nach8",
@@ -531,13 +538,6 @@
       "url": "https://www.zeit.de/kultur/2023-09/bergkarabach-armenien-aserbaidschan-blockade-konflikt-10nach8",
       "image_url": "https://img.zeit.de/kultur/2023-09/bergkarabach-armenien-aserbaidschan-blockade-konflikt-10nach8-bild/wide__822x462",
       "image_title": "Bergkarabach: Totenstille"
-    },
-    {
-      "title": "Atomkraftwerk Emsland: Dschinn in Lingen",
-      "teaser": "Ein mystischer Abend: Im Emsland endet das Kapitel Atomenergie mit einer Nacht voller Geister, einer Kröte und einem Kaninchen.",
-      "url": "https://www.zeit.de/kultur/2023-09/akw-emsland-lingen-atomausstieg-10nach8",
-      "image_url": "https://img.zeit.de/kultur/2023-09/akw-emsland-lingen-atomausstieg-10nach8-bild-1/wide__822x462",
-      "image_title": "Atomkraftwerk Emsland: Dschinn in Lingen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Extremwetter in China: Und der Präsident blieb im Urlaub",
