@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-25T11:09:26",
+  "timestamp": "2023-09-25T12:22:05",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -61,6 +61,12 @@
     },
     {
       "type": "module",
+      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/stadtteile-standalone.f964a28c.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/dashboard.d61cdf4a.mjs",
       "id": null,
       "text": null
@@ -68,10 +74,31 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Starlink: \"Zivilisten mit Smartphones können im Krieg entscheidend sein\"",
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungstausch: Wenn der Vermieter bockt",
+      "teaser": "Viele alte Menschen haben zu viel Platz, Familien oft zu wenig. Warum also nicht tauschen? Klingt logisch – klappt aber bislang kaum. Können Gesetze das ändern?",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/wohnungstausch-wohnungsnot-kleinanzeigen-umzug-die-linke",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/wohnungstausch-wohnungsnot-kleinanzeigen/cinema__1000x428"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsmarkt: \"Ich ärgere mich über Interessenten, die schlecht vorbereitet sind\"",
+      "teaser": "Jan, Torben und Paul sind Mitte 20 und schon selbst Vermieter. Hier erzählen sie, warum sie auf Partys diese Info lieber verschweigen und was sie über ihre Mieter denken.",
+      "url": "https://www.zeit.de/campus/2023-09/wohnungsmarkt-vermieter-eigentum-erfahrungsbericht",
+      "image_url": "https://img.zeit.de/campus/2023-09/wohnungsmarkt-vermieter-eigentum-erfahrungsbericht-umzug/cinema__980x420",
+      "image_title": "Wohnungsmarkt: \"Ich ärgere mich über Interessenten, die schlecht vorbereitet sind\""
+    },
+    {
+      "title": "Wohnungsbaugipfel: Baubranche lobt Regierungspläne gegen Wohnungsmangel",
+      "teaser": "Als \"umfangreicher als erwartet\" bewertet die Baubranche die Maßnahmen, die auf dem Wohnungsgipfel besprochen werden sollen. Entscheidend sei jedoch die Umsetzung,",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/wohnungsgipfel-baubranche-wohnungsmangel-wohnen-ampel-regierung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/wohnungsgipfel-baubranche-wohnungsmangel-wohnen-ampel-regierung-bild/cinema__980x420",
+      "image_title": "Wohnungsbaugipfel: Baubranche lobt Regierungspläne gegen Wohnungsmangel"
+    },
+    {
+      "title": "Starlink: \"Zivilisten mit Smartphones können im Krieg entscheidend sein\"",
       "teaser": "Die ukrainische Armee kann mithilfe von Starlink-Satelliten in Echtzeit verfolgen, wie Russland Angriffe vorbereitet. Wie beeinflusst Elon Musk den Kriegsverlauf?",
       "url": "https://www.zeit.de/politik/ausland/2023-09/starlink-ukraine-krieg-space-x-elon-musk-eth-zuerich",
-      "image_url": "https://img.zeit.de/politik/2023-09/starlink-ukraine-krieg/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/2023-09/starlink-ukraine-krieg/wide__822x462",
+      "image_title": "Starlink: \"Zivilisten mit Smartphones können im Krieg entscheidend sein\""
     },
     {
       "title": "Ukraine-Karte aktuell: Ukrainische Armee rückt in Region Saporischschja weiter vor",
@@ -81,39 +108,18 @@
       "image_title": "Ukraine-Karte aktuell: Ukrainische Armee rückt in Region Saporischschja weiter vor"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Carles Puigdemont: Der Königsmacher aus Waterloo",
-      "teaser": "Spaniens Sozialisten brauchen für die Wiederwahl von Premier Pedro Sánchez den katalanischen Separatistenführer Carles Puigdemont. Doch der fordert einen hohen Preis.",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/carles-puigdemont-yolanda-diaz-pedro-sanchez-wahl-spanien",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/carles-puigdemont-yolanda-diaz-pedro-sanchez-wahl-spanien-bild/wide__822x462",
-      "image_title": "Carles Puigdemont: Der Königsmacher aus Waterloo"
-    },
-    {
-      "title": "ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen bleibt schlecht",
-      "teaser": "Die Unternehmen in Deutschland sind laut einer Umfrage erneut weniger zufrieden mit den laufenden Geschäften. Für die kommenden Monate sind sie weniger pessimistisch.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/ifo-index-konjunktur-stimmung-september",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/ifo-index-konjunktur-stimmung/wide__822x462",
-      "image_title": "ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen bleibt schlecht"
-    },
-    {
-      "title": "Wohnungsbaugipfel: Baubranche lobt Regierungspläne gegen Wohnungsmangel",
-      "teaser": "Als \"umfangreicher als erwartet\" bewertet die Baubranche die Maßnahmen, die auf dem Wohnungsgipfel besprochen werden sollen. Entscheidend sei jedoch die Umsetzung,",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/wohnungsgipfel-baubranche-wohnungsmangel-wohnen-ampel-regierung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/wohnungsgipfel-baubranche-wohnungsmangel-wohnen-ampel-regierung-bild/wide__822x462",
-      "image_title": "Wohnungsbaugipfel: Baubranche lobt Regierungspläne gegen Wohnungsmangel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnungsmarkt: \"Ich ärgere mich über Interessenten, die schlecht vorbereitet sind\"",
-      "teaser": "Jan, Torben und Paul sind Mitte 20 und schon selbst Vermieter. Hier erzählen sie, warum sie auf Partys diese Info lieber verschweigen und was sie über ihre Mieter denken.",
-      "url": "https://www.zeit.de/campus/2023-09/wohnungsmarkt-vermieter-eigentum-erfahrungsbericht",
-      "image_url": "https://img.zeit.de/campus/2023-09/wohnungsmarkt-vermieter-eigentum-erfahrungsbericht-umzug/wide__822x462",
-      "image_title": "Wohnungsmarkt: \"Ich ärgere mich über Interessenten, die schlecht vorbereitet sind\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Smartphone-Kontrolle bei Kindern: Penisbilder im Klassenchat",
       "teaser": "Gewalt, Mobbing, Missbrauch: Eltern ahnen meist nicht, was in den Whatsapp-Gruppen ihrer Schulkinder passiert. Dabei wäre die Balance aus Kontrolle und Vertrauen wichtig.",
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-09/smartphone-kontrolle-kindern-klassen-chat-whatsapp-ueberwachung",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-07/klassenchat-mobbing-bild/cinema__980x420",
       "image_title": "Smartphone-Kontrolle bei Kindern: Penisbilder im Klassenchat"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Jungen und Gewalt: Reden, rennen – oder zurückschlagen?",
+      "teaser": "Kinder sind aggressiv, vor allem Jungs. Doch Jungen werden auch öfter selbst körperlich angegriffen. Ein Dilemma für Eltern, deren eigene Impulskontrolle nun gefragt ist.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-09/jungen-gewalt-aggressionen-jugendliche-eltern",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-09/aggressionsentwicklung-kinder-bild/wide__822x462",
+      "image_title": "Jungen und Gewalt: Reden, rennen – oder zurückschlagen?"
     },
     {
       "title": "Chatkontrolle: Warum Ashton Kutcher für Überwachungspläne lobbyiert",
@@ -123,11 +129,11 @@
       "image_title": "Chatkontrolle: Warum Ashton Kutcher für Überwachungspläne lobbyiert"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Jungen und Gewalt: Reden, rennen – oder zurückschlagen?",
-      "teaser": "Kinder sind aggressiv, vor allem Jungs. Doch Jungen werden auch öfter selbst körperlich angegriffen. Ein Dilemma für Eltern, deren eigene Impulskontrolle nun gefragt ist.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-09/jungen-gewalt-aggressionen-jugendliche-eltern",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-09/aggressionsentwicklung-kinder-bild/wide__822x462",
-      "image_title": "Jungen und Gewalt: Reden, rennen – oder zurückschlagen?"
+      "title": "Z+ (abopflichtiger Inhalt); Carles Puigdemont: Der Königsmacher aus Waterloo",
+      "teaser": "Spaniens Sozialisten brauchen für die Wiederwahl von Premier Pedro Sánchez den katalanischen Separatistenführer Carles Puigdemont. Doch der fordert einen hohen Preis.",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/carles-puigdemont-yolanda-diaz-pedro-sanchez-wahl-spanien",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/carles-puigdemont-yolanda-diaz-pedro-sanchez-wahl-spanien-bild/wide__822x462",
+      "image_title": "Carles Puigdemont: Der Königsmacher aus Waterloo"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Letzte Generation: Am Ende bleiben nur Farbpfützen und Wut",
@@ -151,11 +157,25 @@
       "image_title": "Väter und Töchter: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\""
     },
     {
+      "title": "Wirtschaftsstandort Deutschland: Deutsche Wirtschaft könnte durch KI um 330 Milliarden Euro wachsen",
+      "teaser": "Die deutsche Wirtschaft könnte laut einer IW-Studie 330 Milliarden Euro an Wert gewinnen. Doch mindestens die Hälfte der Unternehmen müsste die KI-Technik nutzen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/wirtschaftsleistung-wachstum-ki-kuenstliche-intelligenz-studie",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/ki-wirtschaft-deutschland-studie/wide__822x462",
+      "image_title": "Wirtschaftsstandort Deutschland: Deutsche Wirtschaft könnte durch KI um 330 Milliarden Euro wachsen"
+    },
+    {
       "title": "Euro-7: EU-Staaten stimmen für deutlich abgeschwächte Abgaswerte",
       "teaser": "Zur geplanten Einführung neuer Abgasgrenzwerte im Verkehr gibt es einen Kompromiss. Deutschland konnte sich mit seiner Forderung nach strengeren Normen nicht durchsetzen.",
       "url": "https://www.zeit.de/mobilitaet/2023-09/euro-7-abgasnorm-eu-kompromiss",
       "image_url": "https://img.zeit.de/mobilitaet/2023-09/euro-7-abgasnorm-eu-kompromiss-bild/wide__822x462",
       "image_title": "Euro-7: EU-Staaten stimmen für deutlich abgeschwächte Abgaswerte"
+    },
+    {
+      "title": "Klima-Ausreden: Aber der Markt regelt es doch …",
+      "teaser": "Würde Klimaschutz besser funktionieren, wenn es faire Wettbewerbsbedingungen gäbe? Vielleicht, nur hat es den freien Markt nie gegeben.",
+      "url": "https://www.zeit.de/wissen/2023-09/klima-ausreden-marktwirtschaft-staatliche-regulierungen",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-09/markt-illustration-javier-perez/cinema__980x420",
+      "image_title": "Klima-Ausreden: Aber der Markt regelt es doch …"
     },
     {
       "title": "Aurora Borealis: Polarlichter leuchten über Teilen Deutschlands",
@@ -172,17 +192,22 @@
       "image_title": "Osiris-Rex: Nasa-Sonde bringt nach siebenjähriger Mission Asteroidengestein auf die Erde"
     },
     {
-      "title": "Flutkatastrophe: Behördenvertreter kommen nach Überschwemmungen in Libyen vor Gericht",
-      "teaser": "Nach der Flutkatastrophe hat Libyens Justiz 16 Menschen angeklagt, darunter den Leiter der nationalen Staudammbehörde. Noch immer werden Tausende Menschen vermisst.",
+      "title": "Flutkatastrophe: Behördenvertreter müssen nach Überschwemmungen in Libyen vor Gericht",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-09/libyen-ueberschwemmungen-anklagen-staudaemme",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-09/libyen-ueberschwemmungen-anklagen-staudaemme-bild/wide__822x462",
-      "image_title": "Flutkatastrophe: Behördenvertreter kommen nach Überschwemmungen in Libyen vor Gericht"
+      "image_title": "Flutkatastrophe: Behördenvertreter müssen nach Überschwemmungen in Libyen vor Gericht"
     },
     {
       "title": "Baden-Württemberg: Thomas Strobl zieht sich von Parteispitze zurück",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/baden-wuerttemberg-cdu-thomas-strobl-rueckzug",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-09/baden-wuerttemberg-cdu-thomas-strobl-rueckzug-bild/wide__822x462",
       "image_title": "Baden-Württemberg: Thomas Strobl zieht sich von Parteispitze zurück"
+    },
+    {
+      "title": "ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen bleibt schlecht",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/ifo-index-konjunktur-stimmung-september",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/ifo-index-konjunktur-stimmung/wide__822x462",
+      "image_title": "ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen bleibt schlecht"
     },
     {
       "title": "Künstliche Intelligenz: Amazon investiert Milliarden in KI-Entwickler Anthropic",
@@ -215,12 +240,6 @@
       "image_title": "Statistisches Bundesamt: Zahl der Bauaufträge legt um fast zehn Prozent zu"
     },
     {
-      "title": "Frankreich: Konservative Opposition behält wohl Mehrheit im Senat",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/frankreich-senat-teilwahl-konservative",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/frankreich-senat-teilwahl-konservative-2/wide__822x462",
-      "image_title": "Frankreich: Konservative Opposition behält wohl Mehrheit im Senat"
-    },
-    {
       "title": "Italien: Mafiaboss Messina Denaro ist tot",
       "url": "https://www.zeit.de/gesellschaft/2023-09/mafiaboss-messina-denaro-gefaengnis-tot",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/mafiaboss-messina-denaro-gefaengnis-tot-bild/wide__822x462",
@@ -233,24 +252,18 @@
       "image_title": "Elektromobilität: Bund startet Förderprogramm zu Solarstrom für Elektroautos"
     },
     {
-      "title": "Migration: Nancy Faeser lehnt Obergrenze ab – Merz warnt vor \"Kontrollverlust\"",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/migration-nancy-faeser-gefluechtete-obergrenze",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/migration-nancy-faeser-gefluechtete-obergrenze-bild/wide__822x462",
-      "image_title": "Migration: Nancy Faeser lehnt Obergrenze ab – Merz warnt vor \"Kontrollverlust\""
+      "title": "Z+ (abopflichtiger Inhalt); Feminismus : Wenn privilegierte Frauen vor allem an sich denken",
+      "teaser": "Viele bekannte Feministinnen beklagen das Patriarchat, solidarisieren sich aber zu wenig mit Schlechtergestellten. Unsere Autorin findet: Der Feminismus wird zu elitär.",
+      "url": "https://www.zeit.de/arbeit/2023-09/feminismus-frauen-oeffentlichkeit-prominenz-privileg",
+      "image_url": "https://img.zeit.de/arbeit/2023-09/feminismus-frauen-oeffentlichkeit/wide__822x462",
+      "image_title": "Feminismus : Wenn privilegierte Frauen vor allem an sich denken"
     },
     {
       "title": "Rote Kleidung: Salute!",
       "teaser": "Männer kleiden sich häufig in zurückhaltenden Farben. Doch nun überall: Bordeauxrot! Neben dem Weingeschmack wollen sie damit vielleicht ihre Unangepasstheit ausdrücken.",
       "url": "https://www.zeit.de/zeit-magazin/2023/40/rote-kleidung-maenner-stil",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-09/rote-kleidung-maenner-stil-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-09/rote-kleidung-maenner-stil-bild/wide__822x462",
       "image_title": "Rote Kleidung: Salute!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Feminismus: Wenn privilegierte Frauen vor allem an sich denken",
-      "teaser": "Viele bekannte Feministinnen beklagen das Patriarchat, solidarisieren sich aber zu wenig mit Schlechtergestellten. Unsere Autorin findet: Der Feminismus wird zu elitär.",
-      "url": "https://www.zeit.de/arbeit/2023-09/feminismus-frauen-oeffentlichkeit-prominenz-privileg",
-      "image_url": "https://img.zeit.de/arbeit/2023-09/feminismus-frauen-oeffentlichkeit/wide__822x462",
-      "image_title": "Feminismus: Wenn privilegierte Frauen vor allem an sich denken"
     },
     {
       "title": "Wirtschaft : Wie weit komme ich?",
@@ -259,18 +272,18 @@
       "image_url": "https://img.zeit.de/2023/40/packshot-23-40-1000x620.png/imagegroup/original__1000x620"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Pistazien: Paradies ist, wo Pistazien sind",
-      "teaser": "Je älter ein Pistazienbaum wird, desto mehr Nüsse bringt er hervor. Das passt zum griechischen Lebensstil: sigá sigá. Ein Besuch auf der Pistazieninsel Ägina.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/pistazien-griechenland-yamas-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/pistazien-griechenland-yamas-wochenmarkt-bild/cinema__980x420",
-      "image_title": "Pistazien: Paradies ist, wo Pistazien sind"
+      "title": "Z+ (abopflichtiger Inhalt); BenQ Screenbar Halo: Ein Lichtstab fürs Homeoffice",
+      "teaser": "Je grauer der Vormittag, desto wichtiger die Schreibtischlampe. Schicke \"Lightbars\" klemmen oben auf dem Monitor. Das soll auch besser für die Augen sein. Ach, wirklich?",
+      "url": "https://www.zeit.de/digital/2023-09/benq-screenbar-halo-monitorlampe-test",
+      "image_url": "https://img.zeit.de/digital/2023-09/benq-screenbar-halo-nice-nuetzlich/cinema__980x420",
+      "image_title": "BenQ Screenbar Halo: Ein Lichtstab fürs Homeoffice"
     },
     {
-      "title": "Bundesliga-Rückschau: Das Phänomen der Liga",
-      "teaser": "Was den FC Augsburg so besonders macht. Warum es in der Bundesliga so leicht ist, Tore zu schießen. Und weshalb Oliver Kahn Humor hat. Alles Wichtige vom 5. Spieltag",
-      "url": "https://www.zeit.de/sport/2023-09/bundesliga-rueckschau-fc-augsburg-harry-kane",
-      "image_url": "https://img.zeit.de/sport/2023-09/fc-augsburg/wide__822x462",
-      "image_title": "Bundesliga-Rückschau: Das Phänomen der Liga"
+      "title": "Z+ (abopflichtiger Inhalt); Moritz und Franz Wagner • Das Beste aus Z+: \"Sexy ist das Gegenteil von deutsch\"",
+      "teaser": "Die Brüder Moritz und Franz Wagner sind in Berlin-Prenzlauer Berg aufgewachsen. Nun sind sie Basketball-Weltmeister. Sie reden über Ekstase, Deutschsein und 1.-Mai-Demos.",
+      "url": "https://www.zeit.de/2023/40/moritz-franz-wagner-basketball-wm-nba-berlin",
+      "image_url": "https://img.zeit.de/2023/40/boah-krass-bild-1/wide__822x462",
+      "image_title": "Moritz und Franz Wagner • Das Beste aus Z+: \"Sexy ist das Gegenteil von deutsch\""
     },
     {
       "title": "Berlin-Marathon: Die Frau, die immer schneller wird",
@@ -289,8 +302,8 @@
       "url": "https://www.zeit.de/gesellschaft/2023-09/sekten-access-consciousness-esoterik-beziehung-trennung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Energieversorgung: Hier kämpfen sie täglich gegen den Blackout",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/energieversorgung-stromnetz-windenergie-energiewende-blackout"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsmarkt: \"Ich ärgere mich über Interessenten, die schlecht vorbereitet sind\"",
+      "url": "https://www.zeit.de/campus/2023-09/wohnungsmarkt-vermieter-eigentum-erfahrungsbericht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Aufwachsen ohne Vater: Erzeuger, Mutter, Kind",
@@ -331,8 +344,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-09/ob-wahl-in-nordhausen-parteiloser-gewinnt-gegen-afd-kandidaten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Energieversorgung: Hier kämpfen sie täglich gegen den Blackout",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/energieversorgung-stromnetz-windenergie-energiewende-blackout"
+      "title": "Z+ (abopflichtiger Inhalt); Wohnungsmarkt: \"Ich ärgere mich über Interessenten, die schlecht vorbereitet sind\"",
+      "url": "https://www.zeit.de/campus/2023-09/wohnungsmarkt-vermieter-eigentum-erfahrungsbericht"
     },
     {
       "title": "Thüringen: AfD-Kandidat scheitert bei Oberbürgermeisterwahl in Nordhausen",
@@ -351,10 +364,17 @@
       "url": "https://www.zeit.de/gesellschaft/2023-09/berlin-marathon-letzte-generation-klimaprotest"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Pistazien: Paradies ist, wo Pistazien sind",
+      "teaser": "Je älter ein Pistazienbaum wird, desto mehr Nüsse bringt er hervor. Das passt zum griechischen Lebensstil: sigá sigá. Ein Besuch auf der Pistazieninsel Ägina.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/pistazien-griechenland-yamas-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/pistazien-griechenland-yamas-wochenmarkt-bild/cinema__980x420",
+      "image_title": "Pistazien: Paradies ist, wo Pistazien sind"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Klimaschutz: \"Uns läuft die Zeit davon\"",
       "teaser": "Einige Inselstaaten wollen Industrieländer zu mehr Klimaschutz verpflichten und klagen vor dem Internationalen Seegerichtshof in Hamburg. Das könnte etwas bewirken.",
       "url": "https://www.zeit.de/hamburg/2023-09/klimaschutz-inselstaaten-klage-prozess-seegerichtshof",
-      "image_url": "https://img.zeit.de/hamburg/2023-09/klimaschutz-inselstaaten-klage-prozess-seegerichtshof-inseln/cinema__980x420",
+      "image_url": "https://img.zeit.de/hamburg/2023-09/klimaschutz-inselstaaten-klage-prozess-seegerichtshof-inseln/wide__822x462",
       "image_title": "Klimaschutz: \"Uns läuft die Zeit davon\""
     },
     {
@@ -363,13 +383,6 @@
       "url": "https://www.zeit.de/digital/games/2023-09/mortal-kombat-1-launch-video-fantasy-gewalt",
       "image_url": "https://img.zeit.de/digital/games/2023-09/mortal-kombat-1-launch-video-fantasy-gewalt-bild/wide__822x462",
       "image_title": "\"Mortal Kombat 1\": Diese Wirbelsäule sieht fantastisch aus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Herzhafte Canelés: Kuchen für den salzigen Typ",
-      "teaser": "Canelés kennt man eigentlich als süße Mini-Küchlein, hier debütieren sie dank Zucchini, getrockneten Tomaten und Käse als herzhafte Version. Sie schmecken warm oder kalt.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/herzhafte-caneles-zucchini-getrocknete-tomaten-comte-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/herzhafte-caneles/wide__822x462",
-      "image_title": "Herzhafte Canelés: Kuchen für den salzigen Typ"
     },
     {
       "title": "Verlagsangebot: 10 Länder, die Sie mindestens einmal im Leben besuchen sollten",
@@ -457,11 +470,11 @@
       "image_title": "Was jetzt? – Die Woche: Antisemitische Witze – wo hört die Jugendsünde auf?"
     },
     {
-      "title": "Wahlkampf in Polen: Polens Außenminister Zbigniew Rau wirft Olaf Scholz Einmischung vor",
-      "teaser": "Bundeskanzler Scholz hatte Kritik an möglichen Unregelmäßigkeiten bei der Visavergabe in Polen geübt. Außenminister Rau warf ihm vor, seine Kompetenzen zu überschreiten.",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/polen-wahl",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/polen-wahl-bild/wide__822x462",
-      "image_title": "Wahlkampf in Polen: Polens Außenminister Zbigniew Rau wirft Olaf Scholz Einmischung vor"
+      "title": "Baden-Württemberg: Thomas Strobl zieht sich von Parteispitze zurück",
+      "teaser": "In der Polizeiaffäre geriet Thomas Strobl unter Druck. Nun verzichtet Baden-Württembergs CDU-Chef auf eine erneute Kandidatur – Innenminister will er offenbar bleiben.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/baden-wuerttemberg-cdu-thomas-strobl-rueckzug",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/baden-wuerttemberg-cdu-thomas-strobl-rueckzug-bild/wide__822x462",
+      "image_title": "Baden-Württemberg: Thomas Strobl zieht sich von Parteispitze zurück"
     },
     {
       "title": "Parlamentswahl in Polen: Wie blicken Sie auf Polen vor der Wahl?",
@@ -471,10 +484,17 @@
       "image_title": "Parlamentswahl in Polen: Wie blicken Sie auf Polen vor der Wahl?"
     },
     {
+      "title": "Flutkatastrophe: Behördenvertreter müssen nach Überschwemmungen in Libyen vor Gericht",
+      "teaser": "Nach der Flutkatastrophe hat Libyens Justiz 16 Menschen angeklagt, darunter den Leiter der nationalen Staudammbehörde. Noch immer werden Tausende Menschen vermisst.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-09/libyen-ueberschwemmungen-anklagen-staudaemme",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-09/libyen-ueberschwemmungen-anklagen-staudaemme-bild/cinema__980x420",
+      "image_title": "Flutkatastrophe: Behördenvertreter müssen nach Überschwemmungen in Libyen vor Gericht"
+    },
+    {
       "title": "Katholische Kirche: Hengsbach-Denkmal in Essen nach Missbrauchsvorwürfen abgebaut",
       "teaser": "Nach Missbrauchsvorwürfen gegen Ex-Bischof Hengsbach hat das Bistum seine Statue entfernen lassen, zugunsten eines Gedächtnisorts. Derweil wurden weitere Fälle gemeldet.",
       "url": "https://www.zeit.de/gesellschaft/2023-09/hengsbach-denkmal-essen-bistum-kirche",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-09/hengsbach-denkmal-essen-bistum-kirche-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-09/hengsbach-denkmal-essen-bistum-kirche-bild/wide__822x462",
       "image_title": "Katholische Kirche: Hengsbach-Denkmal in Essen nach Missbrauchsvorwürfen abgebaut"
     },
     {
@@ -485,17 +505,17 @@
       "image_title": "Italien: Mafiaboss Messina Denaro ist tot"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Prostitution in Berlin: Die Box",
-      "teaser": "Ein Ort, gerade groß genug für Sex im Stehen – in Berlin zeigt sich, was die Liberalisierung der Prostitution bedeutet. Unterwegs mit Dorothee Bär, die dagegen kämpft.",
-      "url": "https://www.zeit.de/2023/40/prostitution-berlin-kurfuerstenstrasse-dorothee-baer-sexkaufverbot-verrichtungsbox",
-      "image_url": "https://img.zeit.de/2023/40/die-box-bild2/wide__822x462",
-      "image_title": "Prostitution in Berlin: Die Box"
+      "title": "ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen bleibt schlecht",
+      "teaser": "Die Unternehmen in Deutschland sind laut einer Umfrage erneut weniger zufrieden mit den laufenden Geschäften. Für die kommenden Monate sind sie weniger pessimistisch.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/ifo-index-konjunktur-stimmung-september",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/ifo-index-konjunktur-stimmung/cinema__980x420",
+      "image_title": "ifo-Geschäftsklimaindex: Stimmung in deutschen Unternehmen bleibt schlecht"
     },
     {
       "title": "Künstliche Intelligenz: Amazon investiert Milliarden in KI-Entwickler Anthropic",
       "teaser": "Der Onlinehändler Amazon steigt beim OpenAI-Rivalen Anthropic ein. Damit will sich der Konzern bevorzugten Zugriff auf die Technologie des Start-ups sichern.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/amazon-ki-entwickler-anthropic-beteiligung-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/amazon-ki-entwickler-anthropic-beteiligung-kuenstliche-intelligenz-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/amazon-ki-entwickler-anthropic-beteiligung-kuenstliche-intelligenz-bild/wide__822x462",
       "image_title": "Künstliche Intelligenz: Amazon investiert Milliarden in KI-Entwickler Anthropic"
     },
     {
@@ -504,13 +524,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-09/wohnungsgipfel-kanzleramt-baubranche-robert-habeck",
       "image_url": "https://img.zeit.de/wirtschaft/2023-09/wohnungsgipfel-bundesregierung-massnahmen-baubranche/wide__822x462",
       "image_title": "Bau- und Wohnungsgipfel: Bundesregierung kündigt Maßnahmen zur Unterstützung der Baubranche an"
-    },
-    {
-      "title": "Statistisches Bundesamt: Zahl der Bauaufträge legt um fast zehn Prozent zu",
-      "teaser": "Nach Monaten der Flaute hat sich die Lage im Bauhauptgewerbe zur Jahresmitte spürbar gebessert. Die Branche verzeichnete im Juli das stärkste Auftragsplus seit Ende 2021.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/wohnen-bauen-bauhauptgewerbe-auftraege-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/wohnen-bauen-bauhauptgewerbe-auftraege-statistisches-bundesamt-bild/wide__822x462",
-      "image_title": "Statistisches Bundesamt: Zahl der Bauaufträge legt um fast zehn Prozent zu"
     },
     {
       "title": "WirtschaftsWocheChinesischer Autobauer: Konkurrenz für VW und Co.: Chery greift in Deutschland an",
@@ -528,7 +541,7 @@
     },
     {
       "title": "Kinderlosigkeit: Warum willst du keine Kinder?",
-      "teaser": "Will ich überhaupt Kinder? Die Frage ist mindestens so alt wie der Feminismus. Und jede Generation stellt sie sich neu. Wir würden gerne mit euch darüber sprechen. 758 Kommentare",
+      "teaser": "Will ich überhaupt Kinder? Die Frage ist mindestens so alt wie der Feminismus. Und jede Generation stellt sie sich neu. Wir würden gerne mit euch darüber sprechen. 772 Kommentare",
       "url": "https://www.zeit.de/zett/2023-06/kinderlosigkeit-gruende-kinderwunsch-aufruf",
       "image_url": "https://img.zeit.de/zett/2023-06/kinderlosigkeit-gruende-kinderwunsch-aufruf-frau/cinema__980x420",
       "image_title": "Kinderlosigkeit: Warum willst du keine Kinder?"
@@ -583,18 +596,18 @@
       "image_title": "Bergkarabach: Tausende Einwohner suchen nach Gewalt Zuflucht in Armenien"
     },
     {
-      "title": "OB-Wahl in Nordhausen: AfD scheitert bei Stichwahl zum Oberbürgermeister",
-      "teaser": "Bei der Oberbürgermeisterwahl in Nordhausen hat der parteilose Amtsinhaber Kai Buchmann gegen Jörg Prophet von der AfD gewonnen. In der ersten Runde lag er noch hinten.",
-      "url": "https://www.zeit.de/video/2023-09/6337781701112/ob-wahl-in-nordhausen-afd-scheitert-bei-stichwahl-zum-oberbuergermeister",
-      "image_url": "https://img.zeit.de/video/2023-09/6337781701112-still/wide__822x462",
-      "image_title": "OB-Wahl in Nordhausen: AfD scheitert bei Stichwahl zum Oberbürgermeister"
+      "title": "Russlands Angriffskrieg: Ukraine meldet Angriffe auf Hafen von Odessa",
+      "teaser": "Das ukrainische Militär hat den Abschuss von 19 Drohnen und elf Raketen gemeldet. Eine Frau soll verletzt sowie Infrastruktur schwer beschädigt worden sein.",
+      "url": "https://www.zeit.de/video/2023-09/6337791466112/russlands-angriffskrieg-ukraine-meldet-angriffe-auf-hafen-von-odessa",
+      "image_url": "https://img.zeit.de/video/2023-09/6337791466112-still/wide__822x462",
+      "image_title": "Russlands Angriffskrieg: Ukraine meldet Angriffe auf Hafen von Odessa"
     },
     {
-      "title": "CSU-Parteitag: Markus Söder erneut zum Parteivorsitzenden der CSU gewählt",
-      "teaser": "Zwei Wochen vor der Landtagswahl in Bayern hat die CSU Markus Söder klar als Parteichef bestätigt. Er erhielt 96,56 Prozent der Stimmen – sein neuer Rekordwert.",
-      "url": "https://www.zeit.de/video/2023-09/6337705272112/csu-parteitag-markus-soeder-erneut-zum-parteivorsitzenden-der-csu-gewaehlt",
-      "image_url": "https://img.zeit.de/video/2023-09/6337705272112-still/wide__822x462",
-      "image_title": "CSU-Parteitag: Markus Söder erneut zum Parteivorsitzenden der CSU gewählt"
+      "title": "Hollywood-Streik: US-Drehbuchautoren einigen sich vorläufig mit Filmstudios",
+      "teaser": "Die Details des neuen Vertrags bleiben zunächst unklar. Die Writers Guild of America war unter anderem wegen der als zu niedrig empfundenen Vergütung in Streik getreten.",
+      "url": "https://www.zeit.de/video/2023-09/6337790814112/hollywood-streik-us-drehbuchautoren-einigen-sich-vorlaeufig-mit-filmstudios",
+      "image_url": "https://img.zeit.de/video/2023-09/6337790814112-still/wide__822x462",
+      "image_title": "Hollywood-Streik: US-Drehbuchautoren einigen sich vorläufig mit Filmstudios"
     },
     {
       "title": "USA: Asteroiden-Probe von Nasa-Sonde ist in Wüste von Utah gelandet",
@@ -724,11 +737,11 @@
       "image_title": "Wohnungssuche : Suchst du gerade verzweifelt ein WG-Zimmer?"
     },
     {
-      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
-      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__350x197__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Berufseinstieg als Ingenieur: \"Baustellen gehen nur langsam voran, weil Bauingenieure fehlen\"",
@@ -767,7 +780,7 @@
     },
     {
       "title": "Verkehrsminister: Volker Wissing lehnt Strafzölle für Elektroautos aus China ab",
-      "teaser": "Die EU wirft China vor, seine E-Autohersteller zu subventionieren. Doch Strafzölle könnten der deutschen Wirtschaft massiv schaden, warnt der Bundesverkehrsminister. 112 Kommentare",
+      "teaser": "Die EU wirft China vor, seine E-Autohersteller zu subventionieren. Doch Strafzölle könnten der deutschen Wirtschaft massiv schaden, warnt der Bundesverkehrsminister. 128 Kommentare",
       "url": "https://www.zeit.de/mobilitaet/2023-09/e-autos-china-volker-wissing-strafzoelle-elektroautos",
       "image_url": "https://img.zeit.de/mobilitaet/2023-09/e-autos-china-volker-wissing-strafzoelle-elektroautos-bild-2/cinema__980x420",
       "image_title": "Verkehrsminister: Volker Wissing lehnt Strafzölle für Elektroautos aus China ab"
@@ -801,10 +814,17 @@
       "image_title": "Reeperbahn Festival: Klingt gut!"
     },
     {
+      "title": "Bundesliga-Rückschau: Das Phänomen der Liga",
+      "teaser": "Was den FC Augsburg so besonders macht. Warum es in der Bundesliga so leicht ist, Tore zu schießen. Und weshalb Oliver Kahn Humor hat. Alles Wichtige vom 5. Spieltag",
+      "url": "https://www.zeit.de/sport/2023-09/bundesliga-rueckschau-fc-augsburg-harry-kane",
+      "image_url": "https://img.zeit.de/sport/2023-09/fc-augsburg/cinema__980x420",
+      "image_title": "Bundesliga-Rückschau: Das Phänomen der Liga"
+    },
+    {
       "title": "Bundesliga, 5. Spieltag – Sonntag: Frankfurt und Freiburg trennen sich torlos",
       "teaser": "Im zweiten Sonntagsspiel gab es ein Remis zwischen der Eintracht und dem SC Freiburg. Nach dem Sieg gegen Heidenheim steht Bayer Leverkusen auf dem zweiten Tabellenplatz.",
       "url": "https://www.zeit.de/sport/2023-09/bundesliga-5-spieltag-sonntag-leverkusen-heidenheim-frankfurt-freiburg",
-      "image_url": "https://img.zeit.de/sport/2023-09/eintracht-frankfurt-sc-freiburg/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2023-09/eintracht-frankfurt-sc-freiburg/wide__822x462",
       "image_title": "Bundesliga, 5. Spieltag – Sonntag: Frankfurt und Freiburg trennen sich torlos"
     },
     {
@@ -813,13 +833,6 @@
       "url": "https://www.zeit.de/sport/2023-09/berlin-marathon-tigist-assefa-weltrekord-kipchoge",
       "image_url": "https://img.zeit.de/sport/2023-09/tigist-assefa-berlin-marathon/wide__822x462",
       "image_title": "Berlin-Marathon: Die Frau, die immer schneller wird"
-    },
-    {
-      "title": "Berlin: Tigst Assefa läuft beim Berlin-Marathon Weltrekord",
-      "teaser": "Nach 2:11:53 Stunden kam die Äthiopierin Tigst Assefa ins Ziel – ein neuer Weltrekord. Bei den Männern gewann Eliud Kipchoge, Amanal Petros lief deutschen Rekord.",
-      "url": "https://www.zeit.de/sport/2023-09/berlin-marathon-assefa-kosgei-weltrekord",
-      "image_url": "https://img.zeit.de/sport/2023-09/berlin-marathon-assefa-kosgei-weltrekord-bild-2/wide__822x462",
-      "image_title": "Berlin: Tigst Assefa läuft beim Berlin-Marathon Weltrekord"
     },
     {
       "title": "Studium: Was sind deine Serientipps für den Herbst?",
@@ -871,36 +884,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Kriminalität: Mutmaßliche Hitlergrüße bei Oktoberfest in Sachsen",
-      "url": "https://www.zeit.de/news/2023-09/25/mutmassliche-hitlergruesse-bei-oktoberfest-in-sachsen"
+      "title": "2. Bundesliga: Schultereckgelenkssprengung: Lange Pause für Ujah",
+      "url": "https://www.zeit.de/news/2023-09/25/schultereckgelenkssprengung-lange-pause-fuer-ujah"
     },
     {
-      "title": "Gesellschaft: Bundesweites Singen am Tag der Deutschen Einheit",
-      "url": "https://www.zeit.de/news/2023-09/25/bundesweites-singen-am-tag-der-deutschen-einheit"
+      "title": "Atomstreit: Iran warnt: Atominspektionen «nicht selbstverständlich»",
+      "url": "https://www.zeit.de/news/2023-09/25/iran-warnt-atominspektionen-nicht-selbstverstaendlich"
     },
     {
-      "title": "Notfall: Zündfähige Rohrbombe gefunden: Kontrollierte Explosion",
-      "url": "https://www.zeit.de/news/2023-09/25/zuendfaehige-rohrbombe-gefunden-kontrollierte-explosion"
+      "title": "Katastrophenschutz: Deich im Jerichower Land wird zurückverlegt",
+      "url": "https://www.zeit.de/news/2023-09/25/deich-im-jerichower-land-wird-zurueckverlegt"
     },
     {
-      "title": "Extremismus: Islamische Mütze als Accessoire: Mann zusammengeschlagen",
-      "url": "https://www.zeit.de/news/2023-09/25/islamische-muetze-als-accessoire-mann-zusammengeschlagen"
+      "title": "Unfälle: Transporter mit ungesichertem Frischfleisch kippt auf A24 um",
+      "url": "https://www.zeit.de/news/2023-09/25/transporter-mit-ungesichertem-frischfleisch-kippt-auf-a24-um"
     },
     {
-      "title": "Leute: Krassnitzer dreht mit Ehefrau: In erster Linie Schauspieler",
-      "url": "https://www.zeit.de/news/2023-09/25/krassnitzer-dreht-mit-ehefrau-in-erster-linie-schauspieler"
+      "title": "Industrie: Bayerische Wirtschaft sieht Entspannung bei Rohstoffpreisen",
+      "url": "https://www.zeit.de/news/2023-09/25/bayerische-wirtschaft-sieht-entspannung-bei-rohstoffpreisen"
     },
     {
-      "title": "Landkreis Esslingen: Von Streugut-Paketen getroffen: Frau stirbt auf Pferdehof",
-      "url": "https://www.zeit.de/news/2023-09/25/von-streugut-paketen-getroffen-frau-stirbt-auf-pferdehof"
+      "title": "Ermittlungen: 83-Jähriger nach Messerattacke in Psychiatrie",
+      "url": "https://www.zeit.de/news/2023-09/25/83-jaehriger-nach-messerattacke-in-psychiatrie"
     },
     {
-      "title": "Unternehmen: Start-up-Monitor: Lage für Gründer schwierig",
-      "url": "https://www.zeit.de/news/2023-09/25/start-up-monitor-lage-fuer-gruender-schwierig"
+      "title": "Flughafen Leipzig/Halle: Zentrum für klimaneutrales Fliegen geplant",
+      "url": "https://www.zeit.de/news/2023-09/25/zentrum-fuer-klimaneutrales-fliegen-geplant"
     },
     {
-      "title": "Justiz: Gericht: Behörde darf Nachweis für Masernimpfung fordern",
-      "url": "https://www.zeit.de/news/2023-09/25/gericht-behoerde-darf-nachweis-fuer-masernimpfung-fordern"
+      "title": "Notfälle: Kletterer stürzt im Harz in die Tiefe und stirbt",
+      "url": "https://www.zeit.de/news/2023-09/25/kletterer-stuerzt-im-harz-in-die-tiefe-und-stirbt"
     }
   ]
 }
