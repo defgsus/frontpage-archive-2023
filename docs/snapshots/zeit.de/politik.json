@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-25T02:18:54",
+  "timestamp": "2023-09-25T03:11:42",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Kosovo: Polizei zerschlägt bewaffneten Kampftrupp",
+      "teaser": "Die Gewalt im Kosovo eskaliert. Maskierte und schwer bewaffnete Serben kämpfen stundenlang gegen Einsatzkräfte. Später melden die Behörden einen Erfolg.",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/kosovo-polizei-kampftrupp-serbien",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/kosovo-serbien-kampftrupp-2/cinema__980x420"
+    },
+    {
       "title": "Andreas Jung: \"Es darf keinen Rechtsruck in der CDU geben\"",
       "teaser": "Der stellvertretende CDU-Chef distanziert sich von Überlegungen zu einer möglichen Zusammenarbeit mit der AfD. Für seine Partei wäre das der \"Weg ins Verderben\".",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/andreas-jung-cdu-rechtsruck-afd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/andreas-jung-cdu-rechtsruck-afd-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/andreas-jung-cdu-rechtsruck-afd-bild/wide__822x462",
+      "image_title": "Andreas Jung: \"Es darf keinen Rechtsruck in der CDU geben\""
     },
     {
       "title": "Frankreich: Konservative Opposition behält wohl Mehrheit im Senat",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-09/frankreich-senat-teilwahl-konservative",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/frankreich-senat-teilwahl-konservative-2/wide__822x462",
       "image_title": "Frankreich: Konservative Opposition behält wohl Mehrheit im Senat"
-    },
-    {
-      "title": "Liveblog: Ukraine-Krieg: Russland meldet weiteren Drohnenangriff auf grenznahe Stadt Kursk",
-      "teaser": "Ein Video zeigt Rauchwolken nahe dem Flughafen in der grenznahen Stadt Kursk in Russland. Die Ukraine meldet Tote und Verletzte nach Angriffen auf Cherson. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-russland-krieg-kursk-drohnenangriff/wide__822x462",
-      "image_title": "Ukraine-Krieg: Russland meldet weiteren Drohnenangriff auf grenznahe Stadt Kursk"
     },
     {
       "title": "\"Diktator\"-Aussage: China bestellt wegen Baerbock-Äußerung deutsche Botschafterin ein",
@@ -148,13 +148,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-09/mitte-studie-2023-rechtsextremismus-demokratie"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); NS-Rhetorik der AfD : Wie Hitler klingt Höcke?",
-      "teaser": "AfD-Politiker Björn Höcke verwendet immer wieder Begriffe, die auch in Adolf Hitlers Reden und in nationalsozialistischen Schriften zu finden sind. Ein Überblick",
-      "url": "https://www.zeit.de/2023/40/ns-rhetorik-afd-bjoern-hoecke",
-      "image_url": "https://img.zeit.de/2023/40/ns-rhetorik-afd-sprachgebrauch-rechtspopulismus-teaserbild/wide__822x462",
-      "image_title": "NS-Rhetorik der AfD : Wie Hitler klingt Höcke?"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Aiwanger-Affäre: \"Erinnerungspolitisch erleben wir in Deutschland dunkle Tage\"",
       "teaser": "Was hat Hubert Aiwanger angerichtet? CDU-Politikerin Karin Prien sagt, er schadet Deutschland. Er ist Opfer einer üblen Kampagne, meint der Historiker Michael Wolffsohn.",
       "url": "https://www.zeit.de/2023/38/hubert-aiwanger-karin-prien-michael-wolffsohn",
@@ -162,10 +155,24 @@
       "image_title": "Aiwanger-Affäre: \"Erinnerungspolitisch erleben wir in Deutschland dunkle Tage\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Korruption beim Wehrdienst: Alle haben Angst",
+      "teaser": "Ukrainische Männer versuchen sich vom Militärdienst freizukaufen. Präsident Wolodymyr Selenskyj geht nun rabiat gegen diese Korruption vor. Bekommt er so mehr Soldaten?",
+      "url": "https://www.zeit.de/politik/ausland/2023-08/korruption-wehrdienst-ukraine-wolodymyr-selenskyj",
+      "image_url": "https://img.zeit.de/politik/2023-08/korruption-wehrdienst-ukraine-wolodymyr-selenskyj-bild/wide__822x462",
+      "image_title": "Korruption beim Wehrdienst: Alle haben Angst"
+    },
+    {
+      "title": "Liveblog: Ukraine-Krieg: Russland meldet weiteren Drohnenangriff auf grenznahe Stadt Kursk",
+      "teaser": "Ein Video zeigt Rauchwolken nahe dem Flughafen in der grenznahen Stadt Kursk in Russland. Die Ukraine meldet Tote und Verletzte nach Angriffen auf Cherson. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-russland-krieg-kursk-drohnenangriff/cinema__980x420",
+      "image_title": "Ukraine-Krieg: Russland meldet weiteren Drohnenangriff auf grenznahe Stadt Kursk"
+    },
+    {
       "title": "Armenien und Russland: Regierungschef deutet Armeniens Abkehr von Russland an",
-      "teaser": "Der armenische Ministerpräsident Nikol Paschinjan hat einen neuen außenpolitischen Kurs angekündigt. An der Grenze sind die ersten Menschen aus Bergkarabach eingetroffen. 100 Kommentare",
+      "teaser": "Der armenische Ministerpräsident Nikol Paschinjan hat einen neuen außenpolitischen Kurs angekündigt. An der Grenze sind die ersten Menschen aus Bergkarabach eingetroffen.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/armenien-russland-bergkarabach-nikol-paschinjan-aserbaidschan",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/berg-karabach-suedkaukasus-karabakh-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/berg-karabach-suedkaukasus-karabakh-2/wide__822x462",
       "image_title": "Armenien und Russland: Regierungschef deutet Armeniens Abkehr von Russland an"
     },
     {
@@ -179,14 +186,14 @@
       "title": "Brandenburg: CDU-Politiker Philipp Wacker neuer Bürgermeister von Wittstock/Dosse",
       "teaser": "Die CDU stellt den neuen Bürgermeister in der brandenburgischen Kleinstadt Wittstock/Dosse. Zur Wahl stand auch ein verurteilter Neonazi.",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/brandenburg-philipp-wacker-cdu-wittstock-dosse",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/rathaus-wittstock/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/rathaus-wittstock/cinema__980x420",
       "image_title": "Brandenburg: CDU-Politiker Philipp Wacker neuer Bürgermeister von Wittstock/Dosse"
     },
     {
       "title": "Ukraine-Überblick: Ausgangssperre in Donezk, Luftangriffe auf die Region Cherson",
       "teaser": "In der russisch besetzten Region Donezk wurde eine nächtliche Ausgangssperre verhängt. Die Ukraine meldet zwei Tote nach Angriffen auf die Gegend um Cherson. Der Tag",
       "url": "https://www.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-ausgangssperre-donezk-fliegerbomben-cherson",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-russland-krieg-donezk/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-russland-krieg-donezk/wide__822x462",
       "image_title": "Ukraine-Überblick: Ausgangssperre in Donezk, Luftangriffe auf die Region Cherson"
     },
     {
@@ -200,14 +207,14 @@
       "title": "Spanien: 30.000 Menschen demonstrieren gegen mögliche Amnestie für Separatisten",
       "teaser": "Spaniens geschäftsführender Ministerpräsident erwägt eine Amnestie für Separatisten, wenn diese ihm bei der Regierungsbildung helfen. Tausende Menschen protestieren.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/spanien-katalonien-separatisten-amnestie-protest",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/spanien-protest-moegliche-amnestie-separatisten-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/spanien-protest-moegliche-amnestie-separatisten-bild/cinema__980x420",
       "image_title": "Spanien: 30.000 Menschen demonstrieren gegen mögliche Amnestie für Separatisten"
     },
     {
       "title": "Volker Bouffier: \"Die Migrationslage ist schwieriger als 2015\"",
       "teaser": "Menschen dürfen sich nicht fremd im eigenen Land fühlen, warnt Volker Bouffier. Hessens Ex-Regierungschef über Migration, die AfD und Sympathien für die Grünen",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/volker-bouffier-cdu-migrationspolitik-hessen-landtagswahl",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/volker-bouffier-cdu-migrationspolitik-hessen-landtagswahl-bild-4/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/volker-bouffier-cdu-migrationspolitik-hessen-landtagswahl-bild-4/wide__822x462",
       "image_title": "Volker Bouffier: \"Die Migrationslage ist schwieriger als 2015\""
     },
     {
@@ -221,14 +228,14 @@
       "title": "Ukraine-Karte aktuell: Ukraine meldet Durchbruch russischer Verteidigungslinie",
       "teaser": "Die Ukraine gibt an, russische Streitkräfte im Gebiet Werbowe verdrängt zu haben. Für Experten war das ein Teil des am besten befestigten russischen Verteidigungsgürtels.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/cinema__980x420",
       "image_title": "Ukraine-Karte aktuell: Ukraine meldet Durchbruch russischer Verteidigungslinie"
     },
     {
       "title": "Bergkarabach: Armenien fordert UN-Mission in Bergkarabach",
       "teaser": "Zum Schutz der Menschenrechte: Der Außenminister Armeniens dringt auf UN-Vertreter in Bergkarabach. Das Land bereitet sich zudem auf Zehntausende Flüchtlinge vor.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/bergkarabach-un-mission-armenien-menschenrechte",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/bergkarabach-un-mission-armenien-menschenrechte-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/bergkarabach-un-mission-armenien-menschenrechte-bild/wide__822x462",
       "image_title": "Bergkarabach: Armenien fordert UN-Mission in Bergkarabach"
     },
     {
@@ -265,13 +272,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-09/nahostkonflikt-israel-palaestinenser-gazastreifen-libanon",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/nahostkonflikt-israel-gazastreifen-palaestinenser-proteste-bild/wide__822x462",
       "image_title": "Nahostkonflikt: Israel greift erneut Stellungen im Gazastreifen an"
-    },
-    {
-      "title": "Israel: Mehr als 100.000 Israelis demonstrieren gegen die Regierung",
-      "teaser": "Erneut haben Menschen in mehreren israelischen Städten gegen den geplanten Justizumbau protestiert. Sie bezeichnen Benjamin Netanjahu als \"Diktator auf der Flucht\".",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/israel-tel-aviv-protest-regierung-justizreform",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/israel-proteste-justizumbau-benjamin-netanjahu-bild/wide__822x462",
-      "image_title": "Israel: Mehr als 100.000 Israelis demonstrieren gegen die Regierung"
     },
     {
       "title": "Geflüchtete in Deutschland: Lars Klingbeil sieht keine \"Zaubermaßnahme\" zur Migrationsbegrenzung",
