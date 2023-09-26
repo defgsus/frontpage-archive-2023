@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-26T17:10:25",
+  "timestamp": "2023-09-26T18:14:34",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
-      "title": "Fake News: EU fordert härteres Vorgehen von Plattformen gegen Desinformation",
-      "teaser": "Vor der Europawahl fürchtet die EU mehr Desinformation – vor allem aus Russland. Von Google, Meta und Tiktok verlangt die Kommission in Brüssel mehr Einsatz.",
+      "title": "Russland: Gericht lehnt Berufung von Alexej Nawalny gegen neue Haftstrafe ab",
+      "teaser": "Seit 2021 sitzt Alexej Nawalny in Haft. Wegen \"Extremismus\" soll er weitere 19 Jahre verbüßen. Auch in zweiter Instanz scheitert Russlands bekanntester Oppositioneller.",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/alexej-nawalny-haftstrafe-berufung-urteil-russland",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/alexej-nawalny-haftstrafe-berufung-urteil-russland-bild/cinema__980x420"
+    },
+    {
+      "title": "Soziale Netzwerke: EU fordert härteres Vorgehen von Plattformen gegen Desinformation",
+      "teaser": "Vor der Europawahl fürchtet die EU mehr Desinformation – vor allem aus Russland. Von Google, Meta und TikTok verlangt die Kommission in Brüssel mehr Einsatz.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/europawahl-eu-kommission-plattformen-fake-news-russland",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/europawahl-eu-kommission-plattformen-fake-news-russland-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/europawahl-eu-kommission-plattformen-fake-news-russland-bild/wide__822x462",
+      "image_title": "Soziale Netzwerke: EU fordert härteres Vorgehen von Plattformen gegen Desinformation"
     },
     {
       "title": "Armenien und Aserbaidschan: EU kündigt zusätzliche Hilfen für Menschen in Bergkarabach an",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-09/eu-bergkarabach-armenien-aserbaidschan-fluechtlinge-hilfen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/eu-bergkarabach-armenien-aserbaidschan-fluechtlinge-hilfen-bild/wide__822x462",
       "image_title": "Armenien und Aserbaidschan: EU kündigt zusätzliche Hilfen für Menschen in Bergkarabach an"
-    },
-    {
-      "title": "Ukraine-Überblick: Russland dementiert Tod von Kommandeur, Erdoğan fordert F-16-Jets",
-      "teaser": "Die Ukraine hatte den Tod Viktor Sokolows gemeldet – nun gibt es ein Video von ihm. Die Türkei knüpft das Ja zu Schwedens Nato-Beitritt an Kampfjetlieferungen. Der Tag",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-kommandeur-russische-schwarzmeerflotte-tuerkei-schweden",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-kommandeur-russische-schwarzmeerflotte-tuerkei-schweden-bild/wide__822x462",
-      "image_title": "Ukraine-Überblick: Russland dementiert Tod von Kommandeur, Erdoğan fordert F-16-Jets"
     },
     {
       "title": "Ukraine-Überblick: Lawrow weist Friedensplan der Ukraine zurück, Angriffe in Donezk",
@@ -92,8 +92,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-09/ob-wahl-in-nordhausen-parteiloser-gewinnt-gegen-afd-kandidaten"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Giorgia Meloni : Melonis Partner hat schon eine andere",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/giorgia-meloni-migration-italien-fluechtlingspolitik-lampedusa"
+      "title": "Z+ (abopflichtiger Inhalt); Anschlag auf die Nord-Stream-Pipelines: Wer hat Nord Stream gesprengt?",
+      "url": "https://www.zeit.de/politik/2023-09/nord-stream-pipelines-anschlag-jahrestag"
     },
     {
       "title": "Klimapolitik in Frankreich: Das deutsche Heizungsgesetz als abschreckendes Beispiel",
@@ -128,8 +128,8 @@
       "url": "https://www.zeit.de/2023/40/wladimir-putin-ukraine-krieg-russland-machterhalt"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Giorgia Meloni : Melonis Partner hat schon eine andere",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/giorgia-meloni-migration-italien-fluechtlingspolitik-lampedusa"
+      "title": "Z+ (abopflichtiger Inhalt); Anschlag auf die Nord-Stream-Pipelines: Wer hat Nord Stream gesprengt?",
+      "url": "https://www.zeit.de/politik/2023-09/nord-stream-pipelines-anschlag-jahrestag"
     },
     {
       "title": "Geflüchtete zwischen Frankreich und Italien: Bretonische Kekse zur Abschiebung",
@@ -162,10 +162,17 @@
       "image_title": "Aiwanger-Affäre: \"Erinnerungspolitisch erleben wir in Deutschland dunkle Tage\""
     },
     {
+      "title": "Ukraine-Überblick: Russland dementiert Tod von Kommandeur, Erdoğan fordert F-16-Jets",
+      "teaser": "Die Ukraine hatte den Tod Viktor Sokolows gemeldet – nun gibt es ein Video von ihm. Die Türkei knüpft das Ja zu Schwedens Nato-Beitritt an Kampfjetlieferungen. Der Tag",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-kommandeur-russische-schwarzmeerflotte-tuerkei-schweden",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-kommandeur-russische-schwarzmeerflotte-tuerkei-schweden-bild/cinema__980x420",
+      "image_title": "Ukraine-Überblick: Russland dementiert Tod von Kommandeur, Erdoğan fordert F-16-Jets"
+    },
+    {
       "title": "Nachrichtenpodcast: Mehr Grenzkontrollen gegen Schleuserkriminalität",
       "teaser": "Um irreguläre Migration zu bekämpfen, sollen stationäre Grenzkontrollen ausgeweitet werden. Ist dieser Ansatz sinnvoll? Und: 20 Tote nach Explosion in Bergkarabach",
       "url": "https://www.zeit.de/politik/2023-09/illegale-migration-grenzkontrollen-polen-tschechien-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Mehr Grenzkontrollen gegen Schleuserkriminalität"
     },
     {
@@ -177,16 +184,15 @@
     },
     {
       "title": "Nord-Stream-Sabotage: Diese Ukrainer sollen an der Pipeline-Sprengung beteiligt gewesen sein",
-      "teaser": "Fünf ukrainische Staatsbürger, teilweise Militärangehörige, sollen mit der Nord-Stream-Sabotage in Zusammenhang stehen. Wir haben einen davon in Kiew getroffen.",
+      "teaser": "An dieser Stelle finden Sie externen Inhalt, der den Artikel ergänzt. Sie können sich hier alle externen Inhalte mit einem Klick anzeigen lassen oder wieder ausblenden.",
       "url": "https://www.zeit.de/politik/2023-09/nordstream-ukraine-sprengung-verdaechtige",
-      "image_url": "https://img.zeit.de/politik/2023-09/die-nord-stream-verdaechtigen-video-abspielknopf/wide__822x462",
-      "image_title": "Nord-Stream-Sabotage: Diese Ukrainer sollen an der Pipeline-Sprengung beteiligt gewesen sein"
+      "image_url": "https://img.zeit.de/politik/2023-09/die-nord-stream-verdaechtigen-video-abspielknopf/wide__980x551"
     },
     {
-      "title": "Nord-Stream-Anschlag: Was Sie über die Recherche zum Anschlag in der Ostsee wissen sollten",
+      "title": "Z+ (abopflichtiger Inhalt); Nord-Stream-Anschlag: Was Sie über die Recherche zum Anschlag in der Ostsee wissen sollten",
       "teaser": "Welchen Hinweisen gehen Ermittler nach, was ist über mögliche Auftraggeber bekannt? Antworten auf wichtige Fragen rund um die Ermittlungen zur Nord-Stream-Sprengung.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/nord-stream-anschlag-ermittlung-sabotage-faq",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/nord-stream-anschlag-ermittlung-sabotage/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/nord-stream-anschlag-ermittlung-sabotage/wide__822x462",
       "image_title": "Nord-Stream-Anschlag: Was Sie über die Recherche zum Anschlag in der Ostsee wissen sollten"
     },
     {
@@ -198,16 +204,16 @@
     },
     {
       "title": "AfD: Thüringer Regierung will gegen Gesetzesbeschluss der Opposition klagen",
-      "teaser": "Mit den Stimmen von AfD und FDP setzte die CDU in Thüringen eine Senkung der Grunderwerbssteuer durch. Die Landesregierung will nun vor das Verfassungsgericht ziehen.",
+      "teaser": "Mit den Stimmen von AfD und FDP setzte die CDU in Thüringen eine Senkung der Grunderwerbssteuer durch. Die Landesregierung will nun vor das Verfassungsgericht ziehen. 162 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/thueringen-landesregierung-klage-gesetz-cdu-afd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/thueringen-landesregierung-klage-gesetz-cdu-afd-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/thueringen-landesregierung-klage-gesetz-cdu-afd-bild/cinema__980x420",
       "image_title": "AfD: Thüringer Regierung will gegen Gesetzesbeschluss der Opposition klagen"
     },
     {
       "title": "Konflikt mit Nordkorea: Südkorea hält erstmals seit zehn Jahren große Militärparade ab",
       "teaser": "Seit Monaten verschärfen sich die Spannungen auf der koreanischen Halbinsel. Nach Atomdrohungen aus Nordkorea präsentierte der Süden nun seine modernsten Waffen.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/suedkorea-militaerparade-spannungen-nordkorea",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/suedkorea-militaerparade-spannungen-nordkorea-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/suedkorea-militaerparade-spannungen-nordkorea-bild/wide__822x462",
       "image_title": "Konflikt mit Nordkorea: Südkorea hält erstmals seit zehn Jahren große Militärparade ab"
     },
     {
@@ -221,14 +227,14 @@
       "title": "Liveblog: Ukraine-Krieg: Türkei knüpft Nato-Zusage für Schweden an F-16-Lieferung",
       "teaser": "Recep Tayyip Erdoğan hat die Ratifizierung von Schwedens Nato-Beitritt mit F-16-Jets in Verbindung gebracht. Russland dementiert Tod von Flottenkommandeur. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-krieg-news-liveblog-bild-14/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-krieg-news-liveblog-bild-14/cinema__980x420",
       "image_title": "Ukraine-Krieg: Türkei knüpft Nato-Zusage für Schweden an F-16-Lieferung"
     },
     {
       "title": "Ehrlich jetzt?: \"Nehmt uns unsere jungen Leute nicht weg\"",
       "teaser": "Perspektivwechsel können Krisen lösen, sagt Sanae Abdi. Im Podcast spricht die SPD-Bundestagsabgeordnete darüber, warum man sich in der Klimapolitik zusammentun muss.",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/sanae-abdi-politikpodcast-ehrlichjetzt",
-      "image_url": "https://img.zeit.de/politik/2023-09/ehrlich-jetzt-podcast-sanae-abdi-aufmacherbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-09/ehrlich-jetzt-podcast-sanae-abdi-aufmacherbild/wide__822x462",
       "image_title": "Ehrlich jetzt?: \"Nehmt uns unsere jungen Leute nicht weg\""
     },
     {
@@ -265,13 +271,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-09/frankreich-klimapolitik-emmanuel-macron-klimaziele-5vor8",
       "image_url": "https://img.zeit.de/politik/ausland/2023-09/frankreich-klimapolitik-emmanuel-macron-klimaziele-5vor8-bild/wide__822x462",
       "image_title": "Klimapolitik in Frankreich: Das deutsche Heizungsgesetz als abschreckendes Beispiel"
-    },
-    {
-      "title": "Migration: Gewerkschaft der Polizei lehnt stationäre Grenzkontrollen ab",
-      "teaser": "Die Bundesinnenministerin plant feste Grenzkontrollen zu Polen und Tschechien. Die seien \"nicht effektiv\", sagen Polizeivertreter. Sie machen einen Gegenvorschlag.",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/polen-grenzkontrolle-slowakei-migration",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/polen-grenzkontrolle-slowakei-migration-bild-2/wide__822x462",
-      "image_title": "Migration: Gewerkschaft der Polizei lehnt stationäre Grenzkontrollen ab"
     },
     {
       "title": "Heizungsgesetz: SPD fordert mehr Geld für Pelletheizungen",
@@ -316,11 +315,11 @@
       "image_title": "Rupert Murdoch: Adieu, alter Hai"
     },
     {
-      "title": "Anklagen: Was Donald Trump nun droht",
-      "teaser": "Viermal ist der ehemalige US-Präsident inzwischen angeklagt worden, drei Prozesstermine stehen schon fest. Dazu kommen mehrere Zivilverfahren. Eine Übersicht in Grafiken",
-      "url": "https://www.zeit.de/politik/ausland/2023-08/anklagen-gegen-donald-trump-gericht-uebersicht-grafik",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-08/anklagen-gegen-donald-trump-uebersicht/wide__822x462",
-      "image_title": "Anklagen: Was Donald Trump nun droht"
+      "title": "Migration: Gewerkschaft der Polizei lehnt stationäre Grenzkontrollen ab",
+      "teaser": "Die Bundesinnenministerin plant feste Grenzkontrollen zu Polen und Tschechien. Die seien \"nicht effektiv\", sagen Polizeivertreter. Sie machen einen Gegenvorschlag.",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/polen-grenzkontrolle-slowakei-migration",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/polen-grenzkontrolle-slowakei-migration-bild-2/wide__822x462",
+      "image_title": "Migration: Gewerkschaft der Polizei lehnt stationäre Grenzkontrollen ab"
     },
     {
       "title": "Anzeige: Studieren in Berlin",
