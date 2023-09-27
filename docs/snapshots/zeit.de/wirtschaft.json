@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-27T05:10:56",
+  "timestamp": "2023-09-27T06:15:30",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,16 +50,30 @@
   ],
   "articles": [
     {
-      "title": "Energiepreise: Wüst warnt vor Wohlstandsverlust durch Abwanderung der Industrie",
-      "teaser": "Nordrhein-Westfalens Ministerpräsident fordert vor dem Chemiegipfel eine Senkung des Strompreises. Ansonsten drohe die Verlagerung von Arbeitsplätzen ins Ausland.",
+      "title": "Heizen: Haushalte verbrauchten 2022 weniger Heizenergie",
+      "teaser": "Fünf Prozent weniger Energie haben private Haushalte vergangenes Jahr für das Heizen verbraucht. Der CO₂-Ausstoß sei dadurch gesunken, heißt es im \"Wärmemonitor\" des DIW.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/haushalte-verbrauch-2022-heizenergie-diw-waermemonitor",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/haushalte-verbrauchen-2022-weniger-heizenergie-bild/cinema__980x420"
+    },
+    {
+      "title": "US-Opioidkrise: McKinsey erklärt sich zur Zahlung von weiterer Millionensumme bereit",
+      "teaser": "Im Streit um die Opioidkrise will McKinsey weitere Klagen mit Vergleichen beilegen. Dem Beratungsunternehmen wird die Arbeit an irreführenden Marketingplänen vorgeworfen.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-09/opioidkrise-usa-mckinsey-klagen-vergleich",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-09/opioid-krise-usa-mckinsey-klagen-vergleich-bild/wide__822x462",
+      "image_title": "US-Opioidkrise: McKinsey erklärt sich zur Zahlung von weiterer Millionensumme bereit"
+    },
+    {
+      "title": "Energiepreise: Wüst fordert vor Chemiegipfel Senkung des Strompreises",
+      "teaser": "Nordrhein-Westfalens Ministerpräsident mahnt eine Entlastung energieintensiver Unternehmen an. Ansonsten drohe die Verlagerung von Arbeitsplätzen ins Ausland.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/energiepreise-hendrik-wuest-nordrhein-westfalen-chemiegipfel",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/energiepreise-hendrik-wuest-nordrhein-westfalen-chemiegipfel-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/energiepreise-hendrik-wuest-nordrhein-westfalen-chemiegipfel-bild/wide__822x462",
+      "image_title": "Energiepreise: Wüst fordert vor Chemiegipfel Senkung des Strompreises"
     },
     {
       "title": "USA: Behörde und Bundesstaaten klagen wegen Monopolvorwurfs gegen Amazon",
       "teaser": "Die US-Wettbewerbsbehörde wirft dem Versandhändler Amazon vor, Konkurrenten im Online-Marktplatzgeschäft auszuschließen. Dadurch werde der Wettbewerb unterdrückt.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/amazon-wettbewerbsbehoerde-kartellklage-monopolstellung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/amazon-wettbewerbsbehoerde-kartellklage-monopolstellung-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/amazon-wettbewerbsbehoerde-kartellklage-monopolstellung-bild/cinema__980x420",
       "image_title": "USA: Behörde und Bundesstaaten klagen wegen Monopolvorwurfs gegen Amazon"
     },
     {
@@ -70,20 +84,6 @@
       "image_title": "\"Deutsche Wohnen und Co enteignen\": Könnte diesmal die Enteignung klappen?"
     },
     {
-      "title": "Deutsche Wohnen: Berliner Enteignungsinitiative will weiteren Volksentscheid erreichen",
-      "teaser": "2021 hatte eine Mehrheit der Berliner für den Volksentscheid zur Vergesellschaftung großer Immobilienkonzerne gestimmt. Die Initiative wirft dem Senat eine Blockade vor.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/deutsche-wohnen-co-volksentscheid-initiative-berlin",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/deutsche-wohnen-co-volksentscheid-initiative-berlin-bild-2/cinema__980x420",
-      "image_title": "Deutsche Wohnen: Berliner Enteignungsinitiative will weiteren Volksentscheid erreichen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Testament für Paare ohne Kinder: So regeln Kinderlose ihren Nachlass",
-      "teaser": "Wer keine eigenen Kinder hat, sollte ein Testament verfassen. Andernfalls greift die gesetzliche Erbfolge – und die entspricht nicht immer den eigenen Wünschen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-07/testament-erbe-ohne-kinder-erbrecht-faq",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/testament-erbe-ohne-kinder/wide__822x462",
-      "image_title": "Testament für Paare ohne Kinder: So regeln Kinderlose ihren Nachlass"
-    },
-    {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
       "teaser": "Der Arbeitgebermarkt hat sich zum Arbeitnehmermarkt gewandelt. Um möglichen Bewerber:innen Orientierung zu bieten, haben sich Arbeitgebersiegel auf dem Markt etabliert.",
       "url": "https://www.zeit.de/angebote/most-wanted-employer-2023/index",
@@ -91,11 +91,11 @@
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
     },
     {
-      "title": "Jan Marsalek: Früherer Wirecard-Manager soll für Russland spioniert haben",
-      "teaser": "Britische Ermittler werfen Jan Marsalek Spionage vor. Der flüchtige frühere Wirecard-Manager soll zwischen Russland und einer Gruppe bulgarischer Spione vermittelt haben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/jan-marsalek-spionage-russland",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/jan-marsalek-spionage-russland-bild-2/wide__822x462",
-      "image_title": "Jan Marsalek: Früherer Wirecard-Manager soll für Russland spioniert haben"
+      "title": "Deutsche Wohnen: Berliner Enteignungsinitiative will weiteren Volksentscheid erreichen",
+      "teaser": "2021 hatte eine Mehrheit der Berliner für den Volksentscheid zur Vergesellschaftung großer Immobilienkonzerne gestimmt. Die Initiative wirft dem Senat eine Blockade vor.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/deutsche-wohnen-co-volksentscheid-initiative-berlin",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/deutsche-wohnen-co-volksentscheid-initiative-berlin-bild-2/wide__822x462",
+      "image_title": "Deutsche Wohnen: Berliner Enteignungsinitiative will weiteren Volksentscheid erreichen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Immobilienpreise: Von wegen billiger",
@@ -203,6 +203,20 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Testament für Paare ohne Kinder: So regeln Kinderlose ihren Nachlass",
+      "teaser": "Wer keine eigenen Kinder hat, sollte ein Testament verfassen. Andernfalls greift die gesetzliche Erbfolge – und die entspricht nicht immer den eigenen Wünschen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-07/testament-erbe-ohne-kinder-erbrecht-faq",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/testament-erbe-ohne-kinder/wide__822x462",
+      "image_title": "Testament für Paare ohne Kinder: So regeln Kinderlose ihren Nachlass"
+    },
+    {
+      "title": "Jan Marsalek: Früherer Wirecard-Manager soll für Russland spioniert haben",
+      "teaser": "Britische Ermittler werfen Jan Marsalek Spionage vor. Der flüchtige frühere Wirecard-Manager soll zwischen Russland und einer Gruppe bulgarischer Spione vermittelt haben.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/jan-marsalek-spionage-russland",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/jan-marsalek-spionage-russland-bild-2/wide__822x462",
+      "image_title": "Jan Marsalek: Früherer Wirecard-Manager soll für Russland spioniert haben"
+    },
+    {
       "title": "Energie: Industrieverband will niedrigere Stromsteuer statt Industriestrompreis",
       "teaser": "Robert Habeck sieht gute Chancen für einen Industriestrompreis. Aus Sicht des BDI sollte besser die Stromsteuer gesenkt werden – das würde auch Privatleuten helfen.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/industriestrompreis-stromsteuer-industrieverband-bdi-energie-robert-habeck",
@@ -220,7 +234,7 @@
       "title": "Energiepreisbremse: Bund muss 45 Milliarden Euro weniger Geld leihen als geplant",
       "teaser": "Der Bund will in diesem Jahr rund eine halbe Billion Euro leihen. Das ist weniger als gedacht – Grund sind geringere Kosten für die Energiepreisbremse.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/bund-schulden-investoren-finanzagentur",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/bund-investition-geld-schulden-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/bund-investition-geld-schulden-bild/cinema__980x420",
       "image_title": "Energiepreisbremse: Bund muss 45 Milliarden Euro weniger Geld leihen als geplant"
     },
     {
@@ -232,24 +246,10 @@
     },
     {
       "title": "Klimaschutz: Internationale Energieagentur hält 1,5-Grad-Ziel noch für erreichbar",
-      "teaser": "Der rasante Ausbau von Solarenergie und Elektromobilität rückt das Pariser Klimaziel laut IEA wieder ins Blickfeld. Reichere Länder müssten jedoch ihre Ziele straffen. 327 Kommentare",
+      "teaser": "Der rasante Ausbau von Solarenergie und Elektromobilität rückt das Pariser Klimaziel laut IEA wieder ins Blickfeld. Reichere Länder müssten jedoch ihre Ziele straffen.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/klimaschutz-erneuerbare-1-5-grad-ziel",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/klimaschutz-erneuerbare-1-5-grad-ziel-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/klimaschutz-erneuerbare-1-5-grad-ziel-bild/wide__822x462",
       "image_title": "Klimaschutz: Internationale Energieagentur hält 1,5-Grad-Ziel noch für erreichbar"
-    },
-    {
-      "title": "IMK-Konjunkturprognose: Experten rechnen 2024 nur mit geringem Wirtschaftswachstum",
-      "teaser": "Erst Rezession, dann Flaute: Das Institut IMK zeigt sich pessimistisch für das kommende Jahr. Erwartet werden nur noch 0,7 Prozent Wachstum für die deutsche Wirtschaft.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/konjunktur-imk-wachstum-wirtschaft",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/konjunktur-imk-wachstum-wirtschaft-bild-2/wide__822x462",
-      "image_title": "IMK-Konjunkturprognose: Experten rechnen 2024 nur mit geringem Wirtschaftswachstum"
-    },
-    {
-      "title": "Wohnungsgipfel: Zu wenig ist der Rede wert",
-      "teaser": "Seit einem Jahrzehnt doktern unterschiedliche Regierungen minimalinvasiv an der Wohnungskrise herum. Auch das neue Programm des Kanzlers wird wenig ändern.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/wohnungsgipfel-14-punkte-plan-olaf-scholz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/wohngipfel-politik-mutlosigkeit/wide__822x462",
-      "image_title": "Wohnungsgipfel: Zu wenig ist der Rede wert"
     },
     {
       "title": "Medienunternehmer: Rupert Murdoch übergibt die Führung von News Corp und Fox an Sohn",
