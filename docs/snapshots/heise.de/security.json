@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-27T07:10:33",
+  "timestamp": "2023-09-27T08:14:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Firefox, Firefox ESR, Thunderbird",
+      "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-Firefox-ESR-und-Thunderbird-geschlossen-9318479.html"
+    },
+    {
       "title": "TeamCity",
       "url": "https://www.heise.de/news/Softwareentwicklung-Angreifer-koennen-ueber-TeamCity-Luecke-Sourcecode-stehlen-9317631.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
     },
     {
-      "title": "HPE OneView",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Authentifizierung-von-HPE-OneView-umgehbar-9312816.html"
+      "title": "Schadcode-Lücken in Firefox, Firefox ESR und Thunderbird geschlossen",
+      "teaser": "Mozilla hat seinen Mailclient und seine Webbrowser gegen mögliche Attacken abgesichert.",
+      "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-Firefox-ESR-und-Thunderbird-geschlossen-9318479.html"
+    },
+    {
+      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Sie Angriffe auf das lokale Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können. (Frühbucherrabatt bis 10.10.)",
+      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9310204.html",
+      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
     },
     {
       "title": "PGP-verschlüsselte E-Mails mit macOS 14: GPGTools warnt vor schnellem Upgrade",
@@ -140,16 +151,6 @@
       "title": "Sicherheitsupdate: Passwort-Lücke bedroht Nagios XI",
       "teaser": "Angreifer können die Server-Monitoring-Lösung Nagios XI attackieren. Eine dagegen abgesicherte Version ist verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Passwort-Luecke-bedroht-Nagios-XI-9312331.html"
-    },
-    {
-      "title": "MOVEit Transfer: Schwachstellen ermöglichen Angreifern Datenschmuggel",
-      "teaser": "Neue MOVEit Transfer-Versionen schließen teils hochriskante Sicherheitslücken. IT-Verantwortliche sollten sie zügig installieren.",
-      "url": "https://www.heise.de/news/MOVEit-Transfer-Updates-schliessen-hochriskante-Sicherheitsluecken-9312162.html"
-    },
-    {
-      "title": "Atlassian stopft Sicherheitslecks in Bitbucket, Confluence und Jira",
-      "teaser": "Atlassian warnt vor Sicherheitslücken in Bitbucket, Confluence und Jira. Aktualisierte Fassungen dichten sie ab.",
-      "url": "https://www.heise.de/news/Atlassian-warnt-vor-Sicherheitsluecken-in-Bitbucket-Confluence-und-Jira-9311520.html"
     },
     {
       "title": "Signal-Chefin über Post-Quanten-Kryptographie, Zukunftspläne und Co.",
