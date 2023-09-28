@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-28T07:10:28",
+  "timestamp": "2023-09-28T08:14:51",
   "url": "https://www.welt.de/politik/",
   "response": {
     "status": 200
@@ -27,10 +27,17 @@
   "articles": [
     {
       "title": "Bergkarabach wird zum 1. Januar 2024 aufgelöst",
-      "teaser": "Der Angriff von Aserbaidschan auf die Region Bergkarabach vor gut einer Woche hat nun auch politische Folgen. Die Behörden planen die armenische Enklave offiziell aufzulösen. Zehntausende ethnische Armenier sind bereits aus der Region geflohen.",
+      "teaser": "Der Angriff von Aserbaidschan auf die Region Bergkarabach vor gut einer Woche hat nun auch politische Folgen: Die Behörden haben angekündigt, die armenische Enklave offiziell aufzulösen. Über 60.000 ethnische Armenier sind bereits aus der Region geflohen.",
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile247704538/5597939157-ci23x11-w20/Konflikt-in-Berg-Karabach.jpg",
       "image_title": "Konflikt in Berg-Karabach"
+    },
+    {
+      "title": "„Unerschütterliche Einsatz“ – Seenotretter erhalten Alternativen Nobelpreis",
+      "teaser": "Der Alternative Nobelpreis wird an Menschen verliehen, die sich für Frieden, Nachhaltigkeit und eine gerechte Welt einsetzen. In diesem Jahr geht die Auszeichnung unter anderem an die Seenotretter der Organisation SOS Méditerranée.",
+      "url": "https://www.welt.de/politik/ausland/",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile247705184/0107938427-ci23x11-w20/Alternativer-Nobelpreis-2023-SOS-Mediterranee.jpg",
+      "image_title": "Die Organisation SOS Méditerranée bei der Rettung schiffbrüchiger Migranten"
     },
     {
       "title": "Nordkorea verankert Status als Atomwaffenmacht in der Verfassung",
@@ -53,13 +60,6 @@
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile247703932/6057933447-ci23x11-w20/Republican-Candidate-Debate-at-Reagan-Library.jpg",
       "image_title": "Kurz bevor ist losging, war die Stimmung noch ausgelassen"
-    },
-    {
-      "title": "Ukrainische Truppen wehren russische Angriffe an Ostfront ab",
-      "teaser": "„Wir wehren weiterhin heftige feindliche Angriffe in der Nähe von Klischtschiwka und Andrijwka ab“, sagt ein ukrainischer Militärsprecher. Präsident Wolodymyr Selenskyj wies Kritik zurück, derzufolge der Vormarsch zu langsam und mit strategischen Fehlern behaftet sei. Mehr im Liveticker.",
-      "url": "https://www.welt.de/politik/ausland/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile247703946/9277936287-ci23x11-w20/Ukraine-Krieg-Klischtschijiwka.jpg",
-      "image_title": "Ukraine-Krieg - Klischtschijiwka"
     },
     {
       "title": "„Donald, ich weiß, dass du uns beobachtest“",
@@ -96,7 +96,7 @@
     },
     {
       "title": "„Vielleicht müssen die Westdeutschen auch ostgeschichtlich gebildet werden“",
-      "teaser": "Ost-SPD-Abgeordnete wollen über „Deutsch-Deutsche Sichtweisen“ diskutieren. Doch dann wird daraus vor allem ein Gespräch Ostdeutscher übereinander, über schädliche Klischees und ignorante Wessis. Zu Gast ist auch Publizist Dirk Oschmann; der holt aus zur Medienschelte.",
+      "teaser": "Ost-SPD-Abgeordnete wollen über „deutsch-deutsche Sichtweisen“ diskutieren. Doch dann wird daraus vor allem ein Gespräch Ostdeutscher übereinander, über schädliche Klischees und ignorante Wessis. Zu Gast ist auch Publizist Dirk Oschmann; der holt aus zur Medienschelte.",
       "url": "https://www.welt.de/politik/deutschland/",
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile247703268/3587938537-ci23x11-w20/DWO-Teaser-SPD-Ostdeutschland-js.jpg",
       "image_title": "Kein alternativer Text für dieses Bild vorhanden",
@@ -161,6 +161,13 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Ukrainische Truppen wehren russische Angriffe an Ostfront ab",
+      "teaser": "„Wir wehren weiterhin heftige feindliche Angriffe in der Nähe von Klischtschiwka und Andrijwka ab“, sagt ein ukrainischer Militärsprecher. Präsident Wolodymyr Selenskyj wies Kritik zurück, derzufolge der Vormarsch zu langsam und mit strategischen Fehlern behaftet sei. Mehr im Liveticker.",
+      "url": "https://www.welt.de/politik/ausland/article247703902/Ukraine-News-Ukrainische-Truppen-wehren-russische-Angriffe-an-Ostfront-ab.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile247703946/9277936287-ci23x11-w20/Ukraine-Krieg-Klischtschijiwka.jpg",
+      "image_title": "Ukraine-Krieg - Klischtschijiwka"
+    },
+    {
       "title": "Der Weg zum Krisenmechanismus ist frei – aber es droht bereits neuer Streit",
       "teaser": "Deutschland hat nach einem Machtwort des Kanzlers eine Blockade der künftigen EU-Migrationspolitik aufgegeben. Doch bei den Beratungen heute in Brüssel gibt es weitere Probleme. Die Positionen der Mitgliedstaaten liegen teils weit auseinander – und es geht um viel Geld.",
       "url": "https://www.welt.de/politik/ausland/plus247698680/Migration-Der-Weg-zum-Krisenmechanismus-ist-frei-aber-es-droht-bereits-neuer-Streit.html",
@@ -192,18 +199,10 @@
     },
     {
       "title": "Wagner-Söldner laut Kiew zurück an der Front",
-      "teaser": "Nach dem mutmaßlichen Tod ihres Anführers Jewgeni Prigoschin waren die Wagner-Söldner zunächst in Belarus stationiert, jetzt sollen einige wieder in der Ost-Ukraine kämpfen. Und: Wladimir Klitschko sieht derzeit keinerlei Chancen, mit Russland über Frieden zu verhandeln. Mehr im Liveticker.",
-      "url": "https://www.welt.de/politik/ausland/article247684948/Ukraine-News-Wagner-Soeldner-angeblich-zurueck-an-der-Front.html",
+      "teaser": "Nach dem mutmaßlichen Tod ihres Anführers Jewgeni Prigoschin waren die Wagner-Söldner zunächst in Belarus stationiert, jetzt sollen einige wieder in der Ost-Ukraine kämpfen. Mehr im Liveticker vom 27. September 2023.",
+      "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile247694242/1497937277-ci23x11-w20/Russia-Prigozhin-Last-Two-Months.jpg",
       "image_title": "Wagner-Söldner Mitte Mai in Bachmut – Szene aus einem Wagner-Propaganda-Video"
-    },
-    {
-      "title": "„Ich liebe Autos“ – Warum Macron alles anders macht als die Ampel",
-      "teaser": "Ob E-Auto, Gasheizung oder Atomkraft – Emmanuel Macron treibt seine Energiewende ganz anders voran als die Bundesregierung. Paris will die Bürger nicht überfordern, statt Verboten gibt es Anreize. Kritiker halten das für „naiv“. Doch Macron treibt eine Sorge um, die auch mit der AfD zu tun hat.",
-      "url": "https://www.welt.de/politik/ausland/plus247687948/Energiewende-Ich-liebe-Autos-Macron-macht-alles-anders-als-die-Ampel.html",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile247687942/8177937037-ci23x11-w20/President-Macron-Visits-Daniel-Argote-Middle-School-Orthez.jpg",
-      "image_title": "Emmanuel Macron will ändern, dass E-Autos für viele noch Luxusprodukte sind",
-      "author": "Martina Meister"
     },
     {
       "title": "Jetzt schwächt Faeser ihren Plan für Grenzkontrollen plötzlich wieder ab",
@@ -266,6 +265,14 @@
       "image_url": "https://img.welt.de/img/politik/deutschland/mobile247689220/2717936247-ci23x11-w20/Bundestag.jpg",
       "image_title": "Bundestag",
       "author": "Cornelia Karin Hendrich"
+    },
+    {
+      "title": "„Ich liebe Autos“ – Warum Macron alles anders macht als die Ampel",
+      "teaser": "Ob E-Auto, Gasheizung oder Atomkraft – Emmanuel Macron treibt seine Energiewende ganz anders voran als die Bundesregierung. Paris will die Bürger nicht überfordern, statt Verboten gibt es Anreize. Kritiker halten das für „naiv“. Doch Macron treibt eine Sorge um, die auch mit der AfD zu tun hat.",
+      "url": "https://www.welt.de/politik/ausland/plus247687948/Energiewende-Ich-liebe-Autos-Macron-macht-alles-anders-als-die-Ampel.html",
+      "image_url": "https://img.welt.de/img/politik/ausland/mobile247687942/8177937037-ci23x11-w20/President-Macron-Visits-Daniel-Argote-Middle-School-Orthez.jpg",
+      "image_title": "Emmanuel Macron will ändern, dass E-Autos für viele noch Luxusprodukte sind",
+      "author": "Martina Meister"
     },
     {
       "title": "Warum Rödder den Posten als Chef der CDU-Grundwerte-Kommission aufgibt",
@@ -374,14 +381,6 @@
       "url": "https://www.welt.de/politik/ausland/",
       "image_url": "https://img.welt.de/img/politik/ausland/mobile247668538/5517933387-ci23x11-w20/Konflikt-in-Berg-Karabach.jpg",
       "image_title": "Konflikt in Berg-Karabach"
-    },
-    {
-      "title": "Die Sorge, dass die Grünen die große EU-Asylreform zu Fall bringen",
-      "teaser": "Die sogenannte Krisenverordnung im EU-Migrationspakt sieht Sonderregeln für besonders angespannte Lagen vor. Die Grünen lehnen das grundsätzlich ab – und liegen darin mit den Ampel-Partnern über Kreuz. Damit gerät das gesamte Vorhaben der Europäischen Union ins Wanken.",
-      "url": "https://www.welt.de/politik/deutschland/plus247681124/Migration-Die-Gruenen-muessen-ihre-Blockade-sofort-beenden.html",
-      "image_url": "https://img.welt.de/img/politik/deutschland/mobile247681166/8327936757-ci23x11-w20/DWO-Teaser-bearbock-faeser-aw.jpg",
-      "image_title": "Außenministerin Annalena Baerbock (Grüne, l.) und Innenministerin Nancy Faeser (SPD); im Hintergrund Migranten vor Lampedusa",
-      "author": "Ricarda Breyton"
     },
     {
       "title": "Warum es für Russland jetzt tatsächlich gefährlich wird",
