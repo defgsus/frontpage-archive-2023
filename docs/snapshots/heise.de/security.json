@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-28T10:12:05",
+  "timestamp": "2023-09-28T11:09:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Webp-Lücke",
+      "url": "https://www.heise.de/news/Unzaehlige-Anwendungen-betroffen-Chaos-bei-WebP-Luecke-9319783.html"
+    },
+    {
       "title": "Chrome",
       "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-Chrome-geschlossen-eine-wird-bereits-ausgenutzt-9319635.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Softwareentwicklung-Angreifer-koennen-ueber-TeamCity-Luecke-Sourcecode-stehlen-9317631.html"
     },
     {
-      "title": "Drupal",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Datenleaks-auf-Drupal-Websites-moeglich-9313594.html"
+      "title": "Unzählige Anwendungen betroffen: Chaos bei WebP-Lücke",
+      "teaser": "Eine Sicherheitslücke im WebP-Grafikformat betrifft über Googles Chrome hinaus deutlich mehr Anwendungen.",
+      "url": "https://www.heise.de/news/Unzaehlige-Anwendungen-betroffen-Chaos-bei-WebP-Luecke-9319783.html"
     },
     {
       "title": "Zehn Sicherheitslücken in Chrome geschlossen, eine wird bereits ausgenutzt",
@@ -147,11 +152,6 @@
       "teaser": "Am Sonntag kam es zu Problemen an kanadischen Flughäfen. Grenzterminals waren nach einer DDoS-Attacke ausgefallen.",
       "url": "https://www.heise.de/news/Nach-DDoS-Attacke-Grenzterminals-an-kanadischen-Flughaefen-ausgefallen-9312866.html",
       "image_title": "Blick aus einem Wartebereich des Flughafens Barcelona, im Hintergrund ein startendes Flugzeug."
-    },
-    {
-      "title": "Sicherheitsupdate: Authentifizierung von HPE OneView umgehbar",
-      "teaser": "Die IT-Infrastrukturmanagementlösung OneView von HPE ist verwundbar. Der Entwickler hat zwei kritische Sicherheitslücken geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Authentifizierung-von-HPE-OneView-umgehbar-9312816.html"
     },
     {
       "title": "Die wichtigsten Änderungen der neuen Schwachstellenbewertung CVSS 4.0",
