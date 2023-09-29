@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-29T06:14:58",
+  "timestamp": "2023-09-29T07:10:24",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,25 +50,24 @@
   ],
   "articles": [
     {
+      "title": "Liveblog: Ukraine-Krieg: Ex-Wagner-Kommandeur arbeitet jetzt für die russische Regierung",
+      "teaser": "Der frühere Prigoschin-Vertraute Andrej Troschew wechselt ins Verteidigungsministerium. Er soll Freiwilligen-Verbände für den Ukraine-Krieg rekrutieren. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-krieg-news-liveblog-bild-16/cinema__980x420"
+    },
+    {
+      "title": "Äußerung von Friedrich Merz : \"Die AfD haut sich auf die Schenkel\"",
+      "teaser": "Friedrich Merz suggerierte in einer Talkshow, Asylbewerber würden Deutschen Zahnarzttermine wegnehmen. Solche Aussagen nutzten am Ende der AfD, warnt Bodo Ramelow.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/ramelow-merz-zahnarzt-asylbewerber-wuest",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/ramelow-merz-zahnarzt-asylbewerber-wuest-bild/wide__822x462",
+      "image_title": "Äußerung von Friedrich Merz : \"Die AfD haut sich auf die Schenkel\""
+    },
+    {
       "title": "ARD-Deutschlandtrend: Zwei Drittel der Deutschen wollen weniger Geflüchtete aufnehmen",
-      "teaser": "Weniger als jeder Fünfte ist laut einer Umfrage mit der Ampel zufrieden. Zudem steigt die Skepsis gegenüber Zuwanderung – und damit die Zustimmung zu weniger Migration. 604 Kommentare",
+      "teaser": "Weniger als jeder Fünfte ist laut einer Umfrage mit der Ampel zufrieden. Zudem steigt die Skepsis gegenüber Zuwanderung – und damit die Zustimmung zu weniger Migration.",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/ard-deutschlandtrend-bundesregierung-tiefstand-zuwanderung-skepsis",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/koalition-ampel-zufriedenheit/cinema__980x420",
-      "image_title": "Koalition Ampel Zufriedenheit"
-    },
-    {
-      "title": "Kriminalität: Schwedischer Regierungschef will Militär gegen Bandengewalt einsetzen",
-      "teaser": "Ministerpräsident Ulf Kristersson will die Streitkräfte im Kampf gegen zunehmende Gewalt in Schweden einsetzen. Allein im September soll es elf Tote gegeben haben.",
-      "url": "https://www.zeit.de/politik/ausland/2023-09/kriminalitaet-schweden-gewalt-anstieg-militaer-regierung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/tatort-in-schweden-2/wide__822x462",
-      "image_title": "Kriminalität: Schwedischer Regierungschef will Militär gegen Bandengewalt einsetzen"
-    },
-    {
-      "title": "Energiekostenpauschale für Studierende: Jeder fünfte Studierende hat noch keine Energiepauschale beantragt",
-      "teaser": "Um auf die gestiegenen Energie- und Lebensmittelkosten zu reagieren, konnten Studierende 200 Euro beantragen. Rund 2,8 Millionen Anträge sind bisher eingegangen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/energiepauschale-studierende-deutschland-energiekosten-einmalzahlung",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-09/energiepauschale-studierende-deutschland-energiekosten-einmalzahlung-bild/wide__822x462",
-      "image_title": "Energiekostenpauschale für Studierende: Jeder fünfte Studierende hat noch keine Energiepauschale beantragt"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/koalition-ampel-zufriedenheit/wide__822x462",
+      "image_title": "ARD-Deutschlandtrend: Zwei Drittel der Deutschen wollen weniger Geflüchtete aufnehmen"
     },
     {
       "title": "Migration: Merz sorgt mit Aussage über Asylbewerber für Empörung",
@@ -163,17 +162,31 @@
       "image_title": "Aiwanger-Affäre: \"Erinnerungspolitisch erleben wir in Deutschland dunkle Tage\""
     },
     {
+      "title": "Kriminalität: Schwedischer Regierungschef will Militär gegen Bandengewalt einsetzen",
+      "teaser": "Ministerpräsident Ulf Kristersson will die Streitkräfte im Kampf gegen zunehmende Gewalt in Schweden einsetzen. Allein im September soll es elf Tote gegeben haben. 228 Kommentare",
+      "url": "https://www.zeit.de/politik/ausland/2023-09/kriminalitaet-schweden-gewalt-anstieg-militaer-regierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/tatort-in-schweden-2/cinema__980x420",
+      "image_title": "Kriminalität: Schwedischer Regierungschef will Militär gegen Bandengewalt einsetzen"
+    },
+    {
+      "title": "Energiekostenpauschale für Studierende: Jeder fünfte Studierende hat noch keine Energiepauschale beantragt",
+      "teaser": "Um auf die gestiegenen Energie- und Lebensmittelkosten zu reagieren, konnten Studierende 200 Euro beantragen. Rund 2,8 Millionen Anträge sind bisher eingegangen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/energiepauschale-studierende-deutschland-energiekosten-einmalzahlung",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-09/energiepauschale-studierende-deutschland-energiekosten-einmalzahlung-bild/wide__822x462",
+      "image_title": "Energiekostenpauschale für Studierende: Jeder fünfte Studierende hat noch keine Energiepauschale beantragt"
+    },
+    {
       "title": "Nord Stream : \"In der deutschen Politik werden zu diesem Thema Maulkörbe verteilt.\"",
       "teaser": "Es ist die politisch brisanteste Ermittlung seit 9/11: Wer sprengte die Nord-Stream-Pipelines? Neue Enthüllungen verdichten einen politisch heiklen Verdacht.",
       "url": "https://www.zeit.de/politik/2023-09/nordstream-pipelines-anschlaege-politikpodcast",
-      "image_url": "https://img.zeit.de/politik/2023-09/nordstream-pipelines-anschlaege-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/2023-09/nordstream-pipelines-anschlaege-2/wide__822x462",
       "image_title": "Nord Stream : \"In der deutschen Politik werden zu diesem Thema Maulkörbe verteilt.\""
     },
     {
       "title": "Nachrichtenpodcast: Wie findet Deutschland wieder aus der Rezession heraus?",
       "teaser": "Deutschland ist im wirtschaftlichen Abschwung. Wissenschaftler haben sich mit möglichen Gründen und Lösungen befasst. Und: Sollten wir wieder anfangen, Maske zu tragen?",
       "url": "https://www.zeit.de/politik/2023-09/deutsche-wirtschaft-rezession-wirtschaftskrise-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
       "image_title": "Nachrichtenpodcast: Wie findet Deutschland wieder aus der Rezession heraus?"
     },
     {
@@ -184,17 +197,17 @@
       "image_title": "Ukraine-Überblick: Ukraine in IAEA-Rat gewählt, Selenskyj pocht weiter auf Nato-Beitritt"
     },
     {
-      "title": "USA: Möglicher Shutdown der Regierungsgeschäfte rückt näher",
+      "title": "US-Haushaltsstreit: Möglicher Shutdown der Regierungsgeschäfte rückt näher",
       "teaser": "Erneut droht dem US-Behördenapparat der Teilstillstand. Um den zu verhindern, müsste der Kongress sich vor Sonntag auf eine Lösung im Haushaltsstreit einigen.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/usa-shutdown-regierung-joe-biden-praesident-stillstand-behoerdenapparat-countdown",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/weisses-haus/cinema__980x420",
-      "image_title": "USA: Möglicher Shutdown der Regierungsgeschäfte rückt näher"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/weisses-haus/wide__822x462",
+      "image_title": "US-Haushaltsstreit: Möglicher Shutdown der Regierungsgeschäfte rückt näher"
     },
     {
       "title": "Migration nach Deutschland: Gemeindebund fordert Arbeitserlaubnis für Flüchtlinge von Anfang an",
       "teaser": "Der Städte- und Gemeindebund hat gefordert, dass Geflüchtete mit Bleibeperspektive von Anfang an arbeiten dürfen. Arbeit sei ein wesentlicher Beitrag zur Integration.",
       "url": "https://www.zeit.de/politik/deutschland/2023-09/migration-nach-deutschland-staedte-und-gemeindebund-arbeit-gefluechtete",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/migration-deutschland-asylbewerber-arbeit/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/migration-deutschland-asylbewerber-arbeit/cinema__980x420",
       "image_title": "Migration nach Deutschland: Gemeindebund fordert Arbeitserlaubnis für Flüchtlinge von Anfang an"
     },
     {
@@ -208,14 +221,14 @@
       "title": "Asylreform: EU-Innenminister sind weiter uneins bei Asyl-Krisenmechanismus",
       "teaser": "Deutschland hat seine Blockade der EU-Krisenverordnung zum Asyl aufgegeben – nun hat Italien Bedenken. Beim Treffen der EU-Innenminister gab es daher keinen Beschluss.",
       "url": "https://www.zeit.de/politik/ausland/2023-09/eu-asylreform-krisenverordnung-innenministerrat-ohne-einigung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/eu-krisenverordnung/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/eu-krisenverordnung/wide__822x462",
       "image_title": "Asylreform: EU-Innenminister sind weiter uneins bei Asyl-Krisenmechanismus"
     },
     {
       "title": "Rishi Sunak: Kein Zug wird kommen",
       "teaser": "Premier Sunak erwägt, eine geplante Bahnstrecke zwischen London und dem Norden Englands nicht zu bauen. Die Wut darüber verdeutlicht, wie abgehängt sich der Norden fühlt.",
       "url": "https://www.zeit.de/politik/2023-09/rishi-sunak-grossbritannien-hs2-manchester-london",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/rishi-sunak-grossbritannien-hs2-manchester/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/rishi-sunak-grossbritannien-hs2-manchester/cinema__980x420",
       "image_title": "Rishi Sunak: Kein Zug wird kommen"
     },
     {
@@ -229,7 +242,7 @@
       "title": "Ukraine-Überblick: Stoltenberg lobt Gegenoffensive, Selenskyj will Hilfen für Luftabwehr",
       "teaser": "Nato-Generalsekretär Stoltenberg ist überraschend in die Ukraine gereist. Präsident Selenskyj hält den Bündnisbeitritt seines Landes für \"eine Frage der Zeit\". Der Tag",
       "url": "https://www.zeit.de/politik/ausland/2023-09/ukraine-ueberblick-jens-stoltenberg-nato-luftabwehr",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-russland-konflikt-wolodymyr-selenskyj-volodymyr-zelensky-stoltenberg/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukraine-russland-konflikt-wolodymyr-selenskyj-volodymyr-zelensky-stoltenberg/wide__822x462",
       "image_title": "Ukraine-Überblick: Stoltenberg lobt Gegenoffensive, Selenskyj will Hilfen für Luftabwehr"
     },
     {
@@ -254,13 +267,6 @@
       "image_title": "Flucht aus Bergkarabach: Auf dem Laster ins Ungewisse"
     },
     {
-      "title": "Liveblog: Ukraine-Krieg: Geflüchtete aus der Ukraine sollen weiter von Sonderregeln profitieren",
-      "teaser": "Mindestens bis März 2025 können vier Millionen ukrainische Flüchtlinge weiter in der EU bleiben. Drei Tote nach russischem Beschuss. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/ukrainische-schueler/wide__822x462",
-      "image_title": "Ukraine-Krieg: Geflüchtete aus der Ukraine sollen weiter von Sonderregeln profitieren"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Aserbaidschan: In einem Tag zum Sieg – wie konnte Aserbaidschan das schaffen?",
       "teaser": "Beim Militärschlag in Bergkarabach setzte das Land Waffen ein, die es eigentlich nicht besitzen dürfte. Doch enge Partner Deutschlands halfen.",
       "url": "https://www.zeit.de/2023/41/aserbaidschan-bergkarabach-konflikt-militaerische-aufruestung",
@@ -282,13 +288,6 @@
       "image_title": "Sozialleistungen für Geflüchtete: Erhalten Geflüchtete kostenlose Zahnbehandlungen?"
     },
     {
-      "title": "Asylbewerber: Bundeszahnärztekammer weist Aussagen von Friedrich Merz zurück",
-      "teaser": "\"In der Zahnmedizin bekommt man immer noch zeitnah einen Termin\", sagt der Präsident der Bundeszahnärztekammer. Wartezeiten durch Migranten gebe es nicht.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/friedrich-merz-asylbewerber-zahnarzt-bundeszahnaerztekammer",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/zahnarzt-wartezeiten/wide__822x462",
-      "image_title": "Asylbewerber: Bundeszahnärztekammer weist Aussagen von Friedrich Merz zurück"
-    },
-    {
       "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
       "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
       "url": "https://www.zeit.de/serie/stoerungsmelder/",
@@ -296,11 +295,11 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
-      "title": "Migration: Merz sorgt mit Aussage über Asylbewerber für Empörung",
-      "teaser": "CDU-Chef Friedrich Merz behauptet, Asylbewerber ließen sich auf Staatskosten neue Zähne machen. Bundesinnenministerin Nancy Faeser spricht von \"erbärmlichem Populismus\".",
-      "url": "https://www.zeit.de/politik/deutschland/2023-09/migration-friedrich-merz-cdu-vorsitzender-zahnersatz-nancy-faeser",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/cdu-vorsitzender-friedrich-merz-bild/wide__822x462",
-      "image_title": "Migration: Merz sorgt mit Aussage über Asylbewerber für Empörung"
+      "title": "Asylbewerber: Bundeszahnärztekammer weist Aussagen von Friedrich Merz zurück",
+      "teaser": "\"In der Zahnmedizin bekommt man immer noch zeitnah einen Termin\", sagt der Präsident der Bundeszahnärztekammer. Wartezeiten durch Migranten gebe es nicht.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-09/friedrich-merz-asylbewerber-zahnarzt-bundeszahnaerztekammer",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-09/zahnarzt-wartezeiten/wide__822x462",
+      "image_title": "Asylbewerber: Bundeszahnärztekammer weist Aussagen von Friedrich Merz zurück"
     },
     {
       "title": "Republikaner: Donald Trump muss diese Konkurrenz nicht fürchten",
