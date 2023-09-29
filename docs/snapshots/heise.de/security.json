@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-29T07:10:18",
+  "timestamp": "2023-09-29T08:13:59",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Netzwerkgeraete-von-Cisco-beobachtet-9320947.html"
+    },
+    {
       "title": "WebP-Lücke",
       "url": "https://www.heise.de/news/Unzaehlige-Anwendungen-betroffen-Chaos-bei-WebP-Luecke-9319783.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-Firefox-ESR-und-Thunderbird-geschlossen-9318479.html"
     },
     {
-      "title": "TeamCity",
-      "url": "https://www.heise.de/news/Softwareentwicklung-Angreifer-koennen-ueber-TeamCity-Luecke-Sourcecode-stehlen-9317631.html"
+      "title": "Balkonkraftwerke: Hoymiles-Sicherheitslücke teilweise geschlossen",
+      "teaser": "Hoymiles hat einen Teil seiner Sicherheitslücken geschlossen. Aktuell lassen sich keine Befehle mehr auf fremden Anlagen ausführen.",
+      "url": "https://www.heise.de/news/Balkonkraftwerke-Hoymiles-Sicherheitsluecke-teilweise-geschlossen-9320315.html",
+      "image_title": "Solar,Battery,On,Balcony,Wall,Of,Vintage,House,In,Germany."
     },
     {
       "title": "Zehn Sicherheitslücken in Chrome geschlossen, eine wird bereits ausgenutzt",
@@ -146,12 +152,6 @@
       "title": "Proof-of-Concept-Exploit für WinRAR-Lücke bringt VenomRAT-Malware mit",
       "teaser": "Mitte August haben die Entwickler eine Zero-Day-Lücke in WinRAR ausgebessert. Dafür taucht ein gefälschter PoC auf, der Malware mitbringt.",
       "url": "https://www.heise.de/news/Proof-of-Concept-Exploit-fuer-WinRAR-Luecke-bringt-VenomRAT-Malware-mit-9313479.html"
-    },
-    {
-      "title": "Neuer Exploit: Apple aktualisiert wichtigste Betriebssysteme – auch iOS 17",
-      "teaser": "Apple hat am Donnerstagabend erneut auf aktive Angriffe auf seine Betriebssysteme reagiert. Betroffen sind auch jüngste Versionen.",
-      "url": "https://www.heise.de/news/Neuer-Exploit-Apple-aktualisiert-wichtigste-Betriebssysteme-auch-iOS-17-9313400.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Die wichtigsten Änderungen der neuen Schwachstellenbewertung CVSS 4.0",
