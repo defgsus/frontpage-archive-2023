@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-09-30T15:09:52",
+  "timestamp": "2023-09-30T16:12:42",
   "url": "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,71 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,51784726.3-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.53fcfd14.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.0e830ffb.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.64ff165c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.705d44e8.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.9da9d98c.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Stephanie Di Meola über den Herzinfarkt ihres Mannes Im Krankenwagen dachte er an Tochter Ava (7)",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/al-di-meola-hatte-herzinfarkt-im-krankenwagen-dachte-er-an-tochter-ava-7-85588938.bild.html"
-    },
-    {
-      "title": "Extremsportlerin will Miss Germany werden Raten Sie mal, wie viele Kinder Silvia hat",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/miss-germany-kandidatin-raten-sie-mal-wie-viele-kinder-silvia-hat-85583310.bild.html"
-    },
-    {
-      "title": "Polizei durchsuchte im Juli sein Haus Gang-Mitglied droht Anklage wegen Tupac-Mord",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/tupac-shakur-gang-mitglied-droht-klage-wegen-mord-an-rapper-85101932.bild.html"
-    }
-  ]
+  "articles": []
 }
