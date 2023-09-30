@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-30T09:10:15",
+  "timestamp": "2023-09-30T10:11:04",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Griechenland: Zurück aus der Verbannung",
+      "teaser": "Wer sein Geld in griechische Staatsanleihen anlegt, muss nicht mehr fürchten, es nie mehr zu sehen. Das Land ist wieder kreditwürdig – weil die Wirtschaft kräftig boomt.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/griechenland-schulden-finanzkrise-wirtschaft-kostis-chatzidakis",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/griechenland-schulden-finanzkrise-wirtschaft-kostis-chatzidakis-1/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Arbeitsmarkt: Rutscht Deutschland in eine Krise?",
       "teaser": "Die Arbeitslosigkeit ist gegenüber dem Vorjahr gestiegen. Wirtschaftsinstitute warnen schon vor einer Rezession. Warum aus dem Dämpfer aber kein Tal werden dürfte.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/arbeitsmarkt-arbeitslosigkeit-rezession-konjunktur-wirtschaftskrise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/arbeitsmarkt-arbeitslosigkeit-rezession-konjunktur-wirtschaftskrise-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/arbeitsmarkt-arbeitslosigkeit-rezession-konjunktur-wirtschaftskrise-bild/wide__822x462",
+      "image_title": "Arbeitsmarkt: Rutscht Deutschland in eine Krise?"
     },
     {
       "title": "Gebäudeenergiegesetz : Bundesrat macht Weg für Heizungsgesetz frei",
@@ -66,22 +73,15 @@
       "title": "Bürokratie: Die Verwaltung ist kein Monster",
       "teaser": "Bürokratie bedeutet die Bindung der Verwaltung an Recht und Gesetz. Der Kampf gegen Überregulierung ist aller Ehren wert, Revolutionsrhetorik aber führt in die Irre.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/buerokratie-sozialstaat-buerokratieabbau-verwaltung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/buerokratie-verwaltung-rechtsstaat/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/buerokratie-verwaltung-rechtsstaat/cinema__980x420",
       "image_title": "Bürokratie: Die Verwaltung ist kein Monster"
     },
     {
       "title": "Energiekosten: Strom und Gas trotz Preisbremsen deutlich teurer",
-      "teaser": "Trotz staatlicher Hilfen sind die Energiepreise für private Haushalte im ersten Halbjahr deutlich gestiegen. Gas war mehr als 50 Prozent teurer als im Vorjahreszeitraum. 110 Kommentare",
+      "teaser": "Trotz staatlicher Hilfen sind die Energiepreise für private Haushalte im ersten Halbjahr deutlich gestiegen. Gas war mehr als 50 Prozent teurer als im Vorjahreszeitraum.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/energiekosten-gas-strom-ersten-halbjahr",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/gas-strom-kosten-anstieg-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/gas-strom-kosten-anstieg-bild/wide__822x462",
       "image_title": "Energiekosten: Strom und Gas trotz Preisbremsen deutlich teurer"
-    },
-    {
-      "title": "Statistisches Bundesamt: Umsatz im Einzelhandel im August überraschend zurückgegangen",
-      "teaser": "Die von Experten prognostizierte Erholung des Einzelhandels ist im August ausgeblieben. Im Vergleich zum Vorjahresmonat sanken die Umsätze real um 1,5 Prozent.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/statistisches-bundesamt-einzelhandel-umsatz-august",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/statistisches-bundesamt-einzelhandel/wide__822x462",
-      "image_title": "Statistisches Bundesamt: Umsatz im Einzelhandel im August überraschend zurückgegangen"
     },
     {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
@@ -91,11 +91,11 @@
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
     },
     {
-      "title": "Class-Pay-Gap: Verhandeln Arbeiterkinder schlechter ihr Gehalt?",
-      "teaser": "Der Gender-Pay-Gap ist bekannt, der Class-Pay-Gap dagegen kaum. Dabei bestimmt die Herkunft die Karriere, sagt Ökonom Marcel Fratzscher. Diskutieren Sie jetzt mit ihm.",
-      "url": "https://www.zeit.de/wirtschaft/2023-09/class-pay-gap-arbeiterkinder-akademiker-einkommen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/class-pay-gap-arbeiterkinder/wide__822x462",
-      "image_title": "Class-Pay-Gap: Verhandeln Arbeiterkinder schlechter ihr Gehalt?"
+      "title": "Statistisches Bundesamt: Umsatz im Einzelhandel im August überraschend zurückgegangen",
+      "teaser": "Die von Experten prognostizierte Erholung des Einzelhandels ist im August ausgeblieben. Im Vergleich zum Vorjahresmonat sanken die Umsätze real um 1,5 Prozent.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/statistisches-bundesamt-einzelhandel-umsatz-august",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/statistisches-bundesamt-einzelhandel/wide__822x462",
+      "image_title": "Statistisches Bundesamt: Umsatz im Einzelhandel im August überraschend zurückgegangen"
     },
     {
       "title": "Wohnungsbaugipfel: Baubranche lobt Regierungspläne, Sozialverbände sehen Mängel",
@@ -203,6 +203,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Class-Pay-Gap: Verhandeln Arbeiterkinder schlechter ihr Gehalt?",
+      "teaser": "Der Gender-Pay-Gap ist bekannt, der Class-Pay-Gap dagegen kaum. Dabei bestimmt die Herkunft die Karriere, sagt Ökonom Marcel Fratzscher. Diskutieren Sie jetzt mit ihm.",
+      "url": "https://www.zeit.de/wirtschaft/2023-09/class-pay-gap-arbeiterkinder-akademiker-einkommen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/class-pay-gap-arbeiterkinder/wide__822x462",
+      "image_title": "Class-Pay-Gap: Verhandeln Arbeiterkinder schlechter ihr Gehalt?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); DMG Mori: Geschäftsinteressen vor Frieden und Freiheit",
       "teaser": "Der deutsche Maschinenbauer DMG Mori sagt, er habe Russland kurz nach Beginn des Krieges gegen die Ukraine verlassen. Doch der Konzern verdient dort weiter Geld.",
       "url": "https://www.zeit.de/2023/41/dmg-mori-russlandgeschaeft-werkzeugmaschinen-ukraine-krieg-sanktionen",
@@ -227,14 +234,14 @@
       "title": "Japanischer Aktienmarkt: Pimpen Sie Ihr Depot mit Japan auf",
       "teaser": "Kaum ein Aktienmarkt ist unter Anlegern gerade so angesagt wie der japanische. Wer einsteigen will, sollte aber auf ein Risiko besonders achten.",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-09/japanischer-aktienmarkt-warren-buffet-money-matters",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/japanischer-aktienmarkt-warren-buffet/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/japanischer-aktienmarkt-warren-buffet/cinema__980x420",
       "image_title": "Japanischer Aktienmarkt: Pimpen Sie Ihr Depot mit Japan auf"
     },
     {
       "title": "Wirtschaftswachstum: Wirtschaftsinstitute senken Konjunkturprognose – Wirtschaft schrumpft",
-      "teaser": "Industrie und privater Konsum erholen sich langsamer als erwartet. Statt mit einem Wachstum des BIP gehen die Forschungsinstitute nun eine Senkung um 0,6 Prozent aus. 795 Kommentare",
+      "teaser": "Industrie und privater Konsum erholen sich langsamer als erwartet. Statt mit einem Wachstum des BIP gehen die Forschungsinstitute nun eine Senkung um 0,6 Prozent aus.",
       "url": "https://www.zeit.de/wirtschaft/2023-09/institute-deutsche-wirtschaft-schrumpft-2023",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-09/wirtschaftsleistung-rueckgang-industrie-produktion-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-09/wirtschaftsleistung-rueckgang-industrie-produktion-bild/wide__822x462",
       "image_title": "Wirtschaftswachstum: Wirtschaftsinstitute senken Konjunkturprognose – Wirtschaft schrumpft"
     },
     {
@@ -243,13 +250,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-09/china-evergrande-baubranche-krise-wirtschaft",
       "image_url": "https://img.zeit.de/wirtschaft/2023-09/immobilienkrise-china-handel-evergrande-aktien-gestoppt-bild/wide__822x462",
       "image_title": "Immobilienkrise in China: Handel mit Aktien des chinesischen Bauträgers Evergrande gestoppt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wohnungsbaugipfel: Günstiges Bauen ist möglich",
-      "teaser": "Auch nach dem Wohnungsgipfel bleibt Bauen in Deutschland bürokratisch, langsam und teuer. Dabei gibt es kreative Ideen, die nur etwas Mut erfordern.",
-      "url": "https://www.zeit.de/2023/41/wohnungsgipfel-bundesregierung-wohungsbau-baukosten",
-      "image_url": "https://img.zeit.de/2023/41/wohnungsgipfel-bundesregierung-wohungsbau-baukosten-bild/wide__822x462",
-      "image_title": "Wohnungsbaugipfel: Günstiges Bauen ist möglich"
     },
     {
       "title": "VW: IT-Störung bei Volkswagen behoben",
