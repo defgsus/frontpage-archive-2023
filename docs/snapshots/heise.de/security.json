@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-09-30T11:08:23",
+  "timestamp": "2023-09-30T12:19:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Kritische Lücke im Mailserver Exim",
+      "url": "https://www.heise.de/news/Kritische-Luecke-im-Mailserver-Exim-9321943.html"
+    },
+    {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Netzwerkgeraete-von-Cisco-beobachtet-9320947.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-Chrome-geschlossen-eine-wird-bereits-ausgenutzt-9319635.html"
     },
     {
-      "title": "Firefox, Firefox ESR, Thunderbird",
-      "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-Firefox-ESR-und-Thunderbird-geschlossen-9318479.html"
+      "title": "Kritische Lücke im Mailserver Exim",
+      "teaser": "Der SMTP-Dienst des freien Mailservers Exim enthält eine kritische Schwachstelle, über die Angreifer beliebigen Code ausführen können. Ein Update gibt es nicht.",
+      "url": "https://www.heise.de/news/Kritische-Luecke-im-Mailserver-Exim-9321943.html"
     },
     {
       "title": "Balkonkraftwerke: Hoymiles schließt Sicherheitslücken",
@@ -147,11 +152,6 @@
       "title": "Sicherheitslücke: Datenleaks auf Drupal-Websites möglich",
       "teaser": "Unter bestimmten Voraussetzungen können Angreifer mit dem Content Management System Drupal erstellte Seiten attackieren. Abgesicherte Versionen sind verfügbar.",
       "url": "https://www.heise.de/news/Sicherheitsluecke-Datenleaks-auf-Drupal-Websites-moeglich-9313594.html"
-    },
-    {
-      "title": "Qnap warnt vor Codeschmuggel durch Schwachstellen",
-      "teaser": "Qnap warnt vor Sicherheitslücken im QTS-Betriebssystem und der Multimedia Console, durch die Angreifer Schadcode einschleusen können.",
-      "url": "https://www.heise.de/news/Qnap-Updates-schliessen-Codeschmuggel-Luecken-9313549.html"
     },
     {
       "title": "Die wichtigsten Änderungen der neuen Schwachstellenbewertung CVSS 4.0",
