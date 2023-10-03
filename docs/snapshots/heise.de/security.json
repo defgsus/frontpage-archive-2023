@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-03T11:09:25",
+  "timestamp": "2023-10-03T12:21:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Android",
+      "url": "https://www.heise.de/news/Angriffe-auf-aeltere-Android-Geraete-Luecke-in-Mali-GPU-nur-teilweise-geschlossen-9323856.html"
+    },
+    {
       "title": "TeamCity",
       "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
     },
@@ -44,24 +48,14 @@
       "url": "https://www.heise.de/news/Angreifer-koennen-ueber-Luecken-in-WS-FTP-Daten-loeschen-9322891.html"
     },
     {
-      "title": "Exim",
-      "url": "https://www.heise.de/news/Kritische-Luecke-im-Mailserver-Exim-9321943.html"
-    },
-    {
-      "title": "Erste Angriffe gesichtet: Angreifer können über Lücken in WS_FTP Daten löschen",
-      "teaser": "Das Softwarepaket für Dateiübertragung WS_FTP ist verwundbar. Die Entwickler haben mehrere Sicherheitslücken geschlossen. Mittlerweile gibt es erste Attacken.",
-      "url": "https://www.heise.de/news/Angreifer-koennen-ueber-Luecken-in-WS-FTP-Daten-loeschen-9322891.html"
+      "title": "Angriffe auf ältere Android-Geräte: Lücke in Mali-GPU nur teilweise geschlossen",
+      "teaser": "Aufgrund mehrerer Schwachstellen im Treiber der Grafikeinheit Mali sind unter anderem Smartphone-Modelle von Samsung und Xiaomi verwundbar.",
+      "url": "https://www.heise.de/news/Angriffe-auf-aeltere-Android-Geraete-Luecke-in-Mali-GPU-nur-teilweise-geschlossen-9323856.html"
     },
     {
       "title": "Jetzt patchen! Ransomware schlüpft durch kritische TeamCity-Lücke",
       "teaser": "Angreifer nutzen eine Sicherheitslücke des Software-Distributionssystems TeamCity aus, das weltweit über 30.000 Firmen wie Citibank, HP und Nike einsetzen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
-    },
-    {
-      "title": "Windows stufte Tor Browser fälschlicherweise als Malware ein",
-      "teaser": "Der Tor Browser war aufgrund einer falschen Einstufung als Trojaner durch den Virenschutz Defender nicht nutzbar. Nutzer können ein Update manuell anstoßen.",
-      "url": "https://www.heise.de/news/Start-verhindert-Microsofts-Virenscanner-Defender-stufte-Tor-Browser-faelschlicherweise-als-Malware-9323834.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Exim-Lücke: Erste Patches laufen ein",
@@ -78,6 +72,16 @@
       "title": "Jetzt patchen! Exploit für kritische Sharepoint-Lücke veröffentlicht",
       "teaser": "Admins sollten ihre Sharepoint-Server zügig patchen, denn für eine im Juni durch Microsoft behobene Lücke steht jetzt ein Proof-of-Concept-Exploit bereit.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-fuer-kritische-Sharepoint-Luecke-veroeffentlicht-9323472.html"
+    },
+    {
+      "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
+      "teaser": "AVM schließt bei vielen Fritzboxen eine Sicherheitslücke. Unserer Analyse zufolge lässt sie sich aus der Ferne ausnutzen – sogar mit abgeschaltetem Fernzugriff.",
+      "url": "https://www.heise.de/hintergrund/Fritzbox-Sicherheitsleck-analysiert-Risiken-und-Gegenmassnahmen-9323225.html"
+    },
+    {
+      "title": "Cybercrime: Erpressergang greift Hotelkette MotelOne an",
+      "teaser": "Terabytes interne Daten der Hotelkette MotelOne stehen offen im Darknet. Darunter befinden sich auch Buchungs- und Zahlungsinformationen und interne Zugänge.",
+      "url": "https://www.heise.de/news/Cybercrime-Erpressergang-greift-Hotelkette-MotelOne-an-9322397.html"
     },
     {
       "title": "Kritische Lücke im Mailserver Exim",
@@ -148,12 +152,6 @@
       "url": "https://www.heise.de/news/Schadcode-Luecken-in-Firefox-Firefox-ESR-und-Thunderbird-geschlossen-9318479.html"
     },
     {
-      "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
-      "teaser": "Lernen Sie, wie Sie Angriffe auf das lokale Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können. (Frühbucherrabatt bis 10.10.)",
-      "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9310204.html",
-      "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
       "teaser": "AVM schließt bei vielen Fritzboxen eine Sicherheitslücke. Unserer Analyse zufolge lässt sie sich aus der Ferne ausnutzen – sogar mit abgeschaltetem Fernzugriff.",
       "url": "https://www.heise.de/hintergrund/Fritzbox-Sicherheitsleck-analysiert-Risiken-und-Gegenmassnahmen-9323225.html"
@@ -172,7 +170,7 @@
     {
       "title": "Re: update nicht erfolgreich...",
       "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-update-nicht-erfolgreich/posting-43181985/show/"
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-update-nicht-erfolgreich/posting-43182498/show/"
     },
     {
       "title": "Desinfect2023-24,BTRFS: Pythondatei _sitebuilts.py fehlt, behebbar.",
