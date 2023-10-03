@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-03T09:11:26",
+  "timestamp": "2023-10-03T10:12:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Jetzt patchen! Ransomware schlüpft durch kritische TeamCity-Lücke",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
+    },
+    {
       "title": "Sharepoint",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-fuer-kritische-Sharepoint-Luecke-veroeffentlicht-9323472.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Kritische-Luecke-im-Mailserver-Exim-9321943.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Netzwerkgeraete-von-Cisco-beobachtet-9320947.html"
+      "title": "Jetzt patchen! Ransomware schlüpft durch kritische TeamCity-Lücke",
+      "teaser": "Angreifer nutzen eine Sicherheitslücke des Software-Distributionssystems TeamCity aus, das weltweit über 30.000 Firmen wie Citibank, HP und Nike einsetzen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
+    },
+    {
+      "title": "Windows stufte Tor Browser fälschlicherweise als Malware ein",
+      "teaser": "Der Tor Browser war aufgrund einer falschen Einstufung als Trojaner durch den Virenschutz Defender nicht nutzbar. Nutzer können ein Update manuell anstoßen.",
+      "url": "https://www.heise.de/news/Start-verhindert-Microsofts-Virenscanner-Defender-stufte-Tor-Browser-faelschlicherweise-als-Malware-9323834.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Exim-Lücke: Erste Patches laufen ein",
@@ -141,17 +152,6 @@
       "teaser": "Lernen Sie, wie Sie Angriffe auf das lokale Active Directory Ihres Unternehmens sicher erkennen und effektiv verhindern können. (Frühbucherrabatt bis 10.10.)",
       "url": "https://www.heise.de/news/iX-Workshop-Lokales-Active-Directory-gegen-Angriffe-absichern-9310204.html",
       "image_title": "iX-Workshop: Angriffe erkennen und lokales Active Directory absichern"
-    },
-    {
-      "title": "PGP-verschlüsselte E-Mails mit macOS 14: GPGTools warnt vor schnellem Upgrade",
-      "teaser": "macOS 14 sägt Mail-Plug-ins ab, bewährte Tools wie GPG funktionieren deshalb nicht mehr. GPGTools stellt aber eine neue Extension für Apple Mail in Aussicht.",
-      "url": "https://www.heise.de/news/PGP-verschluesselte-E-Mails-mit-macOS-14-GPGTools-warnt-vor-schnellem-Upgrade-9318030.html",
-      "image_title": "Aufgeklapptes MacBook Pro"
-    },
-    {
-      "title": "Softwareentwicklung: Angreifer können über TeamCity-Lücke Sourcecode stehlen",
-      "teaser": "In einer aktuellen Version von TeamCity haben die Verantwortlichen ein gefährliches Sicherheitsproblem gelöst.",
-      "url": "https://www.heise.de/news/Softwareentwicklung-Angreifer-koennen-ueber-TeamCity-Luecke-Sourcecode-stehlen-9317631.html"
     },
     {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
