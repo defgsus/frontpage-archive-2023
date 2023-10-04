@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-04T07:10:39",
+  "timestamp": "2023-10-04T08:15:06",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-als-hohes-Risiko-eingestufte-Luecke-in-Chrome-9324437.html"
+    },
+    {
       "title": "Android",
       "url": "https://www.heise.de/news/Angriffe-auf-aeltere-Android-Geraete-Luecke-in-Mali-GPU-nur-teilweise-geschlossen-9323856.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-fuer-kritische-Sharepoint-Luecke-veroeffentlicht-9323472.html"
     },
     {
-      "title": "WS_FTP Server",
-      "url": "https://www.heise.de/news/Angreifer-koennen-ueber-Luecken-in-WS-FTP-Daten-loeschen-9322891.html"
+      "title": "Webbrowser: Google schließt als hohes Risiko eingestufte Lücke in Chrome",
+      "teaser": "Google hat dem Webbrowser Chrome ein Sicherheitsupdate spendiert. Es schließt eine Lücke mit hohem Bedrohungsgrad.",
+      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-als-hohes-Risiko-eingestufte-Luecke-in-Chrome-9324437.html"
+    },
+    {
+      "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
+      "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv gegen Angriffe schützen. Frühbucherrabatt bis 17.10.",
+      "url": "https://www.heise.de/news/iX-Workshop-Entra-ID-Azure-Active-Directory-gegen-Angriffe-absichern-9318586.html",
+      "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
     },
     {
       "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
@@ -140,17 +151,6 @@
       "title": "Liechtenstein: Kritik an IT-Sicherheit beim E-Gesundheitsdossier zurückgewiesen",
       "teaser": "IT-Verantwortliche des elektronischen Gesundheitsdossiers von Liechtenstein weisen IT-Sicherheitsbedenken von Experten zurück.",
       "url": "https://www.heise.de/news/Liechtenstein-Kritik-an-IT-Sicherheit-beim-E-Gesundheitsdossier-zurueckgewiesen-9319215.html"
-    },
-    {
-      "title": "Die wichtigsten Änderungen der neuen Schwachstellenbewertung CVSS 4.0",
-      "teaser": "CVSS v4.0 löst Ende Oktober 2023 die Vorgängerversion 3.1 ab. Wer mit dem Bewertungssystem arbeitet, muss etwas umdenken - wir erklären, an welchen Stellen.",
-      "url": "https://www.heise.de/hintergrund/Die-wichtigsten-Aenderungen-der-neuen-Schwachstellenbewertung-CVSS-4-0-9318903.html"
-    },
-    {
-      "title": "Cyberkriminelle streiten um Ausführung des angeblichen Sony-Hacks",
-      "teaser": "Mittlerweile behaupten zwei Gruppen, in die IT-Systeme von Sony eingestiegen zu sein und Daten kopiert zu haben. Sony sagt dazu derzeit nicht viel.",
-      "url": "https://www.heise.de/news/Cyberkriminelle-streiten-um-Ausfuehrung-des-angeblichen-Sony-Hacks-9318652.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
