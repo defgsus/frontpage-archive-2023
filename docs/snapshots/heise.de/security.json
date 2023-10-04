@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-04T09:11:44",
+  "timestamp": "2023-10-04T10:12:27",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,15 +48,9 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
     },
     {
-      "title": "Patchday: Attacken auf Android 11, 12 und 13 beobachtet",
-      "teaser": "Unter anderem Google hat wichtige Sicherheitsupdates für Android-Geräte veröffentlicht. Zwei Lücken haben Angreifer bereits im Visier.",
-      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Android-11-12-und-13-beobachtet-9324125.html",
-      "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "Webbrowser: Google schließt als hohes Risiko eingestufte Lücke in Chrome",
-      "teaser": "Google hat dem Webbrowser Chrome ein Sicherheitsupdate spendiert. Es schließt eine Lücke mit hohem Bedrohungsgrad.",
-      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-als-hohes-Risiko-eingestufte-Luecke-in-Chrome-9324437.html"
+      "title": "Lücke in glibc erlaubt Rechteausweitung",
+      "teaser": "In der zentralen Linux-Bibliothek klafft eine Lücke, durch die Angreifer Root-Rechte erlangen können. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/Luecke-in-glibc-erlaubt-Rechteausweitung-9324444.html"
     },
     {
       "title": "iX-Workshop: Entra ID (Azure Active Directory) gegen Angriffe absichern",
@@ -76,9 +70,20 @@
       "url": "https://www.heise.de/news/Angriffe-auf-aeltere-Android-Geraete-Luecke-in-Mali-GPU-nur-teilweise-geschlossen-9323856.html"
     },
     {
+      "title": "Erste Angriffe gesichtet: Angreifer können über Lücken in WS_FTP Daten löschen",
+      "teaser": "Das Softwarepaket für Dateiübertragung WS_FTP ist verwundbar. Die Entwickler haben mehrere Sicherheitslücken geschlossen. Mittlerweile gibt es erste Attacken.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-ueber-Luecken-in-WS-FTP-Daten-loeschen-9322891.html"
+    },
+    {
       "title": "Jetzt patchen! Ransomware schlüpft durch kritische TeamCity-Lücke",
       "teaser": "Angreifer nutzen eine Sicherheitslücke des Software-Distributionssystems TeamCity aus, das weltweit über 30.000 Firmen wie Citibank, HP und Nike einsetzen.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
+    },
+    {
+      "title": "Windows stufte Tor Browser fälschlicherweise als Malware ein",
+      "teaser": "Der Tor Browser war aufgrund einer falschen Einstufung als Trojaner durch den Virenschutz Defender nicht nutzbar. Nutzer können ein Update manuell anstoßen.",
+      "url": "https://www.heise.de/news/Start-verhindert-Microsofts-Virenscanner-Defender-stufte-Tor-Browser-faelschlicherweise-als-Malware-9323834.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Exim-Lücke: Erste Patches laufen ein",
@@ -147,11 +152,6 @@
       "title": "Zehn Sicherheitslücken in Chrome geschlossen, eine wird bereits ausgenutzt",
       "teaser": "Google sichert seinen Webbrowser Chrome abermals gegen laufende Attacken ab.",
       "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-Chrome-geschlossen-eine-wird-bereits-ausgenutzt-9319635.html"
-    },
-    {
-      "title": "Balkonkraftwerke: Bedrohliche Sicherheitslücken bei Hoymiles",
-      "teaser": "Ein Sicherheitsforscher hat sich Hoymiles' Cloudservice genauer angesehen und Lücken gefunden, über die Wechselrichter sogar zerstört werden können.",
-      "url": "https://www.heise.de/news/Hoymiles-Bedrohliche-Luecken-in-der-S-Miles-Cloud-9319500.html"
     },
     {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
