@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-05T07:10:26",
+  "timestamp": "2023-10-05T08:15:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Confluence Data Center und Server",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Confluence-Data-Center-Angreifer-machen-sich-zu-Admins-9325414.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Attacken-auf-Android-11-12-und-13-beobachtet-9324125.html"
     },
@@ -44,26 +48,27 @@
       "url": "https://www.heise.de/news/Angriffe-auf-aeltere-Android-Geraete-Luecke-in-Mali-GPU-nur-teilweise-geschlossen-9323856.html"
     },
     {
-      "title": "TeamCity",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Ransomware-schluepft-durch-kritische-TeamCity-Luecke-9323844.html"
-    },
-    {
-      "title": "iOS App Store: IT-Forscher entdecken Investitionsbetrugs-Apps",
-      "teaser": "IT-Forscher von Kaspersky haben in Apples App Store für iOS bösartige Apps entdeckt, denen Investitionsbetrug gemein ist.",
-      "url": "https://www.heise.de/news/iOS-App-Store-IT-Forscher-entdecken-Investitionsbetrugs-Apps-9325444.html",
-      "image_title": "Sankt-petersburg,,Russia,,April,27,,2018:,Apple,Store,Application,Icon,On"
-    },
-    {
       "title": "Statt Palantir: Polizei soll eigene Recherche- und Analyseplattform schaffen",
       "teaser": "Die Bundesregierung dementiert, dem Zollkriminalamt den Einsatz der Palantir-Software Gotham verboten zu haben. Sie drängt aber auf Herstellerunabhängigkeit.",
       "url": "https://www.heise.de/news/Kein-Palantir-Polizei-soll-Big-Data-Analysen-mit-Eigenkompetenz-voranbringen-9325396.html",
       "image_title": "Ai,(artificial,Intelligence),Concept.,Contents,Concept.,Social,Networking,Service.,Streaming"
     },
     {
+      "title": "heise Security Webinar zum Frühbuchertarif: Security mit System - auch für KMUs",
+      "teaser": "Nur noch bis Montag zum ermäßigten Preis: Wie bringe ich trotz beschränkter Ressourcen Security in mein Unternehmen? Das Webinar für IT-Verantwortliche in KMUs.",
+      "url": "https://www.heise.de/news/heise-Security-Webinar-zum-Fruehbuchertarif-Security-mit-System-auch-fuer-KMUs-9324562.html",
+      "image_title": "heise Security Tour 2023"
+    },
+    {
       "title": "Weniger Spam und Phishing: Gmail bekommt neue Standards",
       "teaser": "Wer 5000 Mails an einem Tag an Gmail-Adressen sendet, muss neue Voraussetzungen erfüllen. Sonst droht eine Blockade.",
       "url": "https://www.heise.de/news/Weniger-Spam-und-Phishing-Gmail-bekommt-neue-Standards-9324697.html",
       "image_title": "Google,Gmail,App,On,The,Smartphone,Screen,On,Wooden,Background."
+    },
+    {
+      "title": "Rechteausweitung durch Pufferüberlauf in glibc",
+      "teaser": "In der zentralen Linux-Bibliothek klafft eine Lücke, durch die Angreifer Root-Rechte erlangen können. Patches stehen bereit.",
+      "url": "https://www.heise.de/news/Luecke-in-glibc-erlaubt-Rechteausweitung-9324444.html"
     },
     {
       "title": "Patchday: Attacken auf Android 11, 12 und 13 beobachtet",
@@ -151,11 +156,6 @@
       "url": "https://www.heise.de/news/heise-Security-Webinar-Exchange-Online-Security-optimieren-und-ueberwachen-9320441.html"
     },
     {
-      "title": "60.000 geklaute Regierungsmails: Erste Zahlen nach Microsofts Cloud-Key-Debakel",
-      "teaser": "Microsoft hat sich einen Token Signing Key für die Azure Cloud klauen lassen, die Auswirkungen waren unklar. Nun gibt es erste Zahlen zu den Folgen.",
-      "url": "https://www.heise.de/news/60-000-geklaute-Regierungsmails-Erste-Zahlen-nach-Microsofts-Cloud-Key-Debakel-9321044.html"
-    },
-    {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
       "teaser": "AVM schließt bei vielen Fritzboxen eine Sicherheitslücke. Unserer Analyse zufolge lässt sie sich aus der Ferne ausnutzen – sogar mit abgeschaltetem Fernzugriff.",
       "url": "https://www.heise.de/hintergrund/Fritzbox-Sicherheitsleck-analysiert-Risiken-und-Gegenmassnahmen-9323225.html"
@@ -172,6 +172,11 @@
       "image_title": "Signal"
     },
     {
+      "title": "Kostenloser Dienst für IP Reputation/Fraud Score - Abfrage per API",
+      "teaser": "Forum: Firewall, VPN & IDS",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Firewall-VPN-IDS/Kostenloser-Dienst-fuer-IP-Reputation-Fraud-Score-Abfrage-per-API/posting-43188852/show/"
+    },
+    {
       "title": "Mitgelieferter Stick lässt sich nicht umwandeln",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Mitgelieferter-Stick-laesst-sich-nicht-umwandeln/posting-43183431/show/"
@@ -180,11 +185,6 @@
       "title": "Re: update nicht erfolgreich...",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-update-nicht-erfolgreich/posting-43183054/show/"
-    },
-    {
-      "title": "Desinfect2023-24,BTRFS: Pythondatei _sitebuilts.py fehlt, behebbar.",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect2023-24-BTRFS-Pythondatei-sitebuilts-py-fehlt-behebbar/posting-43179946/show/"
     }
   ]
 }
