@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-05T08:15:18",
+  "timestamp": "2023-10-05T09:11:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Supermicro IPMI",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Supermicro-IPMI-Server-uebers-Internet-angreifbar-9325519.html"
+    },
+    {
       "title": "Atlassian Confluence Data Center und Server",
       "url": "https://www.heise.de/news/Jetzt-patchen-Confluence-Data-Center-Angreifer-machen-sich-zu-Admins-9325414.html"
     },
@@ -44,8 +48,19 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-als-hohes-Risiko-eingestufte-Luecke-in-Chrome-9324437.html"
     },
     {
-      "title": "Android",
-      "url": "https://www.heise.de/news/Angriffe-auf-aeltere-Android-Geraete-Luecke-in-Mali-GPU-nur-teilweise-geschlossen-9323856.html"
+      "title": "Phishing-Masche: Betrugsmails vom Europäischen Amt für Betrugsbekämpfung",
+      "teaser": "Das LKA Niedersachsen warnt vor einer aktuellen Phishing-Masche. Die Betrüger geben vor, im Namen des Europäischen Amtes für Betrugsbekämpfung zu agieren.",
+      "url": "https://www.heise.de/news/Phishing-Masche-Betrugsmails-vom-Europaeischen-Amt-fuer-Betrugsbekaempfung-9325541.html"
+    },
+    {
+      "title": "Sicherheitslücken in Supermicro IPMI: Server übers Internet angreifbar",
+      "teaser": "Kritische Lücken machen Supermicros Überwachungs- und Remote-Control-Funktion IPMI angreifbar. Der Hersteller bietet Updates – aber nur für neuere Boards.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Supermicro-IPMI-Server-uebers-Internet-angreifbar-9325519.html"
+    },
+    {
+      "title": "Wieder Exploit-Update für iOS und iPadOS – das wohl auch Hitzeproblem fixt",
+      "teaser": "Apple hat in der Nacht zum Donnerstag erneut wichtige Fixes für sein iPhone- und iPad-Betriebssystem vorgelegt. Es geht um Sicherheit und Überhitzung.",
+      "url": "https://www.heise.de/news/Wieder-Exploit-Update-fuer-iOS-und-iPadOS-das-wohl-auch-Hitzeproblem-fixt-9325367.html"
     },
     {
       "title": "Statt Palantir: Polizei soll eigene Recherche- und Analyseplattform schaffen",
@@ -139,21 +154,6 @@
       "title": "Cybercrime: Erpressergang greift Hotelkette MotelOne an",
       "teaser": "Terabytes interne Daten der Hotelkette MotelOne stehen offen im Darknet. Darunter befinden sich auch Buchungs- und Zahlungsinformationen und interne Zugänge.",
       "url": "https://www.heise.de/news/Cybercrime-Erpressergang-greift-Hotelkette-MotelOne-an-9322397.html"
-    },
-    {
-      "title": "Kritische Lücke im Mailserver Exim",
-      "teaser": "Der SMTP-Dienst des freien Mailservers Exim enthält eine kritische Schwachstelle, über die Angreifer beliebigen Code ausführen können. Updates sind unterwegs.",
-      "url": "https://www.heise.de/news/Kritische-Luecke-im-Mailserver-Exim-9321943.html"
-    },
-    {
-      "title": "Balkonkraftwerke: Hoymiles schließt Sicherheitslücken",
-      "teaser": "Der Wechselrichterhersteller hat die Lücken in der API geschlossen – das haben wir verifiziert. Im Gespräch gelobte Hoymiles Besserung.",
-      "url": "https://www.heise.de/news/Balkonkraftwerke-Hoymiles-schliesst-Sicherheitsluecken-9321291.html"
-    },
-    {
-      "title": "heise Security Webinar: Exchange Online Security optimieren und überwachen",
-      "teaser": "Die Cloud ist kein Garant für Security – wer Exchange Online sicher betreiben will, muss da selbst Hand anlegen. Dieses Webinar zeigt, wo und wie.",
-      "url": "https://www.heise.de/news/heise-Security-Webinar-Exchange-Online-Security-optimieren-und-ueberwachen-9320441.html"
     },
     {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
