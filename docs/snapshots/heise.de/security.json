@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-05T10:12:39",
+  "timestamp": "2023-10-05T11:09:36",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "PyTorch TorchServe",
+      "url": "https://www.heise.de/news/KI-Tool-Kritische-Sicherheitsluecken-in-TorchServe-9325638.html"
+    },
+    {
       "title": "Supermicro IPMI",
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Supermicro-IPMI-Server-uebers-Internet-angreifbar-9325519.html"
     },
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Patchday-Attacken-auf-Android-11-12-und-13-beobachtet-9324125.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-als-hohes-Risiko-eingestufte-Luecke-in-Chrome-9324437.html"
+      "title": "KI-Tool: Kritische Sicherheitslücken in TorchServe",
+      "teaser": "In TorchServe, einer Komponente des Maschinenlernsystems PyTorch, klaffen kritische Schwachstellen. Updates sollten zügig installiert werden.",
+      "url": "https://www.heise.de/news/KI-Tool-Kritische-Sicherheitsluecken-in-TorchServe-9325638.html"
     },
     {
-      "title": "iX-Workshop IT-Sicherheit: Aktuelle Angriffstechniken und ihre Abwehr",
+      "title": "iX-Workshop: Schutz vor Cyberangriffen - Verstehen, erkennen und abwehren",
       "teaser": "Analysieren Sie aktuelle Angriffstechniken, um die Wirksamkeit Ihrer Schutzmaßnahmen und die Verletzlichkeit Ihrer IT einzuschätzen. Last Call",
       "url": "https://www.heise.de/news/iX-Workshop-IT-Sicherheit-Aktuelle-Angriffstechniken-und-ihre-Abwehr-9318783.html",
       "image_title": "iX-Workshop Cybersicherheit: aktuelle Bedrohungen und ihre Abwehr"
@@ -150,11 +155,6 @@
       "title": "Jetzt patchen! Exploit für kritische Sharepoint-Lücke veröffentlicht",
       "teaser": "Admins sollten ihre Sharepoint-Server zügig patchen, denn für eine im Juni durch Microsoft behobene Lücke steht jetzt ein Proof-of-Concept-Exploit bereit.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploit-fuer-kritische-Sharepoint-Luecke-veroeffentlicht-9323472.html"
-    },
-    {
-      "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
-      "teaser": "AVM schließt bei vielen Fritzboxen eine Sicherheitslücke. Unserer Analyse zufolge lässt sie sich aus der Ferne ausnutzen – sogar mit abgeschaltetem Fernzugriff.",
-      "url": "https://www.heise.de/hintergrund/Fritzbox-Sicherheitsleck-analysiert-Risiken-und-Gegenmassnahmen-9323225.html"
     },
     {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
