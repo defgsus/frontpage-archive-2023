@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-05T12:22:57",
+  "timestamp": "2023-10-05T13:16:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.eca3119f4bd81d0b3f48",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2a7568cc0a1fb1f71835",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Watchguard EPDR & AD360",
+      "url": "https://www.heise.de/news/Malware-Schutz-Schwachstellen-in-Watchguard-EPDR-und-AD360-geschlossen-9326078.html"
+    },
     {
       "title": "Cisco",
       "url": "https://www.heise.de/news/Notruf-Tool-Cisco-Emergency-Responder-mit-statischen-Zugangsdaten-9325669.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-in-Supermicro-IPMI-Server-uebers-Internet-angreifbar-9325519.html"
     },
     {
-      "title": "Atlassian Confluence Data Center und Server",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Confluence-Data-Center-Angreifer-machen-sich-zu-Admins-9325414.html"
+      "title": "Malware-Schutz: Schwachstellen in Watchguard EPDR und AD360 geschlossen",
+      "teaser": "In den Malware-Schutzlösungen Watchguard EPDR und AD360 klaffen teils Sicherheitslücken mit hohem Risiko. Aktualisierungen stehen bereit.",
+      "url": "https://www.heise.de/news/Malware-Schutz-Schwachstellen-in-Watchguard-EPDR-und-AD360-geschlossen-9326078.html"
     },
     {
       "title": "Root- und DoS-Attacken auf Cisco-Produkte möglich",
@@ -150,12 +155,6 @@
       "title": "Exim-Lücke: Erste Patches laufen ein",
       "teaser": "Nach verschiedenen Kommunikationspannen hat das Exim-Team kritische Sicherheitslücken im beliebten Mailserver behoben. Debian verteilt bereits Updates.",
       "url": "https://www.heise.de/news/Exim-Luecke-Erste-Patches-laufen-ein-9323709.html"
-    },
-    {
-      "title": "BSI-Umfrage: Kritische Infrastrukturen haben Nachholbedarf bei IT-Sicherheit",
-      "teaser": "Vor allem bei der Umsetzung organisatorischer Sicherheitsmaßnahmen hapert es noch bei Betreibern kritischer Infrastrukturen. Gründe: Personal- und Geldmangel.",
-      "url": "https://www.heise.de/news/BSI-Umfrage-Kritische-Infrastrukturen-haben-Nachholbedarf-bei-IT-Sicherheit-9323606.html",
-      "image_title": "Energie, Infrastruktur, Kühltürme, Sicherheit, Gefahr"
     },
     {
       "title": "Fritzbox-Sicherheitsleck analysiert: Risiko sogar bei deaktiviertem Fernzugriff",
