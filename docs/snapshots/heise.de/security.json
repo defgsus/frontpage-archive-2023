@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-06T08:14:28",
+  "timestamp": "2023-10-06T09:11:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.0227cc108ee4687c427b",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9153c569a4dcd0f0afe2",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Dell SmartFabric Storage Software",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Dell-SmartFabric-Storage-Software-9326738.html"
+    },
     {
       "title": "Watchguard EPDR & AD360",
       "url": "https://www.heise.de/news/Malware-Schutz-Schwachstellen-in-Watchguard-EPDR-und-AD360-geschlossen-9326078.html"
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/KI-Tool-Kritische-Sicherheitsluecken-in-TorchServe-9325638.html"
     },
     {
-      "title": "Supermicro IPMI",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-in-Supermicro-IPMI-Server-uebers-Internet-angreifbar-9325519.html"
+      "title": "Sicherheitsupdate: Root-Lücke bedroht Dell SmartFabric Storage Software",
+      "teaser": "Dell hat mehrere gefährliche Sicherheitslücken in SmartFabric Storage Software geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Dell-SmartFabric-Storage-Software-9326738.html"
+    },
+    {
+      "title": "IoT: Weniger öffentlich erreichbare Inudstriesteuerungssysteme im Netz",
+      "teaser": "Die Anzahl von im Internet zugreifbaren IoT-Systemen sinkt. Analytiker haben dennoch rund 100.000 Industriesteuerungen im Netz gefunden.",
+      "url": "https://www.heise.de/news/IoT-Weniger-oeffentlich-erreichbare-Inudstriesteuerungssysteme-im-Netz-9326570.html"
     },
     {
       "title": "Botnet: Nach Qakbot-Takedown verteilen Drahtzieher weiter Malware",
@@ -145,17 +155,6 @@
       "title": "Rechteausweitung durch Pufferüberlauf in glibc",
       "teaser": "In der zentralen Linux-Bibliothek klafft eine Lücke, durch die Angreifer Root-Rechte erlangen können. Patches stehen bereit.",
       "url": "https://www.heise.de/news/Luecke-in-glibc-erlaubt-Rechteausweitung-9324444.html"
-    },
-    {
-      "title": "Patchday: Attacken auf Android 11, 12 und 13 beobachtet",
-      "teaser": "Unter anderem Google hat wichtige Sicherheitsupdates für Android-Geräte veröffentlicht. Zwei Lücken haben Angreifer bereits im Visier.",
-      "url": "https://www.heise.de/news/Patchday-Attacken-auf-Android-11-12-und-13-beobachtet-9324125.html",
-      "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "Webbrowser: Update für Google Chrome schließt Lücke mit hohem Risiko",
-      "teaser": "Google hat dem Webbrowser Chrome ein Sicherheitsupdate spendiert. Es schließt eine Lücke mit hohem Bedrohungsgrad.",
-      "url": "https://www.heise.de/news/Webbrowser-Google-schliesst-als-hohes-Risiko-eingestufte-Luecke-in-Chrome-9324437.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
