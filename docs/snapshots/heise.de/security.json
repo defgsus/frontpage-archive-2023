@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-06T10:12:13",
+  "timestamp": "2023-10-06T11:09:37",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "glibc",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Exploits-fuer-glibc-Luecke-oeffentlich-verfuegbar-9326518.html"
+    },
+    {
       "title": "Dell SmartFabric Storage Software",
       "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Dell-SmartFabric-Storage-Software-9326738.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Notruf-Tool-Cisco-Emergency-Responder-mit-statischen-Zugangsdaten-9325669.html"
     },
     {
-      "title": "PyTorch TorchServe",
-      "url": "https://www.heise.de/news/KI-Tool-Kritische-Sicherheitsluecken-in-TorchServe-9325638.html"
+      "title": "Jetzt patchen! Exploits für glibc-Lücke öffentlich verfügbar",
+      "teaser": "Nachdem der Bug in der Linux-Bibliothek glibc am vergangenen Dienstag bekannt wurde, sind nun zuverlässig funktionierende Exploits aufgetaucht.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Exploits-fuer-glibc-Luecke-oeffentlich-verfuegbar-9326518.html",
+      "image_title": "Android-Exploit schleust beliebige Apps ein"
     },
     {
       "title": "Sicherheitsupdate: Root-Lücke bedroht Dell SmartFabric Storage Software",
@@ -53,7 +59,7 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Dell-SmartFabric-Storage-Software-9326738.html"
     },
     {
-      "title": "IoT: Weniger öffentlich erreichbare Inudstriesteuerungssysteme im Netz",
+      "title": "IoT: Weniger öffentlich erreichbare Industriesteuerungssysteme im Netz",
       "teaser": "Die Anzahl von im Internet zugreifbaren IoT-Systemen sinkt. Analytiker haben dennoch rund 100.000 Industriesteuerungen im Netz gefunden.",
       "url": "https://www.heise.de/news/IoT-Weniger-oeffentlich-erreichbare-Inudstriesteuerungssysteme-im-Netz-9326570.html"
     },
@@ -150,11 +156,6 @@
       "teaser": "Wer 5000 Mails an einem Tag an Gmail-Adressen sendet, muss neue Voraussetzungen erfüllen. Sonst droht eine Blockade.",
       "url": "https://www.heise.de/news/Weniger-Spam-und-Phishing-Gmail-bekommt-neue-Standards-9324697.html",
       "image_title": "Google,Gmail,App,On,The,Smartphone,Screen,On,Wooden,Background."
-    },
-    {
-      "title": "Rechteausweitung durch Pufferüberlauf in glibc",
-      "teaser": "In der zentralen Linux-Bibliothek klafft eine Lücke, durch die Angreifer Root-Rechte erlangen können. Patches stehen bereit.",
-      "url": "https://www.heise.de/news/Luecke-in-glibc-erlaubt-Rechteausweitung-9324444.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
