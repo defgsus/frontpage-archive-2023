@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-06T18:14:26",
+  "timestamp": "2023-10-06T19:08:36",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.ec62e36b860412bd8747.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -92,17 +98,45 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ferenc Krausz: \"Anspruchsvolle Experimente können tagsüber nicht funktionieren\"",
+      "teaser": "Wie misst man winzige und unfassbar schnelle Teilchen? Der Nobelpreisträger Ferenc Krausz über ultrakurze Laserpulse, fliegende Elektronen und unsichtbares Licht.",
+      "url": "https://www.zeit.de/wissen/2023-10/ferenc-krausz-nobelpreis-physik-krebs-forschung-attosekunden",
+      "image_url": "https://img.zeit.de/wissen/2023-10/ferenc-krausz-nobelpreis-physik-krebs-forschung-attosekunden-bild/cinema__980x420"
+    },
+    {
       "title": "Seenotrettung: Eine scheinheilige Förderung",
       "teaser": "Als einziges Land in Europa unterstützt Deutschland die private Seenotrettung. Das ist ein wichtiges Signal. Aber manche NGOs wollen das Geld gar nicht.",
       "url": "https://www.zeit.de/gesellschaft/2023-10/seenotrettung-staatliche-foerderung-deutschland-europa",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/seenotrettung-staatliche-foerderung-deutschland-europa-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesellschaft/2023-10/seenotrettung-staatliche-foerderung-deutschland-europa-bild/cinema__980x420",
+      "image_title": "Seenotrettung: Eine scheinheilige Förderung"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gefälschtes Diabetes-Medikament: Wie konnten gefälschte Ozempic-Spritzen nach Deutschland kommen?",
+      "title": "Gefälschtes Diabetes-Medikament: Wie konnten gefälschte Ozempic-Spritzen nach Deutschland kommen?",
       "teaser": "Ozempic ist das wohl meistgehypte Medikament der Welt. Nun warnen deutsche Behörden: Bundesweit könnte es in der legalen Lieferkette Fälschungen geben. Wie kann das sein?",
       "url": "https://www.zeit.de/gesundheit/2023-10/gefaelschtes-diabetes-medikament-ozempic-lieferkette",
       "image_url": "https://img.zeit.de/gesundheit/2023-10/ozempic-medikament-insulin-abnehmen/wide__822x462",
       "image_title": "Gefälschtes Diabetes-Medikament: Wie konnten gefälschte Ozempic-Spritzen nach Deutschland kommen?"
+    },
+    {
+      "title": "USA: Black Lives Matter hat etwas bewirkt",
+      "teaser": "US-Firmen stellen überdurchschnittliche viele Angehörige von Minderheiten neu ein. Ein Fortschritt, der wohl mit der Protestbewegung der vergangenen Jahre zusammenhängt.",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/usa-schwarze-menschen-arbeitslosenquote-rassismus-diskriminierung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/usa-schwarze-menschen-arbeitslosenquote-rassismus-diskriminierung-1/wide__822x462",
+      "image_title": "USA: Black Lives Matter hat etwas bewirkt"
+    },
+    {
+      "title": "Liveblog: Ukraine-Krieg: Russische Besatzer in Saporischschja drängen Bewohner zum Passwechsel",
+      "teaser": "Ab 2024 sollen im besetzten Saporischschja nur noch Menschen mit russischem Pass medizinische Behandlungen erhalten. Biden sichert weitere Ukraine-Hilfen zu. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ukraine-krieg-news-liveblog-bild-5/wide__822x462",
+      "image_title": "Ukraine-Krieg: Russische Besatzer in Saporischschja drängen Bewohner zum Passwechsel"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); iPhone 15: Lohnt sich das iPhone 15 wirklich?",
+      "teaser": "Das iPhone 15 hat nun einen USB-C-Anschluss. Und sonst? Wir haben getestet, welche neuen Features überzeugen und welche eher Marketing sind. Spoiler: der Zoom!!!",
+      "url": "https://www.zeit.de/digital/mobil/2023-10/iphone-15-usb-c-features-alltag-test",
+      "image_url": "https://img.zeit.de/digital/mobil/2023-10/iphone-15-usb-c-features-alltag-test-bild/cinema__980x420",
+      "image_title": "iPhone 15: Lohnt sich das iPhone 15 wirklich?"
     },
     {
       "title": "Narges Mohammadi: Hinter Gittern für die Freiheit der anderen",
@@ -112,32 +146,16 @@
       "image_title": "Narges Mohammadi: Hinter Gittern für die Freiheit der anderen"
     },
     {
+      "title": "Wahlen in Bayern und Hessen: Klingbeil und Merz betonen Bedeutung der Landtagswahlen für den Bund",
+      "teaser": "Der CDU-Chef ruft die Bayern dazu auf, die Landtagswahl zur Abstimmung über die Politik der Ampel zu machen. Klingbeil verspricht, Alltagsprobleme von Bürgern anzugehen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahlen-bayern-hessen-friedrich-merz-lars-klingbeil"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Katastrophendenken: Keine Angst",
       "teaser": "Vor lauter Katastrophismus scheint fast vergessen, was Deutschland gut kann. Das wieder stärker ins Bewusstsein zu rücken, dafür lohnt sich das Kämpfen.",
       "url": "https://www.zeit.de/2023/42/katastrophendenken-klima-flucht-deutschland-optimismus",
       "image_url": "https://img.zeit.de/2023/42/katastrophendenken-klima-flucht-deutschland-optimismus-teaser/wide__822x462",
       "image_title": "Katastrophendenken: Keine Angst"
-    },
-    {
-      "title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig",
-      "teaser": "Die kriminaltechnische Prüfung des Blutes von Tino Chrupalla hat keine besonderen Befunde ergeben. Die Mediziner bestätigen jedoch einen Einstich.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/tino-chrupalla-vergiftung-zusammenbruch-ingolstadt-afd-wahlkampf",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/tino-chrupalla-bild/wide__822x462",
-      "image_title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig"
-    },
-    {
-      "title": "Birgit Sauer: \"Manche Männer sehen sich als Opfer von Frauen\"",
-      "teaser": "Erst der Kapitalismus habe unser heutiges Männerbild hervorgebracht, sagt die Politologin Birgit Sauer. Autoritäre Parteien kämpften zunehmend dafür, dass es so bleibt.",
-      "url": "https://www.zeit.de/sinn/2023-10/birgit-sauer-maennlichkeit-ideale",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-09/birgit-sauer-maennlichkeit/cinema__980x420",
-      "image_title": "Birgit Sauer: \"Manche Männer sehen sich als Opfer von Frauen\""
-    },
-    {
-      "title": "Liveblog: Ukraine-Krieg: Russische Besatzer in Saporischschja drängen Bewohner zum Passwechsel",
-      "teaser": "Ab 2024 sollen im besetzten Saporischschja nur noch Menschen mit russischem Pass medizinische Behandlungen erhalten. Biden sichert weitere Ukraine-Hilfen zu. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ukraine-krieg-news-liveblog-bild-5/wide__822x462",
-      "image_title": "Ukraine-Krieg: Russische Besatzer in Saporischschja drängen Bewohner zum Passwechsel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Konflikt in der Linkspartei: Coole Socke, arme Sau",
@@ -188,11 +206,18 @@
       "image_title": "Heidi Klum: Germany's Last Topmodel"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Fehlerkultur im Journalismus: Denn wir wissen nicht, was sie tun",
-      "teaser": "Ob Mauerfall, Trump oder Ukraine-Krieg: Journalisten irren sich oft – und wollen es im Nachhinein dann umso besser gewusst haben. Zeit für einen Perspektivwechsel",
-      "url": "https://www.zeit.de/kultur/2023-10/fehlerkultur-journalismus-donald-trump-ukraine-krieg",
-      "image_url": "https://img.zeit.de/kultur/2023-10/wochenende-41-politisch-motiviert-bild/wide__822x462",
-      "image_title": "Fehlerkultur im Journalismus: Denn wir wissen nicht, was sie tun"
+      "title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig",
+      "teaser": "Die kriminaltechnische Prüfung des Blutes von Tino Chrupalla hat keine besonderen Befunde ergeben. Die Mediziner bestätigen jedoch einen Einstich.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/tino-chrupalla-vergiftung-zusammenbruch-ingolstadt-afd-wahlkampf",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/tino-chrupalla-bild/wide__822x462",
+      "image_title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Birgit Sauer: \"Manche Männer sehen sich als Opfer von Frauen\"",
+      "teaser": "Erst der Kapitalismus habe unser heutiges Männerbild hervorgebracht, sagt die Politologin Birgit Sauer. Autoritäre Parteien kämpften zunehmend dafür, dass es so bleibt.",
+      "url": "https://www.zeit.de/sinn/2023-10/birgit-sauer-maennlichkeit-ideale",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-09/birgit-sauer-maennlichkeit/wide__822x462",
+      "image_title": "Birgit Sauer: \"Manche Männer sehen sich als Opfer von Frauen\""
     },
     {
       "title": "Wissen : Wird das Virus wieder gefährlich, Herr Drosten?",
@@ -208,18 +233,11 @@
       "image_title": "Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Väter und Töchter • Das Beste aus Z+: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\"",
-      "teaser": "Jede Tochter wird vom Vater geprägt: Er bestimmt, wie sie sich wahrnimmt und wen sie lieben wird. Gerade wenn er kaum präsent ist, sagt die Psychologin Irmgard Hülsemann.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2022-03/vater-tochter-beziehung-psychologie",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/frauenkoerper-gewalt-vater-tochter-bild/wide__822x462",
-      "image_title": "Väter und Töchter • Das Beste aus Z+: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Studienzeit: \"Er lädt mich auf eine Spritztour ein\"",
-      "teaser": "Als sie ihn kennenlernt, scheint ihr eine Beziehung aussichtslos: Er ist liiert, deutlich älter und lebt in Hamburg. Doch auch noch 50 Jahre später ist sie ihm dankbar.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/42/studienzeit-neue-stadt-liebe-erinnerung",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/studienzeit-neue-stadt-liebe-erinnerung-bild/cinema__980x420",
-      "image_title": "Studienzeit: \"Er lädt mich auf eine Spritztour ein\""
+      "title": "Das Buch der Makkabäer: Ein Ende im Chaos",
+      "teaser": "Griechische Großkönige kämpfen um die Macht im Orient – die kleinen Makkabäer kämpfen ums Überleben.",
+      "url": "https://www.zeit.de/politik/2023-10/makkabaeer-aufstand-krieg-orient-bibelpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2020-01/bibel-podcast-gott-unter-pfarrerstoechtern-foto/cinema__980x420",
+      "image_title": "Das Buch der Makkabäer: Ein Ende im Chaos"
     },
     {
       "title": "Bundesliga-Vorschau: Die deutsche Liebe zu mittelgutem Fußball",
@@ -227,13 +245,6 @@
       "url": "https://www.zeit.de/sport/2023-10/bundesliga-jerome-boateng-chile-fifa",
       "image_url": "https://img.zeit.de/sport/2023-10/hertha-bsc/wide__822x462",
       "image_title": "Bundesliga-Vorschau: Die deutsche Liebe zu mittelgutem Fußball"
-    },
-    {
-      "title": "\"Loki\": Mitunter waren wir verwirrt",
-      "teaser": "\"Loki\" war die Marvel-Serie, die kein Marvel-Projekt sein wollte. Mit ihrer zweiten Staffel wird die Zeitstrahl-Comedy noch absurder und komplizierter.",
-      "url": "https://www.zeit.de/kultur/film/2023-10/loki-marvel-disney-kalle-guckt",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-09/loki/wide__822x462",
-      "image_title": "\"Loki\": Mitunter waren wir verwirrt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Freundschaft: \"Nicht jeder hat die Freundschaften, die er sich wünscht\"",
@@ -255,6 +266,13 @@
       "url": "https://www.zeit.de/zeit-magazin/zeit-mann/2023/02/sexroboter-ki-technologie-sexualitaet",
       "image_url": "https://img.zeit.de/zeit-magazin/zeit-mann/2023/02/die-roboter-kommen-bild-1/wide__822x462",
       "image_title": "Sexroboter: Die Roboter kommen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Studienzeit: \"Er lädt mich auf eine Spritztour ein\"",
+      "teaser": "Als sie ihn kennenlernt, scheint ihr eine Beziehung aussichtslos: Er ist liiert, deutlich älter und lebt in Hamburg. Doch auch noch 50 Jahre später ist sie ihm dankbar.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/42/studienzeit-neue-stadt-liebe-erinnerung",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/studienzeit-neue-stadt-liebe-erinnerung-bild/wide__822x462",
+      "image_title": "Studienzeit: \"Er lädt mich auf eine Spritztour ein\""
     },
     {
       "title": "Welternährungsorganisation: El Niño treibt weltweite Zuckerpreise auf höchsten Stand seit Jahren",
@@ -323,23 +341,23 @@
       "image_title": "Sturz von Kevin McCarthy: Donald Trump bringt sich für Chefposten im Kongress ins Spiel"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Cornelia Funke • Das Beste aus Z+: \"Selbstmitleid vergiftet dich\"",
-      "teaser": "Der frühe Tod ihres Mannes habe ihr gezeigt, was das Wichtigste im Leben ist, sagt Cornelia Funke. Die Kinderbuchautorin spricht auch über ihre radikale Jugend.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/42/cornelia-funke-kindheit-tod-ehemann-kinderliteratur",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/42/selbstmitleid-vergiftet-dich-bild-1/wide__822x462",
-      "image_title": "Cornelia Funke • Das Beste aus Z+: \"Selbstmitleid vergiftet dich\""
+      "title": "\"Loki\": Mitunter waren wir verwirrt",
+      "teaser": "\"Loki\" war die Marvel-Serie, die kein Marvel-Projekt sein wollte. Mit ihrer zweiten Staffel wird die Zeitstrahl-Comedy noch absurder und komplizierter.",
+      "url": "https://www.zeit.de/kultur/film/2023-10/loki-marvel-disney-kalle-guckt",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-09/loki/wide__822x462",
+      "image_title": "\"Loki\": Mitunter waren wir verwirrt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herkunftsländer: Woher die meisten Asylsuchenden nach Deutschland kommen",
       "url": "https://www.zeit.de/gesellschaft/2023-09/herkunftslaender-asylbewerber-deutschland-migration-gefluechtete"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/picky-eater-syndrom-essstoerung-eltern-kinder"
+      "title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/tino-chrupalla-vergiftung-zusammenbruch-ingolstadt-afd-wahlkampf"
     },
     {
-      "title": "Tino Chrupalla: Bayerns Innenminister nennt AfD-Vorgehen \"infam und hinterfotzig\"",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/joachim-herrmann-tino-chrupalla-hinterfotzig-afd-bayern-landtagwahl"
+      "title": "Z+ (abopflichtiger Inhalt); Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/picky-eater-syndrom-essstoerung-eltern-kinder"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Migration aus Afrika: \"Ihr Europäer glaubt immer noch, die ganze Welt will zu euch\"",
@@ -384,8 +402,8 @@
       "image_title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/picky-eater-syndrom-essstoerung-eltern-kinder"
+      "title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/tino-chrupalla-vergiftung-zusammenbruch-ingolstadt-afd-wahlkampf"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Atomausstieg: Von wegen Stromproblem",
@@ -396,8 +414,8 @@
       "url": "https://www.zeit.de/wirtschaft/2023-10/populismus-angst-spaltung-gesellschaft"
     },
     {
-      "title": "Tino Chrupalla: Bayerns Innenminister nennt AfD-Vorgehen \"infam und hinterfotzig\"",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/joachim-herrmann-tino-chrupalla-hinterfotzig-afd-bayern-landtagwahl"
+      "title": "Z+ (abopflichtiger Inhalt); Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/picky-eater-syndrom-essstoerung-eltern-kinder"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herkunftsländer: Woher die meisten Asylsuchenden nach Deutschland kommen",
@@ -515,18 +533,18 @@
       "image_title": "\"Was jetzt? – Die Woche\": Notstand auf Lampedusa – wie mit Migration umgehen?"
     },
     {
-      "title": "Asyldebatte: Ungarn und Polen blockieren bei EU-Gipfel Erklärung zur Migration",
-      "teaser": "In der Abschlusserklärung des EU-Gipfels wird es keinen Passus zur Migration geben. Ungarn und Polen wollen sich einer Solidaritätsverpflichtung nicht anschließen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/polen-ungarn-eu-gipfel-migration-blockade-asyl",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/eu-gipfel/wide__822x462",
-      "image_title": "Asyldebatte: Ungarn und Polen blockieren bei EU-Gipfel Erklärung zur Migration"
-    },
-    {
       "title": "Ukraine-Überblick: Tote bei Beschuss von Charkiw, Schweden liefert Artilleriemunition",
       "teaser": "Nach dem Raketenangriff auf Hrosa in der Region Charkiw greift Russland die Gebietshauptstadt an. Schweden schließt Kampfjet-Lieferung vor Nato-Beitritt aus. Der Tag",
       "url": "https://www.zeit.de/politik/ausland/2023-10/ukraine-ueberblick-charkiw-tote-schweden-militaerhilfen",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/ukraine-ueberblick-charkiw-tote-schweden-militaerhilfen-bild-2/wide__822x462",
       "image_title": "Ukraine-Überblick: Tote bei Beschuss von Charkiw, Schweden liefert Artilleriemunition"
+    },
+    {
+      "title": "Nachrichtenpodcast: \"Sie gehört zu denen, die nicht aufhören, laut zu sein\"",
+      "teaser": "Die Aktivistin Narges Mohammadi erhält den Friedensnobelpreis für ihren Einsatz für Frauenrechte im Iran. Und: neue Erkenntnisse zu Tino Chrupallas Krankenhausaufenthalt",
+      "url": "https://www.zeit.de/politik/2023-10/friedensnobelpreis-narges-mohammadi-iran-frauenrechte-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_title": "Nachrichtenpodcast: \"Sie gehört zu denen, die nicht aufhören, laut zu sein\""
     },
     {
       "title": "Mittelmeer: Seenotretter nehmen 258 Migranten vor der Küste von Libyen an Bord",
@@ -641,18 +659,18 @@
       "image_title": "Mann von Narges Mohammadi: \"Der Friedensnobelpreis wird sie furchtlos machen\""
     },
     {
+      "title": "EU-Gipfel: Olaf Scholz zeigt sich zuversichtlich bei EU-Einigung zu Migration",
+      "teaser": "Trotz der Blockade von Polen und Ungarn sieht Bundeskanzler Scholz die EU-Migrationsreform nicht in Gefahr. Einzelne Länder könnten das Vorhaben nicht verhindern.",
+      "url": "https://www.zeit.de/video/2023-10/6338534574112/eu-gipfel-olaf-scholz-zeigt-sich-zuversichtlich-bei-eu-einigung-zu-migration",
+      "image_url": "https://img.zeit.de/video/2023-10/6338534574112-still/wide__822x462",
+      "image_title": "EU-Gipfel: Olaf Scholz zeigt sich zuversichtlich bei EU-Einigung zu Migration"
+    },
+    {
       "title": "Westbalkan: Baerbock nennt EU-Erweiterung im Balkan \"geopolitische Notwendigkeit\"",
       "teaser": "Laut Außenministerin Annalena Baerbock würde eine EU-Erweiterung auf dem Westbalkan der europäischen Sicherheit nützen. Zunächst müsse man aber regionale Konflikte lösen.",
       "url": "https://www.zeit.de/video/2023-10/6338529208112/westbalkan-baerbock-nennt-eu-erweiterung-im-balkan-geopolitische-notwendigkeit",
       "image_url": "https://img.zeit.de/video/2023-10/6338529208112-still/wide__822x462",
       "image_title": "Westbalkan: Baerbock nennt EU-Erweiterung im Balkan \"geopolitische Notwendigkeit\""
-    },
-    {
-      "title": "EU-Gipfel: Olaf Scholz fordert Reformen vor EU-Erweiterung",
-      "teaser": "Vor Aufnahme der Westbalkanländer in die EU müsse es Reformen geben, sagt Bundeskanzler Scholz. Mitglieder müssten \"die Europäische Union selber zukunftsfähig machen\".",
-      "url": "https://www.zeit.de/video/2023-10/6338510212112/eu-gipfel-olaf-scholz-fordert-reformen-vor-eu-erweiterung",
-      "image_url": "https://img.zeit.de/video/2023-10/6338510212112-still/wide__822x462",
-      "image_title": "EU-Gipfel: Olaf Scholz fordert Reformen vor EU-Erweiterung"
     },
     {
       "title": "Umweltschutz: Weltbank streicht nach Baustopp Kredite für Oder-Ausbau in Polen",
@@ -754,10 +772,17 @@
       "image_title": "Marie-Christine Ostermann: \"Die Polizei hat mich rund um die Uhr bewacht\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Väter und Töchter • Das Beste aus Z+: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\"",
+      "teaser": "Jede Tochter wird vom Vater geprägt: Er bestimmt, wie sie sich wahrnimmt und wen sie lieben wird. Gerade wenn er kaum präsent ist, sagt die Psychologin Irmgard Hülsemann.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2022-03/vater-tochter-beziehung-psychologie",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/frauenkoerper-gewalt-vater-tochter-bild/cinema__980x420",
+      "image_title": "Väter und Töchter • Das Beste aus Z+: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsnot: Jetzt sind zehn Quadratmeter frei. Zehn Quadratmeter!",
       "teaser": "Die Nöte von zu wenig Wohnraum kennen viele. Was aber passiert, wenn man plötzlich ein Zimmer zu viel hat? Ein Zimmer kann ja offenbar nicht einfach nur ein Zimmer sein.",
       "url": "https://www.zeit.de/zeit-magazin/2023/42/wohnungsnot-freies-zimmer-wohnraum-knappheit",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/wohnungsnot-freies-zimmer-wohnraum-knappheit-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/wohnungsnot-freies-zimmer-wohnraum-knappheit-bild/wide__822x462",
       "image_title": "Wohnungsnot: Jetzt sind zehn Quadratmeter frei. Zehn Quadratmeter!"
     },
     {
@@ -768,13 +793,6 @@
       "image_title": "Schaumweine aus England: Reif von der Insel"
     },
     {
-      "title": "Handyverbot an Schulen: Große Pause fürs Smartphone",
-      "teaser": "In Großbritannien sollen private Handys komplett aus den Schulen verschwinden. Gut so. Die Aufmerksamkeitsspanne ihrer Kinder sollte einer Gesellschaft heilig sein.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/handy-verbot-schulen-uk-unterricht-lehrer",
-      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-10/handy-verbot-schulen-uk-unterricht-lehrer-bild/wide__822x462",
-      "image_title": "Handyverbot an Schulen: Große Pause fürs Smartphone"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); SpiNNcloud Systems: Der effizienteste Computer ist immer noch das Hirn",
       "teaser": "Chips gehören zu den begehrtesten Waren der Gegenwart. Ein junger Mann aus Dresden hat einen Computerchip gebaut. Und will damit unsere Zukunft verändern.",
       "url": "https://www.zeit.de/campus/2023/05/spinncloud-systems-mikrochip-computer-ki-gehirn",
@@ -782,11 +800,11 @@
       "image_title": "SpiNNcloud Systems: Der effizienteste Computer ist immer noch das Hirn"
     },
     {
-      "title": "Verlagsangebot Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Handschrift: Bekomme ich meine Sauklaue in den Griff?",
@@ -929,36 +947,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "2. Bundesliga: Nach Unfall bei Düsseldorf-Spiel: Fan außer Lebensgefahr",
-      "url": "https://www.zeit.de/news/2023-10/06/nach-unfall-bei-duesseldorf-spiel-fan-ausser-lebensgefahr"
+      "title": "Fußball: Wolfsburgerinnen gewinnen Generalprobe vor Champions-League",
+      "url": "https://www.zeit.de/news/2023-10/06/wolfsburgerinnen-gewinnen-generalprobe-vor-champions-league"
     },
     {
-      "title": "Religion: Evangelischer Kirchentag 2027 zu Gast in Düsseldorf",
-      "url": "https://www.zeit.de/news/2023-10/06/evangelischer-kirchentag-2027-zu-gast-in-duesseldorf"
+      "title": "Fußball: VfL Osnabrück überrascht bei Wiedersehen mit Thioune",
+      "url": "https://www.zeit.de/news/2023-10/06/vfl-osnabrueck-ueberrascht-bei-wiedersehen-mit-thioune"
     },
     {
-      "title": "Leute: Heidi und Leni Klum in Berlin",
-      "url": "https://www.zeit.de/news/2023-10/06/heidi-und-leni-klum-in-berlin"
+      "title": "2. Bundesliga: 1:3 in Kaiserslautern: Hannover 96 verpasst Tabellenführung",
+      "url": "https://www.zeit.de/news/2023-10/06/1-3-in-kaiserslautern-hannover-96-verpasst-tabellenfuehrung"
     },
     {
-      "title": "Essen & Trinken: Pommes-frites-Weltmeisterschaft startet in Nordfrankreich",
-      "url": "https://www.zeit.de/news/2023-10/06/pommes-frites-weltmeisterschaft-startet-in-nordfrankreich"
+      "title": "2. Bundesliga: Spätes Gegentor: Fortuna verpasst Tabellenführung",
+      "url": "https://www.zeit.de/news/2023-10/06/spaetes-gegentor-fortuna-verpasst-tabellenfuehrung"
     },
     {
-      "title": "Landtag: Söder und Wüst attackieren zum Wahlkampfabschluss die Ampel",
-      "url": "https://www.zeit.de/news/2023-10/06/soeder-und-wuest-attackieren-zum-wahlkampfabschluss-die-ampel"
+      "title": "Wahlen: FDP-Spitzenkandidat Hagen: Wird knapp für FDP in Bayern",
+      "url": "https://www.zeit.de/news/2023-10/06/fdp-spitzenkandidat-hagen-wird-knapp-fuer-fdp-in-bayern"
     },
     {
-      "title": "Unfall: Auto überschlägt sich in Stuttgarter Zentrum",
-      "url": "https://www.zeit.de/news/2023-10/06/auto-ueberschlaegt-sich-in-stuttgarter-zentrum"
+      "title": "Partei: Lindner: Söder für Entstehung der Ampel mitverantwortlich",
+      "url": "https://www.zeit.de/news/2023-10/06/lindner-soeder-fuer-entstehung-der-ampel-mitverantwortlich"
     },
     {
-      "title": "Migration: Rettungsorganisation Sea-Eye klagt in Italien",
-      "url": "https://www.zeit.de/news/2023-10/06/rettungsorganisation-sea-eye-klagt-in-italien"
+      "title": "Kreis Bad Dürkheim: Jugendliche schlagen auf Autos und versprühen Reizstoff",
+      "url": "https://www.zeit.de/news/2023-10/06/jugendliche-schlagen-auf-autos-und-verspruehen-reizstoff"
     },
     {
-      "title": "Migration: Mitarbeiter des Flüchtlingsamtes schreiben Brandbrief",
-      "url": "https://www.zeit.de/news/2023-10/06/mitarbeiter-des-fluechtlingsamtes-schreiben-brandbrief"
+      "title": "Kultur: Filmfest Hamburg: Deutsche Produzenten ausgezeichnet",
+      "url": "https://www.zeit.de/news/2023-10/06/filmfest-hamburg-deutsche-produzenten-ausgezeichnet"
     }
   ]
 }

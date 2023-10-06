@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-06T18:14:46",
+  "timestamp": "2023-10-06T19:08:47",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "USA: Black Lives Matter hat etwas bewirkt",
+      "teaser": "US-Firmen stellen überdurchschnittliche viele Angehörige von Minderheiten neu ein. Ein Fortschritt, der wohl mit der Protestbewegung der vergangenen Jahre zusammenhängt.",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/usa-schwarze-menschen-arbeitslosenquote-rassismus-diskriminierung",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/usa-schwarze-menschen-arbeitslosenquote-rassismus-diskriminierung-1/cinema__980x420"
+    },
+    {
       "title": "FTX: Das sollten Sie zum Krypto-Crash wissen",
       "teaser": "FTX, eine der größten Börsen für digitale Währungen, ist pleite. Gründer Sam Bankman-Fried wird in den USA der Prozess gemacht. Die wichtigsten Antworten zu dem Fall",
       "url": "https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin-bild/wide__822x462",
+      "image_title": "FTX: Das sollten Sie zum Krypto-Crash wissen"
     },
     {
       "title": "Welternährungsorganisation: El Niño treibt weltweite Zuckerpreise auf höchsten Stand seit Jahren",
@@ -66,22 +73,15 @@
       "title": "Populismus und Angst: Angst als Instrument der Macht",
       "teaser": "Schon vor 500 Jahren war die Strategie der Populisten: Ängste schüren und sie für eigene Zwecke missbrauchen. Heute hat diese Methode einen Höhepunkt erreicht.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/populismus-angst-spaltung-gesellschaft",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/aengste-afd/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/aengste-afd/cinema__980x420",
       "image_title": "Populismus und Angst: Angst als Instrument der Macht"
     },
     {
       "title": "Twitter-Kauf: US-Börsenaufsicht will Elon Musk zu Aussage zu Twitter-Kauf zwingen",
       "teaser": "Kürzlich wollte die SEC den Twitter-Chef zu seinem Kauf der Plattform befragen, doch Musk weigerte sich. Nun will die Behörde die Aussage auf juristischem Wege erzwingen.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/elon-musk-boersenaufsicht-twitter-untersuchung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/elon-musk-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/elon-musk-bild/wide__822x462",
       "image_title": "Twitter-Kauf: US-Börsenaufsicht will Elon Musk zu Aussage zu Twitter-Kauf zwingen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Atomausstieg: Von wegen Stromproblem",
-      "teaser": "Ständig heißt es, die Stromversorgung sei nach dem AKW-Aus in Gefahr. Ja, Deutschland importiert jetzt mehr Strom. Aber der stammt aus anderen Quellen als gedacht.",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/atomausstieg-deutschland-stromversorgung-import",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/atomausstieg-deutschland-stromversorgung-import-bild/wide__822x462",
-      "image_title": "Atomausstieg: Von wegen Stromproblem"
     },
     {
       "title": "AnzeigeArbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?",
@@ -91,11 +91,11 @@
       "image_title": "Arbeitgeber-Check: Welche Unternehmen sind die „Most Wanted Employer“?"
     },
     {
-      "title": "China: Belgischer Geheimdienst überwacht offenbar Alibaba",
-      "teaser": "Belgien hat laut einem Medienbericht das wichtigste europäische Logistikzentrum des chinesischen Unternehmens Alibaba im Blick. Es bestehe der Verdacht der Spionage.",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/belgien-geheimdienst-alibaba-spionage",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/belgien-geheimdienst-alibaba-spionage-bild/wide__822x462",
-      "image_title": "China: Belgischer Geheimdienst überwacht offenbar Alibaba"
+      "title": "Z+ (abopflichtiger Inhalt); Atomausstieg: Von wegen Stromproblem",
+      "teaser": "Ständig heißt es, die Stromversorgung sei nach dem AKW-Aus in Gefahr. Ja, Deutschland importiert jetzt mehr Strom. Aber der stammt aus anderen Quellen als gedacht.",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/atomausstieg-deutschland-stromversorgung-import",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/atomausstieg-deutschland-stromversorgung-import-bild/wide__822x462",
+      "image_title": "Atomausstieg: Von wegen Stromproblem"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Atomausstieg: Von wegen Stromproblem",
@@ -203,6 +203,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "China: Belgischer Geheimdienst überwacht offenbar Alibaba",
+      "teaser": "Belgien hat laut einem Medienbericht das wichtigste europäische Logistikzentrum des chinesischen Unternehmens Alibaba im Blick. Es bestehe der Verdacht der Spionage.",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/belgien-geheimdienst-alibaba-spionage",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/belgien-geheimdienst-alibaba-spionage-bild/wide__822x462",
+      "image_title": "China: Belgischer Geheimdienst überwacht offenbar Alibaba"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Zielländer von Geflüchteten: Warum ausgerechnet nach Deutschland?",
       "teaser": "Geflüchtete aus aller Welt kämen wegen der großzügigen Sozialleistungen nach Deutschland, lautet eine gängige Behauptung. Doch andere Gründe sind viel wichtiger.",
       "url": "https://www.zeit.de/2023/42/gefluechtete-ziellaender-sozialleistungen-wirtschaft-sprache",
@@ -227,14 +234,14 @@
       "title": "Kryptobörse FTX: Prozess wegen Krypto-Betrugs beginnt in New York",
       "teaser": "Ein Staatsanwalt bezeichnete den Betrugsfall um die Kryptobörse FTX als \"größten der Geschichte der USA\". Der Prozess gegen FTX-Gründer Bankman-Fried hat nun begonnen.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/krypto-new-york-prozess-ftx-betrug",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/krypto-new-york-prozess-ftx-betrug-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/krypto-new-york-prozess-ftx-betrug-bild/cinema__980x420",
       "image_title": "Kryptobörse FTX: Prozess wegen Krypto-Betrugs beginnt in New York"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); BASF-Chef über Klimapolitik: Warum nicht jetzt, Herr Brudermüller?",
       "teaser": "Die Politik ist beim Klimaschutz realitätsfern und ideenlos zugleich, klagt der BASF-Chef. Doch er hat auch ein paar konkrete Vorschläge, wie es besser ginge.",
       "url": "https://www.zeit.de/2023/42/basf-chef-martin-brudermueller-klimapolitik-deutschland",
-      "image_url": "https://img.zeit.de/2023/42/warum-nicht-jetzt-herr-brudermueller-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/42/warum-nicht-jetzt-herr-brudermueller-bild-1/wide__822x462",
       "image_title": "BASF-Chef über Klimapolitik: Warum nicht jetzt, Herr Brudermüller?"
     },
     {
@@ -243,13 +250,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-10/eu-kommission-china-e-autos-subventionen",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/eu-kommission-wettbewerbsschaedigender-subventionen-chinesische-e-autohersteller-bild/wide__822x462",
       "image_title": "Elektromobilität: EU präzisiert Vorwürfe zu Subventionen chinesischer E-Autos"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Inflation: Sind Unternehmer etwa schuld an der Inflation?",
-      "teaser": "Die Gewinne der Unternehmen haben die Inflation einer Studie zufolge stärker befeuert als steigende Löhne. Aber das hat je nach Wirtschaftszweig unterschiedliche Gründe.",
-      "url": "https://www.zeit.de/2023/41/inflation-unternehmensgewinne-loehne-ifo-institut-studie",
-      "image_url": "https://img.zeit.de/2023/41/inflation-unternehmensgewinne-loehne-ifo-institut-studie-bild/wide__822x462",
-      "image_title": "Inflation: Sind Unternehmer etwa schuld an der Inflation?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wasserknappheit in Sachsen: Eben mal die Elbe anzapfen",
