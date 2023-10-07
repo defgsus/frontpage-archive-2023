@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-07T12:19:21",
+  "timestamp": "2023-10-07T13:11:21",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.ec62e36b860412bd8747.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -61,12 +67,6 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2022/stadtdaten/static/assets/stadtteile-standalone.f964a28c.mjs",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/index.62305807.mjs",
       "id": null,
       "text": null
@@ -98,10 +98,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hamas: Israels Albtraum wird wahr",
-      "teaser": "Der Überraschungsangriff der Hamas hat eine neue Dimension. Die radikal-islamische Organisation setzt auf eine Strategie, die Israels Armee als Worst Case gilt.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/hamas-raketen-angriffe-gaza-israel-militaeroperation",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-gaza-hamas-iran-bild/cinema__1000x428"
+      "title": "Z+ (abopflichtiger Inhalt); Angriff auf Israel: Der Krieg ist plötzlich mitten in Israel",
+      "teaser": "Eingeschleuste Kämpfer, die Orte angreifen: Das Vorgehen der Hamas gegen Israel hat eine neue Qualität. Was als Nächstes kommt, ist für beide Seiten nicht berechenbar.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/angriffe-israel-hamas-raketen-nahost-gazastreifen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/hamas-raketen-angriffe-gaza-israel-militaeroperation-warum-jetzt-bild-2/cinema__1000x428"
     },
     {
       "title": "Liveblog: Nahost: Palästinenser kapern israelischen Panzer – Hamas zeigt Gefangene",
@@ -132,6 +132,20 @@
       "image_title": "Angriffe aus Gaza: Israel unter Beschuss"
     },
     {
+      "title": "Ukraine-Karte aktuell: Russische Streitkräfte verlieren Stellungen in Saporischschja",
+      "teaser": "Bei einer eigenen Offensive in Westsaporischschja haben russische Truppen Stellungen bei Kopani verloren. Beide Seiten erzielen Vorstöße an mehreren Frontabschnitten.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
+      "image_title": "Ukraine-Karte aktuell: Russische Streitkräfte verlieren Stellungen in Saporischschja"
+    },
+    {
+      "title": "Naturkatastrophe: Mehrere starke Erdbeben erschüttern Afghanistan",
+      "teaser": "Mindestens acht Beben hat es in der afghanischen Grenzregion Herat gegeben. 15 Menschen wurden getötet. Die Erschütterungen waren auch im Nachbarland Iran zu spüren.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/afghanistan-erdbeben-iran-naturkatastrophe",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/afghanistan-erdbeben-iran-naturkatastrophe-bild/wide__822x462",
+      "image_title": "Naturkatastrophe: Mehrere starke Erdbeben erschüttern Afghanistan"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Migration aus Afrika • Das Wichtigste aus Z+: \"Ihr Europäer glaubt immer noch, die ganze Welt will zu euch\"",
       "teaser": "In der deutschen Migrationsdebatte kommt die Perspektive von Menschen aus Afrika kaum vor. Dabei wissen nur sie, warum sie sich auf den Weg machen – und warum nicht.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/migration-afrika-europa-seenotrettung-menschenrechte-5vor8",
@@ -139,11 +153,11 @@
       "image_title": "Migration aus Afrika • Das Wichtigste aus Z+: \"Ihr Europäer glaubt immer noch, die ganze Welt will zu euch\""
     },
     {
-      "title": "Klimaschutz in Bayern: Die Bayern nur im Mittelfeld",
-      "teaser": "Bayern sei \"Premiumland beim Klimaschutz\", behauptet Markus Söder. Zu Recht? Das ist dann doch ein bisschen übertrieben.",
-      "url": "https://www.zeit.de/2023/42/klimaschutz-bayern-landtagswahl-markus-soeder-klimaziel-2040",
-      "image_url": "https://img.zeit.de/2023/42/klimaschutz-bayern-landtagswahl-markus-soeder-klimaziel-2040-teaser/wide__822x462",
-      "image_title": "Klimaschutz in Bayern: Die Bayern nur im Mittelfeld"
+      "title": "Z+ (abopflichtiger Inhalt); Markus Söder: Raus aus dem Safe Space Bierzelt",
+      "teaser": "Markus Söder hätte ein moderner Konservativer sein können, ein Archetyp für Europa. Aber er macht lieber postfaktischen Populismus. Eine letzte Chance bliebe ihm noch.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/markus-soeder-csu-konservatismus-gruene-populismus",
+      "image_url": "https://img.zeit.de/politik/2023-10/markus-soeder-csu-konservatismus/cinema__980x420",
+      "image_title": "Markus Söder: Raus aus dem Safe Space Bierzelt"
     },
     {
       "title": "Luisa Neubauer: \"Stören kann kein Selbstzweck sein, das machen Kleinkinder\"",
@@ -151,27 +165,6 @@
       "url": "https://www.zeit.de/campus/2023-10/luisa-neubauer-fridays-for-future-letzte-generation-razzia",
       "image_url": "https://img.zeit.de/campus/2023-10/luisa-neubauer-fridays-for-future-letzte-generation-razzia-bild/wide__822x462",
       "image_title": "Luisa Neubauer: \"Stören kann kein Selbstzweck sein, das machen Kleinkinder\""
-    },
-    {
-      "title": "Umgang mit armenischer Herkunft: Halte ich es aus, Armenierin zu sein?",
-      "teaser": "Jahrelang suchte unsere Autorin nach ihren armenischen Wurzeln. Seit dem aserbaidschanischen Angriff auf Bergkarabach fragt sie sich, ob das ein Fehler war.",
-      "url": "https://www.zeit.de/2023/42/armenische-herkunft-umgang-aserbaidschan-bergkarabach",
-      "image_url": "https://img.zeit.de/2023/42/armenische-herkunft-umgang-aserbaidschan/cinema__980x420",
-      "image_title": "Umgang mit armenischer Herkunft: Halte ich es aus, Armenierin zu sein?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gehaltserhöhung: So verdienen Sie Ihre \"Juhu-Zahl\"",
-      "teaser": "Wer mehr Geld haben möchte, kann weniger ausgeben oder mehr verdienen. Und wer mehr verdienen möchte, muss fragen. Dafür braucht es Selbstbewusstsein und zwei Zahlen.",
-      "url": "https://www.zeit.de/geld/2023-10/gehaltserhoehung-verhandlung-chef-einkommen-tipps",
-      "image_url": "https://img.zeit.de/geld/2023-10/gehaltserhoehung-verhandlung-chef-einkommen-tipps-bild/wide__822x462",
-      "image_title": "Gehaltserhöhung: So verdienen Sie Ihre \"Juhu-Zahl\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Überwachung am Arbeitsplatz • Das Beste aus Z+: \"Diese Leute bleiben auf den unteren Führungsebenen stecken\"",
-      "teaser": "Manche Vorgesetzte kontrollieren Mitarbeiter wie Helikoptereltern ihre Kinder. Die Wirtschaftspsychologin Fabiola Gerpott weiß, wie schädlich Mikromanagement sein kann.",
-      "url": "https://www.zeit.de/arbeit/2023-08/ueberwachung-arbeitsplatz-chefs-mitarbeiter-kontrolle",
-      "image_url": "https://img.zeit.de/arbeit/2023-08/ueberwachung-arbeitsplatz-chefs/wide__822x462",
-      "image_title": "Überwachung am Arbeitsplatz • Das Beste aus Z+: \"Diese Leute bleiben auf den unteren Führungsebenen stecken\""
     },
     {
       "title": "Ausgabe 40/2023: Wie am Schnürchen. Willkommen im Wochenende.",
@@ -215,17 +208,58 @@
       "image_title": "Heidi Klum: Germany's Last Topmodel"
     },
     {
-      "title": "Wohnungsmarkt: Miete in Großstadtvierteln übertrifft oft ein Drittel des Einkommens",
-      "teaser": "In vielen Städten verschlingt die Nettokaltmiete einen großen Teil der Einkommen – mancherorts mehr als 35 Prozent. Vor allem eine Stadt sticht heraus.",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/studie-miete-grossstadt-einkommen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/studie-miete-grossstadt-einkommen-bild/wide__822x462",
-      "image_title": "Wohnungsmarkt: Miete in Großstadtvierteln übertrifft oft ein Drittel des Einkommens"
+      "title": "Z+ (abopflichtiger Inhalt); Gehaltserhöhung: So verdienen Sie Ihre \"Juhu-Zahl\"",
+      "teaser": "Wer mehr Geld haben möchte, kann weniger ausgeben oder mehr verdienen. Und wer mehr verdienen möchte, muss fragen. Dafür braucht es Selbstbewusstsein und zwei Zahlen.",
+      "url": "https://www.zeit.de/geld/2023-10/gehaltserhoehung-verhandlung-chef-einkommen-tipps",
+      "image_url": "https://img.zeit.de/geld/2023-10/gehaltserhoehung-verhandlung-chef-einkommen-tipps-bild/wide__822x462",
+      "image_title": "Gehaltserhöhung: So verdienen Sie Ihre \"Juhu-Zahl\""
+    },
+    {
+      "title": "Umgang mit armenischer Herkunft: Halte ich es aus, Armenierin zu sein?",
+      "teaser": "Jahrelang suchte unsere Autorin nach ihren armenischen Wurzeln. Seit dem aserbaidschanischen Angriff auf Bergkarabach fragt sie sich, ob das ein Fehler war.",
+      "url": "https://www.zeit.de/2023/42/armenische-herkunft-umgang-aserbaidschan-bergkarabach",
+      "image_url": "https://img.zeit.de/2023/42/armenische-herkunft-umgang-aserbaidschan/cinema__980x420",
+      "image_title": "Umgang mit armenischer Herkunft: Halte ich es aus, Armenierin zu sein?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Überwachung am Arbeitsplatz • Das Beste aus Z+: \"Diese Leute bleiben auf den unteren Führungsebenen stecken\"",
+      "teaser": "Manche Vorgesetzte kontrollieren Mitarbeiter wie Helikoptereltern ihre Kinder. Die Wirtschaftspsychologin Fabiola Gerpott weiß, wie schädlich Mikromanagement sein kann.",
+      "url": "https://www.zeit.de/arbeit/2023-08/ueberwachung-arbeitsplatz-chefs-mitarbeiter-kontrolle",
+      "image_url": "https://img.zeit.de/arbeit/2023-08/ueberwachung-arbeitsplatz-chefs/wide__822x462",
+      "image_title": "Überwachung am Arbeitsplatz • Das Beste aus Z+: \"Diese Leute bleiben auf den unteren Führungsebenen stecken\""
+    },
+    {
+      "title": "Wissen : Wird das Virus wieder gefährlich, Herr Drosten?",
+      "teaser": "Was der Herbst bringt, wer sich jetzt schützen sollte und warum er keine Maske mehr tragen will: Ein Interview mit dem Virologen.",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/printbox-23-42.png/imagegroup/original__1000x620"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Laufen für Anfänger: \"Selbst erfahrene Läufer sind oft viel zu schnell\"",
+      "teaser": "Wie weit? Wie oft? Was müssen Anfänger beachten? Fast alles, was man übers Laufen wissen muss, erklärt der Sportmediziner und Marathonläufer Paul Schmidt-Hellinger.",
+      "url": "https://www.zeit.de/sport/2020-03/laufen-anfaenger-joggen-tipps",
+      "image_url": "https://img.zeit.de/sport/2020-03/laufen-anfaenger-joggen-gesundheit-tipps-4/wide__822x462",
+      "image_title": "Laufen für Anfänger: \"Selbst erfahrene Läufer sind oft viel zu schnell\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Junge Männer und Sportwagen: Wo haben die bloß ihre schweren Autos her?",
+      "teaser": "Sie lenken fette Mercedes-Limousinen und keiner versteht, wie sich so junge Männer solche Autos leisten können. Da hilft nur: eine Runde mitfahren und nachfragen.",
+      "url": "https://www.zeit.de/2021/43/junge-maenner-sportwagen-berlin-kreuzberg-mercedes-amg",
+      "image_url": "https://img.zeit.de/2022-05/junge-maenner-sportwagen-berlin-kreuzberg-mercedes-amg-bild/wide__822x462",
+      "image_title": "Junge Männer und Sportwagen: Wo haben die bloß ihre schweren Autos her?"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Zusammen nach der Trennung: Ich will dich, aber anders",
+      "teaser": "Nicht jede Trennung ist für immer. Kann man als Paar wieder zusammenfinden – ohne den Frust und die alten Fehler? Warum ein Neuanfang immer eine klare Haltung braucht.",
+      "url": "https://www.zeit.de/campus/2023-08/trennung-beziehung-ex-neuanfang-kommunikation",
+      "image_url": "https://img.zeit.de/campus/2023-08/trennung-beziehung-ex-neuanfang-kommunikation-paar/wide__822x462",
+      "image_title": "Zusammen nach der Trennung: Ich will dich, aber anders"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dechen Yechi: \"Meine Welt besteht vor allem aus Graslandschaft\"",
       "teaser": "Dechen Yeshi lebt in einem Dorf auf 3.200 Metern Höhe. In Tibet, wo es eigentlich nur Hügel und Wolken gibt und Yakwolle das Überleben sichert. Wie ist es, dort zu leben?",
       "url": "https://www.zeit.de/zeit-wissen/2023/05/dechen-yechi-ritoma-tibet-leben-natur",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/05/der-himmel-ueber-tibet-bild-5/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/05/der-himmel-ueber-tibet-bild-5/wide__822x462",
       "image_title": "Dechen Yechi: \"Meine Welt besteht vor allem aus Graslandschaft\""
     },
     {
@@ -236,51 +270,11 @@
       "image_title": "Georg Grozer: Der Zwei-Meter-Hüne, der nicht zu altern scheint"
     },
     {
-      "title": "Wissen : Wird das Virus wieder gefährlich, Herr Drosten?",
-      "teaser": "Was der Herbst bringt, wer sich jetzt schützen sollte und warum er keine Maske mehr tragen will: Ein Interview mit dem Virologen.",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2023/printbox-23-42.png/imagegroup/original__1000x620"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Fußball-WM 2030: Es war einmal ein Fußballturnier",
-      "teaser": "Die WM 2030 soll in sechs Ländern auf drei Kontinenten stattfinden. Schlecht für die Fans, die Umwelt und den WM-Geist – das eigentliche Übel aber bereitet sie nur vor.",
-      "url": "https://www.zeit.de/sport/2023-10/fussball-wm-2030-sechs-laender",
-      "image_url": "https://img.zeit.de/sport/2023-10/lionel-messi/wide__822x462",
-      "image_title": "Fußball-WM 2030: Es war einmal ein Fußballturnier"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Auslandsadoption: Das war keine Rettung, das war ein Albtraum",
-      "teaser": "Elli wurde als Schwarzes Kind von weißen Eltern nach Brandenburg adoptiert. Was gut gemeint war, wurde zum Trauma. Heute spricht sie nicht mehr mit ihrer Adoptivmutter.",
-      "url": "https://www.zeit.de/zett/2022-01/auslandsadoptionen-schwarz-kindheit-deutschland-trauma",
-      "image_url": "https://img.zeit.de/zett/2022-01/auslandsadoptionen-schwarz-kindheit-deutschland-trauma-bild/wide__822x462",
-      "image_title": "Auslandsadoption: Das war keine Rettung, das war ein Albtraum"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Depression: Kann Liebe eine Depression überstehen?",
-      "teaser": "Eine Depression betrifft immer auch die Lebenspartner der Erkrankten. Wie es Paaren gelingen kann, die Last der Krankheit gemeinsam zu bewältigen.",
-      "url": "https://www.zeit.de/gesundheit/zeit-doctor/2021-10/depression-psychologie-therapie-behandlung-paare-partnerschaft",
-      "image_url": "https://img.zeit.de/gesundheit/2021-10/depression-psychologie-therapie-behandlung/wide__822x462",
-      "image_title": "Depression: Kann Liebe eine Depression überstehen?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Paket-Auktion: Das Überlaufbecken des Kapitalismus",
-      "teaser": "Paketdienste können erstaunlich viele Bestellungen nicht zustellen. Die werden dann versteigert. Zu Besuch bei einer Auktion, die nur der Auftakt zum Weiterverhökern ist.",
-      "url": "https://www.zeit.de/2023/42/paket-auktion-versteigerung-dhl-hermes",
-      "image_url": "https://img.zeit.de/2023/42/paket-auktion-versteigerung-dhl-hermes-teaser/wide__822x462",
-      "image_title": "Paket-Auktion: Das Überlaufbecken des Kapitalismus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ballerinas: Comeback der Plattfüße",
-      "teaser": "Ballerinas. Ballet-Flats, Flats. Die platten, kleinen, puppenartigen Schuhe sind wieder da. Aber keine Sorge, sie haben eine Zielgruppe, der wir nicht angehören müssen.",
-      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-10/ballerinas-schuhe-vogue-mode",
-      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-10/wochenende-41-guter-stoff-bild/wide__822x462",
-      "image_title": "Ballerinas: Comeback der Plattfüße"
-    },
-    {
-      "title": "Ukraine-Karte aktuell: Russische Streitkräfte verlieren Stellungen in Saporischschja",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
-      "image_title": "Ukraine-Karte aktuell: Russische Streitkräfte verlieren Stellungen in Saporischschja"
+      "title": "Wohnen im Alter : Leben Sie in einer Senioren-WG?",
+      "teaser": "Sie sind in eine WG mit anderen älteren Menschen gezogen. Was hat Sie dazu bewogen? Welche Vorteile, aber auch Konflikte hat diese Wohnform für Sie? Schreiben Sie uns!",
+      "url": "https://www.zeit.de/gesellschaft/2023-09/alter-wohnen-wg-senioren-aufruf",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-09/alter-wohnen-wg-senioren/wide__822x462",
+      "image_title": "Wohnen im Alter : Leben Sie in einer Senioren-WG?"
     },
     {
       "title": "Corona- und Grippeschutzimpfungen: Hausärzte fordern Kombi-Impfstoff gegen Corona und Grippe",
@@ -305,6 +299,12 @@
       "url": "https://www.zeit.de/politik/ausland/2023-10/donald-trump-prozess-betrug-berufung-abgelehnt",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/donald-trump-zivilprozess-betrug-berufung/wide__822x462",
       "image_title": "Ex-US-Präsident: Berufungsgericht lehnt Stopp von Betrugsprozess gegen Trump ab"
+    },
+    {
+      "title": "Naturkatastrophe: Mehrere starke Erdbeben erschüttern Afghanistan",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/afghanistan-erdbeben-iran-naturkatastrophe",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/afghanistan-erdbeben-iran-naturkatastrophe-bild/wide__822x462",
+      "image_title": "Naturkatastrophe: Mehrere starke Erdbeben erschüttern Afghanistan"
     },
     {
       "title": "Bundesliga, 7. Spieltag: Mainz verpasst gegen Mönchengladbach den ersten Saisonsieg",
@@ -337,29 +337,11 @@
       "image_title": "Westbalkan: Britische Soldaten verstärken Nato-Friedenstruppe im Kosovo"
     },
     {
-      "title": "Umweltschutz: Weltbank streicht nach Baustopp Kredite für Oder-Ausbau in Polen",
-      "url": "https://www.zeit.de/wissen/2023-10/polen-oder-ausbau-weltbank-kredite-zurueckgezogen-hochwasser-schutz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/polen-oder-ausbau-weltbank-kredite-zurueckgezogen-hochwasser-schutz-bild/wide__822x462",
-      "image_title": "Umweltschutz: Weltbank streicht nach Baustopp Kredite für Oder-Ausbau in Polen"
-    },
-    {
-      "title": "Oberbayern: Brände an Anlagen – Behörden vermuten extremistische Anschläge",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/brandanschlaege-oberbayern-ermittlungen-extremismus",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/brandanschlaege-oberbayern-ermittlungen-extremismus-bild/wide__822x462",
-      "image_title": "Oberbayern: Brände an Anlagen – Behörden vermuten extremistische Anschläge"
-    },
-    {
-      "title": "Mittelmeer: Seenotretter nehmen 258 Migranten vor der Küste von Libyen an Bord",
-      "url": "https://www.zeit.de/gesellschaft/2023-10/migranten-rettung-mittelmeer-libyen-aerzte-ohne-grenzen",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/migranten-rettung-mittelmeer-libyen-aerzte-ohne-grenzen-bild/wide__822x462",
-      "image_title": "Mittelmeer: Seenotretter nehmen 258 Migranten vor der Küste von Libyen an Bord"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); iPhone 15: Lohnt sich das iPhone 15 wirklich?",
-      "teaser": "Das iPhone 15 hat nun einen USB-C-Anschluss. Und sonst? Wir haben getestet, welche neuen Features überzeugen und welche eher Marketing sind. Spoiler: der Zoom!!!",
-      "url": "https://www.zeit.de/digital/mobil/2023-10/iphone-15-usb-c-features-alltag-test",
-      "image_url": "https://img.zeit.de/digital/mobil/2023-10/iphone-15-usb-c-features-alltag-test-bild/wide__822x462",
-      "image_title": "iPhone 15: Lohnt sich das iPhone 15 wirklich?"
+      "title": "EM 2024: Ticketkauf als Blindverkostung",
+      "teaser": "Die Welt zu Gast bei Freunden? Während die Heim-EM naht, kauft unser Kolumnist für 750 Euro Tickets – und erinnert an die Migrationsdebatte aus dem Jahr 2005.",
+      "url": "https://www.zeit.de/sport/2023-10/em-2024-deutschland-tickets-migration",
+      "image_url": "https://img.zeit.de/sport/2023-10/wochenende-41-gruenflaeche-tickets-bild/wide__822x462",
+      "image_title": "EM 2024: Ticketkauf als Blindverkostung"
     },
     {
       "title": "AfD: Tino Chrupallas Blut war laut Ärzten unauffällig",
@@ -440,25 +422,25 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-10/ampelkoalition-landtagswahlen-verluste-spd-fdp-gruene"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Hamas: Israels Albtraum wird wahr",
+      "teaser": "Der Angriff der Hamas hat eine neue Dimension. Die radikal-islamische Organisation setzt auf eine Strategie, die Israels Armee als Worst Case gilt.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/hamas-raketen-angriffe-gaza-israel-militaeroperation",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-gaza-hamas-iran-bild/cinema__980x420",
+      "image_title": "Hamas: Israels Albtraum wird wahr"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); iPhone 15: Lohnt sich das iPhone 15 wirklich?",
+      "teaser": "Das iPhone 15 hat nun einen USB-C-Anschluss. Und sonst? Wir haben getestet, welche neuen Features überzeugen und welche eher Marketing sind. Spoiler: der Zoom!!!",
+      "url": "https://www.zeit.de/digital/mobil/2023-10/iphone-15-usb-c-features-alltag-test",
+      "image_url": "https://img.zeit.de/digital/mobil/2023-10/iphone-15-usb-c-features-alltag-test-bild/wide__822x462",
+      "image_title": "iPhone 15: Lohnt sich das iPhone 15 wirklich?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Digitalisierung an Schulen: Ein ganz krasser Paradigmenwechsel",
       "teaser": "Zum Start der Code Week fordert Hamburgs Schulsenator Ties Rabe mehr Mut bei der Digitalisierung. Lehrkräfte sollen Neues probieren – auch, wenn dabei mal was schiefgeht.",
       "url": "https://www.zeit.de/hamburg/2023-10/digitalisierung-schulen-ties-rabe-lehrer-handy-verbot-bildungspolitik",
-      "image_url": "https://img.zeit.de/hamburg/2023-10/makerspace/cinema__980x420",
+      "image_url": "https://img.zeit.de/hamburg/2023-10/makerspace/wide__822x462",
       "image_title": "Digitalisierung an Schulen: Ein ganz krasser Paradigmenwechsel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Birgit Sauer: \"Manche Männer sehen sich als Opfer von Frauen\"",
-      "teaser": "Erst der Kapitalismus habe unser heutiges Männerbild hervorgebracht, sagt die Politologin Birgit Sauer. Autoritäre Parteien kämpften zunehmend dafür, dass es so bleibt.",
-      "url": "https://www.zeit.de/sinn/2023-10/birgit-sauer-maennlichkeit-ideale",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-09/birgit-sauer-maennlichkeit/wide__822x462",
-      "image_title": "Birgit Sauer: \"Manche Männer sehen sich als Opfer von Frauen\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Herbst: Werden Herbststürme verheerender, wenn es zu warm ist?",
-      "teaser": "Kaum Laub am Boden und volle grüne Baumkronen: Der Herbst kommt nicht in Gang, schreibt unser neuer Wetter-Kolumnist Özden Terli. Und das wird allmählich echt gefährlich.",
-      "url": "https://www.zeit.de/wissen/2023-10/herbst-stuerme-unwetter-meteorologie-oezden-terli",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-10/herbst-wetter-temperaturen-meteorologie-oezden-bil/wide__822x462",
-      "image_title": "Herbst: Werden Herbststürme verheerender, wenn es zu warm ist?"
     },
     {
       "title": "Verlagsangebot: Fünf Orte, um Italien neu zu entdecken",
@@ -547,11 +529,11 @@
       "image_title": "\"Was jetzt? – Die Woche\": Notstand auf Lampedusa – wie mit Migration umgehen?"
     },
     {
-      "title": "Liveblog: Ukraine-Krieg: Nato-Generalsekretär lobt ukrainische Gegenoffensive",
-      "teaser": "\"Die Ukraine kommt voran, langsam, aber bestimmt\", sagt der Nato-Generalsekretär. Ein Hafen bei Odessa wurde von russischen Raketen getroffen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ukraine-krieg-news-liveblog-jens-stoltenberg/wide__822x462",
-      "image_title": "Ukraine-Krieg: Nato-Generalsekretär lobt ukrainische Gegenoffensive"
+      "title": "Klimaschutz in Bayern: Die Bayern nur im Mittelfeld",
+      "teaser": "Bayern sei \"Premiumland beim Klimaschutz\", behauptet Markus Söder. Zu Recht? Das ist dann doch ein bisschen übertrieben.",
+      "url": "https://www.zeit.de/2023/42/klimaschutz-bayern-landtagswahl-markus-soeder-klimaziel-2040",
+      "image_url": "https://img.zeit.de/2023/42/klimaschutz-bayern-landtagswahl-markus-soeder-klimaziel-2040-teaser/wide__822x462",
+      "image_title": "Klimaschutz in Bayern: Die Bayern nur im Mittelfeld"
     },
     {
       "title": "Nahost: Hamas-Militärchef erklärt Beginn von \"Militäroperation\" gegen Israel",
@@ -582,10 +564,17 @@
       "image_title": "Mittelmeer: Seenotretter nehmen 258 Migranten vor der Küste von Libyen an Bord"
     },
     {
+      "title": "Wohnungsmarkt: Miete in Großstadtvierteln übertrifft oft ein Drittel des Einkommens",
+      "teaser": "In vielen Städten verschlingt die Nettokaltmiete einen großen Teil der Einkommen – mancherorts mehr als 35 Prozent. Vor allem eine Stadt sticht heraus. 496 Kommentare",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/studie-miete-grossstadt-einkommen",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/studie-miete-grossstadt-einkommen-bild/cinema__980x420",
+      "image_title": "Wohnungsmarkt: Miete in Großstadtvierteln übertrifft oft ein Drittel des Einkommens"
+    },
+    {
       "title": "Deutsche Post: Post macht Vorschläge für Briefzustellung in zwei Geschwindigkeiten",
-      "teaser": "Nach Vorstellung der Deutschen Post könnte künftig zwischen Prio- und Standardbrief unterschieden werden. Nicht nur wer Briefe schnell versenden will, müsse mehr zahlen. 317 Kommentare",
+      "teaser": "Nach Vorstellung der Deutschen Post könnte künftig zwischen Prio- und Standardbrief unterschieden werden. Nicht nur wer Briefe schnell versenden will, müsse mehr zahlen.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/deutsche-post-deutschland-porte-briefzustellung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/deutsche-post-reform-briefe/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/deutsche-post-reform-briefe/wide__822x462",
       "image_title": "Deutsche Post: Post macht Vorschläge für Briefzustellung in zwei Geschwindigkeiten"
     },
     {
@@ -594,13 +583,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-10/usa-schwarze-menschen-arbeitslosenquote-rassismus-diskriminierung",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/usa-schwarze-menschen-arbeitslosenquote-rassismus-diskriminierung-1/wide__822x462",
       "image_title": "USA: Black Lives Matter hat etwas bewirkt"
-    },
-    {
-      "title": "FTX: Das sollten Sie zum Krypto-Crash wissen",
-      "teaser": "FTX, eine der größten Börsen für digitale Währungen, ist pleite. Gründer Sam Bankman-Fried wird in den USA der Prozess gemacht. Die wichtigsten Antworten zu dem Fall",
-      "url": "https://www.zeit.de/wirtschaft/geldanlage/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin",
-      "image_url": "https://img.zeit.de/wirtschaft/2022-11/ftx-kryptowaehrungen-usa-senat-bitcoin-bild/wide__822x462",
-      "image_title": "FTX: Das sollten Sie zum Krypto-Crash wissen"
     },
     {
       "title": "WirtschaftsWocheImmobilieninvestor Jakob Mähren: „Wir rennen mit Vollgas lachend in die Kreissäge“",
@@ -708,11 +690,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Kuiper-Satelliten von Amazon: Ein Konkurrent für Elon Musks Starlink",
-      "teaser": "Amazon schießt zwei Testsatelliten in den Orbit. Das Ziel: Breitbandinternet überall. Um Weltraumschrott zu vermeiden, sollen die Satelliten am Ende \"aktiv deorbitieren\".",
-      "url": "https://www.zeit.de/wissen/2023-10/kuiper-satelliten-amazon-internet-starlink",
-      "image_url": "https://img.zeit.de/wissen/2023-10/kuiper-satelliten-amazon-internet-starlink-bild-2/wide__822x462",
-      "image_title": "Kuiper-Satelliten von Amazon: Ein Konkurrent für Elon Musks Starlink"
+      "title": "Z+ (abopflichtiger Inhalt); Herbst: Werden Herbststürme verheerender, wenn es zu warm ist?",
+      "teaser": "Kaum Laub am Boden und volle grüne Baumkronen: Der Herbst kommt nicht in Gang, schreibt unser neuer Wetter-Kolumnist Özden Terli. Und das wird allmählich echt gefährlich.",
+      "url": "https://www.zeit.de/wissen/2023-10/herbst-stuerme-unwetter-meteorologie-oezden-terli",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-10/herbst-wetter-temperaturen-meteorologie-oezden-bil/wide__822x462",
+      "image_title": "Herbst: Werden Herbststürme verheerender, wenn es zu warm ist?"
     },
     {
       "title": "63 entdeckungsreiche Touren in Deutschland und Europa",
@@ -786,10 +768,17 @@
       "image_title": "Statistisches Bundesamt: Jede zwölfte Lehrkraft ist Quer- oder Seiteneinsteiger"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ballerinas: Comeback der Plattfüße",
+      "teaser": "Ballerinas. Ballet-Flats, Flats. Die platten, kleinen, puppenartigen Schuhe sind wieder da. Aber keine Sorge, sie haben eine Zielgruppe, der wir nicht angehören müssen.",
+      "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-10/ballerinas-schuhe-vogue-mode",
+      "image_url": "https://img.zeit.de/zeit-magazin/mode-design/2023-10/wochenende-41-guter-stoff-bild/cinema__980x420",
+      "image_title": "Ballerinas: Comeback der Plattfüße"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Väter und Töchter • Das Beste aus Z+: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\"",
       "teaser": "Jede Tochter wird vom Vater geprägt: Er bestimmt, wie sie sich wahrnimmt und wen sie lieben wird. Gerade wenn er kaum präsent ist, sagt die Psychologin Irmgard Hülsemann.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2022-03/vater-tochter-beziehung-psychologie",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/frauenkoerper-gewalt-vater-tochter-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-04/frauenkoerper-gewalt-vater-tochter-bild/wide__822x462",
       "image_title": "Väter und Töchter • Das Beste aus Z+: \"Da kommt so ein Vollidiot und sie denkt: Endlich sieht mich ein Mann\""
     },
     {
@@ -800,13 +789,6 @@
       "image_title": "Studienzeit: \"Er lädt mich auf eine Spritztour ein\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank",
-      "teaser": "Die fünfjährige Tessa will nichts essen. Es ekelt sie. Die Eltern haben Angst, dass sie am gedeckten Tisch verhungert – bis ein Picky-Eater-Syndrom diagnostiziert wird.",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/picky-eater-syndrom-essstoerung-eltern-kinder",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/picky-eater-syndrom-essstoerung/wide__822x462",
-      "image_title": "Picky-Eater-Syndrom: Das Kind ist nicht verwöhnt, sondern krank"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); SpiNNcloud Systems: Der effizienteste Computer ist immer noch das Hirn",
       "teaser": "Chips gehören zu den begehrtesten Waren der Gegenwart. Ein junger Mann aus Dresden hat einen Computerchip gebaut. Und will damit unsere Zukunft verändern.",
       "url": "https://www.zeit.de/campus/2023/05/spinncloud-systems-mikrochip-computer-ki-gehirn",
@@ -814,11 +796,11 @@
       "image_title": "SpiNNcloud Systems: Der effizienteste Computer ist immer noch das Hirn"
     },
     {
-      "title": "Verlagsangebot Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Z+ (registrierungspflichtiger Inhalt); Handschrift: Bekomme ich meine Sauklaue in den Griff?",
@@ -857,7 +839,7 @@
     },
     {
       "title": "Verkehrspolitik: Ampel-Regierung will Regeln zur Lkw-Maut verschärfen",
-      "teaser": "Die Bundesregierung will die Mautbeträge für Lkw deutlich erhöhen. Die drei Ampel-Fraktionen fordern offenbar auch die Ausweitung der Maut auf Landstraßen und Städte.",
+      "teaser": "Die Bundesregierung will die Mautbeträge für Lkw deutlich erhöhen. Die drei Ampel-Fraktionen fordern offenbar auch die Ausweitung der Maut auf Landstraßen und Städte. 102 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/verkehrspolitik-lkw-maut-ampel-landstrassen-staedte",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-10/verkehrspolitik-lkw-maut-ampel-landstrassen-staedte-bild/cinema__980x420",
       "image_title": "Verkehrspolitik: Ampel-Regierung will Regeln zur Lkw-Maut verschärfen"
@@ -961,36 +943,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Landtagswahl: Frühere Bremer Spitzenkandidatin gegen «Brötchentaste»",
-      "url": "https://www.zeit.de/news/2023-10/07/fruehere-bremer-spitzenkandidatin-gegen-broetchentaste"
+      "title": "Weltrekord-Versuch: Jugendfeuerwehren pumpen Wasser mehr als 60 Kilometer",
+      "url": "https://www.zeit.de/news/2023-10/07/jugendfeuerwehren-pumpen-wasser-mehr-als-60-kilometer"
     },
     {
-      "title": "Wetter: Temperaturen bis 23 Grad in Hessen erwartet",
-      "url": "https://www.zeit.de/news/2023-10/07/temperaturen-bis-23-grad-in-hessen-erwartet"
+      "title": "Auszeichnung: Kaiserring an zwei Künstler aus Russland verliehen",
+      "url": "https://www.zeit.de/news/2023-10/07/kaiserring-an-zwei-kuenstler-aus-russland-verliehen"
     },
     {
-      "title": "Kommunen: Auschwitz Komitee würdigt Einsatz für Demokratie",
-      "url": "https://www.zeit.de/news/2023-10/07/auschwitz-komitee-wuerdigt-einsatz-fuer-demokratie"
+      "title": "2. Bundesliga: Abwahlantrag gegen Herthas Aufsichtsratschef Brüggemann",
+      "url": "https://www.zeit.de/news/2023-10/07/abwahlantrag-gegen-herthas-aufsichtsratschef-brueggemann"
     },
     {
-      "title": "Konflikte: Berliner CDU-Fraktionsvorsitzender: Solidarität mit Israel",
-      "url": "https://www.zeit.de/news/2023-10/07/berliner-cdu-fraktionsvorsitzender-solidaritaet-mit-israel"
+      "title": "Koblenz: 50 Kilo schwere Schiffsglocke gestohlen",
+      "url": "https://www.zeit.de/news/2023-10/07/50-kilo-schwere-schiffsglocke-gestohlen"
     },
     {
-      "title": "Konflikte: Solidaritätsdemonstration für Israel vor Brandenburger Tor",
-      "url": "https://www.zeit.de/news/2023-10/07/solidaritaetsdemonstration-fuer-israel-vor-brandenburger-tor"
+      "title": "Mobilität: Herbstferien: Bahnverkehr gestört, Flughäfen entspannt",
+      "url": "https://www.zeit.de/news/2023-10/07/herbstferien-bahnverkehr-gestoert-flughaefen-entspannt"
     },
     {
-      "title": "Literatur: Bestsellerautorin Rita Falk über Macho-Mann Franz Eberhofer",
-      "url": "https://www.zeit.de/news/2023-10/07/bestsellerautorin-rita-falk-ueber-macho-mann-franz-eberhofer"
+      "title": "Konflikte: Mindestens 40 Tote nach Attacke aus Gaza auf Israel",
+      "url": "https://www.zeit.de/news/2023-10/07/mindestens-40-tote-nach-attacke-aus-gaza-auf-israel"
     },
     {
-      "title": "Konflikte: Lufthansa «reduziert» Flüge nach Israel",
-      "url": "https://www.zeit.de/news/2023-10/07/lufthansa-reduziert-fluege-nach-israel"
+      "title": "Wetter: Sonne-Wolken-Mix in Rheinland-Pfalz und dem Saarland",
+      "url": "https://www.zeit.de/news/2023-10/07/sonne-wolken-mix-in-rheinland-pfalz-und-dem-saarland"
     },
     {
-      "title": "Kriminalität: Unbekannter greift Mann mit Messer an: Hubschrauberfahndung",
-      "url": "https://www.zeit.de/news/2023-10/07/unbekannter-greift-mann-mit-messer-an-hubschrauberfahndung"
+      "title": "Berlin: Nach Angriffen auf Israel: Wegner ruft zur Besonnenheit auf",
+      "url": "https://www.zeit.de/news/2023-10/07/nach-angriffen-auf-israel-wegner-ruft-zur-besonnenheit-auf"
     }
   ]
 }
