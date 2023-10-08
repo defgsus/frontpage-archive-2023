@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-08T15:10:31",
+  "timestamp": "2023-10-08T16:13:03",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -66,6 +66,18 @@
       "text": null
     },
     {
+      "type": null,
+      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.539e214a2bb3dbf0c80a.cached.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.abb764f46b9f40608df0.cached.mjs",
+      "id": null,
+      "text": null
+    },
+    {
       "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/index.62305807.mjs",
       "id": null,
@@ -98,66 +110,52 @@
   ],
   "articles": [
     {
+      "title": "Liveblog: Landtagswahl in Bayern: CSU stärkste Kraft, Grüne laut Prognose auf Platz zwei",
+      "teaser": "Die CSU von Markus Söder hat bei der Landtagswahl in Bayern laut Prognose 37 Prozent der Stimmen bekommen. Dahinter folgen Grüne, AfD und Freie Wähler. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/bayern-wahl-landtag-markus-soeder-bild/cinema__980x420"
+    },
+    {
+      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, SPD und AfD gleichauf",
+      "teaser": "Die CDU von Boris Rhein holt laut Prognose 35,5 Prozent, AfD und SPD liegen gleichauf bei 16 Prozent. Die FDP muss um den Einzug in den Landtag zittern. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-boris-rhein-cdu-gewinnt-bild/wide__822x462",
+      "image_title": "Landtagswahl in Hessen: CDU gewinnt deutlich, SPD und AfD gleichauf"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Nahostkonflikt: Der Krieg begann um 6.30 Uhr",
+      "teaser": "Hunderte Tote, viele Entführte, Raketen auf Israel, Luftschläge auf Gaza: Ein Überblick in Karten und Videos, wie der Angriff der Hamas begann und Israel reagierte.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte-bild-2/cinema__980x420",
+      "image_title": "Nahostkonflikt: Der Krieg begann um 6.30 Uhr"
+    },
+    {
+      "title": "Liveblog: Nahost: Auswärtiges Amt geht von Deutschen unter den Entführten aus",
+      "teaser": "Unter den von der Hamas Entführten sollen sich Deutsche befinden, die auch einen israelischen Pass haben. Es gibt bisher mehr als 600 Tote und 300 Verletzte. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-10/israel-blog-auswaertiges-amt-bild/wide__822x462",
+      "image_title": "Nahost: Auswärtiges Amt geht von Deutschen unter den Entführten aus"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Angriff auf Israel: Eine mörderische Wette",
       "teaser": "Israelische Selbstüberschätzung hat den Angriff aus Gaza erst möglich gemacht. Trotzdem könnte sich die Hamas verspekuliert haben.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-angriff-armee",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-angriff-2/cinema__1000x428"
-    },
-    {
-      "title": "Liveblog: Nahost: Olaf Scholz warnt vor Ausbreitung des Terrors in der Region",
-      "teaser": "Der Bundeskanzler verurteilt die Angriffe der Hamas und versichert Israel die Solidarität Deutschlands. Die Bundesregierung stoppt Hilfen für Palästinenser. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/2023-10/israel-blog-olaf-scholz-bild/cinema__980x420",
-      "image_title": "Nahost: Olaf Scholz warnt vor Ausbreitung des Terrors in der Region"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-angriff-2/wide__822x462",
+      "image_title": "Angriff auf Israel: Eine mörderische Wette"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff: Israel erlebt seinen 11. September",
       "teaser": "Die Hamas zielte mit ihrem Überfall auf Israels Zivilbevölkerung. Egal, wie hart die Armee reagieren wird, dem Land hat der Angriff den größtmöglichen Schaden zugefügt.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/israel-angriff-hamas-zivilbevoelkerung-reaktion-netanjahu-analyse",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-angriff-hamas-zivilbevoelkerung-reaktion-netanjahu-analyse-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-angriff-hamas-zivilbevoelkerung-reaktion-netanjahu-analyse-bild/wide__822x462",
       "image_title": "Hamas-Angriff: Israel erlebt seinen 11. September"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Gazastreifen: Warum ist die Lage in Israel eskaliert?",
-      "teaser": "Nach dem Großangriff der Hamas auf Israel kämpft die israelische Armee im eigenen Land und mit Luftangriffen auf Gaza gegen militante Palästinenser. Was ist passiert?",
-      "url": "https://www.zeit.de/politik/ausland/2023-05/gazastreifen-hamas-israel-palaestina-ramallah-faq",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-05/palaestinenser-israel-gazastreifen-akteure-faq-bild/wide__822x462",
-      "image_title": "Gazastreifen: Warum ist die Lage in Israel eskaliert?"
-    },
-    {
-      "title": "Nancy Faeser: Warum der hessische SPD-Wahlkampf so schieflief",
-      "teaser": "Ampelverdruss, chaotische Landespartei – und dazwischen eine gestresste Spitzenkandidatin. Warum es so desaströs lief für die Kampagne von Nancy Faeser.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/nancy-faeser-landtagswahl-hessen-wahlkampagne",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/nancy-faeser-landtagswahl-hessen-wahlkampagne-bild/cinema__980x420",
-      "image_title": "Nancy Faeser: Warum der hessische SPD-Wahlkampf so schieflief"
-    },
-    {
-      "title": "Liveblog: Landtagswahl in Bayern: Grüne, Freie Wähler und AfD kämpfen um Platz zwei",
-      "teaser": "In 91 bayerischen Stimmkreisen wird gewählt. Reicht es für eine Neuauflage der Regierung von CSU und Freien Wählern unter Ministerpräsident Markus Söder? Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live",
-      "image_url": "https://img.zeit.de/politik/2023-10/bayern-landtagswahl-liveblog/wide__822x462",
-      "image_title": "Landtagswahl in Bayern: Grüne, Freie Wähler und AfD kämpfen um Platz zwei"
-    },
-    {
-      "title": "Bayern: Mein Coming-out als Bayer",
-      "teaser": "Früher hat unser Autor gegen seine bayerische Heimat rebelliert. Jetzt kauft er eine Lederhose und erwägt das Undenkbare: die CSU zu wählen. Wie konnte es so weit kommen?",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/bayern-wahl-csu-markus-soeder-landtag",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/bayern-wahl-csu-markus-soeder/wide__822x462",
-      "image_title": "Bayern: Mein Coming-out als Bayer"
-    },
-    {
-      "title": "Markus Söder: Bayern! Spitze?",
-      "teaser": "Bayern sei fast überall die Nummer eins, tönt der Wahlkämpfer Markus Söder. Stimmt! Allerdings auch in ein paar unrühmlichen Kategorien.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/markus-soeder-bayern-superlative-wahlkampf",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/soeder-bayern-wahl-spitzenreiter-umwelt/wide__822x462",
-      "image_title": "Markus Söder: Bayern! Spitze?"
-    },
-    {
-      "title": "Liveblog: Landtagswahl in Hessen: Wahlbeteiligung bis 14 Uhr unter 30 Prozent",
-      "teaser": "Bis zum Nachmittag haben nur 27,7 Prozent der Wahlberechtigten abgestimmt, deutlich weniger als 2018. Boris Rhein äußerte sich bei der Stimmabgabe zur AfD. Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-liveblog-bild/wide__822x462",
-      "image_title": "Landtagswahl in Hessen: Wahlbeteiligung bis 14 Uhr unter 30 Prozent"
+      "title": "Angriff auf Israel: Zerstörung und Leid",
+      "teaser": "Nach dem Angriff der Hamas hat Israel den Kriegszustand verhängt – und ist zum Gegenangriff übergegangen. Die Zahl der Toten steigt auf beiden Seiten. Die Bilder",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/gazastreifen-israel-angriff-hamas-2",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/gazastreifen-israel-angriff-hamas-teaser/cinema__980x420",
+      "image_title": "Angriff auf Israel: Zerstörung und Leid"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Strafmaß für \"Letzte Generation\": \"Ich habe eh immer gegen den Strom gelebt\"",
@@ -167,18 +165,11 @@
       "image_title": "Strafmaß für \"Letzte Generation\": \"Ich habe eh immer gegen den Strom gelebt\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Projektingenieur: \"Mit meinem Gehalt muss ich mich nicht einschränken\"",
-      "teaser": "Thomas, 31, verdient als Ingenieur fast 6.000 Euro und lebt noch immer in einem WG-Zimmer. Er spart viel und gönnt sich wenig – nur ein teures Rennrad und Skifahrten.",
-      "url": "https://www.zeit.de/arbeit/2023-10/projektingenieur-deutsche-bahn-gehalt-kontoauszug",
-      "image_url": "https://img.zeit.de/arbeit/2023-10/projektingenieur-deutsche-bahn/wide__822x462",
-      "image_title": "Projektingenieur: \"Mit meinem Gehalt muss ich mich nicht einschränken\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Einrichtung: Schön hässlich",
-      "teaser": "Eine vertrocknete Zitrone, ein Plastikstuhl, eine goldene Taube: 16 Menschen erzählen von den unschönen Dingen in ihrer Wohnung, von denen sie sich nicht trennen können.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-10/einrichtung-haesslich-schoen-gegenstaende-kunst",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/einrichtung-haesslich-schoen-gegenstaende-kunst-bild/cinema__980x420",
-      "image_title": "Einrichtung: Schön hässlich"
+      "title": "Z+ (abopflichtiger Inhalt); Stephanie Pauly: \"Wir wussten sofort, dass es Liebe war\"",
+      "teaser": "Frustriert von Deutschland bricht Stephanie Pauly nach Südamerika auf. Sie will frei sein. Dann lernt sie einen Mann kennen und zieht mit ihm auf eine abgelegene Insel.",
+      "url": "https://www.zeit.de/2023/42/stephanie-pauly-liebe-ausland-osterinseln-auswandern",
+      "image_url": "https://img.zeit.de/2023/42/stephanie-pauly-liebe-ausland-osterinseln-auswandern-teaser/cinema__980x420",
+      "image_title": "Stephanie Pauly: \"Wir wussten sofort, dass es Liebe war\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Putzen: So täuschst du eine saubere Wohnung vor",
@@ -188,34 +179,48 @@
       "image_title": "Putzen: So täuschst du eine saubere Wohnung vor"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Auto zum E-Auto umrüsten : Ein zweites Leben für den alten Verbrenner",
+      "teaser": "Neue E-Autos sind teuer und die Produktion ist teils dreckig. Könnte man nicht einfach alte Diesel und Benziner umrüsten? Ein paar Schrauber haben es ausprobiert.",
+      "url": "https://www.zeit.de/mobilitaet/2023-09/verbrenner-e-auto-umruesten-recycling",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-09/verbrenner-e-auto-umruesten/wide__822x462",
+      "image_title": "Auto zum E-Auto umrüsten : Ein zweites Leben für den alten Verbrenner"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Projektingenieur: \"Mit meinem Gehalt muss ich mich nicht einschränken\"",
+      "teaser": "Thomas, 31, verdient als Ingenieur fast 6.000 Euro und lebt noch immer in einem WG-Zimmer. Er spart viel und gönnt sich wenig – nur ein teures Rennrad und Skifahrten.",
+      "url": "https://www.zeit.de/arbeit/2023-10/projektingenieur-deutsche-bahn-gehalt-kontoauszug",
+      "image_url": "https://img.zeit.de/arbeit/2023-10/projektingenieur-deutsche-bahn/wide__822x462",
+      "image_title": "Projektingenieur: \"Mit meinem Gehalt muss ich mich nicht einschränken\""
+    },
+    {
       "title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-mindestens-120-tote-und-1-000-verletzte-durch-erdbeben",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-mindestens-120-tote-und-1-000-verletzte-durch-erdbeben-bild/wide__822x462",
       "image_title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben"
     },
     {
-      "title": "Spanien: Tausende demonstrieren gegen Amnestie für Separatisten",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/barcelona-demonstration-amnestie-separatisten",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/barcelona-protest-amnestie-katalanische-separatisten-bild/wide__822x462",
-      "image_title": "Spanien: Tausende demonstrieren gegen Amnestie für Separatisten"
+      "title": "Wahl in Bayern: CSU laut Prognose schwächer als 2018, Grüne auf Platz zwei, FDP raus",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/bayern-landtagswahl-prognosen-hochrechnungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/bayern-landtagswahl-prognosen-hochrechnungen-bild/wide__822x462",
+      "image_title": "Wahl in Bayern: CSU laut Prognose schwächer als 2018, Grüne auf Platz zwei, FDP raus"
     },
     {
-      "title": "Liveblog: Nahost: Olaf Scholz warnt vor Ausbreitung des Terrors in der Region",
+      "title": "Liveblog: Nahost: Auswärtiges Amt geht von Deutschen unter den Entführten aus",
       "url": "https://www.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/2023-10/israel-blog-olaf-scholz-bild/wide__822x462",
-      "image_title": "Nahost: Olaf Scholz warnt vor Ausbreitung des Terrors in der Region"
+      "image_url": "https://img.zeit.de/gesellschaft/2023-10/israel-blog-auswaertiges-amt-bild/wide__822x462",
+      "image_title": "Nahost: Auswärtiges Amt geht von Deutschen unter den Entführten aus"
     },
     {
-      "title": "Liveblog: Landtagswahl in Bayern: Grüne, Freie Wähler und AfD kämpfen um Platz zwei",
+      "title": "Liveblog: Landtagswahl in Bayern: CSU stärkste Kraft, Grüne laut Prognose auf Platz zwei",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live",
-      "image_url": "https://img.zeit.de/politik/2023-10/bayern-landtagswahl-liveblog/wide__822x462",
-      "image_title": "Landtagswahl in Bayern: Grüne, Freie Wähler und AfD kämpfen um Platz zwei"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/bayern-wahl-landtag-markus-soeder-bild/wide__822x462",
+      "image_title": "Landtagswahl in Bayern: CSU stärkste Kraft, Grüne laut Prognose auf Platz zwei"
     },
     {
-      "title": "Liveblog: Landtagswahl in Hessen: Wahlbeteiligung bis 14 Uhr unter 30 Prozent",
+      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, SPD und AfD gleichauf",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-liveblog-bild/wide__822x462",
-      "image_title": "Landtagswahl in Hessen: Wahlbeteiligung bis 14 Uhr unter 30 Prozent"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-boris-rhein-cdu-gewinnt-bild/wide__822x462",
+      "image_title": "Landtagswahl in Hessen: CDU gewinnt deutlich, SPD und AfD gleichauf"
     },
     {
       "title": "Ausgabe 40/2023: Wie am Schnürchen. Willkommen im Wochenende.",
@@ -266,6 +271,20 @@
       "image_title": "Einrichtung: Geliebte Scheußlichkeiten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Therapiesprache im Alltag : Lass mich, ich bin in Therapie!",
+      "teaser": "\"Traumatisch\" oder \"toxisch\": Die Sprache unserer Zeit ist voll mit Wörtern, die aus der Psychotherapie stammen. Dieses Vokabular der Selbstfürsorge wird dabei zur Waffe.",
+      "url": "https://www.zeit.de/2023/41/therapie-sprache-therapy-language-social-media-selbstfuersorge",
+      "image_url": "https://img.zeit.de/2023/41/therapie-sprache-therapy-language-social-media-selbstfuersorge-bild/wide__822x462",
+      "image_title": "Therapiesprache im Alltag : Lass mich, ich bin in Therapie!"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Cornelia Funke : \"Selbstmitleid vergiftet dich\"",
+      "teaser": "Der frühe Tod ihres Mannes habe ihr gezeigt, was das Wichtigste im Leben ist, sagt Cornelia Funke. Die Kinderbuchautorin spricht auch über ihre radikale Jugend.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/42/cornelia-funke-kindheit-tod-ehemann-kinderliteratur",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/42/selbstmitleid-vergiftet-dich-bild-1/wide__822x462",
+      "image_title": "Cornelia Funke : \"Selbstmitleid vergiftet dich\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Nebenjobs : \"Ich verdiene 1.000 Euro im Monat dazu\"",
       "teaser": "Eine Erzieherin schreibt Sexnachrichten, ein Banker erstellt Videos, ein Umwelttechniker macht Musik: Drei Menschen erzählen, wie man leicht nebenbei Geld verdienen kann.",
       "url": "https://www.zeit.de/arbeit/2023-09/nebenjobs-geld-sexchats-youtube-musik",
@@ -273,18 +292,18 @@
       "image_title": "Nebenjobs : \"Ich verdiene 1.000 Euro im Monat dazu\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Helge Schneider: \"Die KI wirkt auf mich beruhigend dumm\"",
-      "teaser": "Halb Mensch, halb Hackfleisch ist der Antiheld im neuen Krimi von Helge Schneider. Ein Gespräch über solch technischen Fortschritt, das Gendern und Ostdeutschland.",
-      "url": "https://www.zeit.de/2023/42/helge-schneider-krimi-komik-satire",
-      "image_url": "https://img.zeit.de/2023/42/die-ki-wirkt-auf-mich-beruhigend-dumm-bild-1/wide__822x462",
-      "image_title": "Helge Schneider: \"Die KI wirkt auf mich beruhigend dumm\""
+      "title": "Chicago: Kelvin Kiptum stellt neuen Marathon-Weltrekord auf",
+      "teaser": "Der Kenianer Kelvin Kiptum hat den Chicago-Marathon gewonnen – und dabei einen neuen Weltrekord aufgestellt. Die mehr als 42 Kilometer lief er in 2:00:35 Minuten.",
+      "url": "https://www.zeit.de/sport/2023-10/wird-kelvin-kiptum-chicago-marathon-weltrekord",
+      "image_url": "https://img.zeit.de/sport/2023-10/kelvin-kiptum-chicago-marathon-weltrekord-bild/wide__822x462",
+      "image_title": "Chicago: Kelvin Kiptum stellt neuen Marathon-Weltrekord auf"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Übergewicht: Warum manche Menschen dick werden – und andere nicht",
-      "teaser": "Das Risiko für Übergewicht hängt von den Genen ab. Ob man wirklich dick wird, entscheiden allerdings andere Faktoren. Die Rezepte dagegen sind einfach.",
-      "url": "https://www.zeit.de/2020/05/uebergewicht-gene-vererbung-essverhalten-sport",
-      "image_url": "https://img.zeit.de/wissen/gesundheit/2020-01/uebergewicht-gene-vererbung-essverhalten-sport-bild/wide__822x462",
-      "image_title": "Übergewicht: Warum manche Menschen dick werden – und andere nicht"
+      "title": "Turnen: Lukas Dauser gewinnt Gold bei der Weltmeisterschaft der Turner",
+      "teaser": "Als erster deutscher Turner seit Fabian Hambüchen hat Lukas Dauser einen Weltmeistertitel im Turnen errungen. Der 30-Jährige sicherte sich die Goldmedaille am Barren.",
+      "url": "https://www.zeit.de/sport/2023-10/lukas-dauser-gold-turn-wm",
+      "image_url": "https://img.zeit.de/sport/2023-10/turner-lukas-dauser-wm-gold-bild/wide__822x462",
+      "image_title": "Turnen: Lukas Dauser gewinnt Gold bei der Weltmeisterschaft der Turner"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamburg-Blankenese: Er brach eine Zimmertür aus der Zarge und schlug auf seine Mutter ein",
@@ -294,11 +313,24 @@
       "image_title": "Hamburg-Blankenese: Er brach eine Zimmertür aus der Zarge und schlug auf seine Mutter ein"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schönheit: Was ist wirklich schön?",
-      "teaser": "Am schönsten finden Menschen Kunst, die mit ihnen selbst zu tun hat, sagen Forschende. Das Wissen könnte dem Marketing nutzen, persönliche Werbung noch besser zu machen.",
-      "url": "https://www.zeit.de/2023/42/schoenheit-empirische-aesthetik-forschung-studie",
-      "image_url": "https://img.zeit.de/2023/42/schoenheit-empirische-aesthetik-forschung-studie-teaser/wide__822x462",
-      "image_title": "Schönheit: Was ist wirklich schön?"
+      "title": "Z+ (abopflichtiger Inhalt); Picky-Eater-Syndrom • Das Wichtigste aus Z+: Das Kind ist nicht verwöhnt, sondern krank",
+      "teaser": "Die fünfjährige Tessa will nichts essen. Es ekelt sie. Die Eltern haben Angst, dass sie am gedeckten Tisch verhungert – bis ein Picky-Eater-Syndrom diagnostiziert wird.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/picky-eater-syndrom-essstoerung-eltern-kinder",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/picky-eater-syndrom-essstoerung/wide__822x462",
+      "image_title": "Picky-Eater-Syndrom • Das Wichtigste aus Z+: Das Kind ist nicht verwöhnt, sondern krank"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Einrichtung: Schön hässlich",
+      "teaser": "Eine vertrocknete Zitrone, ein Plastikstuhl, eine goldene Taube: 16 Menschen erzählen von den unschönen Dingen in ihrer Wohnung, von denen sie sich nicht trennen können.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-10/einrichtung-haesslich-schoen-gegenstaende-kunst",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/einrichtung-haesslich-schoen-gegenstaende-kunst-bild/wide__822x462",
+      "image_title": "Einrichtung: Schön hässlich"
+    },
+    {
+      "title": "Wissen : Wird das Virus wieder gefährlich, Herr Drosten?",
+      "teaser": "Was der Herbst bringt, wer sich jetzt schützen sollte und warum er keine Maske mehr tragen will: Ein Interview mit dem Virologen.",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/printbox-23-42.png/imagegroup/original__1000x620"
     },
     {
       "title": "Georgine Kellermann : Sie fängt gerade erst an",
@@ -306,12 +338,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-10/georgine-kellermann-wdr-journalistin-transaktivistin",
       "image_url": "https://img.zeit.de/kultur/film/2023-10/georgine-kellermann-wdr-journalistin-transaktivistin-teaser/wide__822x462",
       "image_title": "Georgine Kellermann : Sie fängt gerade erst an"
-    },
-    {
-      "title": "Wissen : Wird das Virus wieder gefährlich, Herr Drosten?",
-      "teaser": "Was der Herbst bringt, wer sich jetzt schützen sollte und warum er keine Maske mehr tragen will: Ein Interview mit dem Virologen.",
-      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
-      "image_url": "https://img.zeit.de/2023/printbox-23-42.png/imagegroup/original__1000x620"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Nachtzüge: Zug für Zug durch die Nacht",
@@ -406,10 +432,17 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-10/bayern-wahlen-landtag-umfragen-csu-freie-waehler-erstwaehler"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nahostkonflikt: Der Krieg begann um 6.30 Uhr",
+      "teaser": "Hunderte Tote, viele Entführte, Raketen auf Israel, Luftschläge auf Gaza: Ein Überblick in Karten und Videos, wie der Angriff der Hamas begann und Israel reagierte.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte-bild-2/cinema__980x420",
+      "image_title": "Nahostkonflikt: Der Krieg begann um 6.30 Uhr"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Jerusalem: Wir erzählen unserer Tochter, dass die lauten Sirenen uns schützen",
       "teaser": "Unser Autor erlebt die Angriffe auf Israel in Jerusalem. Mit seiner Familie flieht er in einen Schutzraum. Über einen Tag, der sich nach Belagerung anfühlt",
       "url": "https://www.zeit.de/politik/ausland/2023-10/angriffe-der-hamas-jerusalem-israel-gaza-nahostkonflikt",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/angriffe-der-hamas-jerusalem-israel-gaza-nahostkonflikt-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/angriffe-der-hamas-jerusalem-israel-gaza-nahostkonflikt-bild-2/wide__822x462",
       "image_title": "Jerusalem: Wir erzählen unserer Tochter, dass die lauten Sirenen uns schützen"
     },
     {
@@ -418,13 +451,6 @@
       "url": "https://www.zeit.de/kultur/2023-10/susanne-stephan-fossile-brennstoffe-kohle-literatur-schriftstellerin",
       "image_url": "https://img.zeit.de/kultur/2023-10/susanne-stephan-fossile-brennstoffe-kohle-literatur-schriftstellerin-bild/wide__822x462",
       "image_title": "Susanne Stephan: \"Die Kohle hat Freiheitslaufbahnen ermöglicht\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Traumata in der Familie: Was ist an diesem Ort passiert? Mit meiner Familie?",
-      "teaser": "Ein Wirtshaus, ein Dorf, ein Todesfall vor langer Zeit – egal, wie weit wir laufen, die Traumata unserer Ahnen leben in uns weiter. Unsere Autorin stellt sich ihren.",
-      "url": "https://www.zeit.de/zeit-wissen/2023/05/traumata-familien-geschichte-vorfahren",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/05/traumata-familien-geschichte-vorfahren-teaserbild/wide__822x462",
-      "image_title": "Traumata in der Familie: Was ist an diesem Ort passiert? Mit meiner Familie?"
     },
     {
       "title": "Verlagsangebot: Fünf Orte, um Italien neu zu entdecken",
@@ -513,18 +539,18 @@
       "image_title": "\"Was jetzt? – Die Woche\": Notstand auf Lampedusa – wie mit Migration umgehen?"
     },
     {
-      "title": "Wahlkampf von Markus Söder: Der die Wogen glättet",
-      "teaser": "Im bayerischen Wahlkampf begegnet Markus Söder dem Hass und gibt nun den Staatsmann. Geht das schief, hat die CSU ein Problem – und die Demokratie auch.",
-      "url": "https://www.zeit.de/2023/42/markus-soeder-wahlkampf-bayern-csu",
-      "image_url": "https://img.zeit.de/2023/42/der-die-wogen-glaettet-bild-1/wide__822x462",
-      "image_title": "Wahlkampf von Markus Söder: Der die Wogen glättet"
+      "title": "Nahost: Israelisches Sicherheitskabinett verhängt Kriegszustand",
+      "teaser": "Nach dem Hamas-Angriff hat Israels Sicherheitskabinett formal die Befugnis erteilt, \"bedeutende militärische Schritte zu unternehmen\". Noch ist unklar, was das bedeutet.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/nahost-israel-sicherheitskabinett-kriegszustand",
+      "image_url": "https://img.zeit.de/politik/2023-10/israel-sicherheitskabinett-kriegszustand-bild/wide__822x462",
+      "image_title": "Nahost: Israelisches Sicherheitskabinett verhängt Kriegszustand"
     },
     {
-      "title": "Landtagswahl in Hessen: 4,3 Millionen Menschen können bei der Wahl in Hessen abstimmen",
-      "teaser": "Seit zehn Jahren regiert die CDU in Koalition mit den Grünen. Jüngsten Umfragen zufolge könnte die CDU auch diesmal die Wahl mit mehr als 30 Prozent gewinnen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-start",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-start-bild/wide__822x462",
-      "image_title": "Landtagswahl in Hessen: 4,3 Millionen Menschen können bei der Wahl in Hessen abstimmen"
+      "title": "Bayern-Wahl 2023: Alle Ergebnisse der Landtagswahl in Bayern – live",
+      "teaser": "Welche Koalitionen sind im Landtag in München möglich? Welche Parteien und Kandidaten gewinnen welchen Stimmkreis? Sehen Sie alle Daten zur Wahl in interaktiven Grafiken.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/bayern-landtagswahl-2023-wahlergebnisse-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/bayern-landtagswahl-2023-wahlergebnisse-live-teaserbild/wide__822x462",
+      "image_title": "Bayern-Wahl 2023: Alle Ergebnisse der Landtagswahl in Bayern – live"
     },
     {
       "title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben",
@@ -653,18 +679,18 @@
       "image_title": "Westbalkan: Baerbock nennt EU-Erweiterung im Balkan \"geopolitische Notwendigkeit\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dechen Yechi: \"Meine Welt besteht vor allem aus Graslandschaft\"",
-      "teaser": "Dechen Yeshi lebt in einem Dorf auf 3.200 Metern Höhe. In Tibet, wo es eigentlich nur Hügel und Wolken gibt und Yakwolle das Überleben sichert. Wie ist es, dort zu leben?",
-      "url": "https://www.zeit.de/zeit-wissen/2023/05/dechen-yechi-ritoma-tibet-leben-natur",
-      "image_url": "https://img.zeit.de/zeit-wissen/2023/05/der-himmel-ueber-tibet-bild-5/wide__822x462",
-      "image_title": "Dechen Yechi: \"Meine Welt besteht vor allem aus Graslandschaft\""
+      "title": "Z+ (abopflichtiger Inhalt); Schönheit: Was ist wirklich schön?",
+      "teaser": "Am schönsten finden Menschen Kunst, die mit ihnen selbst zu tun hat, sagen Forschende. Das Wissen könnte dem Marketing nutzen, persönliche Werbung noch besser zu machen.",
+      "url": "https://www.zeit.de/2023/42/schoenheit-empirische-aesthetik-forschung-studie",
+      "image_url": "https://img.zeit.de/2023/42/schoenheit-empirische-aesthetik-forschung-studie-teaser/wide__822x462",
+      "image_title": "Schönheit: Was ist wirklich schön?"
     },
     {
-      "title": "Ferenc Krausz: \"Anspruchsvolle Experimente können tagsüber nicht funktionieren\"",
-      "teaser": "Wie misst man winzige und unfassbar schnelle Teilchen? Der Nobelpreisträger Ferenc Krausz über ultrakurze Laserpulse, fliegende Elektronen und unsichtbares Licht",
-      "url": "https://www.zeit.de/wissen/2023-10/ferenc-krausz-nobelpreis-physik-krebs-forschung-attosekunden",
-      "image_url": "https://img.zeit.de/wissen/2023-10/ferenc-krausz-nobelpreis-physik-krebs-forschung-attosekunden-bild/wide__822x462",
-      "image_title": "Ferenc Krausz: \"Anspruchsvolle Experimente können tagsüber nicht funktionieren\""
+      "title": "Z+ (abopflichtiger Inhalt); Traumata in der Familie: Was ist an diesem Ort passiert? Mit meiner Familie?",
+      "teaser": "Ein Wirtshaus, ein Dorf, ein Todesfall vor langer Zeit – egal, wie weit wir laufen, die Traumata unserer Ahnen leben in uns weiter. Unsere Autorin stellt sich ihren.",
+      "url": "https://www.zeit.de/zeit-wissen/2023/05/traumata-familien-geschichte-vorfahren",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/05/traumata-familien-geschichte-vorfahren-teaserbild/wide__822x462",
+      "image_title": "Traumata in der Familie: Was ist an diesem Ort passiert? Mit meiner Familie?"
     },
     {
       "title": "VerlagsangebotDie richtige Ernährung kann so schön und einfach sein",
@@ -674,11 +700,11 @@
       "image_title": "Die richtige Ernährung kann so schön und einfach sein"
     },
     {
-      "title": "Umweltschutz: Weltbank streicht nach Baustopp Kredite für Oder-Ausbau in Polen",
-      "teaser": "Nach der Europäischen Entwicklungsbank zieht auch die Weltbank Kredite zurück. Der Oder-Ausbau könnte die Umwelt gefährden. Ein polnisches Gericht hat ihn gestoppt.",
-      "url": "https://www.zeit.de/wissen/2023-10/polen-oder-ausbau-weltbank-kredite-zurueckgezogen-hochwasser-schutz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/polen-oder-ausbau-weltbank-kredite-zurueckgezogen-hochwasser-schutz-bild/wide__822x462",
-      "image_title": "Umweltschutz: Weltbank streicht nach Baustopp Kredite für Oder-Ausbau in Polen"
+      "title": "Z+ (abopflichtiger Inhalt); Dechen Yechi: \"Meine Welt besteht vor allem aus Graslandschaft\"",
+      "teaser": "Dechen Yeshi lebt in einem Dorf auf 3.200 Metern Höhe. In Tibet, wo es eigentlich nur Hügel und Wolken gibt und Yakwolle das Überleben sichert. Wie ist es, dort zu leben?",
+      "url": "https://www.zeit.de/zeit-wissen/2023/05/dechen-yechi-ritoma-tibet-leben-natur",
+      "image_url": "https://img.zeit.de/zeit-wissen/2023/05/der-himmel-ueber-tibet-bild-5/wide__822x462",
+      "image_title": "Dechen Yechi: \"Meine Welt besteht vor allem aus Graslandschaft\""
     },
     {
       "title": "63 entdeckungsreiche Touren in Deutschland und Europa",
@@ -780,11 +806,11 @@
       "image_title": "Freie Wähler: Die Sache mit dem Hubert"
     },
     {
-      "title": "Verlagsangebot Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
+      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Luisa Neubauer: \"Stören kann kein Selbstzweck sein, das machen Kleinkinder\"",
@@ -857,10 +883,17 @@
       "image_title": "St. Pauli Salon: Das Pferd durfte nicht mit in den Speisesaal"
     },
     {
+      "title": "Bundesliga 7. Spieltag – Sonntag: Leverkusen verteidigt mit Sieg gegen Köln Tabellenführung",
+      "teaser": "Mit dem Derbysieg gegen den 1. FC Köln verteidigt Bayer Leverkusen seinen Platz an der Tabellenspitze. Die Kölner landen auf dem letzten Platz. Der Spielbericht",
+      "url": "https://www.zeit.de/sport/2023-10/bundesliga-7-spieltag-sonntag-leverkusen-koeln",
+      "image_url": "https://img.zeit.de/sport/2023-10/fussball-bundesliga-bayer-leverkusen-1-fc-koeln-bild/cinema__980x420",
+      "image_title": "Bundesliga 7. Spieltag – Sonntag: Leverkusen verteidigt mit Sieg gegen Köln Tabellenführung"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Fitnessübung: Der lange Schritt im Sling",
       "teaser": "Diese Übung hilft allen, die Leichtathletik mögen. Und allen, die Fußball spielen. Oder Basketball. Oder Handball... Und Spaß macht sie auch noch.",
       "url": "https://www.zeit.de/sport/2023-10/wochenende-der-ausfallschritt-in-den-sling-personal-trainer",
-      "image_url": "https://img.zeit.de/sport/2023-10/wochenende-der-ausfallschritt-in-den-sling-personal-trainer-08/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2023-10/wochenende-der-ausfallschritt-in-den-sling-personal-trainer-08/wide__822x462",
       "image_title": "Fitnessübung: Der lange Schritt im Sling"
     },
     {
@@ -869,13 +902,6 @@
       "url": "https://www.zeit.de/sport/2023-10/bundesliga-7-spieltag-samstag-bremen-hoffenheim-stuttgart-wolfsburg",
       "image_url": "https://img.zeit.de/sport/2023-10/bremen-hoffenheim/wide__822x462",
       "image_title": "Bundesliga 7. Spieltag – Samstag: Bremen unterliegt Hoffenheim"
-    },
-    {
-      "title": "Formel 1: Max Verstappen verteidigt Weltmeistertitel",
-      "teaser": "Max Verstappen ist zum dritten Mal in Folge Weltmeister in der Formel 1. Den Titel holte sich der Niederländer im Red Bull vorzeitig beim Sprintrennen in Katar.",
-      "url": "https://www.zeit.de/sport/2023-10/formel-1-max-verstappen-weltmeister",
-      "image_url": "https://img.zeit.de/sport/2023-10/max-verstappen-formel-1-weltmeisterschaft-bild-2/wide__822x462",
-      "image_title": "Formel 1: Max Verstappen verteidigt Weltmeistertitel"
     },
     {
       "title": "Sinn: Wofür leben wir?",
@@ -927,36 +953,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Bundesliga: Bayern mit Müller und Goretzka gegen Freiburg",
-      "url": "https://www.zeit.de/news/2023-10/08/bayern-mit-mueller-und-goretzka-gegen-freiburg"
+      "title": "Wahlen: CDU bei Landtagswahl in Hessen laut Prognosen klar vorn",
+      "url": "https://www.zeit.de/news/2023-10/08/cdu-bei-landtagswahl-in-hessen-laut-prognosen-klar-vorn"
     },
     {
-      "title": "3. Liga: Lübeck verliert Abstiegsduell gegen den SC Freiburg II",
-      "url": "https://www.zeit.de/news/2023-10/08/luebeck-verliert-abstiegsduell-gegen-den-sc-freiburg-ii"
+      "title": "Konflikte: Erhöhte Polizeipräsenz nach Großangriff auf Israel",
+      "url": "https://www.zeit.de/news/2023-10/08/erhoehte-polizeipraesenz-nach-grossangriff-auf-israel"
     },
     {
-      "title": "Handball-Bundesliga: Klarer Derby-Sieg: Kiels Handballer besiegen Hamburg 34:23",
-      "url": "https://www.zeit.de/news/2023-10/08/klarer-derby-sieg-kiels-handballer-besiegen-hamburg-34-23"
+      "title": "Landtagswahl: Prognose: CSU in Bayern mit Abstand stärkste Kraft",
+      "url": "https://www.zeit.de/news/2023-10/08/prognose-csu-in-bayern-klar-staerkste-kraft"
     },
     {
-      "title": "Konflikte: Mindestens 600 Tote in Israel bei Großangriffen aus Gaza",
-      "url": "https://www.zeit.de/news/2023-10/08/mindestens-600-tote-in-israel-bei-grossangriffen-aus-gaza"
+      "title": "Kommunen: Im Schatten der Landtagswahl: Neue Bezirksräte gewählt",
+      "url": "https://www.zeit.de/news/2023-10/08/im-schatten-der-landtagswahl-neue-bezirksraete-gewaehlt"
     },
     {
-      "title": "Trolls 3: Meyer-Landrut und Forster mit ihren Figuren auf Filmpremiere",
-      "url": "https://www.zeit.de/news/2023-10/08/meyer-landrut-und-forster-mit-ihren-figuren-auf-filmpremiere"
+      "title": "FC Bayern München: Tuchel zu Boateng: \"War nicht nur sportliche Entscheidung\"",
+      "url": "https://www.zeit.de/news/2023-10/08/tuchel-zu-boateng-war-nicht-nur-sportliche-entscheidung"
     },
     {
-      "title": "Konflikte: Israel bestätigt: Mindestens 100 Menschen bei Angriffen entführt",
-      "url": "https://www.zeit.de/news/2023-10/08/israel-bestaetigt-mindestens-100-menschen-bei-angriffen-entfuehrt"
+      "title": "Basketball: Chemnitz gelingt erster Auswärtssieg: 86:81 in Braunschweig",
+      "url": "https://www.zeit.de/news/2023-10/08/chemnitz-gelingt-erster-auswaertssieg-86-81-in-braunschweig"
     },
     {
-      "title": "Turn-WM: Dauser holt erstes deutsches WM-Gold seit 2007",
-      "url": "https://www.zeit.de/news/2023-10/08/dauser-holt-erstes-deutsches-wm-gold-seit-2007"
+      "title": "Animationsfilm: Lena Meyer-Landrut und Mark Forster bei \"Trolls 3\"-Premiere",
+      "url": "https://www.zeit.de/news/2023-10/08/lena-meyer-landrut-und-mark-forster-auf-trolls-3-premiere"
     },
     {
-      "title": "Deutsche Eishockey-Liga: 5:0 in Wolfsburg: Eisbären feiern vierten Sieg in Folge",
-      "url": "https://www.zeit.de/news/2023-10/08/5-0-in-wolfsburg-eisbaeren-feiern-vierten-sieg-in-folge"
+      "title": "Prozess: Urteil erwartet gegen zwei mutmaßliche IS-Anhänger",
+      "url": "https://www.zeit.de/news/2023-10/08/urteil-erwartet-gegen-zwei-mutmassliche-is-anhaenger"
     }
   ]
 }
