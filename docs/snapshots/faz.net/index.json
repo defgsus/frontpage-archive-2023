@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-08T14:08:44",
+  "timestamp": "2023-10-08T15:10:18",
   "url": "https://www.faz.net/aktuell/",
   "response": {
     "status": 200
@@ -74,6 +74,12 @@
     {
       "type": null,
       "src": "https://www.faz.net/dist/scripts/main_faz-gdpr.28f14a5b7ef760abb6c9.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://dynamic.faz.net/red/pym/pym.min.js",
       "id": null,
       "text": null
     },
@@ -165,29 +171,47 @@
   "articles": [
     {
       "title": "Überfall auf Kibbuzim : „Sie sind gekommen, um uns zu töten“",
-      "url": "https://www.faz.net/aktuell/politik/ausland/israel-verzweifelte-menschen-in-ueberfallenen-kibbuzen-19228311.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-kibbuz-bewohner-an-der-grenze-zu-gaza-schildern-dramatische-szenen-19228311.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Straße in Sderot"
     },
     {
-      "title": "Liveblog zum Krieg in Nahost : Israels Sicherheitskabinett erklärt Kriegszustand",
-      "url": "https://www.faz.net/aktuell/politik/ausland/liveblog-zum-krieg-in-nahost-tv-sender-israels-sicherheitskabinett-erklaert-kriegszustand-faz-19226976.html"
+      "title": "Liveblog zum Krieg in Nahost : Mehr als Hundert Menschen nach Gaza verschleppt – Luftwaffe greift Hamas-Ziele an",
+      "url": "https://www.faz.net/aktuell/politik/ausland/liveticker-zum-krieg-in-nahost-mehr-als-hundert-menschen-nach-gaza-verschleppt-faz-19226976.html"
     },
     {
       "title": "Krieg in Nahost : Israel ist verwundbarer, als es dachte",
-      "url": "https://www.faz.net/aktuell/politik/ausland/krieg-mit-der-hamas-israel-ist-verwundbarer-als-es-dachte-19228375.html"
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-ist-verwundbarer-als-es-dachte-krieg-mit-der-hamas-19228375.html"
+    },
+    {
+      "title": "Landtagswahl Hessen 2023 : Kandidaten halten sich Koalitionsoptionen offen",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/landtagswahl-hessen-im-liveticker-fdp-bangt-um-wiedereinzug-in-das-parlament-faz-19216101.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die Spitzenkandidaten Boris Rhein (CDU), Nancy Faeser (SPD) und Tarek Al-Wazir (Grüne) zum Ende eines Spitzengesprächs zur hessischen Landtagswahl 2023."
     },
     {
       "title": "Vor den Landtagswahlen : Hart, härter, Hessen",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-hessen/landtagswahl-hessen-das-haerteste-parlament-19226308.html",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-hessen/wahl-hessen-polarisierung-zog-schon-vor-40-jahren-in-den-landtag-ein-19226308.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Befriedung: Al-Wazir und Bouffier 2014"
     },
     {
-      "title": "Jom Kippur 1973 : Der Krieg, der den Nahen Osten veränderte",
-      "url": "https://www.faz.net/aktuell/politik/ausland/jom-kippur-der-krieg-der-den-nahen-osten-veraenderte-19228166.html",
+      "title": "Wahlkampf in Bayern : Gott kann nicht alles richten",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahlkampf-in-aschaffenburg-jetzt-wird-es-ungemuetlich-19224145.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Leichname syrischer Soldaten säumen den Vormarsch der israelischen Armee auf den Golan-Höhen gen Damaskus (Aufnahme aus dem Oktober 1973, genaues Datum unbekannt)."
+      "image_title": "Kundgebung „Gegen grünen Wahnsinn“ der Bürgerinitiative Franken"
+    },
+    {
+      "title": "Bier, Berge und der FCB : Bayern – das Bundesland, das niemanden kaltlässt",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-bayern/landtagswahl-in-bayern-ein-bundesland-das-polarisiert-19226203.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Hoch die Krüge: Eröffnung des Berliner Oktoberfestes am 15. September 2010"
+    },
+    {
+      "title": "Wahlen in Bayern und Hessen : Niedrigere Wahlbeteiligung zeichnet sich ab",
+      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-landtagswahlen-in-hessen-und-bayern-niedrigere-wahlbeteiligung-zeichnet-sich-ab-faz-19201318.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Plakatwand mit Plakaten verschiedener Parteien zur bayerischen Landtagswahl 2023"
     },
     {
       "title": "Weltbischofssynode : Die Tradition bin ich!",
@@ -198,7 +222,7 @@
     {
       "title": "Krieg in Nahost : Israel ist verwundbarer, als es dachte",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/politik/ausland/krieg-mit-der-hamas-israel-ist-verwundbarer-als-es-dachte-19228375.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-ist-verwundbarer-als-es-dachte-krieg-mit-der-hamas-19228375.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -222,7 +246,7 @@
     {
       "title": "Kompetenzen der Länder : Wählen gehen!",
       "teaser": "Ein Kommentar von",
-      "url": "https://www.faz.net/aktuell/rhein-main/landtagswahlen-in-hessen-und-bayern-2023-19225783.html",
+      "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/landtagswahl-in-hessen-wer-nicht-waehlt-hat-eines-tages-vielleicht-keine-wahl-mehr-19225783.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Jacqueline Vogt (jv.)"
     },
@@ -252,25 +276,31 @@
       "image_title": "Johannes Leithäuser (Lt.)"
     },
     {
+      "title": "Angriff auf Israel : Ich denke an die vielen Opfer",
+      "url": "https://www.faz.net/aktuell/feuilleton/meron-mendel-zum-terrorangriff-auf-israel-niemand-rechnete-mit-dem-angriff-19228744.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Keine Ende des Blutvergießens und der Tränen: Fassungslose Israelis nach dem Einschlag einer Hamas-Rakete in Tel Aviv."
+    },
+    {
       "title": "Bundesliga im Liveticker : Es läuft bei Bayer Leverkusen",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/fussball-bundesliga-heute-liveticker-mit-spielplan-tabelle-und-teams-18727822.html",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Leerstand und fallende Mieten : Angst vor der Immobilienkrise",
-      "url": "https://www.faz.net/aktuell/finanzen/usa-angst-vor-der-immobilienkrise-19217566.html",
+      "title": "Berlin und Paris im Clinch : Ziemlich uneinige Partner",
+      "url": "https://www.faz.net/aktuell/wirtschaft/berlin-und-paris-im-streit-um-strommarktreform-und-mehr-19225451.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Blick auf die Skyline von New York"
+      "image_title": "Uneinig: Bundeskanzler Olaf Scholz (SPD, links) und Frankreichs Staatspräsident Emmanuel Macron"
     },
     {
-      "title": "Der Sonntagsökonom : Falsch beraten in der Gaskrise",
-      "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/politik-und-wirtschaft-warum-eine-gaskrise-nicht-stattfand-19223870.html",
+      "title": "Jom Kippur 1973 : Der Krieg, der den Nahen Osten veränderte",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-und-jom-kippur-1973-der-krieg-der-den-nahen-osten-veraenderte-19228166.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Der Chemiekonzern BASF zählt zu den größten deutschen Energieverbrauchern und warnte eindringlich vor einem Gaslieferstopp."
+      "image_title": "Leichname syrischer Soldaten säumen den Vormarsch der israelischen Armee auf den Golan-Höhen gen Damaskus (Aufnahme aus dem Oktober 1973, genaues Datum unbekannt)."
     },
     {
       "title": "Angriff der Hamas : Israels Albtraum",
-      "url": "https://www.faz.net/aktuell/politik/ausland/angriff-der-hamas-israels-albtraum-19227770.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/israel-vorerst-eint-der-ueberraschende-hamas-ueberfall-die-politischen-lager-19227770.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Gaza-Stadt: Rauch steigt vom „Palestine Tower“ im Stadtteil Al-Rimal auf."
     },
@@ -281,16 +311,20 @@
       "image_title": "Hizbullah-Kämpfer während einer inszenierten Militärübung in einem Lager im südlibanesischen Dorf Aramta"
     },
     {
-      "title": "Angriffe der Hamas : EU spricht Israel Recht auf Selbstverteidigung zu",
-      "url": "https://www.faz.net/aktuell/politik/ausland/hamas-angriff-eu-spricht-israel-recht-auf-selbstverteidigung-zu-19227961.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Israelische Soldaten am Sonntag in Sderot nordöstlich des Gazastreifens"
+      "title": "Leerstand und fallende Mieten : Angst vor der Immobilienkrise",
+      "url": "https://www.faz.net/aktuell/finanzen/usa-angst-vor-der-immobilienkrise-19217566.html"
     },
     {
-      "title": "Ford, Telekom, VW und Co. : Unternehmen bauen perspektivisch mehr Stellen ab",
-      "url": "https://www.faz.net/aktuell/wirtschaft/ford-telekom-vw-und-co-unternehmen-bauen-perspektivisch-mehr-stellen-ab-19228532.html",
+      "title": "Kipchoge in Chicago entthront : Kenianer Kiptum bricht Marathon-Weltrekord",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/kelvin-kiptum-bricht-bei-chicago-marathon-weltrekord-von-kipchoge-19229187.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "E-Fahrzeuge im VW-Werk Zwickau: Wegen geringer Nachfrage nach den Stromern werden hier Stellen wegfallen."
+      "image_title": "Im Ziel: der Kenianer Kelvin Kiptum"
+    },
+    {
+      "title": "Turn-Weltmeisterschaften : Dauser gewinnt erste deutsche Goldmedaille seit 2007",
+      "url": "https://www.faz.net/aktuell/sport/mehr-sport/lukas-dauser-erster-deutscher-turn-weltmeister-seit-2007-19229191.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Freudenschreie: Lukas Dauser ist Weltmeister"
     },
     {
       "title": "Früherer König im Exil : Kehrt Juan Carlos I. bald nach Spanien zurück?",
@@ -299,16 +333,10 @@
       "image_title": "Zweite Stippvisite nach dem Exil: Juan Carlos im April bei dem Besuch einer Segelregatta in Sanxenxo"
     },
     {
-      "title": "Shishapangma in Tibet : Lawinen reißen mehrere Bergsteiger mit – Tote und Verletzte",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mehrere-tote-und-verletzte-durch-lawinen-an-der-shishapangma-19228467.html",
+      "title": "„Tatort“ mit Heike Makatsch : Letzte Ausfahrt Mainz-Mombach",
+      "url": "https://www.faz.net/aktuell/trailer-tatort-aus-dem-dunkel-19225755.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Mehr als 8000 Meter hoch: der Shishapangma"
-    },
-    {
-      "title": "Starke Erdbeben in Afghanistan : „Es war unerträglich“",
-      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/verzweiflung-nach-erdbeben-in-afghanistan-19228326.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Nichts als Trümmer: Einwohner der Provinz Herat begutachten am Sonntag die Schäden, die das Erdbeben hinterlassen hat."
+      "image_title": "Fühlt sich im Stich gelassen: Ellen Berlinger (Heike Makatsch)"
     },
     {
       "title": "Jeep Avenger im Fahrbericht : Dein Willys geschehe",
@@ -317,36 +345,12 @@
       "image_title": "Kleinstes Modell seit dem legendären Willys: Jeep Avenger"
     },
     {
-      "title": "Neuer Impuls des BVB-Trainers : Terzic und die alten Männer",
-      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/wie-marco-reus-und-mats-hummels-beim-bvb-unter-terzic-aufbluehen-19228399.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zwei Männer im Glück: Der Dortmunder Trainer Edin Terzic umarmt nach dem Sieg gegen Berlin den zweimaligen Vorbereiter Marco Reus."
+      "title": "Bundestrainer der DFB-Frauen : Darum fiel die Wahl auf Horst Hrubesch",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundestrainer-der-dfb-frauen-darum-fiel-die-wahl-auf-horst-hrubesch-19228695.html"
     },
     {
-      "title": "Wahlen in Bayern und Hessen : Spitzenkandidaten in Hessen halten sich Koalitionsoptionen offen",
-      "url": "https://www.faz.net/aktuell/politik/inland/liveticker-zu-landtagswahlen-in-hessen-und-bayern-spitzenkandidaten-halten-sich-koalitionsoptionen-offen-faz-19201318.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Plakatwand mit Plakaten verschiedener Parteien zur bayerischen Landtagswahl 2023"
-    },
-    {
-      "title": "Wahlkampf in Bayern : Gott kann nicht alles richten",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahlkampf-in-aschaffenburg-jetzt-wird-es-ungemuetlich-19224145.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Kundgebung „Gegen grünen Wahnsinn“ der Bürgerinitiative Franken"
-    },
-    {
-      "title": "Bayern und Hessen wählen : Warum es bei den Landtagswahlen auch um die Ampel geht",
-      "url": "https://www.faz.net/aktuell/politik/wahl-in-hessen/landtagswahl-in-bayern-und-hessen-die-wichtigsten-fragen-19218760.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die Ministerpräsidenten von Hessen und Bayern: Boris Rhein (CDU) und Markus Söder (CSU) Mitte August im Garten des Klosters Seligenstadt"
-    },
-    {
-      "title": "Soziale Systeme : Medialer Skeptizismus",
-      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/die-medien-und-das-schlechten-image-der-politik-19224360.html"
-    },
-    {
-      "title": "Corona in den USA : Amerika rechnet mit der Covid-Politik ab",
-      "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/amerika-rechnet-mit-der-covid-politik-ab-19222431.html"
+      "title": "Organisierte Skeptik : Die Medien und das schlechte Image der Politik",
+      "url": "https://www.faz.net/aktuell/wissen/geist-soziales/die-medien-und-das-schlechte-image-der-politik-19224360.html"
     },
     {
       "title": "Die Vermögensfrage : Die bessere Alternative zum Tagesgeld",
@@ -356,7 +360,7 @@
     },
     {
       "title": "Angriff der Hamas : Droht Israel ein Mehrfrontenkrieg?",
-      "url": "https://www.faz.net/aktuell/politik/ausland/droht-israel-ein-mehrfrontenkrieg-19227452.html",
+      "url": "https://www.faz.net/aktuell/politik/ausland/angriff-der-hamas-droht-israel-ein-mehrfrontenkrieg-19227452.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Angriff auf den Grenzübergang Erez zwischen Israel und dem Gazastreifen"
     },
@@ -371,6 +375,10 @@
       "url": "https://www.faz.net/aktuell/politik/ausland/gegenoffensive-der-ukraine-kampf-um-jeden-graben-19222629.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Soldaten der 128. Gebirgsjägerbrigade trainieren auf einem Feld"
+    },
+    {
+      "title": ": Netanjahu: „Wir werden die Hamas in Trümmer legen“",
+      "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
       "title": ": El Niño legt Amazonasgebiet in Brasilien trocken",
@@ -429,10 +437,10 @@
       "image_title": "Die Besatzung des Seenotrettungsschiffs „Humanity 1“ legt am 27.08.2023 am Pier 56 im Hafen von Livorno an."
     },
     {
-      "title": "Beispiel Nordhausen : Bürger haben Einfluss – den sollten sie nutzen",
-      "url": "https://www.faz.net/aktuell/politik/inland/beispiel-nordhausen-buerger-haben-einfluss-den-sollten-sie-nutzen-19225556.html",
+      "title": "Wahlkampf in Bayern : Gott kann nicht alles richten",
+      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahlkampf-in-aschaffenburg-jetzt-wird-es-ungemuetlich-19224145.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wahlaufrufe gegen die AfD im September im thüringischen Nordhausen"
+      "image_title": "Kundgebung „Gegen grünen Wahnsinn“ der Bürgerinitiative Franken"
     },
     {
       "title": "Stellenabbau : Playmobil hat ein Problem",
@@ -443,8 +451,8 @@
       "url": "https://www.faz.net/aktuell/politik/inland/afd-will-in-bitterfeld-wolfen-erstmals-ob-wahl-gewinnen-19224656.html"
     },
     {
-      "title": "Wahlkampf in Bayern : Gott kann nicht alles richten",
-      "url": "https://www.faz.net/aktuell/feuilleton/debatten/wahlkampf-in-aschaffenburg-jetzt-wird-es-ungemuetlich-19224145.html"
+      "title": "Beispiel Nordhausen : Bürger haben Einfluss – den sollten sie nutzen",
+      "url": "https://www.faz.net/aktuell/politik/inland/beispiel-nordhausen-buerger-haben-einfluss-den-sollten-sie-nutzen-19225556.html"
     },
     {
       "title": "Diebesbanden im US-Handel : „Stehlen gilt nicht mehr als Verbrechen“",
@@ -457,12 +465,6 @@
     {
       "title": "Besuch in Washington : Biden und Steinmeier versichern Kiew weiterhin „kraftvolle Unterstützung“",
       "url": "https://www.faz.net/aktuell/politik/ausland/usa-besuch-biden-und-steinmeier-versichern-kiew-kraftvolle-unterstuetzung-19226591.html"
-    },
-    {
-      "title": "Hamas-Angriff auf Israel : Jubel aber auch Sorge in der islamischen Welt",
-      "url": "https://www.faz.net/aktuell/politik/ausland/hamas-angriff-auf-israel-hamas-angriff-auf-israel-19227723.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "In Saana in Jemen kam es am Samstag zu großen pro-palästinensischen Demonstrationen."
     },
     {
       "title": "Bayerns Ministerpräsident : Womit Söder in die Geschichte eingehen will",
@@ -483,6 +485,23 @@
       "image_title": "Ein Mann in bayerischer Tracht betritt bei der Landtagswahl 2018 ein Wahllokal in Bayern."
     },
     {
+      "title": "Umfragen, Prognosen, Fakten : Alle Zahlen zur Landtagswahl in Bayern",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-bayern/bayern-alle-zahlen-zur-landtagswahl-prognosen-und-fakten-19222795.html",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Neuer Impuls des BVB-Trainers : Terzic und die alten Männer",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/wie-marco-reus-und-mats-hummels-beim-bvb-unter-terzic-aufbluehen-19228399.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Zwei Männer im Glück: Der Dortmunder Trainer Edin Terzic umarmt nach dem Sieg gegen Berlin den zweimaligen Vorbereiter Marco Reus."
+    },
+    {
+      "title": "Bochum-Torwart Manuel Riemann : In den eigenen Reihen gefürchtet",
+      "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/manuel-riemann-vom-vfl-bochum-ist-der-zocker-fuer-besondere-momente-19228543.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Den hat er auch: Manuel Riemann im Spiel gegen Leipzig"
+    },
+    {
       "title": "Zweite Liga am Sonntag : Schalke 04 unterliegt auch Hertha BSC",
       "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/schalke-04-verliert-gegen-hertha-bsc-braunschweig-unterliegt-paderborn-19084067.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -495,40 +514,28 @@
       "image_title": "Fährt konstant und baut kaum Unfälle: der Chinese Zhou Guanyu"
     },
     {
-      "title": "Volleyballer bei Olympia dabei : „Ich könnte jede Sekunde losheulen“",
-      "url": "https://www.faz.net/aktuell/sport/mehr-sport/deutschlands-volleyballer-fuer-olympia-in-paris-qualifiziert-19228011.html",
+      "title": "Hamas-Angriff auf Israel : Feld und Fuest bleiben zuversichtlich für die Wirtschaft",
+      "url": "https://www.faz.net/aktuell/wirtschaft/hamas-angriff-auf-israel-feld-und-fuest-bleiben-zuversichtlich-fuer-konjunktur-19228917.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Tobias Krick und die deutschen Volleyballer sind in Paris dabei."
+      "image_title": "Ein israelischer Panzer an der Grenze zum Libanon: Verschärfte sich der Nahost-Konflikt hier, könnte das Folgen für die Wirtschaft bedeuten."
     },
     {
-      "title": "Formel-1-Champion Verstappen : Mit gewaltiger Lust",
-      "url": "https://www.faz.net/aktuell/sport/formel-1/max-verstappen-wieder-weltmeister-in-formel-1-eins-mit-seinem-auto-19227917.html",
+      "title": "Gesenkte Mehrwertsteuer : 38 Milliarden Euro für die Gastwirte?",
+      "url": "https://www.faz.net/aktuell/wirtschaft/mehrwertsteuer-38-milliarden-euro-fuer-die-gastwirte-19228137.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Jubel in Qatar: Max Verstappen ist vorzeitig Weltmeister."
+      "image_title": "Kundgebung des DEHOGA im vergangenen April: Gastwirte stemmen sich dagegen, dass die Mehrwertsteuer zum Jahreswechsel wieder auf 19 Prozent steigt."
     },
     {
-      "title": "Staatsanwaltschaft Köln : Cum-ex-Ermittler bleiben von Umstrukturierung verschont",
-      "url": "https://www.faz.net/aktuell/wirtschaft/staatsanwaltschaft-koeln-cum-ex-ermittler-bleiben-19228324.html",
+      "title": "Ford, Telekom, VW und Co. : Unternehmen bauen perspektivisch mehr Stellen ab",
+      "url": "https://www.faz.net/aktuell/wirtschaft/ford-telekom-vw-und-co-unternehmen-bauen-perspektivisch-mehr-stellen-ab-19228532.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "NRW-Justizminister Benjamin Limbach (links) rückt von seinen Plänen für eine Umstrukturierung der Kölner Staatsanwaltschaften ab."
+      "image_title": "E-Fahrzeuge im VW-Werk Zwickau: Wegen geringer Nachfrage nach den Stromern werden hier Stellen wegfallen."
     },
     {
-      "title": "IT-Schwierigkeiten : Das Postbank-Debakel",
-      "url": "https://www.faz.net/aktuell/rekonstruktion-des-postbank-debakels-19225071.html",
+      "title": "Der Sonntagsökonom : Falsch beraten in der Gaskrise",
+      "url": "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/politik-und-wirtschaft-warum-eine-gaskrise-nicht-stattfand-19223870.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Eine Filiale der Postbank am Frankfurter Roßmarkt"
-    },
-    {
-      "title": "Handwerkspräsident Dittrich : Ohne Handwerker keine Energiewende",
-      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/handwerkspraesident-dittrich-ohne-handwerker-keine-energiewende-19224490.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Zwei Handwerker an einer Wärmepumpe"
-    },
-    {
-      "title": "Stellenabbau : Playmobil hat ein Problem",
-      "url": "https://www.faz.net/aktuell/wirtschaft/kommentar-playmobil-hat-ein-problem-19224953.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Playmobil: Die fränkische Spielzeug-Marke steckt in der Krise"
+      "image_title": "Der Chemiekonzern BASF zählt zu den größten deutschen Energieverbrauchern und warnte eindringlich vor einem Gaslieferstopp."
     },
     {
       "title": "Stellenmarkt : Nachfrage nach Fachleuten für generative KI / ChatGPT verzehnfacht sich",
@@ -549,6 +556,12 @@
       "image_title": "KI-Konferenz"
     },
     {
+      "title": "IT-Schwierigkeiten : Das Postbank-Debakel",
+      "url": "https://www.faz.net/aktuell/rekonstruktion-des-postbank-debakels-19225071.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Eine Filiale der Postbank am Frankfurter Roßmarkt"
+    },
+    {
       "title": "Was Anleger wissen müssen : Mit Birkenstock-Sandalen aufs Börsenparkett",
       "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/boersengang-von-birkenstock-was-anleger-wissen-muessen-19225169.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -565,12 +578,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/die-rache-der-notenbanken-19224488.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Ölplattform in der Nordsee: Der Preis der Nordseeölsorte Brent ist in dieser Woche deutlich gefallen."
-    },
-    {
-      "title": "Börsenlieblinge unter Druck : Fett und süß plötzlich nicht mehr gefragt",
-      "url": "https://www.faz.net/aktuell/finanzen/boersenlieblinge-unter-druck-fett-und-suess-nicht-mehr-gefragt-19225121.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Wohl bekomms: Hot-Dog-Wettessen in den USA"
     },
     {
       "title": "KI im Rechtswesen : Wenn Computer Gesetze schreiben",
@@ -675,16 +682,16 @@
       "image_title": "Ein Blaulicht leuchtet auf dem Dach eines Polizeiwagens. (Symbolbild)"
     },
     {
-      "title": "Erste spanische Rakete : Traumstart im dritten Anlauf",
-      "url": "https://www.faz.net/aktuell/gesellschaft/erste-spanische-rakete-erfolgreich-ins-all-geschossen-19228204.html",
+      "title": "Shishapangma in Tibet : Lawinen reißen mehrere Bergsteiger mit – Tote und Verletzte",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/mehrere-tote-und-verletzte-durch-lawinen-an-der-shishapangma-19228467.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Die „Miura 1“ bei ihrem Start auf einem Militärstützpunkt in Huelva"
+      "image_title": "Mehr als 8000 Meter hoch: der Shishapangma"
     },
     {
-      "title": "„Gift zum Taschengeldtarif“ : Mehr Kinder und Jugendliche konsumieren E-Zigaretten",
-      "url": "https://www.faz.net/aktuell/gesellschaft/gesundheit/mehr-kinder-und-jugendliche-konsumieren-e-zigaretten-19228074.html",
+      "title": "Starke Erdbeben in Afghanistan : „Es war unerträglich“",
+      "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/verzweiflung-nach-erdbeben-in-afghanistan-19228326.html",
       "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Bunt und verlockend: verschiedene Einweg-E-Zigaretten"
+      "image_title": "Nichts als Trümmer: Einwohner der Provinz Herat begutachten am Sonntag die Schäden, die das Erdbeben hinterlassen hat."
     },
     {
       "title": "Feigen, Lupinen und Co. : Welche Alternativen gibt es zum Kaffee?",
@@ -747,27 +754,27 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Landtagswahl Hessen 2023 : Wahllokale für den Superwahlsonntag geöffnet",
-      "url": "https://www.faz.net/aktuell/rhein-main/landtagswahl-hessen-im-liveticker-faz-19216101.html",
+      "title": "Umfragen, Prognosen, Fakten : Alle Zahlen zur Landtagswahl in Hessen",
+      "url": "https://www.faz.net/aktuell/politik/wahl-in-hessen/landtagswahl-in-hessen-alle-umfragen-prognosen-hochrechnung-und-zahlen-19222852.html",
       "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
+      "title": "Legendäres Eiscafé im Nordend : Arrivederci, „Eis Christina“",
+      "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/eis-christina-im-frankfurter-nordend-schliesst-nach-50-saisons-19228805.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Die letzten Kugeln: Die Schlange vor der legendären Eisdiele reichte am Sonntag von der Eckenheimer Landstraße über die Wielandstraße bis um die Ecke zur Weberstraße."
+    },
+    {
+      "title": "Neuer Stadtdekan im Amt : Denken im Futur II",
+      "url": "https://www.faz.net/aktuell/rhein-main/holger-kamlah-als-evangelischer-stadtdekan-in-amt-eingefuehrt-19228809.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Holger Kamlah ist der neue Stadtdekan von Frankfurt."
     },
     {
       "title": "Landtagswahl in Hessen : Demokratischer Akt – und feierliches Ritual",
       "url": "https://www.faz.net/aktuell/politik/wahl-in-hessen/landtagswahl-in-hessen-die-wichtige-rolle-der-wahlhelfer-19228440.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Beisitzer in der Weißfrauenschule: Anina Engelhardt und Michael Freiberg teilen die Stimmzettel aus."
-    },
-    {
-      "title": "Paar stellt Filmszenen nach : Tanzen in den Hollywood Hills",
-      "url": "https://www.faz.net/aktuell/rhein-main/ein-paar-aus-hofheim-stellt-auf-reisen-szenen-aus-filmen-nach-19219384.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "In den Hügeln über Los Angeles: Erst nach einer langen Wanderung erreichen die Lachheins den Drehort aus „La La Land“."
-    },
-    {
-      "title": "Schauspieler Natanaël Lienhard : „Ich brauche chaotischen Input“",
-      "url": "https://www.faz.net/aktuell/rhein-main/kultur/schauspieler-natanael-lienhard-ich-brauche-chaotischen-input-19225733.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Liebt es, singend Geschichten zu erzählen: Schauspieler Natanaël Lienhard."
     },
     {
       "title": "F.A.Z.-Automarkt : Neuwagen finden mit MeinAuto.de",
@@ -907,6 +914,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Handwerkspräsident Dittrich : Ohne Handwerker keine Energiewende",
+      "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/handwerkspraesident-dittrich-ohne-handwerker-keine-energiewende-19224490.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Zwei Handwerker an einer Wärmepumpe"
+    },
+    {
       "title": "Wie ein See wiederbelebt wird : Unter drei Metern Tiefe lauert der Tod",
       "url": "https://www.faz.net/aktuell/rhein-main/wie-ein-biologisch-toter-see-bei-woelfersheim-wiederbelebt-wird-19220156.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -917,12 +930,6 @@
       "url": "https://www.faz.net/aktuell/wirtschaft/vw-und-umicore-hohe-subventionen-fuer-neue-fabrik-in-polen-19225062.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Produktion von Batteriezellen am VW-Standort Salzgitter: Das Gemeinschaftsunternehmen mit Umicore soll ein wichtiges Vorprodukt liefern."
-    },
-    {
-      "title": "Kurz vor der Klimakonferenz : Emirate genehmigen Mega-Gasprojekt",
-      "url": "https://www.faz.net/aktuell/wirtschaft/vereinigte-arabische-emirate-genehmigen-vor-klimakonferenz-mega-gasprojekt-19224506.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Sultan Ahmed Al Jaber, designierter Präsident der COP28 und Minister für Industrie und Fortschrittstechnologien der Vereinigten Arabischen Emirate."
     },
     {
       "title": "Neues Kreuzfahrtschiff : Ein Schiff für die Neuen",
