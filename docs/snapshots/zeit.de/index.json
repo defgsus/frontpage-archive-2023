@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-08T19:08:16",
+  "timestamp": "2023-10-08T20:10:55",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -66,14 +66,14 @@
       "text": null
     },
     {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.2b0784f1b1642b9a675c.cached.mjs",
+      "type": null,
+      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.7b6db4f39a37aaf1fa3b.cached.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.7b6db4f39a37aaf1fa3b.cached.js",
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.2b0784f1b1642b9a675c.cached.mjs",
       "id": null,
       "text": null
     },
@@ -111,16 +111,16 @@
   "articles": [
     {
       "title": "Z+ (abopflichtiger Inhalt); Gefangene der Hamas: Die Hamas hat jetzt ein grausames Faustpfand",
-      "teaser": "Mehr als 100 Menschen sollen die Hamas-Terroristen in den Gazastreifen verschleppt haben. Die Entführungen rühren an einem schweren Trauma der israelischen Gesellschaft.",
+      "teaser": "Mehr als 100 Menschen sollen die Hamas-Terroristen in den Gazastreifen verschleppt haben. Die Entführungen triggern ein Trauma der israelischen Gesellschaft.",
       "url": "https://www.zeit.de/politik/2023-10/hamas-gefangene-geiseln-angriff-israel",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/hamas-gefangene-geiseln-angriff-israel-bild/cinema__1000x428"
     },
     {
-      "title": "Liveblog: Nahost: USA verlegen Kriegsschiffe ins östliche Mittelmeer",
-      "teaser": "Die USA entsenden einen Flugzeugträger und Begleitschiffe in die Nähe Israels. Palästinensische Behörden melden mehr als 400 Tote. Das Liveblog",
+      "title": "Liveblog: Nahost: Sanitäter finden 260 Tote auf Festivalgelände in Israel",
+      "teaser": "Nach dem Hamas-Angriff auf ein Festival hat Israels Rettungsdienst dort etwa 260 Leichen geborgen. Die USA verlegen Kriegsschiffe ins östliche Mittelmeer. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-blog-usa-flugzeugraeger-mittelmeer-bild/cinema__980x420",
-      "image_title": "Nahost: USA verlegen Kriegsschiffe ins östliche Mittelmeer"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog-bild-11/cinema__980x420",
+      "image_title": "Nahost: Sanitäter finden 260 Tote auf Festivalgelände in Israel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Israel: Netanjahu hat uns geopfert",
@@ -133,7 +133,7 @@
       "title": "Z+ (abopflichtiger Inhalt); Nahostkonflikt: Der Krieg begann um 6.30 Uhr",
       "teaser": "Hunderte Tote, viele Entführte, Raketen auf Israel, Luftschläge auf Gaza: Ein Überblick in Karten und Videos, wie der Angriff der Hamas begann und Israel reagierte.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte-bild-2/cinema__980x420",
       "image_title": "Nahostkonflikt: Der Krieg begann um 6.30 Uhr"
     },
     {
@@ -151,25 +151,32 @@
       "image_title": "Angriff auf Israel: Zerstörung und Leid"
     },
     {
+      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, AfD legt weiter zu",
+      "teaser": "Boris Rhein plant Gespräche mit mehreren möglichen Partnern. Die AfD liegt bei mehr als 18 Prozent. Die FDP könnte den Einzug in den Landtag verpassen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live-bild-2/wide__822x462",
+      "image_title": "Landtagswahl in Hessen: CDU gewinnt deutlich, AfD legt weiter zu"
+    },
+    {
+      "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
+      "teaser": "Die AfD rückt laut aktueller Hochrechnungen mit 16,2 Prozent auf Platz zwei. Sehr knapp dahinter rangieren die Grünen vor den Freien Wählern. Das Liveblog",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live-bild-7/wide__822x462",
+      "image_title": "Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); AfD bei den Landtagswahlen: Der Rechtsruck ist nicht nur in Ostdeutschland ein Problem",
+      "teaser": "Die AfD wird in Hessen und Bayern jeweils zweitstärkste Kraft. Die Ergebnisse der Landtagswahlen zeigen: sie ist nun gesamtdeutsche Realität.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahlen-afd-hessen-bayern-wahlererfolg-zweitstaerkste-kraft",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/afd-zweitstaerkste-landtagswahlen-bayern-hessen-bild/wide__822x462",
+      "image_title": "AfD bei den Landtagswahlen: Der Rechtsruck ist nicht nur in Ostdeutschland ein Problem"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wahlen in Bayern und Hessen: Diese Ampel ist ein Verlustgeschäft – für alle",
       "teaser": "Größter Verlierer der Wahlen in Bayern und Hessen ist die Ampel. Es bleibt nicht viel Zeit, Vertrauen zurückzugewinnen, denn der Rechtsruck hat den Westen erfasst.",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/ampel-bayern-hessen-landtagswahl-bundesregierung",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-10/ampel-bayern-hessen-landtagswahl-bundesregierung-2/wide__822x462",
       "image_title": "Wahlen in Bayern und Hessen: Diese Ampel ist ein Verlustgeschäft – für alle"
-    },
-    {
-      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, AfD bei knapp 18 Prozent",
-      "teaser": "Boris Rhein plant Gespräche mit mehreren möglichen Partnern. Die AfD legt weiter zu. Die FDP könnte den Einzug in den Landtag verpassen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live-bild/wide__822x462",
-      "image_title": "Landtagswahl in Hessen: CDU gewinnt deutlich, AfD bei knapp 18 Prozent"
-    },
-    {
-      "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
-      "teaser": "Die AfD rückt laut aktueller Hochrechnungen auf Platz zwei. Sehr knapp dahinter rangieren die Grünen vor den Freien Wählern. Das Liveblog",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live-bild-7/wide__822x462",
-      "image_title": "Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Herkunftsländer • Das Wichtigste aus Z+: Woher die meisten Asylsuchenden nach Deutschland kommen",
@@ -193,10 +200,10 @@
       "image_title": "Stephanie Pauly: \"Wir wussten sofort, dass es Liebe war\""
     },
     {
-      "title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-mindestens-120-tote-und-1-000-verletzte-durch-erdbeben",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-mindestens-120-tote-und-1-000-verletzte-durch-erdbeben-bild/wide__822x462",
-      "image_title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben"
+      "title": "Reaktionen zu Israel: \"Ein gefährlicher Abgrund\"",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/israel-hamas-gaza-reaktionen-usa-eu-scholz",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-hamas-gaza-reaktionen-usa-eu-scholz-bild/wide__822x462",
+      "image_title": "Reaktionen zu Israel: \"Ein gefährlicher Abgrund\""
     },
     {
       "title": "Chicago: Kelvin Kiptum stellt neuen Marathon-Weltrekord auf",
@@ -205,10 +212,16 @@
       "image_title": "Chicago: Kelvin Kiptum stellt neuen Marathon-Weltrekord auf"
     },
     {
-      "title": "Liveblog: Nahost: USA verlegen Kriegsschiffe ins östliche Mittelmeer",
+      "title": "Liveblog: Nahost: Sanitäter finden 260 Tote auf Festivalgelände in Israel",
       "url": "https://www.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-blog-usa-flugzeugraeger-mittelmeer-bild/wide__822x462",
-      "image_title": "Nahost: USA verlegen Kriegsschiffe ins östliche Mittelmeer"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/gaza-hamas-israel-liveblog-bild-11/wide__822x462",
+      "image_title": "Nahost: Sanitäter finden 260 Tote auf Festivalgelände in Israel"
+    },
+    {
+      "title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-mindestens-120-tote-und-1-000-verletzte-durch-erdbeben",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-mindestens-120-tote-und-1-000-verletzte-durch-erdbeben-bild/wide__822x462",
+      "image_title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben"
     },
     {
       "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
@@ -217,10 +230,10 @@
       "image_title": "Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft"
     },
     {
-      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, AfD bei knapp 18 Prozent",
+      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, AfD legt weiter zu",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live-bild/wide__822x462",
-      "image_title": "Landtagswahl in Hessen: CDU gewinnt deutlich, AfD bei knapp 18 Prozent"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live-bild-2/wide__822x462",
+      "image_title": "Landtagswahl in Hessen: CDU gewinnt deutlich, AfD legt weiter zu"
     },
     {
       "title": "Turnen: Lukas Dauser gewinnt Gold bei der Weltmeisterschaft der Turner",
@@ -343,16 +356,16 @@
       "url": "https://www.zeit.de/arbeit/2023-10/projektingenieur-deutsche-bahn-gehalt-kontoauszug"
     },
     {
-      "title": "Gesundheitsminister: Ampelkoalition kippt Lauterbachs Pläne für ein Rauchverbot im Auto",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/ampel-regierung-karl-lauterbach-rauchverbot-auto-gesundheitsminister"
-    },
-    {
       "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live"
     },
     {
-      "title": "Ereignisse in Israel: Benjamin Netanjahu kündigt Rache an, Israel spricht von 300 Toten",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/ueberblick-israel-angriff-hamas-nacht"
+      "title": "Gesundheitsminister: Ampelkoalition kippt Lauterbachs Pläne für ein Rauchverbot im Auto",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/ampel-regierung-karl-lauterbach-rauchverbot-auto-gesundheitsminister"
+    },
+    {
+      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, AfD legt weiter zu",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live"
     },
     {
       "title": "Bayern-Wahl 2023: Alle Ergebnisse der Landtagswahl in Bayern – live",
@@ -367,10 +380,10 @@
       "image_title": "Hamas-Angriff: Israel erlebt seinen 11. September"
     },
     {
-      "title": "Gesundheitsminister: Ampelkoalition kippt Lauterbachs Pläne für ein Rauchverbot im Auto",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/ampel-regierung-karl-lauterbach-rauchverbot-auto-gesundheitsminister",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/rauchen-auto-kinder-verbot-gekippt/wide__822x462",
-      "image_title": "Gesundheitsminister: Ampelkoalition kippt Lauterbachs Pläne für ein Rauchverbot im Auto"
+      "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live-bild-7/wide__822x462",
+      "image_title": "Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft"
     },
     {
       "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
@@ -381,8 +394,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-angriff-armee"
     },
     {
-      "title": "Liveblog: Landtagswahl in Bayern: AfD in Bayern zweitstärkste Kraft",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-bayern-2023-live"
+      "title": "Gesundheitsminister: Ampelkoalition kippt Lauterbachs Pläne für ein Rauchverbot im Auto",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/ampel-regierung-karl-lauterbach-rauchverbot-auto-gesundheitsminister"
     },
     {
       "title": "Gesundheitsminister: Ampelkoalition kippt Lauterbachs Pläne für ein Rauchverbot im Auto",
@@ -393,8 +406,8 @@
       "url": "https://www.zeit.de/arbeit/2023-10/projektingenieur-deutsche-bahn-gehalt-kontoauszug"
     },
     {
-      "title": "Ereignisse in Israel: Benjamin Netanjahu kündigt Rache an, Israel spricht von 300 Toten",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/ueberblick-israel-angriff-hamas-nacht"
+      "title": "Liveblog: Landtagswahl in Hessen: CDU gewinnt deutlich, AfD legt weiter zu",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-2023-live"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Benjamin Netanjahu: Für ihn steht viel auf dem Spiel",
@@ -404,18 +417,18 @@
       "image_title": "Benjamin Netanjahu: Für ihn steht viel auf dem Spiel"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Nahostkonflikt: Der Krieg begann um 6.30 Uhr",
+      "teaser": "Hunderte Tote, viele Entführte, Raketen auf Israel, Luftschläge auf Gaza: Ein Überblick in Karten und Videos, wie der Angriff der Hamas begann und Israel reagierte.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/nahostkonflikt-israel-gazastreifen-hamas-karte-bild-2/wide__822x462",
+      "image_title": "Nahostkonflikt: Der Krieg begann um 6.30 Uhr"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Angriff auf Israel: Eine mörderische Wette",
       "teaser": "Israelische Selbstüberschätzung hat den Angriff aus Gaza erst möglich gemacht. Trotzdem könnte sich die Hamas verspekuliert haben.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-angriff-armee",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-angriff-2/wide__822x462",
       "image_title": "Angriff auf Israel: Eine mörderische Wette"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Maronisuppe: Wirf die Kastanien ins Feuer!",
-      "teaser": "Es wird Herbst, da dürfen Suppen wieder heiß werden. So auch diese Maronisuppe. Dafür brauchen Sie bloß eine Packung vakuumierte Maroni und ein wenig Fond.",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/maronisuppe-rezept-geschmacksmomente-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/maronisuppe-rezept-geschmacksmomente-sonntagsessen-teaserbild/wide__822x462",
-      "image_title": "Maronisuppe: Wirf die Kastanien ins Feuer!"
     },
     {
       "title": "Verlagsangebot: Fünf Orte, um Italien neu zu entdecken",
@@ -504,18 +517,18 @@
       "image_title": "\"Was jetzt? – Die Woche\": Notstand auf Lampedusa – wie mit Migration umgehen?"
     },
     {
-      "title": "Luxemburg: Fortsetzung von Regierungskoalition nach Parlamentswahl fraglich",
-      "teaser": "Bei der Parlamentswahl in Luxemburg haben die Grünen stark verloren. Unsicher ist, ob die Koalition aus Liberalen, Sozialdemokraten und Grünen die Mehrheit behält.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/parlamentswahl-luxemburg-gruene-verlieren",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/parlamentswahl-luxemburg-sam-tanson-bild/wide__822x462",
-      "image_title": "Luxemburg: Fortsetzung von Regierungskoalition nach Parlamentswahl fraglich"
+      "title": "Hessen-Wahl 2023: Alle Ergebnisse der Landtagswahl in Hessen – live",
+      "teaser": "Welche Koalitionen sind im Wiesbadener Landtag möglich? Welche Parteien und Kandidaten gewinnen welchen Wahlkreis? Sehen Sie alle Daten zur Wahl in interaktiven Grafiken.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/hessen-landtagswahl-2023-wahlergebnisse-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/hessen-landtagswahl-2023-wahlergebnisse-live-teaserbild/wide__822x462",
+      "image_title": "Hessen-Wahl 2023: Alle Ergebnisse der Landtagswahl in Hessen – live"
     },
     {
-      "title": "Wahl in Hessen: CDU mit starken Zugewinnen, SPD fällt auf historisches Tief",
-      "teaser": "Die CDU ist deutlich stärker als 2018, die SPD verzeichnet das zweite Mal in Folge einen Tiefstwert. Die Liberalen müssen um den Verbleib im Landtag fürchten.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/hessen-landtagswahl-prognosen-hochrechnungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahl-hessen-cdu-gewinnt-spd-historisches-tief-bild/wide__822x462",
-      "image_title": "Wahl in Hessen: CDU mit starken Zugewinnen, SPD fällt auf historisches Tief"
+      "title": "Bayern-Wahl 2023: Alle Ergebnisse der Landtagswahl in Bayern – live",
+      "teaser": "Welche Koalitionen sind im Landtag in München möglich? Welche Parteien und Kandidaten gewinnen welchen Stimmkreis? Sehen Sie alle Daten zur Wahl in interaktiven Grafiken.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/bayern-landtagswahl-2023-wahlergebnisse-live",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/bayern-landtagswahl-2023-wahlergebnisse-live-teaserbild/wide__822x462",
+      "image_title": "Bayern-Wahl 2023: Alle Ergebnisse der Landtagswahl in Bayern – live"
     },
     {
       "title": "Afghanistan: Hunderte Tote und mindestens 1.000 Verletzte nach Erdbeben",
@@ -750,18 +763,18 @@
       "image_title": "Einrichtung: Schön hässlich"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Maronisuppe: Wirf die Kastanien ins Feuer!",
+      "teaser": "Es wird Herbst, da dürfen Suppen wieder heiß werden. So auch diese Maronisuppe. Dafür brauchen Sie bloß eine Packung vakuumierte Maroni und ein wenig Fond.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/maronisuppe-rezept-geschmacksmomente-sonntagsessen",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/maronisuppe-rezept-geschmacksmomente-sonntagsessen-teaserbild/wide__822x462",
+      "image_title": "Maronisuppe: Wirf die Kastanien ins Feuer!"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Mouth Taping: Wachliegen wie Haaland",
       "teaser": "Blaulichtfilter, Mouth Taping, Mocktail: Die Schlafroutine des Fußballers Erling Haaland ist kurios. Unser Autor hat sie ausprobiert – trotz seiner Angst, zu ersticken.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-10/mouth-taping-schlafen-blaulichtfilter-brille-erling-haaland",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-10/mouth-taping-schlafen-blaulichtfilter-brille-erling/wide__822x462",
       "image_title": "Mouth Taping: Wachliegen wie Haaland"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Heinz Strunk : \"Du hast vielleicht die Uhr, aber ich habe die Zeit\"",
-      "teaser": "Er ist Autor, Musiker und Schauspieler: Heinz Strunk verrät, was er gern früher gewusst hätte – unter anderem, wie man den Turbo-Modus zündet.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/42/heinz-strunk-ratschlaege-leben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/42/was-ich-gern-frueher-gewusst-haette-bild-1/wide__822x462",
-      "image_title": "Heinz Strunk : \"Du hast vielleicht die Uhr, aber ich habe die Zeit\""
     },
     {
       "title": "Freie Wähler: Die Sache mit dem Hubert",
@@ -771,11 +784,11 @@
       "image_title": "Freie Wähler: Die Sache mit dem Hubert"
     },
     {
-      "title": "Verlagsangebot Was kann man wo studieren?",
-      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
-      "image_title": "Was kann man wo studieren?"
+      "title": "Verlagsangebot Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Luisa Neubauer: \"Stören kann kein Selbstzweck sein, das machen Kleinkinder\"",
@@ -918,36 +931,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Landtagswahlen: Faeser: Habe sehr viel Solidarität aus Berlin erhalten",
-      "url": "https://www.zeit.de/news/2023-10/08/faeser-habe-sehr-viel-solidaritaet-aus-berlin-erhalten"
+      "title": "Wahlkreis Hof: Junger CSU-Bürgermeister holt starkes Ergebnis in Hof",
+      "url": "https://www.zeit.de/news/2023-10/08/junger-csu-buergermeister-holt-starkes-ergebnis-in-hof"
     },
     {
-      "title": "Fußball: Tuchel verurteilt beleidigende Plakate in Bayern-Fankurve",
-      "url": "https://www.zeit.de/news/2023-10/08/tuchel-verurteilt-beleidigende-plakate-in-bayern-fankurve"
+      "title": "Landtag: Aiwanger vor Gewinn des Direktmandats - Auch Weigert führt",
+      "url": "https://www.zeit.de/news/2023-10/08/aiwanger-vor-gewinn-des-direktmandats-auch-weigert-fuehrt"
     },
     {
-      "title": "Landtag: SPD von Wahlergebnissen in Hessen und Bayern enttäuscht",
-      "url": "https://www.zeit.de/news/2023-10/08/spd-von-wahlergebnissen-in-hessen-und-bayern-enttaeuscht"
+      "title": "Wahlen: Aiwanger: Einzug der Freien Wähler in Bundestag möglich",
+      "url": "https://www.zeit.de/news/2023-10/08/aiwanger-einzug-der-freien-waehler-in-bundestag-moeglich"
     },
     {
-      "title": "Freizeit: Landesgartenschau in Fulda beendet: Über 585.000 Besucher",
-      "url": "https://www.zeit.de/news/2023-10/08/landesgartenschau-in-fulda-beendet-ueber-585-000-besucher"
+      "title": "Landtag: CDU-Ministerpräsident Rhein gewinnt erneut seinen Wahlkreis",
+      "url": "https://www.zeit.de/news/2023-10/08/cdu-ministerpraesident-rhein-gewinnt-erneut-seinen-wahlkreis"
     },
     {
-      "title": "Landtagswahlen: Hessen-FDP in Hochrechnungen unter fünf Prozent",
-      "url": "https://www.zeit.de/news/2023-10/08/hessen-fdp-in-hochrechnung-unter-fuenf-prozent"
+      "title": "Landtag: Finanzminister Füracker holt Direktmandat in der Oberpfalz",
+      "url": "https://www.zeit.de/news/2023-10/08/finanzminister-fueracker-holt-direktmandat-in-der-oberpfalz"
     },
     {
-      "title": "Großer Preis von Katar: Verstappen mit Weltmeister-Helm zum nächsten Sieg",
-      "url": "https://www.zeit.de/news/2023-10/08/verstappen-mit-weltmeister-helm-zum-naechsten-sieg"
+      "title": "Landtag: Waldeck-Frankenberg I als erster Wahlkreis ausgezählt",
+      "url": "https://www.zeit.de/news/2023-10/08/waldeck-frankenberg-i-als-erster-wahlkreis-ausgezaehlt"
     },
     {
-      "title": "Landtag: Merz gratuliert Söder und Rhein: «Sensationelles Ergebnis»",
-      "url": "https://www.zeit.de/news/2023-10/08/merz-gratuliert-soeder-und-rhein-sensationelles-ergebnis"
+      "title": "Wahlen: Innenminister Herrmann holt Direktmandat in Erlangen",
+      "url": "https://www.zeit.de/news/2023-10/08/innenminister-herrmann-holt-direktmandat-in-erlangen"
     },
     {
-      "title": "Parteien: Wahlen in Hessen und Bayern aus Sicht der AfD «Mega-Erfolg»",
-      "url": "https://www.zeit.de/news/2023-10/08/wahlen-in-hessen-und-bayern-aus-sicht-der-afd-mega-erfolg"
+      "title": "Parlament: RTL-Hochrechnung: Luxemburgs Regierung verliert Mehrheit",
+      "url": "https://www.zeit.de/news/2023-10/08/rtl-hochrechnung-luxemburgs-regierung-verliert-mehrheit"
     }
   ]
 }
