@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-08T10:11:28",
+  "timestamp": "2023-10-08T11:09:20",
   "url": "https://www.zeit.de/sport/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Fitnessübung: Der lange Schritt im Sling",
+      "teaser": "Diese Übung hilft allen, die Leichtathletik mögen. Und allen, die Fußball spielen. Oder Basketball. Oder Handball... Und Spaß macht sie auch noch.",
+      "url": "https://www.zeit.de/sport/2023-10/wochenende-der-ausfallschritt-in-den-sling-personal-trainer",
+      "image_url": "https://img.zeit.de/sport/2023-10/wochenende-der-ausfallschritt-in-den-sling-personal-trainer-08/cinema__980x420"
+    },
+    {
       "title": "Bundesliga 7. Spieltag – Samstag: Bremen unterliegt Hoffenheim",
-      "teaser": "Der SV Werder verliert erneut, Stuttgart gewinnt gegen Wolfsburg und ist Tabellenführer. Leipzig spielt nur unentschieden. Die Spielberichte 101 Kommentare",
+      "teaser": "Der SV Werder verliert erneut, Stuttgart gewinnt gegen Wolfsburg und ist Tabellenführer. Leipzig spielt nur unentschieden. Die Spielberichte",
       "url": "https://www.zeit.de/sport/2023-10/bundesliga-7-spieltag-samstag-bremen-hoffenheim-stuttgart-wolfsburg",
-      "image_url": "https://img.zeit.de/sport/2023-10/bremen-hoffenheim/cinema__980x420"
+      "image_url": "https://img.zeit.de/sport/2023-10/bremen-hoffenheim/wide__822x462",
+      "image_title": "Bundesliga 7. Spieltag – Samstag: Bremen unterliegt Hoffenheim"
     },
     {
       "title": "Formel 1: Max Verstappen verteidigt Weltmeistertitel",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/sport/2023-10/formel-1-max-verstappen-weltmeister",
       "image_url": "https://img.zeit.de/sport/2023-10/max-verstappen-formel-1-weltmeisterschaft-bild-2/wide__822x462",
       "image_title": "Formel 1: Max Verstappen verteidigt Weltmeistertitel"
-    },
-    {
-      "title": "Fußball: Horst Hrubesch wird vorübergehend Bundestrainer der Frauen",
-      "teaser": "Der 72-jährige Hrubesch trainiert wieder das Frauen-Nationalteam und vertritt die erkrankte Martina Voss-Tecklenburg. \"Für mich ist es eine Herzensangelegenheit.\"",
-      "url": "https://www.zeit.de/sport/2023-10/fussball-frauen-bundestrainer-horst-hrubesch",
-      "image_url": "https://img.zeit.de/sport/2023-10/ussball-frauen-bundestrainer-horst-hrubesch-bild/wide__822x462",
-      "image_title": "Fußball: Horst Hrubesch wird vorübergehend Bundestrainer der Frauen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); DFB: Der DFB sollte diese Gehaltsexzesse nicht mitmachen",
@@ -91,11 +91,11 @@
       "image_title": "\"Wochenendrebellen\": \"Ich finde, wir zeigen ganz gut, dass Autismus keine Störung ist\""
     },
     {
-      "title": "Georg Grozer: Der Zwei-Meter-Hüne, der nicht zu altern scheint",
-      "teaser": "Völlig überraschend stehen die deutschen Volleyballer kurz vor der Olympiaqualifikation. Dabei überragt der bereits 38-jährige Georg Grozer. Wie schafft er das?",
-      "url": "https://www.zeit.de/sport/2023-10/georg-grozer-volleyball-olympia",
-      "image_url": "https://img.zeit.de/sport/2023-10/georg-grozer/wide__822x462",
-      "image_title": "Georg Grozer: Der Zwei-Meter-Hüne, der nicht zu altern scheint"
+      "title": "EM 2024: Ticketkauf als Blindverkostung",
+      "teaser": "Die Welt zu Gast bei Freunden? Während die Heim-EM naht, kauft unser Kolumnist für 750 Euro Tickets – und erinnert an die Migrationsdebatte aus dem Jahr 2005.",
+      "url": "https://www.zeit.de/sport/2023-10/em-2024-deutschland-tickets-migration",
+      "image_url": "https://img.zeit.de/sport/2023-10/wochenende-41-gruenflaeche-tickets-bild/wide__822x462",
+      "image_title": "EM 2024: Ticketkauf als Blindverkostung"
     },
     {
       "title": "Verlagsangebot: Mehr als Bundesjugendspiele",
@@ -140,6 +140,13 @@
       "image_title": "Reform im Kinderfußball: Akis eckiger Albtraum"
     },
     {
+      "title": "Bundesliga-Vorschau: Die deutsche Liebe zu mittelgutem Fußball",
+      "teaser": "Chile will der Fifa an den Kragen. Union Berlin macht Sorgen. Und das ganze Land möchte die Zweite Liga sehen! Alles Wichtige zum Fußballwochenende",
+      "url": "https://www.zeit.de/sport/2023-10/bundesliga-jerome-boateng-chile-fifa",
+      "image_url": "https://img.zeit.de/sport/2023-10/hertha-bsc/wide__822x462",
+      "image_title": "Bundesliga-Vorschau: Die deutsche Liebe zu mittelgutem Fußball"
+    },
+    {
       "title": "Julian Nagelsmann: Mit Hummels und Müller die Zeit zurückdrehen",
       "teaser": "Mit Julian Nagelsmann als Bundestrainer kann alles eigentlich nur besser werden. Dachte man. Doch seine erste sportliche Entscheidung nährt Zweifel an dieser Devise.",
       "url": "https://www.zeit.de/sport/2023-10/dfb-nominierung-mats-hummels-thomas-mueller",
@@ -152,13 +159,6 @@
       "url": "https://www.zeit.de/sport/2023-10/jerome-boateng-fc-bayern-muenchen-kein-vertrag",
       "image_url": "https://img.zeit.de/sport/2023-10/jerome-boateng-fc-bayern-muenchen/wide__822x462",
       "image_title": "Fußball-Bundesliga: Jérôme Boateng soll keinen neuen Vertrag beim FC Bayern bekommen"
-    },
-    {
-      "title": "DFB-Team: Julian Nagelsmann holt Mats Hummels zurück in die Nationalmannschaft",
-      "teaser": "Mit 34 Jahren gibt Mats Hummels sein Comeback im Nationalteam. Bundestrainer Nagelsmann nominierte mit Chris Führich, Robert Andrich und Kevin Behrens drei Neulinge.",
-      "url": "https://www.zeit.de/sport/2023-10/mats-hummels-julian-nagelsmann-dfb-fussball",
-      "image_url": "https://img.zeit.de/sport/2023-10/mats-hummels-bild/wide__822x462",
-      "image_title": "DFB-Team: Julian Nagelsmann holt Mats Hummels zurück in die Nationalmannschaft"
     },
     {
       "title": "Simone Biles: Der Sprung in eine neue Dimension",
