@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-09T12:23:49",
+  "timestamp": "2023-10-09T13:16:41",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -60,18 +60,6 @@
       "text": null
     },
     {
-      "type": null,
-      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.7b6db4f39a37aaf1fa3b.cached.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/bayern-hessen-wahl-2023/dashboardByHe.2b0784f1b1642b9a675c.cached.mjs",
-      "id": null,
-      "text": null
-    },
-    {
       "type": "module",
       "src": "https://interactive.zeit.de/g/2022/energiekostenmonitor/static/assets/index.62305807.mjs",
       "id": null,
@@ -105,7 +93,7 @@
   "articles": [
     {
       "title": "Z+ (abopflichtiger Inhalt); Lage in Israel : \"Bibi, hol gefälligst mein Kind zurück!\"",
-      "teaser": "Dieser Krieg markiert das Ende aller Sicherheiten, die Israel sich aufgebaut hatte. Die Bevölkerung fühlt sich von der Regierung im Stich gelassen.",
+      "teaser": "Durch Propagandavideos und Geotracking wissen sie, dass ihre Kinder und Väter in Gaza sind. Doch Israels Regierung wirkt überfordert. Viele fühlen sich im Stich gelassen.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/tel-aviv-israel-krieg-bevoelkerung-nahost",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/tel-aviv-israel-krieg-bevoelkerung-2/cinema__1000x428"
     },
@@ -124,13 +112,6 @@
       "image_title": "Gerhard Conrad über die Hamas: \"Für Israel ist das ein Armageddon\""
     },
     {
-      "title": "Hamburg: Flugverkehr am Hamburger Airport wegen Anschlagsdrohung eingestellt",
-      "teaser": "Am Hamburger Flughafen starten und landen derzeit keine Flugzeuge. Grund dafür ist ein angedrohter Anschlag auf einen Flieger aus der iranischen Hauptstadt Teheran.",
-      "url": "https://www.zeit.de/mobilitaet/2023-10/hamburg-flughafen-anschlag-drohung-teheran-flugzeug",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-10/hamburg-flughafen-anschlag-drohung-teheran/wide__822x462",
-      "image_title": "Hamburg: Flugverkehr am Hamburger Airport wegen Anschlagsdrohung eingestellt"
-    },
-    {
       "title": "Großangriff der Hamas: Israel erobert Grenzdörfer zurück – 300.000 Reservisten im Einsatz",
       "teaser": "Israel mobilisiert so viele Reservisten wie nie. \"Wir gehen in die Offensive\", hieß es. An der Grenze sind Orte wieder \"unter Kontrolle\", außerhalb wird weitergekämpft.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/israel-hamas-kontrolle-grenzorte-gazastreifen-reservisten",
@@ -138,25 +119,39 @@
       "image_title": "Großangriff der Hamas: Israel erobert Grenzdörfer zurück – 300.000 Reservisten im Einsatz"
     },
     {
-      "title": "Hilfe für Palästinenser: Wohin fließt deutsches Geld?",
-      "teaser": "Die Entwicklungsministerin will die Zahlungen für palästinensische Organisationen überprüfen. Aus Unionssicht kann das höchstens ein erster Schritt sein.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/palaestinenser-hilfsgelder-svenja-schulze-annalena-baerbock-union",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/baerbock-schulze-2/wide__822x462",
-      "image_title": "Hilfe für Palästinenser: Wohin fließt deutsches Geld?"
+      "title": "Demonstrationen in Berlin: \"Terror bleibt Terror\"",
+      "teaser": "In Berlin haben sich nach dem Angriff der Hamas Tausende zu Solidaritätskundgebungen versammelt. Wie sie den Terror erleben und welche Sorgen sie sich hierzulande machen.",
+      "url": "https://www.zeit.de/politik/2023-10/demonstrationen-berlin-hamas-israel-gaza-solidaritaetskundgebung-terrorismus",
+      "image_url": "https://img.zeit.de/politik/2023-10/brandenburger-tor-berlin-demonstration-israel/wide__822x462",
+      "image_title": "Demonstrationen in Berlin: \"Terror bleibt Terror\""
+    },
+    {
+      "title": "Erfolg der AfD: Er muss sich jetzt festlegen",
+      "teaser": "Die Doppelstrategie der Union ist bei den Landtagswahlen ein letztes Mal aufgegangen. Doch der AfD-Erfolg zwingt sie nun dazu, sich zwischen zwei Optionen zu entscheiden.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/afd-erfolg-landtagswahl-union-gruene",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/afd-erfolg-landtagswahl-union/cinema__980x420",
+      "image_title": "Erfolg der AfD: Er muss sich jetzt festlegen"
+    },
+    {
+      "title": "Landtagswahl in Bayern: Markus Söder kritisiert Hubert Aiwangers Arbeit als Minister",
+      "teaser": "Nach den Zugewinnen der Freien Wähler erwartet Markus Söder einen intensiveren Wettbewerb mit dem Koalitionspartner. Deren Chef müsse \"inhaltlich stärker\" werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/markus-soeder-freie-waehler-hubert-aiwanger",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/markus-soeder/wide__822x462",
+      "image_title": "Landtagswahl in Bayern: Markus Söder kritisiert Hubert Aiwangers Arbeit als Minister"
+    },
+    {
+      "title": "Anke Rehlinger: \"Wir brauchen eine zweigeteilte Strategie\"",
+      "teaser": "Die SPD-Politikerin Anke Rehlinger regiert mit absoluter Mehrheit im Saarland. Im Interview erklärt sie, wie man Rechtspopulisten beikommen kann.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/anke-rehlinger-spd-landtagswahl-ampelkoaltion-afd",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/anke-rehlinger-spd-landtagswahl-ampelkoaltion-afd-bild-2/wide__822x462",
+      "image_title": "Anke Rehlinger: \"Wir brauchen eine zweigeteilte Strategie\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wählerwanderung in Bayern und Hessen: Woher die Stimmen für die AfD kamen",
       "teaser": "Bei den Landtagswahlen in Bayern und Hessen verloren die Parteien der Ampelkoalition deutlich. Die Wählerwanderung zeigt, wer davon wie profitierte.",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/landtagswahlen-2023-bayern-hessen-parteien-waehlerwanderung",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahlen-2023-bayern-hessen-parteien-waehlerwanderung-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahlen-2023-bayern-hessen-parteien-waehlerwanderung-teaserbild/wide__822x462",
       "image_title": "Wählerwanderung in Bayern und Hessen: Woher die Stimmen für die AfD kamen"
-    },
-    {
-      "title": "Landtagswahl in Hessen: Scholz hält an Bundesinnenministerin Faeser fest",
-      "teaser": "Aus den Reihen der CDU kommen Forderungen nach einem Rücktritt der Bundesinnenministerin. Der Bundeskanzler aber stellt sich hinter sie. Er sei \"fest entschlossen\".",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/scholz-faeser-hessen-landtagswahl-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/scholz-bundesinnenministerin-faeser/wide__822x462",
-      "image_title": "Landtagswahl in Hessen: Scholz hält an Bundesinnenministerin Faeser fest"
     },
     {
       "title": "AfD und Freie Wähler: Rechts von der CSU ist ganz schön viel Platz",
@@ -166,17 +161,17 @@
       "image_title": "AfD und Freie Wähler: Rechts von der CSU ist ganz schön viel Platz"
     },
     {
-      "title": "Reaktionen zu den Landtagswahlen: Grünenchefin fordert konstruktiveres Verhalten der FDP in der Ampel",
-      "teaser": "In Berlin beginnt die Aufarbeitung der Verluste der drei Ampelparteien in Bayern und Hessen. Man sei \"konsequent\" gegen die Mehrheitsmeinung, kritisiert FDP-Vize Kubicki.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/wahlen-bayern-hessen-reaktionen-saskia-esken-bijan-djir-sarai",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landtagswahlen-hessen-bayern-reaktionen-bild-3/wide__822x462",
-      "image_title": "Reaktionen zu den Landtagswahlen: Grünenchefin fordert konstruktiveres Verhalten der FDP in der Ampel"
+      "title": "Landtagswahl Hessen: Fehler bei Briefwahl in Hessen wohl ohne Auswirkungen auf FDP",
+      "teaser": "In der Nacht hatten Behörden Probleme mit 676 Stimmen in Oberursel gemeldet. Laut des Landeswahlleiters müsse das Ergebnis aber nur \"in Nuancen\" korrigiert werden.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/hessen-probleme-briefwahl-keine-auswirkungen",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/landeswahlleiter-fehler-bei-briefwahl-in-hessen-ohne-auswirkungen-auf-fdp-bild/wide__822x462",
+      "image_title": "Landtagswahl Hessen: Fehler bei Briefwahl in Hessen wohl ohne Auswirkungen auf FDP"
     },
     {
       "title": "Nord-Stream-Pipelines: Brisanter Hinweis aus Polen",
       "teaser": "Die polnischen Behörden glauben, dass mehrere Russen an Bord der Segeljacht Andromeda waren. In Berlin überwiegen die Zweifel.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/nord-stream-pipelines-explosion-polen-russland-andromeda",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/nord-stream-pipelines-anschlag-9/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/nord-stream-pipelines-anschlag-9/cinema__980x420",
       "image_title": "Nord-Stream-Pipelines: Brisanter Hinweis aus Polen"
     },
     {
@@ -187,18 +182,36 @@
       "image_title": "Ukraine-Karte aktuell: Ukraine rückt im Süden vor, Russland bei Luhansk"
     },
     {
-      "title": "Bundesliga-Rückschau: Leverkusens Tabellenführung sieht nicht nach Zufall aus",
-      "teaser": "Bayern München mag die besten Spieler haben, den besten Fußball spielt Bayer Leverkusen. Dank Xabi Alonso kann der Titelkampf interessant werden. Der 7. Spieltag",
-      "url": "https://www.zeit.de/sport/2023-10/bayer-leverkusen-xabi-alonso-jerome-boateng-fans-protest",
-      "image_url": "https://img.zeit.de/sport/2023-10/xabi-alonso-koeln/wide__822x462",
-      "image_title": "Bundesliga-Rückschau: Leverkusens Tabellenführung sieht nicht nach Zufall aus"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Affäre am Arbeitsplatz: \"Vor den Kollegen versteckten wir es – aber meine Frau fand den Chat\"",
       "teaser": "Dieses Kribbeln: Kommt er heute ins Büro? Treffe ich sie am Drucker? Sieht uns jemand? Drei Menschen erzählen, wie sie ihre Affäre am Arbeitsplatz geheim gehalten haben.",
       "url": "https://www.zeit.de/arbeit/2023-09/affaere-arbeitsplatz-kollegen-konsequenzen-erfahrungen",
-      "image_url": "https://img.zeit.de/arbeit/2023-10/affaere-arbeitsplatz-kollegen-konsequenzen/cinema__980x420",
+      "image_url": "https://img.zeit.de/arbeit/2023-10/affaere-arbeitsplatz-kollegen-konsequenzen/wide__822x462",
       "image_title": "Affäre am Arbeitsplatz: \"Vor den Kollegen versteckten wir es – aber meine Frau fand den Chat\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Maurice Summen über Staatsakt: \"Selbstvermarktung habe ich in der Provinz gelernt\"",
+      "teaser": "Seit 20 Jahren betreibt Maurice Summen die Plattenfirma Staatsakt und die Band Die Türen. Zum Jubiläum ein Gespräch über CD-Brenner, DSL und US-amerikanische Albträume",
+      "url": "https://www.zeit.de/kultur/musik/2023-10/maurice-summen-staatsakt-label-musikindustrie",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-10/dietueren-1/cinema__980x420",
+      "image_title": "Maurice Summen über Staatsakt: \"Selbstvermarktung habe ich in der Provinz gelernt\""
+    },
+    {
+      "title": "Landtagswahl in Hessen: Scholz hält an Bundesinnenministerin Faeser fest",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/scholz-faeser-hessen-landtagswahl-spd",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/scholz-bundesinnenministerin-faeser/wide__822x462",
+      "image_title": "Landtagswahl in Hessen: Scholz hält an Bundesinnenministerin Faeser fest"
+    },
+    {
+      "title": "Flughafen Hamburg: Flugverkehr in Hamburg nach Anschlagsdrohung zeitweise eingestellt",
+      "url": "https://www.zeit.de/mobilitaet/2023-10/hamburg-flughafen-anschlag-drohung-teheran-flugzeug",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-10/hamburg-flughafen-anschlag-drohung-teheran/wide__822x462",
+      "image_title": "Flughafen Hamburg: Flugverkehr in Hamburg nach Anschlagsdrohung zeitweise eingestellt"
+    },
+    {
+      "title": "Gedenken in Halle: Reiner Haseloff verurteilt in Halle \"Alltagsantisemitismus\"",
+      "url": "https://www.zeit.de/gesellschaft/2023-10/gedenken-halle-judenfeindlichkeit-reiner-haseloff",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/reiner-haseloff/wide__822x462",
+      "image_title": "Gedenken in Halle: Reiner Haseloff verurteilt in Halle \"Alltagsantisemitismus\""
     },
     {
       "title": "Fußballnationalmannschaft: Bundestrainer Nagelsmann verteidigt umstrittene USA-Reise",
@@ -217,24 +230,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-10/wirtschaftsnobelpreis-geht-an-us-wissenschaftlerin-claudia-goldin",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/wirtschaftsnobelpreis-geht-an-us-wissenschaftlerin-claudia-goldin-bild/wide__822x462",
       "image_title": "Nobelpreis: Wirtschaftsnobelpreis geht an US-Ökonomin Claudia Goldin"
-    },
-    {
-      "title": "Asyl: Bundesamt verzeichnet bis Ende September mehr Asylanträge als 2022",
-      "url": "https://www.zeit.de/gesellschaft/2023-10/asyl-antraege-bamf-september-migration",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/asyl-antraege-bamf-september-migration-bild-02/wide__822x462",
-      "image_title": "Asyl: Bundesamt verzeichnet bis Ende September mehr Asylanträge als 2022"
-    },
-    {
-      "title": "China: Xi Jinping empfängt US-Delegation in Peking",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/xi-jinping-empfang-us-delegation",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/diplomatie-usa-china-chinas-staatschef-xi-jinping-empfaengt-us-delegation-in-peking-bild/wide__822x462",
-      "image_title": "China: Xi Jinping empfängt US-Delegation in Peking"
-    },
-    {
-      "title": "Naturkatastrophe: Neues Erdbeben erschüttert Afghanistan",
-      "url": "https://www.zeit.de/gesellschaft/2023-10/afghanistan-erdbeben-ueberlebende-tote-verletzte-rettungskraefte",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-erdbeben-hoffnung-auf-ueberlebende-schwindet-bild/wide__822x462",
-      "image_title": "Naturkatastrophe: Neues Erdbeben erschüttert Afghanistan"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Heidi Klum • Das Beste aus Z+: Germany's Last Topmodel",
@@ -263,6 +258,13 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-09/freundschaft-jugend-freunde-nostalgie-soziologie-erika-alleweldt",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-09/freundschaft-jugend-freunde-nostalgie-soziologie-erika-alleweldt-bild/wide__822x462",
       "image_title": "Freundschaft: \"Nicht jeder hat die Freundschaften, die er sich wünscht\""
+    },
+    {
+      "title": "Bundesliga-Rückschau: Leverkusens Tabellenführung sieht nicht nach Zufall aus",
+      "teaser": "Bayern München mag die besten Spieler haben, den besten Fußball spielt Bayer Leverkusen. Dank Xabi Alonso kann der Titelkampf interessant werden. Der 7. Spieltag",
+      "url": "https://www.zeit.de/sport/2023-10/bayer-leverkusen-xabi-alonso-jerome-boateng-fans-protest",
+      "image_url": "https://img.zeit.de/sport/2023-10/xabi-alonso-koeln/wide__822x462",
+      "image_title": "Bundesliga-Rückschau: Leverkusens Tabellenführung sieht nicht nach Zufall aus"
     },
     {
       "title": "Rucksack: Jederzeit griffbereit",
@@ -391,11 +393,11 @@
       "image_title": "Israel: Netanjahu hat uns geopfert"
     },
     {
-      "title": "Verlagsangebot: Fünf Orte, um Italien neu zu entdecken",
-      "teaser": "Wir haben Ihnen eine Liste von Orten in Italien zusammengestellt, die Ihnen unbekannte Seiten des Landes zeigen. Mit Geheimtipps, auch für erfahrene Italienreisende.",
-      "url": "https://verlag.zeit.de/freunde/kommst-du-mit-zon?utm_medium=fix&utm_source=diezeit_freundederzeit_int&utm_campaign=parkettzplus&utm_content=kdm-bellaitalia",
-      "image_url": "https://img.zeit.de/freunde-der-zeit/kdm-bellaitalia/wide__822x462",
-      "image_title": "Freunde der ZEIT: Fünf Orte, um Italien neu zu entdecken"
+      "title": "Verlagsangebot: 5 Ernährungstipps, für mehr Obst und Gemüse auf dem Teller",
+      "teaser": "Fünf Portionen Gemüse und Obst sollen wir jeden Tag verspeisen. Im ZEIT-Gesundheitsnewsletter »Das tut mir gut« finden Sie fünf Tipps, wie das einfacher gelingen kann.",
+      "url": "https://verlag.zeit.de/freunde/das-tut-mir-gut-zon/?utm_medium=fix&utm_source=diezeit_freundederzeit_int&utm_campaign=parkettzplus&utm_content=dtmg-obst-gemuese",
+      "image_url": "https://img.zeit.de/freunde-der-zeit/dtmg-ernaehrung/wide__822x462",
+      "image_title": "Freunde der ZEIT: 5 Ernährungstipps, für mehr Obst und Gemüse auf dem Teller"
     },
     {
       "title": "Buchstabenrätsel: Buchstabiene",
@@ -477,24 +479,31 @@
       "image_title": "\"Was jetzt? – Die Woche\": Notstand auf Lampedusa – wie mit Migration umgehen?"
     },
     {
-      "title": "Muslime in Deutschland: \"Beschämend und bedenklich\"",
-      "teaser": "Deutsche Islamexperten haben die Reaktion mancher Muslime und Verbände auf die Hamas-Angriffe verurteilt. Es sei Zeit, sich arabisch-türkischem Antisemitismus zu stellen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/israel-hamas-islamexperten-deutschland-kritik-muslimische-verbaende",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-hamas-islamexperten-deutschland-kritik-muslimische-verbaende-bild/wide__822x462",
-      "image_title": "Muslime in Deutschland: \"Beschämend und bedenklich\""
+      "title": "Flughafen Hamburg: Flugverkehr in Hamburg nach Anschlagsdrohung zeitweise eingestellt",
+      "teaser": "In Hamburg wird der Flugverkehr wieder aufgenommen, mit weiteren Verzögerungen ist zu rechnen. Unbekannte hatten mit einem Anschlag gegen eine Iran-Air-Maschine gedroht.",
+      "url": "https://www.zeit.de/mobilitaet/2023-10/hamburg-flughafen-anschlag-drohung-teheran-flugzeug",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-10/hamburg-flughafen-anschlag-drohung-teheran/wide__822x462",
+      "image_title": "Flughafen Hamburg: Flugverkehr in Hamburg nach Anschlagsdrohung zeitweise eingestellt"
     },
     {
-      "title": "China: Xi Jinping empfängt US-Delegation in Peking",
-      "teaser": "Chinas Staatschef ist mit einer Gruppe um den US-demokratischen Senatsmehrheitsführer Chuck Schumer zusammengekommen. Genauere Gesprächsdetails wurden nicht bekannt.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/xi-jinping-empfang-us-delegation",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/diplomatie-usa-china-chinas-staatschef-xi-jinping-empfaengt-us-delegation-in-peking-bild/wide__822x462",
-      "image_title": "China: Xi Jinping empfängt US-Delegation in Peking"
+      "title": "Landtagswahl in Hessen: Scholz hält an Bundesinnenministerin Faeser fest",
+      "teaser": "Aus den Reihen der CDU kommen Forderungen nach einem Rücktritt der Bundesinnenministerin. Der Bundeskanzler aber stellt sich hinter sie. Er sei \"fest entschlossen\".",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/scholz-faeser-hessen-landtagswahl-spd",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/scholz-bundesinnenministerin-faeser/wide__822x462",
+      "image_title": "Landtagswahl in Hessen: Scholz hält an Bundesinnenministerin Faeser fest"
+    },
+    {
+      "title": "Gedenken in Halle: Reiner Haseloff verurteilt in Halle \"Alltagsantisemitismus\"",
+      "teaser": "In Halle haben Stadt und Jüdische Gemeinde der Opfer des Attentats vor vier Jahren gedacht. Es sei nicht als Tat eines isolierten Einzelgängers zu werten, sagte Haseloff.",
+      "url": "https://www.zeit.de/gesellschaft/2023-10/gedenken-halle-judenfeindlichkeit-reiner-haseloff",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/reiner-haseloff/cinema__980x420",
+      "image_title": "Gedenken in Halle: Reiner Haseloff verurteilt in Halle \"Alltagsantisemitismus\""
     },
     {
       "title": "Asyl: Bundesamt verzeichnet bis Ende September mehr Asylanträge als 2022",
       "teaser": "Im Gesamtjahr 2022 registrierte das Bundesamt für Migration und Flüchtlinge gut 244.000 Asylanträge. In diesem Jahr waren es in den ersten neun Monaten bereits mehr.",
       "url": "https://www.zeit.de/gesellschaft/2023-10/asyl-antraege-bamf-september-migration",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/asyl-antraege-bamf-september-migration-bild-02/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-10/asyl-antraege-bamf-september-migration-bild-02/wide__822x462",
       "image_title": "Asyl: Bundesamt verzeichnet bis Ende September mehr Asylanträge als 2022"
     },
     {
@@ -505,15 +514,8 @@
       "image_title": "Naturkatastrophe: Neues Erdbeben erschüttert Afghanistan"
     },
     {
-      "title": "Afghanistan: Mehr als 11.000 Menschen vom Erdbeben betroffen",
-      "teaser": "Bei den Erdbeben in der afghanischen Provinz Herat sind unzählige Häuser zerstört worden. Im Regionalkrankenhaus von Herat werden mehr als 550 Verletzte behandelt.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-erdbeben-tausende-betroffen-hunderte-verletzte",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/afghanistan-erdbeben-un-tausende-betroffen-hunderte-verletzt-bild/wide__822x462",
-      "image_title": "Afghanistan: Mehr als 11.000 Menschen vom Erdbeben betroffen"
-    },
-    {
       "title": "Nobelpreis: Wirtschaftsnobelpreis geht an US-Ökonomin Claudia Goldin",
-      "teaser": "Das Nobelpreiskomitee in Stockholm ehrt die US-Wissenschaftlerin Claudia Goldin. Sie habe das Verständnis zur Lage der Frauen auf dem Arbeitsmarkt gestärkt. 109 Kommentare",
+      "teaser": "Das Nobelpreiskomitee in Stockholm ehrt die US-Wissenschaftlerin Claudia Goldin. Sie habe das Verständnis zur Lage der Frauen auf dem Arbeitsmarkt gestärkt. 122 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-10/wirtschaftsnobelpreis-geht-an-us-wissenschaftlerin-claudia-goldin",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/wirtschaftsnobelpreis-geht-an-us-wissenschaftlerin-claudia-goldin-bild/cinema__980x420",
       "image_title": "Nobelpreis: Wirtschaftsnobelpreis geht an US-Ökonomin Claudia Goldin"
@@ -744,11 +746,11 @@
       "image_title": "Freie Wähler: Die Sache mit dem Hubert"
     },
     {
-      "title": "Verlagsangebot Persönlichkeit als Door Opener",
-      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
-      "image_title": "Persönlichkeit als Door Opener"
+      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
+      "teaser": "Was uns im Job von anderen unterscheidet, sind nicht nur unsere Fähigkeiten – erst die Persönlichkeit macht jeden einmalig. Der BOA Berufstest hilft, sie zu erkennen.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.teaser.boa-faeuste.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=boa-verlagsteaser&amp;utm_content=bot_teaser_boa-faeuste_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/boa-faeuste/wide__350x197__desktop",
+      "image_title": "Welcher Beruf passt zu mir?"
     },
     {
       "title": "Luisa Neubauer: \"Stören kann kein Selbstzweck sein, das machen Kleinkinder\"",
@@ -891,36 +893,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Fußball: Augsburg und Nürnberg absolvieren Testspiel",
-      "url": "https://www.zeit.de/news/2023-10/09/augsburg-und-nuernberg-absolvieren-testspiel"
+      "title": "Wahlen: Grüne sehen Wahlergebnisse nicht als Anlass für Kurswechsel",
+      "url": "https://www.zeit.de/news/2023-10/09/gruene-sehen-wahlergebnisse-nicht-als-anlass-fuer-kurswechsel"
     },
     {
-      "title": "Sachschaden: Bus von Tübinger Basketballern in Verkehrsunfall verwickelt",
-      "url": "https://www.zeit.de/news/2023-10/09/bus-von-tuebinger-basketballern-in-verkehrsunfall-verwickelt"
+      "title": "Hessen-Wahlen: Wahlsieger Rhein: «Der Kanzler ist ein Kanzler ohne Land»",
+      "url": "https://www.zeit.de/news/2023-10/09/wahlsieger-rhein-der-kanzler-ist-ein-kanzler-ohne-land"
     },
     {
-      "title": "Schulen: Bildungsminister: Mehr Gespräche über Kriegsfolgen",
-      "url": "https://www.zeit.de/news/2023-10/09/bildungsminister-mehr-gespraeche-ueber-kriegsfolgen"
+      "title": "CDU: Merz: Werden auch in Zukunft Zuspitzungen von mir hören",
+      "url": "https://www.zeit.de/news/2023-10/09/merz-werden-auch-in-zukunft-zuspitzungen-von-mir-hoeren"
     },
     {
-      "title": "Bonn: Zoll nimmt Paketbranche wegen Schwarzarbeit unter die Lupe",
-      "url": "https://www.zeit.de/news/2023-10/09/zoll-nimmt-paketbranche-wegen-schwarzarbeit-unter-die-lupe"
+      "title": "Nahost: Finanzmärkte agieren nervös nach Angriff auf Israel",
+      "url": "https://www.zeit.de/news/2023-10/09/finanzmaerkte-agieren-nervoes-nach-angriff-auf-israel"
     },
     {
-      "title": "Autounfall: Pedale verwechselt: Frau fährt über Friedhof in Garten",
-      "url": "https://www.zeit.de/news/2023-10/09/pedale-verwechselt-frau-faehrt-ueber-friedhof-in-garten"
+      "title": "EM-Qualifikation: Bayern-Verteidiger Upamecano fällt für Länderspiele aus",
+      "url": "https://www.zeit.de/news/2023-10/09/bayern-verteidiger-upamecano-faellt-fuer-laenderspiele-aus"
     },
     {
-      "title": "Landtagswahlen: Söder beklagt Zustand der Demokratie in Deutschland",
-      "url": "https://www.zeit.de/news/2023-10/09/soeder-beklagt-zustand-der-demokratie-in-deutschland"
+      "title": "CSU: Söder: Über Ausgestaltung des Asylrechts reden",
+      "url": "https://www.zeit.de/news/2023-10/09/soeder-ueber-ausgestaltung-des-asylrechts-reden"
     },
     {
-      "title": "Konflikte: Ramelow hisst israelische Flagge vor Staatskanzlei",
-      "url": "https://www.zeit.de/news/2023-10/09/ramelow-hisst-israelische-flagge-vor-staatskanzlei"
+      "title": "Oberbayern: Stich nach Streit um Partylärm - 19-Jähriger in U-Haft",
+      "url": "https://www.zeit.de/news/2023-10/09/stich-nach-streit-um-partylaerm-19-jaehriger-in-u-haft"
     },
     {
-      "title": "Unfall: Kind in Nikolassee von Motorrad angefahren",
-      "url": "https://www.zeit.de/news/2023-10/09/kind-in-nikolassee-von-motorrad-angefahren"
+      "title": "Ermittlungen: Neun Festnahmen bei Razzia im Frankfurter Bahnhofsviertel",
+      "url": "https://www.zeit.de/news/2023-10/09/neun-festnahmen-bei-razzia-im-frankfurter-bahnhofsviertel"
     }
   ]
 }
