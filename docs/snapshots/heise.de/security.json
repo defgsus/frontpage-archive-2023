@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-10T08:14:43",
+  "timestamp": "2023-10-10T09:11:54",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "IBM",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-Root-Luecken-bedrohen-IBM-Software-9329404.html"
+    },
+    {
+      "title": "Acronis Agent",
+      "url": "https://www.heise.de/news/Backup-Acronis-schliesst-Sicherheitsluecken-im-Agent-fuer-Linux-Mac-und-Windows-9329516.html"
+    },
+    {
       "title": "glibc",
       "url": "https://www.heise.de/news/Jetzt-patchen-Exploits-fuer-glibc-Luecke-oeffentlich-verfuegbar-9326518.html"
     },
@@ -40,15 +48,23 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Dell-SmartFabric-Storage-Software-9326738.html"
     },
     {
-      "title": "Watchguard EPDR & AD360",
-      "url": "https://www.heise.de/news/Malware-Schutz-Schwachstellen-in-Watchguard-EPDR-und-AD360-geschlossen-9326078.html"
+      "title": "Inzwischen vorhanden: Details zu gefixten Lücken in iOS 17 und Co.",
+      "teaser": "Als iOS 17, iPadOS 17, watchOS 10 und tvOS 17 erschienen, machte Apple keine Angaben zu enthaltenen Sicherheitspatches. Mittlerweile lassen sie sich einsehen.",
+      "url": "https://www.heise.de/news/Inzwischen-vorhanden-Details-zu-gefixten-Luecken-in-iOS-17-und-Co-9319162.html",
+      "image_title": "Lupe, unter der sich ein Warndreieck befindet."
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Notruf-Tool-Cisco-Emergency-Responder-mit-statischen-Zugangsdaten-9325669.html"
+      "title": "Sicherheitsupdates: Schadcode- und Root-Lücken bedrohen IBM-Software",
+      "teaser": "IBM hat unter anderem im Datenbankmanagementsystem Db2 schwerwiegende Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-Root-Luecken-bedrohen-IBM-Software-9329404.html"
     },
     {
-      "title": "SAP: Oktober-Patchday fällt ruhiger aus",
+      "title": "Backup: Acronis schließt Sicherheitslücken im Agent für Linux, Mac und Windows",
+      "teaser": "Acronis hat eine Aktualisierung des Agent für Linux, Mac und Windows veröffentlicht. Sie dichtet unter anderem ein Leck mit hohem Risiko ab.",
+      "url": "https://www.heise.de/news/Backup-Acronis-schliesst-Sicherheitsluecken-im-Agent-fuer-Linux-Mac-und-Windows-9329516.html"
+    },
+    {
+      "title": "SAP: Patchday im Oktober geht ruhiger zu",
       "teaser": "Der Patchday von SAP im Oktober bringt lediglich sieben Benachrichtigungen zu Schwachstellen. Der Hersteller stuft deren Risiko als mittel ein.",
       "url": "https://www.heise.de/news/SAP-Oktober-Patchday-faellt-ruhiger-aus-9329460.html"
     },
@@ -140,22 +156,6 @@
       "title": "MotelOne-Hack: Daten veröffentlicht, Datenschützer und Gäste in Sorge",
       "teaser": "BlackCat hat fast 6 TByte Daten der Hotelkette MotelOne veröffentlicht, darunter auch sensible personenbezogene Informationen. Gäste sollten handeln.",
       "url": "https://www.heise.de/news/MotelOne-Hack-Daten-veroeffentlicht-Datenschuetzer-und-Gaeste-in-Sorge-9326234.html"
-    },
-    {
-      "title": "Nicht mehr nur Antivirus: McAfee soll das komplette Online-Leben schützen",
-      "teaser": "Eine neue Produktpalette für den vollständigen Schutz des digitalen Anwenders – McAfee will weg vom Ruf des Antivirus-Anbieters.",
-      "url": "https://www.heise.de/news/Nicht-mehr-nur-Antivirus-McAfee-soll-das-komplette-Online-Leben-schuetzen-9326204.html"
-    },
-    {
-      "title": "Malware-Schutz: Watchguard EPDR und AD360 schließen Sicherheitslücken",
-      "teaser": "In den Malware-Schutzlösungen Watchguard EPDR und AD360 klaffen teils Sicherheitslücken mit hohem Risiko. Aktualisierungen stehen bereit.",
-      "url": "https://www.heise.de/news/Malware-Schutz-Schwachstellen-in-Watchguard-EPDR-und-AD360-geschlossen-9326078.html"
-    },
-    {
-      "title": "Root- und DoS-Attacken auf Cisco-Produkte möglich",
-      "teaser": "Der Netzwerkausrüster Cisco hat für mehrere Produkte wichtige Sicherheitsupdates veröffentlicht.",
-      "url": "https://www.heise.de/news/Notruf-Tool-Cisco-Emergency-Responder-mit-statischen-Zugangsdaten-9325669.html",
-      "image_title": "Aufmacher Cisco viele Patches"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
