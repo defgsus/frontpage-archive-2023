@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-10T12:21:41",
+  "timestamp": "2023-10-10T13:14:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.caa322ee719d4146ab08",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.89540023d90394c97a40",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Gnome",
+      "url": "https://www.heise.de/news/libcue-Luecke-reisst-Sicherheitsleck-in-Gnome-9330085.html"
+    },
     {
       "title": "IBM",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-Root-Luecken-bedrohen-IBM-Software-9329404.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/SAP-Oktober-Patchday-faellt-ruhiger-aus-9329460.html"
     },
     {
-      "title": "glibc",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Exploits-fuer-glibc-Luecke-oeffentlich-verfuegbar-9326518.html"
+      "title": "libcue-Lücke reißt Sicherheitsleck in Gnome",
+      "teaser": "Eine Schwachstelle in einer unscheinbaren Bibliothek führt zu einer veritablen Sicherheitslücke in Gnome. Updates stehen bereit.",
+      "url": "https://www.heise.de/news/libcue-Luecke-reisst-Sicherheitsleck-in-Gnome-9330085.html"
     },
     {
       "title": "Nahostkonflikt: Cyberangriffe folgen auf jüngste Eskalation",
@@ -149,12 +154,6 @@
       "teaser": "Lernen Sie, professionelle Incident Response Workflows zu implementieren, um im Falle eines Cyberangriffs schnell und effektiv reagieren zu können.",
       "url": "https://www.heise.de/news/iX-Workshop-Nach-dem-Einbruch-Digital-Forensics-Incident-Response-DFIR-9214516.html",
       "image_title": "iX-Workshop Digital Forensics & Incident Response"
-    },
-    {
-      "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
-      "teaser": "Mit der Digitalisierung von Autos nimmt die Bedrohung durch Cyber-Attacken zu. Die Industrie muss mit einer ganzheitlichen Sicherheitsinfrastruktur antworten.",
-      "url": "https://www.heise.de/hintergrund/Cyber-Security-in-Fahrzeugen-Wettlauf-zwischen-Hackern-und-Industrie-9318721.html",
-      "image_title": "Mercedes Cockpit"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
