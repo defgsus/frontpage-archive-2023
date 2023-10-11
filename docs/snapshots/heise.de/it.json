@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-11T10:12:25",
+  "timestamp": "2023-10-11T11:09:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,21 +26,20 @@
   ],
   "articles": [
     {
+      "title": "Intels Spielergrafikkarte Arc A580 für 179 US-Dollar",
+      "teaser": "Intels \"arc\" verspätete Spielergrafikkarte Arc A580 soll 179 US-Dollar kosten und Radeon RX 6600 sowie GeForce RTX 3050 Konkurrenz machen.",
+      "url": "https://www.heise.de/news/Intel-bringt-Arc-A580-8-GByte-Spielergrafikkarte-fuer-179-US-Dollar-9329744.html"
+    },
+    {
+      "title": "Raspberry Pi 5: Schnelleres USB und 5-Volt-Toleranz",
+      "teaser": "Die Raspi-Entwickler geben weitere Details zum I/O-Chip RP1 preis. In ihm könnten auch noch versteckte Funktionen schlummern.",
+      "url": "https://www.heise.de/news/Raspberry-Pi-5-Dokumentation-zum-RP1-Chip-9329126.html"
+    },
+    {
       "title": "Snapdragon X: Windows-Notebooks mit neuen ARM-Chips greifen 2024 an",
       "teaser": "Qualcomm verspricht für die kommenden ARM-SoCs einen \"monumentalen Sprung der Rechenleistung\" und die \"Revolution der PC-Erfahrung\".",
       "url": "https://www.heise.de/news/Snapdragon-X-Windows-Notebooks-mit-neuen-ARM-Prozessoren-greifen-2024-an-9330527.html",
       "image_title": "Edel-Notebooks verschiedener Hersteller"
-    },
-    {
-      "title": "Windows 12: Gerüchte und Intel deuten auf Veröffentlichung 2024 hin",
-      "teaser": "Microsoft könnte bei seinen Betriebssystemen zu kürzeren Veröffentlichungszyklen zurückkehren. Windows 12 ist womöglich schon 2024 dran.",
-      "url": "https://www.heise.de/news/Windows-12-Geruechte-und-Intel-deuten-auf-Veroeffentlichung-2024-hin-9328604.html"
-    },
-    {
-      "title": "Raspberry Pi 5: Mehr Benchmark-Werte, Infos zu SSD-Adapter und Ethernet-Speisung",
-      "teaser": "Die Raspi-Entwickler kündigen SSD- und PoE-Adapter für 2024 an, der Geekbench zeigt den Vorteil des Kühlers und man kann den Raspi 5 vorbestellen.",
-      "url": "https://www.heise.de/news/Raspberry-Pi-5-Geekbench-Werte-und-Zubehoer-Infos-9325739.html",
-      "image_title": "Der Raspberry Pi 5 mit Lüfterkühler im c’t-Testlabor​"
     },
     {
       "title": "3D-Drucker: Filamente im Stresstest",
@@ -55,12 +54,23 @@
       "image_title": "Foreign,Languages,Translation,Concept,,Online,Translator,,Macro,View,Of,Computer"
     },
     {
+      "title": "OpenAI will sich angeblich von Nvidia abnabeln",
+      "teaser": "Das Training für ChatGPT könnte künftig auf Custom-Chips von OpenAI laufen. Die Firma soll schon seit 2022 über Alternativen zu Nvidia sinnieren.",
+      "url": "https://www.heise.de/news/OpenAI-will-sich-angeblich-von-Nvidia-abnabeln-9331167.html"
+    },
+    {
+      "title": "iPhone 12: Apple reduziert Sendeleistung mit Update – nach Ärger in Frankreich",
+      "teaser": "Apple reagiert auf die Bedenken hinsichtlich der Funkstrahlung des iPhone 12 mit einem Update und kritisiert das Testprotokoll der französischen Behörde.",
+      "url": "https://www.heise.de/news/iPhone-12-Apple-reduziert-Sendeleistung-mit-Update-nach-Aerger-in-Frankreich-9331181.html",
+      "image_title": "iPhone vor Mobilfunkmast"
+    },
+    {
       "title": "TypeScript-Webinarserie von Heise: Fortgeschrittene Möglichkeiten des Typsystems",
       "teaser": "Am 7. und 14. Dezember 2023 zeigt eine zweiteilige Webinarserie, wie sich dynamische Typen in TypeScript für komplexe Operationen entwickeln lassen.",
       "url": "https://www.heise.de/news/TypeScript-Webinarserie-von-Heise-Fortgeschrittene-Moeglichkeiten-des-Typsystems-9325813.html"
     },
     {
-      "title": "Rapid Reset: Angreifer nutzten Lücke in HTTP/2-Protokoll seit August 2023 aus",
+      "title": "Rapid Reset: Angreifer nutzten Lücke im HTTP/2-Protokoll seit August 2023 aus",
       "teaser": "Eine DDoS-Sicherheitslücke mit Rekordvolumen im HTTP/2-Protokoll gefährdet unzählige Server. Erste Sicherheitspatches sind verfügbar.",
       "url": "https://www.heise.de/news/Rapid-Reset-Angreifer-nutzten-Luecke-in-HTTP-2-Protokoll-seit-August-2023-aus-9330889.html"
     },
@@ -125,17 +135,6 @@
       "teaser": "Erhalten Sie an zwei Tagen einen schnellen, praxisorientierten Einstieg in Machine Learning mit scikit-learn, der beliebten Python-Bibliothek für Data Science.",
       "url": "https://www.heise.de/news/iX-Workshop-Schnelleinstieg-Machine-Learning-mit-scikit-learn-9214680.html",
       "image_title": "iX-Workshop Machine Learning mit scikit-learn"
-    },
-    {
-      "title": "Patchday Microsoft: Attacken auf Skype for Business und WordPad",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für etwa Azure, Office und Windows veröffentlicht.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Attacken-auf-Skype-for-Business-und-WordPad-9330685.html"
-    },
-    {
-      "title": "Illegale Inhalte zum Gazakonflikt auf X/Twitter: EU-Kommissar ermahnt Elon Musk",
-      "teaser": "Auf X/Twitter kursieren jede Menge falsche und illegale Inhalte zum Angriff der Hamas auf Israel. Die EU-Kommission hat Elon Musk deshalb ermahnt, zu handeln.",
-      "url": "https://www.heise.de/news/Illegale-Inhalte-zum-Gazakrieg-auf-X-Twitter-EU-Kommissar-ermahnt-Elon-Musk-9330673.html",
-      "image_title": "Silhouette Elon Musks vor dem Logo von X"
     },
     {
       "title": "smapOne ist die beste No-Code-Plattform im PUR Software Development 2023",
