@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-11T09:11:50",
+  "timestamp": "2023-10-11T10:12:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HTTP/2",
+      "url": "https://www.heise.de/news/Rapid-Reset-Angreifer-nutzten-Luecke-in-HTTP-2-Protokoll-seit-August-2023-aus-9330889.html"
+    },
+    {
       "title": "Citrix",
       "url": "https://www.heise.de/news/Citrix-dichtet-kritisches-Leck-in-Netscaler-ab-9330770.html"
     },
@@ -44,20 +48,15 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-9330733.html"
     },
     {
-      "title": "Patchday Microsoft",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Attacken-auf-Skype-for-Business-und-WordPad-9330685.html"
+      "title": "Rapid Reset: Angreifer nutzten Lücke in HTTP/2-Protokoll seit August 2023 aus",
+      "teaser": "Eine DDoS-Sicherheitslücke mit Rekordvolumen im HTTP/2-Protokoll gefährdet unzählige Server. Erste Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Rapid-Reset-Angreifer-nutzten-Luecke-in-HTTP-2-Protokoll-seit-August-2023-aus-9330889.html"
     },
     {
       "title": "23andme: Genanalyse-Daten womöglich schon vor Monaten abgegriffen, Ausmaß unklar",
       "teaser": "Die Genanalysefirma gibt sich weiter bedeckt über die Herkunft von Nutzerdaten, die zum Verkauf stehen. Die Kundschaft soll aber doch die Passwörter wechseln.",
       "url": "https://www.heise.de/news/23andme-Genanalyse-Daten-womoeglich-schon-vor-Monaten-abgegriffen-Ausmass-unklar-9330827.html",
       "image_title": "Genanalyse"
-    },
-    {
-      "title": "Neue cURL-Version behebt Pufferüberlauf bei SOCKS5-Verbindungen",
-      "teaser": "Die in der vergangenen Woche angekündigte schwere Sicherheitslücke in der Bibliothek für Web-Verbindungen versteckt sich im SOCKS5-Code.",
-      "url": "https://www.heise.de/news/Neue-cURL-Version-behebt-Pufferueberlauf-bei-SOCKS5-Verbindungen-9330739.html",
-      "image_title": "HTTP-Fehler 451 (Unavailable For Legal Reasons) auf PC-Monitor"
     },
     {
       "title": "Für Angriffe ausgenutzte Lücken: Apple liefert Patch für iOS 16 nach",
@@ -81,11 +80,6 @@
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-9330733.html"
     },
     {
-      "title": "Patchday Microsoft: Attacken auf Skype for Business und WordPad",
-      "teaser": "Microsoft hat wichtige Sicherheitsupdates für etwa Azure, Office und Windows veröffentlicht.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Attacken-auf-Skype-for-Business-und-WordPad-9330685.html"
-    },
-    {
       "title": "Bei Cyberangriff auf spanische Air Europa wurden Kreditkartendaten offengelegt",
       "teaser": "Hacker erlangten Zugriff auf sensible Kundendaten. Die spanische Airline empfiehlt Betroffenen, die Kreditkarten auszutauschen, um Missbrauch zu verhindern.",
       "url": "https://www.heise.de/news/Bei-Cyberangriff-auf-spanische-Air-Europa-wurden-Kreditkartendaten-offengelegt-9330659.html",
@@ -102,6 +96,12 @@
       "url": "https://www.heise.de/news/libcue-Luecke-reisst-Sicherheitsleck-in-Gnome-9330085.html"
     },
     {
+      "title": "Fünfstellige Belohnung für Knacken der Elliptic-Curve-Seeds ausgelobt",
+      "teaser": "Sicherheitsforscher setzen eine hohe Belohnung für die Entschlüsselung der Seeds für elliptische Kurven aus – auch, um Verschwörungstheorien zu entlarven.",
+      "url": "https://www.heise.de/news/Fuenfstelliges-Kopfgeld-Belohnung-fuer-Knacken-der-Elliptic-Curve-Seeds-ausgelobt-9329528.html",
+      "image_title": "Nachbau einer Turing-Bombe in Bletchley Park"
+    },
+    {
       "title": "Nahostkonflikt: Cyberangriffe folgen auf jüngste Eskalation",
       "teaser": "Die jüngste Eskalation im Nahostkonflikt bekommt mit Cyberattacken auf israelische Ziele eine weitere Dimension.",
       "url": "https://www.heise.de/news/Nahostkonflikt-Eskalation-in-den-Cyberraum-9329756.html"
@@ -111,6 +111,11 @@
       "teaser": "Als iOS 17, iPadOS 17, watchOS 10 und tvOS 17 erschienen, machte Apple keine Angaben zu enthaltenen Sicherheitspatches. Mittlerweile lassen sie sich einsehen.",
       "url": "https://www.heise.de/news/Inzwischen-vorhanden-Details-zu-gefixten-Luecken-in-iOS-17-und-Co-9319162.html",
       "image_title": "Lupe, unter der sich ein Warndreieck befindet."
+    },
+    {
+      "title": "Sicherheitsupdates: Schadcode- und Root-Lücken bedrohen IBM-Software",
+      "teaser": "IBM hat unter anderem im Datenbankmanagementsystem Db2 schwerwiegende Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-Root-Luecken-bedrohen-IBM-Software-9329404.html"
     },
     {
       "title": "Backup: Acronis schließt Sicherheitslücken im Agent für Linux, Mac und Windows",
@@ -147,12 +152,6 @@
       "teaser": "Die Maintainer des anonymisierenden Linux Tails haben Version 5.18 veröffentlicht. Sie bringt die Kernkomponenten auf den aktuellen Stand.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-18-ist-kleines-Wartungs-Release-9328267.html",
       "image_title": "Tails-Desktop auf Notebook auf Tisch"
-    },
-    {
-      "title": "23andme: Daten des Gen-Analyse-Unternehmens von Cyberkriminellen geklaut",
-      "teaser": "Angreifer haben offensichtlich Millionen Daten der Gen-Analyse-Firma 23andme geklaut, sie werden zum Verkauf angeboten.",
-      "url": "https://www.heise.de/news/23andme-Daten-eines-Gen-Analyse-Unternehmens-von-kriminellen-Hackern-geklaut-9327649.html",
-      "image_title": "Equpiment in medizinischem Labor"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
