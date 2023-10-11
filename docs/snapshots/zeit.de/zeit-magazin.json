@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-11T03:12:48",
+  "timestamp": "2023-10-11T04:14:05",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -50,7 +50,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ König des Handwerks",
+      "title": "Z+ Kinder müssen sich nicht wie vegane Influencer ernähren",
+      "teaser": "Dinkelpizza und vegane Muffins mit Rübensirup: Viele Eltern übertrumpfen sich mit der gesunden Ernährung ihrer Kinder. Dabei kann Süßkram eine wichtige Funktion erfüllen.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/kinderernaehrung-suessigkeiten-strenge-eltern-zucker",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/suessigkeiten-kinder/wide__822x462",
+      "image_title": "Kinderernährung: Kinder müssen sich nicht wie vegane Influencer ernähren"
+    },
+    {
+      "title": "Z+ Bijoy Jain : König des Handwerks",
       "teaser": "Er ist der vielleicht wichtigste Architekt Indiens. Ein Besuch in Bijoy Jains Atelier Studio Mumbai, in dem Handwerkstraditionen gepflegt und Utopie verwirklicht werden.",
       "url": "https://www.zeit.de/zeit-magazin/2023/42/bijoy-jain-architekt-handarbeit-indien",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-10/bijoy-jain-architekt-handarbeit-indien-bild/wide__822x462",
@@ -71,23 +78,16 @@
       "image_title": "Jelly Roll: Der Retter"
     },
     {
-      "title": "Z+ Kinder zum Lesen motivieren : Alles, was düster ist",
-      "teaser": "Die zehnjährige Tochter hat großes Interesse an allem, was mit Tod zu tun hat und böse ist. Ist es ein Privileg der Kindheit, sich so begeistert gruseln zu können?",
-      "url": "https://www.zeit.de/zeit-magazin/2023/42/kinder-lesen-interessen-eltern-pruefers-toechter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/kinder-lesen-interessen-eltern-pruefers-toechter-bild/wide__822x462",
-      "image_title": "Kinder zum Lesen motivieren : Alles, was düster ist"
-    },
-    {
       "title": "Z+ Wochenmarkt: Hungrig?",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/index",
       "image_url": "https://img.zeit.de/zeit-magazin/2020-09/wochenmarkt-start-editorial-fragen-der-zeit-bild/tile__315x394",
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Bohnensuppe mit Pasta: Viele Köche machen das Bohnensüppchen besser",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/bohnensuppe-pasta-guenstig-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/bohnensuppe-pasta-guenstig-rezept-wochenmarkt-teaser/tile__315x394",
-      "image_title": "Bohnensuppe mit Pasta: Viele Köche machen das Bohnensüppchen besser"
+      "title": "Z+ Kinder zum Lesen motivieren : Alles, was düster ist",
+      "url": "https://www.zeit.de/zeit-magazin/2023/42/kinder-lesen-interessen-eltern-pruefers-toechter",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/kinder-lesen-interessen-eltern-pruefers-toechter-bild/tile__315x394",
+      "image_title": "Kinder zum Lesen motivieren : Alles, was düster ist"
     },
     {
       "title": "Auf Messers Schneide",
@@ -219,6 +219,12 @@
       "image_title": "Küssen : \"Wenige oder keine Küsse können ein Alarmsignal sein\""
     },
     {
+      "title": "Z+ Bohnensuppe mit Pasta: Viele Köche machen das Bohnensüppchen besser",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/bohnensuppe-pasta-guenstig-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/bohnensuppe-pasta-guenstig-rezept-wochenmarkt-teaser/tile__315x394",
+      "image_title": "Bohnensuppe mit Pasta: Viele Köche machen das Bohnensüppchen besser"
+    },
+    {
       "title": "Z+ Maronisuppe: Wirf die Kastanien ins Feuer!",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/maronisuppe-rezept-geschmacksmomente-sonntagsessen",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/maronisuppe-rezept-geschmacksmomente-sonntagsessen-teaserbild/tile__315x394",
@@ -271,12 +277,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/41/fear-of-missing-out-rave-pruefers-toechter",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-09/fear-of-missing-out-rave-pruefers-toechter-bild/tile__315x394",
       "image_title": "Fear of missing out: \"Ich leide unter Fomo\""
-    },
-    {
-      "title": "Z+ Jean-Michel Jarre: \"Ein abwesender Vater fördert frühe Charakterbildung\"",
-      "url": "https://www.zeit.de/zeit-magazin/2023/41/jean-michel-jarre-ratschlaege-leben",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/41/was-ich-gern-frueher-gewusst-haette-bild-1/tile__315x394",
-      "image_title": "Jean-Michel Jarre: \"Ein abwesender Vater fördert frühe Charakterbildung\""
     },
     {
       "title": "Z+ Hüte: Wer sich traut, Chapeau",
@@ -333,10 +333,17 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/42/kinder-lesen-interessen-eltern-pruefers-toechter"
     },
     {
+      "title": "Z+ Jean-Michel Jarre: \"Ein abwesender Vater fördert frühe Charakterbildung\"",
+      "teaser": "Jean-Michel Jarre revolutionierte die Musikwelt mit Synthesizern. Er teilt seine Einsichten darüber, wie man mit Eltern streiten und wie Musik klingen sollte.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/41/jean-michel-jarre-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/41/was-ich-gern-frueher-gewusst-haette-bild-1/square__460x460",
+      "image_title": "Jean-Michel Jarre: \"Ein abwesender Vater fördert frühe Charakterbildung\""
+    },
+    {
       "title": "Z+ Sautieren: Wenn das Gemüse in der Pfanne springt",
       "teaser": "Sie haben ein grobes Verständnis vom Begriff Sautieren, aber was genau das bedeutet, können Sie nicht wirklich erklären? Mit dieser Anleitung werden Sie zum Vollprofi.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/sautieren-braten-technik-pfanne-hitze-faq",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/sautieren-braten-technik-pfanne-hitze-faq-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/sautieren-braten-technik-pfanne-hitze-faq-bild/wide__822x462",
       "image_title": "Sautieren: Wenn das Gemüse in der Pfanne springt"
     },
     {
@@ -362,9 +369,8 @@
     },
     {
       "title": "Z+ Burrata mit Feigen: Ein großer Klecks Langeweile? Von wegen!",
-      "teaser": "Kürzlich entbrannten heftige Auseinandersetzungen darüber, ob eine Burrata einfach nur geschmacksarm und überteuert sei. Wir sagen: Nein.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-09/burratta-feige-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/burratta-feige-rezept-wochenmarkt-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-09/burratta-feige-rezept-wochenmarkt-teaser/tile__315x394",
       "image_title": "Burrata mit Feigen: Ein großer Klecks Langeweile? Von wegen!"
     },
     {
@@ -378,12 +384,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/41/fernbeziehung-ehe-partnerschaft-kinder-liebeskolumne",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-09/traumfrau-liebe-auf-den-ersten-blick-familie-liebeskolumne-bild/tile__315x394",
       "image_title": "Fernbeziehung: \"Wir waren mehr getrennt als zusammen\""
-    },
-    {
-      "title": "Z+ Annette Frier: \"Du kannst dich in denselben Typen immer wieder verlieben\"",
-      "url": "https://www.zeit.de/zeit-magazin/zeit-mann/2023/02/annette-frier-schauspielerin-komikerin-maenner-familie",
-      "image_url": "https://img.zeit.de/zeit-magazin/zeit-mann/2023/02/annette-frier-bild-1/tile__315x394",
-      "image_title": "Annette Frier: \"Du kannst dich in denselben Typen immer wieder verlieben\""
     }
   ]
 }
