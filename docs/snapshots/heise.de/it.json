@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-11T07:10:48",
+  "timestamp": "2023-10-11T08:15:05",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,23 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.0be09e0f5f9562880cec",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.ca88afa764e6b14b2713",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Snapdragon X: Windows-Notebooks mit neuen ARM-Chips greifen 2024 an",
+      "teaser": "Qualcomm verspricht für die kommenden ARM-SoCs einen \"monumentalen Sprung der Rechenleistung\" und die \"Revolution der PC-Erfahrung\".",
+      "url": "https://www.heise.de/news/Snapdragon-X-Windows-Notebooks-mit-neuen-ARM-Prozessoren-greifen-2024-an-9330527.html",
+      "image_title": "Edel-Notebooks verschiedener Hersteller"
+    },
+    {
+      "title": "Windows 12: Gerüchte und Intel deuten auf Veröffentlichung 2024 hin",
+      "teaser": "Microsoft könnte bei seinen Betriebssystemen zu kürzeren Veröffentlichungszyklen zurückkehren. Windows 12 ist womöglich schon 2024 dran.",
+      "url": "https://www.heise.de/news/Windows-12-Geruechte-und-Intel-deuten-auf-Veroeffentlichung-2024-hin-9328604.html"
+    },
     {
       "title": "Raspberry Pi 5: Mehr Benchmark-Werte, Infos zu SSD-Adapter und Ethernet-Speisung",
       "teaser": "Die Raspi-Entwickler kündigen SSD- und PoE-Adapter für 2024 an, der Geekbench zeigt den Vorteil des Kühlers und man kann den Raspi 5 vorbestellen.",
@@ -32,15 +43,10 @@
       "image_title": "Der Raspberry Pi 5 mit Lüfterkühler im c’t-Testlabor​"
     },
     {
-      "title": "Samsung Portable SSD T9: Externe SSD mit USB 3.2 Gen 2x2",
-      "teaser": "Die Portable SSD T9 verdoppelt ihre Geschwindigkeit auf 2 GByte/s. Dafür muss der Host USB 3.2 Gen 2x2 beherrschen.",
-      "url": "https://www.heise.de/news/Portable-SSD-T9-Samsungs-erste-externe-SSD-mit-USB-3-2-Gen-2x2-9326294.html"
-    },
-    {
-      "title": "Viel Vision, wenig Konkretes - Das Orakel von Austin hat gesprochen",
-      "teaser": "Auf Oracles jüngster Kundenveranstaltung hielt CTO Larry Ellison eine langatmige Keynote zu KI. Dabei vergaß er vor allem die Probleme, meint Harald Weiss.",
-      "url": "https://www.heise.de/meinung/Viel-Vision-wenig-Konkretes-Das-Orakel-von-Austin-hat-gesprochen-9321241.html",
-      "image_title": "Larry Ellison"
+      "title": "3D-Drucker: Filamente im Stresstest",
+      "teaser": "Dieser Artikel stellt DIY-Testgeräte vor und wir untersuchen und vergleichen damit beliebte Filamente unterschiedlicher Hersteller auf ihre Eigenschaften.",
+      "url": "https://www.heise.de/ratgeber/3D-Drucker-Filamente-im-Stresstest-9309299.html",
+      "image_title": ","
     },
     {
       "title": "Übersetzungen mit LibreTranslate: Lokal installieren und betreiben",
@@ -49,9 +55,31 @@
       "image_title": "Foreign,Languages,Translation,Concept,,Online,Translator,,Macro,View,Of,Computer"
     },
     {
-      "title": "Joystick und Buttons von Arcade-Sticks austauschen",
-      "teaser": "Der Stick fühlt sich wabbelig an und die Buttons klackern zu laut: Wer mehr aus seinem Arcade-Stick herausholen will, kann die Komponenten wechseln.",
-      "url": "https://www.heise.de/ratgeber/Joystick-und-Buttons-von-Arcade-Sticks-austauschen-9326442.html"
+      "title": "Microsoft warnt vor neuer Gmail-Richtlinie gegen Spam",
+      "teaser": "Google will den Versand von Massenmails besser kontrollieren. Microsoft warnt seine Nutzer nun, was sie beachten sollten.",
+      "url": "https://www.heise.de/news/Microsoft-warnt-vor-neuer-Gmail-Richtlinie-gegen-Spam-9330778.html",
+      "image_title": "Email,Marketing,Concept,,Company,Sending,Many,E-mails,Or,Digital,Newsletter"
+    },
+    {
+      "title": "c't-Sonderheft: Netzwerke 23/24 mit Fritzbox-Schwerpunkt",
+      "teaser": "Dieses Sonderheft für Netzwerker behandelt schwerpunktmäßig Wi-Fi 6, aktuelle Peer-to-Peer-VPNs und aktuelle Fritzbox-Themen rund um WireGuard, IPv6 und Zigbee.",
+      "url": "https://www.heise.de/news/c-t-Sonderheft-Netzwerke-23-24-mit-Fritzbox-Schwerpunkt-9324960.html"
+    },
+    {
+      "title": "3D-Drucker: Filamente im Stresstest",
+      "teaser": "Dieser Artikel stellt DIY-Testgeräte vor und wir untersuchen und vergleichen damit beliebte Filamente unterschiedlicher Hersteller auf ihre Eigenschaften.",
+      "url": "https://www.heise.de/ratgeber/3D-Drucker-Filamente-im-Stresstest-9309299.html",
+      "image_title": ","
+    },
+    {
+      "title": "Citrix dichtet kritisches Leck in Netscaler ab",
+      "teaser": "In Netscaler ADC und Gateway klaffen Sicherheitslücken, ebenso im Hypervisor von Citrix. Aktualisierte Software-Pakete schließen sie.",
+      "url": "https://www.heise.de/news/Citrix-dichtet-kritisches-Leck-in-Netscaler-ab-9330770.html"
+    },
+    {
+      "title": "Patchday Adobe: Schadcode-Attacken auf Magento-Shops und Photoshop möglich",
+      "teaser": "Die Entwickler von Adobe haben in Bridge, Commerce, Magento Open Source und Photoshop mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-Magento-Shops-und-Photoshop-moeglich-9330710.html"
     },
     {
       "title": "Webbrowser: Google-Chrome-Update schließt kritische Sicherheitslücke",
@@ -88,12 +116,6 @@
       "image_title": "Boeing 737 der Air Europa"
     },
     {
-      "title": "Snapdragon X: Windows-Notebooks mit neuen ARM-Chips greifen 2024 an",
-      "teaser": "Qualcomm verspricht für die kommenden ARM-SoCs einen \"monumentalen Sprung der Rechenleistung\" und die \"Revolution der PC-Erfahrung\".",
-      "url": "https://www.heise.de/news/Snapdragon-X-Windows-Notebooks-mit-neuen-ARM-Prozessoren-greifen-2024-an-9330527.html",
-      "image_title": "Edel-Notebooks verschiedener Hersteller"
-    },
-    {
       "title": "Wall Street Journal: IT-Firmen wie Microsoft kämpfen mit den Kosten der KI",
       "teaser": "Das Wall Street Journal berichtet darüber, dass die großen IT-Firmen mit den von ihnen bereitgestellten KI-Tools aktuell kein Geld verdienen können.",
       "url": "https://www.heise.de/news/KI-Werkzeuge-wie-GitHub-Copilot-loesen-Probleme-aber-bringen-Verlust-9330230.html",
@@ -114,26 +136,6 @@
       "teaser": "Angeblich steht Apple beim iPad Pro kurz davor, erstmals große OLED-Displays zu verbauen. Dabei bleibt es offenbar nicht.",
       "url": "https://www.heise.de/news/Mehr-OLED-Apple-plant-angeblich-auch-iPad-Air-und-iPad-mini-9329599.html",
       "image_title": "iPad Air 4 mit Touch-ID"
-    },
-    {
-      "title": "Intels Spielergrafikkarte Arc A580 für 179 US-Dollar",
-      "teaser": "Intels \"arc\" verspätete Spielergrafikkarte Arc A580 soll 179 US-Dollar kosten und Radeon RX 6600 sowie GeForce RTX 3050 Konkurrenz machen.",
-      "url": "https://www.heise.de/news/Intel-bringt-Arc-A580-8-GByte-Spielergrafikkarte-fuer-179-US-Dollar-9329744.html"
-    },
-    {
-      "title": "libcue-Lücke reißt Sicherheitsleck in Gnome",
-      "teaser": "Eine Schwachstelle in einer unscheinbaren Bibliothek führt zu einer veritablen Sicherheitslücke in Gnome. Updates stehen bereit.",
-      "url": "https://www.heise.de/news/libcue-Luecke-reisst-Sicherheitsleck-in-Gnome-9330085.html"
-    },
-    {
-      "title": "Asus Hyper M.2 x16 Gen5 Card: Adapterkarte für vier flotte NVMe-SSDs",
-      "teaser": "Wer viele schnelle SSDs einsetzen möchte, kann demnächst die erste PCIe-5.0-Adapterkarte für vier SSDs kaufen. Theoretisch sind so etwa 63 GByte/s möglich.",
-      "url": "https://www.heise.de/news/Asus-Hyper-M-2-x16-Gen5-Card-Adapterkarte-fuer-vier-flotte-NVMe-SSDs-9330008.html"
-    },
-    {
-      "title": "c't <webdev>: Schnell noch Frühbuchertarif sichern",
-      "teaser": "Noch eine Woche gibt es Rabatt für die Tickets für die c‘t <webdev>. Die Frontend-Entwickler-Konferenz startet am 14. November.",
-      "url": "https://www.heise.de/news/c-t-webdev-Schnell-noch-Fruehbucherarif-sichern-9329239.html"
     },
     {
       "title": "smapOne ist die beste No-Code-Plattform im PUR Software Development 2023",

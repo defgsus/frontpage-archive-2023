@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-11T07:10:53",
+  "timestamp": "2023-10-11T08:15:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,20 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.89540023d90394c97a40",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.8733f51c84641ef7c5b3",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Citrix",
+      "url": "https://www.heise.de/news/Citrix-dichtet-kritisches-Leck-in-Netscaler-ab-9330770.html"
+    },
+    {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-Magento-Shops-und-Photoshop-moeglich-9330710.html"
+    },
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-9330733.html"
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Attacken-auf-Skype-for-Business-und-WordPad-9330685.html"
     },
     {
-      "title": "Gnome",
-      "url": "https://www.heise.de/news/libcue-Luecke-reisst-Sicherheitsleck-in-Gnome-9330085.html"
+      "title": "Citrix dichtet kritisches Leck in Netscaler ab",
+      "teaser": "In Netscaler ADC und Gateway klaffen Sicherheitslücken, ebenso im Hypervisor von Citrix. Aktualisierte Software-Pakete schließen sie.",
+      "url": "https://www.heise.de/news/Citrix-dichtet-kritisches-Leck-in-Netscaler-ab-9330770.html"
     },
     {
-      "title": "IBM",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Schadcode-und-Root-Luecken-bedrohen-IBM-Software-9329404.html"
+      "title": "Patchday Adobe: Schadcode-Attacken auf Magento-Shops und Photoshop möglich",
+      "teaser": "Die Entwickler von Adobe haben in Bridge, Commerce, Magento Open Source und Photoshop mehrere Sicherheitslücken geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-Magento-Shops-und-Photoshop-moeglich-9330710.html"
     },
     {
       "title": "Webbrowser: Google-Chrome-Update schließt kritische Sicherheitslücke",
@@ -142,17 +152,6 @@
       "teaser": "Zwischen Weihnachten und Silvester heißt es wieder Tore auf für den Chaos Communication Congress. Nach dreijähriger Pause findet der 37C3 wieder statt.",
       "url": "https://www.heise.de/news/37C3-Kongress-des-CCC-dieses-Jahr-live-und-in-Farbe-9326950.html",
       "image_title": "CCC-Rakete beim 36C3 in Leipzig"
-    },
-    {
-      "title": "Jetzt patchen! Exploits für glibc-Lücke öffentlich verfügbar",
-      "teaser": "Nachdem der Bug in der Linux-Bibliothek glibc am vergangenen Dienstag bekannt wurde, sind nun zuverlässig funktionierende Exploits aufgetaucht.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Exploits-fuer-glibc-Luecke-oeffentlich-verfuegbar-9326518.html",
-      "image_title": "Android-Exploit schleust beliebige Apps ein"
-    },
-    {
-      "title": "Sicherheitsupdate: Root-Lücke bedroht Dell SmartFabric Storage Software",
-      "teaser": "Dell hat mehrere gefährliche Sicherheitslücken in SmartFabric Storage Software geschlossen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Root-Luecke-bedroht-Dell-SmartFabric-Storage-Software-9326738.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
