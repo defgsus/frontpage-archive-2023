@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-11T12:22:33",
+  "timestamp": "2023-10-11T13:15:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "F5 BIG-IP",
+      "url": "https://www.heise.de/news/Patchday-F5-Sicherheitsluecken-in-BIG-IP-ermoeglichen-Angreifern-Codeausfuehrung-9331426.html"
+    },
+    {
+      "title": "Fortinet",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-Angreifer-koennen-Passwoerter-im-Klartext-einsehen-9331076.html"
+    },
+    {
       "title": "HTTP/2",
       "url": "https://www.heise.de/news/Rapid-Reset-Angreifer-nutzten-Luecke-in-HTTP-2-Protokoll-seit-August-2023-aus-9330889.html"
     },
@@ -40,12 +48,20 @@
       "url": "https://www.heise.de/news/Citrix-dichtet-kritisches-Leck-in-Netscaler-ab-9330770.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Attacken-auf-Magento-Shops-und-Photoshop-moeglich-9330710.html"
+      "title": "Patchday F5: Sicherheitslücken in BIG-IP ermöglichen Angreifern Codeausführung",
+      "teaser": "F5 hat mehrere Sicherheitsmeldungen zu Lecks in BIG-IP-Appliances und -Software veröffentlicht. Aktualisierungen stehen bereit.",
+      "url": "https://www.heise.de/news/Patchday-F5-Sicherheitsluecken-in-BIG-IP-ermoeglichen-Angreifern-Codeausfuehrung-9331426.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-kritische-Sicherheitsluecke-9330733.html"
+      "title": "Sicherheitsupdates Fortinet: Angreifer können Passwörter im Klartext einsehen",
+      "teaser": "Fortinet hat wichtige Sicherheitspatches für FortiOS und FortiProxy veröffentlicht.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-Angreifer-koennen-Passwoerter-im-Klartext-einsehen-9331076.html"
+    },
+    {
+      "title": "Noch mehr Rust in Android: Speichersicherheit jetzt auch auf Bare-Metal-Ebene",
+      "teaser": "Nach den guten Erfahrungen mit Rust in Android hat Google nun die Protected Virtual Machine Firmware in Bare-Metal Rust umgesetzt.",
+      "url": "https://www.heise.de/news/Noch-mehr-Rust-in-Android-Speichersicherheit-jetzt-auch-auf-Bare-Metal-Ebene-9330945.html",
+      "image_title": "Ein grüner Android steht vor dem Google-Hauptquartier (Glasgebäude Hintergrund)"
     },
     {
       "title": "heise Security Webinar: Exchange Online Security optimieren und überwachen",
@@ -53,7 +69,7 @@
       "url": "https://www.heise.de/news/heise-Security-Webinar-Exchange-Online-Security-optimieren-und-ueberwachen-9331213.html"
     },
     {
-      "title": "Ende des Windows Server 2012 R2 – welche Optionen Sie jetzt haben",
+      "title": "Ende des Windows Server 2012 R2: Upgrade oder teuer Security-Updates kaufen?",
       "teaser": "Mit dem Support-Ende des Windows Server 2012 R2 stehen Nutzern viele Migrationsoptionen offen. Aber wie unterscheiden sie sich und welche lohnen sich?",
       "url": "https://www.heise.de/news/Ende-des-Windows-Server-2012-R2-welche-Optionen-Sie-jetzt-haben-9331193.html"
     },
@@ -139,21 +155,6 @@
       "url": "https://www.heise.de/news/Backup-Acronis-schliesst-Sicherheitsluecken-im-Agent-fuer-Linux-Mac-und-Windows-9329516.html"
     },
     {
-      "title": "SAP: Patchday im Oktober geht ruhiger zu",
-      "teaser": "Der Patchday von SAP im Oktober bringt lediglich sieben Benachrichtigungen zu Schwachstellen. Der Hersteller stuft deren Risiko als mittel ein.",
-      "url": "https://www.heise.de/news/SAP-Oktober-Patchday-faellt-ruhiger-aus-9329460.html"
-    },
-    {
-      "title": "Angriffsversuch durch Hacker: Uniklinikum Frankfurt offline",
-      "teaser": "Das Netzwerk des Uniklinikums Frankfurt ist offenbar aufgrund eines Angriffsversuchs derzeit vom Internet getrennt. Die Ermittlungen laufen.",
-      "url": "https://www.heise.de/news/Angriffsversuch-durch-Hacker-Uniklinikum-Frankfurt-offline-9328925.html"
-    },
-    {
-      "title": "IT-Sicherheitstag 2023: So wappnen sich Unternehmen gegen aktuelle Bedrohungen",
-      "teaser": "Der IT-Sicherheitstag 2023 zeigt, welche neuen Sicherheitspflichten auf Unternehmen zukommen und den Umgang mit modernen Bedrohungen.",
-      "url": "https://www.heise.de/news/IT-Sicherheitstag-2023-So-wappnen-sich-Unternehmen-gegen-aktuelle-Bedrohungen-9327060.html"
-    },
-    {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
       "teaser": "Mit der Digitalisierung von Autos nimmt die Bedrohung durch Cyber-Attacken zu. Die Industrie muss mit einer ganzheitlichen Sicherheitsinfrastruktur antworten.",
       "url": "https://www.heise.de/hintergrund/Cyber-Security-in-Fahrzeugen-Wettlauf-zwischen-Hackern-und-Industrie-9318721.html",
@@ -170,6 +171,11 @@
       "url": "https://www.heise.de/hintergrund/Die-wichtigsten-Aenderungen-der-neuen-Schwachstellenbewertung-CVSS-4-0-9318903.html"
     },
     {
+      "title": "Re: Was sind Unterschiede Desinfect Mai 2023 und der aktuellen 23/24 Variante?",
+      "teaser": "Forum: Desinfect",
+      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Was-sind-Unterschiede-Desinfect-Mai-2023-und-der-aktuellen-23-24-Variante/posting-43212126/show/"
+    },
+    {
       "title": "Re: update nicht erfolgreich...",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-update-nicht-erfolgreich/posting-43210107/show/"
@@ -178,11 +184,6 @@
       "title": "Desinfect 2023/24 startet nicht auf IdeaPad Creator 5 15IMH05",
       "teaser": "Forum: Desinfect",
       "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Desinfect-2023-24-startet-nicht-auf-IdeaPad-Creator-5-15IMH05/posting-43209485/show/"
-    },
-    {
-      "title": "Re: Was sind Unterschiede Desinfect Mai 2023 und der aktuellen 23/24 Variante?",
-      "teaser": "Forum: Desinfect",
-      "url": "https://www.heise.de/forum/heise-Security/Themen-Hilfe/Desinfect/Re-Was-sind-Unterschiede-Desinfect-Mai-2023-und-der-aktuellen-23-24-Variante/posting-43208611/show/"
     }
   ]
 }
