@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-12T10:12:05",
+  "timestamp": "2023-10-12T11:09:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "40 Schwachstellen in IBM-Sicherheitslösung QRadar SIEM geschlossen",
+      "url": "https://www.heise.de/news/40-Schwachstellen-in-IBM-Sicherheitsloesung-QRadar-SIEM-geschlossen-9332542.html"
+    },
+    {
       "title": "Juniper",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Backdoor-Luecke-bedroht-Netzwerkgeraete-von-Juniper-9332169.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-Angreifer-koennen-Passwoerter-im-Klartext-einsehen-9331076.html"
     },
     {
-      "title": "HTTP/2",
-      "url": "https://www.heise.de/news/Rapid-Reset-Angreifer-nutzten-Luecke-in-HTTP-2-Protokoll-seit-August-2023-aus-9330889.html"
+      "title": "Microsoft Defender for Endpoint soll Angriffe von Menschen unterbinden",
+      "teaser": "Von Menschen gesteuerte Angriffe auf Netze sind in der Regel schwieriger zu erkennen als automatisierte. Microsofts Defender for Endpoint soll das beherrschen.",
+      "url": "https://www.heise.de/news/Microsoft-Defender-for-Endpoint-soll-manuelle-Angriffe-stoppen-9332191.html"
+    },
+    {
+      "title": "40 Schwachstellen in IBM-Sicherheitslösung QRadar SIEM geschlossen",
+      "teaser": "Mehrere Komponenten in IBM QRadar SIEM weisen Sicherheitslücken auf und gefährden das Security-Information-and-Event-Management-System.",
+      "url": "https://www.heise.de/news/40-Schwachstellen-in-IBM-Sicherheitsloesung-QRadar-SIEM-geschlossen-9332542.html"
     },
     {
       "title": "Sicherheitsupdates: Backdoor-Lücke bedroht Netzwerkgeräte von Juniper",
@@ -143,17 +153,6 @@
       "title": "libcue-Lücke reißt Sicherheitsleck in Gnome",
       "teaser": "Eine Schwachstelle in einer unscheinbaren Bibliothek führt zu einer veritablen Sicherheitslücke in Gnome. Updates stehen bereit.",
       "url": "https://www.heise.de/news/libcue-Luecke-reisst-Sicherheitsleck-in-Gnome-9330085.html"
-    },
-    {
-      "title": "Fünfstellige Belohnung für Knacken der Elliptic-Curve-Seeds ausgelobt",
-      "teaser": "Sicherheitsforscher setzen eine hohe Belohnung für die Entschlüsselung der Seeds für elliptische Kurven aus – auch, um Verschwörungstheorien zu entlarven.",
-      "url": "https://www.heise.de/news/Fuenfstelliges-Kopfgeld-Belohnung-fuer-Knacken-der-Elliptic-Curve-Seeds-ausgelobt-9329528.html",
-      "image_title": "Nachbau einer Turing-Bombe in Bletchley Park"
-    },
-    {
-      "title": "Nahostkonflikt: Cyberangriffe folgen auf jüngste Eskalation",
-      "teaser": "Die jüngste Eskalation im Nahostkonflikt bekommt mit Cyberattacken auf israelische Ziele eine weitere Dimension.",
-      "url": "https://www.heise.de/news/Nahostkonflikt-Eskalation-in-den-Cyberraum-9329756.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
