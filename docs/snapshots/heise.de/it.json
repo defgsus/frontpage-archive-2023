@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-12T09:11:26",
+  "timestamp": "2023-10-12T10:11:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Kommentar: Künstliche Intelligenz, der neueste Anlauf zur Weltzerstörung",
+      "teaser": "Alle machen nun in KI. Obwohl oder gerade weil kaum jemand weiß, was das ist, steuern wir auf den nächsten Abgrund zu, meint Andreas Wilkens.",
+      "url": "https://www.heise.de/meinung/Kuenstliche-Intelligenz-der-neueste-Anlauf-zur-Weltzerstoerung-9328727.html"
+    },
+    {
       "title": "Intels Spielergrafikkarte Arc A580 für 179 US-Dollar",
       "teaser": "Intels \"arc\" verspätete Spielergrafikkarte Arc A580 soll 179 US-Dollar kosten und Radeon RX 6600 sowie GeForce RTX 3050 Konkurrenz machen.",
       "url": "https://www.heise.de/news/Intel-bringt-Arc-A580-8-GByte-Spielergrafikkarte-fuer-179-US-Dollar-9329744.html"
@@ -36,22 +41,36 @@
       "url": "https://www.heise.de/news/Raspberry-Pi-5-Dokumentation-zum-RP1-Chip-9329126.html"
     },
     {
-      "title": "Snapdragon X: Windows-Notebooks mit neuen ARM-Chips greifen 2024 an",
-      "teaser": "Qualcomm verspricht für die kommenden ARM-SoCs einen \"monumentalen Sprung der Rechenleistung\" und die \"Revolution der PC-Erfahrung\".",
-      "url": "https://www.heise.de/news/Snapdragon-X-Windows-Notebooks-mit-neuen-ARM-Prozessoren-greifen-2024-an-9330527.html",
-      "image_title": "Edel-Notebooks verschiedener Hersteller"
+      "title": "Satellitenschutz: Wie Simulationen vor Kollisionen und Sonnenstürmen warnen",
+      "teaser": "Mit Simulationsalgorithmen rüstet die Raumfahrtorganisation ESA ihr Space-Safety-Programm nach. Damit wächst die Vorwarnzeit vor Trümmern und Sonnenstürmen.",
+      "url": "https://www.heise.de/hintergrund/Satellitenschutz-Wie-Simulationen-vor-Kollisionen-und-Sonnenstuermen-warnen-9330166.html"
     },
     {
-      "title": "Security: Was der Staat bei groß angelegten Cyberattacken dürfen soll",
-      "teaser": "Der Koalitionsvertrag der Ampelregierung lehnt Hackbacks ausdrücklich ab. Doch Bundesinnenministerin N. Faeser (SPD) will offensive Cybermaßnahmen ermöglichen.",
-      "url": "https://www.heise.de/hintergrund/Security-Was-der-Staat-bei-gross-angelegten-Cyberattacken-duerfen-soll-9329726.html",
-      "image_title": ", Albert Hulm"
+      "title": "KI-Training: Qualitäts- und Urheberrechtsprobleme bei Sprachmodellen",
+      "teaser": "Wenn Maschinen viele Webseiten und Bücher verschlingen, werden sie nicht unbedingt schlauer, wie ein Blick ins Bücherregal der künstlichen Intelligenzen zeigt.",
+      "url": "https://www.heise.de/hintergrund/KI-Sprachmodelle-Qualitaets-und-Urheberrechtsprobleme-mit-Trainingstexten-9329337.html"
     },
     {
-      "title": "Musikverwaltungen im Test: Fünf Apps für unterwegs",
-      "teaser": "Mit den Jahren wächst bei Musikliebhabern die lokale, liebevoll gepflegte Audiothek. Darauf möchten sie auch unterwegs zugreifen. Wir haben fünf Apps getestet.",
-      "url": "https://www.heise.de/tests/Musikverwaltungen-im-Test-Fuenf-Apps-fuer-unterwegs-9329611.html",
-      "image_title": "KI Midjourney, Foto c't Bearbeitung c't"
+      "title": "Last Call: Next Level C++: In 5 Webinaren zum Profi in C++ mit der heise Academy",
+      "teaser": "Ab dem 23. Oktober macht die heise Academy Sie zum C++-Experten. In fünf Webinaren meistern Sie Templates, API-Design, Speicherverwaltung und Design Patterns.",
+      "url": "https://www.heise.de/news/Last-Call-Next-Level-C-In-5-Webinaren-zum-Profi-in-C-mit-der-heise-Academy-9279256.html"
+    },
+    {
+      "title": "DJI Mini 4 Pro im Test: Mini-Quadrokopter mit Rundum-Sensoren",
+      "teaser": "Obwohl DJIs neue Mini-Drohne in der Einstiegsversion preiswerter startet als die Vorgängerin, bietet sie eine bessere Bildqualität und höhere Reichweite.",
+      "url": "https://www.heise.de/tests/DJI-Mini-4-Pro-im-Test-Mini-Quadrokopter-mit-Rundum-Sensoren-9328321.html",
+      "image_title": "Daniel Clören"
+    },
+    {
+      "title": "LED-Pixelclock fürs Smart Home: Ulanzi TC001 cloudlos betreiben",
+      "teaser": "Coole Anzeige fürs Smart Home: Ulanzis TC001 ist eine Pixelclock mit 256 LEDs und läuft sogar ohne Cloud. Wir zeigen Installation, Einrichtung und Betrieb.",
+      "url": "https://www.heise.de/ratgeber/LED-Pixelclock-fuers-Smart-Home-Ulanzi-TC001-cloudlos-betreiben-9326752.html",
+      "image_title": "!!!,"
+    },
+    {
+      "title": "software-architektur.tv: Bert Jan Schrijver about Generic or Specific?",
+      "teaser": "heise Developer präsentiert den Videocast zu Softwarearchitektur: diesmal auf Englisch und mit Gast Bert Jan Schrijver, Entwickler und Softwarearchitekt.",
+      "url": "https://www.heise.de/news/software-architektur-tv-Bert-Jan-Schrijver-about-Generic-or-Specific-9330823.html"
     },
     {
       "title": "Licht schalten nach Sonnenstand",
@@ -74,6 +93,18 @@
       "teaser": "Die Security Insights Specification, ein Projekt der Open Source Security Foundation, soll Projektbetreuern die Arbeit mit Sicherheitsinformationen erleichtern.",
       "url": "https://www.heise.de/news/Security-Insights-Specification-Mehr-Sicherheit-fuer-Open-Source-Projekte-9332110.html",
       "image_title": "Lupe, unter der sich ein Warndreieck befindet."
+    },
+    {
+      "title": "Security: Was der Staat bei groß angelegten Cyberattacken dürfen soll",
+      "teaser": "Der Koalitionsvertrag der Ampelregierung lehnt Hackbacks ausdrücklich ab. Doch Bundesinnenministerin N. Faeser (SPD) will offensive Cybermaßnahmen ermöglichen.",
+      "url": "https://www.heise.de/hintergrund/Security-Was-der-Staat-bei-gross-angelegten-Cyberattacken-duerfen-soll-9329726.html",
+      "image_title": ", Albert Hulm"
+    },
+    {
+      "title": "Musikverwaltungen im Test: Fünf Apps für unterwegs",
+      "teaser": "Mit den Jahren wächst bei Musikliebhabern die lokale, liebevoll gepflegte Audiothek. Darauf möchten sie auch unterwegs zugreifen. Wir haben fünf Apps getestet.",
+      "url": "https://www.heise.de/tests/Musikverwaltungen-im-Test-Fuenf-Apps-fuer-unterwegs-9329611.html",
+      "image_title": "KI Midjourney, Foto c't Bearbeitung c't"
     },
     {
       "title": "macOS-Update: Tipps, Tricks und Fallen von Sonoma",
@@ -102,39 +133,6 @@
       "title": "Digital Networks Act: Bretons später Plan für die Telekommunikationsbranche​",
       "teaser": "Längst geht es der EU nicht mehr nur um die Frage, wer Teile der Infrastruktur bezahlt. Der Digital Networks Act soll Abhängigkeiten reduzieren. Eine Analyse.",
       "url": "https://www.heise.de/meinung/Digital-Networks-Act-Bretons-spaeter-Plan-fuer-die-Telekommunikationsbranche-9331873.html"
-    },
-    {
-      "title": "Gatekeeper Apple: EU prüft auch iPadOS und iMessage",
-      "teaser": "Das Gesetz über digitale Märkte zwingt Apple in Europa, das iPhone bald weit zu öffnen. Ob das auch für das iPad und iMessage gilt, klärt die EU derzeit.",
-      "url": "https://www.heise.de/news/Gatekeeper-Apple-EU-prueft-auch-iPadOS-und-iMessage-9331857.html",
-      "image_title": "iPad mini 6 und iPad 9"
-    },
-    {
-      "title": "Firefox: Wie ein 23-jähriger Entwickler einen 22 Jahre alten Fehler behob",
-      "teaser": "Einem 23-Jährigen ist es gelungen, einen 20 Jahre alten Firefox-Fehler zu beheben, der zu winzigen, auf den Bildschirmen verbleibenden Tooltips führte.",
-      "url": "https://www.heise.de/hintergrund/Firefox-Wie-ein-23-jaehriger-Entwickler-einen-22-Jahre-alten-Fehler-behob-9331590.html",
-      "image_title": "Firefox-Symbol auf einem Smartphone. Hintergrund ist lila."
-    },
-    {
-      "title": "EU-Konsultation zu Datenmaut: Mehrheit gegen Big-Tech-Kostenbeteiligung",
-      "teaser": "Das Plädoyer der EU-Kommission, eine Infrastrukturabgabe für Netflix & Co. einzuführen, findet wenig Unterstützer. Nun soll Plan B per neuem Gesetz greifen.",
-      "url": "https://www.heise.de/news/EU-Konsultation-zu-Datenmaut-Mehrheit-gegen-Big-Tech-Kostenbeteiligung-9331827.html"
-    },
-    {
-      "title": "PC-Verkäufe steigen wieder auf über 60 Millionen Stück",
-      "teaser": "Es geht weiter bergauf im PC-Markt. Das hat auch Auswirkungen auf die Hardware-Preise, etwa von SSDs.",
-      "url": "https://www.heise.de/news/PC-Verkaeufe-steigen-wieder-auf-ueber-60-Millionen-Stueck-9331788.html",
-      "image_title": "Geöffneter Desktop-PC"
-    },
-    {
-      "title": ".NET 8.0 Release Candidate 2 überarbeitet nochmals die Blazor-Projektvorlagen",
-      "teaser": "Der zweite Release Candidate für .NET 8.0 bringt weitere Flexibilität in der Projektvorlage \"Blazor Web App\" und kleinere Neuerungen für Entity Framework Core.",
-      "url": "https://www.heise.de/news/NET-8-0-Release-Candidate-2-ueberarbeitet-nochmals-die-Blazor-Projektvorlagen-9331327.html"
-    },
-    {
-      "title": "Passwortlos zur nächsten Anmeldung: Google steigt jetzt auf Passkeys um",
-      "teaser": "Wer sich das nächste Mal bei Gmail & Co. anmeldet, wird per Default zur passwortlosen Authentifikation und zum Einrichten eines Passkeys aufgefordert.",
-      "url": "https://www.heise.de/news/Google-Anmeldung-jetzt-standardmaessig-ohne-Passwort-9331554.html"
     },
     {
       "title": "smapOne ist die beste No-Code-Plattform im PUR Software Development 2023",
