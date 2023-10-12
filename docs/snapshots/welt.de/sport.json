@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-12T07:10:56",
+  "timestamp": "2023-10-12T08:14:46",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -7,7 +7,7 @@
   "scripts": [
     {
       "type": "module",
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.a51c4bbe.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.module.5e653121.js",
       "id": null,
       "text": null
     },
@@ -19,12 +19,27 @@
     },
     {
       "type": null,
-      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.baed32b8.js",
+      "src": "https://www.welt.de/assets/bff-section/scripts/section.no-module.9c96fb67.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Wie die Berliner Jungstars die Liga aufmischen",
+      "teaser": "Die Mischung macht es bei den Füchsen Berlin. Der ungeschlagene Bundesliga-Tabellenführer setzt auf routinierte Handball-Stars und eine Reihe junger Talente. Ein U21-Weltmeister hat dabei eine besondere Gabe.",
+      "url": "https://www.welt.de/sport/handball/",
+      "image_url": "https://img.welt.de/img/sport/handball/mobile247936302/4597938827-ci23x11-w20/Fuechse-Berlin.jpg",
+      "image_title": "Während die Nordrivalen THW Kiel und SG Flensburg-Handewitt im Sommer in der Handball-Bundesliga einen größeren Kader-Umbruch hinnehmen mussten, blieb das Team der Füchse Berlin weitestgehend zusammen. Diese Kontinuität zahlt sich bislang aus"
+    },
+    {
+      "title": "Nagelsmann sortiert den heimlichen Star der Amazon-Doku aus",
+      "teaser": "Julian Nagelsmann als neuer Bundestrainer ist nicht die einzige Veränderung beim DFB. Auch in der zweiten Reihe ändert sich bei der Nationalmannschaft einiges. Nagelsmann sortiert dabei Vertraute von Ex-Bundestrainer Hansi Flick aus.",
+      "url": "https://www.welt.de/sport/fussball/",
+      "image_url": "https://img.welt.de/img/sport/fussball/mobile247940538/5677935557-ci23x11-w20/Germany-Training-And-Press-Conference.jpg",
+      "image_title": "Germany Training And Press Conference",
+      "author": "Tobias Altschäffl"
+    },
     {
       "title": "Hertha-Präsident nach kuriosem Unfall im Krankenhaus",
       "teaser": "Hertha-Präsident Kay Bernstein liegt nach einem Unfall auf dem Vereinsgelände im Krankenhaus, wie er selbst vom Krankenbett aus berichtet. Was genau passiert ist und was er hat, wird nicht mitgeteilt. Doch die Ursache soll kurios, die Verletzung ernst sein.",
@@ -48,21 +63,6 @@
       "image_title": "Alon Meyer"
     },
     {
-      "title": "„Irgendwann war ich dann auch wundgelegen“",
-      "teaser": "Handball-Nationaltorwart Andreas Wolff konnte weder sitzen noch liegen – zu stark waren die Schmerzen, die der Bandscheibenvorfall verursachte. Jetzt will sich der 32-Jährige zurückkämpfen. Im Interview spricht er über seine Reha und die Heim-EM im Januar.",
-      "url": "https://www.welt.de/sport/handball/",
-      "image_url": "https://img.welt.de/img/sport/handball/mobile247817904/2117932947-ci23x11-w20/Deutschland-Daenemark-EHF-EURO-Cup.jpg",
-      "image_title": "Die Diagnose bei Handball-Nationaltorwart Andreas Wolff: Ein Bandscheibenvorfall oben an der Halswirbelsäule zwischen C6 und C7, der in die Schulter ausstrahlt",
-      "author": "Dirk Weitzmann"
-    },
-    {
-      "title": "Ehemaliger Wasserball-Bundestrainer stirbt auf Rückweg aus China im Flugzeug",
-      "teaser": "Der deutsche Schwimmsport trauert um einen seiner ehemaligen Bundestrainer. Petar Porobic ist im Alter von 66 Jahren während der Rückreise von China nach Europa gestorben. Der Deutsche Schwimm-Verband würdigt ihn als „starke Persönlichkeit“.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile247936226/1497933377-ci23x11-w20/SP-JAPAN-FUKUOKA-WORLD-AQUATICS-CHAMPIONSHIPS-WATER-POLO-CHINA-V.jpg",
-      "image_title": "(SP)JAPAN-FUKUOKA-WORLD AQUATICS CHAMPIONSHIPS-WATER POLO-CHINA VS CANADA"
-    },
-    {
       "title": "„Er war bisher nur im Vereinsfußball“ – Nagelsmanns Auftakt bei der Nationalmannschaft",
       "url": "https://www.welt.de/sport/fussball/video247933984/Neuer-DFB-Trainer-Guendogans-erste-Eindruecke-von-Nagelsmann.html",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile247934002/9807935027-ci16x9-w20/Germany-Training-And-Press-Conference.jpg",
@@ -70,8 +70,8 @@
       "author": "1 Min"
     },
     {
-      "title": "„Spaß auf mehr gemacht“ – Nagelsmann bringt neues Feuer ins DFB-Team",
-      "url": "https://www.welt.de/sport/fussball/video247932944/USA-Reise-Spass-auf-mehr-gemacht-Nagelsmann-bringt-neues-Feuer-ins-DFB-Team.html",
+      "title": "Nagelsmann bringt neues Feuer ins DFB-Team",
+      "url": "https://www.welt.de/sport/fussball/video247932944/USA-Reise-Nagelsmann-bringt-neues-Feuer-ins-DFB-Team.html",
       "image_url": "https://img.welt.de/img/sport/fussball/mobile247933014/7227932557-ci16x9-w20/Training-Nationalmannschaft-Deutschland.jpg",
       "image_title": "Training Nationalmannschaft Deutschland",
       "author": "46 Sek"
@@ -230,6 +230,14 @@
       "image_title": "Erster Dämpfer: Weltmeister Andreas Obst und der FC Bayern verloren bei Ebuka Izundus Oldenburgern"
     },
     {
+      "title": "„Irgendwann war ich dann auch wundgelegen“",
+      "teaser": "Handball-Nationaltorwart Andreas Wolff konnte weder sitzen noch liegen – zu stark waren die Schmerzen, die der Bandscheibenvorfall verursachte. Jetzt will sich der 32-Jährige zurückkämpfen. Im Interview spricht er über seine Reha und die Heim-EM im Januar.",
+      "url": "https://www.welt.de/sport/handball/",
+      "image_url": "https://img.welt.de/img/sport/handball/mobile247817904/2117932947-ci23x11-w20/Deutschland-Daenemark-EHF-EURO-Cup.jpg",
+      "image_title": "Die Diagnose bei Handball-Nationaltorwart Andreas Wolff: Ein Bandscheibenvorfall oben an der Halswirbelsäule zwischen C6 und C7, der in die Schulter ausstrahlt",
+      "author": "Dirk Weitzmann"
+    },
+    {
       "title": "Füchse marschieren an die Spitze – Berlins Kantersieg gegen Erlangen im Video",
       "teaser": "Die Füchse Berlin gewinnen auch ihr achtes Saisonspiel und bleiben damit weiter ohne Punktverlust. Trotz einer zerfahrenen Anfangsphase steht am Ende ein deutlicher Sieg gegen Erlangen. Sehen Sie die Highlights der Partie hier im Video.",
       "url": "https://www.welt.de/sport/handball/",
@@ -242,13 +250,6 @@
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/sport/mobile247796582/5007931387-ci23x11-w20/Filip-Jicha.jpg",
       "image_title": "Selbst die Gardinenpredigt zur Pause half nicht: Kiels Trainer Filip Jicha wundert sich"
-    },
-    {
-      "title": "Schon früh in der Saison kommt es zu einem brisanten Duell",
-      "teaser": "Mit Siegen in der Champions League haben sich der SC Magdeburg und der THW Kiel auf das direkte Bundesligaduell eingestimmt. Für beide Mannschaften ist ein Erfolg in der Liga jetzt enorm wichtig. Das Duell ist diesmal noch brisanter als sonst schon.",
-      "url": "https://www.welt.de/sport/handball/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile247723790/1967939917-ci23x11-w20/THW-Kiel-vs-Pick-Szeged-Handball-Champions-League-Spieltag-2.jpg",
-      "image_title": "Für die Kieler um Niclas Ekberg spricht die jüngste Bilanz"
     },
     {
       "title": "Fast bewusstlose Fahrer, die sich in ihre Helme übergeben",
@@ -270,6 +271,13 @@
       "url": "https://www.welt.de/sport/formel1/",
       "image_url": "https://img.welt.de/img/sport/formel1/mobile247880542/3207930487-ci23x11-w20/F1-Grand-Prix-of-Qatar-Sprint.jpg",
       "image_title": "Max Verstappen zum Dritten - der Niederländer verteidigt seinen WM-Titel in der Formel 1"
+    },
+    {
+      "title": "Ehemaliger Wasserball-Bundestrainer stirbt auf Rückweg aus China im Flugzeug",
+      "teaser": "Der deutsche Schwimmsport trauert um einen seiner ehemaligen Bundestrainer. Petar Porobic ist im Alter von 66 Jahren während der Rückreise von China nach Europa gestorben. Der Deutsche Schwimm-Verband würdigt ihn als „starke Persönlichkeit“.",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile247936226/1497933377-ci23x11-w20/SP-JAPAN-FUKUOKA-WORLD-AQUATICS-CHAMPIONSHIPS-WATER-POLO-CHINA-V.jpg",
+      "image_title": "(SP)JAPAN-FUKUOKA-WORLD AQUATICS CHAMPIONSHIPS-WATER POLO-CHINA VS CANADA"
     },
     {
       "title": "„Ich finde es teilweise respektlos, wie wir mit unseren Nationalhelden umgehen“",
@@ -439,13 +447,6 @@
       "image_title": "GYMNASTICS-WORLD-2023-MEN-PARALLEL"
     },
     {
-      "title": "Schalke verliert auch Krisenduell gegen Hertha, neuer CEO soll feststehen",
-      "teaser": "Schalke 04 rutscht immer weiter in den Abstiegskampf der 2. Bundesliga. Gegen Hertha BSC verlieren die Königsblauen trotz zahlreicher Chancen verdient. Derweil soll der neue Vorstandsvorsitzende des Revierclubs feststehen.",
-      "url": "https://www.welt.de/sport/fussball/",
-      "image_url": "https://img.welt.de/img/sport/fussball/mobile247887998/9447936867-ci23x11-w20/FC-Schalke-04-v-Hertha-BSC-Second-Bundesliga.jpg",
-      "image_title": "FC Schalke 04 v Hertha BSC - Second Bundesliga"
-    },
-    {
       "title": "„Zwischen Bewegungsmangel und Infektion besteht ein direkter Zusammenhang“",
       "teaser": "Die Lebenserwartung der Deutschen sinkt seit 2012, sagt Prof. Dr. Axel Haverich und nennt die Gründe für den körperlichen Verfall. Der renommierte Herz-Spezialist erklärt, wie jeder mit wenigen und einfachen Umstellungen Herz und Gefäße schützen kann.",
       "url": "https://www.welt.de/sport/fitness/plus247727690/Herz-Spezialist-Zwischen-Bewegungsmangel-und-Infektion-besteht-ein-direkter-Zusammenhang.html",
@@ -588,6 +589,14 @@
       "image_title": "FC Augsburg v SV Darmstadt 98 - Bundesliga"
     },
     {
+      "title": "Wie die Berliner Jungstars die Liga aufmischen",
+      "url": "https://www.welt.de/sport/handball/article247935838/Fuechse-Berlin-Wie-die-Jungstars-die-Handball-Bundesliga-aufmischen.html"
+    },
+    {
+      "title": "Nagelsmann sortiert den heimlichen Star der Amazon-Doku aus",
+      "url": "https://www.welt.de/sport/fussball/article247931674/Nationalelf-Nagelsmann-sortiert-heimlichen-Star-der-Amazon-Doku-aus.html"
+    },
+    {
       "title": "Trotz Draisaitl-Treffer: Auftaktpleite für Oilers in NHL",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article247950896/Trotz-Draisaitl-Treffer-Auftaktpleite-fuer-Oilers-in-NHL.html"
     },
@@ -620,8 +629,8 @@
       "url": "https://www.welt.de/sport/article247942588/Spielbetrieb-eingestellt-Makkabi-Chef-Absolute-Niederlage-Deutschlands.html"
     },
     {
-      "title": "SV Lippstadt 08 - Borussia Mönchengladbach II",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945164/SV-Lippstadt-08-Borussia-Moenchengladbach-II-Kann-Gladbach-den-Lauf-ausbauen-Regionalliga-West.html"
+      "title": "Fortuna Düsseldorf II - 1. FC Bocholt",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945184/Fortuna-Duesseldorf-II-1-FC-Bocholt-1-FC-Bocholt-im-Aufwaertstrend-Regionalliga-West.html"
     },
     {
       "title": "FC St. Pauli II - FC Teutonia 05 Ottensen",
@@ -632,8 +641,8 @@
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-suedwest/article247945148/KSV-Hessen-Kassel-SGV-Freiberg-Bleibt-Freiberg-dem-Erfolg-treu-Regionalliga-Suedwest.html"
     },
     {
-      "title": "Fortuna Düsseldorf II - 1. FC Bocholt",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945184/Fortuna-Duesseldorf-II-1-FC-Bocholt-1-FC-Bocholt-im-Aufwaertstrend-Regionalliga-West.html"
+      "title": "SV Lippstadt 08 - Borussia Mönchengladbach II",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945164/SV-Lippstadt-08-Borussia-Moenchengladbach-II-Kann-Gladbach-den-Lauf-ausbauen-Regionalliga-West.html"
     },
     {
       "title": "SpVgg Unterhaching - SV Sandhausen",
@@ -644,10 +653,6 @@
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945144/Rot-Weiss-Oberhausen-Wuppertaler-SV-Fortsetzung-fuer-die-Erfolgsserie-von-Oberhausen-Regionalliga-West.html"
     },
     {
-      "title": "FC Gütersloh - 1. FC Düren",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945170/FC-Guetersloh-1-FC-Dueren-Dueren-peilt-den-Dreier-an-Regionalliga-West.html"
-    },
-    {
       "title": "SC Verl - FC Ingolstadt 04",
       "url": "https://www.welt.de/sport/fussball/3-liga/article247945142/SC-Verl-FC-Ingolstadt-04-Verl-weiter-auf-der-Erfolgsspur-3-Liga.html"
     },
@@ -656,16 +661,16 @@
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945200/SSVg-Velbert-FC-Schalke-04-II-Baut-Schalke-die-Erfolgsserie-aus-Regionalliga-West.html"
     },
     {
-      "title": "FC Viktoria Köln - FC Erzgebirge Aue",
-      "url": "https://www.welt.de/sport/fussball/3-liga/article247945190/FC-Viktoria-Koeln-FC-Erzgebirge-Aue-Heimmacht-FC-Viktoria-Koeln-3-Liga.html"
-    },
-    {
       "title": "1. FSV Mainz 05 II - FC Astoria Walldorf",
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-suedwest/article247945204/1-FSV-Mainz-05-II-FC-Astoria-Walldorf-Kellerduell-am-Samstag-Regionalliga-Suedwest.html"
     },
     {
-      "title": "Eintracht Frankfurt U21 - TSV Schott Mainz",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-suedwest/article247945160/Eintracht-Frankfurt-U21-TSV-Schott-Mainz-TSV-Schott-Mainz-Punkte-muessen-her-Regionalliga-Suedwest.html"
+      "title": "FC Gütersloh - 1. FC Düren",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945170/FC-Guetersloh-1-FC-Dueren-Dueren-peilt-den-Dreier-an-Regionalliga-West.html"
+    },
+    {
+      "title": "FC Viktoria Köln - FC Erzgebirge Aue",
+      "url": "https://www.welt.de/sport/fussball/3-liga/article247945190/FC-Viktoria-Koeln-FC-Erzgebirge-Aue-Heimmacht-FC-Viktoria-Koeln-3-Liga.html"
     },
     {
       "title": "SV Stuttgarter Kickers - FSV Frankfurt",
@@ -674,6 +679,10 @@
     {
       "title": "TSV Alemannia Aachen - FC Wegberg-Beeck 1920",
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-west/article247945192/TSV-Alemannia-Aachen-FC-Wegberg-Beeck-1920-Aachen-will-weiter-Boden-gutmachen-Regionalliga-West.html"
+    },
+    {
+      "title": "Eintracht Frankfurt U21 - TSV Schott Mainz",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-suedwest/article247945160/Eintracht-Frankfurt-U21-TSV-Schott-Mainz-TSV-Schott-Mainz-Punkte-muessen-her-Regionalliga-Suedwest.html"
     },
     {
       "title": "SSV Jahn Regensburg - VfB Lübeck",
@@ -692,20 +701,12 @@
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nord/article247945154/VfB-Oldenburg-SC-Spelle-Venhaus-SCSV-unter-Zugzwang-Regionalliga-Nord.html"
     },
     {
-      "title": "Blau-Weiß Lohne - FC Eintracht Norderstedt",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nord/article247943482/Blau-Weiss-Lohne-FC-Eintracht-Norderstedt-Gelingt-Lohne-die-Trendwende-Regionalliga-Nord.html"
-    },
-    {
       "title": "Hannover 96 II - Bremer SV",
       "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nord/article247943486/Hannover-96-II-Bremer-SV-Kann-Hannover-den-Erfolgstrend-weiter-fortzsetzen-Regionalliga-Nord.html"
     },
     {
-      "title": "F.C. Hansa Rostock U23 - FSV 63 Luckenwalde",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nordost/article247943480/F-C-Hansa-Rostock-U23-FSV-63-Luckenwalde-Hansa-hat-Punkte-dringend-noetig-Regionalliga-Nordost.html"
-    },
-    {
-      "title": "1. FC Phönix Lübeck - Hamburger SV II",
-      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nord/article247943490/1-FC-Phoenix-Luebeck-Hamburger-SV-II-Luebeck-will-Erfolgsserie-ausbauen-Regionalliga-Nord.html"
+      "title": "Blau-Weiß Lohne - FC Eintracht Norderstedt",
+      "url": "https://www.welt.de/sport/fussball/regionalliga/regionalliga-nord/article247943482/Blau-Weiss-Lohne-FC-Eintracht-Norderstedt-Gelingt-Lohne-die-Trendwende-Regionalliga-Nord.html"
     }
   ]
 }
