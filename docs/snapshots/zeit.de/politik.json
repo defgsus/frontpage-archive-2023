@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-16T05:11:23",
+  "timestamp": "2023-10-16T06:15:51",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
-      "title": "Israel-Überblick : UN sieht Nahost \"am Rande des Abgrunds\", Abbas auf Abstand zu Hamas",
-      "teaser": "Guterres nimmt beide Kriegsparteien in die Pflicht: Geiseln müssten frei kommen und Hilfe zugelassen werden. Palästinenserpräsident Abbas verurteilt die Hamas. Die Nacht",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/ueberblick-israel-gazastreifen-nahost-un-verurteilung-zivilisten-geiseln-palaestinenserpraesient",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ueberblick-israel-gazastreifen-nahost-un-verurteilung-zivilisten-geiseln-palaestinenserpraesient-bild/cinema__980x420"
+      "title": "Ukraine-Karte aktuell: Russland gelingt kein Durchbruch bei Awdijiwka",
+      "teaser": "Russland versucht, die ukrainische Stadt Awdijiwka einzukesseln – bislang ohne Erfolg. Die Ukraine rückt bei Bachmut geringfügig vor.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/cinema__980x420"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Hisbollah: Umzingelt",
+      "teaser": "Israel hat es nicht nur mit der Hamas im Süden zu tun, auch die Attacken der Hisbollah im Norden nehmen zu. Wie wahrscheinlich ist ein Mehrfrontenkrieg?",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/hisbollah-libanon-israel-mehrfrontenkrieg-nahost",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/hisbollah-libanon-israel-mehrfrontenkrieg-nahost-bild/wide__822x462",
+      "image_title": "Hisbollah: Umzingelt"
     },
     {
       "title": "Parlamentswahl in Polen: Ein großer Erfolg für die polnische Opposition",
@@ -61,13 +68,6 @@
       "url": "https://www.zeit.de/politik/2023-10/parlamentswahl-polen-pis-nachrichtenpodcast",
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Parlamentswahl in Polen: Ein großer Erfolg für die polnische Opposition"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Polen: Mehr Erleichterung als Party",
-      "teaser": "Übernimmt die Opposition in Polen von der PiS? Die Möglichkeit besteht. Doch erste Euphorie weicht schnell der Sorge um einen friedlichen Machtwechsel.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-pis-opposition-euphorie-erleichterung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-jubel-ergebnisse-2/wide__822x462",
-      "image_title": "Parlamentswahl in Polen: Mehr Erleichterung als Party"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gerhard Conrad über die Hamas: \"Für Israel ist das ein Armageddon\"",
@@ -100,8 +100,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-10/ard-deutschlandtrend-umfrage-wahl-stimmung-ampel-parteien"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hilfe für Palästinenser: Wohin fließt deutsches Geld?",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/palaestinenser-hilfsgelder-svenja-schulze-annalena-baerbock-union"
+      "title": "Parlamentswahl in Polen: Opposition reklamiert Wahlsieg – Regierungspartei PiS stärkste Kraft",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/prognose-polens-regierungspartei-pis-bei-parlamentswahl-vorn"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wladimir Putin: Russland kämpft im Windschatten der Hamas",
@@ -120,8 +120,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-10/israel-ueberblick-libanon-gazastreifen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hilfe für Palästinenser: Wohin fließt deutsches Geld?",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/palaestinenser-hilfsgelder-svenja-schulze-annalena-baerbock-union"
+      "title": "Parlamentswahl in Polen: Opposition reklamiert Wahlsieg – Regierungspartei PiS stärkste Kraft",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/prognose-polens-regierungspartei-pis-bei-parlamentswahl-vorn"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Geschichte des Nahostkonflikts: Kampf ohne Ende",
@@ -162,17 +162,31 @@
       "image_title": "Waffen der Hamas : Sie kamen mit Paraglidern und Baggern"
     },
     {
+      "title": "Israel-Überblick : UN sieht Nahost \"am Rande des Abgrunds\", Abbas auf Abstand zu Hamas",
+      "teaser": "Guterres nimmt beide Kriegsparteien in die Pflicht: Geiseln müssten frei kommen und Hilfe zugelassen werden. Palästinenserpräsident Abbas verurteilt die Hamas. Die Nacht",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/ueberblick-israel-gazastreifen-nahost-un-verurteilung-zivilisten-geiseln-palaestinenserpraesient",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ueberblick-israel-gazastreifen-nahost-un-verurteilung-zivilisten-geiseln-palaestinenserpraesient-bild/cinema__980x420",
+      "image_title": "Israel-Überblick : UN sieht Nahost \"am Rande des Abgrunds\", Abbas auf Abstand zu Hamas"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Polen: Mehr Erleichterung als Party",
+      "teaser": "Übernimmt die Opposition in Polen von der PiS? Die Möglichkeit besteht. Doch erste Euphorie weicht schnell der Sorge um einen friedlichen Machtwechsel.",
+      "url": "https://www.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-pis-opposition-euphorie-erleichterung",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-jubel-ergebnisse-2/wide__822x462",
+      "image_title": "Parlamentswahl in Polen: Mehr Erleichterung als Party"
+    },
+    {
       "title": "Großbritannien: Minister will Gefängnisse durch schnellere Abschiebungen entlasten",
       "teaser": "Britische Gefängnisse stoßen an ihre Kapazitätsgrenzen. Als Teil einer Justizreform will der zuständige Minister Alex Chalk ausländische Straftäter früher abschieben.",
       "url": "https://www.zeit.de/kultur/film/2023-10/grossbritannien-gefaengnis-justizreform-abschiebung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/grossbritannien-haftanstalt-wandsworth/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/grossbritannien-haftanstalt-wandsworth/wide__822x462",
       "image_title": "Großbritannien: Minister will Gefängnisse durch schnellere Abschiebungen entlasten"
     },
     {
       "title": "Ecuador: Junger Unternehmer Daniel Noboa gewinnt Präsidentschaftswahl",
       "teaser": "Der 35-Jährige Noboa war mit dem Versprechen angetreten, die Wirtschaft zu verbessern – nun hat er laut erster Auszählungen gewonnen. Er wäre Ecuadors jüngster Präsident.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/prsidentschaftswahl-ecuador-daniel-noboa-gewinner",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ecuador-wahl-sieger-daniel-noboa/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/ecuador-wahl-sieger-daniel-noboa/cinema__980x420",
       "image_title": "Ecuador: Junger Unternehmer Daniel Noboa gewinnt Präsidentschaftswahl"
     },
     {
@@ -186,14 +200,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Parlamentswahl in Polen: Auch ein Verlierer kann noch gewinnen",
       "teaser": "Die Regierungspartei PiS hat laut Prognosen die polnische Parlamentswahl gewonnen. Dennoch könnte die Wahl für die Opposition rund um Donald Tusk noch gut ausgehen.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/polen-wahl-hochrechnungen-kaczynski-tusk",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-pis-tusk-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-pis-tusk-bild/wide__822x462",
       "image_title": "Parlamentswahl in Polen: Auch ein Verlierer kann noch gewinnen"
     },
     {
       "title": "Gazastreifen: Bundesregierung hat laut Baerbock keinen Kontakt zu Geiseln",
       "teaser": "Unter den Geiseln der Hamas im Gazastreifen sind auch mehrere Deutsche. Direkter Kontakt zu ihnen besteht nach Angaben der Außenministerin bislang nicht.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/lage-israel-geiseln-bundesregierung-annalena-baerbock-anne-will",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/annalena-baerbock-bundesregierung-geiseln-hamas/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/annalena-baerbock-bundesregierung-geiseln-hamas/cinema__980x420",
       "image_title": "Gazastreifen: Bundesregierung hat laut Baerbock keinen Kontakt zu Geiseln"
     },
     {
@@ -207,14 +221,14 @@
       "title": "Liveblog: Ukraine-Krieg: Selenskyj warnt vor neuen russischen Angriffen auf die Infrastruktur",
       "teaser": "Selenskyj hat vor erneuten Angriffen Russlands gegen ukrainische Energieinfrastruktur im Winter gewarnt. Die Ukraine meldet russischen Beschuss von Cherson. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/ukraine-blog-wolodymyr-selenskyj-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-10/ukraine-blog-wolodymyr-selenskyj-bild/wide__822x462",
       "image_title": "Ukraine-Krieg: Selenskyj warnt vor neuen russischen Angriffen auf die Infrastruktur"
     },
     {
       "title": "Israel-Überblick: Massenflucht im Gazastreifen, Iran droht Israel",
       "teaser": "600.000 Palästinenser sollen aus dem nördlichen Gazastreifen in den Süden geflohen sein. Irans Außenminister hat den Chef der Hamas getroffen – und warnt Israel. Der Tag",
       "url": "https://www.zeit.de/politik/ausland/2023-10/israel-ueberblick-flucht-gazastreifen-iran-wasser",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-wasser/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-wasser/cinema__980x420",
       "image_title": "Israel-Überblick: Massenflucht im Gazastreifen, Iran droht Israel"
     },
     {
@@ -228,7 +242,7 @@
       "title": "Parlamentswahl in Polen: Großer Andrang bei Parlamentswahl in Polen",
       "teaser": "Polen wählt zwei neue Parlamentskammern. Rund 29 Millionen Wahlbeteiligte waren zur Stimmabgabe aufgerufen, bis zum Mittag war ein großer Andrang erkennbar.",
       "url": "https://www.zeit.de/politik/ausland/2023-10/polen-parlamentswahl-stimmabgabe-wahlbeteiligung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/polen-wahl-beteiligung/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/polen-wahl-beteiligung/wide__822x462",
       "image_title": "Parlamentswahl in Polen: Großer Andrang bei Parlamentswahl in Polen"
     },
     {
@@ -258,20 +272,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-10/geschichte-nahostkonflikt-israel-palaestinenser-faq",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/geschichte-nahostkonflikt-israel-palaestinenser/wide__822x462",
       "image_title": "Geschichte des Nahostkonflikts: Kampf ohne Ende"
-    },
-    {
-      "title": "Krieg in Israel: Israel richtet Pufferzone an der Grenze zum Libanon ein",
-      "teaser": "Die Lage im Norden Israels ist angespannt. Raketen aus dem Libanon töten einen Mann. Israel reagiert mit Beschuss auf Hisbollah-Standorte und richtet eine Pufferzone ein.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/israel-krieg-hisbollah-libanon-grenze",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-libanon-krieg-gazastreifen/wide__822x462",
-      "image_title": "Krieg in Israel: Israel richtet Pufferzone an der Grenze zum Libanon ein"
-    },
-    {
-      "title": "Gewalt in Frankreich: Ein nervöses Land",
-      "teaser": "Bombendrohungen gegen Museen und eine islamistische Messerattacke: Der Krieg im Nahen Osten führt auch in Frankreich zu Gewalt. Der Konflikt schwelt dort schon lange.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/gewalt-frankreich-islamismus-israel-hamas-krieg",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/gewalt-frankreich-islamismus-israel-hamas/wide__822x462",
-      "image_title": "Gewalt in Frankreich: Ein nervöses Land"
     },
     {
       "title": "Migrationsdebatte: Scholz nach ersten Gesprächen über Migrationspolitik zuversichtlich",
