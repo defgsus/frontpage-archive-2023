@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-16T08:15:53",
+  "timestamp": "2023-10-16T09:12:51",
   "url": "https://www.welt.de/kultur/",
   "response": {
     "status": 200
@@ -26,9 +26,17 @@
   ],
   "articles": [
     {
-      "title": "Digital arbeiten – „Ich glaube, dass uns das unglücklich macht“",
+      "title": "Die Revolution ist gescheitert",
+      "teaser": "„Hamilton“, ein Rap-Musical über einen der Gründerväter der USA, verabschiedet sich schon wieder aus Hamburg. Nach einem Jahr wurde das Megaprojekt abgesetzt. Warum interessiert sich das deutsche Publikum nicht für große Politik?",
+      "url": "https://www.welt.de/kultur/theater/article248008916/Musical-Hamilton-Die-Revolution-ist-gescheitert.html",
+      "image_url": "https://img.welt.de/img/kultur/mobile248013590/3497939467-ci23x11-w20/Musicalbranche-blickt-optimistisch-in-die-Zukunft.jpg",
+      "image_title": "Gino Emnes als Aaron Burr",
+      "author": "Jakob Hayner"
+    },
+    {
+      "title": "„Das ist eine Krankheit unserer Zeit und Welt“",
       "teaser": "Die weltweit erfolgreichste deutsche Kinderbuchautorin wohnt in der Toskana. Hier erzählt Cornelia Funke, über welche Verfilmung sie sich am meisten geärgert hat, was am glücklichsten macht, und warum sie nicht nach Deutschland zurückkehrt.",
-      "url": "https://www.welt.de/kultur/",
+      "url": "https://www.welt.de/kultur/plus247830660/Cornelia-Funke-Das-ist-eine-Krankheit-unserer-Zeit-und-Welt.html",
       "image_url": "https://img.welt.de/img/kultur/mobile247989208/8117935257-ci23x11-w20/honorarpflichtig-EINMAL-VWB-25-2.jpg",
       "image_title": "Hausherrin und Hund: Cornelia Funke in der Toskana",
       "author": "Marie-Luise Goldmann"
@@ -48,14 +56,6 @@
       "image_url": "https://img.welt.de/img/kultur/mobile248010268/5167935987-ci23x11-w20/Kombo-Schriftsteller-Slowenien.jpg",
       "image_title": "Slowenische Höhepunkte: Goran Vojnović, Drago Jančar, Maruša Krese",
       "author": "Richard Kämmerlings"
-    },
-    {
-      "title": "Die ganz große Schweinerei",
-      "teaser": "Liegt der Bauer tot im Koben, hört man schon die Schweine toben: Im neuen „Tatort“ wird das Wiener Team aufs Land geschickt. Zwischen Agrarmonopolisten, Mastbetriebsbetreibern und Tierschutzaktivisten. Ein Film, so voll mit Themen wie ein Stall mit Schweinen.",
-      "url": "https://www.welt.de/kultur/",
-      "image_url": "https://img.welt.de/img/kultur/mobile248011498/6937934747-ci23x11-w20/Tatort.jpg",
-      "image_title": "Der Moritz und die Bibi auf dem Schweinehof",
-      "author": "Elmar Krekeler"
     },
     {
       "title": "Warum im Pergamonmuseum Kunst zerlegt wird",
@@ -125,6 +125,14 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Die ganz große Schweinerei",
+      "teaser": "Liegt der Bauer tot im Koben, hört man schon die Schweine toben: Im neuen „Tatort“ wird das Wiener Team aufs Land geschickt. Zwischen Agrarmonopolisten, Mastbetriebsbetreibern und Tierschutzaktivisten. Ein Film, so voll mit Themen wie ein Stall mit Schweinen.",
+      "url": "https://www.welt.de/kultur/",
+      "image_url": "https://img.welt.de/img/kultur/mobile248011498/6937934747-ci23x11-w20/Tatort.jpg",
+      "image_title": "Der Moritz und die Bibi auf dem Schweinehof",
+      "author": "Elmar Krekeler"
+    },
+    {
       "title": "Die Geheimnisse der Taylor Swift – von ihr selber erzählt",
       "teaser": "Taylor Swifts gigantomane „Eras“-Tour füllt die Stadien – und ab jetzt füllt sie auch die Kinosäle. In knapp drei Stunden geht es um die Frage, wie Taylor Swift wurde, wer sie ist. Und vielleicht auch ein bisschen darum, wie man es schafft, dass einem gar nichts peinlich ist.",
       "url": "https://www.welt.de/kultur/kino/",
@@ -155,14 +163,6 @@
       "image_url": "https://img.welt.de/img/kultur/mobile247956380/8977932757-ci23x11-w20/WS-Kultur-Festival-de-Cannes-2023-Fi-3.jpg",
       "image_title": "Anselm Kiefer für sich allein",
       "author": "Marie-Luise Goldmann"
-    },
-    {
-      "title": "Wenn Mädchen eine Jungsgeschichte aufmischen",
-      "teaser": "Im Durchschnitt alle zwanzig Jahre wird Erich Kästners „Das fliegende Klassenzimmer“ von 1933 neu verfilmt. Caroline Hellsgård hat es jetzt als erste Frau getan. Diverser war die Geschichte von Freundschaft und Loyalität nie. Aber funktioniert sie so noch?",
-      "url": "https://www.welt.de/kultur/kino/",
-      "image_url": "https://img.welt.de/img/kultur/kino/mobile247928614/1847937797-ci23x11-w20/Filmausschnitt-von-Das-fliegende-Klasse.jpg",
-      "image_title": "Martina Thaler (Leni Deschner, li.) und Jo Trotz (Lovena Börschmann)",
-      "author": "Elmar Krekeler"
     },
     {
       "title": "Moderne Frauen werden noch immer übersehen",
@@ -400,6 +400,14 @@
       "author": "Mara Delius"
     },
     {
+      "title": "Wenn Mädchen eine Jungsgeschichte aufmischen",
+      "teaser": "Im Durchschnitt alle zwanzig Jahre wird Erich Kästners „Das fliegende Klassenzimmer“ von 1933 neu verfilmt. Caroline Hellsgård hat es jetzt als erste Frau getan. Diverser war die Geschichte von Freundschaft und Loyalität nie. Aber funktioniert sie so noch?",
+      "url": "https://www.welt.de/kultur/kino/",
+      "image_url": "https://img.welt.de/img/kultur/kino/mobile247928614/1847937797-ci23x11-w20/Filmausschnitt-von-Das-fliegende-Klasse.jpg",
+      "image_title": "Martina Thaler (Leni Deschner, li.) und Jo Trotz (Lovena Börschmann)",
+      "author": "Elmar Krekeler"
+    },
+    {
       "title": "„Hanneli, bist das wirklich du?“ – „Ja, ja, Anne, ich bin es!“",
       "teaser": "In Amsterdam war Anne Frank ihre beste Freundin, im Lager Bergen-Belsen sahen sie sich wieder. Kurz vor ihrem Tod hat Hannah Pick-Goslar für ihr Buch „Meine Freundin Anne Frank“ davon erzählt. Wir dokumentieren ihre Schilderung dieses Tags im Februar 1945, wenige Wochen vor Annes Tod.",
       "url": "https://www.welt.de/kultur/plus247923310/Anne-Frank-in-Bergen-Belsen-Hanneli-bist-das-wirklich-du.html",
@@ -422,14 +430,6 @@
       "image_url": "https://img.welt.de/img/kultur/kunst-und-architektur/mobile247938142/8367939507-ci23x11-w20/Ausstellung-Koenig-Ludwig-I-Sehnsucht-Pfalz.jpg",
       "image_title": "LIebte Säulen, Tempel und die Antike: Ludwig I.",
       "author": "Dankwart Guratzsch"
-    },
-    {
-      "title": "Rammstein wird nie wieder Rammstein sein",
-      "teaser": "Kaum hat sich die Sexismus-Debatte um Till Lindemann und Rammstein beruhigt, kündigt die Band eine Tournee durch Europa an. Es gibt sicher gute Gründe dafür, weiterzumachen – aber auch einen entscheidenden, es zu lassen.",
-      "url": "https://www.welt.de/kultur/pop/article247933698/Europa-Stadion-Tour-2024-Rammstein-wird-nie-wieder-Rammstein-sein.html",
-      "image_url": "https://img.welt.de/img/kultur/pop/mobile247936610/8777931797-ci23x11-w20/Rammstein-Perform-in-Cape-Town.jpg",
-      "image_title": "Rammstein im Konzert",
-      "author": "Michael Pilz"
     },
     {
       "title": "„Jede gute Kunst ist Antikriegskunst“ – Die WELT des Daniel Richter",

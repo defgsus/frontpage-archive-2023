@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-16T08:15:40",
+  "timestamp": "2023-10-16T09:12:40",
   "url": "https://www.faz.net/aktuell/finanzen/",
   "response": {
     "status": 200
@@ -230,8 +230,14 @@
   ],
   "articles": [
     {
-      "title": "Schuldscheine, Baufinanzierung : Der Zinsschock wirkt vielerorts",
-      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/der-zinsschock-wirkt-vielerorts-19236540.html",
+      "title": "Immobilienmarkt : Deutschlands Immobilienfinanzierer bremsen beim Neugeschäft",
+      "url": "https://www.faz.net/aktuell/finanzen/deutschlands-immobilienfinanzierer-bremsen-neugeschaeft-19246296.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Wird weniger finanziert, dann wird auch weniger gebaut: schon fertige Neubausiedlung"
+    },
+    {
+      "title": "Anleihen, Festgeld und Co. : Der Zinsschock wirkt vielerorts",
+      "url": "https://www.faz.net/aktuell/finanzen/finanzmarkt/der-zinsschock-wirkt-vielerorts-anleihen-festgeld-und-co-19236540.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Produktion von Porsche: Der Autohersteller hat mit Schuldscheinen im März die Rekordsumme von 2,7 Milliarden Euro eingenommen."
     },
@@ -240,12 +246,6 @@
       "url": "https://www.faz.net/aktuell/finanzen/grosshandelspreise-mit-staerkstem-rueckgang-seit-mehr-als-drei-jahren-19246136.html",
       "image_url": "https://www.faz.net/img/leer.gif",
       "image_title": "Der Benzinpreis hat einen großen Einfluss auf die Großhandelspreise."
-    },
-    {
-      "title": "Dax : Wie der Kanzlerzyklus den Aktienmarkt beeinflusst",
-      "url": "https://www.faz.net/aktuell/finanzen/dax-so-beeinflusst-der-kanzlerzyklus-den-aktienmarkt-19238242.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Beeinflusst den Dax: Bundeskanzler Olaf Scholz (SPD)"
     },
     {
       "title": "Altersvorsorge : Machen statt Meckern",
@@ -284,6 +284,12 @@
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
+      "title": "Dax : Wie der Kanzlerzyklus den Aktienmarkt beeinflusst",
+      "url": "https://www.faz.net/aktuell/finanzen/dax-so-beeinflusst-der-kanzlerzyklus-den-aktienmarkt-19238242.html",
+      "image_url": "https://www.faz.net/img/leer.gif",
+      "image_title": "Beeinflusst den Dax: Bundeskanzler Olaf Scholz (SPD)"
+    },
+    {
       "title": "Die Liebe und das Geld : Teure Trennung",
       "url": "https://www.faz.net/aktuell/finanzen/teure-trennung-wer-bekommt-das-haus-wer-die-aktien-19241626.html",
       "image_url": "https://www.faz.net/img/leer.gif",
@@ -309,17 +315,11 @@
     },
     {
       "title": "F.A.S. exklusiv : Viele Makler verdienen zu viel",
-      "url": "https://www.faz.net/aktuell/finanzen/die-makler-kassieren-zu-viel-19241451.html",
-      "image_url": "https://www.faz.net/img/leer.gif",
-      "image_title": "Präsentation einer Wohnung in Berlin (Symbolbild)"
+      "url": "https://www.faz.net/aktuell/finanzen/die-makler-kassieren-zu-viel-19241451.html"
     },
     {
       "title": "Statt Fixierung aufs Tagesgeld : Sparkassen-Präsident rät zu langfristigen Anlagen",
       "url": "https://www.faz.net/aktuell/finanzen/sparkassen-chef-schleweis-raet-zu-langfristigen-anlagen-statt-tagesgeld-19243439.html"
-    },
-    {
-      "title": "Alternative Investments : 6 Prozent Rendite mit Wald",
-      "url": "https://www.faz.net/aktuell/finanzen/alternative-investments-6-prozent-rendite-mit-wald-19236541.html"
     },
     {
       "title": "FAZ.NET Marktübersicht : Alles im Blick",
@@ -406,15 +406,21 @@
       "image_title": "Bei den Nahrungsmitteln bleibt das Preisniveau hoch, auch wenn sinkende Teuerungsraten uns einen anderen Eindruck vermitteln könnten."
     },
     {
+      "title": "Kostenlose Immobilienbewertung : Wir wissen, dass wahrer Luxus ein schönes Zuhause ist.",
+      "teaser": "Immobilien :",
+      "url": "https://immobilienmarkt.faz.net/immobilienbewertung?utm_source=faz&utm_medium=verlagsbox&utm_campaign=immobilienbewertung",
+      "image_url": "https://www.faz.net/img/leer.gif"
+    },
+    {
       "title": "Baufinanzierung 2023 : Das Investment meines Lebens",
       "teaser": "Immobilien :",
       "url": "https://immobilienmarkt.faz.net/baufinanzierung?utm_source=faz&utm_medium=immobilienmarkt&utm_campaign=baufinanzierung",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
-      "title": "Kostenlose Immobilienbewertung : Wir wissen, dass wahrer Luxus ein schönes Zuhause ist.",
-      "teaser": "Immobilien :",
-      "url": "https://immobilienmarkt.faz.net/immobilienbewertung?utm_source=faz&utm_medium=verlagsbox&utm_campaign=immobilienbewertung",
+      "title": "Hausnotruf der Johanniter : Für ein sicheres Leben in den eigenen vier Wänden",
+      "teaser": "Services :",
+      "url": "https://50plus.faz.net/die-vorteile-der-johanniter/?utm_source=faz&utm_medium=immobilien&utm_campaign=hausnotruf",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
@@ -427,12 +433,6 @@
       "title": "F.A.Z. Selection : Exklusive Wegbegleiter und Wohnaccessoires",
       "teaser": "Immobilien :",
       "url": "https://shop.faz.net/selection/wohnen/?campID=BA_FAZNET_SEC_na_na_na_na_na_na_slider-wohnen_na&utm_source=faznet&utm_medium=banner&utm_campaign=SEC_SEC_BA_FAZnet_na_slider-wohnen_na_na_&utm_term=faznet",
-      "image_url": "https://www.faz.net/img/leer.gif"
-    },
-    {
-      "title": "Hausnotruf der Johanniter : Für ein sicheres Leben in den eigenen vier Wänden",
-      "teaser": "Services :",
-      "url": "https://50plus.faz.net/die-vorteile-der-johanniter/?utm_source=faz&utm_medium=immobilien&utm_campaign=hausnotruf",
       "image_url": "https://www.faz.net/img/leer.gif"
     },
     {
