@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-16T11:09:34",
+  "timestamp": "2023-10-16T12:22:44",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.97241cd6884ba3417cb3",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.2c1c29112b6a223b04fb",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Royal Elementor Addons and Templates",
+      "url": "https://www.heise.de/news/Wordpress-Uebernahme-durch-Luecke-in-Royal-Elementor-Addons-and-Template-9335615.html"
+    },
     {
       "title": "Samba",
       "url": "https://www.heise.de/news/Samba-Neue-Versionen-beheben-mehrere-Sicherheitsluecken-9335169.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/40-Schwachstellen-in-IBM-Sicherheitsloesung-QRadar-SIEM-geschlossen-9332542.html"
     },
     {
-      "title": "Juniper",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Backdoor-Luecke-bedroht-Netzwerkgeraete-von-Juniper-9332169.html"
+      "title": "Wordpress: Übernahme durch Lücke in Royal Elementor Addons and Template",
+      "teaser": "Im Wordpress-Plug-in Royal Elementor Addons and Template missbrauchen Cyberkriminelle eine kritische Lücke. Sie nutzen sie zur Übernahme von Instanzen.",
+      "url": "https://www.heise.de/news/Wordpress-Uebernahme-durch-Luecke-in-Royal-Elementor-Addons-and-Template-9335615.html"
     },
     {
       "title": "Samba: Neue Versionen beheben mehrere Sicherheitslücken",
@@ -147,11 +152,6 @@
       "teaser": "Nach den guten Erfahrungen mit Rust in Android hat Google nun die Protected Virtual Machine Firmware in Bare-Metal Rust umgesetzt.",
       "url": "https://www.heise.de/news/Noch-mehr-Rust-in-Android-Speichersicherheit-jetzt-auch-auf-Bare-Metal-Ebene-9330945.html",
       "image_title": "Ein grüner Android steht vor dem Google-Hauptquartier (Glasgebäude Hintergrund)"
-    },
-    {
-      "title": "heise Security Webinar: Exchange Online Security optimieren und überwachen",
-      "teaser": "Die Cloud ist kein Garant für Security – wer Exchange Online sicher betreiben will, muss da selbst Hand anlegen. Dieses Webinar zeigt, wo und wie.",
-      "url": "https://www.heise.de/news/heise-Security-Webinar-Exchange-Online-Security-optimieren-und-ueberwachen-9331213.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
