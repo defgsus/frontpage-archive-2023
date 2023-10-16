@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-16T10:12:41",
+  "timestamp": "2023-10-16T11:09:34",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Samba",
+      "url": "https://www.heise.de/news/Samba-Neue-Versionen-beheben-mehrere-Sicherheitsluecken-9335169.html"
+    },
+    {
       "title": "WordPress",
       "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-WordPress-erschienen-und-angreifbares-Plug-in-repariert-9333699.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Backdoor-Luecke-bedroht-Netzwerkgeraete-von-Juniper-9332169.html"
     },
     {
-      "title": "F5 BIG-IP",
-      "url": "https://www.heise.de/news/Patchday-F5-Sicherheitsluecken-in-BIG-IP-ermoeglichen-Angreifern-Codeausfuehrung-9331426.html"
+      "title": "Samba: Neue Versionen beheben mehrere Sicherheitslücken",
+      "teaser": "Durch verschiedene Programmierfehler konnten Angreifer auf geheime Informationen bis hin zum Kerberos-TGT-Passwort zugreifen. Aktualisierungen stehen bereit.",
+      "url": "https://www.heise.de/news/Samba-Neue-Versionen-beheben-mehrere-Sicherheitsluecken-9335169.html",
+      "image_title": "Teaser-Bild samba-Logo"
     },
     {
       "title": "E-Mails an aufgegebene Domains: .nl-Registry warnt mit LEMMINGS",
@@ -146,11 +152,6 @@
       "title": "heise Security Webinar: Exchange Online Security optimieren und überwachen",
       "teaser": "Die Cloud ist kein Garant für Security – wer Exchange Online sicher betreiben will, muss da selbst Hand anlegen. Dieses Webinar zeigt, wo und wie.",
       "url": "https://www.heise.de/news/heise-Security-Webinar-Exchange-Online-Security-optimieren-und-ueberwachen-9331213.html"
-    },
-    {
-      "title": "Ende des Windows Server 2012 R2: Upgrade oder teuer Security-Updates kaufen?",
-      "teaser": "Mit dem Support-Ende des Windows Server 2012 R2 stehen Nutzern viele Migrationsoptionen offen. Aber wie unterscheiden sie sich und welche lohnen sich?",
-      "url": "https://www.heise.de/news/Ende-des-Windows-Server-2012-R2-welche-Optionen-Sie-jetzt-haben-9331193.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
