@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-17T06:15:34",
+  "timestamp": "2023-10-17T07:10:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "IOS XE",
+      "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html"
+    },
+    {
       "title": "Royal Elementor Addons and Templates",
       "url": "https://www.heise.de/news/Wordpress-Uebernahme-durch-Luecke-in-Royal-Elementor-Addons-and-Template-9335615.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-WordPress-erschienen-und-angreifbares-Plug-in-repariert-9333699.html"
     },
     {
-      "title": "IBM QRadar SIEM",
-      "url": "https://www.heise.de/news/40-Schwachstellen-in-IBM-Sicherheitsloesung-QRadar-SIEM-geschlossen-9332542.html"
+      "title": "Cisco: Schwere Sicherheitslücke in IOS XE ermöglicht Netzwerk-Übernahme",
+      "teaser": "Geräte mit IOS XE und Web-UI können von Angreifern ohne Weiteres aus der Ferne übernommen werden. Cisco hat keine Patches, aber Empfehlungen für Betroffene.",
+      "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html",
+      "image_title": "Hacker-Angriff"
+    },
+    {
+      "title": "USA drängt dutzende Regierungen dazu, Lösegeld für Ransomware abzuschwören",
+      "teaser": "Um das Geschäft mit Ransomware auszutrocknen, sollen Staaten sich dazu verpflichten, kein Lösegeld an die Kriminellen mehr zu bezahlen, fordert Washington.",
+      "url": "https://www.heise.de/news/USA-draengt-dutzende-Regierungen-dazu-Loesegeld-fuer-Ransomware-abzuschwoeren-9336074.html",
+      "image_title": "Code in Form eines Totenkopfs und Laptop"
     },
     {
       "title": "iX-Workshop: OWASP Top 10 – Webanwendungen effektiv absichern (Frühbucherrabatt)",
@@ -142,16 +154,6 @@
       "title": "Passwortlos zur nächsten Anmeldung: Google steigt jetzt auf Passkeys um",
       "teaser": "Wer sich das nächste Mal bei Gmail & Co. anmeldet, wird per Default zur passwortlosen Authentifikation und zum Einrichten eines Passkeys aufgefordert.",
       "url": "https://www.heise.de/news/Google-Anmeldung-jetzt-standardmaessig-ohne-Passwort-9331554.html"
-    },
-    {
-      "title": "Patchday F5: Sicherheitslücken in BIG-IP ermöglichen Angreifern Codeausführung",
-      "teaser": "F5 hat mehrere Sicherheitsmeldungen zu Lecks in BIG-IP-Appliances und -Software veröffentlicht. Aktualisierungen stehen bereit.",
-      "url": "https://www.heise.de/news/Patchday-F5-Sicherheitsluecken-in-BIG-IP-ermoeglichen-Angreifern-Codeausfuehrung-9331426.html"
-    },
-    {
-      "title": "Sicherheitsupdates Fortinet: Angreifer können Passwörter im Klartext einsehen",
-      "teaser": "Fortinet hat wichtige Sicherheitspatches für FortiOS und FortiProxy veröffentlicht.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-Angreifer-koennen-Passwoerter-im-Klartext-einsehen-9331076.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
