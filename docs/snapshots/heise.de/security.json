@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-17T11:09:45",
+  "timestamp": "2023-10-17T12:22:11",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sonicwall SonicOS",
+      "url": "https://www.heise.de/news/SonicOS-Angreifer-koennen-Sonicwalls-abstuerzen-lassen-9336604.html"
+    },
+    {
       "title": "IOS XE",
       "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Samba-Neue-Versionen-beheben-mehrere-Sicherheitsluecken-9335169.html"
     },
     {
-      "title": "WordPress",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-WordPress-erschienen-und-angreifbares-Plug-in-repariert-9333699.html"
+      "title": "SonicOS: Angreifer können Sonicwalls abstürzen lassen",
+      "teaser": "Sonicwall hat Updates für SonicOS veröffentlicht, die Sicherheitslücken schließen. Die Lecks erlauben Angreifern, verwundbare Geräte lahmzulegen.",
+      "url": "https://www.heise.de/news/SonicOS-Angreifer-koennen-Sonicwalls-abstuerzen-lassen-9336604.html"
     },
     {
       "title": "Schwachstellenmanagement im Netzwerk: Backbox bringt Vulnerability Manager",
@@ -56,17 +61,6 @@
       "title": "Betrugsmasche: QR-Codes auf gefälschten Strafzetteln führen zu Abzocke",
       "teaser": "Die Polizei warnt vor einer Betrugsmasche, bei denen Täter gefälschte Strafzettel mit einem QR-Code verteilen. Der Link leitet Opfer auf Abzock-Seiten.",
       "url": "https://www.heise.de/news/Betrugsmasche-QR-Codes-auf-gefaelschten-Strafzetteln-fuehren-zu-Abzocke-9336473.html"
-    },
-    {
-      "title": "Passkeys: Amazon und WhatsApp wagen die passwortlose Anmeldung",
-      "teaser": "Amazon und WhatsApp führen nach anderen großen Anbietern ebenfalls Passkeys ein. Amazon bietet vorerst nur Endanwendern die Option.",
-      "url": "https://www.heise.de/news/Passkeys-Amazon-und-WhatsApp-wagen-die-passwortlose-Anmeldung-9336264.html"
-    },
-    {
-      "title": "Cisco: Schwere Sicherheitslücke in IOS XE ermöglicht Netzwerk-Übernahme",
-      "teaser": "Geräte mit IOS XE und Web-UI können von Angreifern ohne Weiteres aus der Ferne übernommen werden. Cisco hat keine Patches, aber Empfehlungen für Betroffene.",
-      "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html",
-      "image_title": "Hacker-Angriff"
     },
     {
       "title": "USA drängt dutzende Regierungen dazu, Lösegeld für Ransomware abzuschwören",
@@ -90,6 +84,17 @@
       "teaser": "Durch verschiedene Programmierfehler konnten Angreifer auf geheime Informationen bis hin zum Kerberos-TGT-Passwort zugreifen. Aktualisierungen stehen bereit.",
       "url": "https://www.heise.de/news/Samba-Neue-Versionen-beheben-mehrere-Sicherheitsluecken-9335169.html",
       "image_title": "Teaser-Bild samba-Logo"
+    },
+    {
+      "title": "Jobsuche: Verbraucherzentrale warnt vor Identitätsdiebstahl",
+      "teaser": "Die Verbraucherzentrale NRW warnt vor gefälschten Stellenanzeigen. Cyberkriminelle versuchten damit, an Daten von Opfern zu gelangen.",
+      "url": "https://www.heise.de/news/Jobsuche-Verbraucherzentrale-warnt-vor-Identitaetsdiebstahl-9335278.html",
+      "image_title": "Entlassener Angestellter mit Habseligkeiten in Papierbox"
+    },
+    {
+      "title": "WS_FTP: Ransomware-Attacken auf ungepatchte Server",
+      "teaser": "In WS_FTP hat Hersteller Progress kürzlich teils kritische Sicherheitslücken geschlossen. Inzwischen sieht Sophos Ransomware-Angriffe darauf.",
+      "url": "https://www.heise.de/news/WS-FTP-Ransomware-Attacken-auf-ungepatchte-Server-9335146.html"
     },
     {
       "title": "E-Mails an aufgegebene Domains: .nl-Registry warnt mit LEMMINGS",
@@ -148,11 +153,6 @@
       "title": "Microsoft Defender for Endpoint soll Angriffe von Menschen unterbinden",
       "teaser": "Von Menschen gesteuerte Angriffe auf Netze sind in der Regel schwieriger zu erkennen als automatisierte. Microsofts Defender for Endpoint soll das beherrschen.",
       "url": "https://www.heise.de/news/Microsoft-Defender-for-Endpoint-soll-manuelle-Angriffe-stoppen-9332191.html"
-    },
-    {
-      "title": "40 Schwachstellen in IBM-Sicherheitslösung QRadar SIEM geschlossen",
-      "teaser": "Mehrere Komponenten in IBM QRadar SIEM weisen Sicherheitslücken auf und gefährden das Security-Information-and-Event-Management-System.",
-      "url": "https://www.heise.de/news/40-Schwachstellen-in-IBM-Sicherheitsloesung-QRadar-SIEM-geschlossen-9332542.html"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
