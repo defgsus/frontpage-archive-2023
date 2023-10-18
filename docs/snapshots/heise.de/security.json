@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-18T10:12:09",
+  "timestamp": "2023-10-18T11:09:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "AMD Radeon & Ryzen",
+      "url": "https://www.heise.de/news/AMD-Grafiktreiber-Schwachstelle-erlaubt-Codeschmuggel-9337480.html"
+    },
+    {
       "title": "Patchday Oracle",
       "url": "https://www.heise.de/news/Patchday-Oracle-veroeffentlicht-387-Sicherheits-Patches-9337238.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html"
     },
     {
-      "title": "Royal Elementor Addons and Templates",
-      "url": "https://www.heise.de/news/Wordpress-Uebernahme-durch-Luecke-in-Royal-Elementor-Addons-and-Template-9335615.html"
+      "title": "AMD-Grafiktreiber: Codeschmuggel durch Sicherheitslücke möglich",
+      "teaser": "AMD warnt vor einer Sicherheitslücke in den eigenen Grafiktreibern. Angreifer könnten Code einschleusen und mit erhöhten Rechten ausführen.",
+      "url": "https://www.heise.de/news/AMD-Grafiktreiber-Schwachstelle-erlaubt-Codeschmuggel-9337480.html"
     },
     {
       "title": "Patchday: 387 Sicherheitsflicken von Oracle",
@@ -147,12 +152,6 @@
       "title": "Sicherheitsupdate für WordPress erschienen und angreifbares Plug-in repariert",
       "teaser": "In der aktuellen WordPress-Version 6.3.2 haben die Entwickler mehrere Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdate-fuer-WordPress-erschienen-und-angreifbares-Plug-in-repariert-9333699.html"
-    },
-    {
-      "title": "Proxy: Mindestens 35 von 55 Sicherheitslücken klaffen in Squid",
-      "teaser": "Ein IT-Sicherheitsforscher hat 55 Schwachstellen im Squid-Proxy Anfang 2021 aufgespürt. Davon sind derzeit noch 35 offen.",
-      "url": "https://www.heise.de/news/Proxy-Mindestens-35-von-55-Sicherheitsluecken-klaffen-in-Squid-9333671.html",
-      "image_title": "Professional,Development,Programmer,Cooperating,Meeting,And,Brainstorming,And,Programming,Website"
     },
     {
       "title": "Cyber Security in Fahrzeugen: Wettlauf zwischen Hackern und Industrie​",
