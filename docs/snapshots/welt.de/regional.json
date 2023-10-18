@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-18T15:12:17",
+  "timestamp": "2023-10-18T16:15:37",
   "url": "https://www.welt.de/regionales/",
   "response": {
     "status": 200
@@ -26,6 +26,21 @@
   ],
   "articles": [
     {
+      "title": "Eine Feier der Lebenslust",
+      "teaser": "„Orpheus in der Unterwelt“ ist in einer turbulenten Fassung an der Rheinoper Düsseldorf zu sehen. Im Zentrum: Schauspieler Max Hopp. Seine Dialoge halten eine Überraschung bereit.",
+      "url": "https://www.welt.de/regionales/nrw/",
+      "image_url": "https://img.welt.de/img/regionales/nrw/mobile248073732/7327931507-ci23x11-w20/Orpheus-in-der-Unterwelt-3.jpg",
+      "image_title": "Szene aus „Orpheus in der Unterwelt“ von Jacques Offenbach",
+      "author": "Stefan Keim"
+    },
+    {
+      "title": "Mann nach rassistischen und antisemitischen Vorfällen verhaftet",
+      "teaser": "Hitlergruß, Beleidigungen, Faustschläge: Ermittler des Staatsschutzes haben in Hamburg einen 40-Jährigen festgenommen, der über Monate hinweg mehrere rassistisch und antisemitisch motivierte Straftaten begangen haben soll.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248072122/1117938747-ci23x11-w20/Versuchter-Brandanschlag-auf-juedische-Gemeinde-in-Berlin.jpg",
+      "image_title": "Ein Blaulicht leuchtet auf dem Dach eines Polizeiwagens."
+    },
+    {
       "title": "„Echte Ingenieursleistung“ – So quietschen U-Bahnen nicht mehr",
       "teaser": "Die U-Bahnen der neusten Generation der Hamburger Hochbahn quietschten beim Bremsen bisher sehr laut. Jetzt hat das Unternehmen das Problem in den Griff bekommen: Die U-Bahnen bremsen bis zum Stehen elektrisch. Eine weltweit wenig genutzte Technik.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -48,21 +63,6 @@
       "image_title": "ARCHIV - 13.07.2020, Nordrhein-Westfalen, Essen: Ein Karst-Weißling saugt an einem Schmetterlingsstrauch Blütennektar. In Hamburg sind in den vergangenen Jahrzehnten zahlreiche Schmetterlingsarten entweder ausgestorben oder verschollen. Der Karst-Weißling dagegen ist aufgrund des Klimawandels mittlerweile auch in Hamburg gesichtet worden. Foto: Roland Weihrauch/dpa +++ dpa-Bildfunk +++"
     },
     {
-      "title": "Aus für die Sorte Holsteiner Cox – dafür sind Birnen im Kommen",
-      "teaser": "Der Klimawandel macht immer mehr Obstbäumen zu schaffen. Während Birnen besser wachsen, wird die Apfelsorte Holsteiner Cox nach Meinung von Experten verschwinden. Grund für die geringe Apfelernte in Deutschlands größtem Anbaugebiet ist aber ein anderer.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/bildergalerien/mobile248059186/6057939707-ci23x11-w20/Apfelbauern-rechnen-mit-guter-Ernte.jpg",
-      "image_title": "Apfelbauern ernten Äpfel"
-    },
-    {
-      "title": "Aurubis-Chef hält 50 bis 60 Euro je Megawattstunde für sinvoll",
-      "teaser": "Europas größter Kupferhersteller will nicht in die Schelte über den Standort Deutschland einstimmen – mahnt aber eine deutlich bessere Energiepolitik an. Das Stammwerk in Hamburg wird umfassend modernisiert.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248059378/1907931397-ci23x11-w20/Aurubis-CEO-Roland-Harings.jpg",
-      "image_title": "Roland Harings, Vorstandsvorsitzender von Aurubis, vor der Konzernzentrale in Hamburg",
-      "author": "Olaf Preuß"
-    },
-    {
       "title": "Lieferando-Gutschein",
       "url": "https://www.welt.de/deals/"
     },
@@ -83,10 +83,25 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Aus für die Sorte Holsteiner Cox – dafür sind Birnen im Kommen",
+      "teaser": "Der Klimawandel macht immer mehr Obstbäumen zu schaffen. Während Birnen besser wachsen, wird die Apfelsorte Holsteiner Cox nach Meinung von Experten verschwinden. Grund für die geringe Apfelernte in Deutschlands größtem Anbaugebiet ist aber ein anderer.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile248059186/6057939707-ci16x9-w20/Apfelbauern-rechnen-mit-guter-Ernte.jpg",
+      "image_title": "Apfelbauern ernten Äpfel"
+    },
+    {
+      "title": "Aurubis-Chef hält 50 bis 60 Euro je Megawattstunde für sinvoll",
+      "teaser": "Europas größter Kupferhersteller will nicht in die Schelte über den Standort Deutschland einstimmen – mahnt aber eine deutlich bessere Energiepolitik an. Das Stammwerk in Hamburg wird umfassend modernisiert.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248059378/1907931397-ci23x11-w20/Aurubis-CEO-Roland-Harings.jpg",
+      "image_title": "Roland Harings, Vorstandsvorsitzender von Aurubis, vor der Konzernzentrale in Hamburg",
+      "author": "Olaf Preuß"
+    },
+    {
       "title": "„Sörensen ist zu meinem Baby geworden“",
       "teaser": "Mit seinem Regiedebüt „Sörensen hat Angst“ vor knapp drei Jahren feierte Bjarne Mädel einen unglaublichen Erfolg und sammelte reichlich Preise ein. Am Mittwoch läuft die Fortsetzung in der ARD, sie knüpft an den ersten Teil an und ist doch sehr anders.",
       "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248057804/7117932707-ci16x9-w20/Soerensen-faengt-Feuer.jpg",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248057804/7117932707-ci23x11-w20/Soerensen-faengt-Feuer.jpg",
       "image_title": "Sörensen fängt Feuer",
       "author": "Britta Schmeis"
     },
@@ -110,21 +125,6 @@
       "url": "https://www.welt.de/regionales/hamburg/",
       "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248046642/6017937957-ci23x11-w20/Rechenzentrum.jpg",
       "image_title": "LEDs leuchten in einem Serverschrank in einem Rechenzentrum."
-    },
-    {
-      "title": "Feiern zum Tag der Deutschen Einheit in Hamburg waren zu teuer",
-      "teaser": "Der Bund der Steuerzahler hat sein Jahrbuch veröffentlicht. Im sogenannten „Schwarzbuch“ tauchen sieben Hamburger Beispiele auf. Darunter skurrile Fälle wie der einer Brücke, die niemand braucht. Kritisiert wird auch das Fest zur Deutschen Einheit.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248044000/8217933497-ci23x11-w20/Tag-der-Deutschen-Einheit-in-Hamburg-Festakt.jpg",
-      "image_title": "Tag der Deutschen Einheit in Hamburg - Festakt"
-    },
-    {
-      "title": "Die Fregatte „Baden-Württemberg“ wird ins Mittelmeer verlegt",
-      "teaser": "Als erstes der neuen Klasse F125 läuft das Kriegsschiff zu einem Einsatz aus. Vor der libanesischen Küste nimmt die Fregatte an der Uno-Mission UNIFIL zur Sicherung und Stabilisierung des Seeverkehrs teil. Die neuen Marineschiffe sind für Langzeiteinsätze konzipiert.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248043444/1687936667-ci23x11-w20/baden-wuerttemberg-klasse-f125-bei-erpro.jpg",
-      "image_title": "Die Fregatte „Baden-Württemberg“, hier bei einer Erprobungsfahrt, ist das Typschiff der neuen Klasse F125",
-      "author": "Olaf Preuß"
     },
     {
       "title": "Hebräisch sprechendes Paar mit Feuerwerkskörper beworfen",
@@ -402,84 +402,84 @@
       "author": "Vanessa Nischik"
     },
     {
-      "title": "Prozess um Schüsse in Innenstadt mit Teilgeständnissen",
-      "url": "https://www.welt.de/regionales/hessen/article248072444/Prozess-um-Schuesse-in-Innenstadt-mit-Teilgestaendnissen.html"
+      "title": "Ostdeutsche Minister wollen mehr ausländische Fachkräfte",
+      "url": "https://www.welt.de/regionales/berlin/article248074548/Ostdeutsche-Minister-wollen-mehr-auslaendische-Fachkraefte.html"
     },
     {
-      "title": "Junger Mann soll 58-Jährige ermordet haben - Prozessbeginn",
-      "url": "https://www.welt.de/regionales/rheinland-pfalz-saarland/article248072300/Junger-Mann-soll-58-Jaehrige-ermordet-haben-Prozessbeginn.html"
+      "title": "Münchner Muslime warnen vor Eskalation und fordern Gespräch",
+      "url": "https://www.welt.de/regionales/bayern/article248074544/Muenchner-Muslime-warnen-vor-Eskalation-und-fordern-Gespraech.html"
     },
     {
-      "title": "CDU fordert von Regierung klare Position zu Asylpolitik",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article248072264/CDU-fordert-von-Regierung-klare-Position-zu-Asylpolitik.html"
+      "title": "Landtag lehnt feste Förderung für Karnevalsvereine ab",
+      "url": "https://www.welt.de/regionales/berlin/article248074522/Landtag-lehnt-feste-Foerderung-fuer-Karnevalsvereine-ab.html"
     },
     {
-      "title": "Drastische Mittelkürzungen für IAT und FES wohl vom Tisch",
-      "url": "https://www.welt.de/regionales/berlin/article248072118/Drastische-Mittelkuerzungen-fuer-IAT-und-FES-wohl-vom-Tisch.html"
+      "title": "Dutzende bei verbotener Pro-Palästinenser-Demo in Hamburg",
+      "url": "https://www.welt.de/regionales/hamburg/article248074464/Dutzende-bei-verbotener-Pro-Palaestinenser-Demo-in-Hamburg.html"
     },
     {
-      "title": "Günther bekräftigt Recht Israels auf Gegenangriffe",
-      "url": "https://www.welt.de/regionales/hamburg/article248072034/Guenther-bekraeftigt-Recht-Israels-auf-Gegenangriffe.html"
+      "title": "Deutscher soll Freundin auf Skandinavien-Reise getötet haben",
+      "url": "https://www.welt.de/regionales/nrw/article248074408/Deutscher-soll-Freundin-auf-Skandinavien-Reise-getoetet-haben.html"
     },
     {
-      "title": "Pro-palästinensische Demo geplant: Polizei prüft Verbot",
-      "url": "https://www.welt.de/regionales/hamburg/article248072036/Pro-palaestinensische-Demo-geplant-Polizei-prueft-Verbot.html"
+      "title": "Unbekannte sollen Israeli attackiert haben: Ermittlung",
+      "url": "https://www.welt.de/regionales/hessen/article248074680/Unbekannte-sollen-Israeli-attackiert-haben-Ermittlung.html"
     },
     {
-      "title": "Junger Wolf im Kreis Segeberg nach Verkehrsunfall getötet",
-      "url": "https://www.welt.de/regionales/hamburg/article248071816/Junger-Wolf-im-Kreis-Segeberg-nach-Verkehrsunfall-getoetet.html"
+      "title": "Robert Hemmerling ist neuer Kommandeur der GSG 9",
+      "url": "https://www.welt.de/regionales/niedersachsen/article248074290/Robert-Hemmerling-ist-neuer-Kommandeur-der-GSG-9.html"
     },
     {
-      "title": "Sturz aus acht Metern: Schwerverletzter Arbeiter gerettet",
-      "url": "https://www.welt.de/regionales/nrw/article248072010/Sturz-aus-acht-Metern-Schwerverletzter-Arbeiter-gerettet.html"
+      "title": "Betrunkener verursacht tödlichen Unfall",
+      "url": "https://www.welt.de/regionales/bayern/article248074200/Betrunkener-verursacht-toedlichen-Unfall.html"
     },
     {
-      "title": "Seibeld wünscht sich mehr mäßigende Stimmen von Muslimen",
-      "url": "https://www.welt.de/regionales/berlin/article248071800/Seibeld-wuenscht-sich-mehr-maessigende-Stimmen-von-Muslimen.html"
+      "title": "Schleusung mit 33 Menschen: Zwei Schleuser in U-Haft",
+      "url": "https://www.welt.de/regionales/bayern/article248074156/Schleusung-mit-33-Menschen-Zwei-Schleuser-in-U-Haft.html"
     },
     {
-      "title": "Ermittlungen in zwölf Fällen im Zusammenhang mit Gaza-Krieg",
-      "url": "https://www.welt.de/regionales/berlin/article248071748/Ermittlungen-in-zwoelf-Faellen-im-Zusammenhang-mit-Gaza-Krieg.html"
+      "title": "Wolfsabschüsse schnell erleichtern: Erlass vorgestellt",
+      "url": "https://www.welt.de/regionales/nrw/article248073888/Wolfsabschuesse-schnell-erleichtern-Erlass-vorgestellt.html"
     },
     {
-      "title": "Weil sieht weiterhin große Probleme bei Flüchtlingsaufnahme",
-      "url": "https://www.welt.de/regionales/niedersachsen/article248071640/Weil-sieht-weiterhin-grosse-Probleme-bei-Fluechtlingsaufnahme.html"
+      "title": "Muslime, Juden und Christen starten Friedensappell",
+      "url": "https://www.welt.de/regionales/berlin/article248074022/Muslime-Juden-und-Christen-starten-Friedensappell.html"
     },
     {
-      "title": "Kinder aus Bützow, Tessin und Matzlow gewinnen Wettbewerb",
-      "url": "https://www.welt.de/regionales/mecklenburg-vorpommern/article248071546/Kinder-aus-Buetzow-Tessin-und-Matzlow-gewinnen-Wettbewerb.html"
+      "title": "Dreijährige im Kanal versenkt: Polizei sucht Bollerwagen",
+      "url": "https://www.welt.de/regionales/nrw/article248073878/Dreijaehrige-im-Kanal-versenkt-Polizei-sucht-Bollerwagen.html"
     },
     {
-      "title": "Telefonbetrüger erbeuten bei Senior mehr als 100.000 Euro",
-      "url": "https://www.welt.de/regionales/nrw/article248071072/Telefonbetrueger-erbeuten-bei-Senior-mehr-als-100-000-Euro.html"
+      "title": "Senat zeigt sich solidarisch mit jüdischer Gemeinschaft",
+      "url": "https://www.welt.de/regionales/berlin/article248073404/Senat-zeigt-sich-solidarisch-mit-juedischer-Gemeinschaft.html"
     },
     {
-      "title": "Verbote von gefährlichen Gegenständen an Berliner Bahnhöfen",
-      "url": "https://www.welt.de/regionales/berlin/article248071396/Verbote-von-gefaehrlichen-Gegenstaenden-an-Berliner-Bahnhoefen.html"
+      "title": "2000 Euro Geldstrafe für Bombendrohung gegen Arbeitsagentur",
+      "url": "https://www.welt.de/regionales/nrw/article248073458/2000-Euro-Geldstrafe-fuer-Bombendrohung-gegen-Arbeitsagentur.html"
     },
     {
-      "title": "Verwaltung: Angeblicher Fragebogen zu Hamas ist «Fake-News»",
-      "url": "https://www.welt.de/regionales/berlin/article248071016/Verwaltung-Angeblicher-Fragebogen-zu-Hamas-ist-Fake-News.html"
+      "title": "Nach Serie von Hasskriminalität: 40-Jähriger verhaftet",
+      "url": "https://www.welt.de/regionales/hamburg/article248073720/Nach-Serie-von-Hasskriminalitaet-40-Jaehriger-verhaftet.html"
     },
     {
-      "title": "Parlamentarier können Blindenparcours im Landtag begehen",
-      "url": "https://www.welt.de/regionales/sachsen/article248071032/Parlamentarier-koennen-Blindenparcours-im-Landtag-begehen.html"
+      "title": "Kemmerich verteidigt Abstimmungen mit AfD-Hilfe",
+      "url": "https://www.welt.de/regionales/thueringen/article248073240/Kemmerich-verteidigt-Abstimmungen-mit-AfD-Hilfe.html"
     },
     {
-      "title": "Opposition fordert stärkere Entlastungen für Lehrkräfte",
-      "url": "https://www.welt.de/regionales/nrw/article248071024/Opposition-fordert-staerkere-Entlastungen-fuer-Lehrkraefte.html"
+      "title": "Ausschreitungen nach Demo-Verbot: 65 Strafverfahren",
+      "url": "https://www.welt.de/regionales/berlin/article248073252/Ausschreitungen-nach-Demo-Verbot-65-Strafverfahren.html"
     },
     {
-      "title": "Neues Schulgesetz: Schnellere Reaktion auf Rechtsextremismus",
-      "url": "https://www.welt.de/regionales/berlin/article248071212/Neues-Schulgesetz-Schnellere-Reaktion-auf-Rechtsextremismus.html"
+      "title": "Libeskind: Hass darf die Demokratie nicht untergraben",
+      "url": "https://www.welt.de/regionales/berlin/article248073130/Libeskind-Hass-darf-die-Demokratie-nicht-untergraben.html"
     },
     {
-      "title": "AOK-Report: Hohe Zunahme psychischer Erkrankungen",
-      "url": "https://www.welt.de/regionales/niedersachsen/article248071216/AOK-Report-Hohe-Zunahme-psychischer-Erkrankungen.html"
+      "title": "Versorger: Wasser in Freiburg-Kappel wird nicht gechlort",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article248073258/Versorger-Wasser-in-Freiburg-Kappel-wird-nicht-gechlort.html"
     },
     {
-      "title": "Schreck im Köln-Training: Pentke-Verletzung glimpflich",
-      "url": "https://www.welt.de/regionales/nrw/article248070672/Schreck-im-Koeln-Training-Pentke-Verletzung-glimpflich.html"
+      "title": "Sexueller Übergriff auf Frau in Freiburg",
+      "url": "https://www.welt.de/regionales/baden-wuerttemberg/article248073208/Sexueller-Uebergriff-auf-Frau-in-Freiburg.html"
     }
   ]
 }
