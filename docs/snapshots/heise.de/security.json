@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-20T12:21:30",
+  "timestamp": "2023-10-20T13:13:57",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Aria, Fusion und Workstation",
+      "url": "https://www.heise.de/news/VMware-schliesst-Sicherheitslecks-in-Aria-Fusion-und-Workstation-9339932.html"
+    },
+    {
       "title": "SolarWinds ARM",
       "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/AMD-Grafiktreiber-Schwachstelle-erlaubt-Codeschmuggel-9337480.html"
     },
     {
-      "title": "Patchday Oracle",
-      "url": "https://www.heise.de/news/Patchday-Oracle-veroeffentlicht-387-Sicherheits-Patches-9337238.html"
+      "title": "Cyberkrieg: Sicherheitsexperte fordert Abschreckung mit Hackbacks",
+      "teaser": "Sicherheitsexperten sprechen sich dafür aus, die verschärfte Bedrohungslage im Cyberraum als gemeinsame Aufgabe von Staat und Wirtschaft zu verstehen.",
+      "url": "https://www.heise.de/news/Cyberkrieg-Sicherheitsexperte-fordert-Abschreckung-mit-Hackbacks-9339974.html",
+      "image_title": "Photo,Of,A,Soldier,In,Military,Uniform,Using,A,Laptop,Armee,Soldat"
+    },
+    {
+      "title": "VMware dichtet hochriskante Lecks in Aria, Fusion und Workstation ab",
+      "teaser": "VMware hat Updates für VMNware Aria Operations for Logs, VMware Fusion sowie VMware Workstation veröffentlicht. Sie schließen teils hochriskante Lücken.",
+      "url": "https://www.heise.de/news/VMware-schliesst-Sicherheitslecks-in-Aria-Fusion-und-Workstation-9339932.html"
     },
     {
       "title": "Google Play Protect erhält Echtzeit-Scanner für Apps",
@@ -142,18 +153,6 @@
       "title": "Passkeys: Amazon und WhatsApp wagen die passwortlose Anmeldung",
       "teaser": "Amazon und WhatsApp führen nach anderen großen Anbietern ebenfalls Passkeys ein. Amazon bietet vorerst nur Endanwendern die Option.",
       "url": "https://www.heise.de/news/Passkeys-Amazon-und-WhatsApp-wagen-die-passwortlose-Anmeldung-9336264.html"
-    },
-    {
-      "title": "Cisco: Schwere Sicherheitslücke in IOS XE ermöglicht Netzwerk-Übernahme",
-      "teaser": "Geräte mit IOS XE und Web-UI können von Angreifern ohne Weiteres aus der Ferne übernommen werden. Cisco hat keine Patches, aber Empfehlungen für Betroffene.",
-      "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html",
-      "image_title": "Hacker-Angriff"
-    },
-    {
-      "title": "USA drängt dutzende Regierungen dazu, Lösegeld für Ransomware abzuschwören",
-      "teaser": "Um das Geschäft mit Ransomware auszutrocknen, sollen Staaten sich dazu verpflichten, kein Lösegeld an die Kriminellen mehr zu bezahlen, fordert Washington.",
-      "url": "https://www.heise.de/news/USA-draengt-dutzende-Regierungen-dazu-Loesegeld-fuer-Ransomware-abzuschwoeren-9336074.html",
-      "image_title": "Code in Form eines Totenkopfs und Laptop"
     },
     {
       "title": "Cisco-Zero-Day: Tausende Geräte haben Hintertüren – über 200 in Deutschland",
