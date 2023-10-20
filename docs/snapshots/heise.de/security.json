@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-20T08:14:18",
+  "timestamp": "2023-10-20T09:11:07",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "SolarWinds ARM",
+      "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
+    },
+    {
       "title": "Sophos Firewall",
       "url": "https://www.heise.de/news/Sophos-Firewall-PDF-Passwortschutz-der-SPX-Funktion-umgehbar-9338226.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Oracle-veroeffentlicht-387-Sicherheits-Patches-9337238.html"
     },
     {
-      "title": "Sonicwall SonicOS",
-      "url": "https://www.heise.de/news/SonicOS-Angreifer-koennen-Sonicwalls-abstuerzen-lassen-9336604.html"
-    },
-    {
-      "title": "Malvertising: Angreifer nutzen Punycode für gefälschte Webseiten",
-      "teaser": "Cyberkriminelle werben über Google Ads etwa mit gefälschten KeePass-URLs mit Punycode-Zeichen. Die beworbene Seite liefert Malware aus.",
-      "url": "https://www.heise.de/news/Malvertising-Angreifer-nutzen-Punycode-fuer-gefaelschte-Webseiten-9339448.html"
+      "title": "SolarWinds behebt Codeschmuggel in Access Rights Manager",
+      "teaser": "Die Software zur Verwaltung von Zugriffsberechtigungen hat unter anderem Fehler, die eine Rechteausweitung ermöglichten. Admins sollten zügig handeln.",
+      "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
     },
     {
       "title": "iX-Workshop: Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
@@ -133,6 +133,11 @@
       "url": "https://www.heise.de/news/Betrugsmasche-QR-Codes-auf-gefaelschten-Strafzetteln-fuehren-zu-Abzocke-9336473.html"
     },
     {
+      "title": "Passkeys: Amazon und WhatsApp wagen die passwortlose Anmeldung",
+      "teaser": "Amazon und WhatsApp führen nach anderen großen Anbietern ebenfalls Passkeys ein. Amazon bietet vorerst nur Endanwendern die Option.",
+      "url": "https://www.heise.de/news/Passkeys-Amazon-und-WhatsApp-wagen-die-passwortlose-Anmeldung-9336264.html"
+    },
+    {
       "title": "Cisco: Schwere Sicherheitslücke in IOS XE ermöglicht Netzwerk-Übernahme",
       "teaser": "Geräte mit IOS XE und Web-UI können von Angreifern ohne Weiteres aus der Ferne übernommen werden. Cisco hat keine Patches, aber Empfehlungen für Betroffene.",
       "url": "https://www.heise.de/news/Cisco-Schwere-Sicherheitsluecke-in-IOS-XE-erlaubt-Netzwerk-Uebernahme-9336068.html",
@@ -149,11 +154,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-Fruehbucherrabatt-9328902.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Wordpress: Übernahme durch Lücke in Royal Elementor Addons and Template",
-      "teaser": "Im Wordpress-Plug-in Royal Elementor Addons and Template missbrauchen Cyberkriminelle eine kritische Lücke. Sie nutzen sie zur Übernahme von Instanzen.",
-      "url": "https://www.heise.de/news/Wordpress-Uebernahme-durch-Luecke-in-Royal-Elementor-Addons-and-Template-9335615.html"
     },
     {
       "title": "Cisco-Zero-Day: Tausende Geräte haben Hintertüren – über 200 in Deutschland",
