@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-22T13:11:38",
+  "timestamp": "2023-10-22T14:10:03",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -50,10 +50,17 @@
   ],
   "articles": [
     {
+      "title": "Provenienz: Italien fordert antike Amphoren aus dem Louvre zurück",
+      "teaser": "Die Mafia soll die gestohlenen Amphoren verkauft haben – nun sind sie in Frankreich im Louvre zu sehen. Italien fordert die Rückgabe der Kunstwerke.",
+      "url": "https://www.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren",
+      "image_url": "https://img.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren-bild/cinema__980x420"
+    },
+    {
       "title": "Friedenspreis: Salman Rushdie erhält den Friedenspreis des Deutschen Buchhandels",
       "teaser": "\"Wir leben in einer Zeit, von der ich nicht geglaubt habe, sie erleben zu müssen\": Der Schriftsteller Salman Rushdie ist in Frankfurt mit dem Friedenspreis geehrt worden.",
       "url": "https://www.zeit.de/kultur/2023-10/salman-ruhdie-friedenpreis-buchhandel-redefreiheit",
-      "image_url": "https://img.zeit.de/kultur/2023-10/salman-ruhdie-friedenpreis-buchhandel-redefreiheit-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2023-10/salman-ruhdie-friedenpreis-buchhandel-redefreiheit-bild/wide__822x462",
+      "image_title": "Friedenspreis: Salman Rushdie erhält den Friedenspreis des Deutschen Buchhandels"
     },
     {
       "title": "Frankfurter Buchmesse: \"Was ist ein gutes Leben?\"",
@@ -68,13 +75,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-verhandlungen-filmbranche",
       "image_url": "https://img.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-streaming-ki-bild/wide__822x462",
       "image_title": "Arbeitskampf in Hollywood: Schauspieler wollen wieder mit den Filmstudios verhandeln"
-    },
-    {
-      "title": "Frankfurter Buchmesse: Warum wir eigentlich hier sind",
-      "teaser": "Der Krieg im Nahen Osten war das bestimmende Thema der diesjährigen Frankfurter Buchmesse. Und was wurde aus der Literatur? Ein Messerückblick in fünf Schlaglichtern",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/frankfurter-buchmesse-israel-adania-shibli-salman-rushdie-slavoj-zizek-booktok",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/frankfurt-buchmesse-2023/wide__822x462",
-      "image_title": "Frankfurter Buchmesse: Warum wir eigentlich hier sind"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Slavoj Žižek: \"Die Hamas muss vernichtet werden\"",
@@ -169,18 +169,18 @@
       "url": "https://www.zeit.de/kultur/2023-10/richard-david-precht-anisemitismus-stereotype-podcast-lanz"
     },
     {
+      "title": "Frankfurter Buchmesse: Warum wir eigentlich hier sind",
+      "teaser": "Der Krieg im Nahen Osten war das bestimmende Thema der diesjährigen Frankfurter Buchmesse. Und was wurde aus der Literatur? Ein Messerückblick in fünf Schlaglichtern",
+      "url": "https://www.zeit.de/kultur/literatur/2023-10/frankfurter-buchmesse-israel-adania-shibli-salman-rushdie-slavoj-zizek-booktok",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/frankfurt-buchmesse-2023/wide__822x462",
+      "image_title": "Frankfurter Buchmesse: Warum wir eigentlich hier sind"
+    },
+    {
       "title": "Cornelia Funke: \"Irgendwann dachte ich, das hat jemand anderes geschrieben\"",
       "teaser": "Cornelia Funke hat ihrer \"Tintenwelt\"-Trilogie nun noch ein viertes Buch hinzugefügt. Wir haben mit Funke auf der Buchmesse gesprochen. Sehen Sie hier das Video.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/cornelia-funke-tintenwelt-vier-die-farbe-der-rache-frankfurter-buchmesse",
       "image_url": "https://img.zeit.de/kultur/literatur/2023-10/cornelia-funke-tintenwelt-vier-die-farbe-der-rache-frankfurter-buchmesse-bild/wide__822x462",
       "image_title": "Cornelia Funke: \"Irgendwann dachte ich, das hat jemand anderes geschrieben\""
-    },
-    {
-      "title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\"",
-      "teaser": "Der Historiker Karl Schlögel porträtiert in seinem neuen Buch \"American Matrix\" die USA. Wir haben mit Schlögel auf der Buchmesse gesprochen. Sehen Sie hier das Video.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse-bild/wide__822x462",
-      "image_title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Politische Linke zu Hamas-Angriff: Eine Denkschule ist an ihr Ende gekommen",
@@ -195,6 +195,13 @@
       "url": "https://www.zeit.de/2023/43/herfried-muenkler-welt-in-aufruhr-kriege-geopolitik",
       "image_url": "https://img.zeit.de/2023/43/der-worst-case-war-nicht-vorgesehen-bild-1/wide__822x462",
       "image_title": "Herfried Münkler : \"Der Worst Case war nicht vorgesehen\""
+    },
+    {
+      "title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\"",
+      "teaser": "Der Historiker Karl Schlögel porträtiert in seinem neuen Buch \"American Matrix\" die USA. Wir haben mit Schlögel auf der Buchmesse gesprochen. Sehen Sie hier das Video.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse-bild/wide__822x462",
+      "image_title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde",
@@ -218,13 +225,6 @@
       "image_title": "Terrorismus: Man wird das Gefühl nicht los"
     },
     {
-      "title": "Baubranche: Stoppt den Abrisswahn!",
-      "teaser": "55 Prozent aller Abfälle in Deutschland stammen aus der Baubranche. Architekten fordern nun zu Recht, statt auf Abriss auf Reparatur und Umnutzung von Gebäuden zu setzen.",
-      "url": "https://www.zeit.de/2023/44/baubranche-wohnungsnot-abriss-atlas-umnutzung",
-      "image_url": "https://img.zeit.de/2023/44/stoppt-den-abrisswahn-kein-haus-sollte-mehr-zerstoert-werden-wirklich-keines-bild-1/wide__822x462",
-      "image_title": "Baubranche: Stoppt den Abrisswahn!"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Judith Butler und Israel: Linke Schuldumkehr",
       "teaser": "Mit Judith Butler hat sich eine der prominentesten Vertreterinnen der globalen Linken zum Hamas-Angriff auf Israel geäußert. Ihr Essay ist ein bemerkenswertes Dokument.",
       "url": "https://www.zeit.de/kultur/2023-10/judith-butler-israel-hamas-linke-intellektuelle",
@@ -239,6 +239,13 @@
       "image_title": "Alice Hasters: \"Das Ich im Wir und das Wir im Ich\""
     },
     {
+      "title": "Baubranche: Stoppt den Abrisswahn!",
+      "teaser": "55 Prozent aller Abfälle in Deutschland stammen aus der Baubranche. Architekten fordern nun zu Recht, statt auf Abriss auf Reparatur und Umnutzung von Gebäuden zu setzen.",
+      "url": "https://www.zeit.de/2023/44/baubranche-wohnungsnot-abriss-atlas-umnutzung",
+      "image_url": "https://img.zeit.de/2023/44/stoppt-den-abrisswahn-kein-haus-sollte-mehr-zerstoert-werden-wirklich-keines-bild-1/wide__822x462",
+      "image_title": "Baubranche: Stoppt den Abrisswahn!"
+    },
+    {
       "title": "Buch-Podcast \"Was liest du gerade?\": Verrücktes Aussteiger-Elternhaus meets Dorfjugend",
       "teaser": "Jan Peter Bremer schreibt in \"Nach Hause kommen\" übers Aufwachsen im Wendland. Und Monika Maron pfercht in \"Das Haus\" Berliner Luxusrentner auf ein Gut in Brandenburg.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/nach-hause-kommen-jan-peter-bremer-buch-podcast",
@@ -249,14 +256,15 @@
       "title": "Feminismus in Mexiko: Die lila Protestwelle rollt",
       "teaser": "Seit Jahren steigt die Zahl der Femizide in Mexiko, im gleichen Verhältnis wächst die feministische Bewegung. Bald könnte das Land seine erste Präsidentin bekommen.",
       "url": "https://www.zeit.de/kultur/2023-10/femizide-mexiko-feminismus-10nach8",
-      "image_url": "https://img.zeit.de/kultur/2023-10/10-nach-8-mexiko-feminismus/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-10/10-nach-8-mexiko-feminismus/cinema__980x420",
       "image_title": "Feminismus in Mexiko: Die lila Protestwelle rollt"
     },
     {
       "title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\"",
-      "teaser": "An dieser Stelle finden Sie externen Inhalt, der den Artikel ergänzt. Sie können sich hier alle externen Inhalte mit einem Klick anzeigen lassen oder wieder ausblenden.",
+      "teaser": "Daniel Kehlmann hat einen Roman über Georg Wilhelm Pabst geschrieben, der sich als Filmregisseur den Nazis unterwarf. Wir haben mit Kehlmann gesprochen. Hier das Video",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse-bild/wide__980x551"
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse-bild/wide__822x462",
+      "image_title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\""
     },
     {
       "title": "Navid Kermani: \"Israelische Bürger waren niemals so unsicher\"",
@@ -269,14 +277,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Rechtsruck: Jetzt ist der Westen im Osten angekommen",
       "teaser": "Die Wahlerfolge der AfD in Hessen und in Bayern zeigen, dass deren Aufstieg nicht bloß ein ostdeutsches Phänomen ist. Der Veränderungsdruck ist gesamtdeutsch geworden.",
       "url": "https://www.zeit.de/2023/44/rechtsruck-westdeutschland-ostdeutschland-afd",
-      "image_url": "https://img.zeit.de/2023/44/jetzt-ist-der-westen-im-osten-angekommen-bild-1/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/44/jetzt-ist-der-westen-im-osten-angekommen-bild-1/cinema__980x420",
       "image_title": "Rechtsruck: Jetzt ist der Westen im Osten angekommen"
     },
     {
       "title": "Netflix-Serie \"Fauda\": Chaos in den Seelen",
       "teaser": "Die israelische Serie \"Fauda\" schildert den Kampf des Inlandsgeheimdienstes Schin Bet gegen Feinde Israels. Angesichts des Terrors der Hamas ist sie gespenstisch aktuell.",
       "url": "https://www.zeit.de/2023/44/netflix-serie-fauda-israel-hamas-palaestina",
-      "image_url": "https://img.zeit.de/2023/44/chaos-in-den-seelen-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/44/chaos-in-den-seelen-bild-1/wide__822x462",
       "image_title": "Netflix-Serie \"Fauda\": Chaos in den Seelen"
     },
     {
@@ -288,24 +296,16 @@
     },
     {
       "title": "Terézia Mora: \"Wir alle haben diese eine Freundin\"",
-      "teaser": "Der Roman \"Muna oder Die Hälfte des Lebens\" von Terézia Mora handelt von Beziehungsgewalt. Wir haben auf der Buchmesse mit Mora gesprochen. Sehen Sie hier das Video.",
+      "teaser": "An dieser Stelle finden Sie externen Inhalt, der den Artikel ergänzt. Sie können sich hier alle externen Inhalte mit einem Klick anzeigen lassen oder wieder ausblenden.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/terezia-mora-muna-oder-die-haelfte-des-lebens-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/terezia-mora-muna-oder-die-haelfte-des-lebens-frankfurter-buchmesse-2023-bild/wide__822x462",
-      "image_title": "Terézia Mora: \"Wir alle haben diese eine Freundin\""
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/terezia-mora-muna-oder-die-haelfte-des-lebens-frankfurter-buchmesse-2023-bild/wide__980x551"
     },
     {
       "title": "SPD: Und aufgepasst, der Keks fehlt",
       "teaser": "SPD-Chef Lars Klingbeil verbreitete zuletzt ein Foto von einem Glückkeksspruch. Es ist anzunehmen, dass sich die SPD so an der Kunst der Geheimbotschaften versucht.",
       "url": "https://www.zeit.de/2023/44/spd-schicksal-parteipolitik-koalition-opposition",
-      "image_url": "https://img.zeit.de/2023/44/spd-schicksal-parteipolitik-koalition-opposition-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/44/spd-schicksal-parteipolitik-koalition-opposition-bild/wide__822x462",
       "image_title": "SPD: Und aufgepasst, der Keks fehlt"
-    },
-    {
-      "title": "Armin Nassehi: \"Je mehr Demokratie vorne draufsteht, desto weniger ist hinten drin\"",
-      "teaser": "Armin Nassehi hat mit \"Gesellschaftliche Grundbegriffe\" ein Buch für besseren Diskurs verfasst. Wir haben auf der Buchmesse mit ihm gesprochen. Sehen Sie hier das Video.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/armin-nassehi-gesellschaftliche-grundbegriffe-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/armin-nassehi-gesellschaftliche-grundbegriffe-frankfurter-buchmesse-aufmacherfoto/wide__822x462",
-      "image_title": "Armin Nassehi: \"Je mehr Demokratie vorne draufsteht, desto weniger ist hinten drin\""
     },
     {
       "title": "\"Eine Frage der Chemie\": Die Erfindung der Molekularküche",
@@ -320,6 +320,13 @@
       "url": "https://www.zeit.de/kultur/2023-10/pumpkin-spice-latte-starbucks-herbst-kitsch",
       "image_url": "https://img.zeit.de/kultur/2023-10/wochenende-43-pflichtverteidigung-pumpkin-spice-latte-bild/square__460x460",
       "image_title": "Pumpkin Spice Latte: Erhöhtes Herbstklopfen"
+    },
+    {
+      "title": "Armin Nassehi: \"Je mehr Demokratie vorne draufsteht, desto weniger ist hinten drin\"",
+      "teaser": "Armin Nassehi hat mit \"Gesellschaftliche Grundbegriffe\" ein Buch für besseren Diskurs verfasst. Wir haben auf der Buchmesse mit ihm gesprochen. Sehen Sie hier das Video.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-10/armin-nassehi-gesellschaftliche-grundbegriffe-frankfurter-buchmesse",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/armin-nassehi-gesellschaftliche-grundbegriffe-frankfurter-buchmesse-aufmacherfoto/wide__822x462",
+      "image_title": "Armin Nassehi: \"Je mehr Demokratie vorne draufsteht, desto weniger ist hinten drin\""
     },
     {
       "title": "\"Killers of the Flower Moon\": Die Untaten des weißen Mannes",
@@ -341,13 +348,6 @@
       "url": "https://www.zeit.de/2023/44/the-rolling-stones-neues-album-hackney-diamonds-rockmusik",
       "image_url": "https://img.zeit.de/2023/44/angenehm-ungekraenkt-bild-1/wide__822x462",
       "image_title": "Neues Album der Rolling Stones: Angenehm ungekränkt"
-    },
-    {
-      "title": "ZDF-Podcast \"Lanz & Precht\": Precht entschuldigt sich für Falschaussage über orthodoxe Juden",
-      "teaser": "Richard David Precht behauptete, orthodoxe Juden dürften aufgrund ihrer Religion nur in bestimmten Berufen arbeiten. \"Das ist falsch\", räumt der Autor nun ein.",
-      "url": "https://www.zeit.de/kultur/2023-10/richard-david-precht-markus-lanz-orthodoxe-juden-entschuldigung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/richard-david-precht-entschuldigung-antisemitismus-bild/wide__822x462",
-      "image_title": "ZDF-Podcast \"Lanz & Precht\": Precht entschuldigt sich für Falschaussage über orthodoxe Juden"
     },
     {
       "title": "\"Maniac\": Die unberechenbare Welt",
