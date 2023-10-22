@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-22T14:09:46",
+  "timestamp": "2023-10-22T15:09:48",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -20,6 +20,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.ec62e36b860412bd8747.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -92,23 +98,30 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Jewgeni Prigoschin: \"Er war nicht der letzte Rebell\"",
+      "teaser": "Am Grab von Wagner-Führer Jewgeni Prigoschin kommen Bewunderer, Putin-Anhänger und sogar Kriegsgegner zusammen. Sie reden so offen, wie man es in Russland selten hört.",
+      "url": "https://www.zeit.de/2023/44/jewgeni-prigoschin-tod-wagner-gruppe-kriegsgegner",
+      "image_url": "https://img.zeit.de/2023/44/er-war-nicht-der-letzte-rebell-bild-1/cinema__980x420"
+    },
+    {
       "title": "Antisemitismus: Steinmeier ruft zum Schutz von Jüdinnen und Juden in Deutschland auf",
       "teaser": "Frank-Walter Steinmeier sichert jüdischen Menschen Schutz zu. Die Hamas ruft er auf, die Geiseln freizulassen: \"Die ganze Welt schaut auf dieses Verbrechen.\"",
       "url": "https://www.zeit.de/politik/ausland/2023-10/steinmeier-israel-rede-brandenburger-tor",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/steinmeier-israel-rede-brandenburger-tor-bild/cinema__1000x428"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/steinmeier-israel-rede-brandenburger-tor-bild/cinema__980x420",
+      "image_title": "Antisemitismus: Steinmeier ruft zum Schutz von Jüdinnen und Juden in Deutschland auf"
     },
     {
       "title": "Liveblog: Krieg in Israel: Neuer Hilfskonvoi überquert Grenze in den Gazastreifen",
       "teaser": "17 Lastwagen mit Hilfsgütern sind in den Gazastreifen gefahren. Die Hamas meldet inzwischen mehr als 4.600 Tote im Gazastreifen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-10/krieg-israel-gaza-hamas-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-blog-konvoi-hilfsgueter-grenze-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-blog-konvoi-hilfsgueter-grenze-bild/wide__822x462",
       "image_title": "Krieg in Israel: Neuer Hilfskonvoi überquert Grenze in den Gazastreifen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Geiseln im Gazastreifen: Das Spiel mit der Angst der Angehörigen",
       "teaser": "Israel hat gute Gründe, die angekündigte Offensive im Gazastreifen hinauszuzögern. Noch gibt es Hoffnung, dass die Hamas weitere Geiseln freilässt. Doch zu welchem Preis?",
       "url": "https://www.zeit.de/politik/ausland/2023-10/geiseln-gazastreifen-hamas-israel-bodenoffensive",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/geiseln-gazastreifen-hamas-israel-bodenoffensive-bild-3/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-10/geiseln-gazastreifen-hamas-israel-bodenoffensive-bild-3/wide__822x462",
       "image_title": "Geiseln im Gazastreifen: Das Spiel mit der Angst der Angehörigen"
     },
     {
@@ -124,13 +137,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-10/israel-nahost-greta-thunberg-brief",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/israel-nahost-greta-thunberg-brief-bild/wide__822x462",
       "image_title": "Nahostkonflikt: Israelische Klimaaktivisten kritisieren Greta Thunberg"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Politische Linke zu Hamas-Angriff: Eine Denkschule ist an ihr Ende gekommen",
-      "teaser": "Die postkoloniale, identitätspolitische, postmoderne Linke tut sich schwer damit, den Terror der Hamas gegen Israel zu verurteilen. Sie wird sich neu sortieren müssen.",
-      "url": "https://www.zeit.de/2023/44/politische-linke-hamas-angriff-positionierung",
-      "image_url": "https://img.zeit.de/2023/44/politische-linke-hamas-angriff-positionierung-bild/wide__822x462",
-      "image_title": "Politische Linke zu Hamas-Angriff: Eine Denkschule ist an ihr Ende gekommen"
     },
     {
       "title": "Ausgabe 42/2023: Den Himmel aufreißen. Willkommen im Wochenende.",
@@ -181,7 +187,7 @@
       "image_title": "Frühgeborene: Ein Leben lang Frühchen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Christiane Benner: Sie wird die erste Chefmetallerin",
+      "title": "Christiane Benner: Sie wird die erste Chefmetallerin",
       "teaser": "Christiane Benner war nur Plan B, nun wird sie die weltgrößte Gewerkschaft leiten. Ihr Stil wird die IG Metall verändern – das wird die ganze deutsche Wirtschaft spüren.",
       "url": "https://www.zeit.de/2023/44/christiane-benner-ig-metall-chefin-gewerkschaft",
       "image_url": "https://img.zeit.de/2023/44/ich-war-der-plan-b-bild-1/cinema__980x420",
@@ -209,39 +215,32 @@
       "image_title": "Wahl in der Schweiz: Bei Wahl in der Schweiz zeichnet sich Rechtsruck ab"
     },
     {
-      "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
-      "teaser": "Seit der Intel-Ansiedlung ist Magdeburg auf Zuwanderung angewiesen. Doch von einer Willkommenskultur ist in der Stadt wenig zu spüren. Wird die AfD zum Standortrisiko?",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel-bild/wide__822x462",
-      "image_title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet"
+      "title": "Z+ (abopflichtiger Inhalt); Alte Liebe: Ein Anruf, der alles verändert",
+      "teaser": "Vor der Verlobung hat ihr Freund eine Ferienaffäre. Doch es stört die Beziehung nicht. Sie heiraten, bekommen Kinder. Dann klingelt 50 Jahre später das Telefon.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/30/alte-liebe-kontaktaufnahme-emotionen-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-07/alte-liebe-kontaktaufnahme-liebeskolumne/wide__822x462",
+      "image_title": "Alte Liebe: Ein Anruf, der alles verändert"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Frührente: Wie man früher in die Rente kommt",
-      "teaser": "Viele Angestellte wollen oder müssen früher in Rente. Doch das geht nur mit Abzügen. Oder? Experten erklären, wie die Frührente gelingen kann und was man beachten muss.",
-      "url": "https://www.zeit.de/arbeit/2022-07/fruehrente-ruhestand-abzuege-geld-faq",
-      "image_url": "https://img.zeit.de/arbeit/2022-07/fruehrente-ruhestand-abzuege-geld-faq-bild/wide__822x462",
-      "image_title": "Frührente: Wie man früher in die Rente kommt"
+      "title": "Z+ (abopflichtiger Inhalt); Stefan Kölsch über \"Sunday Scaries\" : \"Negative Gedanken vergiften einen Großteil der Lebenszeit\"",
+      "teaser": "Sonntagabend und die Laune ist dahin? Das ist Risikoaversion, sagt ein Hirnforscher. Er erklärt den Sonntagsblues und wie man ihn in drei Schritten überwindet.",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2022-10/stefan-koelsch-sunday-scaries-arbeit-angst-hirnforschung",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2022-10/stefan-koelsch-sunday-scaries-arbeit-angst-hirnforschung-bild/wide__822x462",
+      "image_title": "Stefan Kölsch über \"Sunday Scaries\" : \"Negative Gedanken vergiften einen Großteil der Lebenszeit\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ernährung: \"Hochverarbeitete Lebensmittel wirken aufs Belohnungssystem im Hirn\"",
-      "teaser": "Fachleute warnen, dass hochverarbeitete Lebensmittel süchtig machen können. Was dieses Essen so tückisch macht, erklärt die Ernährungsmedizinerin Anja Bosy-Westphal.",
-      "url": "https://www.zeit.de/gesundheit/2023-10/ernaehrung-hochverarbeitete-lebensmittel-anja-bosy-westphal-sucht",
-      "image_url": "https://img.zeit.de/gesundheit/2023-10/ernaehrung-hochverarbeitete-lebensmittel/wide__822x462",
-      "image_title": "Ernährung: \"Hochverarbeitete Lebensmittel wirken aufs Belohnungssystem im Hirn\""
+      "title": "Z+ (abopflichtiger Inhalt); Offene Beziehung: \"Wenn er für ein paar Tage weg ist, hat er Sex mit Männern\"",
+      "teaser": "Sie sind seit 14 Jahren verheiratet und haben drei Kinder, als er ihr sagt, dass er seine Bisexualität ausleben will. Gemeinsam finden sie einen Weg.",
+      "url": "https://www.zeit.de/zeit-magazin/2022/27/offene-beziehung-ehe-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2022-06/offene-beziehung-liebeskolumne/wide__822x462",
+      "image_title": "Offene Beziehung: \"Wenn er für ein paar Tage weg ist, hat er Sex mit Männern\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Weltrekorde im Marathon: Wie die Superschuhe das Laufen verändern",
-      "teaser": "Die neuesten Hightech-Schuhe haben kaum zu fassende Marathonweltrekorde ermöglicht. Sie machen den Sport aber auch ungerechter. Und könnten Hobbyläufern sogar schaden.",
-      "url": "https://www.zeit.de/sport/2023-10/marathon-weltrekorde-superschuhe-berlin-chicago",
-      "image_url": "https://img.zeit.de/sport/2023-10/marathon-weltrekorde-superschuhe-berlin-chicago-bild/wide__822x462",
-      "image_title": "Weltrekorde im Marathon: Wie die Superschuhe das Laufen verändern"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); CO₂-Kompensation: Können die Pilze uns retten?",
-      "teaser": "Direkt unter uns bilden sie ein riesiges Netzwerk, das das Erdklima entscheidend beeinflusst: Pilze können gut ohne den Menschen leben, unklar ist, ob er auch ohne sie.",
-      "url": "https://www.zeit.de/2023/42/co2-kompensation-pilze-mykorrhiza-netzwerke-wurzeln",
-      "image_url": "https://img.zeit.de/2023/42/koennen-pilze-uns-retten-bild-2/cinema__980x420",
-      "image_title": "CO₂-Kompensation: Können die Pilze uns retten?"
+      "title": "Z+ (abopflichtiger Inhalt); Bobby Charlton: Der Größte des englischen Fußballs",
+      "teaser": "Er überlebte das Munich Air Disaster, und war ein Sinnbild für Loyalität und Fairplay. Nun ist Sir Bobby Charlton, einer der wenigen englischen Weltmeister, gestorben.",
+      "url": "https://www.zeit.de/sport/2023-10/bobby-charlton-fussball-england-weltmeister-tod",
+      "image_url": "https://img.zeit.de/sport/2023-10/bobby-charlton-fussball-england-weltmeister-tod-bild/cinema__980x420",
+      "image_title": "Bobby Charlton: Der Größte des englischen Fußballs"
     },
     {
       "title": "Friedenspreis: Salman Rushdie erhält den Friedenspreis des Deutschen Buchhandels",
@@ -337,17 +336,24 @@
       "image_title": "Grenzkontrollen in Deutschland: Nancy Faeser zieht positive Bilanz von stationären Grenzkontrollen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Bruce Watson: Das Heilige, kombiniert mit dem Bodenständigen",
-      "teaser": "Erst packte ihn der Blues, dann erweckte er die Soul- und Gospel-Musik der Siebzigerjahre zu neuem Leben. Ein Besuch in Memphis beim Produzenten Bruce Watson",
-      "url": "https://www.zeit.de/zeit-magazin/zeit-mann/2023/02/bruce-watson-gitarrist-gospel-musik-memphis",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/bruce-watson-gitarrist-gospel-musik-memphis-teaser/cinema__980x420",
-      "image_title": "Bruce Watson: Das Heilige, kombiniert mit dem Bodenständigen"
+      "title": "Z+ (abopflichtiger Inhalt); Hotels: Goodbye, kleiner Kühler!",
+      "teaser": "Die Minibar ließ uns kleine Getränke zum großen Preis auf dem Zimmer zu genießen – bei unschlagbaren Öffnungszeiten. Nun sind ihre Tage gezählt. Sie wird fehlen!",
+      "url": "https://www.zeit.de/2023/44/minibar-hotel-auslauf-geschichte-strom-personal",
+      "image_url": "https://img.zeit.de/2023/44/minibar-bild-1/cinema__980x420",
+      "image_title": "Hotels: Goodbye, kleiner Kühler!"
     },
     {
       "title": "Politik : Wo soll das enden?",
       "teaser": "Der Gazastreifen wird zum Schlachtfeld. Greift jetzt noch der Iran mit seinen Terrorgruppen Israel an? Und darf man das Leid der Zivilisten auf beiden Seiten aufrechnen?",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
       "image_url": "https://img.zeit.de/2023/44/packshot-23-44-1000x620.jpg/imagegroup/original__1000x620"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Kinderbuch-Neuerscheinungen: Comic, Bilderbuch, Kinderroman",
+      "teaser": "\"Kommt der Krieg auch zu uns?\" Antworten auf Kinderfragen liefert das Buch \"Wann ist endlich Frieden?\" Eine von neun Empfehlungen für Leser zwischen 3 und 13 Jahren.",
+      "url": "https://www.zeit.de/2023/44/neuerscheinungen-kinderbuch-jugendliche-lesen-empfehlungen",
+      "image_url": "https://img.zeit.de/2023/44/neuerscheinungen-kinderbuch-jugendliche-lesen-empfehlungen-bild/wide__822x462",
+      "image_title": "Kinderbuch-Neuerscheinungen: Comic, Bilderbuch, Kinderroman"
     },
     {
       "title": "Neuer Podcast: \"Was liest du gerade?\": Ein Künstler kehrt zurück ins Nazireich",
@@ -364,23 +370,16 @@
       "image_title": "Online-Dating: \"Der Schmerz, den ich spüre, ist verletztes Ego\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Prävention: Wie Treppensteigen das Krebsrisiko senkt",
-      "teaser": "Eine neue Studie zeigt: Kurze intensive Bewegungen im Alltag können das Krebsrisiko schon um bis zu 30 Prozent reduzieren.",
-      "url": "https://www.zeit.de/2023/44/bewegung-alltag-gesundheit-krebs-studien",
-      "image_url": "https://img.zeit.de/2023-10/dreieinhalb-minuten-schwitzen-bild-2/wide__822x462",
-      "image_title": "Prävention: Wie Treppensteigen das Krebsrisiko senkt"
-    },
-    {
       "title": "Migration nach Europa: Mehr als 1.000 Migranten erreichen Kanaren an einem einzigen Tag",
       "url": "https://www.zeit.de/gesellschaft/2023-10/migration-europa-kanaren-hoechstwert"
     },
     {
-      "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel"
+      "title": "Sahra Wagenknecht: Abgeordnete der Linken stimmen sich auf Abwicklung der Fraktion ein",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/sahra-wagenknecht-die-linke-fraktion-bundestag-abwicklung"
     },
     {
-      "title": "Palästinenser in Israel: Die Gestrandeten",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/palaestinenser-israel-arbeiter-westjordanland-krieg"
+      "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Libanon: \"Es ist ein gutes Zeichen, wenn du Schüsse hörst\"",
@@ -395,16 +394,16 @@
       "url": "https://www.zeit.de/sport/2023-10/marathon-weltrekorde-superschuhe-berlin-chicago"
     },
     {
-      "title": "Palästinenser in Deutschland: Demonstrationen für Palästinenser in mehreren deutschen Städten",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/demonstrationen-pro-palaestinenser-deutschland"
-    },
-    {
       "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
       "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel"
     },
     {
       "title": "Sahra Wagenknecht: Abgeordnete der Linken stimmen sich auf Abwicklung der Fraktion ein",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/sahra-wagenknecht-die-linke-fraktion-bundestag-abwicklung"
+    },
+    {
+      "title": "Palästinenser in Deutschland: Demonstrationen für Palästinenser in mehreren deutschen Städten",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/demonstrationen-pro-palaestinenser-deutschland"
     },
     {
       "title": "Migration nach Europa: Mehr als 1.000 Migranten erreichen Kanaren an einem einzigen Tag",
@@ -419,40 +418,47 @@
       "image_title": "Libanon: \"Es ist ein gutes Zeichen, wenn du Schüsse hörst\""
     },
     {
-      "title": "Palästinenser in Deutschland: Demonstrationen für Palästinenser in mehreren deutschen Städten",
-      "url": "https://www.zeit.de/politik/deutschland/2023-10/demonstrationen-pro-palaestinenser-deutschland",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/pro-palaestinensische-kundgebung-bild/wide__822x462",
-      "image_title": "Palästinenser in Deutschland: Demonstrationen für Palästinenser in mehreren deutschen Städten"
-    },
-    {
       "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Adoption: \"Ich konnte meine Frau kaum trösten, weil ich selbst so traurig war\"",
-      "url": "https://www.zeit.de/zeit-magazin/2023-10/adoption-kinderwunsch-unfruchtbarkeit-fehlgeburt"
-    },
-    {
-      "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel"
-    },
-    {
-      "title": "Palästinenser in Israel: Die Gestrandeten",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/palaestinenser-israel-arbeiter-westjordanland-krieg"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Weltrekorde im Marathon: Wie die Superschuhe das Laufen verändern",
-      "url": "https://www.zeit.de/sport/2023-10/marathon-weltrekorde-superschuhe-berlin-chicago"
+      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel-bild/wide__822x462",
+      "image_title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet"
     },
     {
       "title": "Sahra Wagenknecht: Abgeordnete der Linken stimmen sich auf Abwicklung der Fraktion ein",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/sahra-wagenknecht-die-linke-fraktion-bundestag-abwicklung"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Adoption: \"Ich konnte meine Frau kaum trösten, weil ich selbst so traurig war\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023-10/adoption-kinderwunsch-unfruchtbarkeit-fehlgeburt"
+    },
+    {
+      "title": "Sahra Wagenknecht: Abgeordnete der Linken stimmen sich auf Abwicklung der Fraktion ein",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/sahra-wagenknecht-die-linke-fraktion-bundestag-abwicklung"
+    },
+    {
+      "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Weltrekorde im Marathon: Wie die Superschuhe das Laufen verändern",
+      "url": "https://www.zeit.de/sport/2023-10/marathon-weltrekorde-superschuhe-berlin-chicago"
+    },
+    {
+      "title": "Palästinenser in Deutschland: Demonstrationen für Palästinenser in mehreren deutschen Städten",
+      "url": "https://www.zeit.de/politik/deutschland/2023-10/demonstrationen-pro-palaestinenser-deutschland"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bruce Watson: Das Heilige, kombiniert mit dem Bodenständigen",
+      "teaser": "Erst packte ihn der Blues, dann erweckte er die Soul- und Gospel-Musik der Siebzigerjahre zu neuem Leben. Ein Besuch in Memphis beim Produzenten Bruce Watson",
+      "url": "https://www.zeit.de/zeit-magazin/zeit-mann/2023/02/bruce-watson-gitarrist-gospel-musik-memphis",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-09/bruce-watson-gitarrist-gospel-musik-memphis-teaser/cinema__980x420",
+      "image_title": "Bruce Watson: Das Heilige, kombiniert mit dem Bodenständigen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Kürbiskuchen mit Schokolade: Endlich wieder Kürbiskuchenzeit",
       "teaser": "Wenn das Kürbiskuchengewürz rausgeholt wird, muss es Herbst sein. Dieses Rezept aus den USA zelebriert die Pumpkin Spice Season – fast schon eine eigene Jahreszeit.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/kuerbiskuchen-schokolade-ohsnapmacros-sonntagsessen",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/kuerbiskuchen-schokolade-ohsnapmacros-sonntagsessen-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/kuerbiskuchen-schokolade-ohsnapmacros-sonntagsessen-teaserbild/wide__822x462",
       "image_title": "Kürbiskuchen mit Schokolade: Endlich wieder Kürbiskuchenzeit"
     },
     {
@@ -461,13 +467,6 @@
       "url": "https://www.zeit.de/arbeit/2023-10/ranger-nationalpark-einkommen-ausgaben-kontoauszug",
       "image_url": "https://img.zeit.de/arbeit/2023-10/ranger-nationalpark-einkommen-ausgaben-kontoauszug-bild/wide__822x462",
       "image_title": "Ranger im Nationalpark: \"Ich lebe in einem Bauwagen für 350 Euro Miete im Monat\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Libanon: \"Es ist ein gutes Zeichen, wenn du Schüsse hörst\"",
-      "teaser": "Aus Sorge vor einem Krieg mit Israel verlassen viele Menschen den Libanon. Auch die Geflüchteten im Süden haben große Angst. Für sie ist eine Flucht deutlich schwerer.",
-      "url": "https://www.zeit.de/politik/ausland/2023-10/libanon-israel-palaestinenser-hisbollah-krieg-gefluechtete",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-10/libanon-israel-palaestinenser-hisbollah-krieg-gefluechtete-ain-al-hilweh-bild/wide__822x462",
-      "image_title": "Libanon: \"Es ist ein gutes Zeichen, wenn du Schüsse hörst\""
     },
     {
       "title": "Verlagsangebot: 5 Werkzeuge gegen negative Gedankenspiralen",
@@ -576,10 +575,15 @@
       "image_title": "Zukunftsrat in der Schweiz: Die geloste Demokratie"
     },
     {
+      "title": "Jugendwort: Junge Menschen wählen \"Goofy\" zum Jugendwort des Jahres",
+      "teaser": "Der Langenscheidt-Verlag hat den diesjährigen Sieger der Wahl zum Jugendwort des Jahres bekannt gegeben. Über \"Goofy\" als Sieger freuen sich dabei auch ältere Jahrgänge.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/jugendwort-des-jahres-2023-goofy"
+    },
+    {
       "title": "Synagoge in Dessau-Roßlau: \"Unser 'nie wieder' muss unverbrüchlich sein\"",
       "teaser": "Bundeskanzler Olaf Scholz hat bei der Einweihung einer Synagoge in Dessau antisemitischen Hass verurteilt. Deutschland werde alles tun, um jüdisches Leben zu schützen.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-10/dessau-synagoge-olaf-scholz-einweihung",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/dessau-synagoge-olaf-scholz-einweihung-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/dessau-synagoge-olaf-scholz-einweihung-bild-2/wide__822x462",
       "image_title": "Synagoge in Dessau-Roßlau: \"Unser 'nie wieder' muss unverbrüchlich sein\""
     },
     {
@@ -590,13 +594,6 @@
       "image_title": "Migration nach Europa: Mehr als 1.000 Migranten erreichen Kanaren an einem einzigen Tag"
     },
     {
-      "title": "Rechtsextremismus an Schulen: Hat Ihre Schule ein Problem mit Rechtsextremismus?",
-      "teaser": "Hakenkreuze und Hitlergruß: In vielen Schulen – nicht nur im Osten – sind rechtsextreme Symbole und Ansichten Alltag. Erzählen Sie uns von Ihren Erfahrungen.",
-      "url": "https://www.zeit.de/gesellschaft/2023-10/rechtsextremismus-schulen-bildung-ostdeutschland-umfrage",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-10/rechtsextremismus-schulen-bildung-ostdeutschland-umfrage-bild/wide__822x462",
-      "image_title": "Rechtsextremismus an Schulen: Hat Ihre Schule ein Problem mit Rechtsextremismus?"
-    },
-    {
       "title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert",
       "teaser": "Ukraine-Krieg und Klimakrise: Deutschland muss sich so schnell wie möglich von Kohle, Öl und Gas lösen. Wie gelingt die Energiewende? Die wichtigsten Zahlen und Grafiken",
       "url": "https://www.zeit.de/wirtschaft/energiemonitor-deutschland-gaspreis-spritpreis-energieversorgung",
@@ -604,18 +601,18 @@
       "image_title": "Energiemonitor: Die wichtigsten Daten zur Energieversorgung – täglich aktualisiert"
     },
     {
+      "title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet",
+      "teaser": "Seit der Intel-Ansiedlung ist Magdeburg auf Zuwanderung angewiesen. Doch von einer Willkommenskultur ist in der Stadt wenig zu spüren. Wird die AfD zum Standortrisiko?",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/fachkraeftemangel-zuwanderung-afd-magdeburg-intel-bild/wide__822x462",
+      "image_title": "Fachkräftemangel: Wo der Erfolg der AfD der Wirtschaft schadet"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Internet-Betrug: So erkennt man Betrüger bei Kleinanzeigen",
       "teaser": "Auf Gebrauchtwaren-Portalen kann man viele Dinge günstig kaufen. Aber sie sind auch ein Ort für Betrüger mit immer neuen Maschen. Wir erklären, was man beachten sollte.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/internet-betrug-online-verkauf-gebrauchtwaren-kleinanzeigen",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/internet-betrug-online-verkauf-gebrauchtwaren-kleinanzeigen-bild/wide__822x462",
       "image_title": "Internet-Betrug: So erkennt man Betrüger bei Kleinanzeigen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Abnehmspritze Ozempic: Keine Lust mehr auf Donuts",
-      "teaser": "Wer die Abnehmspritze Ozempic bekommt, kauft weniger Kalorien. Schon stürzen die Kurse von Junkfood-Unternehmen ein. Und Airlines können auf leichtere Fluggäste hoffen.",
-      "url": "https://www.zeit.de/2023/44/ozempic-abnehmspritze-usa-aktienkurse-junk-food",
-      "image_url": "https://img.zeit.de/2023/44/in-den-usa-stuerzen-die-kurse-von-junkfood-unternehmen-ab-was-hat-das-mit-der-abnehmspritze-ozempic--bild-1/wide__822x462",
-      "image_title": "Abnehmspritze Ozempic: Keine Lust mehr auf Donuts"
     },
     {
       "title": "WirtschaftsWocheAngriff auf Israel: Die Ivy League, ihre Großspender und der Umgang mit dem Hamas-Terror",
@@ -701,18 +698,18 @@
       "image_title": "Krieg gegen Hamas: Israel will Angriffe im Gazastreifen verstärken"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); CO₂-Kompensation: Können die Pilze uns retten?",
+      "teaser": "Direkt unter uns bilden sie ein riesiges Netzwerk, das das Erdklima entscheidend beeinflusst: Pilze können gut ohne den Menschen leben, unklar ist, ob er auch ohne sie.",
+      "url": "https://www.zeit.de/2023/42/co2-kompensation-pilze-mykorrhiza-netzwerke-wurzeln",
+      "image_url": "https://img.zeit.de/2023/42/koennen-pilze-uns-retten-bild-2/wide__822x462",
+      "image_title": "CO₂-Kompensation: Können die Pilze uns retten?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Hamburger Aufstand: Versuch einer linken Weltrevolution",
       "teaser": "Vor hundert Jahren steckt Hamburg im Hass und der Wut. Der Faschismus ist erst auf dem Sprung. Da wagt die Kommunistische Partei einen Putsch und scheitert brachial.",
       "url": "https://www.zeit.de/2023/44/hamburger-aufstand-1923-putsch-kommunismus",
       "image_url": "https://img.zeit.de/2023/44/versuch-einer-linken-weltrevolution-bild-1/wide__822x462",
       "image_title": "Hamburger Aufstand: Versuch einer linken Weltrevolution"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Adam Mastroianni: \"Schlechte Erinnerungen verblassen schneller als gute\"",
-      "teaser": "Viele glauben, dass die Moral der Menschen im Vergleich zu früher verfällt. Sie irren sich, sagt der Psychologe Adam Mastroianni und erklärt, warum das ein Problem ist.",
-      "url": "https://www.zeit.de/wissen/2023-09/adam-mastroianni-moral-gesellschaft-psychologie",
-      "image_url": "https://img.zeit.de/wissen/2023-09/adam-mastroianni-moral-gesellschaft-psychologie-bild-2/wide__822x462",
-      "image_title": "Adam Mastroianni: \"Schlechte Erinnerungen verblassen schneller als gute\""
     },
     {
       "title": "VerlagsangebotIn drei Wochen zu mehr Gelassenheit",
@@ -722,11 +719,11 @@
       "image_title": "In drei Wochen zu mehr Gelassenheit"
     },
     {
-      "title": "Ölpreis: Wie die Ölpreiskrise mit einem Krieg in Israel begann",
-      "teaser": "Vor 50 Jahren erschütterte die Ölpreiskrise die Welt. Sie begann mit einem Krieg in Israel und hatte langfristige Folgen für die ganze Welt. Eine Rückschau in Grafiken",
-      "url": "https://www.zeit.de/2023/43/oelpreis-oelpreiskrise-1973-geschichte",
-      "image_url": "https://img.zeit.de/2023/43/oelpreis-oelpreiskrise-1973-geschichte-teaser/wide__822x462",
-      "image_title": "Ölpreis: Wie die Ölpreiskrise mit einem Krieg in Israel begann"
+      "title": "Z+ (abopflichtiger Inhalt); Adam Mastroianni: \"Schlechte Erinnerungen verblassen schneller als gute\"",
+      "teaser": "Viele glauben, dass die Moral der Menschen im Vergleich zu früher verfällt. Sie irren sich, sagt der Psychologe Adam Mastroianni und erklärt, warum das ein Problem ist.",
+      "url": "https://www.zeit.de/wissen/2023-09/adam-mastroianni-moral-gesellschaft-psychologie",
+      "image_url": "https://img.zeit.de/wissen/2023-09/adam-mastroianni-moral-gesellschaft-psychologie-bild-2/wide__822x462",
+      "image_title": "Adam Mastroianni: \"Schlechte Erinnerungen verblassen schneller als gute\""
     },
     {
       "title": "Jetzt unsere Adventskalender entdecken!",
@@ -744,10 +741,17 @@
       "image_url": "https://img.zeit.de/administratives/2015-10/zeit-shop-bilder/paul-schrader.jpg/wide__822x462"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Prävention: Wie Treppensteigen das Krebsrisiko senkt",
+      "teaser": "Eine neue Studie zeigt: Kurze intensive Bewegungen im Alltag können das Krebsrisiko schon um bis zu 30 Prozent reduzieren.",
+      "url": "https://www.zeit.de/2023/44/bewegung-alltag-gesundheit-krebs-studien",
+      "image_url": "https://img.zeit.de/2023-10/dreieinhalb-minuten-schwitzen-bild-2/cinema__980x420",
+      "image_title": "Prävention: Wie Treppensteigen das Krebsrisiko senkt"
+    },
+    {
       "title": "RKI-Chef Lars Schaade: \"Über das Wort Erkältung kann man streiten\"",
       "teaser": "Er ist der neue Chef im Robert Koch-Institut: Lars Schaade erklärt, wie gefährlich Bioterrorismus und Klimawandel sind. Und wie harmlos Corona diesen Herbst wirklich ist.",
       "url": "https://www.zeit.de/gesundheit/2023-10/rki-chef-lars-schaade-interview",
-      "image_url": "https://img.zeit.de/gesundheit/2023-10/rki-chef-lars-schaade-interview-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesundheit/2023-10/rki-chef-lars-schaade-interview-bild/wide__822x462",
       "image_title": "RKI-Chef Lars Schaade: \"Über das Wort Erkältung kann man streiten\""
     },
     {
@@ -756,13 +760,6 @@
       "url": "https://www.zeit.de/gesundheit/2023-10/psychologie-app-smartphone-therapieplatz-wartezeit",
       "image_url": "https://img.zeit.de/2023-10/psychologie-app-smartphone-therapieplatz-wartezeit-bild/wide__822x462",
       "image_title": "Psychologie-Apps: Therapie to go"
-    },
-    {
-      "title": "Krankenhäuser: Zahl der Krankenhausbetten für Kinder auf dem Tiefstand",
-      "teaser": "In deutschen Krankenhäusern wird die Anzahl an Betten für Kinder immer geringer. Aktuell ist sie auf dem niedrigsten Stand seit zehn Jahren.",
-      "url": "https://www.zeit.de/wissen/2023-10/krankenhaus-betten-kinder-anzahl-tiefstand",
-      "image_url": "https://img.zeit.de/gesundheit/2023-10/krankenhaus-betten-kinder/wide__822x462",
-      "image_title": "Krankenhäuser: Zahl der Krankenhausbetten für Kinder auf dem Tiefstand"
     },
     {
       "title": "\"Super Mario Bros. Wonder\": Mario ist Mario ist Mario",
@@ -828,11 +825,11 @@
       "image_title": "Influencer Luis Newton : Der ultimative Lern-Guide"
     },
     {
-      "title": "Verlagsangebot Welcher Beruf passt zu mir?",
-      "teaser": "Mit dem BOA-Berufstest erfahren Berufseinsteiger mehr über die eigenen Stärken und finden den passenden Job.",
-      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.verlagsteaser.quan.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaserindex&amp;utm_content=bot_verlagsteaser_quan_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/boa-quan/wide__350x197__desktop",
-      "image_title": "Welcher Beruf passt zu mir?"
+      "title": "Verlagsangebot Und was macht man dann damit?",
+      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
+      "image_title": "Und was macht man dann damit?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Zinsen beim KfW-Studienkredit: \"Wir warnen nur noch vor dem KfW-Kredit\"",
@@ -975,36 +972,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "2. Bundesliga: Hansa Rostock verliert Ostsee-Derby 1:3 gegen Kiel",
-      "url": "https://www.zeit.de/news/2023-10/22/hansa-rostock-verliert-ostsee-derby-1-3-gegen-kiel"
+      "title": "Notfälle: Fliegerbombe in Kiel entschärft",
+      "url": "https://www.zeit.de/news/2023-10/22/fliegerbombe-in-kiel-entschaerft"
     },
     {
-      "title": "Bundesliga: Feuerwerk in Kölner Kurve: Derby beginnt paar Minuten später",
-      "url": "https://www.zeit.de/news/2023-10/22/feuerwerk-in-koelner-kurve-derby-beginnt-paar-minuten-spaeter"
+      "title": "Gewerkschaften: Habeck und IG Metall gemeinsam für Brückenstrompreis",
+      "url": "https://www.zeit.de/news/2023-10/22/habeck-und-ig-metall-gemeinsam-fuer-brueckenstrompreis"
     },
     {
-      "title": "2. Bundesliga: Holstein Kiel wieder Tabellendritter nach 3:1 in Rostock",
-      "url": "https://www.zeit.de/news/2023-10/22/holstein-kiel-wieder-tabellendritter-nach-3-1-in-rostock"
+      "title": "Basketball: Towers gegen Tel Aviv als Hochrisiko-Spiel eingestuft",
+      "url": "https://www.zeit.de/news/2023-10/22/towers-gegen-tel-aviv-als-hochrisiko-spiel-eingestuft"
     },
     {
-      "title": "2. Liga: Schalkes Trendwende bleibt aus - Kiel auf Rang drei",
-      "url": "https://www.zeit.de/news/2023-10/22/schalkes-trendwende-bleibt-aus-kiel-auf-rang-drei"
+      "title": "Havelland: Mehr als 10.000 Besucher bei Brandenburger Schlachtefest",
+      "url": "https://www.zeit.de/news/2023-10/22/mehr-als-10-000-besucher-bei-brandenburger-schlachtefest"
     },
     {
-      "title": "Agrar: Kür der Kürbis-Giganten: Dauersieger gewinnt mit Glück",
-      "url": "https://www.zeit.de/news/2023-10/22/kuer-der-kuerbis-giganten-dauersieger-gewinnt-mit-glueck"
+      "title": "Torgelow: Romy Hämling siegt bei Junioren-Gedächtnismeisterschaft",
+      "url": "https://www.zeit.de/news/2023-10/22/romy-haemling-siegt-bei-junioren-gedaechtnismeisterschaft"
     },
     {
-      "title": "2. Bundesliga: 0:3 in Karlsruhe: Schalke verliert bei Geraerts-Debüt",
-      "url": "https://www.zeit.de/news/2023-10/22/0-3-in-karlsruhe-schalke-verliert-bei-geraerts-debuet"
+      "title": "Sprache: Jugendliche wählen «Goofy» zum Jugendwort des Jahres",
+      "url": "https://www.zeit.de/news/2023-10/22/jugendliche-waehlen-goofy-zum-jugendwort-des-jahres"
     },
     {
-      "title": "Fußball: Nürnberg schlägt Hertha in wildem Duell der 2. Liga",
-      "url": "https://www.zeit.de/news/2023-10/22/nuernberg-schlaegt-hertha-in-wildem-duell-der-2-liga"
+      "title": "Gesellschaft: Scholz will besseren Schutz von Frauen vor Gewalt erreichen",
+      "url": "https://www.zeit.de/news/2023-10/22/scholz-will-besseren-schutz-von-frauen-vor-gewalt-erreichen"
     },
     {
-      "title": "Handball Champions League: In der Königsklasse makellos: Bietigheim holt fünften Sieg",
-      "url": "https://www.zeit.de/news/2023-10/22/in-der-koenigsklasse-makellos-bietigheim-holt-fuenften-sieg"
+      "title": "Notfälle: Museen in MV wollen sich besser für Notfälle wappnen",
+      "url": "https://www.zeit.de/news/2023-10/22/museen-in-mv-wollen-sich-besser-fuer-notfaelle-wappnen"
     }
   ]
 }
