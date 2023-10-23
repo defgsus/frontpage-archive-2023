@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-23T18:13:55",
+  "timestamp": "2023-10-23T19:09:52",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Krisen und negatives Denken: \"Überall herrscht eine Unheilserwartung\"",
+      "teaser": "Angesichts aktueller Krisen glauben viele, alles werde nur noch schlechter. Umso mehr komme es auf das Engagement des Einzelnen an, sagt der Moderator Jürgen Wiebicke.",
+      "url": "https://www.zeit.de/kultur/2023-10/krisen-negatives-denken-juergen-wiebicke",
+      "image_url": "https://img.zeit.de/kultur/2023-10/krisen-negatives-denken-juergen-wiebicke-teaserfoto/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Palästinensische Stimmen: Das Ringen um Worte",
       "teaser": "Sucht man hierzulande die Stimmen palästinensischer Intellektueller, erntet man oft Absagen. Hat das auch mit spezifischen deutschen Rederegeln zu tun?",
       "url": "https://www.zeit.de/kultur/2023-10/palaestinensische-stimmen-israel-hamas-deutsche-regeln",
-      "image_url": "https://img.zeit.de/kultur/2023-10/palaestinensische-stimmen-israel-hamas-regeln/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2023-10/palaestinensische-stimmen-israel-hamas-regeln/wide__822x462",
+      "image_title": "Palästinensische Stimmen: Das Ringen um Worte"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Christina Clemm: Es ist Hass und keine Tragödie",
@@ -56,13 +63,6 @@
       "url": "https://www.zeit.de/2023/44/sprachsensibilitaet-kinderbuecher-zensur-diversitaet",
       "image_url": "https://img.zeit.de/2023/44/sprachsensibilitaet-kinderbuecher-zensur-diversitaet-bild/wide__822x462",
       "image_title": "Sprachsensibilität in Kinderbüchern: Wenn Worte wehtun"
-    },
-    {
-      "title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?",
-      "teaser": "Sam Bankman-Fried hat seine Anleger um Milliarden geprellt – und nennt sich trotzdem einen \"effektiven Altruisten\". Wie passt das zusammen?",
-      "url": "https://www.zeit.de/kultur/2023-10/sam-bankman-fried-ftx-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2020-07/die-sogenannte-gegenwart-teaser-1/wide__822x462__F45C5C",
-      "image_title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Slavoj Žižek: \"Die Hamas muss vernichtet werden\"",
@@ -157,18 +157,18 @@
       "url": "https://www.zeit.de/kultur/2023-10/terrorismus-hamas-israel-11-september-moral"
     },
     {
+      "title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?",
+      "teaser": "Sam Bankman-Fried hat seine Anleger um Milliarden geprellt – und nennt sich trotzdem einen \"effektiven Altruisten\". Wie passt das zusammen?",
+      "url": "https://www.zeit.de/kultur/2023-10/sam-bankman-fried-ftx-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/2020-07/die-sogenannte-gegenwart-teaser-1/wide__822x462__F45C5C",
+      "image_title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?"
+    },
+    {
       "title": "\"Holly\" von Stephen King: Die Aufdringlichkeit des moralischen Diskurses",
       "teaser": "Stephen King hat mit Holly Gibney vor ein paar Romanen eine große Frauenfigur geschaffen. In seinem neuen Buch \"Holly\" opfert er sie nun leider der Ideologie.",
       "url": "https://www.zeit.de/2023/44/holly-stephen-king-roman-weibliche-hauptfigur",
       "image_url": "https://img.zeit.de/2023/44/holly-stephen-king-roman-weibliche-hauptfigur-bild/wide__822x462",
       "image_title": "\"Holly\" von Stephen King: Die Aufdringlichkeit des moralischen Diskurses"
-    },
-    {
-      "title": "\"Tatort\" Wiesbaden: Das gab's sogar schon vor meiner Zeit",
-      "teaser": "Ein Kommissar auf Glückssuche im All: Der Tatort \"Murot und das Paradies\" schafft es, ein Feuerwerk an spinnerten Ideen abzufeuern – und trotzdem Ödnis zu verbreiten.",
-      "url": "https://www.zeit.de/kultur/film/2023-10/tatort-wiesbaden-murot-und-das-paradies-obduktionsbericht",
-      "image_url": "https://img.zeit.de/kultur/film/2023-10/tatort-wiesbaden-murot-und-das-paradies-obduktionsbericht-teaserbild/wide__822x462",
-      "image_title": "\"Tatort\" Wiesbaden: Das gab's sogar schon vor meiner Zeit"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Politische Linke zu Hamas-Angriff: Eine Denkschule ist an ihr Ende gekommen",
@@ -183,6 +183,13 @@
       "url": "https://www.zeit.de/2023/43/herfried-muenkler-welt-in-aufruhr-kriege-geopolitik",
       "image_url": "https://img.zeit.de/2023/43/der-worst-case-war-nicht-vorgesehen-bild-1/wide__822x462",
       "image_title": "Herfried Münkler : \"Der Worst Case war nicht vorgesehen\""
+    },
+    {
+      "title": "\"Tatort\" Wiesbaden: Das gab's sogar schon vor meiner Zeit",
+      "teaser": "Ein Kommissar auf Glückssuche im All: Der Tatort \"Murot und das Paradies\" schafft es, ein Feuerwerk an spinnerten Ideen abzufeuern – und trotzdem Ödnis zu verbreiten.",
+      "url": "https://www.zeit.de/kultur/film/2023-10/tatort-wiesbaden-murot-und-das-paradies-obduktionsbericht",
+      "image_url": "https://img.zeit.de/kultur/film/2023-10/tatort-wiesbaden-murot-und-das-paradies-obduktionsbericht-teaserbild/wide__822x462",
+      "image_title": "\"Tatort\" Wiesbaden: Das gab's sogar schon vor meiner Zeit"
     },
     {
       "title": "Salzburger Festspiele: Michael Maertens und Michael Sturminger bei Festspielen ausgeladen",
@@ -206,13 +213,6 @@
       "image_title": "Philosophie: Ist die Seele eine Landschaft?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Friedenspreis für Salman Rushdie: \"Das Gute gewinnt nicht immer\"",
-      "teaser": "Salman Rushdie hat den Friedenspreis des Deutschen Buchhandels entgegengenommen. Und sprach fulminant über Mythen und Wahrheit und die Möglichkeit von Frieden.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/salman-rushdie-friedenspreis-deutscher-buchhandel-2023-paulskirche",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/salman-rushdie-friedenspreis-deutscher-buchhandel-2023-paulskirche-bild/wide__822x462",
-      "image_title": "Friedenspreis für Salman Rushdie: \"Das Gute gewinnt nicht immer\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Judith Butler und Israel • Das Beste aus Z+: Linke Schuldumkehr",
       "teaser": "Mit Judith Butler hat sich eine der prominentesten Vertreterinnen der globalen Linken zum Hamas-Angriff auf Israel geäußert. Ihr Essay ist ein bemerkenswertes Dokument.",
       "url": "https://www.zeit.de/kultur/2023-10/judith-butler-israel-hamas-linke-intellektuelle",
@@ -227,6 +227,13 @@
       "image_title": "Alice Hasters: \"Das Ich im Wir und das Wir im Ich\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Friedenspreis für Salman Rushdie: \"Das Gute gewinnt nicht immer\"",
+      "teaser": "Salman Rushdie hat den Friedenspreis des Deutschen Buchhandels entgegengenommen. Und sprach fulminant über Mythen und Wahrheit und die Möglichkeit von Frieden.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-10/salman-rushdie-friedenspreis-deutscher-buchhandel-2023-paulskirche",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/salman-rushdie-friedenspreis-deutscher-buchhandel-2023-paulskirche-bild/wide__822x462",
+      "image_title": "Friedenspreis für Salman Rushdie: \"Das Gute gewinnt nicht immer\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Kinderbuch-Neuerscheinungen: Comic, Bilderbuch, Kinderroman",
       "teaser": "\"Kommt der Krieg auch zu uns?\" Antworten auf Kinderfragen liefert das Buch \"Wann ist endlich Frieden?\" Eine von neun Empfehlungen für Leser zwischen 3 und 13 Jahren.",
       "url": "https://www.zeit.de/2023/44/neuerscheinungen-kinderbuch-jugendliche-lesen-empfehlungen",
@@ -237,14 +244,14 @@
       "title": "Provenienz: Italien fordert antike Amphoren aus dem Louvre zurück",
       "teaser": "Die Mafia soll die gestohlenen Amphoren verkauft haben – nun sind sie in Frankreich im Louvre zu sehen. Italien fordert die Rückgabe der Kunstwerke.",
       "url": "https://www.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren",
-      "image_url": "https://img.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren-bild/cinema__980x420",
       "image_title": "Provenienz: Italien fordert antike Amphoren aus dem Louvre zurück"
     },
     {
       "title": "Friedenspreis: Salman Rushdie erhält den Friedenspreis des Deutschen Buchhandels",
       "teaser": "\"Wir leben in einer Zeit, von der ich nicht geglaubt habe, sie erleben zu müssen\": Der Schriftsteller Salman Rushdie ist in Frankfurt mit dem Friedenspreis geehrt worden.",
       "url": "https://www.zeit.de/kultur/2023-10/salman-ruhdie-friedenpreis-buchhandel-redefreiheit",
-      "image_url": "https://img.zeit.de/kultur/2023-10/salman-ruhdie-friedenpreis-buchhandel-redefreiheit-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-10/salman-ruhdie-friedenpreis-buchhandel-redefreiheit-bild/wide__822x462",
       "image_title": "Friedenspreis: Salman Rushdie erhält den Friedenspreis des Deutschen Buchhandels"
     },
     {
@@ -258,14 +265,14 @@
       "title": "Arbeitskampf in Hollywood: Schauspieler wollen wieder mit den Filmstudios verhandeln",
       "teaser": "Schon seit 100 Tagen streiken die Filmdarstellerinnen und -darsteller in Hollywood. Nun soll ein neuer Versuch für eine Einigung mit den Filmstudios gestartet werden.",
       "url": "https://www.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-verhandlungen-filmbranche",
-      "image_url": "https://img.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-streaming-ki-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-streaming-ki-bild/cinema__980x420",
       "image_title": "Arbeitskampf in Hollywood: Schauspieler wollen wieder mit den Filmstudios verhandeln"
     },
     {
       "title": "Frankfurter Buchmesse: Warum wir eigentlich hier sind",
       "teaser": "Der Krieg im Nahen Osten war das bestimmende Thema der diesjährigen Frankfurter Buchmesse. Und was wurde aus der Literatur? Ein Messerückblick in fünf Schlaglichtern",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/frankfurter-buchmesse-israel-adania-shibli-salman-rushdie-slavoj-zizek-booktok",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/frankfurt-buchmesse-2023/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/frankfurt-buchmesse-2023/wide__822x462",
       "image_title": "Frankfurter Buchmesse: Warum wir eigentlich hier sind"
     },
     {
@@ -277,24 +284,16 @@
     },
     {
       "title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\"",
-      "teaser": "Der Historiker Karl Schlögel porträtiert in seinem neuen Buch \"American Matrix\" die USA. Wir haben mit Schlögel auf der Buchmesse gesprochen. Sehen Sie hier das Video.",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse-bild/wide__822x462",
-      "image_title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\""
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse-bild/wide__980x551"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde",
       "teaser": "Anne Rabes Bestseller \"Die Möglichkeit von Glück\" zählt zu den Überraschungserfolgen des Jahres. Er fügt sich perfekt in die Ost-West-Debatte ein.",
       "url": "https://www.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland",
-      "image_url": "https://img.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland-bild/wide__822x462",
       "image_title": "\"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde"
-    },
-    {
-      "title": "\"Lahai\" von Sampha: Anfang und Ende und alles dazwischen",
-      "teaser": "Der Brite Sampha spielt die faszinierendste Krisenmusik, die es seit Langem zu hören gab. Sein Album \"Lahai\" klingt, als höre man die Bewegung seiner rasenden Gedanken.",
-      "url": "https://www.zeit.de/kultur/2023-10/lahai-sampha-album",
-      "image_url": "https://img.zeit.de/kultur/2023-10/sampha-bild/wide__822x462",
-      "image_title": "\"Lahai\" von Sampha: Anfang und Ende und alles dazwischen"
     },
     {
       "title": "\"Eine Frage der Chemie\": Die Erfindung der Molekularküche",
@@ -309,6 +308,13 @@
       "url": "https://www.zeit.de/kultur/2023-10/pumpkin-spice-latte-starbucks-herbst-kitsch",
       "image_url": "https://img.zeit.de/kultur/2023-10/wochenende-43-pflichtverteidigung-pumpkin-spice-latte-bild/square__460x460",
       "image_title": "Pumpkin Spice Latte: Erhöhtes Herbstklopfen"
+    },
+    {
+      "title": "\"Lahai\" von Sampha: Anfang und Ende und alles dazwischen",
+      "teaser": "Der Brite Sampha spielt die faszinierendste Krisenmusik, die es seit Langem zu hören gab. Sein Album \"Lahai\" klingt, als höre man die Bewegung seiner rasenden Gedanken.",
+      "url": "https://www.zeit.de/kultur/2023-10/lahai-sampha-album",
+      "image_url": "https://img.zeit.de/kultur/2023-10/sampha-bild/wide__822x462",
+      "image_title": "\"Lahai\" von Sampha: Anfang und Ende und alles dazwischen"
     },
     {
       "title": "Terrorismus: Man wird das Gefühl nicht los",
@@ -335,14 +341,14 @@
       "title": "Feminismus in Mexiko: Die lila Protestwelle rollt",
       "teaser": "Seit Jahren steigt die Zahl der Femizide in Mexiko, im gleichen Verhältnis wächst die feministische Bewegung. Bald könnte das Land seine erste Präsidentin bekommen.",
       "url": "https://www.zeit.de/kultur/2023-10/femizide-mexiko-feminismus-10nach8",
-      "image_url": "https://img.zeit.de/kultur/2023-10/10-nach-8-mexiko-feminismus/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-10/10-nach-8-mexiko-feminismus/cinema__980x420",
       "image_title": "Feminismus in Mexiko: Die lila Protestwelle rollt"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Rechtsruck: Jetzt ist der Westen im Osten angekommen",
       "teaser": "Die Wahlerfolge der AfD in Hessen und in Bayern zeigen, dass deren Aufstieg nicht bloß ein ostdeutsches Phänomen ist. Der Veränderungsdruck ist gesamtdeutsch geworden.",
       "url": "https://www.zeit.de/2023/44/rechtsruck-westdeutschland-ostdeutschland-afd",
-      "image_url": "https://img.zeit.de/2023/44/jetzt-ist-der-westen-im-osten-angekommen-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/44/jetzt-ist-der-westen-im-osten-angekommen-bild-1/wide__822x462",
       "image_title": "Rechtsruck: Jetzt ist der Westen im Osten angekommen"
     },
     {
@@ -358,13 +364,6 @@
       "url": "https://www.zeit.de/kultur/2023-10/nircaragua-diktatur-ausbuergerung-gioconda-belli-10nach8",
       "image_url": "https://img.zeit.de/kultur/2023-10/nircaragua-diktatur-ausbuergerung-gioconda-belli/wide__822x462",
       "image_title": "Nicaragua: Verfolgt und ausgebürgert"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Feminismus in Pornos: Befreite Lust?",
-      "teaser": "Werden Frauen durch Sexfilme unterdrückt oder emanzipiert? Die Sachbücher von Paulita Pappel und Madita Oeming stellen sich der Frage, ob Pornos feministisch sein können.",
-      "url": "https://www.zeit.de/2023/43/feminismus-pornos-unterdrueckung-emanzipation-sachbuecher",
-      "image_url": "https://img.zeit.de/2023/43/befreite-lust-bild-2/wide__822x462",
-      "image_title": "Feminismus in Pornos: Befreite Lust?"
     },
     {
       "title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\"",
