@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-23T11:09:24",
+  "timestamp": "2023-10-23T12:21:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Internationalen Ermittlungsbehörden gelingt Schlag gegen Ragnar Locker",
+      "teaser": "Internationalen Ermittlern ist es gelungen, die Infrastruktur der bekannten Ransomware-Gruppierung Ragnar Locker zu zerschlagen.",
+      "url": "https://www.heise.de/news/Ermittlern-gelingt-Schlag-gegen-Ransomware-Gang-Ragnar-Locker-9340480.html"
+    },
+    {
       "title": "Repair Day 2023: Grüne sind entnervt wegen verzögertem Reparaturprogramm​",
       "teaser": "Führende Grünen-Politiker drängen am internationalen Repair Day darauf, das Recht auf Reparatur endlich umsetzen. Ein geplantes Programm lässt auf sich warten.​",
       "url": "https://www.heise.de/news/Repair-Day-2023-Gruene-sind-entnervt-wegen-verzoegertem-Reparaturprogramm-9340510.html",
@@ -35,11 +40,6 @@
       "title": "WinRAR-Lücke wird von staatlichen Angreifern missbraucht",
       "teaser": "Googles TAG-Team beobachtet staatliche Cyberkriminelle, die die kürzlich bekannt gewordene WinRAR-Sicherheitslücke missbrauchen.",
       "url": "https://www.heise.de/news/Staatliche-Angreifer-missbrauchen-WinRAR-Luecke-9338821.html"
-    },
-    {
-      "title": "Seagate hat die höchste Festplatten-Kapazität",
-      "teaser": "Seagate stellt die erste Festplatte mit einer Kapazität von 24 TByte vor. Nach ihr wechselt die Firma auf HAMR-Technik für mehr Speicher.",
-      "url": "https://www.heise.de/news/24-TByte-Seagate-stellt-seine-letzte-CMR-Festplatte-vor-9338765.html"
     },
     {
       "title": "Raspberry Pi: Wie Sie Verbindungen zum Server erstellen",
@@ -54,13 +54,40 @@
       "image_title": ", Gorodenkoff, istockphoto.com; Montage: Mac & i"
     },
     {
+      "title": "Microsoft Azure: Neue Plattform Radius für Cloud-native Anwendungen",
+      "teaser": "Das vom Microsoft-Azure-Incubations-Team vorgestellte Open-Source-Projekt Radius soll die Entwicklung und Verwaltung Cloud-nativer Anwendungen vereinfachen.",
+      "url": "https://www.heise.de/news/Microsoft-Azure-Neue-Plattform-Radius-fuer-Cloud-native-Anwendungen-9341405.html",
+      "image_title": "Child,Pretend,To,Be,Businessman.,Child,Playing,At,Home.,Kid"
+    },
+    {
+      "title": "GitLab 16.5 informiert über die Einhaltung von Compliance-Standards",
+      "teaser": "Ultimate-User können nun im Compliance Center die Einhaltung GitLab-definierter Standards für Best Practices überprüfen.",
+      "url": "https://www.heise.de/news/GitLab-16-5-informiert-ueber-die-Einhaltung-von-Compliance-Standards-9341475.html"
+    },
+    {
+      "title": "C++20: Weitere Details zur Modulunterstützung der großen drei Compiler",
+      "teaser": "Im Vergleich zeigt sich, wie sich die großen drei Compiler GCC, Clang und der Microsoft-Compiler im Zusammenspiel mit Modulen schlagen.",
+      "url": "https://www.heise.de/blog/C-20-Weitere-Details-zur-Modulunterstuetzung-der-grossen-drei-Compiler-9340264.html"
+    },
+    {
+      "title": "Die Produktwerker: Eine Konferenz als Produkt entwickeln",
+      "teaser": "Diese Podcastfolge bietet einen Erfahrungsbericht von Stefan Vosskötter darüber, wie man eine Konferenz als Produkt verstehen und entwickeln kann.",
+      "url": "https://www.heise.de/blog/Die-Produktwerker-Eine-Konferenz-als-Produkt-entwickeln-9341130.html"
+    },
+    {
+      "title": "Indisches CBI, Amazon und Microsoft gehen gegen Tech-Support-Betrug vor",
+      "teaser": "Das indische Central Bureau Investigation hat Durchsuchungen in mehreren indischen Städten vorgenommen. Ziel waren kriminelle Callcenter.",
+      "url": "https://www.heise.de/news/Indisches-CBI-Amazon-und-Microsoft-gehen-gegen-Tech-Support-Betrug-vor-9341359.html",
+      "image_title": "Callcenter symbolisiert durch 2 Playmobil-Figuren"
+    },
+    {
       "title": "WhatsApp: Mit mehreren Konten gleichzeitig angemeldet sein",
       "teaser": "Beruflich und privat: Für all das kann man nun gleichzeitig mehrere WhatsApp-Konten auf einem Smartphone haben.",
       "url": "https://www.heise.de/news/WhatsApp-Mit-mehreren-Konten-gleichzeitig-angemeldet-sein-9341235.html"
     },
     {
-      "title": "Desktopumgebung: KDE Plasma 6 für Ende Februar 2024 geplant",
-      "teaser": "Das KDE-Projekt hat den Fahrplan für die Veröffentlichung der Desktopumgebung Plasma 6 aktualisiert. Ende Februar 2024 soll er verfügbar sein.",
+      "title": "Desktopumgebung: KDE-Fahrplan nennt Februar 2024 für Plasma-6-Release",
+      "teaser": "Das KDE-Projekt hat den Fahrplan für die Veröffentlichung der Desktopumgebung Plasma 6 aktualisiert. Ende Februar 2024 soll sie verfügbar sein.",
       "url": "https://www.heise.de/news/Desktopumgebung-KDE-Plasma-6-fuer-Ende-Februar-2024-geplant-9341144.html",
       "image_title": "KDE Plasma 5.26 auf Notebook auf Tisch"
     },
@@ -109,33 +136,6 @@
       "teaser": "Bislang hält sich Apple bei moderner KI in seinen Betriebssystemen sehr zurück. Spätestens nächstes Jahr könnte sich das ändern.",
       "url": "https://www.heise.de/news/Apples-KI-Strategie-Siri-mit-LLM-Pages-Co-mit-generativen-Inhalten-9341025.html",
       "image_title": "Craig Federighi"
-    },
-    {
-      "title": "Nach Cyberangriff: Internationaler Strafgerichtshof verbessert IT-Sicherheit",
-      "teaser": "Der Internationale Strafgerichtshof hat einen Bericht zu dem Cyberangriff im vergangenen Monat vorgelegt. Er verbessert die IT-Sicherheit.",
-      "url": "https://www.heise.de/news/Nach-Cyberangriff-Internationaler-Strafgerichtshof-verbessert-IT-Sicherheit-9340915.html"
-    },
-    {
-      "title": "c’t-Workshop: Einführung in GitLab",
-      "teaser": "Admins lernen im praxisorientierten Workshop, eine GitLab-Instanz zu betreiben, zu konfigurieren und an die eigenen Anforderungen anzupassen.",
-      "url": "https://www.heise.de/news/c-t-Workshop-Einfuehrung-in-GitLab-9336224.html"
-    },
-    {
-      "title": "IT-Umstellung bei der Postbank: Zahl der Beschwerden noch einmal stark gestiegen",
-      "teaser": "Die Verbraucherzentralen haben im dritten Quartal mehr als doppelt so viele Beschwerden zu Postbank und DSL Bank erhalten, wie in den ersten beiden zusammen.",
-      "url": "https://www.heise.de/news/IT-Umstellung-bei-der-Postbank-Zahl-der-Beschwerden-noch-einmal-stark-gestiegen-9340894.html",
-      "image_title": "Hände auf Laptop mit Geldkarte"
-    },
-    {
-      "title": "Bit-Rauschen: Der \"Europrozessor\" Rhea1 startet im Superrechner Jupiter",
-      "teaser": "2024 legt der erste europäische Exaflops-Computer mit europäischen Prozessoren los. Intel produziert feinere Strukturen und Qualcomm schießt sich in die Socke.",
-      "url": "https://www.heise.de/news/Bit-Rauschen-Der-Europrozessor-Rhea1-startet-im-Superrechner-Jupiter-9335852.html",
-      "image_title": ","
-    },
-    {
-      "title": "Basis-Absicherung: BSI erleichtert Gemeinden den Einstieg in den IT-Grundschutz",
-      "teaser": "Das BSI reagiert auf verheerende Cyberattacken auf öffentliche Verwaltungen mit dem Projekt \"Weg in die Basis-Absicherung\" nebst IT-Checklisten für Kommunen.",
-      "url": "https://www.heise.de/news/Basis-Absicherung-BSI-erleichtert-Gemeinden-den-Einstieg-in-den-IT-Grundschutz-9340675.html"
     },
     {
       "title": "Docusnap ist Champion im Bereich IT & Network Inventory Management",
