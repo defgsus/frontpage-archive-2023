@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-24T10:12:21",
+  "timestamp": "2023-10-24T11:09:16",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Squid",
+      "url": "https://www.heise.de/news/Proxy-Squid-6-4-schliesst-teils-kritische-Sicherheitsluecken-9342384.html"
+    },
+    {
       "title": "Citrix NetScaler ADC und Gateway",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html"
     },
@@ -44,25 +48,16 @@
       "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
     },
     {
-      "title": "Sophos Firewall",
-      "url": "https://www.heise.de/news/Sophos-Firewall-PDF-Passwortschutz-der-SPX-Funktion-umgehbar-9338226.html"
-    },
-    {
-      "title": "Nach Schlag gegen Ragnar Locker: Neun geschädigte Firmen allein in Deutschland",
-      "teaser": "Nach dem Schlag gegen die weltweit agierende Ransomware-Gruppe Ragnar Locker nennt das LKA Sachsen Details. Bundesweit seien neun Unternehmen geschädigt worden.",
-      "url": "https://www.heise.de/news/Nach-Schlag-gegen-Ragnar-Locker-Landeskriminalamt-Sachsen-nennt-weitere-Details-9342223.html",
-      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
+      "title": "Proxy: Squid 6.4 schließt teils kritische Sicherheitslücken",
+      "teaser": "Mit Squid 6.4 haben die Entwickler eine um vier Sicherheitslücken bereinigte Version des Proxy-Servers vorgelegt. Es klaffen jedoch weitere Lücken darin.",
+      "url": "https://www.heise.de/news/Proxy-Squid-6-4-schliesst-teils-kritische-Sicherheitsluecken-9342384.html",
+      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
     },
     {
       "title": "Jetzt patchen! Attacken auf Citrix NetScaler ADC und Gateway beobachtet",
       "teaser": "Derzeit kapern Angreifer Sessions und greifen auf Accounts zu. Citrix NetScaler ADC und Gateway sind aber nur mit bestimmten Konfigurationen gefährdet.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html",
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "Okta-Einbruch: Verdächtige Aktivitäten bei 1Password",
-      "teaser": "Der Support von Okta wurde kompromittiert. Dabei erlangten die Angreifer Zugänge auch zu 1Passwords Okta-Instanz.",
-      "url": "https://www.heise.de/news/Okta-Einbruch-1Password-bemerkte-verdaechtige-Aktivitaeten-9342147.html"
     },
     {
       "title": "iX-Workshop: Lokales Active Directory gegen Angriffe absichern",
@@ -83,6 +78,12 @@
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
     },
     {
+      "title": "Cisco IOS XE und die verschwundenen Hintertüren",
+      "teaser": "Die Anzahl der offensichtlich kompromittierten Geräte ist auch in Deutschland schlagartig gefallen, was wohl kaum an den gerade erschienenen Patches liegt.",
+      "url": "https://www.heise.de/news/Cisco-IOS-XE-und-die-verschwundenen-Hintertueren-9341205.html",
+      "image_title": "Aufmacher Cisco viele Patches"
+    },
+    {
       "title": "Nach Cyberangriff: Internationaler Strafgerichtshof verbessert IT-Sicherheit",
       "teaser": "Der Internationale Strafgerichtshof hat einen Bericht zu dem Cyberangriff im vergangenen Monat vorgelegt. Er verbessert die IT-Sicherheit.",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-Internationaler-Strafgerichtshof-verbessert-IT-Sicherheit-9340915.html"
@@ -91,6 +92,12 @@
       "title": "Basis-Absicherung: BSI erleichtert Gemeinden den Einstieg in den IT-Grundschutz",
       "teaser": "Das BSI reagiert auf verheerende Cyberattacken auf öffentliche Verwaltungen mit dem Projekt \"Weg in die Basis-Absicherung\" nebst IT-Checklisten für Kommunen.",
       "url": "https://www.heise.de/news/Basis-Absicherung-BSI-erleichtert-Gemeinden-den-Einstieg-in-den-IT-Grundschutz-9340675.html"
+    },
+    {
+      "title": "Missing Link: Die MOVEit-Sicherheitslücke – eine Zwischenbilanz",
+      "teaser": "Selbst wer die Software nicht verwendet, kann ein Opfer sein. Schätzungen gehen bisher von rund 68 Millionen Personen aus, deren Daten abgeflossen sind.",
+      "url": "https://www.heise.de/hintergrund/Die-MOVEit-Sicherheitsluecke-eine-Zwischenbilanz-9318038.html",
+      "image_title": "Abstraktes Bild zu Netzwerken"
     },
     {
       "title": "Ukrainian Cyber Alliance legt Ransomware-Gruppierung Trigona lahm",
@@ -150,11 +157,6 @@
       "title": "Neue Version von SolarWinds Access Rights Manager behebt Codeschmuggel-Lücken",
       "teaser": "Die Software zur Verwaltung von Zugriffsberechtigungen hat unter anderem Fehler, die eine Rechteausweitung ermöglichten. Admins sollten zügig handeln.",
       "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
-    },
-    {
-      "title": "Malvertising: KeePass-Seite mit Punycode gefälscht",
-      "teaser": "Cyberkriminelle werben über Google Ads etwa mit gefälschten KeePass-URLs mit Punycode-Zeichen. Die beworbene Seite liefert Malware aus.",
-      "url": "https://www.heise.de/news/Malvertising-Angreifer-nutzen-Punycode-fuer-gefaelschte-Webseiten-9339448.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
