@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-24T14:09:25",
+  "timestamp": "2023-10-24T15:12:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.ac16dcde601c4fbe36f0",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.966f966168d8aca6273a",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Firefox, Firefox ESR",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-Browser-anfaellig-fuer-Clickjacking-Attacken-9342945.html"
+    },
     {
       "title": "WordPress-Plug-in LiteSpeed",
       "url": "https://www.heise.de/news/Luecke-in-LiteSpeed-Cache-Plug-in-gefaehrdet-4-Millionen-WordPress-Websites-9342838.html"
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html"
     },
     {
-      "title": "VMware Aria, Fusion und Workstation",
-      "url": "https://www.heise.de/news/VMware-schliesst-Sicherheitslecks-in-Aria-Fusion-und-Workstation-9339932.html"
+      "title": "Sicherheitsupdates: Firefox-Browser anfällig für Clickjacking-Attacken",
+      "teaser": "Mozilla hat in aktuellen Versionen von Firefox und Firefox ESR mehrere Sicherheitsprobleme gelöst.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-Browser-anfaellig-fuer-Clickjacking-Attacken-9342945.html"
     },
     {
-      "title": "Webbrowser: Google testet mehr Privatsphäre in Chrome und entfernt Videocodec",
+      "title": "Webbrowser: Google Chrome entfernt Videocodec und testet mehr Privatsphäre",
       "teaser": "Die Google-Entwickler fangen mit Tests für die Privacy Sandbox von Chrome an. Aus Sicherheitsgründen entfernen sie den Theora-Codec.",
       "url": "https://www.heise.de/news/Webbrowser-Google-testet-mehr-Privatsphaere-in-Chrome-und-entfernt-Videocodec-9342881.html",
       "image_title": "Chrome-Logo 2023 vor Farbverlauf"
@@ -154,14 +159,9 @@
       "image_title": "Photo,Of,A,Soldier,In,Military,Uniform,Using,A,Laptop,Armee,Soldat"
     },
     {
-      "title": "VMware dichtet hochriskante Lecks in Aria, Fusion und Workstation ab",
-      "teaser": "VMware hat Updates für VMNware Aria Operations for Logs, VMware Fusion sowie VMware Workstation veröffentlicht. Sie schließen teils hochriskante Lücken.",
-      "url": "https://www.heise.de/news/VMware-schliesst-Sicherheitslecks-in-Aria-Fusion-und-Workstation-9339932.html"
-    },
-    {
-      "title": "Security mit System – auch für KMUs",
-      "teaser": "Das Webinar hilft IT- oder Sicherheitsverantwortlichen in kleinen und mittleren Unternehmen, ihre IT-Sicherheit systematisch zu verbessern. Dazu verschaffen Sie sich zunächst einen Überblick und planen dann mit einer praktischen Checkliste die nächsten Schritte.",
-      "url": "https://heise-academy.de/webinare/security_mit_system?wt_mc=intern.academy.security.web_secsystem.shopbuehne_kl.banner.banner"
+      "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
+      "teaser": "Das Webinar demonstriert, wie Angriffe typischerweise ablaufen und zeigt dir dann, was du dagegen tun kannst. Dazu gehört, wie du die aktuellen Einstellungen kontrollierst, vorhandene Security-Funktionen richtig nutzt und Logging & Monitoring einsetzt, um solche Angriffe zu entdecken.",
+      "url": "https://heise-academy.de/webinare/exchange_online-security?wt_mc=intern.academy.security.web_exchange_sec.shopbuehne_klein.banner.banner"
     },
     {
       "title": "Missing Link: Die MOVEit-Sicherheitslücke – eine Zwischenbilanz",
