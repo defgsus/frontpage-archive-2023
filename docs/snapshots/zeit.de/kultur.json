@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-24T12:21:42",
+  "timestamp": "2023-10-24T13:14:56",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Debatte über Israel: Es ist eben kompliziert",
+      "title": "Z+ (abopflichtiger Inhalt); \"Krabat\" von Otfried Preußler: Das Zauberbuch",
+      "teaser": "Diesen Oktober wäre Otfried Preußler 100 Jahre alt geworden. Sein \"Krabat\" ist bis heute von einem starken Zauber getragen. Wer ihn liest, ist gut fürs Leben gewappnet.",
+      "url": "https://www.zeit.de/2023/44/krabat-otfried-preussler-geburtstag-literatur",
+      "image_url": "https://img.zeit.de/2023/44/das-zauberbuch-bild-1/cinema__980x420"
+    },
+    {
+      "title": "Debatte über Israel: Es ist eben kompliziert",
       "teaser": "Deutschland sollte fest an der Seite Israels stehen. Aber gerade deshalb muss man bei der Debatte über den Nahost-Konflikt auch manche Ambivalenzen zulassen.",
       "url": "https://www.zeit.de/kultur/2023-10/debatte-israel-deutschland-nahost-konflikt",
-      "image_url": "https://img.zeit.de/kultur/2023-10/debatte-israel-deutschland-nahost-konflikt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/2023-10/debatte-israel-deutschland-nahost-konflikt-bild/wide__822x462",
+      "image_title": "Debatte über Israel: Es ist eben kompliziert"
     },
     {
       "title": "\"Inside Rheinmetall: Zwischen Krieg und Frieden\": Auf dem Minenfeld",
@@ -56,13 +63,6 @@
       "url": "https://www.zeit.de/kultur/2023-10/krisen-negatives-denken-juergen-wiebicke",
       "image_url": "https://img.zeit.de/kultur/2023-10/krisen-negatives-denken-juergen-wiebicke-teaserfoto/wide__822x462",
       "image_title": "Krisen und negatives Denken: \"Überall herrscht eine Unheilserwartung\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Christina Clemm: Es ist Hass und keine Tragödie",
-      "teaser": "Die Anwältin Christina Clemm verteidigt Frauen, die Opfer sexistisch motivierter Gewalt geworden sind. Nun hat sie darüber ein Buch geschrieben. Ein Treffen",
-      "url": "https://www.zeit.de/2023/44/gegen-frauenhass-christina-clemm-gewalt-frauen",
-      "image_url": "https://img.zeit.de/2023/44/gegen-frauenhass-christina-clemm-gewalt-frauen-bild/wide__822x462",
-      "image_title": "Christina Clemm: Es ist Hass und keine Tragödie"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Slavoj Žižek: \"Die Hamas muss vernichtet werden\"",
@@ -157,18 +157,18 @@
       "url": "https://www.zeit.de/kultur/2023-10/terrorismus-hamas-israel-11-september-moral"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Christina Clemm: Es ist Hass und keine Tragödie",
+      "teaser": "Die Anwältin Christina Clemm verteidigt Frauen, die Opfer sexistisch motivierter Gewalt geworden sind. Nun hat sie darüber ein Buch geschrieben. Ein Treffen",
+      "url": "https://www.zeit.de/2023/44/gegen-frauenhass-christina-clemm-gewalt-frauen",
+      "image_url": "https://img.zeit.de/2023/44/gegen-frauenhass-christina-clemm-gewalt-frauen-bild/wide__822x462",
+      "image_title": "Christina Clemm: Es ist Hass und keine Tragödie"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Sprachsensibilität in Kinderbüchern: Wenn Worte wehtun",
       "teaser": "Werden Kinderbuchklassiker geändert, heißt es schnell: Zensur! Wie ist es mit Büchern, die heute entstehen: Wie divers sollen sie sein? Gibt es eine zeitgemäße Sprache?",
       "url": "https://www.zeit.de/2023/44/sprachsensibilitaet-kinderbuecher-zensur-diversitaet",
       "image_url": "https://img.zeit.de/2023/44/sprachsensibilitaet-kinderbuecher-zensur-diversitaet-bild/wide__822x462",
       "image_title": "Sprachsensibilität in Kinderbüchern: Wenn Worte wehtun"
-    },
-    {
-      "title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?",
-      "teaser": "Sam Bankman-Fried hat seine Anleger um Milliarden geprellt – und nennt sich trotzdem einen \"effektiven Altruisten\". Wie passt das zusammen?",
-      "url": "https://www.zeit.de/kultur/2023-10/sam-bankman-fried-ftx-feuilleton-podcast",
-      "image_url": "https://img.zeit.de/kultur/2020-07/die-sogenannte-gegenwart-teaser-1/wide__822x462__F45C5C",
-      "image_title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Politische Linke zu Hamas-Angriff: Eine Denkschule ist an ihr Ende gekommen",
@@ -183,6 +183,13 @@
       "url": "https://www.zeit.de/kultur/2023-10/judith-butler-israel-hamas-linke-intellektuelle",
       "image_url": "https://img.zeit.de/politik/ausland/2023-10/judith-butler-israel-hamas-linke/wide__822x462",
       "image_title": "Judith Butler und Israel : Linke Schuldumkehr"
+    },
+    {
+      "title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?",
+      "teaser": "Sam Bankman-Fried hat seine Anleger um Milliarden geprellt – und nennt sich trotzdem einen \"effektiven Altruisten\". Wie passt das zusammen?",
+      "url": "https://www.zeit.de/kultur/2023-10/sam-bankman-fried-ftx-feuilleton-podcast",
+      "image_url": "https://img.zeit.de/kultur/2020-07/die-sogenannte-gegenwart-teaser-1/wide__822x462__F45C5C",
+      "image_title": "Feuilleton-Podcast: Ist Moral nur ein Kalkül?"
     },
     {
       "title": "\"Holly\" von Stephen King: Die Aufdringlichkeit des moralischen Diskurses",
@@ -206,13 +213,6 @@
       "image_title": "Salzburger Festspiele: Michael Maertens und Michael Sturminger bei Festspielen ausgeladen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Waltraud Meier: \"Der Mensch hat so viel zu sagen!\"",
-      "teaser": "Sie verkörperte die Überfrauen der Opernbühne. Doch jetzt ist Schluss, die Sängerin Waltraud Meier gibt ihren Abschied. Ein Gespräch über ein Leben im Rampenlicht",
-      "url": "https://www.zeit.de/2023/44/waltraud-meier-oper-saengerin-karriere",
-      "image_url": "https://img.zeit.de/2023/44/der-mensch-hat-so-viel-zu-sagen-bild-1/wide__822x462",
-      "image_title": "Waltraud Meier: \"Der Mensch hat so viel zu sagen!\""
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Friedenspreis für Salman Rushdie: \"Das Gute gewinnt nicht immer\"",
       "teaser": "Salman Rushdie hat den Friedenspreis des Deutschen Buchhandels entgegengenommen. Und sprach fulminant über Mythen und Wahrheit und die Möglichkeit von Frieden.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/salman-rushdie-friedenspreis-deutscher-buchhandel-2023-paulskirche",
@@ -227,6 +227,13 @@
       "image_title": "Alice Hasters: \"Das Ich im Wir und das Wir im Ich\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Waltraud Meier: \"Der Mensch hat so viel zu sagen!\"",
+      "teaser": "Sie verkörperte die Überfrauen der Opernbühne. Doch jetzt ist Schluss, die Sängerin Waltraud Meier gibt ihren Abschied. Ein Gespräch über ein Leben im Rampenlicht",
+      "url": "https://www.zeit.de/2023/44/waltraud-meier-oper-saengerin-karriere",
+      "image_url": "https://img.zeit.de/2023/44/der-mensch-hat-so-viel-zu-sagen-bild-1/wide__822x462",
+      "image_title": "Waltraud Meier: \"Der Mensch hat so viel zu sagen!\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Philosophie: Ist die Seele eine Landschaft?",
       "teaser": "Das Innenleben des Menschen spiegelt sich in der Natur. Doch der Krieg hat diese Beziehung für Ukrainerinnen und Ukrainer existenziell verändert.",
       "url": "https://www.zeit.de/2023/43/seele-philosophie-landschaft-ukraine-krieg-kunstgeschichte",
@@ -237,14 +244,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Kinderbuch-Neuerscheinungen: Comic, Bilderbuch, Kinderroman",
       "teaser": "\"Kommt der Krieg auch zu uns?\" Antworten auf Kinderfragen liefert das Buch \"Wann ist endlich Frieden?\" Eine von neun Empfehlungen für Leser zwischen 3 und 13 Jahren.",
       "url": "https://www.zeit.de/2023/44/neuerscheinungen-kinderbuch-jugendliche-lesen-empfehlungen",
-      "image_url": "https://img.zeit.de/2023/44/neuerscheinungen-kinderbuch-jugendliche-lesen-empfehlungen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/44/neuerscheinungen-kinderbuch-jugendliche-lesen-empfehlungen-bild/cinema__980x420",
       "image_title": "Kinderbuch-Neuerscheinungen: Comic, Bilderbuch, Kinderroman"
     },
     {
       "title": "Provenienz: Italien fordert antike Amphoren aus dem Louvre zurück",
       "teaser": "Die Mafia soll die gestohlenen Amphoren verkauft haben – nun sind sie in Frankreich im Louvre zu sehen. Italien fordert die Rückgabe der Kunstwerke.",
       "url": "https://www.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren",
-      "image_url": "https://img.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-10/italien-frankreich-louvre-rueckgabe-amphoren-bild/wide__822x462",
       "image_title": "Provenienz: Italien fordert antike Amphoren aus dem Louvre zurück"
     },
     {
@@ -258,14 +265,14 @@
       "title": "Frankfurter Buchmesse: \"Was ist ein gutes Leben?\"",
       "teaser": "Wir haben während der Buchmesse in Frankfurt mit vielen Autorinnen und Autoren über ihre neuen Bücher gesprochen. Sehen Sie hier alle Videos der Interviews.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/frankfurter-buchmesse-cornelia-funke-armin-nassehi-daniel-kehlmann",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse-bild/cinema__980x420",
       "image_title": "Frankfurter Buchmesse: \"Was ist ein gutes Leben?\""
     },
     {
       "title": "Arbeitskampf in Hollywood: Schauspieler wollen wieder mit den Filmstudios verhandeln",
       "teaser": "Schon seit 100 Tagen streiken die Filmdarstellerinnen und -darsteller in Hollywood. Nun soll ein neuer Versuch für eine Einigung mit den Filmstudios gestartet werden.",
       "url": "https://www.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-verhandlungen-filmbranche",
-      "image_url": "https://img.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-streaming-ki-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-10/hollywood-streik-schauspieler-streaming-ki-bild/wide__822x462",
       "image_title": "Arbeitskampf in Hollywood: Schauspieler wollen wieder mit den Filmstudios verhandeln"
     },
     {
@@ -277,23 +284,16 @@
     },
     {
       "title": "Cornelia Funke: \"Irgendwann dachte ich, das hat jemand anderes geschrieben\"",
-      "teaser": "Cornelia Funke hat ihrer \"Tintenwelt\"-Trilogie nun noch ein viertes Buch hinzugefügt. Wir haben mit Funke auf der Buchmesse gesprochen. Sehen Sie hier das Video.",
+      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/cornelia-funke-tintenwelt-vier-die-farbe-der-rache-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/cornelia-funke-tintenwelt-vier-die-farbe-der-rache-frankfurter-buchmesse-bild/wide__822x462",
-      "image_title": "Cornelia Funke: \"Irgendwann dachte ich, das hat jemand anderes geschrieben\""
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/cornelia-funke-tintenwelt-vier-die-farbe-der-rache-frankfurter-buchmesse-bild/wide__980x551"
     },
     {
       "title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\"",
-      "teaser": "Zum Anschauen benötigen wir Ihre Zustimmung",
+      "teaser": "Der Historiker Karl Schlögel porträtiert in seinem neuen Buch \"American Matrix\" die USA. Wir haben mit Schlögel auf der Buchmesse gesprochen. Sehen Sie hier das Video.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse-bild/wide__980x551"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde",
-      "teaser": "Anne Rabes Bestseller \"Die Möglichkeit von Glück\" zählt zu den Überraschungserfolgen des Jahres. Er fügt sich perfekt in die Ost-West-Debatte ein.",
-      "url": "https://www.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland",
-      "image_url": "https://img.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland-bild/wide__822x462",
-      "image_title": "\"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde"
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/karl-schloegel-american-matrix-frankfurter-buchmesse-bild/wide__822x462",
+      "image_title": "Karl Schlögel: \"Ich hatte nie vor, ein Buch über Amerika zu schreiben\""
     },
     {
       "title": "\"Eine Frage der Chemie\": Die Erfindung der Molekularküche",
@@ -308,6 +308,13 @@
       "url": "https://www.zeit.de/kultur/2023-10/pumpkin-spice-latte-starbucks-herbst-kitsch",
       "image_url": "https://img.zeit.de/kultur/2023-10/wochenende-43-pflichtverteidigung-pumpkin-spice-latte-bild/square__460x460",
       "image_title": "Pumpkin Spice Latte: Erhöhtes Herbstklopfen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); \"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde",
+      "teaser": "Anne Rabes Bestseller \"Die Möglichkeit von Glück\" zählt zu den Überraschungserfolgen des Jahres. Er fügt sich perfekt in die Ost-West-Debatte ein.",
+      "url": "https://www.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland",
+      "image_url": "https://img.zeit.de/2023/44/die-moeglichkeit-von-glueck-anna-rabe-deutscher-buchpreis-ostdeutschland-bild/wide__822x462",
+      "image_title": "\"Die Möglichkeit von Glück\" von Anne Rabe: Das Buch der Stunde"
     },
     {
       "title": "\"Lahai\" von Sampha: Anfang und Ende und alles dazwischen",
@@ -329,13 +336,6 @@
       "url": "https://www.zeit.de/2023/44/baubranche-wohnungsnot-abriss-atlas-umnutzung",
       "image_url": "https://img.zeit.de/2023/44/stoppt-den-abrisswahn-kein-haus-sollte-mehr-zerstoert-werden-wirklich-keines-bild-1/wide__822x462",
       "image_title": "Baubranche: Stoppt den Abrisswahn!"
-    },
-    {
-      "title": "Buch-Podcast \"Was liest du gerade?\": Verrücktes Aussteiger-Elternhaus meets Dorfjugend",
-      "teaser": "Jan Peter Bremer schreibt in \"Nach Hause kommen\" übers Aufwachsen im Wendland. Und Monika Maron pfercht in \"Das Haus\" Berliner Luxusrentner auf ein Gut in Brandenburg.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/nach-hause-kommen-jan-peter-bremer-buch-podcast",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/iris-radisch-adam-soboczynski-literatur-podcast-aufmacherfoto/wide__822x462",
-      "image_title": "Buch-Podcast \"Was liest du gerade?\": Verrücktes Aussteiger-Elternhaus meets Dorfjugend"
     },
     {
       "title": "Feminismus in Mexiko: Die lila Protestwelle rollt",
@@ -366,18 +366,18 @@
       "image_title": "Nicaragua: Verfolgt und ausgebürgert"
     },
     {
+      "title": "Buch-Podcast \"Was liest du gerade?\": Verrücktes Aussteiger-Elternhaus meets Dorfjugend",
+      "teaser": "Jan Peter Bremer schreibt in \"Nach Hause kommen\" übers Aufwachsen im Wendland. Und Monika Maron pfercht in \"Das Haus\" Berliner Luxusrentner auf ein Gut in Brandenburg.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-10/nach-hause-kommen-jan-peter-bremer-buch-podcast",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/iris-radisch-adam-soboczynski-literatur-podcast-aufmacherfoto/cinema__980x420",
+      "image_title": "Buch-Podcast \"Was liest du gerade?\": Verrücktes Aussteiger-Elternhaus meets Dorfjugend"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Adania Shibli: Unbeantwortete, unerwünschte Fragen",
       "teaser": "Eine Preisverleihung an die palästinensische Autorin Adania Shibli in Frankfurt wurde verschoben, dagegen gibt es Protest. Shibli hat mit der ZEIT geredet – eigentlich.",
       "url": "https://www.zeit.de/kultur/literatur/2023-10/adania-shibli-frankfurter-buchmesse-literatur-preis-palaestina",
-      "image_url": "https://img.zeit.de/kultur/2023-10/adania-shibli-debatte-eine-nebensache-antiisraelisch-frankfurter-buchmesse-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-10/adania-shibli-debatte-eine-nebensache-antiisraelisch-frankfurter-buchmesse-bild/wide__822x462",
       "image_title": "Adania Shibli: Unbeantwortete, unerwünschte Fragen"
-    },
-    {
-      "title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\"",
-      "teaser": "Daniel Kehlmann hat einen Roman über Georg Wilhelm Pabst geschrieben, der sich als Filmregisseur den Nazis unterwarf. Wir haben mit Kehlmann gesprochen. Hier das Video",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse-bild/wide__822x462",
-      "image_title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\""
     },
     {
       "title": "Anzeige: Sprache und Kultur studieren",
@@ -387,11 +387,11 @@
       "image_title": "Studienorientierung: Sprache und Kultur studieren"
     },
     {
-      "title": "Navid Kermani: \"Israelische Bürger waren niemals so unsicher\"",
-      "teaser": "Navid Kermanis neuer Roman \"Das Alphabet bis S\" ist erschienen. Wir haben mit ihm auf der Buchmesse auch über Israel und die Ukraine gesprochen. Sehen Sie hier das Video.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-10/navid-kermani-das-alphabet-bis-s-frankfurter-buchmesse",
-      "image_url": "https://img.zeit.de/politik/2023-10/navid-kermani-buchmesse-2023/wide__822x462",
-      "image_title": "Navid Kermani: \"Israelische Bürger waren niemals so unsicher\""
+      "title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\"",
+      "teaser": "Daniel Kehlmann hat einen Roman über Georg Wilhelm Pabst geschrieben, der sich als Filmregisseur den Nazis unterwarf. Wir haben mit Kehlmann gesprochen. Hier das Video",
+      "url": "https://www.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/daniel-kehlmann-lichtspiel-frankfurter-buchmesse-bild/wide__822x462",
+      "image_title": "Daniel Kehlmann: \"Der totalitäre Staat kriecht in jede Ritze\""
     },
     {
       "title": "Netflix-Serie \"Fauda\": Chaos in den Seelen",

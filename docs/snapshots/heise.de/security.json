@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-24T12:21:14",
+  "timestamp": "2023-10-24T13:14:30",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress-Plug-in LiteSpeed",
+      "url": "https://www.heise.de/news/Luecke-in-LiteSpeed-Cache-Plug-in-gefaehrdet-4-Millionen-WordPress-Websites-9342838.html"
+    },
+    {
       "title": "Squid",
       "url": "https://www.heise.de/news/Proxy-Squid-6-4-schliesst-teils-kritische-Sicherheitsluecken-9342384.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/VMware-schliesst-Sicherheitslecks-in-Aria-Fusion-und-Workstation-9339932.html"
     },
     {
-      "title": "SolarWinds ARM",
-      "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
+      "title": "Lücke in LiteSpeed-Cache-Plug-in gefährdet 4 Millionen WordPress-Websites",
+      "teaser": "Angreifer können WordPress-Websites mit Schadcode-Skripten verseuchen. Ein Sicherheitsupdate repariert das LiteSpeed-Cache-Plug-in.",
+      "url": "https://www.heise.de/news/Luecke-in-LiteSpeed-Cache-Plug-in-gefaehrdet-4-Millionen-WordPress-Websites-9342838.html"
     },
     {
       "title": "Proxy: Squid-Entwickler dichten teils kritische Lecks in Version 6.4 ab",
@@ -152,11 +157,6 @@
       "teaser": "Google Play Protect untersucht Android-Smartphones statisch auf Malware-Apps. Ein Echtzeit-Scan soll helfen, unbekannte Apps zu analysieren.",
       "url": "https://www.heise.de/news/Google-Play-Protect-erhaelt-Echtzeit-Scanner-fuer-Apps-9339698.html",
       "image_title": "March,27,,2019,,Brazil.,Google,Play,Logo,On,Your,Mobile"
-    },
-    {
-      "title": "Neue Version von SolarWinds Access Rights Manager behebt Codeschmuggel-Lücken",
-      "teaser": "Die Software zur Verwaltung von Zugriffsberechtigungen hat unter anderem Fehler, die eine Rechteausweitung ermöglichten. Admins sollten zügig handeln.",
-      "url": "https://www.heise.de/news/SolarWinds-behebt-Codeschmuggel-in-Access-Rights-Manager-9339437.html"
     },
     {
       "title": "Security mit System – auch für KMUs",
