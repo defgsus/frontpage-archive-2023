@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-24T09:11:39",
+  "timestamp": "2023-10-24T10:12:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix NetScaler ADC und Gateway",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html"
+    },
+    {
       "title": "VMware Aria, Fusion und Workstation",
       "url": "https://www.heise.de/news/VMware-schliesst-Sicherheitslecks-in-Aria-Fusion-und-Workstation-9339932.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Sophos-Firewall-PDF-Passwortschutz-der-SPX-Funktion-umgehbar-9338226.html"
     },
     {
-      "title": "AMD Radeon & Ryzen",
-      "url": "https://www.heise.de/news/AMD-Grafiktreiber-Schwachstelle-erlaubt-Codeschmuggel-9337480.html"
+      "title": "Nach Schlag gegen Ragnar Locker: Neun geschädigte Firmen allein in Deutschland",
+      "teaser": "Nach dem Schlag gegen die weltweit agierende Ransomware-Gruppe Ragnar Locker nennt das LKA Sachsen Details. Bundesweit seien neun Unternehmen geschädigt worden.",
+      "url": "https://www.heise.de/news/Nach-Schlag-gegen-Ragnar-Locker-Landeskriminalamt-Sachsen-nennt-weitere-Details-9342223.html",
+      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
+    },
+    {
+      "title": "Jetzt patchen! Attacken auf Citrix NetScaler ADC und Gateway beobachtet",
+      "teaser": "Derzeit kapern Angreifer Sessions und greifen auf Accounts zu. Citrix NetScaler ADC und Gateway sind aber nur mit bestimmten Konfigurationen gefährdet.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Okta-Einbruch: Verdächtige Aktivitäten bei 1Password",
@@ -145,21 +157,9 @@
       "url": "https://www.heise.de/news/Malvertising-Angreifer-nutzen-Punycode-fuer-gefaelschte-Webseiten-9339448.html"
     },
     {
-      "title": "iX-Workshop: Sich selbst hacken - Pentesting mit Open-Source-Werkzeugen",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. Mit Frühbucherrabatt.",
-      "url": "https://www.heise.de/news/iX-Workshop-Sich-selbst-hacken-Pentesting-mit-Open-Source-Werkzeugen-9214622.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "23andme: Angeblich vier Millionen weitere Genanalyse-Daten geleakt",
-      "teaser": "Noch immer ist nicht klar, was bei 23andme vorgefallen ist und was alles abgegriffen wurde. Nun wurden angeblich weitere Listen mit Nutzerdaten geleakt.",
-      "url": "https://www.heise.de/news/23andme-Angeblich-Genanalyse-Daten-aus-Grossbritannien-und-Deutschland-geleakt-9339051.html",
-      "image_title": "Testkit von 23andme"
-    },
-    {
-      "title": "Security mit System – auch für KMUs",
-      "teaser": "Das Webinar hilft IT- oder Sicherheitsverantwortlichen in kleinen und mittleren Unternehmen, ihre IT-Sicherheit systematisch zu verbessern. Dazu verschaffen Sie sich zunächst einen Überblick und planen dann mit einer praktischen Checkliste die nächsten Schritte.",
-      "url": "https://heise-academy.de/webinare/security_mit_system?wt_mc=intern.academy.security.web_secsystem.shopbuehne_kl.banner.banner"
+      "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
+      "teaser": "Das Webinar demonstriert, wie Angriffe typischerweise ablaufen und zeigt dir dann, was du dagegen tun kannst. Dazu gehört, wie du die aktuellen Einstellungen kontrollierst, vorhandene Security-Funktionen richtig nutzt und Logging & Monitoring einsetzt, um solche Angriffe zu entdecken.",
+      "url": "https://heise-academy.de/webinare/exchange_online-security?wt_mc=intern.academy.security.web_exchange_sec.shopbuehne_klein.banner.banner"
     },
     {
       "title": "Missing Link: Die MOVEit-Sicherheitslücke – eine Zwischenbilanz",
