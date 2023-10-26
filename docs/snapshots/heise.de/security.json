@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-26T12:21:11",
+  "timestamp": "2023-10-26T13:13:41",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "HP Support Assistant",
+      "url": "https://www.heise.de/news/Rechteausweitung-durch-Luecke-in-HP-Print-and-Scan-Doctor-9345192.html"
+    },
+    {
       "title": "X.Org X-Server & Xwayland",
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-X-Org-X-Server-und-Xwayland-erlauben-Rechteausweitung-9345096.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Update-stopft-kritische-Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-9344041.html"
     },
     {
-      "title": "Roundcube",
-      "url": "https://www.heise.de/news/Webmailer-Roundcube-Attacken-auf-Zero-Day-Luecke-9343924.html"
+      "title": "Rechteausweitung durch Lücke in HP Print and Scan Doctor",
+      "teaser": "Aktualisierte Software korrigiert einen Fehler im Support-Tool HP Print and Scan Doctor, der die Ausweitung der Rechte im System ermöglicht.",
+      "url": "https://www.heise.de/news/Rechteausweitung-durch-Luecke-in-HP-Print-and-Scan-Doctor-9345192.html"
     },
     {
       "title": "Sicherheitslücken im X.Org X-Server und Xwayland erlauben Rechteausweitung",
@@ -150,11 +155,6 @@
       "teaser": "Derzeit kapern Angreifer Sessions und greifen auf Accounts zu. Citrix NetScaler ADC und Gateway sind aber nur mit bestimmten Konfigurationen gefährdet.",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html",
       "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
-    },
-    {
-      "title": "Okta-Einbruch: Verdächtige Aktivitäten bei 1Password",
-      "teaser": "Der Support von Okta wurde kompromittiert. Dabei erlangten die Angreifer Zugänge auch zu 1Passwords Okta-Instanz.",
-      "url": "https://www.heise.de/news/Okta-Einbruch-1Password-bemerkte-verdaechtige-Aktivitaeten-9342147.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
