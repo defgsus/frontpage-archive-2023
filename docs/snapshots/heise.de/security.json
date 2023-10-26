@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-26T08:14:02",
+  "timestamp": "2023-10-26T09:11:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Jenkins-Plug-ins",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Jenkins-Plug-ins-als-Einfallstor-fuer-Angreifer-9344802.html"
+    },
+    {
       "title": "VMware vCenter Server & Cloud Foundation",
       "url": "https://www.heise.de/news/Update-stopft-kritische-Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-9344041.html"
     },
@@ -44,20 +48,9 @@
       "url": "https://www.heise.de/news/Exploitcode-fuer-Root-Luecke-in-VMware-Aria-Operations-for-Logs-in-Umlauf-9343519.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Google-Chrome-Update-schliesst-zwei-Sicherheitsluecken-9343438.html"
-    },
-    {
-      "title": "heise Security Webinar nächsten Donnerstag: Security mit System – auch für KMUs",
-      "teaser": "Wie bringe ich trotz beschränkter Ressourcen Security in mein Unternehmen? Das Webinar für IT-Verantwortliche in KMUs liefert Tipps aus erster Hand.",
-      "url": "https://www.heise.de/news/heise-Security-Webinar-naechsten-Donnerstag-Security-mit-System-auch-fuer-KMUs-9344655.html",
-      "image_title": "heise Security Tour 2023"
-    },
-    {
-      "title": "Proton Pass: Passwortmanager um E2EE-Teilen von Passwörtern und Co. erweitert",
-      "teaser": "Der Passwortmanager des Ende-zu-Ende-verschlüsselten E-Mail-Dienstes Proton Mail erlaubt das Teilen von Passwörtern und anderen sensiblen Informationen.",
-      "url": "https://www.heise.de/news/Proton-Pass-Passwortmanager-um-E2EE-Teilen-von-Passwoertern-und-Co-erweitert-9344160.html",
-      "image_title": "Lock,With,Chain,On,A,Computer,Keyboard,-,3d,Illustration"
+      "title": "Sicherheitsupdates: Jenkins-Plug-ins als Einfallstor für Angreifer",
+      "teaser": "Jenkins kann bei der Softwareentwicklung helfen. Einige Plug-ins weisen Sicherheitslücken auf. Ein paar Updates stehen noch aus.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Jenkins-Plug-ins-als-Einfallstor-fuer-Angreifer-9344802.html"
     },
     {
       "title": "Teils kritische Lücken in VMware vCenter Server und Cloud Foundation geschlossen",
@@ -68,6 +61,18 @@
       "title": "Webmailer Roundcube: Attacken auf Zero-Day-Lücke",
       "teaser": "Im Webmailer Roundcube missbrauchen Cyberkriminelle eine Sicherheitslücke, um verwundbare Einrichtungen anzugreifen. Ein Update schließt das Leck.",
       "url": "https://www.heise.de/news/Webmailer-Roundcube-Attacken-auf-Zero-Day-Luecke-9343924.html"
+    },
+    {
+      "title": "Lauschangriff auf russischen Jabber-Server in Deutschland: Wer steckt dahinter?",
+      "teaser": "Rein zufällig flog auf, dass sich Unbekannte mit einem eigenen Zertifikat in Jabber-Chat-Verbindungen einklinkten. Die Betreiber vermuten eine Polizeiaktion.",
+      "url": "https://www.heise.de/news/Lauschangriff-auf-russischen-Jabber-Server-in-Deutschland-Wer-steckt-dahinter-9343653.html",
+      "image_title": "Bronzestatue eines Paparazzo"
+    },
+    {
+      "title": "IT-Sicherheit: BSI befragt Unternehmen zu ihrer IT-Sicherheit",
+      "teaser": "Das BSI startet eine Umfrage zur IT-Sicherheit in Unternehmen. Darauf basierend erhalten Teilnehmer Tipps zu Verbesserungen.",
+      "url": "https://www.heise.de/news/BSI-startet-Umfrage-zur-IT-Sicherheit-in-Unternehmen-9343707.html",
+      "image_title": "Schild am Eingang zum BSI"
     },
     {
       "title": "Lücke in Cisco IOS XE: Auch Rockwell-Industrieswitches betroffen",
@@ -151,12 +156,6 @@
       "teaser": "Lernen Sie an praktischen Bespielen, wie Sie Windows 10 / 11 Pro und Enterprise in Ihrem Unternehmen sicher und effektiv einsetzen. Mit Frühbucherrabatt.",
       "url": "https://www.heise.de/news/iX-Workshop-Windows-10-und-11-im-Unternehmen-absichern-10-Rabatt-bis-06-11-9335365.html",
       "image_title": "Online-Workshop: Windows 10 und 11 im Unternehmen absichern"
-    },
-    {
-      "title": "Cisco IOS XE und die verschwundenen Hintertüren",
-      "teaser": "Die Anzahl der offensichtlich kompromittierten Geräte ist auch in Deutschland schlagartig gefallen, was wohl kaum an den gerade erschienenen Patches liegt.",
-      "url": "https://www.heise.de/news/Cisco-IOS-XE-und-die-verschwundenen-Hintertueren-9341205.html",
-      "image_title": "Aufmacher Cisco viele Patches"
     },
     {
       "title": "Security mit System – auch für KMUs",
