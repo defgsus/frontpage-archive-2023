@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-27T10:11:48",
+  "timestamp": "2023-10-27T11:09:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,9 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-X-Org-X-Server-und-Xwayland-erlauben-Rechteausweitung-9345096.html"
     },
     {
-      "title": "Hackerwetbewerb Pwn2Own: Teilnehmer knacken Samsungs Galaxy S23 mehrmals",
-      "teaser": "Beim Pwn2Own-Wettbewerb in Toronto haben Sicherheitsforscher Drucker, Smartphones und IoT-Geräte auf Sicherheit abgeklopft. Beliebtes Ziel war das Galaxy S23.",
-      "url": "https://www.heise.de/news/Hackerwetbewerb-Pwn2Own-Teilnehmer-knacken-Samsungs-Galaxy-S23-mehrmals-9346581.html"
+      "title": "Windows-Update-Vorschau bringt Passkey-Unterstützung und Copilot",
+      "teaser": "Microsoft bringt mit der Update-Vorschau im Oktober Unterstützung für Passkeys, der KI-Copilot soll zudem einziehen.",
+      "url": "https://www.heise.de/news/Windows-Update-Vorschau-bringt-Passkey-Unterstuetzung-und-Copilot-9346514.html"
     },
     {
       "title": "Konfigurationsprogramm von BIG-IP-Appliances als Sprungbrett für Angreifer",
@@ -77,6 +77,12 @@
       "title": "Sicherheitslücken im X.Org X-Server und Xwayland erlauben Rechteausweitung",
       "teaser": "Aktualisierte Fassung des X.Org X-Servers und von Xwayland schließen Sicherheitslücken. Die erlauben die Rechteausweitung oder einen Denial-of-Service.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-X-Org-X-Server-und-Xwayland-erlauben-Rechteausweitung-9345096.html"
+    },
+    {
+      "title": "iLeakage: Safari unzureichend vor Spectre-Seitenkanalangriff geschützt",
+      "teaser": "Sicherheitsforscher sagen, dass Apples Browser nicht ausreichend vor CPU-Seitenkanalangriffen schützt. Angreifer können Daten lesen. Es gibt Schutzmaßnahmen.",
+      "url": "https://www.heise.de/news/iLeakage-Schutz-vor-Spectre-Seitenkanalangriff-in-Safari-unzureichend-9344659.html",
+      "image_title": "iLeakage"
     },
     {
       "title": "Sicherheitsupdates: Jenkins-Plug-ins als Einfallstor für Angreifer",
@@ -149,15 +155,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Firefox-Browser-anfaellig-fuer-Clickjacking-Attacken-9342945.html"
     },
     {
-      "title": "Webbrowser: Google Chrome entfernt Videocodec und testet mehr Privatsphäre",
-      "teaser": "Die Google-Entwickler fangen mit Tests für die Privacy Sandbox von Chrome an. Aus Sicherheitsgründen entfernen sie den Theora-Codec.",
-      "url": "https://www.heise.de/news/Webbrowser-Google-testet-mehr-Privatsphaere-in-Chrome-und-entfernt-Videocodec-9342881.html",
-      "image_title": "Chrome-Logo 2023 vor Farbverlauf"
-    },
-    {
-      "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
-      "teaser": "Das Webinar demonstriert, wie Angriffe typischerweise ablaufen und zeigt dir dann, was du dagegen tun kannst. Dazu gehört, wie du die aktuellen Einstellungen kontrollierst, vorhandene Security-Funktionen richtig nutzt und Logging & Monitoring einsetzt, um solche Angriffe zu entdecken.",
-      "url": "https://heise-academy.de/webinare/exchange_online-security?wt_mc=intern.academy.security.web_exchange_sec.shopbuehne_klein.banner.banner"
+      "title": "Security mit System – auch für KMUs",
+      "teaser": "Das Webinar hilft IT- oder Sicherheitsverantwortlichen in kleinen und mittleren Unternehmen, ihre IT-Sicherheit systematisch zu verbessern. Dazu verschaffen Sie sich zunächst einen Überblick und planen dann mit einer praktischen Checkliste die nächsten Schritte.",
+      "url": "https://heise-academy.de/webinare/security_mit_system?wt_mc=intern.academy.security.web_secsystem.shopbuehne_kl.banner.banner"
     },
     {
       "title": "Missing Link: Die MOVEit-Sicherheitslücke – eine Zwischenbilanz",
