@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-27T07:10:24",
+  "timestamp": "2023-10-27T08:14:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "BIG-IP-Appliances",
+      "url": "https://www.heise.de/news/Konfigurationsprogramm-von-BIG-IP-Appliances-als-Sprungbrett-fuer-Angreifer-9346460.html"
+    },
+    {
+      "title": "Nessus Network Monitor",
+      "url": "https://www.heise.de/news/Nessus-Network-Monitor-ermoeglicht-Erhoehung-der-Rechte-im-System-9346392.html"
+    },
+    {
       "title": "HP Support Assistant",
       "url": "https://www.heise.de/news/Rechteausweitung-durch-Luecke-in-HP-Print-and-Scan-Doctor-9345192.html"
     },
@@ -40,12 +48,20 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-X-Org-X-Server-und-Xwayland-erlauben-Rechteausweitung-9345096.html"
     },
     {
-      "title": "Jenkins-Plug-ins",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Jenkins-Plug-ins-als-Einfallstor-fuer-Angreifer-9344802.html"
+      "title": "Konfigurationsprogramm von BIG-IP-Appliances als Sprungbrett für Angreifer",
+      "teaser": "F5 hat wichtige Sicherheitsupdates für BIG-IP-Produkte veröffentlicht. Angreifer können Geräte kompromittieren.",
+      "url": "https://www.heise.de/news/Konfigurationsprogramm-von-BIG-IP-Appliances-als-Sprungbrett-fuer-Angreifer-9346460.html"
     },
     {
-      "title": "VMware vCenter Server & Cloud Foundation",
-      "url": "https://www.heise.de/news/Update-stopft-kritische-Luecke-in-VMware-vCenter-Server-und-Cloud-Foundation-9344041.html"
+      "title": "Jagd auf Sicherheitslücken: Google erweitert Bug-Bounty-Programm um KI-Produkte",
+      "teaser": "Mit seinem ausgebauten Bug-Bounty-Programm will Google vor allem die Sicherheit generativer KI-Produkte verbessern.",
+      "url": "https://www.heise.de/news/Jagd-auf-Sicherheitsluecken-Google-erweitert-Bug-Bounty-Programm-um-KI-Produkte-9346434.html",
+      "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
+    },
+    {
+      "title": "Lücken in Nessus Network Monitor ermöglichen Rechteerhöhung",
+      "teaser": "Eine neue Version vom Nessus Network Monitor schließt Sicherheitslücken, durch die Angreifer etwa ihre Rechte erhöhen können.",
+      "url": "https://www.heise.de/news/Nessus-Network-Monitor-ermoeglicht-Erhoehung-der-Rechte-im-System-9346392.html"
     },
     {
       "title": "Rechteausweitung durch Lücke in HP Print and Scan Doctor",
@@ -137,24 +153,6 @@
       "title": "Lücke in LiteSpeed-Cache-Plug-in gefährdet 4 Millionen WordPress-Websites",
       "teaser": "Angreifer können WordPress-Websites mit Schadcode-Skripten verseuchen. Ein Sicherheitsupdate repariert das LiteSpeed-Cache-Plug-in.",
       "url": "https://www.heise.de/news/Luecke-in-LiteSpeed-Cache-Plug-in-gefaehrdet-4-Millionen-WordPress-Websites-9342838.html"
-    },
-    {
-      "title": "Proxy: Squid-Entwickler dichten teils kritische Lecks in Version 6.4 ab",
-      "teaser": "Mit Squid 6.4 haben die Entwickler eine um vier Sicherheitslücken bereinigte Version des Proxy-Servers vorgelegt. Es klaffen jedoch weitere Lücken darin.",
-      "url": "https://www.heise.de/news/Proxy-Squid-6-4-schliesst-teils-kritische-Sicherheitsluecken-9342384.html",
-      "image_title": "Blackout,Concept.,Emergency,Failure,Red,Light,In,Data,Center,With"
-    },
-    {
-      "title": "Nach Schlag gegen Ragnar Locker: Neun geschädigte Firmen allein in Deutschland",
-      "teaser": "Nach dem Schlag gegen die weltweit agierende Ransomware-Gruppe Ragnar Locker nennt das LKA Sachsen Details. Bundesweit seien neun Unternehmen geschädigt worden.",
-      "url": "https://www.heise.de/news/Nach-Schlag-gegen-Ragnar-Locker-Landeskriminalamt-Sachsen-nennt-weitere-Details-9342223.html",
-      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
-    },
-    {
-      "title": "Jetzt patchen! Attacken auf Citrix NetScaler ADC und Gateway beobachtet",
-      "teaser": "Derzeit kapern Angreifer Sessions und greifen auf Accounts zu. Citrix NetScaler ADC und Gateway sind aber nur mit bestimmten Konfigurationen gefährdet.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Citrix-NetScaler-ADC-und-Gateway-beobachtet-9342378.html",
-      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
     },
     {
       "title": "Security mit System – auch für KMUs",

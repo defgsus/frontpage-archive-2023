@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-27T07:10:19",
+  "timestamp": "2023-10-27T08:13:56",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Google Maps Update: Immersive Routen, thematische Suche und Lens",
+      "teaser": "Google Maps zeigt, wo man Latte Art bekommt und E-Auto-Ladesäulen stehen, kann Routen immersiv anzeigen und per Kamera suchen.",
+      "url": "https://www.heise.de/news/Google-Maps-Update-Immersive-Routen-thematische-Suche-und-Lens-9344973.html"
+    },
+    {
       "title": "Meta-Learning for Compositionality: KI soll besser generalisieren als der Mensch",
       "teaser": "Ein speziell trainiertes neuronales Netzwerk übertrifft Menschen beim logischen Generalisieren – ein Schritt Richtung Künstliche allgemeine Intelligenz?",
       "url": "https://www.heise.de/news/Meta-Learning-for-Compositionality-KI-soll-besser-generalisieren-als-der-Mensch-9345174.html",
@@ -37,12 +42,6 @@
       "url": "https://www.heise.de/news/40-Jahre-Microsoft-Word-9344319.html"
     },
     {
-      "title": "GeForce RTX 4080/4070: Super-Refresh deutet sich an",
-      "teaser": "Nvidia könnte 2024 eine GeForce RTX 4080 Super und RTX 4070 Super bringen. Erste Gerüchte kommen bereits auf.",
-      "url": "https://www.heise.de/news/GeForce-RTX-4080-4070-Super-Refresh-deutet-sich-an-9344825.html",
-      "image_title": "Grafikkarten in leuchteten Farben"
-    },
-    {
       "title": "Kurztests: Bildbearbeitungssoftware von DxO und Linux-Distribution elementary OS",
       "teaser": "Wir testen zwei Bildbearbeitungs-Tools von DxO, mit denen Sie digitalen Fotos neues Leben einhauchen, sowie Version 7.1 der Linux-Distribution elementary OS.",
       "url": "https://www.heise.de/tests/Kurztests-Bildbearbeitungssoftware-von-DxO-und-Linux-Distribution-elementary-OS-9342875.html"
@@ -52,6 +51,27 @@
       "teaser": "Das Windows-11-Funktionsupdate 23H2 bringt einen KI-Copiloten, willkommene Verbesserungen und ist schnell installiert.",
       "url": "https://www.heise.de/tests/Windows-11-Version-23H2-Was-das-Funktionsupdate-bringt-9342107.html",
       "image_title": "KI Midjourney Bearbeitung c’t"
+    },
+    {
+      "title": "Konfigurationsprogramm von BIG-IP-Appliances als Sprungbrett für Angreifer",
+      "teaser": "F5 hat wichtige Sicherheitsupdates für BIG-IP-Produkte veröffentlicht. Angreifer können Geräte kompromittieren.",
+      "url": "https://www.heise.de/news/Konfigurationsprogramm-von-BIG-IP-Appliances-als-Sprungbrett-fuer-Angreifer-9346460.html"
+    },
+    {
+      "title": "Jagd auf Sicherheitslücken: Google erweitert Bug-Bounty-Programm um KI-Produkte",
+      "teaser": "Mit seinem ausgebauten Bug-Bounty-Programm will Google vor allem die Sicherheit generativer KI-Produkte verbessern.",
+      "url": "https://www.heise.de/news/Jagd-auf-Sicherheitsluecken-Google-erweitert-Bug-Bounty-Programm-um-KI-Produkte-9346434.html",
+      "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
+    },
+    {
+      "title": "Programmiersprache: Rust für Neugierige",
+      "teaser": "Rust ist stark im Aufwind. Rust-Neulinge lernen in diesem Artikel die Gründe dafür sowie die einzigartigen Fähigkeiten der Programmiersprache kennen.",
+      "url": "https://www.heise.de/hintergrund/Programmiersprache-Rust-fuer-Neugierige-9345899.html"
+    },
+    {
+      "title": "Lücken in Nessus Network Monitor ermöglichen Rechteerhöhung",
+      "teaser": "Eine neue Version vom Nessus Network Monitor schließt Sicherheitslücken, durch die Angreifer etwa ihre Rechte erhöhen können.",
+      "url": "https://www.heise.de/news/Nessus-Network-Monitor-ermoeglicht-Erhoehung-der-Rechte-im-System-9346392.html"
     },
     {
       "title": "Schweizer Parlamentswahlen: Ergebnis wegen Softwarefehler nicht korrekt",
@@ -104,11 +124,6 @@
       "url": "https://www.heise.de/news/Rechteausweitung-durch-Luecke-in-HP-Print-and-Scan-Doctor-9345192.html"
     },
     {
-      "title": "Google Maps Update: Immersive Routen, thematische Suche und Lens",
-      "teaser": "Google Maps zeigt, wo man Latte Art bekommt und E-Auto-Ladesäulen stehen, kann Routen immersiv anzeigen und per Kamera suchen.",
-      "url": "https://www.heise.de/news/Google-Maps-Update-Immersive-Routen-thematische-Suche-und-Lens-9344973.html"
-    },
-    {
       "title": "Agile Softwareentwicklung im Unternehmen: Klarheit in der Produktentwicklung​",
       "teaser": "Die Online-Konferenz am 25. Januar 2024 zeigt, warum Coden allein nicht reicht, sondern Produkt-Denke gefordert ist.​",
       "url": "https://www.heise.de/news/Agile-Softwareentwicklung-im-Unternehmen-Klarheit-in-der-Produktentwicklung-9341396.html"
@@ -117,24 +132,6 @@
       "title": "Sicherheitslücken im X.Org X-Server und Xwayland erlauben Rechteausweitung",
       "teaser": "Aktualisierte Fassung des X.Org X-Servers und von Xwayland schließen Sicherheitslücken. Die erlauben die Rechteausweitung oder einen Denial-of-Service.",
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-X-Org-X-Server-und-Xwayland-erlauben-Rechteausweitung-9345096.html"
-    },
-    {
-      "title": "MOVEit-Sicherheitslücke: Auch Kunden von CCleaner betroffen",
-      "teaser": "Von der Sicherheitslücke bei der Datenübertragungssoftware MOVEit sind auch Kundendaten von der Reinigungs-App CCleaner betroffen.",
-      "url": "https://www.heise.de/news/MOVEit-Sicherheitsluecke-Auch-Kunden-von-CCleaner-betroffen-9345032.html",
-      "image_title": "CCleaner auf dem Smartphone, im Hintergrund Laptop, Stifte und eine Maus für den Computer"
-    },
-    {
-      "title": "#heiseshow: \"Cities: Skylines 2\" im Test und unsere liebsten Aufbauspiele",
-      "teaser": "Diesmal in der #heiseshow: Wir nehmen \"Cities: Skylines 2\" zum Anlass, über den Reiz der Aufbauspiele und unsere liebsten Genre-Vertreter zu sprechen.",
-      "url": "https://www.heise.de/news/heiseshow-Cities-Skylines-2-im-Test-und-unsere-liebsten-Aufbauspiele-9344928.html",
-      "image_title": "heiseshow - Jeden Donnerstag LIVE um 17 Uhr"
-    },
-    {
-      "title": "iX-Workshop: mit Ceph einen eigenen Storage Cluster aufsetzen und betreiben",
-      "teaser": "Lernen Sie die Speicherlösung Ceph kennen und erfahren Sie, wie Sie mit Ceph einen eigenen Storage Cluster aufsetzen und betreiben.",
-      "url": "https://www.heise.de/news/iX-Workshop-Software-defined-Storage-mit-Ceph-noch-Plaetze-frei-9335484.html",
-      "image_title": "Online-Workshop: Software-defined Storage mit Ceph"
     },
     {
       "title": "Docusnap ist Champion im Bereich IT & Network Inventory Management",
