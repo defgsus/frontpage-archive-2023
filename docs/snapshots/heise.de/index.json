@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-30T09:11:35",
+  "timestamp": "2023-10-30T10:12:15",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -151,7 +151,31 @@
       "image_title": "New,York,,Usa,-,July,2,,2018,-,Google,Android"
     },
     {
-      "title": "Atommüll-Endlager in Frankreich: Verfassungsrat billigt Pläne der Regierung",
+      "title": "EcoFlow Powerstream: Balkonkraftwerk mit Speicher im Test",
+      "teaser": "Will man dem Energieversorger an sonnigen Tagen nichts schenken, braucht es ein Balkonkraftwerk und den passenden Speicher.",
+      "url": "https://www.heise.de/tests/EcoFlow-Powerstream-Balkonkraftwerk-mit-Speicher-im-Test-9339968.html",
+      "image_title": ","
+    },
+    {
+      "title": "Safari 17.1: Apple-Umbau führt zu Grafikfehlern und Website-Problemen",
+      "teaser": "Eigentlich sollte Safari 17.1 nur ein Bugfix-Update sein. Doch interne Umbauten sorgen für Ärger in vielen Bereichen.",
+      "url": "https://www.heise.de/news/Safari-17-1-Apple-Umbau-fuehrt-zu-Grafikfehlern-und-Website-Problemen-9347998.html",
+      "image_title": "Safari von Apple"
+    },
+    {
+      "title": "\"Do Not Track\": LinkedIn darf nicht mehr erklären, Browserfunktion zu ignorieren",
+      "teaser": "Die Browserfunktion\"Do Not Track\" ist rechtlich nicht irrelevant. Das hat das Landgericht Berlin bestätigt. Folge leisten muss man ihr aber trotzdem nicht.",
+      "url": "https://www.heise.de/news/Do-Not-Track-LinkedIn-darf-nicht-mehr-erklaeren-Browserfunktion-zu-ignorieren-9348171.html",
+      "image_title": "LinkedIn"
+    },
+    {
+      "title": "Android-Smartphones: Huawei-App hält Google-App für Trojaner",
+      "teaser": "Unter anderem die Optimizer-App von Huawei stuft Googles Such-App als SMS-Trojaner ein. Das ist mit hoher Wahrscheinlichkeit ein Fehlalarm.",
+      "url": "https://www.heise.de/news/Android-Smartphones-Huawei-App-haelt-Google-App-fuer-Trojaner-9348204.html",
+      "image_title": "Magnifying,Glass,Enlarging,Malware,In,Computer,Machine,Code"
+    },
+    {
+      "title": "Atommüll: Französischer Verfassungsrat hat keinen Einwand gegen Endlager",
       "teaser": "Der französische Verfassungsrat weist Beschwerden von Umweltverbänden und Anliegern eines möglichen künftigen Atommüll-Endlagers ab.",
       "url": "https://www.heise.de/news/Atommuell-Endlager-in-Frankreich-Verfassungsrat-billigt-Plaene-der-Regierung-9348233.html"
     },
@@ -173,26 +197,6 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-in-SugarCRM-hochladen-9348130.html"
     },
     {
-      "title": "Die Ranges-Bibliothek in C++20: Designentscheidungen​",
-      "teaser": "Die Ranges-Bibliothek vereinfacht die Arbeit mit der Standard Template Library (STL). Sie bringt einige wichtige Designentscheidungen mit.",
-      "url": "https://www.heise.de/blog/Die-Ranges-Bibliothek-in-C-20-Designentscheidungen-9346271.html"
-    },
-    {
-      "title": "Smartphone-Kameras im Vergleich: Apple iPhone 15 Pro Max vs. Google Pixel 8 Pro",
-      "teaser": "Sie sind die Spitzenmodelle: Apple iPhone 15 Pro Max und Google Pixel 8 Pro. Der Test zeigt, ob man die beste Kamera bei iOS oder Android findet.",
-      "url": "https://www.heise.de/tests/Die-besten-Smartphone-Kameras-Apple-iPhone-15-Pro-Max-vs-Google-Pixel-8-Pro-9344149.html"
-    },
-    {
-      "title": "Sicherheit in der Automobilindustrie – in vier Webinaren zum TISAX-Experten",
-      "teaser": "Ab dem 7.11. lernen Sie in 4 Webinaren, wie Sie mit TISAX für Sicherheit in der Automobilindustrie sorgen: sicherer Datenaustausch und zuverlässige IT-Security.",
-      "url": "https://www.heise.de/news/Sicherheit-in-der-Automobilindustrie-in-vier-Webinaren-zum-TISAX-Experten-9329826.html"
-    },
-    {
-      "title": "Elektroauto VW e-Up im Dauertest: Überzeugende Sparlösung",
-      "teaser": "Wie hat sich der VW e-Up in zwei Jahren Alltag bewährt? Nicht frei von kleinen Fehlern, insgesamt aber mehr als nur ordentlich. Er ist sparsam und zuverlässig",
-      "url": "https://www.heise.de/tests/Elektroauto-VW-e-Up-im-Dauertest-Ueberzeugende-Sparloesung-9345776.html"
-    },
-    {
       "title": "Der große Gehaltsreport 2023Das verdienen IT-Fachkräfte in Deutschland",
       "teaser": "Wir zeigen, wie viel Geld Sie aktuell mit den passenden IT-Jobs verdienen können – sei es als IT-Supportler, Programmierer oder Führungskraft.",
       "url": "https://www.heise.de/hintergrund/Der-grosse-Gehaltsreport-2023-Das-verdienen-IT-Fachkraefte-in-Deutschland-9318012.html"
@@ -212,6 +216,26 @@
       "title": "heise+ Jahresabo",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "Die Ranges-Bibliothek in C++20: Designentscheidungen​",
+      "teaser": "Die Ranges-Bibliothek vereinfacht die Arbeit mit der Standard Template Library (STL). Sie bringt einige wichtige Designentscheidungen mit.",
+      "url": "https://www.heise.de/blog/Die-Ranges-Bibliothek-in-C-20-Designentscheidungen-9346271.html"
+    },
+    {
+      "title": "Smartphone-Kameras im Vergleich: Apple iPhone 15 Pro Max vs. Google Pixel 8 Pro",
+      "teaser": "Sie sind die Spitzenmodelle: Apple iPhone 15 Pro Max und Google Pixel 8 Pro. Der Test zeigt, ob man die beste Kamera bei iOS oder Android findet.",
+      "url": "https://www.heise.de/tests/Die-besten-Smartphone-Kameras-Apple-iPhone-15-Pro-Max-vs-Google-Pixel-8-Pro-9344149.html"
+    },
+    {
+      "title": "Sicherheit in der Automobilindustrie – in vier Webinaren zum TISAX-Experten",
+      "teaser": "Ab dem 7.11. lernen Sie in 4 Webinaren, wie Sie mit TISAX für Sicherheit in der Automobilindustrie sorgen: sicherer Datenaustausch und zuverlässige IT-Security.",
+      "url": "https://www.heise.de/news/Sicherheit-in-der-Automobilindustrie-in-vier-Webinaren-zum-TISAX-Experten-9329826.html"
+    },
+    {
+      "title": "Elektroauto VW e-Up im Dauertest: Überzeugende Sparlösung",
+      "teaser": "Wie hat sich der VW e-Up in zwei Jahren Alltag bewährt? Nicht frei von kleinen Fehlern, insgesamt aber mehr als nur ordentlich. Er ist sparsam und zuverlässig",
+      "url": "https://www.heise.de/tests/Elektroauto-VW-e-Up-im-Dauertest-Ueberzeugende-Sparloesung-9345776.html"
     },
     {
       "title": "Biodiversität bestimmen: KI analysiert Tierstimmen",
@@ -265,6 +289,11 @@
       "image_title": "Portfolio-Tracker-App auf einem Smartphone"
     },
     {
+      "title": "Personalisierte Medizin: Wie Biomarker den Behandlungserfolg bei schweren Krankheiten verbessern",
+      "teaser": "Standardverfahren in der Medizin berücksichtigen kaum die individuellen Unterschiede von Patientinnen und Patienten. Gerade bei Krebs und anderen schweren Erkrankungen kann das gravierende Folgen für den Behandlungserfolg und die Lebensqualität der Betroffenen haben. Genomsequenzen und andere Biomarker können helfen, Krankheiten besser zu verstehen und Therapien individuell anzupassen.",
+      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/cloud/beitrag/personalisierte-medizin-wie-biomarker-den-behandlungserfolg-bei-schweren-krankheiten-verbessern-4625/?source=hbsadersatz"
+    },
+    {
       "title": "Unterhaltungs-, Propaganda-, Informationsmedium: 100 Jahre Radio in Deutschland​",
       "teaser": "Die jüngere deutsche Geschichte ist wechselvoll – und sie beeinflusst die des Radios massiv. Eine Rückschau und Bilanz zum 100. Geburtstag.",
       "url": "https://www.heise.de/hintergrund/100-Jahre-Radio-in-Deutschland-Jetzt-hat-s-gefunkt-9346859.html",
@@ -286,11 +315,6 @@
       "title": "Top 7: Die besten kleinen Überwachungskameras im Test – Babyphone inklusive",
       "teaser": "Mini-Überwachungskameras sind dann gefragt, wenn es um die Beobachtung von Objekten bei Platzmangel geht. Modelle mit Akku und WLAN sind besonders flexibel.",
       "url": "https://www.techstage.de/bestenliste/top-7-die-besten-kleinen-ueberwachungskameras-im-test-babyphone-inklusive/0fktr80?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "Effizientere Softwareentwicklung dank Low Code und KI",
-      "teaser": "Im Webcast am 16.11. zeigen wir Ihnen, wie KI bei der Entwicklung von Software bereits heute eingesetzt werden kann, wie Unternehmen davon profitieren und wo die Reise hingeht.",
-      "url": "https://business-services.heise.de/software/machine-learning-ki/beitrag/effizientere-softwareentwicklung-dank-low-code-und-ki-4588/?source=hbsad_ersatz"
     },
     {
       "title": "Deutschlandticket: Verkehrsressorts der Länder fordern Klarheit bei Finanzierung",
@@ -323,27 +347,6 @@
       "title": "Intel-CEO Pat Gelsinger sieht keine Bedrohung durch ARM-Prozessoren​",
       "teaser": "Mögliche ARM-Prozessoren für Windows-PC seien keine Gefahr für Intels x86-CPUs, sondern eine Chance, als Auftragsfertiger davon zu profitieren.",
       "url": "https://www.heise.de/news/Intel-CEO-Pat-Gelsinger-sieht-keine-Bedrohung-durch-ARM-Prozessoren-9347692.html"
-    },
-    {
-      "title": "Digital Services Act: Viel Aufwand und Tamtam – aber bislang wenig Wirkung",
-      "teaser": "TikTok hat laut seinem ersten Transparenzbericht nach dem EU-Plattformgesetz zwar 4 Millionen Videos gelöscht, aber nur ein Promille davon auf Basis des DSA.",
-      "url": "https://www.heise.de/news/Digital-Services-Act-Viel-Aufwand-und-Tamtam-aber-bislang-wenig-Wirkung-9347664.html"
-    },
-    {
-      "title": "Grafik-Benchmark 3DMark wird 25​",
-      "teaser": "Im vergangenen Vierteljahrhundert brachte der 3DMark nicht nur Grafikkarten ins Schwitzen, sondern sorgte auch für Konflikte zwischen Hardware-Herstellern.",
-      "url": "https://www.heise.de/news/Grafik-Benchmark-3DMark-wird-25-9347658.html"
-    },
-    {
-      "title": "Autos abonnieren statt kaufen oder leasen",
-      "teaser": "Trotz vieler Finanzierungsmöglichkeiten bei Pkws gibt es einen Trend zum Abo. Gegen eine Gebühr bekommt man das Auto und muss sich um nichts weiter kümmern.",
-      "url": "https://www.heise.de/ratgeber/Autos-abonnieren-statt-kaufen-oder-leasen-9331003.html",
-      "image_title": ", Albert Hulm"
-    },
-    {
-      "title": "Leicas erste CAI-Kamera und DJIs Winzling - die Fotonews der Woche 43/2023",
-      "teaser": "Das Echtheitssiegel für Pressefotos kommt endlich in Schwung, butterweiches Filmen ist nun Standard – und Zubehör und Updates gibt es auch.",
-      "url": "https://www.heise.de/news/Leicas-erste-CAI-Kamera-und-DJIs-Winzling-die-Fotonews-der-Woche-43-2023-9346966.html"
     },
     {
       "title": "Osiris-Rex: Probenbehälter lässt sich mit verfügbarem Werkzeug nicht öffnen",
@@ -381,8 +384,8 @@
       "url": "https://www.heise.de/news/Aussicht-auf-Homeoffice-motiviert-zum-Jobwechsel-Kinderbetreuung-kaum-9343703.html"
     },
     {
-      "title": "Atomkraftwerk Isar 2: Kein Neustart mehr möglich",
-      "url": "https://www.heise.de/news/Atomkraftwerk-Isar-2-Kein-Neustart-mehr-moeglich-9344979.html"
+      "title": "Elektroautos: Geringe Unfallzahlen, hohe Reparaturkosten​",
+      "url": "https://www.heise.de/news/Elektroautos-Geringe-Unfallzahlen-hohe-Reparaturkosten-9345468.html"
     },
     {
       "title": "Intel-CEO Pat Gelsinger sieht keine Bedrohung durch ARM-Prozessoren​",
@@ -733,15 +736,9 @@
       "url": "https://www.techstage.de/bestenliste/top-8-die-besten-elektronischen-parkscheiben-mit-zulassung/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
-      "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
-      "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
-    },
-    {
-      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
-      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
-      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
-      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
+      "title": "Ukraine-Krieg: Nukleare Eskalation unwahrscheinlich – und doch wahrscheinlicher",
+      "teaser": "Nach der Wagner-Revolte muss der Kreml Stärke beweisen. Das steigert das Risiko, meint der russische Politologe Michail Troizki. Er weist auf ein Paradoxon hin .",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nukleare-Eskalation-unwahrscheinlich-und-doch-wahrscheinlicher-9207244.html"
     },
     {
       "title": "AfD: Warum dieser Rechtsruck?",
@@ -749,19 +746,24 @@
       "url": "https://www.heise.de/tp/features/AfD-Warum-dieser-Rechtsruck-9208552.html"
     },
     {
+      "title": "Bud Light: Biertrinker falsch abgeholt",
+      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
+      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
+    },
+    {
       "title": "Spotify: Kleine Künstler und Rausch-Podcaster sollen weniger Geld bekommen",
       "teaser": "Spotify will einem Bericht des Branchenmagazins MBW zufolge seine Lizenzzahlungen umstellen. Die großen Künstler bekommen mehr – auf Kosten anderer.",
       "url": "https://www.heise.de/news/Spotify-schliesst-kleine-Kuenstler-und-White-Noise-von-Einnahmen-aus-9344679.html"
     },
     {
-      "title": "\"Alan Wake 2\" läuft nicht mit GeForce GTX 1080 Ti und Radeon RX 5700 XT",
-      "teaser": "Das Entwicklungsstudio Remedy verwendet Mesh-Shaders. \"Alan Wake 2\" läuft deswegen nur auf neueren Grafikkarten.",
-      "url": "https://www.heise.de/news/Alan-Wake-2-laeuft-nicht-auf-GeForce-GTX-1080-Ti-und-Radeon-RX-5700-XT-9341389.html"
+      "title": "\"Alan Wake 2\" im Test: Horror ohne Hemmungen",
+      "teaser": "In \"Alan Wake 2\" kehrt die Titelfigur aus ihrem Exil zurück und stürzt sich und ihre Mitmenschen in einen Albtraum. Düster, spannend und originell.​",
+      "url": "https://www.heise.de/tests/Alan-Wake-2-im-Test-Horror-ohne-Hemmungen-9345080.html"
     },
     {
-      "title": "Matter kann jetzt waschen, saugen und Luft fächeln",
-      "teaser": "Der Smart-Home-Standard Matter unterstützt in Version 1.2 neun weitere Gerätetypen aus dem Haushaltsbereich. Erste Hersteller planen Updates für ihre Produkte.",
-      "url": "https://www.heise.de/news/Matter-kann-jetzt-waschen-saugen-und-Luft-faecheln-9341435.html"
+      "title": "Web-Tipps: Informiert sachlich",
+      "teaser": "Das Klima und dessen Wandel sind ein begründetes Dauerthema. Umso besser, wenn man die Annahmen auch mit wissenschaftlichen Fakten begründen kann.",
+      "url": "https://www.heise.de/news/Web-Tipps-Informiert-sachlich-9335898.html"
     },
     {
       "title": "Die 10 besten Cloud-Speicher",
