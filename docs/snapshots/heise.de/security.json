@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-10-31T11:09:29",
+  "timestamp": "2023-10-31T12:21:17",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Confluence",
+      "url": "https://www.heise.de/news/Atlassian-CISO-warnt-Kritische-Sicherheitsluecke-in-Confluence-sofort-patchen-9349347.html"
+    },
+    {
       "title": "SugarCRM",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-in-SugarCRM-hochladen-9348130.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Nessus-Network-Monitor-ermoeglicht-Erhoehung-der-Rechte-im-System-9346392.html"
     },
     {
-      "title": "HP Support Assistant",
-      "url": "https://www.heise.de/news/Rechteausweitung-durch-Luecke-in-HP-Print-and-Scan-Doctor-9345192.html"
+      "title": "Jetzt patchen: Kritische Sicherheitslücke in Confluence aufgetaucht",
+      "teaser": "In Confluence Server und Data Center klafft ein gefährlicher Bug – Atlassian drängt Administratoren zu zügigen Updates. Details sind Mangelware.",
+      "url": "https://www.heise.de/news/Atlassian-CISO-warnt-Kritische-Sicherheitsluecke-in-Confluence-sofort-patchen-9349347.html"
     },
     {
       "title": "Exploit für Cisco IOS XE veröffentlicht, Infektionszahlen weiter hoch",
@@ -147,12 +152,6 @@
       "teaser": "Von der Sicherheitslücke bei der Datenübertragungssoftware MOVEit sind auch Kundendaten von der Reinigungs-App CCleaner betroffen.",
       "url": "https://www.heise.de/news/MOVEit-Sicherheitsluecke-Auch-Kunden-von-CCleaner-betroffen-9345032.html",
       "image_title": "CCleaner auf dem Smartphone, im Hintergrund Laptop, Stifte und eine Maus für den Computer"
-    },
-    {
-      "title": "iLeakage: Safari unzureichend vor Spectre-Seitenkanalangriff geschützt",
-      "teaser": "Sicherheitsforscher sagen, dass Apples Browser nicht ausreichend vor CPU-Seitenkanalangriffen schützt. Angreifer können Daten lesen. Es gibt Schutzmaßnahmen.",
-      "url": "https://www.heise.de/news/iLeakage-Schutz-vor-Spectre-Seitenkanalangriff-in-Safari-unzureichend-9344659.html",
-      "image_title": "iLeakage"
     },
     {
       "title": "Security mit System – auch für KMUs",
