@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-01T08:14:27",
+  "timestamp": "2023-11-01T09:11:25",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Google-Chrome-119-dichtet-15-Sicherheitslecks-ab-und-bringt-HTTPS-Upgrades-9349956.html"
+    },
+    {
       "title": "Confluence",
       "url": "https://www.heise.de/news/Atlassian-CISO-warnt-Kritische-Sicherheitsluecke-in-Confluence-sofort-patchen-9349347.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Konfigurationsprogramm-von-BIG-IP-Appliances-als-Sprungbrett-fuer-Angreifer-9346460.html"
     },
     {
-      "title": "Nessus Network Monitor",
-      "url": "https://www.heise.de/news/Nessus-Network-Monitor-ermoeglicht-Erhoehung-der-Rechte-im-System-9346392.html"
+      "title": "Google Chrome 119 dichtet 15 Sicherheitslecks ab und bringt HTTPS-Upgrades",
+      "teaser": "Google hat den Webbrowser Chrome in Version 119 veröffentlicht. Sie schließt 15 Sicherheitslücken und etabliert den HTTPS-Upgrade-Mechanismus.",
+      "url": "https://www.heise.de/news/Google-Chrome-119-dichtet-15-Sicherheitslecks-ab-und-bringt-HTTPS-Upgrades-9349956.html"
     },
     {
       "title": "Blackberry sucht zwei neue Chefs – John Chen setzt sich zur Ruhe​",
@@ -150,15 +155,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-im-X-Org-X-Server-und-Xwayland-erlauben-Rechteausweitung-9345096.html"
     },
     {
-      "title": "MOVEit-Sicherheitslücke: Auch Kunden von CCleaner betroffen",
-      "teaser": "Von der Sicherheitslücke bei der Datenübertragungssoftware MOVEit sind auch Kundendaten von der Reinigungs-App CCleaner betroffen.",
-      "url": "https://www.heise.de/news/MOVEit-Sicherheitsluecke-Auch-Kunden-von-CCleaner-betroffen-9345032.html",
-      "image_title": "CCleaner auf dem Smartphone, im Hintergrund Laptop, Stifte und eine Maus für den Computer"
-    },
-    {
-      "title": "Security mit System – auch für KMUs",
-      "teaser": "Das Webinar hilft IT- oder Sicherheitsverantwortlichen in kleinen und mittleren Unternehmen, ihre IT-Sicherheit systematisch zu verbessern. Dazu verschaffen Sie sich zunächst einen Überblick und planen dann mit einer praktischen Checkliste die nächsten Schritte.",
-      "url": "https://heise-academy.de/webinare/security_mit_system?wt_mc=intern.academy.security.web_secsystem.shopbuehne_kl.banner.banner"
+      "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
+      "teaser": "Das Webinar demonstriert, wie Angriffe typischerweise ablaufen und zeigt dir dann, was du dagegen tun kannst. Dazu gehört, wie du die aktuellen Einstellungen kontrollierst, vorhandene Security-Funktionen richtig nutzt und Logging & Monitoring einsetzt, um solche Angriffe zu entdecken.",
+      "url": "https://heise-academy.de/webinare/exchange_online-security?wt_mc=intern.academy.security.web_exchange_sec.shopbuehne_klein.banner.banner"
     },
     {
       "title": "Missing Link: Welche Länder und Branchen von der MOVEit-Lücke betroffen sind",
