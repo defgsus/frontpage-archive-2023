@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-01T10:11:51",
+  "timestamp": "2023-11-01T11:09:23",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Citrix NetScaler ADC und Gateway",
+      "url": "https://www.heise.de/news/CitrixBleed-Ransomware-Banden-attackieren-Citrix-NetScaler-9350201.html"
+    },
+    {
       "title": "BIG-IP-Appliances",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-BIG-IP-Appliances-beobachtet-9350108.html"
     },
@@ -44,8 +48,16 @@
       "url": "https://www.heise.de/news/Atlassian-CISO-warnt-Kritische-Sicherheitsluecke-in-Confluence-sofort-patchen-9349347.html"
     },
     {
-      "title": "SugarCRM",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-in-SugarCRM-hochladen-9348130.html"
+      "title": "iX-Workshop: Wie Angreifer vorgehen – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. Mit Frühbucherrabatt.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-9346175.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
+    },
+    {
+      "title": "CitrixBleed: Ransomware-Banden attackieren Citrix NetScaler",
+      "teaser": "Derzeit schlüpfen Erpressungstrojaner durch eine kritische Sicherheitslücke in Citrix Netscaler ADC und Gateway. Sicherheitspatches stehen bereit.",
+      "url": "https://www.heise.de/news/CitrixBleed-Ransomware-Banden-attackieren-Citrix-NetScaler-9350201.html",
+      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Jetzt patchen! Attacken auf BIG-IP-Appliances beobachtet",
@@ -145,19 +157,9 @@
       "image_title": "Mann in Anzug hält breit gefächerte Dollarscheine in die Kamera"
     },
     {
-      "title": "Lücken in Nessus Network Monitor ermöglichen Rechteerhöhung",
-      "teaser": "Eine neue Version vom Nessus Network Monitor schließt Sicherheitslücken, durch die Angreifer etwa ihre Rechte erhöhen können.",
-      "url": "https://www.heise.de/news/Nessus-Network-Monitor-ermoeglicht-Erhoehung-der-Rechte-im-System-9346392.html"
-    },
-    {
-      "title": "Rechteausweitung durch Lücke in HP Print and Scan Doctor",
-      "teaser": "Aktualisierte Software korrigiert einen Fehler im Support-Tool HP Print and Scan Doctor, der die Ausweitung der Rechte im System ermöglicht.",
-      "url": "https://www.heise.de/news/Rechteausweitung-durch-Luecke-in-HP-Print-and-Scan-Doctor-9345192.html"
-    },
-    {
-      "title": "Security mit System – auch für KMUs",
-      "teaser": "Das Webinar hilft IT- oder Sicherheitsverantwortlichen in kleinen und mittleren Unternehmen, ihre IT-Sicherheit systematisch zu verbessern. Dazu verschaffen Sie sich zunächst einen Überblick und planen dann mit einer praktischen Checkliste die nächsten Schritte.",
-      "url": "https://heise-academy.de/webinare/security_mit_system?wt_mc=intern.academy.security.web_secsystem.shopbuehne_kl.banner.banner"
+      "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
+      "teaser": "Das Webinar demonstriert, wie Angriffe typischerweise ablaufen und zeigt dir dann, was du dagegen tun kannst. Dazu gehört, wie du die aktuellen Einstellungen kontrollierst, vorhandene Security-Funktionen richtig nutzt und Logging & Monitoring einsetzt, um solche Angriffe zu entdecken.",
+      "url": "https://heise-academy.de/webinare/exchange_online-security?wt_mc=intern.academy.security.web_exchange_sec.shopbuehne_klein.banner.banner"
     },
     {
       "title": "Missing Link: Welche Länder und Branchen von der MOVEit-Lücke betroffen sind",
