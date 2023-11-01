@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-01T18:14:48",
+  "timestamp": "2023-11-01T19:09:31",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Federal Reserve: US-Notenbank lässt Leitzins unverändert",
+      "teaser": "Seit März vergangenen Jahres hat die US-Notenbank den Leitzins elfmal angehoben. Jetzt sollen die Zinsen zum zweiten Mal in Folge unverändert bleiben.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/us-notenbank-leitzins-unveraendert",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/us-notenbank-leitzins-bild-2/cinema__980x420"
+    },
+    {
       "title": "Rentenerhöhung: Renten werden 2024 laut Schätzung um 3,5 Prozent steigen",
       "teaser": "Im Juli 2024 werden die Renten erhöht – wie stark, bestimmt zuvor das Bundeskabinett. Laut einer offiziellen Schätzung fällt die Erhöhung kleiner aus als in diesem Jahr.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/rente-erhoehung-schaetzung-2024-rentenversicherungsbericht",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/rente-erhoehung-schaetzung-2024-rentenversicherungsbericht-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/rente-erhoehung-schaetzung-2024-rentenversicherungsbericht-bild/wide__822x462",
+      "image_title": "Rentenerhöhung: Renten werden 2024 laut Schätzung um 3,5 Prozent steigen"
     },
     {
       "title": "Energieversorgung: Christian Lindner stellt Kohleausstieg 2030 infrage",
@@ -52,17 +59,10 @@
     },
     {
       "title": "Glyphosat: Bayer haftet für Krebserkrankung wegen Einsatz von Unkrautvernichter",
-      "teaser": "Bayer muss erneut im Zusammenhang mit dem glyphosathaltigen Unkrautvernichter Roundup Schadenersatz in Millionenhöhe zahlen. Der Konzern erwägt, in Berufung zu gehen.",
+      "teaser": "Bayer muss erneut im Zusammenhang mit dem glyphosathaltigen Unkrautvernichter Roundup Schadenersatz in Millionenhöhe zahlen. Der Konzern erwägt, in Berufung zu gehen. 106 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-11/bayer-unkrautvernichter-roundup-krebs-schadenersatz",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-11/monsanto-roundup-prozess-unkautverzichter/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-11/monsanto-roundup-prozess-unkautverzichter/cinema__980x420",
       "image_title": "Glyphosat: Bayer haftet für Krebserkrankung wegen Einsatz von Unkrautvernichter"
-    },
-    {
-      "title": "Euroländer: Inflation im Euroraum fällt auf 2,9 Prozent",
-      "teaser": "Die Inflationsrate im Euroraum ist überraschend deutlich gesunken. Die Verbraucherpreise stiegen im Oktober lediglich um knapp drei Prozent im Vergleich zum Vorjahr.",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/inflation-euroraum-oktober-gesunken",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/inflation-euroraum-oktober-gesunken-bild/cinema__980x420",
-      "image_title": "Euroländer: Inflation im Euroraum fällt auf 2,9 Prozent"
     },
     {
       "title": "AnzeigePUMA: Mit Workday zum Erfolg",
@@ -72,18 +72,18 @@
       "image_title": "PUMA: Mit Workday zum Erfolg"
     },
     {
+      "title": "Euroländer: Inflation im Euroraum fällt auf 2,9 Prozent",
+      "teaser": "Die Inflationsrate im Euroraum ist überraschend deutlich gesunken. Die Verbraucherpreise stiegen im Oktober lediglich um knapp drei Prozent im Vergleich zum Vorjahr.",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/inflation-euroraum-oktober-gesunken",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/inflation-euroraum-oktober-gesunken-bild/wide__822x462",
+      "image_title": "Euroländer: Inflation im Euroraum fällt auf 2,9 Prozent"
+    },
+    {
       "title": "Vorteile von privaten Krankenversicherungen: Endlich Patient erster Klasse",
       "teaser": "Schnelle Termine, Premiumbehandlungen: Ist man privat versichert, gibt es viele Extras. Das ist teuer und lohnt nicht immer. Eine Gruppe aber sollte den Wechsel erwägen.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/vorteile-private-krankenversicherungen-wechsel-sparen",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/vorteile-private-krankenversicherungen-wechsel-sparen-bild/wide__822x462",
       "image_title": "Vorteile von privaten Krankenversicherungen: Endlich Patient erster Klasse"
-    },
-    {
-      "title": "Konsumverhalten: Einzelhandel macht weiter weniger Umsatz",
-      "teaser": "Die Verbraucher in Deutschland kaufen weniger ein – und das bekommt der Einzelhandel zu spüren. Im September gingen die Umsätze erneut zurück.",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/deutschland-einzelhandel-umsatz-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/deutschland-einzelhandel-umsatz-statistisches-bundesamt-bild-2/wide__822x462",
-      "image_title": "Konsumverhalten: Einzelhandel macht weiter weniger Umsatz"
     },
     {
       "title": "Vorteile von privaten Krankenversicherungen: Endlich Patient erster Klasse",
@@ -191,6 +191,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Konsumverhalten: Einzelhandel macht weiter weniger Umsatz",
+      "teaser": "Die Verbraucher in Deutschland kaufen weniger ein – und das bekommt der Einzelhandel zu spüren. Im September gingen die Umsätze erneut zurück.",
+      "url": "https://www.zeit.de/wirtschaft/2023-10/deutschland-einzelhandel-umsatz-statistisches-bundesamt",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/deutschland-einzelhandel-umsatz-statistisches-bundesamt-bild-2/wide__822x462",
+      "image_title": "Konsumverhalten: Einzelhandel macht weiter weniger Umsatz"
+    },
+    {
       "title": "Streik bei US-Autoherstellern: Automobilgewerkschaft erzielt Einigung mit General Motors",
       "teaser": "Die UAW und GM haben sich unter anderem auf eine Erhöhung des Stundenlohns um 25 Prozent geeinigt. UAW-Präsident Shawn Fain erklärt die Streiks damit für beendet.",
       "url": "https://www.zeit.de/wirtschaft/2023-10/general-motors-streik-gewerkschaft-uaw-einigung-ende",
@@ -215,14 +222,14 @@
       "title": "EU-Kommission: Deutschland darf Fischer für Brexit-Folgen mit Millionen entschädigen",
       "teaser": "Durch Großbritanniens EU-Austritt können viele Fischer weniger vor der Küste fangen. Die EU hat Deutschland erlaubt, Betroffene mit 20 Millionen Euro zu unterstützen.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-10/eu-kommission-fischer-unterstuetzung-millionen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/fischer-brexit-entschaedigung-eu-kommission/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/fischer-brexit-entschaedigung-eu-kommission/cinema__980x420",
       "image_title": "EU-Kommission: Deutschland darf Fischer für Brexit-Folgen mit Millionen entschädigen"
     },
     {
       "title": "Postbank: Deutsche Bank plant Schließung von 250 Postbank-Filialen",
       "teaser": "Viele Postbank-Zweigstellen seien seit Langem unprofitabel, sagt Privatkunden-Chef de Sanctis. Bis Mitte 2026 soll deshalb fast die Hälfte der 550 Filialen schließen.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-10/schliessung-postbank-filialen-deutsche-bank",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/postbank-deutsche-bank-filialen-schliessung/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-10/postbank-deutsche-bank-filialen-schliessung/wide__822x462",
       "image_title": "Postbank: Deutsche Bank plant Schließung von 250 Postbank-Filialen"
     },
     {
@@ -231,13 +238,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-10/inflation-deutschland-3-8-prozent-statistisches-bundesamt",
       "image_url": "https://img.zeit.de/wirtschaft/2023-10/inflation-deutschland-3-8-prozent-statistisches-bundesamt-lebensmittel/wide__822x462",
       "image_title": "Preise: Inflationsrate sinkt im Oktober auf 3,8 Prozent"
-    },
-    {
-      "title": "Bündnis Sahra Wagenknecht: Die neuen Polarisierungsunternehmer",
-      "teaser": "Was das Bündnis Sahra Wagenknecht sozialpolitisch genau will, bleibt im Vagen. Klar ist nur, es wird die Verunsicherung in der Mitte der Gesellschaft weiter anheizen.",
-      "url": "https://www.zeit.de/wirtschaft/2023-10/buendnis-sahra-wagenknecht-gesellschaft-programm-sozialpolitik",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-10/buendnis-sahra-wagenknecht/wide__822x462",
-      "image_title": "Bündnis Sahra Wagenknecht: Die neuen Polarisierungsunternehmer"
     },
     {
       "title": "Evergrande: Hongkonger Gericht vertagt Entscheidung über Auflösung von Evergrande",
