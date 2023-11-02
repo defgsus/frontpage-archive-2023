@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-02T09:10:58",
+  "timestamp": "2023-11-02T10:12:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Cisco",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Cisco-Firewalls-manipulieren-9351087.html"
+    },
+    {
       "title": "Citrix NetScaler ADC und Gateway",
       "url": "https://www.heise.de/news/CitrixBleed-Ransomware-Banden-attackieren-Citrix-NetScaler-9350201.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Google-Chrome-119-dichtet-15-Sicherheitslecks-ab-und-bringt-HTTPS-Upgrades-9349956.html"
     },
     {
-      "title": "Confluence",
-      "url": "https://www.heise.de/news/Atlassian-CISO-warnt-Kritische-Sicherheitsluecke-in-Confluence-sofort-patchen-9349347.html"
+      "title": "Sicherheitslücken: Angreifer können Cisco-Firewalls manipulieren",
+      "teaser": "Mehrere Schwachstellen gefährden unter anderem Cisco Firepower und Identity Services Engine. Patches sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Cisco-Firewalls-manipulieren-9351087.html"
+    },
+    {
+      "title": "Passwort-Manager: Bitwarden rüstet Passkey-Unterstützung nach",
+      "teaser": "Der Open-Source Passwort-Manager Bitwarden hat jetzt initiale Passkey-Unterstützung integriert. Die Browsererweiterungen übernehmen die Funktion.",
+      "url": "https://www.heise.de/news/Passwort-Manager-Bitwarden-ruestet-Passkey-Unterstuetzung-nach-9351260.html"
     },
     {
       "title": "iX-Workshop: Microsofts Entra ID (AAD) erfolgreich gegen Angriffe absichern",
@@ -147,17 +157,6 @@
       "teaser": "Die Cyberkriminellengruppe Lockbit behauptet, eine riesige Menge schützenswerter Daten von Boeing erbeutet zu haben. Die Konsequenzen könnten weitreichend sein.",
       "url": "https://www.heise.de/news/Lockbit-Angriff-Datendiebstahl-bei-Boeing-9347988.html",
       "image_title": "Boeing 737 Max in der Luft"
-    },
-    {
-      "title": "Missing Link: Welche Länder und Branchen von der MOVEit-Lücke betroffen sind",
-      "teaser": "Die Opferzahlen bei Privatpersonen und Firmen steigen auch Monate nach der Tat weiter an. Untersuchungen zum Ausmaß des Angriffs laufen weiter.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Welche-Laender-und-Branchen-von-der-MOVEit-Luecke-betroffen-sind-9347621.html",
-      "image_title": "Business-Team arbeitet mit künstlicher Intelligenz am Computer. Eher eine abstrakte Darstellung."
-    },
-    {
-      "title": "Forscher: Sicherheitslücken beim Roaming bleiben auch bei 5G eine große Gefahr",
-      "teaser": "Mobilfunker und Regulierer unternehmen laut einem Bericht des Citizen Lab zu wenig, um Sicherheitsschwächen der Roaming- und Abrechnungsprotokolle auszumerzen.​",
-      "url": "https://www.heise.de/news/Forscher-Sicherheitsluecken-beim-Roaming-bleiben-auch-bei-5G-eine-grosse-Gefahr-9347577.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
