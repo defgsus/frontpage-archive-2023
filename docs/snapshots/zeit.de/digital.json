@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-02T11:10:01",
+  "timestamp": "2023-11-02T12:21:51",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "BSI-Lagebericht: Wie KI-Assistenten Ihren Rechner leer räumen können",
+      "teaser": "Viele Unternehmen setzen inzwischen auf den Einsatz großer Sprachmodelle. Das BSI warnt, Angreifer könnten sie nutzen, um noch mehr Schwachstellen zu finden als bisher.",
+      "url": "https://www.zeit.de/digital/2023-11/bsi-lagebericht-kuenstliche-intelligenz-einsatz-informationstechnik",
+      "image_url": "https://img.zeit.de/digital/2023-11/bsi-lagebericht-kuenstliche-intelligenz-einsatz-informationstechnik-bild/cinema__980x420"
+    },
+    {
       "title": "Bundesamt für Sicherheit in der Informationstechnik: BSI warnt vor Schwachstellen in Software und vor KI-Missbrauch",
       "teaser": "Die Bedrohung durch Cyberkriminelle ist dem BSI zufolge so hoch wie nie. Täglich entstünden Hunderte neuer Versionen von Schadprogrammen, die Schwachstellen ausnutzten.",
       "url": "https://www.zeit.de/digital/2023-11/bis-cyberkriminalitaet-bedrohung-ransomware-desinformation-ki",
-      "image_url": "https://img.zeit.de/digital/2023-11/bsi-cyberkriminalitaet-bedrohung-ransomware-desinformation/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-11/bsi-cyberkriminalitaet-bedrohung-ransomware-desinformation/wide__822x462",
+      "image_title": "Bundesamt für Sicherheit in der Informationstechnik: BSI warnt vor Schwachstellen in Software und vor KI-Missbrauch"
     },
     {
       "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien",
       "image_url": "https://img.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien-harris/wide__822x462",
       "image_title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz"
-    },
-    {
-      "title": "NRW: Hackerangriff legt IT-Infrastruktur von 70 Kommunen lahm",
-      "teaser": "Die IT-Systeme von zahlreichen Kommunen in NRW sind seit Montag außer Betrieb. Grund ist ein Cyberangriff mit einem sogenannten Erpressungstrojaner.",
-      "url": "https://www.zeit.de/digital/2023-10/cybersicherheit-hackerangriff-cyberangriff-kommunen-nrw",
-      "image_url": "https://img.zeit.de/digital/2023-10/cybersicherheit-hackerangriff-cyberangriff-kommunen-nrw-witten/wide__822x462",
-      "image_title": "NRW: Hackerangriff legt IT-Infrastruktur von 70 Kommunen lahm"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff auf Israel: Was, wenn die Hamas Geiseln im Livestream tötet?",
@@ -98,8 +98,8 @@
       "url": "https://www.zeit.de/digital/internet/2023-10/hamas-angriff-israel-social-media-livestreams"
     },
     {
-      "title": "Bombendrohungen: Bundesweite Bombendrohungen stammen offenbar von Internet-Trollen",
-      "url": "https://www.zeit.de/digital/internet/2023-10/bombendrohung-internetkriminalitaet-hamas-israel-nahost"
+      "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
+      "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien"
     },
     {
       "title": "\"Alan Wake 2\": Nie war Licht so schön",
@@ -110,8 +110,8 @@
       "url": "https://www.zeit.de/digital/internet/2023-10/bandcamp-epic-games-uebernahme-songtradr-stellenabbau"
     },
     {
-      "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
-      "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien"
+      "title": "Bombendrohungen: Bundesweite Bombendrohungen stammen offenbar von Internet-Trollen",
+      "url": "https://www.zeit.de/digital/internet/2023-10/bombendrohung-internetkriminalitaet-hamas-israel-nahost"
     },
     {
       "title": "Starlink für den Gazastreifen: Am Hof von König Elon",
@@ -142,12 +142,19 @@
       "url": "https://www.zeit.de/digital/internet/2023-10/starlink-gazastreifen-elon-musk-internet-hamas-nahost-krieg"
     },
     {
+      "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
+      "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien"
+    },
+    {
       "title": "Bombendrohungen: Bundesweite Bombendrohungen stammen offenbar von Internet-Trollen",
       "url": "https://www.zeit.de/digital/internet/2023-10/bombendrohung-internetkriminalitaet-hamas-israel-nahost"
     },
     {
-      "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
-      "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien"
+      "title": "NRW: Hackerangriff legt IT-Infrastruktur von 70 Kommunen lahm",
+      "teaser": "Die IT-Systeme von zahlreichen Kommunen in NRW sind seit Montag außer Betrieb. Grund ist ein Cyberangriff mit einem sogenannten Erpressungstrojaner.",
+      "url": "https://www.zeit.de/digital/2023-10/cybersicherheit-hackerangriff-cyberangriff-kommunen-nrw",
+      "image_url": "https://img.zeit.de/digital/2023-10/cybersicherheit-hackerangriff-cyberangriff-kommunen-nrw-witten/wide__822x462",
+      "image_title": "NRW: Hackerangriff legt IT-Infrastruktur von 70 Kommunen lahm"
     },
     {
       "title": "Künstliche Intelligenz: Entfesselte Kreativität? Bezahlen Sie bitte hier",
@@ -162,13 +169,6 @@
       "url": "https://www.zeit.de/digital/2023-10/hackerangriff-cybersicherheit-boersenaufsicht-klage-solarwinds",
       "image_url": "https://img.zeit.de/digital/2023-10/hackerangriff-cybersicherheit-boersenaufsicht-solarwinds/wide__822x462",
       "image_title": "Cybersicherheit: US-Börsenaufsicht verklagt Softwarefirma nach Hackerangriff"
-    },
-    {
-      "title": "Keynote: Apple stellt neues MacBook Pro und M3-Chipfamilie vor",
-      "teaser": "Apple hat auf einem virtuellen Event unter dem Motto \"scary fast\" das neue MacBook Pro vorgestellt. Neue Chips versprechen bessere Leistung und längere Akkulaufzeit.",
-      "url": "https://www.zeit.de/digital/2023-10/apple-keynote-macbook-pro-chip-vorstellung",
-      "image_url": "https://img.zeit.de/digital/2023-10/apple-event-vorstellung-macbook/wide__822x462",
-      "image_title": "Keynote: Apple stellt neues MacBook Pro und M3-Chipfamilie vor"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dyson Zone: Ich könnte freier atmen, würde ich nicht im Boden versinken",
@@ -199,6 +199,13 @@
       "image_title": "\"Counter-Strike 2\": Ein killer Spiel"
     },
     {
+      "title": "Keynote: Apple stellt neues MacBook Pro und M3-Chipfamilie vor",
+      "teaser": "Apple hat auf einem virtuellen Event unter dem Motto \"scary fast\" das neue MacBook Pro vorgestellt. Neue Chips versprechen bessere Leistung und längere Akkulaufzeit.",
+      "url": "https://www.zeit.de/digital/2023-10/apple-keynote-macbook-pro-chip-vorstellung",
+      "image_url": "https://img.zeit.de/digital/2023-10/apple-event-vorstellung-macbook/wide__822x462",
+      "image_title": "Keynote: Apple stellt neues MacBook Pro und M3-Chipfamilie vor"
+    },
+    {
       "title": "Instagram und Facebook: Meta bietet ab November werbefreies Abo an",
       "teaser": "Instagram und Facebook ohne Werbung: Das soll es in Europa ab November ab 9,99 Euro geben, wie der Meta-Konzern ankündigte. Grund seien neue Datenschutzregeln in der EU.",
       "url": "https://www.zeit.de/digital/2023-10/meta-facebook-instagram-werbefrei-abo",
@@ -213,13 +220,6 @@
       "image_title": "Carrot Weather: \"Es ist wolkig, du Trottel!\""
     },
     {
-      "title": "\"Alan Wake 2\": Nie war Licht so schön",
-      "teaser": "Im Videospiel \"Alan Wake 2\" stimmen selbst die Reflektionen in New Yorker Pfützen. Knipsen Sie die Taschenlampe an, es geht auf einen fantastischen Horrortrip!",
-      "url": "https://www.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-mystery",
-      "image_url": "https://img.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-grafik/wide__822x462",
-      "image_title": "\"Alan Wake 2\": Nie war Licht so schön"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -227,11 +227,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Bombendrohungen: Bundesweite Bombendrohungen stammen offenbar von Internet-Trollen",
-      "teaser": "Anonyme Drohungen haben Schulen, Medienunternehmen und diplomatische Vertretungen erreicht. Verantwortlich dafür könnten einer Recherche zufolge Internetkriminelle sein.",
-      "url": "https://www.zeit.de/digital/internet/2023-10/bombendrohung-internetkriminalitaet-hamas-israel-nahost",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/bombendrohungen-internetkriminalitaet/wide__822x462",
-      "image_title": "Bombendrohungen: Bundesweite Bombendrohungen stammen offenbar von Internet-Trollen"
+      "title": "\"Alan Wake 2\": Nie war Licht so schön",
+      "teaser": "Im Videospiel \"Alan Wake 2\" stimmen selbst die Reflektionen in New Yorker Pfützen. Knipsen Sie die Taschenlampe an, es geht auf einen fantastischen Horrortrip!",
+      "url": "https://www.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-mystery",
+      "image_url": "https://img.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-grafik/wide__822x462",
+      "image_title": "\"Alan Wake 2\": Nie war Licht so schön"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Programmierschule 42 Heilbronn: Wieso muss das so hart sein?",
