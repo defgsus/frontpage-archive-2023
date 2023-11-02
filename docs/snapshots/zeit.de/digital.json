@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-02T17:11:12",
+  "timestamp": "2023-11-02T18:15:02",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); KI-Gipfel: Vielleicht ein bisschen viel Science-Fiction",
+      "teaser": "In London diskutieren Staatschefs und Elon Musk darüber, wie man zukünftige Super-KI absichern kann. Ganz schön früh, wenn man bedenkt, was ChatGPT heute kann.",
+      "url": "https://www.zeit.de/digital/2023-11/ki-gipfel-london-elon-musk-super-ki-absicherung",
+      "image_url": "https://img.zeit.de/digital/2023-11/ki-gipfel-grossbritannien-habeck-harris-london-cybersicherheit-bild/cinema__980x420"
+    },
+    {
       "title": "BSI-Lagebericht: Wie KI-Assistenten Ihren Rechner leer räumen können",
       "teaser": "Viele Unternehmen setzen inzwischen auf den Einsatz großer Sprachmodelle. Das BSI warnt, Angreifer könnten sie nutzen, um noch mehr Schwachstellen zu finden als bisher.",
       "url": "https://www.zeit.de/digital/2023-11/bsi-lagebericht-kuenstliche-intelligenz-einsatz-informationstechnik",
-      "image_url": "https://img.zeit.de/digital/2023-11/bsi-lagebericht-kuenstliche-intelligenz-einsatz-informationstechnik-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/digital/2023-11/bsi-lagebericht-kuenstliche-intelligenz-einsatz-informationstechnik-bild/wide__822x462",
+      "image_title": "BSI-Lagebericht: Wie KI-Assistenten Ihren Rechner leer räumen können"
     },
     {
       "title": "Bundesamt für Sicherheit in der Informationstechnik: BSI warnt vor Schwachstellen in Software und vor KI-Missbrauch",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/digital/2023-11/bis-cyberkriminalitaet-bedrohung-ransomware-desinformation-ki",
       "image_url": "https://img.zeit.de/digital/2023-11/bsi-cyberkriminalitaet-bedrohung-ransomware-desinformation/wide__822x462",
       "image_title": "Bundesamt für Sicherheit in der Informationstechnik: BSI warnt vor Schwachstellen in Software und vor KI-Missbrauch"
-    },
-    {
-      "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
-      "teaser": "Bei einem Gipfel über KI wird über die Gefahren der Technologie beraten. Gastgeber Sunak spricht von einem Meilenstein. Robert Habeck und Kamala Harris werden erwartet.",
-      "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien",
-      "image_url": "https://img.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien-harris/wide__822x462",
-      "image_title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff auf Israel: Was, wenn die Hamas Geiseln im Livestream tötet?",
@@ -150,6 +150,13 @@
       "url": "https://www.zeit.de/digital/internet/2023-10/bombendrohung-internetkriminalitaet-hamas-israel-nahost"
     },
     {
+      "title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz",
+      "teaser": "Bei einem Gipfel über KI wird über die Gefahren der Technologie beraten. Gastgeber Sunak spricht von einem Meilenstein. Robert Habeck und Kamala Harris werden erwartet.",
+      "url": "https://www.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien",
+      "image_url": "https://img.zeit.de/digital/2023-11/robert-habeck-kuenstliche-intelligenz-gipfel-grossbritannien-harris/wide__822x462",
+      "image_title": "KI-Gipfel: 28 Staaten unterzeichnen Absichtserklärung zu künstlicher Intelligenz"
+    },
+    {
       "title": "NRW: Hackerangriff legt IT-Infrastruktur von 70 Kommunen lahm",
       "teaser": "Die IT-Systeme von zahlreichen Kommunen in NRW sind seit Montag außer Betrieb. Grund ist ein Cyberangriff mit einem sogenannten Erpressungstrojaner.",
       "url": "https://www.zeit.de/digital/2023-10/cybersicherheit-hackerangriff-cyberangriff-kommunen-nrw",
@@ -162,13 +169,6 @@
       "url": "https://www.zeit.de/2023/45/kuenstliche-intelligenz-kosten-verlust-microsoft",
       "image_url": "https://img.zeit.de/digital/2023-10/kuenstliche-intelligenz-kosten-verlust-microsoft-bild/wide__822x462",
       "image_title": "Künstliche Intelligenz: Entfesselte Kreativität? Bezahlen Sie bitte hier"
-    },
-    {
-      "title": "Cybersicherheit: US-Börsenaufsicht verklagt Softwarefirma nach Hackerangriff",
-      "teaser": "2020 wurde ein Cyberangriff auf die Firma Solarwinds bekannt. Nun wird sie von der US-Börsenaufsicht verklagt. Die Firma soll Sicherheitsrisiken verschwiegen haben.",
-      "url": "https://www.zeit.de/digital/2023-10/hackerangriff-cybersicherheit-boersenaufsicht-klage-solarwinds",
-      "image_url": "https://img.zeit.de/digital/2023-10/hackerangriff-cybersicherheit-boersenaufsicht-solarwinds/wide__822x462",
-      "image_title": "Cybersicherheit: US-Börsenaufsicht verklagt Softwarefirma nach Hackerangriff"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Dyson Zone: Ich könnte freier atmen, würde ich nicht im Boden versinken",
@@ -199,6 +199,13 @@
       "image_title": "\"Counter-Strike 2\": Ein killer Spiel"
     },
     {
+      "title": "Cybersicherheit: US-Börsenaufsicht verklagt Softwarefirma nach Hackerangriff",
+      "teaser": "2020 wurde ein Cyberangriff auf die Firma Solarwinds bekannt. Nun wird sie von der US-Börsenaufsicht verklagt. Die Firma soll Sicherheitsrisiken verschwiegen haben.",
+      "url": "https://www.zeit.de/digital/2023-10/hackerangriff-cybersicherheit-boersenaufsicht-klage-solarwinds",
+      "image_url": "https://img.zeit.de/digital/2023-10/hackerangriff-cybersicherheit-boersenaufsicht-solarwinds/wide__822x462",
+      "image_title": "Cybersicherheit: US-Börsenaufsicht verklagt Softwarefirma nach Hackerangriff"
+    },
+    {
       "title": "Keynote: Apple stellt neues MacBook Pro und M3-Chipfamilie vor",
       "teaser": "Apple hat auf einem virtuellen Event unter dem Motto \"scary fast\" das neue MacBook Pro vorgestellt. Neue Chips versprechen bessere Leistung und längere Akkulaufzeit.",
       "url": "https://www.zeit.de/digital/2023-10/apple-keynote-macbook-pro-chip-vorstellung",
@@ -213,13 +220,6 @@
       "image_title": "Instagram und Facebook: Meta bietet ab November werbefreies Abo an"
     },
     {
-      "title": "Carrot Weather: \"Es ist wolkig, du Trottel!\"",
-      "teaser": "Grau, kalt, nass, der Herbst ist schon schlimm genug. Gut, dass es mit Carrot Weather eine Wetter-App gibt, die alles besser macht – indem sie ihre Nutzer beschimpft.",
-      "url": "https://www.zeit.de/digital/mobil/2023-10/carrot-weather-wetter-app-witzig-vorhersagen",
-      "image_url": "https://img.zeit.de/digital/2023-10/carrot-weather-app-nice-nuetzlich-bild/wide__822x462",
-      "image_title": "Carrot Weather: \"Es ist wolkig, du Trottel!\""
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -227,11 +227,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "\"Alan Wake 2\": Nie war Licht so schön",
-      "teaser": "Im Videospiel \"Alan Wake 2\" stimmen selbst die Reflektionen in New Yorker Pfützen. Knipsen Sie die Taschenlampe an, es geht auf einen fantastischen Horrortrip!",
-      "url": "https://www.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-mystery",
-      "image_url": "https://img.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-grafik/wide__822x462",
-      "image_title": "\"Alan Wake 2\": Nie war Licht so schön"
+      "title": "Carrot Weather: \"Es ist wolkig, du Trottel!\"",
+      "teaser": "Grau, kalt, nass, der Herbst ist schon schlimm genug. Gut, dass es mit Carrot Weather eine Wetter-App gibt, die alles besser macht – indem sie ihre Nutzer beschimpft.",
+      "url": "https://www.zeit.de/digital/mobil/2023-10/carrot-weather-wetter-app-witzig-vorhersagen",
+      "image_url": "https://img.zeit.de/digital/2023-10/carrot-weather-app-nice-nuetzlich-bild/wide__822x462",
+      "image_title": "Carrot Weather: \"Es ist wolkig, du Trottel!\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Programmierschule 42 Heilbronn: Wieso muss das so hart sein?",
@@ -248,6 +248,13 @@
       "image_title": "IT-Fachkräfte an Schulen: Wer jetzt ohne Admin ist, wird es lange bleiben"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); KI-Gipfel: Vielleicht ein bisschen viel Science-Fiction",
+      "teaser": "In London diskutieren Staatschefs und Elon Musk darüber, wie man zukünftige Super-KI absichern kann. Ganz schön früh, wenn man bedenkt, was ChatGPT heute kann.",
+      "url": "https://www.zeit.de/digital/2023-11/ki-gipfel-london-elon-musk-super-ki-absicherung",
+      "image_url": "https://img.zeit.de/digital/2023-11/ki-gipfel-grossbritannien-habeck-harris-london-cybersicherheit-bild/wide__822x462",
+      "image_title": "KI-Gipfel: Vielleicht ein bisschen viel Science-Fiction"
+    },
+    {
       "title": "Starlink für den Gazastreifen: Am Hof von König Elon",
       "teaser": "Elon Musk verspricht Hilfsorganisationen im Gazastreifen Satelliteninternet. Damit greift er zumindest verbal wieder einmal in einen Konflikt ein. Das hat Kalkül.",
       "url": "https://www.zeit.de/digital/internet/2023-10/starlink-gazastreifen-elon-musk-internet-hamas-nahost-krieg",
@@ -260,13 +267,6 @@
       "url": "https://www.zeit.de/digital/internet/2023-10/bombendrohung-internetkriminalitaet-hamas-israel-nahost",
       "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-10/bombendrohungen-internetkriminalitaet/wide__822x462",
       "image_title": "Bombendrohungen: Bundesweite Bombendrohungen stammen offenbar von Internet-Trollen"
-    },
-    {
-      "title": "Twitter-Alternativen: Tausendmal diskutiert",
-      "teaser": "Twitter ist kaputt, und alle irren herum und suchen eine neue Diskursplattform. Bei unserer Autorin hat es Zoom gemacht – mit einer unbequemen Alternative.",
-      "url": "https://www.zeit.de/digital/internet/2023-10/twitter-alternative-mastodon-bluesky",
-      "image_url": "https://img.zeit.de/digital/2023-10/twitter-alternative-mastodon/wide__822x462",
-      "image_title": "Twitter-Alternativen: Tausendmal diskutiert"
     },
     {
       "title": "Bundeskartellamt: Google-Nutzer erhalten mehr Kontrolle über ihre Daten",
@@ -318,18 +318,18 @@
       "image_title": "Google Pixel 8: Viel KI mit bisschen Smartphone"
     },
     {
+      "title": "\"Alan Wake 2\": Nie war Licht so schön",
+      "teaser": "Im Videospiel \"Alan Wake 2\" stimmen selbst die Reflektionen in New Yorker Pfützen. Knipsen Sie die Taschenlampe an, es geht auf einen fantastischen Horrortrip!",
+      "url": "https://www.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-mystery",
+      "image_url": "https://img.zeit.de/digital/games/2023-10/alan-wake-2-horror-video-spiel-new-york-grafik/wide__822x462",
+      "image_title": "\"Alan Wake 2\": Nie war Licht so schön"
+    },
+    {
       "title": "\"Super Mario Bros. Wonder\": Mario ist Mario ist Mario",
       "teaser": "Mit \"Super Mario Bros. Wonder\" gibt es seit Langem wieder ein klassisches Mario-Spiel. Es verspricht den großen Neuanfang. Schafft es das – und will man den überhaupt?",
       "url": "https://www.zeit.de/digital/games/2023-10/super-mario-bros-wonder-nintendo-switch-videospiel",
       "image_url": "https://img.zeit.de/digital/games/2023-10/super-mario-bros-wonder-nintendo-switch-videospiel-bild/wide__822x462",
       "image_title": "\"Super Mario Bros. Wonder\": Mario ist Mario ist Mario"
-    },
-    {
-      "title": "\"Marvel's Spider-Man 2\": Über den Wolkenkratzern könnte die Freiheit grenzenlos sein",
-      "teaser": "Beeindruckende Grafik, fesselnde Geschichte: \"Marvel's Spider-Man 2\" ist ein großartiges Superheldenspiel. Wenn da nur nicht die Sehnsucht nach wirklicher Freiheit wäre.",
-      "url": "https://www.zeit.de/digital/games/2023-10/marvels-spider-man-2-spiel-playstation",
-      "image_url": "https://img.zeit.de/digital/games/2023-10/marvels-spider-man-2-spiel-playstation-bild/wide__822x462",
-      "image_title": "\"Marvel's Spider-Man 2\": Über den Wolkenkratzern könnte die Freiheit grenzenlos sein"
     },
     {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
