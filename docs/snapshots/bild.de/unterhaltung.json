@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-11-05T16:12:59",
+  "timestamp": "2023-11-05T17:09:09",
   "url": "https://www.bild.de/unterhaltung/startseite/unterhaltung/show-16804710.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,71 +19,40 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.bild.de/code/extra,51784726.3-56687664.11.bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
+      "type": "text/javascript",
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://player.podigee-cdn.net/podcast-player/javascripts/podigee-podcast-player.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.96841a7c.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.6b0d9009.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.0b84de44.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.231d6f3e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.5d5c149b.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Alkohol und Party nach Fame Fighting Hier feiert sich Gigi seinen K.o. von der Seele",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/fame-fighting-gigi-birofio-feiert-sich-seinen-k-o-von-der-seele-85982476.bild.html"
-    },
-    {
-      "title": "Was kommt da denn am Schluss? Rätsel um Geheim-Song auf dem Album von Till Lindemann",
-      "url": "https://www.bild.de/bild-plus/unterhaltung/leute/leute/rammstein-geheim-song-auf-dem-solo-album-von-till-lindemann-85983890.bild.html"
-    },
-    {
-      "title": "Der Kampf des Jahres Zuerst ging Can auf die Bretter",
-      "url": "https://www.bild.de/unterhaltung/leute/leute/fame-fighting-gigi-schlimm-verpruegelt-85979384.bild.html"
-    }
-  ]
+  "articles": []
 }
