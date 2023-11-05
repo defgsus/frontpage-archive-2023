@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-05T06:13:56",
+  "timestamp": "2023-11-05T07:10:42",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -38,7 +38,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ All-American Girl",
+      "title": "Z+ \"Wenn du verzeihen kannst, tu es\"",
+      "teaser": "Gabrielle Zevin ist eine US-amerikanische Bestsellerautorin. Sie hat vom Leben gelernt, was Freunde ausmacht und welche drei Kämpfe man nicht führen sollte.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/46/gabrielle-zevin-ratschlaege-leben",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/46/was-ich-gern-frueher-gewusst-haette-bild-1/wide__822x462",
+      "image_title": "Gabrielle Zevin: \"Wenn du verzeihen kannst, tu es\""
+    },
+    {
+      "title": "Z+ Olivia Rodrigo: All-American Girl",
       "teaser": "Olivia Rodrigo ist eine der bekanntesten Teen-Pop-Sängerinnen der USA. Unsere Autorin traf sie in Berlin und suchte nach der Privatperson hinter dem Bühnencharakter.",
       "url": "https://www.zeit.de/zeit-magazin/2023/46/olivia-rodrigo-guts-popmusik-disney",
       "image_url": "https://img.zeit.de/zeit-magazin/2023/46/all-american-girl-bild-1/wide__822x462",
@@ -50,13 +57,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023-11/fahrradtasche-ortlieb-wasserdicht-rennrad",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-11/wochenende-ode-an-ein-ding-fahrradtasche/wide__822x462",
       "image_title": "Fahrradtasche: Vollgepackt und drangehängt"
-    },
-    {
-      "title": "Z+ Einkommensverteilung in Deutschland: Womit haben wir das verdient?",
-      "teaser": "Die einen haben alles, viele fast nichts: In Deutschland ist Vermögen ungleicher verteilt als irgendwo sonst im Euroraum. Fraglich, ob man das noch rechtfertigen kann.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/46/einkommensverteilung-deutschland-unterschiede-determinismus-leistung",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/46/womit-haben-wir-das-verdient-bild-2/wide__822x462",
-      "image_title": "Einkommensverteilung in Deutschland: Womit haben wir das verdient?"
     },
     {
       "title": "Z+ Womit wohl der Weihnachtsmann unterschreiben würde?",
@@ -72,10 +72,10 @@
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Cornelia Poletto: \"Vor 15 Uhr esse ich selten, dafür ist keine Zeit\"",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/05/cornelia-poletto-spitzenkoechin-essen-alltag",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/was-eine-spitzenkoechin-wirklich-isst-teaser/tile__315x394",
-      "image_title": "Cornelia Poletto: \"Vor 15 Uhr esse ich selten, dafür ist keine Zeit\""
+      "title": "Z+ Einkommensverteilung in Deutschland: Womit haben wir das verdient?",
+      "url": "https://www.zeit.de/zeit-magazin/2023/46/einkommensverteilung-deutschland-unterschiede-determinismus-leistung",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/46/womit-haben-wir-das-verdient-bild-2/tile__315x394",
+      "image_title": "Einkommensverteilung in Deutschland: Womit haben wir das verdient?"
     },
     {
       "title": "Auf Messers Schneide",
@@ -207,6 +207,12 @@
       "image_title": "Harald Martenstein: Ab jetzt lesen Sie nur noch kuschelige Texte"
     },
     {
+      "title": "Z+ Cornelia Poletto: \"Vor 15 Uhr esse ich selten, dafür ist keine Zeit\"",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/05/cornelia-poletto-spitzenkoechin-essen-alltag",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/was-eine-spitzenkoechin-wirklich-isst-teaser/tile__315x394",
+      "image_title": "Cornelia Poletto: \"Vor 15 Uhr esse ich selten, dafür ist keine Zeit\""
+    },
+    {
       "title": "Z+ Georgisches Rindfleisch mit Walnüssen: Wer die Wahl hat, wählt die Walnuss",
       "url": "https://www.zeit.de/zeit-magazin/2023/46/georgisches-rindfleisch-mit-walnuessen-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/2023/46/waehl-die-walnuss-bild-1/tile__315x394",
@@ -259,12 +265,6 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-10/kinder-angst-eltern-fred-christmann-psychologie",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-10/halloween-aengste-kinder-eltern-fred-christmann-bild2/tile__315x394",
       "image_title": "Kinder und Ängste: \"Kinder wollen mutig sein, statt der Angst nachzugeben\""
-    },
-    {
-      "title": "Z+ Sabine Rückert: \"Das Reinquatschen liegt mir\"",
-      "url": "https://www.zeit.de/zeit-magazin/2023/45/sabine-rueckert-zeit-verbrechen-journalistin",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/45/das-reinquatschen-liegt-mir-bild-1/tile__315x394",
-      "image_title": "Sabine Rückert: \"Das Reinquatschen liegt mir\""
     },
     {
       "title": "Z+ Kaschmirkleidung: Macht jeden Menschen schön",
@@ -321,10 +321,17 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/46/dieter-nuhr-die-gruenen-comedian-cancel-culture"
     },
     {
+      "title": "Z+ Sabine Rückert: \"Das Reinquatschen liegt mir\"",
+      "teaser": "Zum Ende ihrer Laufbahn wurde Sabine Rückert als Podcasterin ein regelrechter Star. Nun will sie sich langsam zurückziehen – warum, erzählt sie ihrem Chef bei der ZEIT.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/45/sabine-rueckert-zeit-verbrechen-journalistin",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/45/das-reinquatschen-liegt-mir-bild-1/square__460x460",
+      "image_title": "Sabine Rückert: \"Das Reinquatschen liegt mir\""
+    },
+    {
       "title": "Z+ Fremdgehen: \"Ich führte ein Jahr lang ein Doppelleben\"",
       "teaser": "Sie sind glücklich zusammen, sie hätte ihn so gern gewollt, aber sexuell passt es nicht. Dann geht sie fremd – und bereut es Jahre später.",
       "url": "https://www.zeit.de/zeit-magazin/2023/43/fremdgehen-beziehung-doppelleben-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/fremdgehen-beziehung-doppelleben-liebeskolumne-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/fremdgehen-beziehung-doppelleben-liebeskolumne-bild/wide__822x462",
       "image_title": "Fremdgehen: \"Ich führte ein Jahr lang ein Doppelleben\""
     },
     {
@@ -350,9 +357,8 @@
     },
     {
       "title": "Z+ Oeufs Cocotte: Gut in Förmchen",
-      "teaser": "Was das Frühstücksei im Ofen zu suchen hat? Es verwandelt sich gemeinsam mit Sahne und Käse in Oeufs Cocotte, einen französischen Klassiker.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/oeufs-cocotte-fruehstuecksei-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/oeufs-cocotte/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/oeufs-cocotte/tile__315x394",
       "image_title": "Oeufs Cocotte: Gut in Förmchen"
     },
     {
@@ -366,12 +372,6 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-10/fremdverliebt-beziehung-gefuehle-partnerschaft-erfahrungen",
       "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-10/fremdverliebt-beziehung-gefuehle-partnerschaft-erfahrungen-bild/tile__315x394",
       "image_title": "Fremdverliebt : \"Sie sagte: Mach auf keinen Fall wegen mir Schluss\""
-    },
-    {
-      "title": "Z+ Kürbissuppe: Die wirklich beste Kürbissuppe der Welt",
-      "url": "https://www.zeit.de/zeit-magazin/2023/45/kuerbissuppe-pinienkerne-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/45/superlativ-suppe-bild-1/tile__315x394",
-      "image_title": "Kürbissuppe: Die wirklich beste Kürbissuppe der Welt"
     }
   ]
 }
