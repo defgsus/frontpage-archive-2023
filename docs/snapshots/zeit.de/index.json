@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-05T14:09:10",
+  "timestamp": "2023-11-05T15:10:11",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.a68c9d5ff249c6b68c81.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -80,10 +86,10 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Dieter Nuhr: Nuhr hinter der Bühne",
-      "teaser": "Er verspottet Grüne und Cancel Culture. Für Konservative ist er der einzige vernünftige Komiker, für andere ein anstößiger Mann. Dieter Nuhr fühlt sich missverstanden.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/46/dieter-nuhr-die-gruenen-comedian-cancel-culture",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/dieter-nuhr-die-gruenen-comedian-cancel-culture-bild/cinema__980x420"
+      "title": "Z+ (abopflichtiger Inhalt); Ostdeutschland: \"Da denkst du doch nur: Ich geh jetzt. Ich geh jetzt sofort\"",
+      "teaser": "Rechts oder nicht? Noch immer ist diese Frage für viele Junge im ländlichen Osten wie eine Drohung. Das Schlimme: Heute brauchen Rechte oft nicht mal mehr Gewalt.",
+      "url": "https://www.zeit.de/campus/2023-11/ostdeutschland-politische-einstellung-rechte-junge-erwachsene",
+      "image_url": "https://img.zeit.de/campus/2023-10/ostdeutschland-politische-einstellung/cinema__980x420"
     },
     {
       "title": "Hamburg: Geiselnahme am Hamburger Flughafen beendet – Kind offenbar unverletzt",
@@ -121,6 +127,13 @@
       "image_title": "Krieg in Israel: \"Den Geiselnehmern etwas anbieten? Nein!\""
     },
     {
+      "title": "Liveblog: Ukraine-Krieg: Ukraine will Wehrpflicht durch Militärtraining ersetzen",
+      "teaser": "Ein bis 2028 gültiger Reformplan sieht die Rückkehr zu einer Berufsarmee vor. Wehrpflichtige sollen statt des Diensts ein militärisches Training absolvieren. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ukraine-krieg-news-liveblog-bild-3/wide__822x462",
+      "image_title": "Ukraine-Krieg: Ukraine will Wehrpflicht durch Militärtraining ersetzen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Migrationspolitik in Dänemark: Härte statt Hygge",
       "teaser": "Die sozialdemokratische dänische Regierung betreibt erfolgreich eine harte Asylpolitik. Vorbild für Deutschland? Ein Besuch in Kopenhagen zeigt: So einfach ist es nicht.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/migrationspolitik-daenemark-sozialdemokraten-asylpolitik-kopenhagen",
@@ -133,6 +146,13 @@
       "url": "https://www.zeit.de/wirtschaft/2023-11/angus-deaton-oekonom-wirtschaftsnobelpreis-forschung",
       "image_url": "https://img.zeit.de/wirtschaft/2023-11/angus-deaton-oekonom-wirtschaftsnobelpreis/wide__822x462",
       "image_title": "Angus Deaton: \"Es wird alles in Geld gemessen\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); MSCI World • Das Beste aus Z+: Das Problem sind die Anleger",
+      "teaser": "Der MSCI World verliert und steht in der Kritik: Der Weltindex streue nicht breit genug. Dabei ist das nicht unbedingt das Problem. Was ETF-Sparer jetzt wissen sollten.",
+      "url": "https://www.zeit.de/geld/2023-10/geld-anlegen-investitionen-etf-aktien-streuen",
+      "image_url": "https://img.zeit.de/geld/2023-10/geld-anlegen-investitionen-etf-aktien-2/wide__822x462",
+      "image_title": "MSCI World • Das Beste aus Z+: Das Problem sind die Anleger"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Soziale Ungleichheit • Das Beste aus Z+: Bin ich wirklich Mittelschicht?",
@@ -184,6 +204,13 @@
       "image_title": "Studienkredite der KfW: SPD-Fraktion fordert Rücknahme der Zinserhöhung bei Studienkrediten"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Dieter Nuhr: Nuhr hinter der Bühne",
+      "teaser": "Er verspottet Grüne und Cancel Culture. Für Konservative ist er der einzige vernünftige Komiker, für andere ein anstößiger Mann. Dieter Nuhr fühlt sich missverstanden.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/46/dieter-nuhr-die-gruenen-comedian-cancel-culture",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/dieter-nuhr-die-gruenen-comedian-cancel-culture-bild/cinema__980x420",
+      "image_title": "Dieter Nuhr: Nuhr hinter der Bühne"
+    },
+    {
       "title": "Verleumdungsprozess: Gil Ofarim hält an Antisemitismusvorwürfen gegen Hotelmitarbeiter fest",
       "teaser": "Den Davidstern \"wegpacken\" – dann einchecken? So hatte es Ofarim geschildert. Die Staatsanwaltschaft hat Zweifel und klagt ihn an. Der Musiker steht zu seiner Aussage.",
       "url": "https://www.zeit.de/gesellschaft/2023-11/gil-ofarim-prozess-antisemitismus",
@@ -194,15 +221,8 @@
       "title": "Kiew Biennale 2023: Kunst macht Borschtsch",
       "teaser": "Wie ist es, im Krieg ein Künstler, eine Künstlerin zu sein? Beobachtungen aus der Ukraine zur fünften Kiew-Biennale, derzeit auch in Wien, Berlin, Warschau und Antwerpen.",
       "url": "https://www.zeit.de/2023/46/kiew-biennale-2023-ukraine-krieg",
-      "image_url": "https://img.zeit.de/2023/46/kunst-macht-borschtsch-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/46/kunst-macht-borschtsch-bild-1/wide__822x462",
       "image_title": "Kiew Biennale 2023: Kunst macht Borschtsch"
-    },
-    {
-      "title": "Ukraine-Karte aktuell: Ukraine und Russland gelingen kleinere Geländegewinne",
-      "teaser": "Experten sehen Vorstöße der ukrainischen Armee bei Bachmut und solche der russischen Truppen bei Awdijiwka. Im Dnipro-Delta kann die Ukraine ihre Stellungen halten.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
-      "image_title": "Ukraine-Karte aktuell: Ukraine und Russland gelingen kleinere Geländegewinne"
     },
     {
       "title": "Politik : Wahrheit oder Propaganda?",
@@ -435,11 +455,11 @@
       "image_title": "Sam Bankman-Fried: Kein Wunderkind mehr, bloß ein Betrüger"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); MSCI World • Das Beste aus Z+: Das Problem sind die Anleger",
-      "teaser": "Der MSCI World verliert und steht in der Kritik: Der Weltindex streue nicht breit genug. Dabei ist das nicht unbedingt das Problem. Was ETF-Sparer jetzt wissen sollten.",
-      "url": "https://www.zeit.de/geld/2023-10/geld-anlegen-investitionen-etf-aktien-streuen",
-      "image_url": "https://img.zeit.de/geld/2023-10/geld-anlegen-investitionen-etf-aktien-2/wide__822x462",
-      "image_title": "MSCI World • Das Beste aus Z+: Das Problem sind die Anleger"
+      "title": "Verbrauchertipps: Lohnsteuerermäßigung, Kfz-Versicherung, höherer Lottojackpot",
+      "teaser": "Ist das schon Deutschland-Tempo? Beim Antrag für den Personalausweis wird die Digitalisierung spürbar. Und beim Lotto gibt's höhere Gewinne. Was sich im November ändert.",
+      "url": "https://www.zeit.de/geld/2023-10/kfz-versicherung-personalausweis-steuer-verbrauchertipps",
+      "image_url": "https://img.zeit.de/geld/2023-10/kfz-versicherung-personalausweis-steuer-verbrauchertipps-hoeherer-jackpot-beim-lotto-bild/wide__822x462",
+      "image_title": "Verbrauchertipps: Lohnsteuerermäßigung, Kfz-Versicherung, höherer Lottojackpot"
     },
     {
       "title": "Rinderrouladen mit Senf : Flotte Rolle",
@@ -499,6 +519,13 @@
       "image_title": "Nahostkrieg: Biden: Fortschritte in Gesprächen zu Feuerpause – Blinken trifft Abbas"
     },
     {
+      "title": "Ukraine-Karte aktuell: Ukraine und Russland gelingen kleinere Geländegewinne",
+      "teaser": "Experten sehen Vorstöße der ukrainischen Armee bei Bachmut und solche der russischen Truppen bei Awdijiwka. Im Dnipro-Delta kann die Ukraine ihre Stellungen halten.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
+      "image_title": "Ukraine-Karte aktuell: Ukraine und Russland gelingen kleinere Geländegewinne"
+    },
+    {
       "title": "Handel mit Freizeitcannabis: Kommt der Cannabis-Handel noch?",
       "teaser": "Zertifizierte Shops sollen Cannabis verkaufen dürfen – das versprach die Ampelkoalition. Doch der legale Handel mit Gras kommt nicht voran. Die Schweiz ist viel weiter.",
       "url": "https://www.zeit.de/politik/deutschland/2023-10/handel-freizeit-cannabis-clubs-legalisierung-gesetz-schweiz",
@@ -506,15 +533,8 @@
       "image_title": "Handel mit Freizeitcannabis: Kommt der Cannabis-Handel noch?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Hamas-Angriff auf Israel: Die Spuren unsäglicher Taten",
-      "teaser": "Israelische Forensiker suchen Beweise, damit das Hamas-Massaker als Verbrechen gegen die Menschlichkeit anerkannt wird. Leicht wird das trotz der Gräueltaten nicht.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/hamas-angriff-israel-verbrechen-gegen-die-menschlichkeit-beweise-tel-aviv",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/hamas-angriff-israel-verbrechen-gegen-die-menschlichkeit-13/wide__822x462",
-      "image_title": "Hamas-Angriff auf Israel: Die Spuren unsäglicher Taten"
-    },
-    {
       "title": "Geiselnahme in Hamburg: Flughafen sieht keine Versäumnisse – Polizei fordert neue Vorgaben",
-      "teaser": "Ein Mann rast in seinem Auto aufs Rollfeld: Wie konnte das passieren? Der Airport Hamburg weist Fehler von sich. Polizeigewerkschafter fordern neue gesetzliche Vorgaben. 225 Kommentare",
+      "teaser": "Ein Mann rast in seinem Auto aufs Rollfeld: Wie konnte das passieren? Der Airport Hamburg weist Fehler von sich. Polizeigewerkschafter fordern neue gesetzliche Vorgaben. 234 Kommentare",
       "url": "https://www.zeit.de/gesellschaft/2023-11/geiselnahme-hamburg-flughafen-stellungnahme",
       "image_url": "https://img.zeit.de/gesellschaft/2023-11/geiselnahme-hamburg-flughafen-stellungnahme-bild/cinema__980x420",
       "image_title": "Geiselnahme in Hamburg: Flughafen sieht keine Versäumnisse – Polizei fordert neue Vorgaben"
@@ -717,7 +737,7 @@
     },
     {
       "title": "Job: Generation Z schaut bei Berufswahl vor allem aufs Geld",
-      "teaser": "Für junge Menschen ist die Bezahlung bei der Berufs- und Ausbildungswahl laut einer Umfrage am wichtigsten. Sinn und Zweck des Jobs seien eher zweitrangig. 532 Kommentare",
+      "teaser": "Für junge Menschen ist die Bezahlung bei der Berufs- und Ausbildungswahl laut einer Umfrage am wichtigsten. Sinn und Zweck des Jobs seien eher zweitrangig. 545 Kommentare",
       "url": "https://www.zeit.de/arbeit/2023-11/umfrage-berufswahl-generation-z-geld-wichtig",
       "image_url": "https://img.zeit.de/arbeit/2023-11/generation-z-symbolfoto-frau-laptop/cinema__980x420",
       "image_title": "Job: Generation Z schaut bei Berufswahl vor allem aufs Geld"
@@ -765,11 +785,11 @@
       "image_title": "Referendariat: \"Ich unterrichte lieber an einer Brennpunktschule\""
     },
     {
-      "title": "Verlagsangebot Und was macht man dann damit?",
-      "teaser": "Was verbirgt sich konkret hinter den sperrigen Studiengangsbezeichnungen? Einen Einblick in mögliche Berufsfelder liefert die Suchmaschine für Studienangebote.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.kaffeepause_wasmachtmandamit.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_kaffeepause_wasmachtmandamit_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-4-klein/photo-of-women-looking-on-monitors-197.jpg",
-      "image_title": "Und was macht man dann damit?"
+      "title": "Verlagsangebot Ein Studium finden, das passt",
+      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
+      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
+      "image_title": "Ein Studium finden, das passt"
     },
     {
       "title": "Kriminelle Energie: Wie viel kriminelle Energie steckt in Ihnen?",
@@ -808,7 +828,7 @@
     },
     {
       "title": "ÖPNV: Teureres Deutschlandticket käme für viele nicht mehr infrage",
-      "teaser": "Bund und Länder streiten über die Finanzierung des Deutschlandtickets. Dabei geht es auch um den künftigen Preis. Viel teurer darf es für viele nicht mehr werden. 500 Kommentare",
+      "teaser": "Bund und Länder streiten über die Finanzierung des Deutschlandtickets. Dabei geht es auch um den künftigen Preis. Viel teurer darf es für viele nicht mehr werden. 512 Kommentare",
       "url": "https://www.zeit.de/mobilitaet/deutschland/2023-11/oepnv-deutschlandticket-preis-umfrage-finanzierung",
       "image_url": "https://img.zeit.de/mobilitaet/2023-11/deutschland-deutschlandticket-deutsche-bahn-umfrage/cinema__980x420",
       "image_title": "ÖPNV: Teureres Deutschlandticket käme für viele nicht mehr infrage"
@@ -912,36 +932,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Krieg in Nahost: Deutsche in Gaza - «Holt uns aus der Hölle»",
-      "url": "https://www.zeit.de/news/2023-11/05/deutsche-in-gaza-holt-uns-aus-der-hoelle"
+      "title": "2. Budesliga: Hertha BSC weiter im Mittelmaß: Nur 0:0 bei Hansa Rostock",
+      "url": "https://www.zeit.de/news/2023-11/05/hertha-bsc-weiter-im-mittelmass-nur-0-0-bei-hansa-rostock"
     },
     {
-      "title": "Wadern: Spaziergänger entdeckt säckeweise Schlachtabfälle im Wald",
-      "url": "https://www.zeit.de/news/2023-11/05/spaziergaenger-entdeckt-saeckeweise-schlachtabfaelle-im-wald"
+      "title": "Polizei: Rentner verletzt Ehefrau in Elmshorn lebensgefährlich",
+      "url": "https://www.zeit.de/news/2023-11/05/rentner-verletzt-ehefrau-in-elmshorn-lebensgefaehrlich"
     },
     {
-      "title": "Staatsanwaltschaft: Mann stirbt nach Polizeieinsatz in Köln: Ermittlungen laufen",
-      "url": "https://www.zeit.de/news/2023-11/05/mann-stirbt-nach-polizeieinsatz-in-koeln-ermittlungen-laufen"
+      "title": "Verkehr: Zahlreiche Unfälle auf Bayerns Straßen",
+      "url": "https://www.zeit.de/news/2023-11/05/zahlreiche-unfaelle-auf-bayerns-strassen"
     },
     {
-      "title": "Regierung: Ministerwechsel steht an: Ministerpräsident würdigt Beermann",
-      "url": "https://www.zeit.de/news/2023-11/05/ministerwechsel-steht-an-ministerpraesident-wuerdigt-beermann"
+      "title": "Hamburger Flughafen: Grote lobt Polizei nach glücklichem Ende der Geiselnahme",
+      "url": "https://www.zeit.de/news/2023-11/05/grote-lobt-polizei-nach-gluecklichem-ende-der-geiselnahme"
     },
     {
-      "title": "Polizei: Geiselnahme auf Hamburger Airport zu Ende: Kind befreit",
-      "url": "https://www.zeit.de/news/2023-11/05/geiselnahme-am-hamburger-flughafen-beendet-kind-befreit"
+      "title": "Berlin: LKA ermittelt nach mehreren Explosionen in Neukölln",
+      "url": "https://www.zeit.de/news/2023-11/05/lka-ermittelt-nach-mehreren-explosionen-in-neukoelln"
     },
     {
-      "title": "Evangelische Kirche: Steen als erste Bischöfin im Sprengel Schleswig und Holstein",
-      "url": "https://www.zeit.de/news/2023-11/05/steen-als-erste-bischoefin-im-sprengel-schleswig-und-holstein"
+      "title": "Hannover: Innenministerin empört über Aggression im Stadion",
+      "url": "https://www.zeit.de/news/2023-11/05/innenministerin-empoert-ueber-aggression-im-stadion"
     },
     {
-      "title": "Kreis Euskirchen: Geflüchtetes Pferd galoppiert ohne Reiter durch Zülpich",
-      "url": "https://www.zeit.de/news/2023-11/05/gefluechtetes-pferd-galoppiert-ohne-reiter-durch-zuelpich"
+      "title": "2. Bundesliga: Waldhof verpasst Befreiungsschlag: Nur 0:0 gegen Duisburg",
+      "url": "https://www.zeit.de/news/2023-11/05/0-3-gegen-paderborn-karlsruher-sc-faellt-auf-rang-16-zurueck"
     },
     {
-      "title": "Wirtschaftspolitik: DIHK befürchtet Abschwächung von Wachstumschancengesetz",
-      "url": "https://www.zeit.de/news/2023-11/05/dihk-befuerchtet-abschwaechung-von-wachstumschancengesetz"
+      "title": "Geiselnahme am Flughafen: Zweite Bürgermeisterin Fegebank dankt Hamburger Polizei",
+      "url": "https://www.zeit.de/news/2023-11/05/zweite-buergermeisterin-fegebank-dankt-hamburger-polizei"
     }
   ]
 }
