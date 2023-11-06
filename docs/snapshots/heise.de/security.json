@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-06T09:12:11",
+  "timestamp": "2023-11-06T10:13:10",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.9ce981b203f0a9831597",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.622ecfb004da39b81b7a",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "QNAP NAS",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-QNAP-Angreifer-koennen-eigene-Befehle-auf-NAS-ausfuehren-9354109.html"
+    },
     {
       "title": "Nvidia-GPU-Treiber",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Nvidia-GeForce-Treiberluecken-gefaehrden-PCs-9351600.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Cisco-Firewalls-manipulieren-9351087.html"
     },
     {
-      "title": "Citrix NetScaler ADC und Gateway",
-      "url": "https://www.heise.de/news/CitrixBleed-Ransomware-Banden-attackieren-Citrix-NetScaler-9350201.html"
+      "title": "Sicherheitsupdates QNAP: Angreifer können eigene Befehle auf NAS ausführen",
+      "teaser": "Wichtige Sicherheitspatches sichern Netzwerkspeicher von QNAP ab. Unbefugte können Daten einsehen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-QNAP-Angreifer-koennen-eigene-Befehle-auf-NAS-ausfuehren-9354109.html"
     },
     {
       "title": "Partnerfirma gehackt: Identitätsdienst Okta erneut von Datenpanne betroffen",
@@ -149,12 +154,6 @@
       "teaser": "Cyberkriminelle haben sich an den Systemen der Hochschule Hannover vergriffen. Die Reparaturarbeiten dauern an, Lehrveranstaltungen finden planmäßig statt.",
       "url": "https://www.heise.de/news/Hochschule-Hannover-Ransomware-Angriff-grosse-Teile-der-IT-Infrastruktur-down-9350254.html",
       "image_title": "Computer mit Lampe darüber"
-    },
-    {
-      "title": "iX-Workshop: Wie Angreifer vorgehen – Pentesting mit Open-Source-Tools",
-      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. Mit Frühbucherrabatt.",
-      "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-9346175.html",
-      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
