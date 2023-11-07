@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-07T20:12:14",
+  "timestamp": "2023-11-07T21:10:13",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); ASML: Chip, Chip, hurra!",
+      "teaser": "Europa ist zu abhängig von Asien? Mag sein – aber ohne die niederländische Firma ASML kann niemand moderne Halbleiter produzieren.",
+      "url": "https://www.zeit.de/2023/46/asml-halbleiter-chipindustrie-china",
+      "image_url": "https://img.zeit.de/2023/46/chip-chip-hurra-bild-1/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Wohnungsbau: Ist das der Bau-Turbo?",
       "teaser": "Ein Dachgeschoss-Ausbau braucht keine Genehmigung mehr, die Parkplatz-Vorgaben werden gelockert: Die neuen Beschlüsse sollen den Wohnungsbau vereinfachen. Reicht das?",
       "url": "https://www.zeit.de/wirtschaft/2023-11/wohnungsbau-massnahmen-bund-laender-vereinfachung-problem",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/wohnungsbau-massnahmen-bund-laender/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/wohnungsbau-massnahmen-bund-laender/wide__822x462",
+      "image_title": "Wohnungsbau: Ist das der Bau-Turbo?"
     },
     {
       "title": "Fachkräftemangel: Robert Habeck fordert positive Grundhaltung in Ausländerämtern",
@@ -52,17 +59,10 @@
     },
     {
       "title": "Trigema: Wolfgang Grupp übergibt Leitung von Trigema an seine Kinder",
-      "teaser": "Mehr als 50 Jahre führte Wolfgang Grupp den Textilhersteller Trigema. Nun tritt der für provokante Sprüche bekannte Inhaber ab. Die Leitung bleibt aber in Familienhand.",
+      "teaser": "Mehr als 50 Jahre führte Wolfgang Grupp den Textilhersteller Trigema. Nun tritt der für provokante Sprüche bekannte Inhaber ab. Die Leitung bleibt aber in Familienhand. 173 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-11/wolfgang-grupp-trigema-leitung-uebergabe-bonita",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/wolfgang-grupp-trigema-leitung-uebergabe-bonita-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/wolfgang-grupp-trigema-leitung-uebergabe-bonita-bild/cinema__980x420",
       "image_title": "Trigema: Wolfgang Grupp übergibt Leitung von Trigema an seine Kinder"
-    },
-    {
-      "title": "Tarifvertrag: Tarifbeschäftigte bekommen mehr Weihnachtsgeld",
-      "teaser": "Das Weihnachtsgeld für Tarifbeschäftigte steigt zwar, bleibt jedoch prozentual unter der Inflationsrate. Die Sonderzahlung variiert je nach Branche stark.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/deutschland-weihnachtsgeld-tarifbeschaeftigte-jahresende",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutschland-weihnachtsgeld-tarifbeschaeftigte-jahresende-bild/cinema__980x420",
-      "image_title": "Tarifvertrag: Tarifbeschäftigte bekommen mehr Weihnachtsgeld"
     },
     {
       "title": "AnzeigePUMA: Mit Workday zum Erfolg",
@@ -72,18 +72,18 @@
       "image_title": "PUMA: Mit Workday zum Erfolg"
     },
     {
+      "title": "Tarifvertrag: Tarifbeschäftigte bekommen mehr Weihnachtsgeld",
+      "teaser": "Das Weihnachtsgeld für Tarifbeschäftigte steigt zwar, bleibt jedoch prozentual unter der Inflationsrate. Die Sonderzahlung variiert je nach Branche stark.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/deutschland-weihnachtsgeld-tarifbeschaeftigte-jahresende",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutschland-weihnachtsgeld-tarifbeschaeftigte-jahresende-bild/wide__822x462",
+      "image_title": "Tarifvertrag: Tarifbeschäftigte bekommen mehr Weihnachtsgeld"
+    },
+    {
       "title": "Bürovermieter: Ehemals wertvollstes US-Start-up WeWork stellt Insolvenzantrag",
       "teaser": "Einst wurde der Vermieter von Co-Working-Räumen mit 47 Millionen Dollar bewertet, dann kam der Absturz. Nun hat WeWork Insolvenz angemeldet und hofft auf Sanierung.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/wework-insolvenzantrag-buerovermieter-startup",
       "image_url": "https://img.zeit.de/wirtschaft/2023-11/wework-insolvenzantrag-buerogebaeude/wide__822x462",
       "image_title": "Bürovermieter: Ehemals wertvollstes US-Start-up WeWork stellt Insolvenzantrag"
-    },
-    {
-      "title": "Heizungsgesetz: Wärmegesetz hat laut Umweltverbänden Klimaschutzanspruch verloren",
-      "teaser": "Das geplante Wärmegesetz der Bundesregierung reiche für das 1,5-Grad-Ziel nicht aus, kritisieren Umweltverbände. Es sei nach zahlreichen Änderungen nun zu ineffektiv.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/waermegesetz-heizungsgesetz-nabu-umwelt-duh-geywitz",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/umweltverbaende-waermegesetz-klimaschutz-bild/wide__822x462",
-      "image_title": "Heizungsgesetz: Wärmegesetz hat laut Umweltverbänden Klimaschutzanspruch verloren"
     },
     {
       "title": "Ölkonzerne: Womit keiner rechnet",
@@ -191,6 +191,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Heizungsgesetz: Wärmegesetz hat laut Umweltverbänden Klimaschutzanspruch verloren",
+      "teaser": "Das geplante Wärmegesetz der Bundesregierung reiche für das 1,5-Grad-Ziel nicht aus, kritisieren Umweltverbände. Es sei nach zahlreichen Änderungen nun zu ineffektiv.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/waermegesetz-heizungsgesetz-nabu-umwelt-duh-geywitz",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/umweltverbaende-waermegesetz-klimaschutz-bild/wide__822x462",
+      "image_title": "Heizungsgesetz: Wärmegesetz hat laut Umweltverbänden Klimaschutzanspruch verloren"
+    },
+    {
       "title": "Deutsche Wirtschaft: Deutsche Industrie strauchelt dank Großaufträgen weniger als erwartet",
       "teaser": "Die Bestellungen bei der deutschen Wirtschaft stiegen im September um 0,2 Prozent. Insgesamt entwickelte sich das dritte Quartal aber schwach, die lokale Nachfrage sank.",
       "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-11/industrie-gewerbe-deutschland-auftraege-plus-september",
@@ -215,14 +222,14 @@
       "title": "Energie: Deutsche Erdgasspeicher sind zu 100 Prozent gefüllt",
       "teaser": "Die zur Energieversorgung vor allem im Winter wichtigen Gasspeicher sind vollständig gefüllt, die Bundesnetzagentur zeigt sich zufrieden. Und rät dennoch zu Sparsamkeit.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/erdgas-speicher-fuellstand-100-prozent",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/erdgas-speicher-fuellstand-100-prozent-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/erdgas-speicher-fuellstand-100-prozent-bild/cinema__980x420",
       "image_title": "Energie: Deutsche Erdgasspeicher sind zu 100 Prozent gefüllt"
     },
     {
       "title": "Angus Deaton: \"Es wird alles in Geld gemessen\"",
       "teaser": "Der Nobelpreisträger Angus Deaton wirft der Wirtschaft vor, den Menschen zu vernachlässigen. Und plädiert für eine aktive Industriepolitik, wie sie Joe Biden forciert.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/angus-deaton-oekonom-wirtschaftsnobelpreis-forschung",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/angus-deaton-oekonom-wirtschaftsnobelpreis/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/angus-deaton-oekonom-wirtschaftsnobelpreis/wide__822x462",
       "image_title": "Angus Deaton: \"Es wird alles in Geld gemessen\""
     },
     {
@@ -231,13 +238,6 @@
       "url": "https://www.zeit.de/2023/46/rudolf-augstein-spiegel-100-jahre",
       "image_url": "https://img.zeit.de/2023/46/rudolf-augstein-spiegel-100-jahre-bild/wide__822x462",
       "image_title": "Rudolf Augstein: Der Wortführer"
-    },
-    {
-      "title": "Wein aus England: Der Champagne so nah",
-      "teaser": "Englische Weingüter feiern Rekordernten, der Heimatwein ist beliebt. Die Regierung will die Branche nun von lästigen Regeln befreien – und könnte ihr so schaden.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/wein-england-rekordernte-weingut",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/wein-england-rekordernte-weingut-bild/wide__822x462",
-      "image_title": "Wein aus England: Der Champagne so nah"
     },
     {
       "title": "Sparprogramm: VW verhängt Einstellungsstopp für die wichtigsten deutschen Standorte",
