@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-07T09:11:13",
+  "timestamp": "2023-11-07T10:12:04",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Veeam",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Zwei-kritische-Luecken-bedrohen-Monitoringtool-Veeam-One-9354987.html"
+    },
+    {
       "title": "QNAP NAS",
       "url": "https://www.heise.de/news/Sicherheitsupdates-QNAP-Angreifer-koennen-eigene-Befehle-auf-NAS-ausfuehren-9354109.html"
     },
@@ -44,25 +48,24 @@
       "url": "https://www.heise.de/news/Solarwinds-Platform-2023-4-schliesst-Codeschmuggel-Luecken-9351584.html"
     },
     {
-      "title": "Cisco",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Cisco-Firewalls-manipulieren-9351087.html"
+      "title": "Sicherheitsupdates: Zwei kritische Lücken bedrohen Monitoringtool Veeam One",
+      "teaser": "Die Entwickler haben in Veeam One unter anderem zwei kritische Schwachstellen geschlossen. Im schlimmsten Fall kann Schadcode auf Systeme gelangen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Zwei-kritische-Luecken-bedrohen-Monitoringtool-Veeam-One-9354987.html"
     },
     {
-      "title": "Datenklau bei Shimano: Lockbit veröffentlicht 4,5 TByte vertraulicher Dokumente",
-      "teaser": "Der japanische Hersteller für Fahrrad- und Angelteile hat offenbar auf eine Lösegeldzahlung verzichtet. Die Erpresserbande veröffentlichte ihre Datenbeute.",
-      "url": "https://www.heise.de/news/Datenklau-bei-Shimano-Lockbit-veroeffentlicht-4-5-TByte-vertraulicher-Dokumente-9355053.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Schutz vor Malware: Discord setzt auf ablaufende Links",
-      "teaser": "Discord will gegen Malware-Verteilung vorgehen und setzt dazu auf Dateilinks, die nur eine beschränkte Gültigkeit besitzen.",
-      "url": "https://www.heise.de/news/Schutz-vor-Malware-Discord-setzt-auf-ablaufende-Links-9355009.html",
-      "image_title": "Shot,Of,Data,Center,With,Multiple,Rows,Of,Fully,Operational"
+      "title": "Bugtraq würde 30: Eine Mailingliste veränderte die IT-Sicherheitswelt",
+      "teaser": "Vor etwa 30 Jahren entstand eine der einflussreichsten Quellen für Sicherheits-Neuigkeiten. BugTraq wurde 2021 eingestellt.",
+      "url": "https://www.heise.de/news/BugTraq-Wie-eine-Mailingliste-vor-30-Jahren-die-IT-Sicherheit-veraenderte-9354766.html"
     },
     {
       "title": "Sicherheitsupdates QNAP: Angreifer können eigene Befehle auf NAS ausführen",
       "teaser": "Wichtige Sicherheitspatches sichern Netzwerkspeicher von QNAP ab. Unbefugte können Daten einsehen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-QNAP-Angreifer-koennen-eigene-Befehle-auf-NAS-ausfuehren-9354109.html"
+    },
+    {
+      "title": "Microsoft Exchange Server anfällig für Remotecode-Ausführung und Datenklau",
+      "teaser": "Vier Schwachstellen im Exchange-Server machen die Groupware anfällig für Cyberangriffe. Drei Lücken werden bald geschlossen, eine ist bereits abgedichtet.",
+      "url": "https://www.heise.de/news/Microsoft-Exchange-Server-anfaellig-fuer-Remotecode-Ausfuehrung-und-Datenklau-9353809.html"
     },
     {
       "title": "Partnerfirma gehackt: Identitätsdienst Okta erneut von Datenpanne betroffen",
@@ -148,12 +151,6 @@
       "teaser": "Tails 5.19, das anonymisierende Linux für den USB-Stick, verbessert die Kontrolle im Tor-Netz. Es bringt zudem aktualisierte Pakete mit.",
       "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-19-verbessert-Tor-Steuerung-9351130.html",
       "image_title": "Tails 5.19-Desktop auf Notebook auf Tisch"
-    },
-    {
-      "title": "MOVEit: Cyberkriminelle gelangten an 630.000 E-Mail-Adressen aus US-Ministerien",
-      "teaser": "Aufgrund der MOVEit-Sicherheitslücke wurden auch 630.000 E-Mail-Adressen unter anderem des US-Justizministeriums, der Armee und der Luftwaffe veröffentlicht.",
-      "url": "https://www.heise.de/news/MOVEit-Cyberkriminelle-gelangten-an-630-000-E-Mail-Adressen-von-US-Ministerien-9350523.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
