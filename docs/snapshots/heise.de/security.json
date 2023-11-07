@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-07T10:12:04",
+  "timestamp": "2023-11-07T11:09:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Confluence",
+      "url": "https://www.heise.de/news/Kritische-Atlassian-Confluence-Luecke-wird-angegriffen-9355158.html"
+    },
+    {
       "title": "Veeam",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zwei-kritische-Luecken-bedrohen-Monitoringtool-Veeam-One-9354987.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Nvidia-GeForce-Treiberluecken-gefaehrden-PCs-9351600.html"
     },
     {
-      "title": "Solarwinds Platform",
-      "url": "https://www.heise.de/news/Solarwinds-Platform-2023-4-schliesst-Codeschmuggel-Luecken-9351584.html"
+      "title": "Kritische Atlassian-Confluence-Lücke wird angegriffen",
+      "teaser": "Vergangene Woche hat Atlassian eine Sicherheitslücke in Confluence geschlossen. Kriminelle missbrauchen sie inzwischen.",
+      "url": "https://www.heise.de/news/Kritische-Atlassian-Confluence-Luecke-wird-angegriffen-9355158.html"
     },
     {
       "title": "Sicherheitsupdates: Zwei kritische Lücken bedrohen Monitoringtool Veeam One",
@@ -145,12 +150,6 @@
       "teaser": "Lernen Sie, wie Sie Entra ID (Azure Active Directory) einschließlich Azure-Diensten härten und effektiv gegen Angriffe schützen. Frühbucherrabatt bis 15.11.",
       "url": "https://www.heise.de/news/iX-Workshop-Microsofts-Entra-ID-AAD-erfolgreich-gegen-Angriffe-absichern-9346183.html",
       "image_title": "iX-Workshop Entra ID (AAD) gegen Angriffe absichern"
-    },
-    {
-      "title": "Anonymisierendes Linux: Bessere Tor-Steuerung in Tails 5.19",
-      "teaser": "Tails 5.19, das anonymisierende Linux für den USB-Stick, verbessert die Kontrolle im Tor-Netz. Es bringt zudem aktualisierte Pakete mit.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-19-verbessert-Tor-Steuerung-9351130.html",
-      "image_title": "Tails 5.19-Desktop auf Notebook auf Tisch"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
