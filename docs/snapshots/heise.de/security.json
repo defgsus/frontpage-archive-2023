@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-08T09:11:08",
+  "timestamp": "2023-11-08T10:12:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1fe0d6050fa2d60cffde",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4edeb1a0effab1d00847",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Patchday Android",
+      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecke-bedroht-Android-11-12-und-13-9355953.html"
+    },
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Webbrowser-Luecke-mit-hohem-Risiko-in-Google-Chrome-geschlossen-9355888.html"
@@ -44,11 +48,13 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Zwei-kritische-Luecken-bedrohen-Monitoringtool-Veeam-One-9354987.html"
     },
     {
-      "title": "QNAP NAS",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-QNAP-Angreifer-koennen-eigene-Befehle-auf-NAS-ausfuehren-9354109.html"
+      "title": "Patchday: Kritische System-Lücke bedroht Android 11, 12 und 13",
+      "teaser": "Google hat wichtige Sicherheitsupdates für verschiedene Android-Versionen veröffentlicht.",
+      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecke-bedroht-Android-11-12-und-13-9355953.html",
+      "image_title": "Aufmacher Android-Patchday"
     },
     {
-      "title": "Angebliches LinkedIn-Datenleck: Daten von Tätern konstruiert",
+      "title": "LinkedIn-Datenleck: Täter blähen Datenhalde mit konstruierten Einträgen auf",
       "teaser": "Im digitalen Untergrund haben Kriminelle Daten aus einem angeblichen LinkedIn-Leck angeboten. Diese entpuppen sich als künstlich aufgebläht.",
       "url": "https://www.heise.de/news/Angebliches-LinkedIn-Datenleck-Daten-von-Taetern-konstruiert-9355976.html",
       "image_title": "Abstraktes Bild zu Netzwerken"
@@ -147,11 +153,6 @@
       "title": "Apples \"Wo ist\": Keylogger-Tastatur nutzt Ortungsnetz zum Passwortversand",
       "teaser": "Eigentlich soll es helfen, verlorene Dinge aufzuspüren. Unsere Keylogger-Tastatur nutzt Apples \"Wo ist\"-Ortungsnetz jedoch zum Ausschleusen von Daten.",
       "url": "https://www.heise.de/news/Keylogger-Tastatur-schleust-Daten-ueber-Apples-Wo-ist-Ortungsnetz-aus-9342791.html"
-    },
-    {
-      "title": "Sicherheitsforscher rätseln: Wer hat das Mozi-Botnet abgeschaltet?",
-      "teaser": "Ende September hat das IoT-Botnet sich selber kontrolliert heruntergefahren. Experten haben eine Vermutung, wer die Abschaltung veranlasste.",
-      "url": "https://www.heise.de/news/Sicherheitsforscher-raetseln-Wer-hat-das-Mozi-Botnet-abgeschaltet-9352132.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
