@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-08T16:15:13",
+  "timestamp": "2023-11-08T17:11:04",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -38,7 +38,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Arm, aber süß",
+      "title": "Z+ Kateressen auf Chinesisch",
+      "teaser": "Jianbing ist in China ein traditionelles Frühstücksgericht: Der herzhafte Crêpe wird ab frühmorgens an Streetfood-Ständen verkauft. Rein kommt, was schmeckt.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/47/chinesische-crepes-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/47/chinesische-cr-pes-bild-1/wide__822x462",
+      "image_title": "Chinesische Crêpes: Kateressen auf Chinesisch"
+    },
+    {
+      "title": "Z+ Pouding Chômeur mit Birnen: Arm, aber süß",
       "teaser": "Wenn die kanadische Küche für ein Produkt steht, dann für Ahornsirup. Gemeinsam mit Birnen verleiht er auch Pouding Chômeur, Kanadas armem Ritter, seine dunkle Süße.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/pouding-chomeur-birnen-rezept-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/pouding-chomeur-birnen-rezept-wochenmarkt-bild/wide__822x462",
@@ -50,13 +57,6 @@
       "url": "https://www.zeit.de/2023/47/thomas-gottschalk-wetten-dass-fernsehen-radio",
       "image_url": "https://img.zeit.de/2023/47/thomas-gottschalk-wetten-dass-fernsehen-radio-bild/wide__822x462",
       "image_title": "Thomas Gottschalk: \"Ich bin ein Gesichtsvermieter\""
-    },
-    {
-      "title": "Z+ Falten vorbeugen: Was der Haut hilft – und was nicht",
-      "teaser": "Gua Sha, Gesichtsyoga, Face-Taping: Sieben Möglichkeiten, die versprechen, ohne Kosmetik das Gesicht glatt zu kriegen – und wie effektiv sie wirklich sind.",
-      "url": "https://www.zeit.de/zeit-magazin/leben/2023-11/falten-vorbeugen-anti-aging-methoden-faq",
-      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-11/falten-vorbeugen-anti-aging-methoden-faq-bild/wide__822x462",
-      "image_title": "Falten vorbeugen: Was der Haut hilft – und was nicht"
     },
     {
       "title": "Z+ Womit wohl der Weihnachtsmann unterschreiben würde?",
@@ -72,10 +72,10 @@
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Frittieren: Gut frittiert ist auch gekocht",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/frittieren-pommes-kochen-technik-faq",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/frittieren-pommes-kochen-technik-faq-bild/tile__315x394",
-      "image_title": "Frittieren: Gut frittiert ist auch gekocht"
+      "title": "Z+ Falten vorbeugen: Was der Haut hilft – und was nicht",
+      "url": "https://www.zeit.de/zeit-magazin/leben/2023-11/falten-vorbeugen-anti-aging-methoden-faq",
+      "image_url": "https://img.zeit.de/zeit-magazin/leben/2023-11/falten-vorbeugen-anti-aging-methoden-faq-bild/tile__315x394",
+      "image_title": "Falten vorbeugen: Was der Haut hilft – und was nicht"
     },
     {
       "title": "Auf Messers Schneide",
@@ -207,6 +207,12 @@
       "image_title": "Übergewicht : Bin ich zu viel?"
     },
     {
+      "title": "Z+ Frittieren: Gut frittiert ist auch gekocht",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/frittieren-pommes-kochen-technik-faq",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/frittieren-pommes-kochen-technik-faq-bild/tile__315x394",
+      "image_title": "Frittieren: Gut frittiert ist auch gekocht"
+    },
+    {
       "title": "Z+ Warnhinweise auf Fleisch: \"Warnung: Fleischessen trägt zum Klimawandel bei\"",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/warnhinweise-fleisch-verbraucher-lebensmittel-studie-wochenmarkt",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/warnhinweise-fleisch-verbraucher-lebensmittel-studie-wochenmarkt-bild/tile__315x394",
@@ -261,12 +267,6 @@
       "image_title": "Erfolgsdruck: Lass mal gut sein"
     },
     {
-      "title": "Z+ Rinderrouladen mit Senf : Flotte Rolle",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/rinderrouladen-senf-pancetta-brotzeit-rezept",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/rinderrouladen-senf-pancetta-brotzeit-rezept-gericht/tile__315x394",
-      "image_title": "Rinderrouladen mit Senf : Flotte Rolle"
-    },
-    {
       "title": "Z+ Sonnenbrillen: Auf der dunklen Seite",
       "url": "https://www.zeit.de/zeit-magazin/mode-design/2023-10/sonnenbrillen-anonymitaet-outfit-mode",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-10/sonnenbrillen-anonymitaet-outfit/square__460x460",
@@ -313,18 +313,25 @@
       "url": "https://www.zeit.de/zeit-magazin/2023-11/gehirn-kreativitaet-rex-jung-psychologie-neurowissenschaften"
     },
     {
-      "title": "Z+ Hirnforschung zu Kreativität : \"In Gruppenbrainstormings entstehen die schlechtesten Ideen\"",
-      "url": "https://www.zeit.de/zeit-magazin/2023-11/gehirn-kreativitaet-rex-jung-psychologie-neurowissenschaften"
+      "title": "Z+ Thomas Gottschalk: \"Ich bin ein Gesichtsvermieter\"",
+      "url": "https://www.zeit.de/2023/47/thomas-gottschalk-wetten-dass-fernsehen-radio"
     },
     {
       "title": "Z+ Fahrradtasche: Vollgepackt und drangehängt",
       "url": "https://www.zeit.de/zeit-magazin/2023-11/fahrradtasche-ortlieb-wasserdicht-rennrad"
     },
     {
+      "title": "Z+ Rinderrouladen mit Senf : Flotte Rolle",
+      "teaser": "Er kann scharf sein oder süß, knallgelb oder grummelig braun. Doch eine Sache ist unbestreitbar: Ein Löffel Senf macht jedes deftige Gericht besser.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/rinderrouladen-senf-pancetta-brotzeit-rezept",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/rinderrouladen-senf-pancetta-brotzeit-rezept-gericht/square__460x460",
+      "image_title": "Rinderrouladen mit Senf : Flotte Rolle"
+    },
+    {
       "title": "Z+ Trennung: Zehn Fragen, die man sich vor einer Trennung stellen sollte",
       "teaser": "Viele zögern, bevor sie Schluss machen: Will ich das wirklich? Wie sage ich es? Eine Scheidungsanwältin und eine Paartherapeutin erklären, wie man sich gut trennt.",
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-10/sich-trennen-beziehung-therapie-scheidung-faq",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/sich-trennen-beziehung-therapie-scheidung-faq-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/sich-trennen-beziehung-therapie-scheidung-faq-bild/wide__822x462",
       "image_title": "Trennung: Zehn Fragen, die man sich vor einer Trennung stellen sollte"
     },
     {
@@ -350,9 +357,8 @@
     },
     {
       "title": "Z+ Chinesischer Glasnudelsalat: Bei Nudelrezepten auch mal transparent sein!",
-      "teaser": "Sie lieben chinesischen Glasnudelsalat? Mit diesem schnellen, einfachen Rezept – inklusive frischem Gemüse und Kräutern – gelingt er im Handumdrehen auch zu Hause.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/chinesischer-glasnudelsalat-pilze-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/chinesischer-glasnudelsalat-pilze-rezept-wochenmarkt-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-10/chinesischer-glasnudelsalat-pilze-rezept-wochenmarkt-teaser/tile__315x394",
       "image_title": "Chinesischer Glasnudelsalat: Bei Nudelrezepten auch mal transparent sein!"
     },
     {
@@ -366,12 +372,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-10/saft-kinder-getraenke-geschmack-erziehung",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-10/saft-kinder-getraenke-geschmack-erziehung-bild/tile__315x394",
       "image_title": "Getränke für Kinder: \"Kinder brauchen keine Säfte\""
-    },
-    {
-      "title": "Z+ Schweigekloster: \"Ich habe mich zum ersten Mal richtig wahrgenommen\"",
-      "url": "https://www.zeit.de/zeit-magazin/2023/45/schweigekloster-seminar-pruefers-toechter",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/schweigekloster-seminar-pruefers-toechter-herbst/tile__315x394",
-      "image_title": "Schweigekloster: \"Ich habe mich zum ersten Mal richtig wahrgenommen\""
     }
   ]
 }
