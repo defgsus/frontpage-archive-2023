@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-08T11:09:16",
+  "timestamp": "2023-11-08T12:20:59",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -42,16 +42,37 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-raetseln-Wer-hat-das-Mozi-Botnet-abgeschaltet-9352132.html"
     },
     {
+      "title": "Mini-PC mit Ultraschallkühlung: Zotac ZBox pico PI430AJ im Test",
+      "teaser": "Zotac rüstet den Mini-PC ZBox pico PI430AJ mit einem Solid-State-Kühler von Frore aus. Wir prüfen, wie leise und gut das Kühlen funktioniert.",
+      "url": "https://www.heise.de/tests/Mini-PC-mit-Ultraschallkuehlung-Zotac-ZBox-pico-PI430AJ-im-Test-9354606.html",
+      "image_title": ","
+    },
+    {
       "title": "Linux: Dateien und Verzeichnisse mit diff vergleichen",
       "teaser": "Das Linux-Utility diff ist ein leistungsstarkes Werkzeug zum Vergleichen von Textdateien und Verzeichnisstrukturen. So wenden Sie es an.",
       "url": "https://www.heise.de/ratgeber/Linux-Dateien-und-Verzeichnisse-mit-diff-vergleichen-9352736.html",
       "image_title": "Pinguin, gerade aus dem Wasser auf einen Felsen gehüpft, streckt seine Flügel aus"
     },
     {
-      "title": "Kondensatoren und Co: Häufig defekte Bauteile in elektronischen Geräten",
-      "teaser": "Elektronik kann nach jahrelanger Arbeit mal ihren Geist aufgeben, selbst wenn sie ungenutzt herumliegt. Wir zeigen, welche Komponenten besonders anfällig sind.",
-      "url": "https://www.heise.de/ratgeber/Kondensatoren-und-Co-Haeufig-defekte-Bauteile-in-elektronischen-Geraeten-9337815.html",
-      "image_title": ", Tcareob72 / Shutterstock"
+      "title": "Kommentar: Die analoge Verwaltung als tickende Zeitbombe",
+      "teaser": "Seit Jahrzehnten kommt die Digitalisierung der deutschen Justiz und Verwaltung nicht von der Stelle. Das wird sich bitter rächen, sagt Martin Gerhard Loschwitz.",
+      "url": "https://www.heise.de/meinung/Kommentar-Die-analoge-Verwaltung-als-tickende-Zeitbombe-9356396.html"
+    },
+    {
+      "title": "Wrapped for Instagram: Fake und gefährlich statt spaßiger Rückblick",
+      "teaser": "Derzeit trendet eine App, die einen lustigen Jahresrückblick bei Instagram verspricht, aber eher Zugangsdaten ergattert.",
+      "url": "https://www.heise.de/news/Wrapped-for-Instagram-Fake-und-gefaehrlich-statt-spassiger-Rueckblick-9356342.html"
+    },
+    {
+      "title": "Firefox-Entwicklung wechselt auf Microsofts GitHub-Plattform",
+      "teaser": "Mozilla verabschiedet sich für die Entwicklung von Firefox vom Versionsverwaltungssystem Mercurial, hält aber zunächst am gewohnten Workflow fest.",
+      "url": "https://www.heise.de/news/Firefox-wechselt-Revier-fuer-die-Entwicklung-Microsofts-GitHub-als-neue-Heimat-9355942.html"
+    },
+    {
+      "title": "Boeing: Ransomware-Gang Lockbit droht erneut",
+      "teaser": "Nach einem Cyberangriff ist der Flugzeugbauer Boeing erneut auf der Leak-Seite der Cyberkriminellen gelistet. Ransomware-Verhandlungen scheinen gescheitert.",
+      "url": "https://www.heise.de/news/Ransomware-Boeing-Verhandlungen-offenbar-gescheitert-Lockbit-droht-erneut-9356178.html",
+      "image_title": "Boeing-Flugzeug über Wolken"
     },
     {
       "title": "Software Architecture Gathering 2023: Jetzt noch zur Online-Konferenz anmelden",
@@ -88,6 +109,12 @@
       "image_title": "iX-Workshop Machine Learning mit scikit-learn"
     },
     {
+      "title": "Kondensatoren und Co: Häufig defekte Bauteile in elektronischen Geräten",
+      "teaser": "Elektronik kann nach jahrelanger Arbeit mal ihren Geist aufgeben, selbst wenn sie ungenutzt herumliegt. Wir zeigen, welche Komponenten besonders anfällig sind.",
+      "url": "https://www.heise.de/ratgeber/Kondensatoren-und-Co-Haeufig-defekte-Bauteile-in-elektronischen-Geraeten-9337815.html",
+      "image_title": ", Tcareob72 / Shutterstock"
+    },
+    {
       "title": "LinkedIn-Datenleck: Täter blähen Datenhalde mit konstruierten Einträgen auf",
       "teaser": "Im digitalen Untergrund haben Kriminelle Daten aus einem angeblichen LinkedIn-Leck angeboten. Diese entpuppen sich als künstlich aufgebläht.",
       "url": "https://www.heise.de/news/Angebliches-LinkedIn-Datenleck-Daten-von-Taetern-konstruiert-9355976.html",
@@ -107,36 +134,6 @@
       "title": "Mobiler Pentester: NetAlly CyberScope im Test",
       "teaser": "Mobile Messgeräte fürs Netzwerk gibt es viele. Das NetAlly CyberScope führt zusätzlich vielfältige Sicherheitstests durch.",
       "url": "https://www.heise.de/tests/Mobiler-Pentester-NetAlly-CyberScope-im-Test-9352659.html"
-    },
-    {
-      "title": "Chaos nach Provider-Problem: Halb Australien ohne Internet und Telefon",
-      "teaser": "Bei dem zweitgrößten Provider in Australien geht seit Mittwochmorgen gar nichts mehr. Millionen Menschen und zahlreiche Firmen sind seit Stunden offline.",
-      "url": "https://www.heise.de/news/Zurueck-in-der-Steinzeit-Millionen-in-Australien-ohne-Internet-und-Telefon-9355859.html",
-      "image_title": "Filiale von Optus in Sydney"
-    },
-    {
-      "title": "Bugfixes: macOS 14.1.1, iOS 17.1.1, watchOS 10.1.1 & HomePod OS 17.1.1 verfügbar",
-      "teaser": "Apple hat in der Nacht zum Mittwoch erneut seine Betriebssysteme aktualisiert – mit wichtigen Fehlerbehebungen.",
-      "url": "https://www.heise.de/news/Bugfixes-macOS-14-1-1-iOS-17-1-1-watchOS-10-1-1-HomePod-OS-17-1-1-verfuegbar-9355839.html",
-      "image_title": "macOS 14 Sonoma"
-    },
-    {
-      "title": "Bit-Rauschen, der Prozessor-Podcast: Digitale Schlüsselgewalt",
-      "teaser": "IT-Sicherheit hängt oft an Ketten aus kryptografischen Zertifikaten. Was daran problematisch ist, diskutieren wir in Folge 2023/23 des Podcasts Bit-Rauschen.",
-      "url": "https://www.heise.de/meinung/Bit-Rauschen-der-Prozessor-Podcast-Digitale-Schluesselgewalt-9279692.html",
-      "image_title": "2 Männer sitzen auf Kühlkörpern einander gegenüber. Dazwischen schwebt das Logo des Bitrauschen-Podcasts"
-    },
-    {
-      "title": "Hunderte Experten warnen vor staatlichen Root-Zertifikaten",
-      "teaser": "Bald sollen EU-Bürger sich auf grenzüberschreitende elektronische Dienste und Vertrauensstellen verlassen müssen. Experten schlagen Alarm.",
-      "url": "https://www.heise.de/news/Hunderte-Wissenschaftler-warnen-vor-staatlichen-Root-Zertifikaten-9355165.html",
-      "image_title": "Mobiltelefon in Hand einer Person. Auf dem Handy ist ein Schloss mit EU-Sternchen zu sehen."
-    },
-    {
-      "title": "App Store ungleich App Store: Wie Apple dem Digital Markts Act entkommen wollte",
-      "teaser": "Um möglichst wenig reguliert zu werden, pochte Apple darauf, verschiedene App-Läden und Browser zu betreiben. Die EU-Kommission ließ sich davon nicht beirren.",
-      "url": "https://www.heise.de/news/App-Store-ungleich-App-Store-Wie-Apple-dem-Digital-Markts-Act-entkommen-wollte-9355764.html",
-      "image_title": "Apple-Logo"
     },
     {
       "title": "ECN Pulse Check 2023",
