@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-09T07:10:51",
+  "timestamp": "2023-11-09T08:14:44",
   "url": "https://www.spiegel.de/deinspiegel/",
   "response": {
     "status": 200
@@ -32,10 +32,16 @@
   ],
   "articles": [
     {
+      "title": "Geschwindigkeitsrekord Dieser Mann fährt 148,45 Kilometer pro Stunde – auf einem Bobby-Car",
+      "teaser": "Marcel Paul brettert im Autobahntempo auf einem Bobby-Car über die Rennstrecke. Dafür gibt’s einen Weltrekord – und neue Turnschuhe. Von Alexandra Klaußner 4 Min Zur Merkliste hinzufügen",
+      "url": "https://www.spiegel.de/deinspiegel/auf-dem-bobby-car-zum-geschwindigkeitsrekord-kein-kinderspiel-a-9630e86f-d63d-4e73-a221-73ca35a70c7b",
+      "image_url": "https://cdn.prod.www.spiegel.de/images/d8a9d2c6-c05a-46d1-8341-c67653e74f50_w960_r1.778_fpx46.27_fpy50.jpg",
+      "image_title": "Dieser Mann fährt 148,45 Kilometer pro Stunde – auf einem Bobby-Car - Frank Rumpenhorst / picture alliance / dpa"
+    },
+    {
       "title": "Zoe Wees im Kinderinterview »Meine Songs sollen eine beste Freundin sein«",
-      "teaser": "Zoe Wees ist eine weltweit erfolgreiche R&B-Sängerin und Songwriterin aus Hamburg. Mit den Kinderreporterinnen sprach sie über ihr Debütalbum, Hatekommentare und die Notwendigkeit öfter mal Nein zu sagen. Redaktionelle Begleitung: Christoph Dallach 6 Min Zur Merkliste hinzufügen",
+      "teaser": "Zoe Wees ist eine weltweit erfolgreiche R&B-Sängerin und Songwriterin aus Hamburg. Mit den Kinderreporterinnen sprach sie über ihr Debütalbum, Hatekommentare und die Notwendigkeit öfter mal Nein zu sagen. Redaktionelle Begleitung: Christoph Dallach",
       "url": "https://www.spiegel.de/deinspiegel/zoe-wees-im-kinder-interview-meine-songs-sollen-eine-beste-freundin-sein-a-8fefad64-4d7b-4063-a9c5-7d6bdb2416fe",
-      "image_url": "https://cdn.prod.www.spiegel.de/images/ec2e1008-b9d6-45d4-9f8b-346d6f9a94e1_w960_r1.778_fpx55_fpy41.jpg",
       "image_title": "»Meine Songs sollen eine beste Freundin sein« - Bettina Theuerkauf / Dein SPIEGEL"
     },
     {
@@ -51,12 +57,6 @@
       "url": "https://www.spiegel.de/deinspiegel/so-arbeitet-eine-ausstattungsleiterin-am-theater-ein-neuer-look-fuer-die-grauen-herren-a-399ac228-dce2-4632-869d-6182ccaa0ec6",
       "image_title": "Ein neuer Look für die grauen Herren - Marvin Ruppert / Dein SPIEGEL",
       "author": "Paula Josefine Küppers"
-    },
-    {
-      "title": "Buchtipps für junge Leserinnen und Leser Familie, Feen und Feuerwanzen",
-      "teaser": "Einmal im Jahr wird der Deutsche Jugendliteraturpreis vergeben, dabei gibt es auch den »Preis der Jugendjury« für das beste Buch. Hier stellen Jurymitglieder ihre Favoriten vor.",
-      "url": "https://www.spiegel.de/deinspiegel/lesetipps-futter-fuer-junge-buecherwuermer-a-77e4adea-432c-4678-b070-e9ed07d89870",
-      "image_title": "Familie, Feen und Feuerwanzen - Laura Kapfer"
     },
     {
       "title": "17-jähriger Beatboxer »Das Coole an meinem Hobby: Man kann immer und überall Musik machen«",
@@ -96,17 +96,16 @@
       "image_title": "So wirst du Kinderreporter:in - Der Flix/ Dein SPIEGEL"
     },
     {
-      "title": "Geschwindigkeitsrekord Dieser Mann fährt 148,45 Kilometer pro Stunde – auf einem Bobby-Car",
-      "teaser": "Marcel Paul brettert im Autobahntempo auf einem Bobby-Car über die Rennstrecke. Dafür gibt’s einen Weltrekord – und neue Turnschuhe. Von Alexandra Klaußner",
-      "url": "https://www.spiegel.de/deinspiegel/auf-dem-bobby-car-zum-geschwindigkeitsrekord-kein-kinderspiel-a-9630e86f-d63d-4e73-a221-73ca35a70c7b",
-      "image_title": "Dieser Mann fährt 148,45 Kilometer pro Stunde – auf einem Bobby-Car - Frank Rumpenhorst / picture alliance / dpa",
-      "author": "Alexandra Klaußner"
-    },
-    {
       "title": "Rätsel des Alltags Welche Farbe hat ein Spiegel?",
       "teaser": "Die meisten Menschen nehmen einen Spiegel als farblos wahr. Tatsächlich reflektiert die Oberfläche aber eine Farbe stärker als andere. Mit welchem Trick diese sichtbar wird, erklärt »Dein SPIEGEL«.",
       "url": "https://www.spiegel.de/deinspiegel/raetsel-des-alltags-welche-farbe-hat-ein-spiegel-a-07c26eec-d3d3-43cc-bd03-b77ecbae46ec",
       "image_title": "Welche Farbe hat ein Spiegel? - Illustration: Nils Fliegner"
+    },
+    {
+      "title": "Buchtipps für junge Leserinnen und Leser Familie, Feen und Feuerwanzen",
+      "teaser": "Einmal im Jahr wird der Deutsche Jugendliteraturpreis vergeben, dabei gibt es auch den »Preis der Jugendjury« für das beste Buch. Hier stellen Jurymitglieder ihre Favoriten vor.",
+      "url": "https://www.spiegel.de/deinspiegel/lesetipps-futter-fuer-junge-buecherwuermer-a-77e4adea-432c-4678-b070-e9ed07d89870",
+      "image_title": "Familie, Feen und Feuerwanzen - Laura Kapfer"
     },
     {
       "title": "Politikwissenschaftlerin über Wahlverhalten »Die AfD gibt vor, dass große Probleme einfach lösbar sind«",
