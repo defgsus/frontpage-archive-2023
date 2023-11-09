@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-09T08:14:16",
+  "timestamp": "2023-11-09T09:11:29",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WS_FTP",
+      "url": "https://www.heise.de/news/Angreifer-koennen-durch-kritische-Luecke-in-WS-FTP-Systeme-kompromittieren-9357127.html"
+    },
+    {
       "title": "Trend Micro Apex One",
       "url": "https://www.heise.de/news/Malware-Schutz-Rechteausweitung-in-Trend-Micros-Apex-One-moeglich-9356484.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Webbrowser-Luecke-mit-hohem-Risiko-in-Google-Chrome-geschlossen-9355888.html"
     },
     {
-      "title": "Atlassian Confluence",
-      "url": "https://www.heise.de/news/Kritische-Atlassian-Confluence-Luecke-wird-angegriffen-9355158.html"
+      "title": "Kritische Sicherheitslücke in WS_FTP erlaubt Datei-Upload an beliebige Stellen",
+      "teaser": "Angreifer können in WS_FTP Dateien an beliebige Stellen des Server-Dateisystems hochladen. Ein Update zur Fehlerkorrektur steht bereit.",
+      "url": "https://www.heise.de/news/Angreifer-koennen-durch-kritische-Luecke-in-WS-FTP-Systeme-kompromittieren-9357127.html"
     },
     {
       "title": "Nach Cyberangriff auf Casino: MGM informiert betroffene Kunden",
@@ -148,11 +153,6 @@
       "title": "Microsoft will IT-Security besser machen und startet Secure Future Initative",
       "teaser": "Auf der Basis von drei Säulen will Microsoft IT-Systeme effektiver vor Cyberattacken schützen. Eine Rolle spielt die Abwehr von Attacken auf KI-Basis.",
       "url": "https://www.heise.de/news/Microsoft-will-IT-Security-besser-machen-und-startet-Secure-Future-Initative-9352878.html"
-    },
-    {
-      "title": "Lücke in VMware ONE UEM ermöglicht Login-Klau",
-      "teaser": "Durch eine unsichere Weiterleitung können Angreifer SAML-Tokens angemeldeter Nutzer klauen und deren Zugänge übernehmen. VMware stellt Updates bereit.",
-      "url": "https://www.heise.de/news/Luecke-in-VMware-ONE-UEM-ermoeglicht-Login-Klau-9352599.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
