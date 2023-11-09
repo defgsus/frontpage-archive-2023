@@ -1,9 +1,581 @@
 {
-  "timestamp": "2023-11-09T14:10:23",
+  "timestamp": "2023-11-09T15:11:26",
   "url": "https://www.fr.de/",
   "response": {
-    "status": 502
+    "status": 200
   },
-  "scripts": [],
-  "articles": []
+  "scripts": [
+    {
+      "type": "text/plain",
+      "src": "https://www.google-analytics.com/analytics.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://www.fr.de/bi/bootstrap/",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://cl.k5a.io/614855c8e16cdd72901684f2.module.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://cl.k5a.io/614855c8e16cdd72901684f2.nomodule.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdn.opencmp.net/tcf-v2/cmp-stub-latest.js",
+      "id": "open-cmp-stub",
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://cdntrf.com/trfAdSetup.js",
+      "id": "trfAdSetup",
+      "text": null
+    },
+    {
+      "type": "text/plain",
+      "src": "https://static.cleverpush.com/channel/loader/4Dc5cYweSTjQ74PY5.js",
+      "id": null,
+      "text": null
+    }
+  ],
+  "articles": [
+    {
+      "title": "Laut Medienberichten: Spanischer Politiker in Madrid niedergeschossen",
+      "teaser": "Auf offener Straße",
+      "url": "https://www.fr.de/panorama/spanien-politiker-erschossen-rechtspopulist-alejo-vidal-quadras-vox-zr-92664710.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664710/32210114-eilmeldung-2pmzuqUSysa7.jpg",
+      "image_title": "Laut Medienberichten: Spanischer Politiker in Madrid niedergeschossen"
+    },
+    {
+      "title": "Geheimwaffe gegen Trump: Michelle Obama bleibt als Biden-Ersatz im Gespräch",
+      "teaser": "Nach Umfrage-Klatsche",
+      "url": "https://www.fr.de/politik/joe-biden-usa-praesident-leben-karriere-bilder-fotostrecke-zr-92050515.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664545/33195340-uebernimmt-sie-die-kandidatur-fuer-joe-biden-miese-umfragen-heizen-die-geruechte-um-michelle-obama-neu-an-3XEbBoAaSAa7.jpg",
+      "image_title": "Geheimwaffe gegen Trump: Michelle Obama bleibt als Biden-Ersatz im Gespräch",
+      "author": "Jens Kiffmeier"
+    },
+    {
+      "title": "40.000 Soldaten stehen bereit: Russland zieht Schlinge um Awdijiwka",
+      "teaser": "Ukraine-Krieg",
+      "url": "https://www.fr.de/politik/russland-verluste-ukraine-krieg-awdijiwka-zahlen-soldaten-front-mobilmachung-putin-tote-verletzte-zr-92664168.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664168/33193221-ukraine-krieg-zerstoerte-wohnhaeuser-und-eine-kirche-an-der-front-bei-awdijiwka-in-donezk-43PI.jpg",
+      "image_title": "40.000 Soldaten stehen bereit: Russland zieht Schlinge um Awdijiwka",
+      "author": "Franziska Schwarz"
+    },
+    {
+      "title": "Björn Höcke als „Nazi“ bezeichnet – Staatsanwaltschaft stellt Ermittlungen ein",
+      "teaser": "Die AfD und die Justiz",
+      "url": "https://www.fr.de/politik/afd-bjoern-hoecke-staatsanwaltschaft-faschist-nazi-hamburg-frankfurt-zr-92664548.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664548/33194371-pegida-dresden-bjoern-hoecke-thueringer-afd-landesvorsitzende-spricht-auf-einer-kundgebung-der-extremistischen-und-islamfeindlichen-pegida-bewegung-2xlZ3UB9PNPI.jpg",
+      "image_title": "Björn Höcke als „Nazi“ bezeichnet – Staatsanwaltschaft stellt Ermittlungen ein",
+      "author": "Robert Wagner"
+    },
+    {
+      "title": "„Ja, es war unsere Operation“: Ukraine bekennt sich zur Tötung eines pro-russischen Politikers"
+    },
+    {
+      "title": "Buffy Sainte-Marie: Zu wem sie gehört"
+    },
+    {
+      "title": "Patriots-Misserfolge „nach 20 Jahren auch mal okay“"
+    },
+    {
+      "title": "Versicherungen am Pranger"
+    },
+    {
+      "title": "Nicht nur Heizungen betroffen: Auf Hausbesitzende kommen ab 2024 neue Pflichten zu",
+      "teaser": "Neue Vorgaben für Dämmung",
+      "url": "https://www.fr.de/verbraucher/heizungen-hausbesitzer-ab-2024-neue-pflichten-gebaeudeenergiegesetz-zr-92664524.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664524/33194990-bauarbeiter-installation-isolierung-heizungsgesetz-pflichten-hausbesitzer-2024-33SG.jpg",
+      "image_title": "Nicht nur Heizungen betroffen: Auf Hausbesitzende kommen ab 2024 neue Pflichten zu",
+      "author": "Sandra Sporer"
+    },
+    {
+      "title": "Perfider Hamas-Plan: Verluste sollen arabische Welt zum Krieg gegen Israel aufstacheln",
+      "teaser": "Verräterisches Interview",
+      "url": "https://www.fr.de/politik/israel-krieg-folgen-zerstoerung-hamas-angriff-festival-gazastreifen-gaza-bilder-fotos-terroristen-zr-92569537.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664154/33194013-ruft-zum-umfassenden-krieg-gegen-israel-auf-hamas-anfuehrer-ismail-hanija-1h2mDUwCKfVI.jpg",
+      "image_title": "Perfider Hamas-Plan: Verluste sollen arabische Welt zum Krieg gegen Israel aufstacheln",
+      "author": "Jens Kiffmeier"
+    },
+    {
+      "title": "Israel nimmt offenbar Hamas-Vorposten ein – Erneut Gefechte an der Grenze zu Libanon",
+      "teaser": "News-Ticker",
+      "url": "https://www.fr.de/politik/israel-gaza-hamas-krieg-raketen-soldaten-idf-truppen-news-ticker-zr-92661538.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92661538/33196009-israel-krieg-libanon-22VI.jpg",
+      "image_title": "Israel nimmt offenbar Hamas-Vorposten ein – Erneut Gefechte an der Grenze zu Libanon",
+      "author": "Christian Stör, Lukas Rogalla und Robert Wagner"
+    },
+    {
+      "title": "Krieg mit der Hamas: Israels Zielsetzung in Gaza bleibt weiter unklar",
+      "teaser": "Washington Post",
+      "url": "https://www.fr.de/politik/krieg-israel-hamas-geschichte-enstehung-palaestina-konflikt-sechs-tage-libanon-jom-kippur-zr-92574266.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92663492/33185552-ein-bombardiertes-haus-in-khan-younis-im-suedlichen-gazastreifen-am-dienstag-1VVI.jpg",
+      "image_title": "Krieg mit der Hamas: Israels Zielsetzung in Gaza bleibt weiter unklar"
+    },
+    {
+      "title": "Neue Streiks? Deutsche Bahn und GDL erzielen keine Einigung - Tarifverhandlungen vertagt",
+      "teaser": "Tarifkonflikt",
+      "url": "https://www.fr.de/wirtschaft/tarifstreit-bei-der-deutschen-bahn-drohen-wieder-streiks-und-stillstand-zr-92661731.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92661731/33185279-gdl-2KVI.jpg",
+      "image_title": "Neue Streiks? Deutsche Bahn und GDL erzielen keine Einigung - Tarifverhandlungen vertagt",
+      "author": "Lisa Mayerhoferund Marcel Reich"
+    },
+    {
+      "title": "DFL terminiert die nächsten Bundesliga-Spieltage",
+      "teaser": "Mit Eintracht Frankfurt gegen FC Bayern",
+      "url": "https://www.fr.de/sport/fussball/bundesliga-torschuetzenkoenige-uebersicht-fotostrecke-lewandowski-aubameyang-gomez-zr-91571689.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92663170/33189689-wann-und-wo-rollt-der-ball-so-funktioniert-die-terminierung-der-bundesliga-spieltage-2aw4Da7j5UVI.jpg",
+      "image_title": "DFL terminiert die nächsten Bundesliga-Spieltage",
+      "author": "Tom Springer"
+    },
+    {
+      "title": "Geld kürzen hilft „auf keinen Fall“: Migrationsforscher dämpft Aufregung um „Pull-Faktoren“",
+      "teaser": "Zoff um Bezahlkarten und Zahlungen",
+      "url": "https://www.fr.de/politik/ampel-koalition-kabinett-scholz-bundesregierung-habeck-lauterbach-lindner-bilder-zr-91695457.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664433/33169913-cdu-vorsitzender-friedrich-merz-staatsbuergerschaftsrecht-reform-ampel-koalition-streit-159TQg56b6VI.jpg",
+      "image_title": "Geld kürzen hilft „auf keinen Fall“: Migrationsforscher dämpft Aufregung um „Pull-Faktoren“",
+      "author": "Franziska Schwarz"
+    },
+    {
+      "title": "Vor Wiedersehen mit alter Liebe: Frankfurt-Held kritisiert die Eintracht",
+      "teaser": "Enttäuschter Ex-Frankfurter",
+      "url": "https://www.fr.de/eintracht-frankfurt/eintracht-frankfurt-die-rekord-torschuetzen-der-hessen-zr-91585981.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664484/33194813-hadert-mit-dem-umgang-der-eintracht-frankfurts-ex-stuermer-rafael-borre-2IGPixYGGrVI.jpg",
+      "image_title": "Vor Wiedersehen mit alter Liebe: Frankfurt-Held kritisiert die Eintracht",
+      "author": "Tom Springer"
+    },
+    {
+      "title": "Eintracht Frankfurt muss gegen Helsinki auf drei wichtige Spieler verzichten",
+      "teaser": "Verletzungsprobleme in der Abwehr",
+      "url": "https://www.fr.de/eintracht-frankfurt/eintracht-frankfurt-das-sind-die-rekordtransfers-jovic-haller-trapp-zr-91576065.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92663759/33186802-aus-eintracht-frankfurts-dreierkette-mit-von-links-willian-pacho-robin-koch-und-tuta-bleibt-beim-conference-league-spiel-in-helsinki-nur-noch-einer-2pDikowZHIVI.jpg",
+      "image_title": "Eintracht Frankfurt muss gegen Helsinki auf drei wichtige Spieler verzichten",
+      "author": "Tom Springer"
+    },
+    {
+      "title": "Experte über Multikulti nach Anti-Israel-Ausschreitungen: „Bild, das propagiert wird, ist oft unglaublich naiv“",
+      "teaser": "Palästina-Demos",
+      "url": "https://www.fr.de/politik/anti-israel-demo-berlin-essen-krieg-pro-palaestina-nrw-zr-92664167.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664167/33192536-demonstranten-zuenden-bei-einer-pro-palaestina-kundgebung-pyrotechnik-2k1A541v6sVI.jpg",
+      "image_title": "Experte über Multikulti nach Anti-Israel-Ausschreitungen: „Bild, das propagiert wird, ist oft unglaublich naiv“",
+      "author": "Peter Sieben"
+    },
+    {
+      "title": "Radikale Islamisten werben junge Menschen im Netz: „Die Gefahr von Anschlägen steigt“",
+      "teaser": "Extremismus",
+      "url": "https://www.fr.de/politik/generation-islam-radikale-islamisten-essen-palaestina-israel-demo-instagram-zr-92662544.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/07/92662544/33188180-fotomontage-zeigt-eine-anti-israel-demo-in-essen-und-social-media-posts-2oVI.jpg",
+      "image_title": "Radikale Islamisten werben junge Menschen im Netz: „Die Gefahr von Anschlägen steigt“",
+      "author": "Peter Sieben"
+    },
+    {
+      "title": "Vier Optionen im Israel-Krieg: Welche Friedenslösungen für Gaza denkbar sind",
+      "teaser": "Wer erhält Kontrolle?",
+      "url": "https://www.fr.de/politik/israel-krieg-was-passiert-nach-sieg-gegen-hamas-loesungen-szenarien-gaza-zukunft-optionen-92661304.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/07/92661304/33184551-menschen-durchsuchen-gebaeude-die-bei-israelischen-luftangriffen-auf-das-fluechtlingslager-al-shati-in-gaza-anfang-wurden-2riegyrLZMVI.jpg",
+      "image_title": "Vier Optionen im Israel-Krieg: Welche Friedenslösungen für Gaza denkbar sind",
+      "author": "Nadja Zinsmeister"
+    },
+    {
+      "title": "Russland nutzt offenbar fehlerhafte Frontkarten, um Geländegewinne zu simulieren",
+      "teaser": "Lage im Ukraine-Krieg",
+      "url": "https://www.fr.de/politik/ticker-ukraine-krieg-dnipro-panzer-verluste-krim-drohnen-raketen-news-zr-92661761.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92661761/33194688-russische-soldaten-russland-krieg-ukraine-RVI.jpg",
+      "image_title": "Russland nutzt offenbar fehlerhafte Frontkarten, um Geländegewinne zu simulieren",
+      "author": "Christian Störund Robert Wagner"
+    },
+    {
+      "title": "Kiew unter Druck: US-Hilfen für die Ukraine „zu 96 Prozent“ ausgeschöpft",
+      "teaser": "Streit im Kongress",
+      "url": "https://www.fr.de/politik/usa-ukraine-krieg-hilfe-unterstuetzung-waffenlieferungen-republikaner-demokraten-kongress-streit-zr-92664138.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664138/33194059-us-praesident-joe-biden-und-dessen-amtskollege-wolodymyr-selenskyj-unterhalten-sich-waehrend-eines-staatsbesuchs-im-september-2023-2gEnjXkoM4VI.jpg",
+      "image_title": "Kiew unter Druck: US-Hilfen für die Ukraine „zu 96 Prozent“ ausgeschöpft",
+      "author": "Nail Akkoyun"
+    },
+    {
+      "title": "Tauschgeschäfte statt Sanktionen: So will Putin an eingefrorenes Vermögen kommen",
+      "teaser": "Folgen des Ukraine-Kriegs",
+      "url": "https://www.fr.de/wirtschaft/tauschgeschaefte-statt-sanktionen-so-will-putin-an-eingefrorenes-vermoegen-kommen-zr-92664669.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664669/33157657-der-russische-praesident-wladimir-putin-hat-ein-gesetz-unterzeichnet-das-die-ratifizierung-eines-wichtigen-atomabkommens-durch-russland-aufhebt-3EVI.jpg",
+      "image_title": "Tauschgeschäfte statt Sanktionen: So will Putin an eingefrorenes Vermögen kommen",
+      "author": "Lisa Mayerhofer"
+    },
+    {
+      "title": "Pekings Offshore-Riese",
+      "teaser": "erneuerbare Energie",
+      "url": "https://www.fr.de/wirtschaft/pekings-offshore-riese-92664482.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664482/33195399-exportbereit-fluegel-fuer-windkraftanlagen-im-hafen-von-taicang-in-der-chinesischen-provinz-jiangsu-2lPheV2ml3VI.jpg",
+      "image_title": "Pekings Offshore-Riese",
+      "author": "Joachim Wille"
+    },
+    {
+      "title": "Hessischer Gründerpreis 2023: Keine Spur von Zurückhaltung",
+      "teaser": "Start-ups",
+      "url": "https://www.fr.de/wirtschaft/hessischer-gruenderpreis-keine-spur-von-zurueckhaltung-92420488.html",
+      "image_url": "https://www.fr.de/bilder/2023/07/24/92420488/31334346-die-gruender-von-magnotherm-gewannen-2019-den-hessischen-gruenderpreis-jetzt-bringen-sie-den-weltweit-ersten-im-handel-erhaeltlichen-getraenkekuehler-1P9CKqkTf1VI.jpg",
+      "image_title": "Hessischer Gründerpreis 2023: Keine Spur von Zurückhaltung",
+      "author": "Tobias Schwab"
+    },
+    {
+      "title": "Eine Gewinnerin, viele Verlierer - so lief die dritte TV-Debatte der Republikaner",
+      "teaser": "Washington Post",
+      "url": "https://www.fr.de/politik/donald-trump-us-wahl-2024-kandidaten-republikaner-nominierung-uebersicht-favoriten-zr-91917966.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92663810/33192735-die-ehemalige-un-botschafterin-nikki-haley-bittet-um-eine-antwort-waehrend-floridas-gouverneur-ron-desantis-waehrend-der-republikanischen-2ok1jQfXz5VI.jpg",
+      "image_title": "Eine Gewinnerin, viele Verlierer - so lief die dritte TV-Debatte der Republikaner"
+    },
+    {
+      "title": "Krieg in Nahost: US-Kampfjets attackieren iranische Waffenfabrik",
+      "teaser": "Washington Post",
+      "url": "https://www.fr.de/politik/krieg-israel-hamas-geschichte-enstehung-palaestina-konflikt-sechs-tage-libanon-jom-kippur-zr-92574266.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92663725/33192678-verteidigungsminister-lloyd-austin-23IY9vg21mVI.jpg",
+      "image_title": "Krieg in Nahost: US-Kampfjets attackieren iranische Waffenfabrik"
+    },
+    {
+      "title": "Triumph für Trump: Ex-Präsident darf bei Vorwahlen in Minnesota antreten",
+      "teaser": "Washington Post",
+      "url": "https://www.fr.de/politik/donald-trump-us-wahl-2024-kandidaten-republikaner-nominierung-uebersicht-favoriten-zr-91917966.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92663690/33192517-der-ehemalige-praesident-donald-trump-spricht-am-15-september-in-washington-dc-auf-dem-concerned-women-for-america-summit-1yQIFHQtHyVI.jpg",
+      "image_title": "Triumph für Trump: Ex-Präsident darf bei Vorwahlen in Minnesota antreten"
+    },
+    {
+      "title": "Medizin-Professor erkrankt an Krebs – und erlebt Probleme des Gesundheitssystems hautnah",
+      "url": "https://www.fr.de/panorama/arzt-patient-rollentausch-medizin-professor-erkrankung-krebs-probleme-gesundheitssystem-zr-92654353.html"
+    },
+    {
+      "title": "Neue TV-Regeln für alle Mieter: Was auf Kabel-Kunden zukommt – So sparen Sie",
+      "url": "https://www.fr.de/verbraucher/mieter-kabel-fernsehen-kunden-sparen-neue-tv-regeln-92660141.html"
+    },
+    {
+      "title": "Lungenkrebs-Studie überrascht: Neue Details zu Risiko-Faktoren bekannt",
+      "url": "https://www.fr.de/ratgeber/gesundheit/symptome-rauchen-studie-experten-gesundheit-wissenschaft-forschung-news-lungenkrebs-91780904.html"
+    },
+    {
+      "title": "Schwerer Rückschlag: Biathlon-Ass fällt bei Fahrradsturz auf den Kopf",
+      "url": "https://www.fr.de/sport/sport-mix/kopf-biathlon-ass-erleidet-rueckschlaege-faellt-fahrradsturz-92661472.html"
+    },
+    {
+      "title": "Aktuelle Umfragen zur Niederlande-Wahl 2023: Enges Rennen zeichnet sich ab",
+      "url": "https://www.fr.de/politik/niederlande-umfragen-wahl-2023-aktuell-parlament-parteien-neuwahl-prognose-regierung-zr-92664190.html"
+    },
+    {
+      "title": "DFL terminiert die nächsten Bundesliga-Spieltage",
+      "url": "https://www.fr.de/sport/dfl-terminiert-die-naechsten-bundesliga-2-liga-spieltage-eintracht-frankfurt-gegen-fc-bayern-92663170.html"
+    },
+    {
+      "title": "Wann findet die Auslosung zum Champions-League-Achtelfinale statt?",
+      "url": "https://www.fr.de/sport/fussball/champions-league-achtelfinale-auslosung-wann-datum-ort-modus-92663733.html"
+    },
+    {
+      "title": "Verstopfen, sprengen und fluten: Wie Israels Armee das Tunnelsystem der Hamas zerstört",
+      "url": "https://www.fr.de/politik/fluten-spezialeinheit-operiert-in-gaza-offensive-krieg-in-israel-tunnel-system-hamas-schaum-sprengen-zr-92655434.html"
+    },
+    {
+      "title": "„Revolution für die Astronomie“ – Esa enthüllt erste Bilder der „Euclid“-Mission ins dunkle Universum",
+      "url": "https://www.fr.de/wissen/bilder-euclid-weltraumteleskop-dunkles-universum-revolution-astronomie-esa-erste-zr-92660494.html"
+    },
+    {
+      "title": "„Krebs wird kein Todesurteil mehr sein“ – Curevac-Chef rechnet mit baldiger Impfung",
+      "url": "https://www.fr.de/panorama/krebs-impfung-mrna-gesundheit-curevac-zehnder-biontech-forschung-behandlung-news-zr-92663870.html"
+    },
+    {
+      "title": "Schüsse vor Schule in Offenburg: Schüler soll „Mitschüler mit Schusswaffe verletzt“ haben",
+      "teaser": "Polizeigroßeinsatz läuft",
+      "url": "https://www.fr.de/panorama/schuesse-schule-schiesserei-offenburg-polizei-tatverdaechtiger-festnahme-polizeieinsatz-zr-92664193.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664193/33194906-ein-schwerbewaffneter-sek-beamter-steht-in-der-naehe-der-waldbachschule-in-offenburg-2gG5MSnF3gVI.jpg",
+      "image_title": "Schüsse vor Schule in Offenburg: Schüler soll „Mitschüler mit Schusswaffe verletzt“ haben",
+      "author": "Kai Hartwig"
+    },
+    {
+      "title": "Geplante EU-Regel betrifft alle Urlauber: Neue Handgepäck-Regeln in Flugzeugen geplant",
+      "teaser": "Gegen versteckte Kosten?",
+      "url": "https://www.fr.de/ratgeber/reise/sehenswuerdigkeiten-mallorca-bilder-top-10-kathedrale-gebirge-straende-zr-92343490.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92663571/33180455-wie-viel-handgepaeck-darf-man-als-urlauber-kuenftig-mit-in-mallorca-flieger-nehmen-symbolfoto-1KpMSXR0RHVI.jpg",
+      "image_title": "Geplante EU-Regel betrifft alle Urlauber: Neue Handgepäck-Regeln in Flugzeugen geplant",
+      "author": "Patrick Mayer"
+    },
+    {
+      "title": "Bedrohungslage an Hamburger Schule – Schüler saßen teils „Stunden in Klassenzimmern fest“",
+      "teaser": "SEK-Einsatz in Hamburg",
+      "url": "https://www.fr.de/panorama/amoklauf-polizeieinsatz-blankenese-schule-hamburg-einsatzkraefte-sek-zr-92661828.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92661828/33193007-einsatzkraefte-stehen-bei-einer-bedrohungslage-in-hamburg-vor-der-stadtteilschule-blankenese-2m8nG9KpdWVI.jpg",
+      "image_title": "Bedrohungslage an Hamburger Schule – Schüler saßen teils „Stunden in Klassenzimmern fest“",
+      "author": "Martina Lippl, Sebastian Peters, Kai Hartwig und Robin Dittrich"
+    },
+    {
+      "title": "Warum die Ringe des Saturn in 18 Monaten verschwinden werden",
+      "teaser": "Beobachtung des „Herrn der Ringe“",
+      "url": "https://www.fr.de/wissen/saturn-ringe-verschwinden-mai-2025-warum-erklaerung-kante-weltall-planet-zr-92664645.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664645/33194772-blickt-man-auf-die-kante-der-saturn-ringe-scheinen-sie-selbst-fuer-die-raumsonde-cassini-fast-zu-verschwinden-und-die-war-fuer-diese-aufnahme-deutlich-34VI.jpg",
+      "image_title": "Warum die Ringe des Saturn in 18 Monaten verschwinden werden",
+      "author": "Tanja Banner"
+    },
+    {
+      "title": "Esa plant für die Zukunft: Eigener Raumtransporter und „nachhaltige Raumfahrt“",
+      "teaser": "Weltall",
+      "url": "https://www.fr.de/wissen/esa-wuenscht-sich-nachhaltige-raumfahrt-92663806.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92663806/33193222-die-neue-traegerrakete-der-esa-die-ariane-ist-jahre-verspaetet-fuer-2024-ist-ihr-jungfernstart-nun-geplant-archivbild-1eVI.jpg",
+      "image_title": "Esa plant für die Zukunft: Eigener Raumtransporter und „nachhaltige Raumfahrt“",
+      "author": "Pamela Dörhöfer"
+    },
+    {
+      "title": "Forschungsteam weist Sauerstoff in der Venus-Atmosphäre nach",
+      "teaser": "„Fliegende Sternwarte“ SOFIA",
+      "url": "https://www.fr.de/wissen/venus-planet-atmosphaere-sauerstoff-nachgewiesen-tagseite-leben-gluthoelle-studie-zr-92663625.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92663625/2002729-1093979771-venus-erde-3h7rzqVyfcVI.jpg",
+      "image_title": "Forschungsteam weist Sauerstoff in der Venus-Atmosphäre nach",
+      "author": "Tanja Banner"
+    },
+    {
+      "title": "Nase hochziehen oder putzen? Welche Variante am gesündesten ist",
+      "teaser": "Schnupfenzeit",
+      "url": "https://www.fr.de/verbraucher/nase-hochziehen-oder-putzen-gesund-schnupfen-nebenhoehlenentzuendung-92664050.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/07/92664050/32879209-laut-rki-steigt-die-zahl-der-corona-infektionen-die-dynamik-verlangsame-sich-allerdings-2gDw5uNLBUQI.jpg",
+      "image_title": "Nase hochziehen oder putzen? Welche Variante am gesündesten ist",
+      "author": "Annika Wilk"
+    },
+    {
+      "title": "Lindner und Ampel zittern: Karlsruhe könnte Schulden-Trick kassieren",
+      "teaser": "Erwartetes Bundesverfassungsgerichtsurteil",
+      "url": "https://www.fr.de/politik/klimafonds-karlsruhe-christian-lindner-schulden-trick-ampel-koalition-gesetz-zr-92663830.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92663830/32318276-bundesverfassungsgericht-sQI.jpg",
+      "image_title": "Lindner und Ampel zittern: Karlsruhe könnte Schulden-Trick kassieren",
+      "author": "Kilian Beck"
+    },
+    {
+      "title": "Auto erfasst Fußgängergruppe in Mainz: Frankfurter stirbt an Unfallstelle",
+      "teaser": "Mombacher Straße",
+      "url": "https://www.fr.de/hessen/auto-erfasst-fussgaengergruppe-in-mainz-frankfurter-stirbt-an-unfallstelle-zr-92663717.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92663717/33192387-unfall-AVI.jpg",
+      "image_title": "Auto erfasst Fußgängergruppe in Mainz: Frankfurter stirbt an Unfallstelle",
+      "author": "Sebastian Richter"
+    },
+    {
+      "title": "Aus Israel nach Frankfurt geflüchtet: „Wir sind noch in der Schockphase“",
+      "teaser": "Nahost-Krieg",
+      "url": "https://www.fr.de/frankfurt/aus-israel-nach-frankfurt-gefluechtet-ploetzlich-besteht-wieder-diese-gefahr-dass-wir-als-juden-verfolgt-werden-92662815.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92662815/33190275-ariel-karmeli-ist-nur-aus-liebe-zu-seiner-kleinen-tochter-aus-tel-aviv-gefluechtet-2ql2NQ4NCHVI.jpg",
+      "image_title": "Aus Israel nach Frankfurt geflüchtet: „Wir sind noch in der Schockphase“",
+      "author": "Kathrin Rosendorff"
+    },
+    {
+      "title": "Generation Z spart für ihre Zukunft: Soviel Geld sollten Sie als Notgroschen zurücklegen",
+      "teaser": "Junge Verbraucher",
+      "url": "https://www.fr.de/ratgeber/wohnen/haushaltstipp-geld-sparen-strom-moebel-beleuchtung-energie-kuehlschraenke-mikrowelle-herd-zr-91924040.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92662476/33188213-junges-paar-mit-laptop-und-kreditkarte-2IFiVJpo0WQI.jpg",
+      "image_title": "Generation Z spart für ihre Zukunft: Soviel Geld sollten Sie als Notgroschen zurücklegen",
+      "author": "Clara Kistner"
+    },
+    {
+      "title": "Deine Nerven finden Lachgas überhaupt nicht lustig und das ist der Grund",
+      "url": "https://www.buzzfeed.de/news/lachgas-verbot-grossbritannien-droge-jugendliche-deutschland-gesundheitsschaedlich-nervenschaeden-92662446.html",
+      "image_url": "https://www.buzzfeed.de/assets/images/33/187/33187555-lachgas-konsum-gesundheitsschaedlich-sahnekapsel-zac.jpg",
+      "image_title": "Deine Nerven finden Lachgas überhaupt nicht lustig und das ist der Grund"
+    },
+    {
+      "title": "4 Sendungen, die wir neben „Explosiv Weekend“ aus dem TV-Programm streichen",
+      "url": "https://www.buzzfeed.de/news/rtl-explosiv-abgesetzt-frauke-ludowig-exlcusiv-starmagazin-temptation-island-gntm-dsds-92661977.html",
+      "image_url": "https://www.buzzfeed.de/assets/images/33/187/33187106-links-dieter-bohlen-rechts-heidi-klum-3fac.jpg",
+      "image_title": "4 Sendungen, die wir neben „Explosiv Weekend“ aus dem TV-Programm streichen"
+    },
+    {
+      "title": "6 antisemitische Parolen, die du auf Demos und Social Media outcallen kannst",
+      "url": "https://www.buzzfeed.de/news/antisemitismus-definition-parolen-problematisch-pro-palaestina-demonstrationen-instagram-social-media-92659957.html",
+      "image_url": "https://www.buzzfeed.de/assets/images/33/179/33179189-pro-palaestinensisch-demo-frankfurt-antisemitsmus-22ac.jpg",
+      "image_title": "6 antisemitische Parolen, die du auf Demos und Social Media outcallen kannst"
+    },
+    {
+      "title": "Chaotischer Auftritt vor Gericht: Trump weiß nicht mehr, wann er Präsident war"
+    },
+    {
+      "title": "„Drogenpolitische Bankrotterklärung“: Verbände machen Cannabis-Druck auf Ampel"
+    },
+    {
+      "title": "Ellyes Skhiri glänzt als pfiffiger Stabilisator"
+    },
+    {
+      "title": "Reicht das diplomatische Engagement Deutschlands aus?",
+      "teaser": "Friedensfragen",
+      "url": "https://www.fr.de/politik/reicht-das-diplomatische-engagement-deutschlands-aus-92662858.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92662858/33190470-eine-delegation-um-den-suedafrikanischen-regierungschef-cyril-ramaphosa-besucht-im-juni-die-ukraine-2obBSkPpCmVI.jpg",
+      "image_title": "Reicht das diplomatische Engagement Deutschlands aus?"
+    },
+    {
+      "title": "Die Unruhestifterin Martina Voss-Tecklenburg",
+      "teaser": "DFB-Spielerinnen sind verärgert",
+      "url": "https://www.fr.de/sport/fussball/tecklenburg-die-unruhestifterin-martina-voss-92596669.html#idAnchComments",
+      "image_url": "https://www.fr.de/bilder/2023/10/23/92596669/32976059-auf-abruf-martina-voss-tecklenburg-links-und-joti-chatzialexiou-der-sportliche-leiter-nationalmannschaften-1SPX9MoeFtVI.jpg",
+      "image_title": "Die Unruhestifterin Martina Voss-Tecklenburg",
+      "author": "Frank Hellmann"
+    },
+    {
+      "title": "HJK Helsinki gegen Eintracht Frankfurt heute live: Hier sehen Sie die Conference League im TV und Stream",
+      "teaser": "4. Spieltag",
+      "url": "https://www.fr.de/eintracht-frankfurt/hjk-helsinki-gegen-eintracht-frankfurt-conference-league-live-im-tv-stream-92660442.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/07/92660442/33182476-eintracht-frankfurt-ist-zu-gast-bei-hjk-helsinki-3xVI.jpg",
+      "image_title": "HJK Helsinki gegen Eintracht Frankfurt heute live: Hier sehen Sie die Conference League im TV und Stream",
+      "author": "Sascha Mehr"
+    },
+    {
+      "title": "Treffen in der Tiefgarage",
+      "teaser": "Nachbarschafsduell: Darmstadt 98 - Mainz 05",
+      "url": "https://www.fr.de/sport/fussball/treffen-in-der-tiefgarage-92664378.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664378/33195077-fehlt-wegen-einer-notbremse-darmstadts-fabian-holland-rechts-3rI7jkmWZRVI.jpg",
+      "image_title": "Treffen in der Tiefgarage",
+      "author": "Jan Christian Müller"
+    },
+    {
+      "title": "Hitler-Putsch, Pogromnacht und Mauerfall: Der 9. November – wachsam sein!",
+      "teaser": "Leitartikel",
+      "url": "https://www.fr.de/meinung/kommentare/neunter-november-hitler-putsch-pogromnacht-und-mauerfall-wachsam-sein-92662752.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92662752/33190102-bundespraesident-frank-walter-steinmeier-aeussert-sich-immer-zu-den-verschiedenen-aspekten-des-november-bernd-von-jutrczenka-dpa-1niTT7kuSHVI.jpg",
+      "image_title": "Hitler-Putsch, Pogromnacht und Mauerfall: Der 9. November – wachsam sein!",
+      "author": "Michael Hesse"
+    },
+    {
+      "title": "Trump ist kein Schicksal",
+      "teaser": "Kommentar",
+      "url": "https://www.fr.de/meinung/trump-ist-kein-schicksal-92662903.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92662903/33190592-us-praesident-joe-biden-werden-die-positiven-ergebnisse-fuer-seine-demokraten-bei-einigen-regionalwahlen-gefreut-haben-andrew-caballero-reynolds-afp-2vppqiB2MuVI.jpg",
+      "image_title": "Trump ist kein Schicksal",
+      "author": "Karl Doemens"
+    },
+    {
+      "title": "Gut Ding will Weile haben",
+      "teaser": "EU-Erweiterung",
+      "url": "https://www.fr.de/meinung/kommentare/gut-ding-will-weile-haben-92662887.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/08/92662887/33190547-eu-kommissionspraesidentin-ursula-von-der-leyen-empfiehlt-beitrittsverhandlungen-mit-der-ukraine-aufzunehmen-der-ukrainische-praesident-wolodymyr-1hsnmQK76IVI.jpg",
+      "image_title": "Gut Ding will Weile haben",
+      "author": "Andreas Schwarzkopf"
+    },
+    {
+      "title": "Union Berlin gegen Eintracht Frankfurt jetzt live: So sehen Sie das Bundesligaspiel im TV und Stream",
+      "url": "https://www.fr.de/eintracht-frankfurt/stream-union-berlin-gegen-eintracht-frankfurt-live-bundesligaspiel-im-tv-und-92651735.html"
+    },
+    {
+      "title": "Olympia 2024 in Paris: Sportarten, Tickets und Übertragungsrechte – alle Infos zu den Sommerspielen",
+      "url": "https://www.fr.de/sport/sport-mix/olympia-2024-paris-olympische-spiele-uebertragungsrechte-infos-sommerspiele-92596607.html"
+    },
+    {
+      "title": "Wann der nächste Vollmond am Himmel zu sehen ist",
+      "url": "https://www.fr.de/wissen/himmel-mondkalender-2023-mondphasen-vollmond-naechster-mond-neumond-wann-am-91975490.html"
+    },
+    {
+      "title": "Welche Mannschaften bereits für die EM 2024 qualifiziert sind",
+      "url": "https://www.fr.de/sport/fussball/em-2024-qualifizierte-teams-deutschland-portugal-frankreich-92583139.html"
+    },
+    {
+      "title": "Urlaub 2024: Muss man sich in der Arbeit schon zu Beginn des Jahres festlegen?",
+      "teaser": "Häufige Frage im Job",
+      "url": "https://www.fr.de/ratgeber/karriere/krankmeldung-arbeitgeber-arbeitsunfaehigkeit-arbeitnehmer-krankschreibung-zehn-dinge-zr-92152370.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664464/33194985-urlaubsplanung-ferien-2jVI.jpg",
+      "image_title": "Urlaub 2024: Muss man sich in der Arbeit schon zu Beginn des Jahres festlegen?",
+      "author": "Anne Hund"
+    },
+    {
+      "title": "Baugenehmigung für eine Sauna im Garten – abhängig von der Größe und dem Bundesland",
+      "url": "https://www.24garten.de/mein-garten/gartensauna-sauna-garten-genehmigung-baugenehmigung-verfahrensfreies-nebenhaus-sonderfeuerstaette-92662509.html",
+      "image_url": "https://www.24garten.de/assets/images/32/482/32482611-ein-saunhaeuschen-steht-im-garten-29ArXhC1K6ac.jpg",
+      "image_title": "Baugenehmigung für eine Sauna im Garten – abhängig von der Größe und dem Bundesland"
+    },
+    {
+      "title": "Mauke beim Pferd: fünf Tipps gegen die hartnäckige Hautentzündung in der Fesselbeuge",
+      "url": "https://www.landtiere.de/pferde/mauke-pferd-tipps-behandlung-hartnaeckigkeit-hautentzuendung-bakterien-krankheit-hygiene-prophylaxe-92662533.html",
+      "image_url": "https://www.landtiere.de/assets/images/33/188/33188939-ansicht-hinterbeine-pferd-23vAckvsDlac.jpg",
+      "image_title": "Mauke beim Pferd: fünf Tipps gegen die hartnäckige Hautentzündung in der Fesselbeuge"
+    },
+    {
+      "title": "Prix Goncourt, Bayerischer Buchpreis und Wilhelm-Raabe-Literaturpreis verliehen",
+      "url": "https://www.24books.de/aktuelles/utlu-prix-goncourt-bayerischer-buchpreis-wilhelm-raabe-preis-verliehen-hermann-andtrea-92661734.html",
+      "image_url": "https://www.24books.de/assets/images/33/186/33186224-jean-baptiste-andrea-schriftsteller-prix-goncourt-1FPcusG7p0ac.jpg",
+      "image_title": "Prix Goncourt, Bayerischer Buchpreis und Wilhelm-Raabe-Literaturpreis verliehen"
+    },
+    {
+      "title": "Allseits gute Laune",
+      "teaser": "Vorzeitig im Achtelfinale der Championas League",
+      "url": "https://www.fr.de/sport/fussball/allseits-gute-laune-92664375.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664375/33195056-traf-mal-wieder-doppelt-mittelstuermer-harry-kane-2wFPNkdreHVI.jpg",
+      "image_title": "Allseits gute Laune",
+      "author": "Hanna Raif"
+    },
+    {
+      "title": "Sport bei Kälte: Ist Joggen im Winter gesund?",
+      "teaser": "Fitnessfragen in der kalten Jahreszeit",
+      "url": "https://www.fr.de/sport/sport-mix/joggen-im-winter-gesund-kalte-tempertauren-sport-immunsystem-abnehmen-gefahr-92664046.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/11/07/92664046/33179817-joggen-im-winter-staerkt-das-immunsystem-und-hilft-sogar-beim-abnehmen-2bPlDIolbZVI.jpg",
+      "image_title": "Sport bei Kälte: Ist Joggen im Winter gesund?",
+      "author": "Florian Schimak"
+    },
+    {
+      "title": "Christoph Daum und sein Drehbuch eines Getriebenen",
+      "teaser": "Ein Film, der berührt",
+      "url": "https://www.fr.de/sport/fussball/christoph-daum-und-sein-drehbuch-eines-getriebenen-92664036.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664036/33194015-christoph-daum-will-sich-nicht-unterkriegen-lassen-2ON8Ah3LKXVI.jpg",
+      "image_title": "Christoph Daum und sein Drehbuch eines Getriebenen",
+      "author": "Günter Klein"
+    },
+    {
+      "title": "Buffy Sainte-Marie: Zu wem sie gehört",
+      "teaser": "Musik-Ikone",
+      "url": "https://www.fr.de/kultur/musik/buffy-sainte-marie-zu-wem-sie-gehoert-92664743.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664743/33196371-buffy-sainte-marie-bei-einer-gala-in-toronto-2022-3ia7.jpg",
+      "image_title": "Buffy Sainte-Marie: Zu wem sie gehört",
+      "author": "Harry Nutt"
+    },
+    {
+      "title": "Streit wegen offenem Brief: Nahost erreicht die Philosophie",
+      "teaser": "Krieg in Nahost",
+      "url": "https://www.fr.de/kultur/streit-wegen-offenem-brief-nahost-erreicht-die-philosophie-92664720.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664720/33196302-seyla-benhabib-VVI.jpg",
+      "image_title": "Streit wegen offenem Brief: Nahost erreicht die Philosophie",
+      "author": "Michael Hesse"
+    },
+    {
+      "title": "Hitler-Putsch: Und sie kamen davon...",
+      "teaser": "Weimarer REpublik",
+      "url": "https://www.fr.de/kultur/gesellschaft/hitler-putsch-und-sie-kamen-davon-92664711.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664711/33196264-in-reih-und-glied-marschiert-der-nazitrupp-in-muenchen-auf-die-fahnentraeger-sterben-im-gefecht-mit-der-polizei-zuerst-17VI.jpg",
+      "image_title": "Hitler-Putsch: Und sie kamen davon...",
+      "author": "Michael Hesse"
+    },
+    {
+      "title": "„Für immer“ von Pia Lenz im Kino – Liebes Tagebuch",
+      "teaser": "Dokumentarfilm",
+      "url": "https://www.fr.de/kultur/tv-kino/fuer-immer-von-pia-lenz-im-kino-liebes-tagebuch-92664665.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/09/92664665/33196055-fuer-immer-dieter-und-eva-1954-foto-eva-und-dieter-simon-weltkino-2hVI.jpg",
+      "image_title": "„Für immer“ von Pia Lenz im Kino – Liebes Tagebuch",
+      "author": "Daniel Kothenschulte"
+    },
+    {
+      "title": "Privates Eigentum",
+      "teaser": "Ausgabe November 2023",
+      "url": "https://webkiosk.fr.de/privates-eigentum-ausgabe-november-2023/68521139",
+      "image_url": "https://www.fr.de/images/fr/img/titelhausundgrundnovember2023-20231108131605-QmXI.jpg",
+      "image_title": "Privates Eigentum"
+    },
+    {
+      "title": "Franchise Expo 2023",
+      "teaser": "9. - 11. November Messe Frankfurt",
+      "url": "https://webkiosk.fr.de/franchise-expo-2023/68513100",
+      "image_url": "https://www.fr.de/images/fr/img/bildfranchiseexponovembert23-20231103081459-PhXI.jpg",
+      "image_title": "Franchise Expo 2023"
+    },
+    {
+      "title": "Zweirad Stadler",
+      "teaser": "E-Bike Power-Days bis 18.11.",
+      "url": "https://www.yumpu.com/de/document/read/68502607/zweirad-stadler",
+      "image_url": "https://www.fr.de/images/fr/img/titelstadler2710-20231027084224-NJXI.jpg",
+      "image_title": "Zweirad Stadler"
+    }
+  ]
 }
