@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-10T19:08:54",
+  "timestamp": "2023-11-10T20:11:41",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.2db23f13769cd2856187.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -80,10 +86,31 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Antisemitismus: Umkehr der Beweislast",
+      "teaser": "Darf nur Teil der Gesellschaft sein, wer sich vom Terror der Hamas distanziert? Wie sich ein legitimer Gedanke auf gefährliche Weise verselbstständigt.",
+      "url": "https://www.zeit.de/kultur/2023-11/antisemitismus-politische-positionierung-gesellschaft-ausgrenzung",
+      "image_url": "https://img.zeit.de/politik/2023-11/wochenende-46-politisch-motiviert-antisemitismus-bild/cinema__1000x428"
+    },
+    {
+      "title": "Liveblog: Krieg in Israel und Gaza: Außenministerin fordert in Abu Dhabi Einsatz für den Frieden",
+      "teaser": "Annalena Baerbock hat an die Golfstaaten appelliert, sich für eine Friedenslösung einzusetzen. Offenbar Tausende nach Angriffen auf Krankenhaus geflohen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/baerbock-golf-staaten-frieden-bild/cinema__980x420",
+      "image_title": "Krieg in Israel und Gaza: Außenministerin fordert in Abu Dhabi Einsatz für den Frieden"
+    },
+    {
+      "title": "Gazastreifen: Mehr als die Hälfte aller Kliniken laut WHO nicht mehr arbeitsfähig",
+      "teaser": "Im Gazastreifen können wegen Materialmangels und Zerstörungen 20 von 36 Kliniken nicht mehr arbeiten. Medizinisches Personal berichtet von Angriffen auf Krankenhäuser.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/israel-gazastreifen-libanon-krankenhaeuser-bombardiert",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/israel-gazastreifen-libanon-krankenhaeuser-bombardiert-bild/cinema__980x420",
+      "image_title": "Gazastreifen: Mehr als die Hälfte aller Kliniken laut WHO nicht mehr arbeitsfähig"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Regierungsbildung in Hessen: Ein Rheinfall für die Grünen",
       "teaser": "Trotz guter Zusammenarbeit wirft Hessens Ministerpräsident Rhein die Grünen aus der Regierung. Friedrich Merz triumphiert. Den Grünen aber stehen schwere Zeiten bevor.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/regierungsbildung-hessen-cdu-die-gruenen-boris-rhein-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/regierungsbildung-hessen-cdu-die-gruenen-boris-rhein-spd-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/regierungsbildung-hessen-cdu-die-gruenen-boris-rhein-spd-bild/wide__822x462",
+      "image_title": "Regierungsbildung in Hessen: Ein Rheinfall für die Grünen"
     },
     {
       "title": "Hessen: \"Offensichtlich regiert Boris Rhein lieber mit einer geschwächten SPD\"",
@@ -91,20 +118,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/hessen-cdu-koalition-spd-gruene-omid-nouripour",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/omid-nouripour-unverstaendnis-hessen-cdu-koalitionsverhandlungen-spd-bild/wide__822x462",
       "image_title": "Hessen: \"Offensichtlich regiert Boris Rhein lieber mit einer geschwächten SPD\""
-    },
-    {
-      "title": "Liveblog: Krieg in Israel und Gaza: Außenministerin fordert in Abu Dhabi Einsatz für den Frieden",
-      "teaser": "Annalena Baerbock hat an die Golfstaaten appelliert, sich für eine Friedenslösung einzusetzen. Offenbar Tausende nach Angriffen auf Krankenhaus geflohen. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/baerbock-golf-staaten-frieden-bild/wide__822x462",
-      "image_title": "Krieg in Israel und Gaza: Außenministerin fordert in Abu Dhabi Einsatz für den Frieden"
-    },
-    {
-      "title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung",
-      "teaser": "Außenministerin Baerbock fliegt erneut in den Nahen Osten und pocht auf die Zweistaatenlösung. Außerdem: Der Inselstaat Tuvalu rettet seine Bürger.",
-      "url": "https://www.zeit.de/politik/2023-11/annalena-baerbock-naher-osten-vae-saudi-arabien-israel-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung"
     },
     {
       "title": "Ausgabe 45/2023: Und unten leuchten wir. Willkommen im Wochenende.",
@@ -148,11 +161,11 @@
       "image_title": "Skincare für Männer: CREME. DICH. EIN."
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); IT-Sicherheit in Gesundheitsämtern: Alle kennen die Sicherheitslücken und keiner schließt sie",
-      "teaser": "In Rheinland-Pfalz setzen Gesundheitsämter eine veraltete Software voller Sicherheitsprobleme ein. Doch die Lücken werden lieber wegdiskutiert, statt geschlossen.",
-      "url": "https://www.zeit.de/digital/datenschutz/2023-11/it-sicherheit-gesundheitsaemter-rheinland-pfalz-software-datenschutz",
-      "image_url": "https://img.zeit.de/digital/2023-11/sicherheitsluecke-gesundheitsaemter-rheinland-pfalz-bild/wide__822x462",
-      "image_title": "IT-Sicherheit in Gesundheitsämtern: Alle kennen die Sicherheitslücken und keiner schließt sie"
+      "title": "The Beatles: Die Beatles erreichen nach 54 Jahren wieder Platz 1 der Charts",
+      "teaser": "Jahrzehnte nach ihrer Auflösung und dem Tod mehrerer Bandmitglieder gelingt den Beatles noch einmal ein Charterfolg. Das lohnt sich auch finanziell.",
+      "url": "https://www.zeit.de/kultur/musik/2023-11/beatles-single-now-and-then-charts-spitze",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-11/beatles-charts-spitze-bild/wide__822x462",
+      "image_title": "The Beatles: Die Beatles erreichen nach 54 Jahren wieder Platz 1 der Charts"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Richtig laufen • Das Beste aus Z+: \"Die meisten Leute laufen unnatürlich\"",
@@ -162,11 +175,32 @@
       "image_title": "Richtig laufen • Das Beste aus Z+: \"Die meisten Leute laufen unnatürlich\""
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Meditation: \"Da kommt kein Erleuchtungs-Giga-Bingo und alles ist gut\"",
+      "teaser": "Meditieren erfrischt das Gehirn. Man sollte aber den Eso-Quatsch weglassen, sagt der Philosoph Thomas Metzinger. Verzweiflung und Gewaltfantasien? Gehören dazu…",
+      "url": "https://www.zeit.de/2023/47/meditation-thomas-metzinger-philosoph-ruhe",
+      "image_url": "https://img.zeit.de/2023/47/meditation-thomas-metzinger-philosoph-ruhe-bild/cinema__980x420",
+      "image_title": "Meditation: \"Da kommt kein Erleuchtungs-Giga-Bingo und alles ist gut\""
+    },
+    {
+      "title": "Rechtsruck in Deutschland: Marina Weisband im Gespräch mit Yasmine M'Barek",
+      "teaser": "Wird die Demokratie von rechts bedroht? Darüber spricht Redakteurin Yasmine M'Barek mit der Publizistin und Politikerin beim Deutschen Wirtschaftsforum.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/rechtsruck-in-deutschland-marina-weisband-deutsches-wirtschaftsforum-demokratie",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/marina-weisband-wirtschaftsforum/wide__822x462",
+      "image_title": "Rechtsruck in Deutschland: Marina Weisband im Gespräch mit Yasmine M'Barek"
+    },
+    {
       "title": "Flüchtlingsgipfel: Schlecht für die Schutzsuchenden, gut für die AfD",
       "teaser": "Die Politik hat in der Migration einen gefährlichen Kurswechsel vollzogen: Er verändert nichts an der Zuwanderung, verschlechtert aber die Integrationschancen.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/fluechtlingsgipfel-bund-laender-asylpolitik-afd",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/gefluechtete/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/gefluechtete/wide__822x462",
       "image_title": "Flüchtlingsgipfel: Schlecht für die Schutzsuchenden, gut für die AfD"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); IT-Sicherheit in Gesundheitsämtern: Alle kennen die Sicherheitslücken und keiner schließt sie",
+      "teaser": "In Rheinland-Pfalz setzen Gesundheitsämter eine veraltete Software voller Sicherheitsprobleme ein. Doch die Lücken werden lieber wegdiskutiert, statt geschlossen.",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-11/it-sicherheit-gesundheitsaemter-rheinland-pfalz-software-datenschutz",
+      "image_url": "https://img.zeit.de/digital/2023-11/sicherheitsluecke-gesundheitsaemter-rheinland-pfalz-bild/wide__822x462",
+      "image_title": "IT-Sicherheit in Gesundheitsämtern: Alle kennen die Sicherheitslücken und keiner schließt sie"
     },
     {
       "title": "Steuerflucht: Bundestag stimmt für Einführung von globaler Konzern-Mindeststeuer",
@@ -174,13 +208,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/bundestag-globale-mindeststeuer-unternehmen",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/bundestag-globale-mindeststeuer-unternehmen-bild/wide__822x462",
       "image_title": "Steuerflucht: Bundestag stimmt für Einführung von globaler Konzern-Mindeststeuer"
-    },
-    {
-      "title": "Sozialleistungen: Kosten für Bürgergeld in diesem Jahr deutlich höher als geplant",
-      "teaser": "Inflation und eine schwache Wirtschaft sorgen beim Bundessozialministerium für \"überplanmäßige Ausgaben\". Langfristig soll das Bürgergeld Menschen aber in Arbeit bringen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/sozialleistungen-kosten-buergergeld-inflation-wirtschaft",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/sozialleistungen-kosten-buergergeld-inflation-wirtschaft-bild/wide__822x462",
-      "image_title": "Sozialleistungen: Kosten für Bürgergeld in diesem Jahr deutlich höher als geplant"
     },
     {
       "title": "Grammy Awards: Viele Künstlerinnen für Grammys nominiert",
@@ -204,11 +231,11 @@
       "image_title": "Flucht aus Ost-Berlin: \"Mein Herz ist fast stehen geblieben. Aber der Polizist lief vorbei\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vermögen in Deutschland: Was wirklich gegen Ungleichheit hilft",
-      "teaser": "Jeder zweite Deutsche besitzt kaum etwas, das Vermögen konzentriert sich auf die obersten zehn Prozent. Eine unkonventionelle Idee könnte das ändern, zeigen neue Daten.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/vermoegen-deutschland-verteilung-erbschaft-steuer-grunderbe",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/vermoegen-deutschland-verteilung-erbschaft-steuer-grunderbe-2/wide__822x462",
-      "image_title": "Vermögen in Deutschland: Was wirklich gegen Ungleichheit hilft"
+      "title": "Z+ (abopflichtiger Inhalt); Königsbrücker Heide: Wo die Bäume miteinander tanzen",
+      "teaser": "Deutschlands einzige offizielle Wildnis liegt in Sachsen. Hier wird nicht gejagt, gewandert oder spaziert. Aber sie sieht anders aus, als man es sich vorstellt.",
+      "url": "https://www.zeit.de/2023/47/koenigsbruecker-heide-deutsche-wildnis-sachsen",
+      "image_url": "https://img.zeit.de/2023/47/koenigsbruecker-heide-deutsche-wildnis-sachsen-bild/wide__822x462",
+      "image_title": "Königsbrücker Heide: Wo die Bäume miteinander tanzen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Monogamie: Kann eine offene Beziehung funktionieren?",
@@ -232,24 +259,17 @@
       "image_title": "Öffentliche Toiletten: Das geht in die Hose"
     },
     {
-      "title": "Bundesligavorschau: Abstiegskampffeiertag",
-      "teaser": "Gras fressen, alles reinhauen und noch enger zusammenrücken: Es wird ernst am Tabellenende! Und Frank Schmidt hat die Chance, sich unsterblich zu machen. Der 11. Spieltag",
-      "url": "https://www.zeit.de/sport/2023-11/bundesliga-vorschau-abstiegskampf-fc-bayern-muenchen-mitglieder-vfb-stuttgart",
-      "image_url": "https://img.zeit.de/sport/2023-11/abstiegskampffeiertag-baumgart-vorschau/cinema__980x420",
-      "image_title": "Bundesligavorschau: Abstiegskampffeiertag"
-    },
-    {
-      "title": "Bürgergeld in Italien: \"Viele Menschen werden leiden\"",
-      "teaser": "Wer in Italien arbeitslos ist, soll bald kein Bürgergeld mehr bekommen. Die Regierung will die Sozialleistung abschaffen. Ein Ökonom erklärt, welche Folgen das hätte.",
-      "url": "https://www.zeit.de/2023/47/buergergeld-italien-folgen-donato-di-carlo",
-      "image_url": "https://img.zeit.de/2023/47/viele-menschen-werden-leiden-bild-1/wide__822x462",
-      "image_title": "Bürgergeld in Italien: \"Viele Menschen werden leiden\""
-    },
-    {
       "title": "Politik, Feuilleton, Glauben & Zweifeln : \"Die Albträume sind wieder da\"",
       "teaser": "Holocaust-Überlebende in Israel erzählen, warum sie die Hamas an die Nazis erinnert. Und Navid Kermani verzweifelt an der linken Palästina-Bewegung in Deutschland.",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
       "image_url": "https://img.zeit.de/2023/packshot-23-47-1000x620.jpg/imagegroup/original__1000x620"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Bars in Dresden: Langeweile + Alkohol = Spaß",
+      "teaser": "Barkeeper weisen den Weg durch die Nacht: In Dresden nippt unser Autor an Badeschaum, lernt echte Genusstrinker kennen und das Asi-Eck.",
+      "url": "https://www.zeit.de/2023/47/dresden-bars-studiobar-pinta-shiki",
+      "image_url": "https://img.zeit.de/2023/47/dresden-bars-teaser/cinema__980x420",
+      "image_title": "Bars in Dresden: Langeweile + Alkohol = Spaß"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Eizellspende • Das Wichtigste aus Z+: Soll meine Eizelle als fremdes Kind im Ausland aufwachsen?",
@@ -264,6 +284,12 @@
       "url": "https://www.zeit.de/geld/2023-11/msci-world-etf-kurs-aktien-geld-anlegen",
       "image_url": "https://img.zeit.de/geld/2023-11/msci-world-etf-kurs-aktien-geld/wide__822x462",
       "image_title": "MSCI World • Das Beste aus Z+: Was Anleger falsch machen, wenn der ETF-Kurs fällt"
+    },
+    {
+      "title": "The Beatles: Die Beatles erreichen nach 54 Jahren wieder Platz 1 der Charts",
+      "url": "https://www.zeit.de/kultur/musik/2023-11/beatles-single-now-and-then-charts-spitze",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-11/beatles-charts-spitze-bild/wide__822x462",
+      "image_title": "The Beatles: Die Beatles erreichen nach 54 Jahren wieder Platz 1 der Charts"
     },
     {
       "title": "Grammy Awards: Viele Künstlerinnen für Grammys nominiert",
@@ -308,26 +334,6 @@
       "image_title": "Korruptionsprozess: Urteil gegen Frankfurter Ex-Oberbürgermeister Feldmann rechtskräftig"
     },
     {
-      "title": "Deutsche Bahn: Lokführer sehen 35-Stunden-Woche als Kernforderung",
-      "url": "https://www.zeit.de/arbeit/2023-11/deutsche-bahn-lokfuehrer-gdl-tarifkonflikt-streik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/deutsche-bahn-lokfuehrer-gdl-tarifkonflikt-bild/wide__822x462",
-      "image_title": "Deutsche Bahn: Lokführer sehen 35-Stunden-Woche als Kernforderung"
-    },
-    {
-      "title": "Kannibalismus in der Eiszeit: Mensch oder Mammut, was gibt's heute zu essen?",
-      "teaser": "Kein Einzelfall: Kannibalismus war im eiszeitlichen Europa völlig normal, glauben Forscher. Der Grund, warum Menschen einander aßen, überrascht: Hunger war es eher nicht.",
-      "url": "https://www.zeit.de/2023/47/kannibalismus-eiszeit-leichen-forschung-archaeologie",
-      "image_url": "https://img.zeit.de/2023/47/kannibalismus-eiszeit-leichen-forschung-archaeologie-bild/wide__822x462",
-      "image_title": "Kannibalismus in der Eiszeit: Mensch oder Mammut, was gibt's heute zu essen?"
-    },
-    {
-      "title": "Sonnensturm: Polarlichter könnten am Nordhorizont über Deutschland zu sehen sein",
-      "teaser": "Der Himmel über Deutschland könnte in der Nacht zum Sonntag grün und rot leuchten. Die Polarlichter dürften in der Mitte Deutschlands am besten zu sehen sein.",
-      "url": "https://www.zeit.de/wissen/2023-11/polarlicht-deutschland-sonnensturm",
-      "image_url": "https://img.zeit.de/wissen/2023-11/polarlicht-deutschland-sonnensturm-bild/wide__822x462",
-      "image_title": "Sonnensturm: Polarlichter könnten am Nordhorizont über Deutschland zu sehen sein"
-    },
-    {
       "title": "Irak und Syrien: Proiranische Milizen greifen erneut US-Militärstützpunkte an",
       "url": "https://www.zeit.de/politik/ausland/2023-11/irak-syrien-angriffe-us-militaerstuetzpunkte-proiranische-milizen"
     },
@@ -348,8 +354,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/tuerkei-russland-hamas-israel-5vor8"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Richtig laufen • Das Beste aus Z+: \"Die meisten Leute laufen unnatürlich\"",
-      "url": "https://www.zeit.de/sport/2023-11/richtig-laufen-fehler-haltung-laufstil-tipps"
+      "title": "Z+ (abopflichtiger Inhalt); IT-Sicherheit in Gesundheitsämtern: Alle kennen die Sicherheitslücken und keiner schließt sie",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-11/it-sicherheit-gesundheitsaemter-rheinland-pfalz-software-datenschutz"
     },
     {
       "title": "Hessen-Wahl: CDU in Hessen will künftig mit der SPD regieren",
@@ -360,8 +366,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/deutschlandtrend-unzufriedenheit-ampel-regierung-neuwahlen"
     },
     {
-      "title": "Asylpolitik: So ermuntert man Schlepper und Populisten",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/asylpolitik-asylverfahren-ausserhalb-eu-mittelmeer-schlepper"
+      "title": "Hessen: \"Offensichtlich regiert Boris Rhein lieber mit einer geschwächten SPD\"",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/hessen-cdu-koalition-spd-gruene-omid-nouripour"
     },
     {
       "title": "Irak und Syrien: Proiranische Milizen greifen erneut US-Militärstützpunkte an",
@@ -398,12 +404,12 @@
       "url": "https://www.zeit.de/zeit-magazin/leben/2023-11/immobilien-influencerin-wohnung-kaufen-kredit-investment-dorothea-metasch"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Richtig laufen • Das Beste aus Z+: \"Die meisten Leute laufen unnatürlich\"",
-      "url": "https://www.zeit.de/sport/2023-11/richtig-laufen-fehler-haltung-laufstil-tipps"
+      "title": "Z+ (abopflichtiger Inhalt); IT-Sicherheit in Gesundheitsämtern: Alle kennen die Sicherheitslücken und keiner schließt sie",
+      "url": "https://www.zeit.de/digital/datenschutz/2023-11/it-sicherheit-gesundheitsaemter-rheinland-pfalz-software-datenschutz"
     },
     {
-      "title": "Asylpolitik: So ermuntert man Schlepper und Populisten",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/asylpolitik-asylverfahren-ausserhalb-eu-mittelmeer-schlepper"
+      "title": "Hessen: \"Offensichtlich regiert Boris Rhein lieber mit einer geschwächten SPD\"",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/hessen-cdu-koalition-spd-gruene-omid-nouripour"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Geld in der Beziehung : \"Wir können den Hauskredit auch tilgen, wenn ein Einkommen wegfällt\"",
@@ -506,11 +512,11 @@
       "image_title": "\"Was jetzt? – Die Woche\": Gazastreifen verstehen – kann man die Hamas wirklich besiegen?"
     },
     {
-      "title": "Gazastreifen: Mehr als die Hälfte aller Kliniken laut WHO nicht mehr arbeitsfähig",
-      "teaser": "Im Gazastreifen können wegen Materialmangels und Zerstörungen 20 von 36 Kliniken nicht mehr arbeiten. Medizinisches Personal berichtet von Angriffen auf Krankenhäuser.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/israel-gazastreifen-libanon-krankenhaeuser-bombardiert",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/israel-gazastreifen-libanon-krankenhaeuser-bombardiert-bild/cinema__980x420",
-      "image_title": "Gazastreifen: Mehr als die Hälfte aller Kliniken laut WHO nicht mehr arbeitsfähig"
+      "title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung",
+      "teaser": "Außenministerin Baerbock fliegt erneut in den Nahen Osten und pocht auf die Zweistaatenlösung. Außerdem: Der Inselstaat Tuvalu rettet seine Bürger.",
+      "url": "https://www.zeit.de/politik/2023-11/annalena-baerbock-naher-osten-vae-saudi-arabien-israel-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung"
     },
     {
       "title": "USA und China: Biden und Xi treffen sich kommende Woche",
@@ -520,11 +526,11 @@
       "image_title": "USA und China: Biden und Xi treffen sich kommende Woche"
     },
     {
-      "title": "Desiderius-Erasmus-Stiftung: Bundestag beschließt Finanzierungsregeln für parteinahe Stiftungen",
-      "teaser": "Unter Protest der AfD hat der Bundestag ein neues Stiftungsgesetz beschlossen. Die AfD-nahe Stiftung bekommt demnach frühestens nach der nächsten Bundestagswahl Geld.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/bundestag-gesetz-finanzierung-parteinahe-stiftung-afd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/bundestag-gesetz-finanzierung-parteinahe-stiftung-afd-bild/wide__822x462",
-      "image_title": "Desiderius-Erasmus-Stiftung: Bundestag beschließt Finanzierungsregeln für parteinahe Stiftungen"
+      "title": "Sozialleistungen: Kosten für Bürgergeld in diesem Jahr deutlich höher als geplant",
+      "teaser": "Inflation und eine schwache Wirtschaft sorgen beim Bundessozialministerium für \"überplanmäßige Ausgaben\". Langfristig soll das Bürgergeld Menschen aber in Arbeit bringen.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/sozialleistungen-kosten-buergergeld-inflation-wirtschaft",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/sozialleistungen-kosten-buergergeld-inflation-wirtschaft-bild/wide__822x462",
+      "image_title": "Sozialleistungen: Kosten für Bürgergeld in diesem Jahr deutlich höher als geplant"
     },
     {
       "title": "Iran: Iranische Friedensnobelpreisträgerin Mohammadi beendet Hungerstreik",
@@ -569,11 +575,11 @@
       "image_title": "Industrie in Deutschland: Industrie verbraucht 2022 knapp ein Zehntel weniger Energie"
     },
     {
-      "title": "Tarifkonflikt im Handel: Ver.di ruft zu Warnstreiks im Einzel- und Großhandel auf",
-      "teaser": "Die Arbeitgeber haben Verhandlungen abgesagt, die Gewerkschaft ver.di sieht darin eine Kampfansage. Streiks im Weihnachtsgeschäft könnten die Folge sein.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/warnstreik-einzelhandel-grosshandel-verdi",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/warnstreik-einzelhandel-hamburg-verdi/wide__822x462",
-      "image_title": "Tarifkonflikt im Handel: Ver.di ruft zu Warnstreiks im Einzel- und Großhandel auf"
+      "title": "Z+ (abopflichtiger Inhalt); Vermögen in Deutschland: Was wirklich gegen Ungleichheit hilft",
+      "teaser": "Jeder zweite Deutsche besitzt kaum etwas, das Vermögen konzentriert sich auf die obersten zehn Prozent. Eine unkonventionelle Idee könnte das ändern, zeigen neue Daten.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/vermoegen-deutschland-verteilung-erbschaft-steuer-grunderbe",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/vermoegen-deutschland-verteilung-erbschaft-steuer-grunderbe-2/wide__822x462",
+      "image_title": "Vermögen in Deutschland: Was wirklich gegen Ungleichheit hilft"
     },
     {
       "title": "WirtschaftsWochePräsentismus: Warum es keine gute Idee ist, krank zu arbeiten – erst recht nicht im Homeoffice",
@@ -660,18 +666,18 @@
       "image_title": "Die Grünen in Hessen: \"Entscheidung der hessischen CDU ist völlig unverständlich\""
     },
     {
+      "title": "Sonnensturm: Polarlichter könnten am Nordhorizont über Deutschland zu sehen sein",
+      "teaser": "Der Himmel über Deutschland könnte in der Nacht zum Sonntag grün und rot leuchten. Die Polarlichter dürften in der Mitte Deutschlands am besten zu sehen sein.",
+      "url": "https://www.zeit.de/wissen/2023-11/polarlicht-deutschland-sonnensturm",
+      "image_url": "https://img.zeit.de/wissen/2023-11/polarlicht-deutschland-sonnensturm-bild/wide__822x462",
+      "image_title": "Sonnensturm: Polarlichter könnten am Nordhorizont über Deutschland zu sehen sein"
+    },
+    {
       "title": "Neta Crawford: Abrüsten fürs Klima?",
       "teaser": "Ein Kampfjet verbrennt in einer Stunde so viel Treibstoff wie ein Auto in sieben Jahren. Ein Gespräch darüber, wie man CO₂ sparen und trotzdem wehrhaft bleiben kann.",
       "url": "https://www.zeit.de/2023/46/neta-crawford-krieg-klimaschutz-militaer",
       "image_url": "https://img.zeit.de/2023/46/neta-crawford-krieg-klimaschutz-militaer-bild/wide__822x462",
       "image_title": "Neta Crawford: Abrüsten fürs Klima?"
-    },
-    {
-      "title": "Brasilien: Abholzung im brasilianischen Amazonasgebiet geht deutlich zurück",
-      "teaser": "Das Amazonas ist einer der größten CO₂-Speicher und wichtig im Kampf gegen den Klimawandel. Erstmals seit vier Jahren ging dort nun wieder weniger Waldfläche verloren.",
-      "url": "https://www.zeit.de/wissen/umwelt/2023-11/brasilien-amazonas-rodung-waldflaeche-rueckgang",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-11/brasilien-amazonas-rodung-waldflaeche-rueckgang-bild/wide__822x462",
-      "image_title": "Brasilien: Abholzung im brasilianischen Amazonasgebiet geht deutlich zurück"
     },
     {
       "title": "VerlagsangebotKommunizieren Sie so, dass Sie auch wirklich gehört werden",
@@ -681,11 +687,11 @@
       "image_title": "Kommunizieren Sie so, dass Sie auch wirklich gehört werden"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Vulkan • Das Beste aus Z+: Unter Neapel brodelt doch was",
-      "teaser": "Die Erde rund um Italiens Großstadt am Vesuv war wochenlang unruhig. Auch der Untergrund des benachbarten Supervulkans verändert sich. Droht ein zerstörerischer Ausbruch?",
-      "url": "https://www.zeit.de/2023/43/neapel-vulkan-erdbeben-phlegraeische-felder",
-      "image_url": "https://img.zeit.de/2023/43/neapel-vulkan-erdbeben-phlegraeische-felder-bild/wide__822x462",
-      "image_title": "Vulkan • Das Beste aus Z+: Unter Neapel brodelt doch was"
+      "title": "Kannibalismus in der Eiszeit: Mensch oder Mammut, was gibt's heute zu essen?",
+      "teaser": "Kein Einzelfall: Kannibalismus war im eiszeitlichen Europa völlig normal, glauben Forscher. Der Grund, warum Menschen einander aßen, überrascht: Hunger war es eher nicht.",
+      "url": "https://www.zeit.de/2023/47/kannibalismus-eiszeit-leichen-forschung-archaeologie",
+      "image_url": "https://img.zeit.de/2023/47/kannibalismus-eiszeit-leichen-forschung-archaeologie-bild/wide__822x462",
+      "image_title": "Kannibalismus in der Eiszeit: Mensch oder Mammut, was gibt's heute zu essen?"
     },
     {
       "title": "Große Romane - kleiner Umfang.",
@@ -739,10 +745,17 @@
     },
     {
       "title": "Deutsche Bahn: Lokführer sehen 35-Stunden-Woche als Kernforderung",
-      "teaser": "Im Tarifkonflikt zwischen der Deutschen Bahn und der Lokführergewerkschaft GDL ist die Reduzierung der wöchentlichen Arbeitszeit ein Streitpunkt. Es drohen Streiks.",
+      "teaser": "Im Tarifkonflikt zwischen der Deutschen Bahn und der Lokführergewerkschaft GDL ist die Reduzierung der wöchentlichen Arbeitszeit ein Streitpunkt. Es drohen Streiks. 101 Kommentare",
       "url": "https://www.zeit.de/arbeit/2023-11/deutsche-bahn-lokfuehrer-gdl-tarifkonflikt-streik",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/deutsche-bahn-lokfuehrer-gdl-tarifkonflikt-bild/cinema__980x420",
       "image_title": "Deutsche Bahn: Lokführer sehen 35-Stunden-Woche als Kernforderung"
+    },
+    {
+      "title": "Bürgergeld in Italien: \"Viele Menschen werden leiden\"",
+      "teaser": "Wer in Italien arbeitslos ist, soll bald kein Bürgergeld mehr bekommen. Die Regierung will die Sozialleistung abschaffen. Ein Ökonom erklärt, welche Folgen das hätte.",
+      "url": "https://www.zeit.de/2023/47/buergergeld-italien-folgen-donato-di-carlo",
+      "image_url": "https://img.zeit.de/2023/47/viele-menschen-werden-leiden-bild-1/wide__822x462",
+      "image_title": "Bürgergeld in Italien: \"Viele Menschen werden leiden\""
     },
     {
       "title": "Armut in Deutschland: Rente bleibt Rente, auch wenn man sie Vermögen nennt",
@@ -750,13 +763,6 @@
       "url": "https://www.zeit.de/arbeit/2023-11/armut-deutschland-diw-studie-rente-vermoegen",
       "image_url": "https://img.zeit.de/arbeit/2023-11/armut-deutschland-diw-studie-rente-vermoegen-alter/wide__822x462",
       "image_title": "Armut in Deutschland: Rente bleibt Rente, auch wenn man sie Vermögen nennt"
-    },
-    {
-      "title": "Tarifverhandlungen: Bahn will Verhandlungen mit GDL kommende Woche fortsetzen",
-      "teaser": "Der erste Verhandlungstag zwischen Bahn und GDL hat kein konkretes Ergebnis gebracht. Die Bahn kündigt weitere Termine an und hofft auf einen Abschluss vor Weihnachten.",
-      "url": "https://www.zeit.de/arbeit/2023-11/bahn-gdl-tarifverhandlungen-naechste-woche",
-      "image_url": "https://img.zeit.de/arbeit/2023-11/bahn-gdl-tarifverhandlungen-naechste-woche-bild/wide__822x462",
-      "image_title": "Tarifverhandlungen: Bahn will Verhandlungen mit GDL kommende Woche fortsetzen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Kinder bei Regen beschäftigen: Kinder, Regen, Hölle. Oder?",
@@ -864,10 +870,17 @@
       "image_title": "Streik bei HHLA: Wilder Widerstand"
     },
     {
+      "title": "Bundesligavorschau: Abstiegskampffeiertag",
+      "teaser": "Gras fressen, alles reinhauen und noch enger zusammenrücken: Es wird ernst am Tabellenende! Und Frank Schmidt hat die Chance, sich unsterblich zu machen. Der 11. Spieltag",
+      "url": "https://www.zeit.de/sport/2023-11/bundesliga-vorschau-abstiegskampf-fc-bayern-muenchen-mitglieder-vfb-stuttgart",
+      "image_url": "https://img.zeit.de/sport/2023-11/abstiegskampffeiertag-baumgart-vorschau/cinema__980x420",
+      "image_title": "Bundesligavorschau: Abstiegskampffeiertag"
+    },
+    {
       "title": "Ski Alpin: Höhenrausch am Matterhorn",
       "teaser": "Das Matterhorn gilt als tödlichster Berg der Welt. Nun findet dort das höchste Abfahrtsrennen aller Zeiten statt. Aber wird die Natur mitspielen?",
       "url": "https://www.zeit.de/sport/2023-11/ski-alpin-matterhorn-abfahrt",
-      "image_url": "https://img.zeit.de/sport/2023-11/matterhorn/cinema__980x420",
+      "image_url": "https://img.zeit.de/sport/2023-11/matterhorn/wide__822x462",
       "image_title": "Ski Alpin: Höhenrausch am Matterhorn"
     },
     {
@@ -876,13 +889,6 @@
       "url": "https://www.zeit.de/sport/2023-11/nagelsmann-dfb-kader-laenderspiele-tuerkei-oesterreich",
       "image_url": "https://img.zeit.de/sport/2023-11/nagelsmann-dfb-kader-laenderspiele-tuerkei-oesterreich-bild-2/wide__822x462",
       "image_title": "DFB: Nagelsmann nominiert Marvin Ducksch und Janis Blaswich"
-    },
-    {
-      "title": "Europa League: FC Freiburg und Bayer Leverkusen feiern Siege in der Europa League",
-      "teaser": "Die Freiburger gewinnen mit fünf Toren Vorsprung gegen den FK TSC Bačka Topola. Dank Handelfmeter in der Nachspielzeit gewinnt Bayer Leverkusen gegen FK Qarabağ Ağdam.",
-      "url": "https://www.zeit.de/sport/2023-11/europa-league-bayer-leverkusen-fk-karabach-agdam",
-      "image_url": "https://img.zeit.de/sport/2023-11/europa-league-bayer-leverkusen-fk-karabach-agdam-bild-2/wide__822x462",
-      "image_title": "Europa League: FC Freiburg und Bayer Leverkusen feiern Siege in der Europa League"
     },
     {
       "title": "Geld: Das haben Sie davon",
@@ -934,36 +940,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Europawahl: Landesparteitag der Hamburger SPD hat begonnen",
-      "url": "https://www.zeit.de/news/2023-11/10/landesparteitag-der-hamburger-spd-hat-begonnen"
+      "title": "Polizei: Proteste vor Auftritt von Till Lindemann in Düsseldorf",
+      "url": "https://www.zeit.de/news/2023-11/10/proteste-vor-auftritt-von-till-lindemann-in-duesseldorf"
     },
     {
-      "title": "Polizei: 23-jährige Mutter nach Geldabheben in Ueckermünde beraubt",
-      "url": "https://www.zeit.de/news/2023-11/10/23-jaehrige-mutter-nach-geldabheben-in-ueckermuende-beraubt"
+      "title": "Verteidigung : Steinmeier würdigt Stoltenbergs Führungskraft an Nato-Spitze",
+      "url": "https://www.zeit.de/news/2023-11/10/steinmeier-wuerdigt-stoltenbergs-fuehrungskraft-an-nato-spitze"
     },
     {
-      "title": "Fußball: Ehemaliger Schalke-Trainer Diethelm Ferner gestorben",
-      "url": "https://www.zeit.de/news/2023-11/10/ehemaliger-schalke-trainer-diethelm-ferner-gestorben"
+      "title": "Nordhausen: Weltkriegsbombe entschärft: Evakuierung aufgehoben",
+      "url": "https://www.zeit.de/news/2023-11/10/weltkriegsbombe-entschaerft-evakuierung-aufgehoben"
     },
     {
-      "title": "Checkpoint Charly: Hunderte Teilnehmer auf Pro-Palästina-Demo",
-      "url": "https://www.zeit.de/news/2023-11/10/hunderte-teilnehmer-auf-pro-palaestina-demo"
+      "title": "Handball: ThSV Eisenach kassiert vierte Niederlage in Folge",
+      "url": "https://www.zeit.de/news/2023-11/10/thsv-eisenach-kassiert-vierte-niederlage-in-folge"
     },
     {
-      "title": "Polizeisprecher: Frau stirbt bei Wohnungsbrand in Harrislee",
-      "url": "https://www.zeit.de/news/2023-11/10/frau-stirbt-bei-wohnungsbrand-in-harrislee"
+      "title": "2. Bundesliga: Aufsteiger Elversberg düpiert Schalke 04",
+      "url": "https://www.zeit.de/news/2023-11/10/aufsteiger-elversberg-duepiert-schalke-04"
     },
     {
-      "title": "Kriegsfolgen: Weltkriegsbombe in Nordhausen gefunden: Evakuierung",
-      "url": "https://www.zeit.de/news/2023-11/10/weltkriegsbombe-in-nordhausen-gefunden-evakuierung"
+      "title": "Fußball: 2. Liga: Elversberg stoppt Schalker Aufwärtstrend",
+      "url": "https://www.zeit.de/news/2023-11/10/2-liga-elversberg-stoppt-schalker-aufwaertstrend"
     },
     {
-      "title": "Ermittlungen: Verdächtiger von Offenburg benutzte bei Tat alte Beretta",
-      "url": "https://www.zeit.de/news/2023-11/10/verdaechtiger-von-offenburg-benutzte-bei-tat-alte-beretta"
+      "title": "Landtagswahl: Merz: Hessische Entscheidung keine Vorentscheidung für Bund",
+      "url": "https://www.zeit.de/news/2023-11/10/merz-hessische-entscheidung-keine-vorentscheidung-fuer-bund"
     },
     {
-      "title": "Nahost-Konflikt: Magdeburg: Propalästinensische Demo mit 250 Teilnehmern",
-      "url": "https://www.zeit.de/news/2023-11/10/magdeburg-propalaestinensische-demo-mit-250-teilnehmern"
+      "title": "Bundesliga: Eintracht-Frauen nur Remis gegen Leverkusen",
+      "url": "https://www.zeit.de/news/2023-11/10/eintracht-frauen-nur-remis-gegen-leverkusen"
     }
   ]
 }
