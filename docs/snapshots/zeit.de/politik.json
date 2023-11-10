@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-10T18:14:00",
+  "timestamp": "2023-11-10T19:09:01",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Liveblog: Krieg in Israel und Gaza: Außenministerin fordert in Abu Dhabi Einsatz für den Frieden",
+      "teaser": "Annalena Baerbock hat an die Golfstaaten appelliert, sich für eine Friedenslösung einzusetzen. Offenbar Tausende nach Angriffen auf Krankenhaus geflohen. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/news-israel-gaza-krieg-live",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/baerbock-golf-staaten-frieden-bild/cinema__980x420"
+    },
+    {
       "title": "Steuerflucht: Bundestag stimmt für Einführung von globaler Konzern-Mindeststeuer",
       "teaser": "International agierende Großunternehmen sollen weltweit mindestens 15 Prozent Steuern zahlen. Damit will die Bundesregierung Steuerflucht vermeiden.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/bundestag-globale-mindeststeuer-unternehmen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/bundestag-globale-mindeststeuer-unternehmen-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/bundestag-globale-mindeststeuer-unternehmen-bild/wide__822x462",
+      "image_title": "Steuerflucht: Bundestag stimmt für Einführung von globaler Konzern-Mindeststeuer"
     },
     {
       "title": "Gazastreifen: Mehr als die Hälfte aller Kliniken laut WHO nicht mehr arbeitsfähig",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/israel-gazastreifen-libanon-krankenhaeuser-bombardiert",
       "image_url": "https://img.zeit.de/politik/ausland/2023-11/israel-gazastreifen-libanon-krankenhaeuser-bombardiert-bild/wide__822x462",
       "image_title": "Gazastreifen: Mehr als die Hälfte aller Kliniken laut WHO nicht mehr arbeitsfähig"
-    },
-    {
-      "title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung",
-      "teaser": "Außenministerin Baerbock fliegt erneut in den Nahen Osten und pocht auf die Zweistaatenlösung. Außerdem: Der Inselstaat Tuvalu rettet seine Bürger.",
-      "url": "https://www.zeit.de/politik/2023-11/annalena-baerbock-naher-osten-vae-saudi-arabien-israel-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
-      "image_title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Migrationspolitik in Dänemark : Härte statt Hygge",
@@ -150,18 +150,18 @@
       "image_title": "Migrationspolitik in Dänemark : Härte statt Hygge"
     },
     {
+      "title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung",
+      "teaser": "Außenministerin Baerbock fliegt erneut in den Nahen Osten und pocht auf die Zweistaatenlösung. Außerdem: Der Inselstaat Tuvalu rettet seine Bürger.",
+      "url": "https://www.zeit.de/politik/2023-11/annalena-baerbock-naher-osten-vae-saudi-arabien-israel-nachrichtenpodcast",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_title": "Nachrichtenpodcast: Baerbock will die Zweistaatenlösung"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Regierungsbildung in Hessen: Ein Rheinfall für die Grünen",
       "teaser": "Trotz guter Zusammenarbeit wirft Hessens Ministerpräsident Rhein die Grünen aus der Regierung. Friedrich Merz triumphiert. Den Grünen aber stehen schwere Zeiten bevor.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/regierungsbildung-hessen-cdu-die-gruenen-boris-rhein-spd",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/regierungsbildung-hessen-cdu-die-gruenen-boris-rhein-spd-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/regierungsbildung-hessen-cdu-die-gruenen-boris-rhein-spd-bild/wide__822x462",
       "image_title": "Regierungsbildung in Hessen: Ein Rheinfall für die Grünen"
-    },
-    {
-      "title": "Liveblog: Krieg in Israel und Gaza: UNRWA meldet 100 getötete Mitarbeiter seit Kriegsbeginn",
-      "teaser": "Die UN-Organisation UNRWA meldet zahlreiche getötete Kollegen und fordert eine Waffenruhe. Die Kämpfe an der libanesisch-israelischen Grenze halten an. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/news-israel-gaza-krieg-live",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/100-tote-mitarbeiter-unrwa-gazastreifen-bild/wide__822x462",
-      "image_title": "Krieg in Israel und Gaza: UNRWA meldet 100 getötete Mitarbeiter seit Kriegsbeginn"
     },
     {
       "title": "Hessen: \"Offensichtlich regiert Boris Rhein lieber mit einer geschwächten SPD\"",
@@ -193,7 +193,7 @@
     },
     {
       "title": "Hessen-Wahl: CDU in Hessen will künftig mit der SPD regieren",
-      "teaser": "Hessens Ministerpräsident Boris Rhein stellt die Koalition mit den Grünen infrage und setzt auf ein Bündnis mit der SPD. Das müsste jedoch ohne Nancy Faeser auskommen. 1.009 Kommentare",
+      "teaser": "Hessens Ministerpräsident Boris Rhein stellt die Koalition mit den Grünen infrage und setzt auf ein Bündnis mit der SPD. Das müsste jedoch ohne Nancy Faeser auskommen. 1.034 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/cdu-in-hessen-regiert-kuenftig-mit-der-spd",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/boris-rhein-koalition-hessen-spd-bild/cinema__980x420",
       "image_title": "Hessen-Wahl: CDU in Hessen will künftig mit der SPD regieren"
