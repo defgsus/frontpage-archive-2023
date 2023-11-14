@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-14T10:12:57",
+  "timestamp": "2023-11-14T11:09:44",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -13,7 +13,7 @@
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.bff16c8326a1c0f572bd.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/mausabhaengigeszaehlinstrument.d1df125e7f1cf10e824e.js",
       "id": null,
       "text": null
     },
@@ -31,17 +31,24 @@
     },
     {
       "type": null,
-      "src": "https://static.zeit.de/p/zeit.web/js/site.fa5d2a0aa594c1d5e8f4.js",
+      "src": "https://static.zeit.de/p/zeit.web/js/site.dbf7849f5ab0e1983c81.js",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
+      "title": "Liveblog: Ukraine-Krieg: Deutschland liefert weitere Panzer an die Ukraine",
+      "teaser": "Die Ukraine hat zehn weitere Leopard-1-Panzer sowie Gefechtsfahrzeuge und Drohnen erhalten. 608 Zivilisten wurden 2022 durch Minen getötet oder verletzt. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ukraine-krieg-news-liveblog-bild-14/cinema__980x420"
+    },
+    {
       "title": "Ukraine-Krieg: EU verfehlt Lieferzusage von Munition für die Ukraine",
       "teaser": "Die EU hat der Ukraine bisher nur knapp ein Drittel der versprochenen Munition geliefert. Verteidigungsminister Boris Pistorius fordert, die Produktion zu steigern.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/ukraine-krieg-eu-munition-lieferung-boris-pistorius",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ukraine-krieg-eu-munition-lieferung-boris-pistorius-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ukraine-krieg-eu-munition-lieferung-boris-pistorius-bild/wide__822x462",
+      "image_title": "Ukraine-Krieg: EU verfehlt Lieferzusage von Munition für die Ukraine"
     },
     {
       "title": "Liveblog: Krieg in Israel und Gaza: UN gehen von 200.000 Geflüchteten innerhalb weniger Tage aus",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/israel-gaza-krieg-news-bodenoffensive-live",
       "image_url": "https://img.zeit.de/politik/ausland/2023-11/israel-gaza-krieg-news-bodenoffensive-live-bild/wide__822x462",
       "image_title": "Krieg in Israel und Gaza: UN gehen von 200.000 Geflüchteten innerhalb weniger Tage aus"
-    },
-    {
-      "title": "Linksfraktion im Bundestag: So geht es weiter mit den Abgeordneten der Linkspartei",
-      "teaser": "An diesem Dienstag wird die Linksfraktion über ihre Auflösung entscheiden. Was bedeutet das und welche Konsequenzen hat es für die Abgeordneten?",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/linksfraktion-bundestag-aufloesung-faq",
-      "image_url": "https://img.zeit.de/politik/2023-11/die-linke-partei-faq/wide__822x462",
-      "image_title": "Linksfraktion im Bundestag: So geht es weiter mit den Abgeordneten der Linkspartei"
     },
     {
       "title": "Kriege: \"Das Recht des Stärkeren ist zurück\"",
@@ -96,8 +96,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/neue-seidenstrasse-china-infrastruktur-kredite-schulden"
     },
     {
-      "title": "Steuerreform: Bundesregierung will Strompreis für die Industrie senken",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/bundesregierung-will-strompreis-in-der-industrie-senken"
+      "title": "Bürgergeld: Hubertus Heil warnt davor, wegen des Bürgergeldes zu kündigen",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/buergergeld-heil-kuendigung-cdu-abschaffung-systemwechsel"
     },
     {
       "title": "Kriege: \"Das Recht des Stärkeren ist zurück\"",
@@ -132,8 +132,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/hessen-cdu-koalition-spd-gruene-omid-nouripour"
     },
     {
-      "title": "Steuerreform: Bundesregierung will Strompreis für die Industrie senken",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/bundesregierung-will-strompreis-in-der-industrie-senken"
+      "title": "Bürgergeld: Hubertus Heil warnt davor, wegen des Bürgergeldes zu kündigen",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/buergergeld-heil-kuendigung-cdu-abschaffung-systemwechsel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Türkei und Russland: Aus Leiden Profit schlagen",
@@ -150,10 +150,17 @@
       "image_title": "Migration: It's not the Sozialstaat, stupid"
     },
     {
+      "title": "Linksfraktion im Bundestag: So geht es weiter mit den Abgeordneten der Linkspartei",
+      "teaser": "An diesem Dienstag wird die Linksfraktion über ihre Auflösung entscheiden. Was bedeutet das und welche Konsequenzen hat es für die Abgeordneten?",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/linksfraktion-bundestag-aufloesung-faq",
+      "image_url": "https://img.zeit.de/politik/2023-11/die-linke-partei-faq/cinema__980x420",
+      "image_title": "Linksfraktion im Bundestag: So geht es weiter mit den Abgeordneten der Linkspartei"
+    },
+    {
       "title": "Die Linke: Die Totgesagten",
       "teaser": "Die Linke stand bereits mehrfach vor dem Aus. Doch jedes Mal gelang das Comeback, weil sie sich neu erfand. Das kann auch jetzt gelingen – unter einer Voraussetzung.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/die-linke-krise-gregor-gysi-sahra-wagenknecht-ruecktritt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/die-linke-krise-gregor-gysi-sahra-wagenknecht-ruecktritt-schirdewan-wissler/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/die-linke-krise-gregor-gysi-sahra-wagenknecht-ruecktritt-schirdewan-wissler/wide__822x462",
       "image_title": "Die Linke: Die Totgesagten"
     },
     {
@@ -167,14 +174,14 @@
       "title": "Abschiebung: Mehr als 300.000 Afghanen haben Pakistan verlassen",
       "teaser": "Pakistan leidet unter einer Wirtschaftskrise und dem Erstarken der Taliban. Flüchtlinge sollen das Land nun schnell verlassen. Tausende folgen täglich dem Aufruf.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/pakistan-afghanistan-fluechtlinge-taliban",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/pakistan-afghanistan-fluechtlinge-taliban-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/pakistan-afghanistan-fluechtlinge-taliban-bild/cinema__980x420",
       "image_title": "Abschiebung: Mehr als 300.000 Afghanen haben Pakistan verlassen"
     },
     {
       "title": "Bundeswehr: Studie sieht Bundeswehr gleichauf mit Frankreichs Streitkräften",
-      "teaser": "Die Bundeswehr wird kaputtgespart, heißt es immer wieder. Eine Studie widerspricht: Das Militär sei mit den französischen und britischen Armeen gleichauf – mindestens. 122 Kommentare",
+      "teaser": "Die Bundeswehr wird kaputtgespart, heißt es immer wieder. Eine Studie widerspricht: Das Militär sei mit den französischen und britischen Armeen gleichauf – mindestens.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/bundeswehr-studie-einsatzbereitschaft-grossbritannien-frankreich",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/bundeswehr-studie-einsatzbereitschaft-grossbritannien-frankreich-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/bundeswehr-studie-einsatzbereitschaft-grossbritannien-frankreich-bild/wide__822x462",
       "image_title": "Bundeswehr: Studie sieht Bundeswehr gleichauf mit Frankreichs Streitkräften"
     },
     {
@@ -188,15 +195,8 @@
       "title": "Ukraine-Karte aktuell: Russland rückt wohl im Norden von Awdijiwka vor",
       "teaser": "Russische Truppen haben die Stadt Awdijiwka aus mehreren Richtungen angegriffen. Bei Bachmut und in Luhansk hat Russland offenbar Gelände erobert.",
       "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/cinema__980x420",
       "image_title": "Ukraine-Karte aktuell: Russland rückt wohl im Norden von Awdijiwka vor"
-    },
-    {
-      "title": "Liveblog: Ukraine-Krieg: EU kann versprochene Munition offenbar nicht rechtzeitig liefern",
-      "teaser": "Bis März 2024 sollte die Ukraine eine Million Geschosse erhalten. Laut dem ukrainischen Außenminister scheitert das an Bürokratie und langsamer Produktion. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ukraine-krieg-news-liveblog-bild-13/cinema__980x420",
-      "image_title": "Ukraine-Krieg: EU kann versprochene Munition offenbar nicht rechtzeitig liefern"
     },
     {
       "title": "Gewalt gegen Geflüchtete: Polizei zählt deutlich mehr Angriffe auf Geflüchtete als 2022",
