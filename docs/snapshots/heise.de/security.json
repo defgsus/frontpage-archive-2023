@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T14:10:58",
+  "timestamp": "2023-11-15T15:12:26",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Intel",
+      "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
+    },
+    {
       "title": "IBM Security Guardium",
       "url": "https://www.heise.de/news/Cloud-Schutzloesung-IBM-Security-Guardium-vielfaeltig-attackierbar-9529390.html"
     },
@@ -44,10 +48,6 @@
       "url": "https://www.heise.de/news/VMware-Neue-Cloud-Director-Version-behebt-kritische-Sicherheitsluecke-9528728.html"
     },
     {
-      "title": "Patchday Adobe",
-      "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-Acrobat-Photoshop-Co-geschlossen-9528732.html"
-    },
-    {
       "title": "Patchday: Intel patcht sich durch sein Produkportfolio",
       "teaser": "Angreifer können mehrere Komponenten von Intel attackieren. In vielen Fällen sind DoS-Attacken möglich.",
       "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
@@ -56,11 +56,6 @@
       "title": "Cloud-Schutzlösung: IBM Security Guardium vielfältig attackierbar",
       "teaser": "Die IBM-Entwickler haben viele Sicherheitslücken in verschiedenen Komponenten von Security Guardium geschlossen.",
       "url": "https://www.heise.de/news/Cloud-Schutzloesung-IBM-Security-Guardium-vielfaeltig-attackierbar-9529390.html"
-    },
-    {
-      "title": "Computer-Fehler verraten geheime SSH-Schlüssel",
-      "teaser": "Natürlich auftretende Fehler verraten einem passiven Lauscher genug, dass er geheime RSA-Keys aus einem fehlgeschlagenen SSH-Verbindungsaufbau extrahieren kann.",
-      "url": "https://www.heise.de/news/Computer-Fehler-verraten-geheime-SSH-Schluessel-9528087.html"
     },
     {
       "title": "Sicherheitsupdates: Access Points von Aruba sind verwundbar",
@@ -86,6 +81,12 @@
       "title": "Webbrowser: Vier Schwachstellen weniger nach Google Chrome-Update",
       "teaser": "Google hat mit dem wöchentlichen Update vier Sicherheitslücken geschlossen, von denen mindestens zwei als hochriskant gelten.",
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
+    },
+    {
+      "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
+      "teaser": "Microsofts neues Outlook benimmt sich anders als bisherige Mailsoftware. Einige Lösungsansätze zum Schutz vor ungewolltem Datenabfluss.",
+      "url": "https://www.heise.de/hintergrund/Neues-Outlook-Schutz-vor-Microsofts-neugierigem-Mailprogramm-9528591.html",
+      "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
     },
     {
       "title": "CacheWarp: Loch in Hardware-Verschlüsselung von AMD-CPUs",
