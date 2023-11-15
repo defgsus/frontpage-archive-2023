@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T09:12:06",
+  "timestamp": "2023-11-15T10:12:58",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4edeb1a0effab1d00847",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.1ab6d8366205c125930c",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Aruba Access Points",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Acces-Points-von-Aruba-sind-verwundbar-9528912.html"
+    },
     {
       "title": "VMware Cloud Director",
       "url": "https://www.heise.de/news/VMware-Neue-Cloud-Director-Version-behebt-kritische-Sicherheitsluecke-9528728.html"
@@ -44,11 +48,12 @@
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-eine-kritische-Sicherheitsluecke-9528779.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
+      "title": "Sicherheitsupdates: Acces Points von Aruba sind verwundbar",
+      "teaser": "Angreifer können Schadcode auf Acces Points von Aruba ausführen. Sicherheitspatches sind verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Acces-Points-von-Aruba-sind-verwundbar-9528912.html"
     },
     {
-      "title": "VMware: Kritische Lücke erlaubt Umgehung der Anmeldung in Cloud Director",
+      "title": "VMware: Neue Cloud-Director-Version behebt kritische Sicherheitslücke",
       "teaser": "Durch ein fehlerhaftes Upgrade stand die Anmeldung über die SSH- und Management-Konsole zu weit offen. VMware liefert eine Übergangslösung.",
       "url": "https://www.heise.de/news/VMware-Neue-Cloud-Director-Version-behebt-kritische-Sicherheitsluecke-9528728.html"
     },
@@ -58,7 +63,7 @@
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-Acrobat-Photoshop-Co-geschlossen-9528732.html"
     },
     {
-      "title": "Patchday: SAP schließt eine kritische Sicherheitslücke",
+      "title": "Patchday: SAP behandelt nur drei Sicherheitslücken",
       "teaser": "Der November-Patchday weicht vom gewohnten Umfang ab: Lediglich drei neue Sicherheitslücken behandelt SAP.",
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-eine-kritische-Sicherheitsluecke-9528779.html"
     },
@@ -66,17 +71,6 @@
       "title": "Webbrowser: Vier Schwachstellen weniger nach Google Chrome-Update",
       "teaser": "Google hat mit dem wöchentlichen Update vier Sicherheitslücken geschlossen, von denen mindestens zwei als hochriskant gelten.",
       "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
-    },
-    {
-      "title": "Patchday Microsoft: Angreifer nutzen drei Lücken in Windows aus",
-      "teaser": "Am Patchday von Microsoft sind unter anderem für Exchange Server, Office und Windows wichtige Sicherheitsupdates erschienen.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
-    },
-    {
-      "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
-      "teaser": "Microsofts neues Outlook benimmt sich anders als bisherige Mailsoftware. Einige Lösungsansätze zum Schutz vor ungewolltem Datenabfluss.",
-      "url": "https://www.heise.de/hintergrund/Neues-Outlook-Schutz-vor-Microsofts-neugierigem-Mailprogramm-9528591.html",
-      "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
     },
     {
       "title": "CacheWarp: Loch in Hardware-Verschlüsselung von AMD-CPUs",
@@ -118,6 +112,17 @@
       "url": "https://www.heise.de/news/BSI-Kryptografisch-relevante-Quantencomputer-brauchen-noch-10-bis-20-Jahre-9459448.html"
     },
     {
+      "title": "Cyberangriff: Targobank blockiert Zugriff auf tausende Konten",
+      "teaser": "Nach Zugriffsversuchen von bösartigen Akteuren auf das Online-Banking hat die Targobank den Zugang tausender Kunden gesperrt. Neue Zugangsdaten werden erstellt.",
+      "url": "https://www.heise.de/news/Targobank-Nach-Cyberangriff-brauchen-tausende-Kunden-neue-Zugangsdaten-9454010.html",
+      "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
+    },
+    {
+      "title": "Nächste Woche: Das heise-Security-Webinar \"Exchange Online Security optimieren\"",
+      "teaser": "Wer Exchange Online sicher betreiben will, muss Hand anlegen. Dieses Webinar am 22. November zeigt, wo und wie.",
+      "url": "https://www.heise.de/news/Naechste-Woche-Das-heise-Security-Webinar-Exchange-Online-Security-optimieren-9427350.html"
+    },
+    {
       "title": "Security-Kongressmesse: Jetzt Gratis-Ticket für die secIT 2024 sichern",
       "teaser": "Anfang März gibt es auf der secIT 2024 wieder aktuelle und nützliche Fakten im Kampf gegen Cybercrime. Außerdem kann man dort hervorragend Netzwerken.",
       "url": "https://www.heise.de/news/Security-Kongressmesse-Jetzt-Gratis-Ticket-fuer-die-secIT-2024-sichern-9358332.html"
@@ -148,12 +153,6 @@
       "title": "Bericht: IT-Sicherheit in Gesundheitsämtern vernachlässigt",
       "teaser": "Fehlendes Know-How, knappes Budget und unsichere Software. Ein Bericht schildert gravierende Sicherheitslücken in Gesundheitsämtern.",
       "url": "https://www.heise.de/news/Bericht-IT-Sicherheit-in-Gesundheitsaemtern-vernachlaessigt-9404608.html"
-    },
-    {
-      "title": "Nach Ransomware-Angriff: Südwestfalen-IT und Kommunen lehnen Lösegeldzahlung ab",
-      "teaser": "Der kommunale IT-Dienstleister Südwestfalen-IT lehnt die Zahlung eines Lösegelds nach einem Ransomware-Angriff in Absprache mit den betroffenen Kommunen ab.",
-      "url": "https://www.heise.de/news/Nach-Ransomware-Angriff-Suedwestfalen-IT-und-Kommunen-lehnen-Loesegeldzahlung-ab-9386564.html",
-      "image_title": "Creative,Code,Skull,Hologram,On,Modern,Computer,Background,,Cybercrime,And"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
