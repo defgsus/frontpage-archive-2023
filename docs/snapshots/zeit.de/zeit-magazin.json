@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T18:15:04",
+  "timestamp": "2023-11-15T19:09:48",
   "url": "https://www.zeit.de/zeit-magazin/index",
   "response": {
     "status": 200
@@ -38,7 +38,14 @@
   ],
   "articles": [
     {
-      "title": "Z+ Träum weiter!",
+      "title": "Z+ Hinterm Schultor geht's nicht weiter",
+      "teaser": "Viele Eltern wissen wenig über den Grundschulalltag ihrer Kinder, denn die erzählen fast nichts. Das verunsichert. Doch es gibt Wege, besser auf dem Laufenden zu bleiben.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-11/kommunikation-lehrer-eltern-informationen-schule-erstklaessler",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-11/kommunikation-lehrer-eltern-informationen-schule/wide__822x462",
+      "image_title": "Kommunikation mit Lehrern: Hinterm Schultor geht's nicht weiter"
+    },
+    {
+      "title": "Z+ Jeff Bezos und Lauren Sánchez: Träum weiter!",
       "teaser": "Der drittreichste Mann der Welt und seine Verlobte inszenieren sich in der Vogue, als seien sie Arbeiterklasse. Trotz Kritik muss man sagen: Ganz falsch ist das nicht.",
       "url": "https://www.zeit.de/zeit-magazin/unterhaltung/2023-11/jeff-bezos-lauren-sanchez-vogue-shooting",
       "image_url": "https://img.zeit.de/zeit-magazin/unterhaltung/2023-11/jeff-bezos-lauren-sanchez-vogue-shooting-bild/wide__822x462",
@@ -50,13 +57,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023/47/derby-schuh-herren-mode-sneaker",
       "image_url": "https://img.zeit.de/zeit-magazin/2023-11/derby-schuh-herren-mode-sneaker-bild/wide__822x462",
       "image_title": "Derby-Schuh: Der beste Kompromiss-Schuh für Herren"
-    },
-    {
-      "title": "Z+ Offene Beziehung: \"Zwei Partnerschaften zu haben überforderte mich\"",
-      "teaser": "Im tristen Berliner Winter lernt Guil Mario kennen. Die beiden gehen eine offene Beziehung ein. Dann trifft Guil Sam und wird völlig aus der Bahn geworfen.",
-      "url": "https://www.zeit.de/zeit-magazin/2023/47/offene-beziehung-online-dating-liebeskolumne",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-11/offene-beziehung-online-dating-liebeskolumne-bild/wide__822x462",
-      "image_title": "Offene Beziehung: \"Zwei Partnerschaften zu haben überforderte mich\""
     },
     {
       "title": "Z+ Womit wohl der Weihnachtsmann unterschreiben würde?",
@@ -72,10 +72,10 @@
       "image_title": "Wochenmarkt: Hungrig?"
     },
     {
-      "title": "Z+ Gerösteter Spitzkohl: Einmal um die Spitze gedacht",
-      "url": "https://www.zeit.de/zeit-magazin/2023/47/geroesteter-spitzkohl-brot-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/47/geroesteter-spitzkohl-auf-brot-bild-1/tile__315x394",
-      "image_title": "Gerösteter Spitzkohl: Einmal um die Spitze gedacht"
+      "title": "Z+ Offene Beziehung: \"Zwei Partnerschaften zu haben überforderte mich\"",
+      "url": "https://www.zeit.de/zeit-magazin/2023/47/offene-beziehung-online-dating-liebeskolumne",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-11/offene-beziehung-online-dating-liebeskolumne-bild/tile__315x394",
+      "image_title": "Offene Beziehung: \"Zwei Partnerschaften zu haben überforderte mich\""
     },
     {
       "title": "Auf Messers Schneide",
@@ -207,6 +207,12 @@
       "image_title": "Filme über Marken: Ein Survivalthriller für Aldi"
     },
     {
+      "title": "Z+ Gerösteter Spitzkohl: Einmal um die Spitze gedacht",
+      "url": "https://www.zeit.de/zeit-magazin/2023/47/geroesteter-spitzkohl-brot-rezept-wochenmarkt",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/47/geroesteter-spitzkohl-auf-brot-bild-1/tile__315x394",
+      "image_title": "Gerösteter Spitzkohl: Einmal um die Spitze gedacht"
+    },
+    {
       "title": "Z+ Schokolade: Zum Dahinschmelzen",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/05/schokolade-kekse-feigen-hefeteig-mascarpone",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023/05/zum-dahinschmelzen-bild-1/tile__315x394",
@@ -259,12 +265,6 @@
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023/05/barbara-siebeck-wolfram-siebeck-restaurantkritiker-verstorben",
       "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023/05/mit-einem-lauten-plopp-kam-der-korken-raus-da-war-er-gluecklich-bild-1/tile__315x394",
       "image_title": "Barbara Siebeck: \"Mit einem lauten Plopp! kam der Korken raus. Da war er glücklich\""
-    },
-    {
-      "title": "Z+ Alkohol zum Frühstück: Frühport",
-      "url": "https://www.zeit.de/zeit-magazin/2023/47/alkohol-fruestueck-sekt-portwein",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023/47/fruehport-bild-1/tile__315x394",
-      "image_title": "Alkohol zum Frühstück: Frühport"
     },
     {
       "title": "Z+ Chelsea Boots: Das Beste für untenrum",
@@ -321,10 +321,17 @@
       "url": "https://www.zeit.de/zeit-magazin/2023-11/gesichtspflege-maenner-hautpflege-maennlichkeit-test"
     },
     {
+      "title": "Z+ Alkohol zum Frühstück: Frühport",
+      "teaser": "Vergessen Sie Sekt mit Orangensaft. Zum Frühstück passt Portwein ausgezeichnet. Er hat Aromen von Schwarztee und Lebkuchengewürz und schmeckt nach Walnuss und Mandeln.",
+      "url": "https://www.zeit.de/zeit-magazin/2023/47/alkohol-fruestueck-sekt-portwein",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023/47/fruehport-bild-1/square__460x460",
+      "image_title": "Alkohol zum Frühstück: Frühport"
+    },
+    {
       "title": "Z+ Pouding Chômeur mit Birnen: Arm, aber süß",
       "teaser": "Wenn die kanadische Küche für ein Produkt steht, dann für Ahornsirup. Gemeinsam mit Birnen verleiht er auch Pouding Chômeur, Kanadas armem Ritter, seine dunkle Süße.",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/pouding-chomeur-birnen-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/pouding-chomeur-birnen-rezept-wochenmarkt-bild/square__460x460",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/pouding-chomeur-birnen-rezept-wochenmarkt-bild/wide__822x462",
       "image_title": "Pouding Chômeur mit Birnen: Arm, aber süß"
     },
     {
@@ -350,9 +357,8 @@
     },
     {
       "title": "Z+ Glitzer: Mehr Mut zu Glitzersakkos, liebe Männer!",
-      "teaser": "Im Kapuzenpulli können Männer Milliardenkonzerne führen. Im schillernden Jackett gelten sie als unseriös – als wäre Nachlässigkeit ein Beweis für Kompetenz. Wie schade.",
       "url": "https://www.zeit.de/zeit-magazin/2023/46/glitzer-pailletten-mode-stil",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/glitzer-pailletten-mode-stil-teaser/wide__822x462",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-10/glitzer-pailletten-mode-stil-teaser/tile__315x394",
       "image_title": "Glitzer: Mehr Mut zu Glitzersakkos, liebe Männer!"
     },
     {
@@ -366,12 +372,6 @@
       "url": "https://www.zeit.de/zeit-magazin/2023-11/gehirn-kreativitaet-rex-jung-psychologie-neurowissenschaften",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-10/gehirn-kreativitaet-neurowissenschaft/tile__315x394",
       "image_title": "Hirnforschung zu Kreativität: \"In Gruppenbrainstormings entstehen die schlechtesten Ideen\""
-    },
-    {
-      "title": "Z+ Warnhinweise auf Fleisch: \"Warnung: Fleischessen trägt zum Klimawandel bei\"",
-      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/warnhinweise-fleisch-verbraucher-lebensmittel-studie-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/warnhinweise-fleisch-verbraucher-lebensmittel-studie-wochenmarkt-bild/tile__315x394",
-      "image_title": "Warnhinweise auf Fleisch: \"Warnung: Fleischessen trägt zum Klimawandel bei\""
     }
   ]
 }
