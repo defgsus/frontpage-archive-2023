@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T13:15:27",
+  "timestamp": "2023-11-15T14:10:51",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,12 @@
   ],
   "articles": [
     {
+      "title": "CacheWarp: Loch in Hardware-Verschlüsselung von AMD-CPUs",
+      "teaser": "Der jetzt vorgestellte CacheWarp-Angriff überwindet die RAM-Verschlüsselung, mit der AMD-Prozessoren Cloud-Instanzen voneinander abschotten wollen.",
+      "url": "https://www.heise.de/news/CacheWarp-Loch-in-Hardware-Verschluesselung-von-AMD-CPUs-9528270.html",
+      "image_title": "AMD Epyc"
+    },
+    {
       "title": "ReactOS: Freie Windows-XP-Alternative weiter in Entwicklung",
       "teaser": "Von ReactOS hört man kaum noch etwas, dennoch geht die Entwicklung an dem freien Windows-XP-Klon weiter.",
       "url": "https://www.heise.de/news/Windows-Alternative-ReactOS-Entwicklung-geht-in-Trippelschritten-weiter-9427480.html",
@@ -38,12 +44,6 @@
       "image_title": "«Tagesschau»-App"
     },
     {
-      "title": "Cyberangriff: Targobank blockiert Zugriff auf tausende Konten",
-      "teaser": "Nach Zugriffsversuchen von bösartigen Akteuren auf das Online-Banking hat die Targobank den Zugang tausender Kunden gesperrt. Neue Zugangsdaten werden erstellt.",
-      "url": "https://www.heise.de/news/Targobank-Nach-Cyberangriff-brauchen-tausende-Kunden-neue-Zugangsdaten-9454010.html",
-      "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
-    },
-    {
       "title": "Videospiele: ROM-Hacks vorgestellt und ausprobiert",
       "teaser": "Retrofans verändern klassische Videospiele, um sie besser zu machen. Wir zeigen, welche Arten von ROM-Hacks es gibt und stellen einige Modifikationen vor.",
       "url": "https://www.heise.de/hintergrund/Videospiele-ROM-Hacks-vorgestellt-und-ausprobiert-9496625.html"
@@ -52,6 +52,11 @@
       "title": "Empire-Framework-Erweiterung: Starkiller-GUI für das Pentesting-Tool",
       "teaser": "Das Post-Exploitation-Framework Empire ist ein beliebtes Werkzeug bei Red Teams und Penetrationstestern. BC Security erweitert es um eine grafische Oberfläche.",
       "url": "https://www.heise.de/ratgeber/Empire-Framework-Erweiterung-Starkiller-GUI-fuer-das-Pentesting-Tool-9358511.html"
+    },
+    {
+      "title": "Patchday: Intel patcht sich durch sein Produkportfolio",
+      "teaser": "Angreifer können mehrere Komponenten von Intel attackieren. In vielen Fällen sind DoS-Attacken möglich.",
+      "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
     },
     {
       "title": "Cloud-Schutzlösung: IBM Security Guardium vielfältig attackierbar",
@@ -126,11 +131,6 @@
       "title": "Patchday: SAP behandelt nur drei Sicherheitslücken",
       "teaser": "Der November-Patchday weicht vom gewohnten Umfang ab: Lediglich drei neue Sicherheitslücken behandelt SAP.",
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-eine-kritische-Sicherheitsluecke-9528779.html"
-    },
-    {
-      "title": "128k Context: GPT-4 Turbos bestes Feature funktioniert nicht besonders toll",
-      "teaser": "OpenAIs GPT-4 Turbo kann 16 Mal mehr Tokens gleichzeitig verarbeiten als das alte GPT-4 in ChatGPT. Allerdings kommt dieses Feature mit einem großen Aber.",
-      "url": "https://www.heise.de/news/GPT-4-Turbos-bestes-neues-Feature-funktioniert-nicht-besonders-toll-9528751.html"
     },
     {
       "title": "ECN Pulse Check 2023",

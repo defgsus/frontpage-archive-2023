@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T13:15:19",
+  "timestamp": "2023-11-15T14:10:42",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -32,15 +32,30 @@
   ],
   "articles": [
     {
+      "title": "RSA-KeysComputer-Fehler verraten geheime SSH-Schlüssel",
+      "teaser": "Natürlich auftretende Fehler verraten einem passiven Lauscher genug, dass er geheime RSA-Keys aus einem fehlgeschlagenen SSH-Verbindungsaufbau extrahieren kann.",
+      "url": "https://www.heise.de/news/Computer-Fehler-verraten-geheime-SSH-Schluessel-9528087.html"
+    },
+    {
+      "title": "FinanzenAnalyse: So sicher ist der MSCI World",
+      "teaser": "Lange Zeit galten MSCI World ETFs als einfache und vergleichsweise sichere Geldanlage. Doch in letzter Zeit häufen sich die Zweifel.",
+      "url": "https://www.heise.de/hintergrund/Analyse-Wie-sicher-ist-der-MSCI-World-wirklich-9358383.html"
+    },
+    {
       "title": "Auf einem Prozessor Supercomputer geschlagenKI GraphCast von Deepmind liefert beste Wettervorhersage",
       "teaser": "Eine von Deepmind entwickelte KI erstellt bessere Wettervorhersagen, als der der bisherige \"Goldstandard\".",
       "url": "https://www.heise.de/news/Auf-einem-Prozessor-Supercomputer-geschlagen-KI-liefert-beste-Wettervorhersage-9528839.html",
       "image_title": "Satellitenaufnahme eines Wirbelsturms"
     },
     {
-      "title": "FinanzenAnalyse: So sicher ist der MSCI World",
-      "teaser": "Lange Zeit galten MSCI World ETFs als einfache und vergleichsweise sichere Geldanlage. Doch in letzter Zeit häufen sich die Zweifel.",
-      "url": "https://www.heise.de/hintergrund/Analyse-Wie-sicher-ist-der-MSCI-World-wirklich-9358383.html"
+      "title": "NachzüglerApples MacBook Pro mit M3 Pro im Test",
+      "teaser": "Apples M3 Pro tanzt bei den Kernen aus der Reihe: So schlägt er sich im Vergleich zum Vorgänger M2 Pro – und zu M3 und M3 Max.",
+      "url": "https://www.heise.de/tests/Nachzuegler-Apples-MacBook-Pro-mit-M3-Pro-im-Test-9505361.html"
+    },
+    {
+      "title": "Kontroverse um Game AwardsDer Begriff \"Indie-Spiel\" ist kaputt",
+      "teaser": "Indie-Games gelten im Gegensatz zu AAA-Spielen als sympathisch und hip. Doch niemand weiß, was ein \"Indie-Spiel\" eigentlich ist.",
+      "url": "https://www.heise.de/hintergrund/Dave-the-Diver-Niemand-weiss-was-ein-Indie-Spiel-ist-9528783.html"
     },
     {
       "title": "Uni in ChinaÜberwachungstechnik von Hikvision soll fastende Studierende finden",
@@ -49,25 +64,10 @@
       "image_title": "Überwachungskamera von Hikvision"
     },
     {
-      "title": "NachzüglerApples MacBook Pro mit M3 Pro im Test",
-      "teaser": "Apples M3 Pro tanzt bei den Kernen aus der Reihe: So schlägt er sich im Vergleich zum Vorgänger M2 Pro – und zu M3 und M3 Max.",
-      "url": "https://www.heise.de/tests/Nachzuegler-Apples-MacBook-Pro-mit-M3-Pro-im-Test-9505361.html"
-    },
-    {
-      "title": "Neues OutlookSchutz vor zu neugieriger Microsoft-Mail-App",
-      "teaser": "Microsofts neues Outlook benimmt sich anders als bisherige Mailsoftware. Einige Lösungsansätze zum Schutz vor ungewolltem Datenabfluss.",
-      "url": "https://www.heise.de/hintergrund/Neues-Outlook-Schutz-vor-Microsofts-neugierigem-Mailprogramm-9528591.html",
-      "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
-    },
-    {
-      "title": "Kontroverse um Game AwardsDer Begriff \"Indie-Spiel\" ist kaputt",
-      "teaser": "Indie-Games gelten im Gegensatz zu AAA-Spielen als sympathisch und hip. Doch niemand weiß, was ein \"Indie-Spiel\" eigentlich ist.",
-      "url": "https://www.heise.de/hintergrund/Dave-the-Diver-Niemand-weiss-was-ein-Indie-Spiel-ist-9528783.html"
-    },
-    {
-      "title": "AlertPatchday MicrosoftAngreifer nutzen drei Lücken in Windows aus",
-      "teaser": "Am Patchday von Microsoft sind unter anderem für Exchange Server, Office und Windows wichtige Sicherheitsupdates erschienen.",
-      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
+      "title": "Stratosphären-Teleskop SuperBITNASA-Daten dank Raspi, SD-Karte und Folie gerettet",
+      "teaser": "SuperBIT hat so viele astronomische Aufnahmen gemacht, dass nicht alle zur Erde geschickt werden konnten. Geholfen haben SD-Karten.",
+      "url": "https://www.heise.de/news/Stratosphaeren-Teleskop-der-NASA-Daten-dank-Raspi-SD-Karte-und-Folie-gerettet-9529006.html",
+      "image_title": "Stratosphären-Ballon"
     },
     {
       "title": "Mehr Geld im JobWie IT-Fachkräfte ein höheres Gehalt aushandeln",
@@ -93,9 +93,10 @@
       "image_title": ","
     },
     {
-      "title": "Topaz Video AI im TestBessere Videos auf Knopfdruck",
-      "teaser": "Topaz Video AI ist ein KI-gestütztes Videotool, das bei der Verbesserung von Videomaterial helfen soll.",
-      "url": "https://www.heise.de/tests/Bessere-Videos-auf-Knopfdruck-Topaz-Video-AI-im-Test-9357668.html"
+      "title": "KI im KinderzimmerToniebox plant Integration von ChatGPT",
+      "teaser": "Die Toniebox will Eltern entlasten, die am Abend keine Idee mehr für eine Gute-Nacht-Geschichte haben – mittels ChatGPT.",
+      "url": "https://www.heise.de/news/ChatGPT-im-Kinderzimmer-Toniebox-plant-Integration-9497640.html",
+      "image_title": "Katze, Mond, Gelassenheit, Nacht"
     },
     {
       "title": "Kostenlos KI-Kunst erstellenDall-E 3 und Bing ausprobiert",
@@ -109,15 +110,15 @@
       "image_title": ","
     },
     {
-      "title": "KommentarDas neue Outlook: Maximal irreführend",
-      "teaser": "c’t-Redakteur Stefan Wischner findet nicht nur die Neugier des neuen Outlook, sondern Microsofts Kommunikation dazu gefährlich.",
-      "url": "https://www.heise.de/meinung/Das-neue-Outlook-Maximal-irrefuehrend-9508404.html",
-      "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
+      "title": "Neues OutlookSchutz vor zu neugieriger Microsoft-Mail-App",
+      "teaser": "Microsofts neues Outlook benimmt sich anders als bisherige Mailsoftware. Einige Lösungsansätze zum Schutz vor ungewolltem Datenabfluss.",
+      "url": "https://www.heise.de/hintergrund/Neues-Outlook-Schutz-vor-Microsofts-neugierigem-Mailprogramm-9528591.html",
+      "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
     },
     {
-      "title": "ForschungRoboter ermittelt Katalysator aus Marsgestein zur Sauerstoffherstellung",
-      "teaser": "Ein Roboter gewinnt aus Marsgestein einen Katalysator, der zur Sauerstoffproduktion verwendet werden kann.",
-      "url": "https://www.heise.de/news/Roboter-ermittelt-Katalysator-aus-Marsgestein-zur-Sauerstoffherstellung-9528433.html"
+      "title": "AlertPatchday MicrosoftAngreifer nutzen drei Lücken in Windows aus",
+      "teaser": "Am Patchday von Microsoft sind unter anderem für Exchange Server, Office und Windows wichtige Sicherheitsupdates erschienen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
     },
     {
       "title": "CacheWarpLoch in Hardware-Verschlüsselung von AMD-CPUs",
@@ -137,10 +138,9 @@
       "image_title": "Teslas Cybertruck"
     },
     {
-      "title": "\"Safe Space für Rassisten\"Neue Kritik an Moderation auf X/Twitter",
-      "teaser": "Das CCDH hat hunderte regelwidrige Beiträge auf X/Twitter gemeldet und die fehlende Reaktion kritisiert.",
-      "url": "https://www.heise.de/news/Ein-Safe-Space-fuer-Rassisten-Neue-Kritik-an-Moderation-auf-X-Twitter-9528652.html",
-      "image_title": "Unscharfer Elon Musk hinter Smartphone mit Logo von X vor Twitter-Vogel"
+      "title": "Topaz Video AI im TestBessere Videos auf Knopfdruck",
+      "teaser": "Topaz Video AI ist ein KI-gestütztes Videotool, das bei der Verbesserung von Videomaterial helfen soll.",
+      "url": "https://www.heise.de/tests/Bessere-Videos-auf-Knopfdruck-Topaz-Video-AI-im-Test-9357668.html"
     },
     {
       "title": "Titan Amazons Lagerroboter transportiert schwerere Lasten",
@@ -177,6 +177,17 @@
       "url": "https://www.heise.de/tests/Reparieren-statt-Neukauf-Wann-sich-eine-Notebook-Reparatur-lohnt-6322482.html"
     },
     {
+      "title": "AlertPatchday: Intel patcht sich durch sein Produkportfolio",
+      "teaser": "Angreifer können mehrere Komponenten von Intel attackieren. In vielen Fällen sind DoS-Attacken möglich.",
+      "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
+    },
+    {
+      "title": "Commerzbank erhält als erste Universalbank Kryptoverwahrlizenz der Bafin",
+      "teaser": "Bislang dürfen vor allem Fintechs Kryptowerte für die Kundschaft in Deutschland verwahren, nun auch die Commerzbank. Privatkunden sollen wohl nicht profitieren.",
+      "url": "https://www.heise.de/news/Commerzbank-erhaelt-als-erste-Universalbank-Kryptoverwahrlizenz-der-Bafin-9529421.html",
+      "image_title": "Bitcoin-Münzen"
+    },
+    {
       "title": "AlertCloud-Schutzlösung: IBM Security Guardium vielfältig attackierbar",
       "teaser": "Die IBM-Entwickler haben viele Sicherheitslücken in verschiedenen Komponenten von Security Guardium geschlossen.",
       "url": "https://www.heise.de/news/Cloud-Schutzloesung-IBM-Security-Guardium-vielfaeltig-attackierbar-9529390.html"
@@ -186,17 +197,6 @@
       "teaser": "Manche Situationen erfordern maßgeschneiderte Lösungen in CAD. Deshalb geben wir hier ein paar Tipps, wie man sich eigenen konstruktiven Projekten nähern kann.",
       "url": "https://www.heise.de/ratgeber/Praxisbeispiel-Wie-man-eigene-Ideen-mit-dem-3D-Drucker-druckt-9338300.html",
       "image_title": ","
-    },
-    {
-      "title": "Computer-Fehler verraten geheime SSH-Schlüssel",
-      "teaser": "Natürlich auftretende Fehler verraten einem passiven Lauscher genug, dass er geheime RSA-Keys aus einem fehlgeschlagenen SSH-Verbindungsaufbau extrahieren kann.",
-      "url": "https://www.heise.de/news/Computer-Fehler-verraten-geheime-SSH-Schluessel-9528087.html"
-    },
-    {
-      "title": "ChatGPT im Kinderzimmer: Toniebox plant Integration",
-      "teaser": "Die Toniebox will Eltern entlasten, die am Abend keine Idee mehr für eine Gute-Nacht-Geschichte haben – mittels ChatGPT.",
-      "url": "https://www.heise.de/news/ChatGPT-im-Kinderzimmer-Toniebox-plant-Integration-9497640.html",
-      "image_title": "Katze, Mond, Gelassenheit, Nacht"
     },
     {
       "title": "Google veröffentlicht eigene KI-Agenda – als Empfehlung für die Politik",
@@ -246,12 +246,6 @@
       "teaser": "EU-Gremien haben sich auf eine Verordnung verständigt, um eine sichere und nachhaltige Versorgung mit Lithium, Silizium, Kobalt, Gallium & Co. zu gewährleisten.",
       "url": "https://www.heise.de/news/Einigung-bei-kritischen-Rohstoffen-EU-will-unabhaengiger-von-China-werden-9529208.html",
       "image_title": "Miners,Hold,In,Their,Hands,Platinum,Or,Silver,Or,Rare"
-    },
-    {
-      "title": "Stratosphären-Teleskop der NASA: Daten dank Raspi, SD-Karte und Folie gerettet",
-      "teaser": "Aus der Stratosphäre hat SuperBIT so viele astronomische Aufnahmen gemacht, dass nicht alle direkt zur Erde geschickt werden konnten. Geholfen haben SD-Karten.",
-      "url": "https://www.heise.de/news/Stratosphaeren-Teleskop-der-NASA-Daten-dank-Raspi-SD-Karte-und-Folie-gerettet-9529006.html",
-      "image_title": "Stratosphären-Ballon"
     },
     {
       "title": "KI-Dokumentanalyse: Arbeiten mit der Python-Bibliothek Deepdoctection",
@@ -312,14 +306,14 @@
       "image_title": "Notruf SOS per Satellit auf dem iPhone 14 Pro"
     },
     {
-      "title": "Endpoint Management in großen Unternehmen: Herausforderungen und Lösungen",
-      "teaser": "IT-Abteilungen großer Unternehmen müssen viele tausend Endgeräte bereitstellen, konfigurieren, verwalten und warten. Diese Aufgabe wird nicht nur immer aufwendiger, auch steigt die Gefahr von Cyberangriffen auf Anwender, Endgeräte und Lieferketten. IT-Verantwortliche brauchen deshalb ein Endpoint Management, das sie von Routineaufgaben entlastet und dabei unterstützt, ihre IT-Umgebung effektiv zu schützen.",
-      "url": "https://business-services.heise.de/specials/moderne-it-infrastruktur/cloud/beitrag/endpoint-management-in-grossen-unternehmen-herausforderungen-und-loesungen-4637?source=hbsadersatz"
-    },
-    {
       "title": "AlertPatchday Adobe: Schadcode-Lücken in Acrobat, Photoshop & Co. geschlossen",
       "teaser": "Adobe hat Sicherheitsupdates für 15 Anwendungen veröffentlicht. Im schlimmsten Fall können Angreifer eigenen Code auf Systemen ausführen.",
       "url": "https://www.heise.de/news/Patchday-Adobe-Schadcode-Luecken-in-Acrobat-Photoshop-Co-geschlossen-9528732.html"
+    },
+    {
+      "title": "Flexible Preise: Wie Cloud-Nutzer profitieren",
+      "teaser": "Cloud-Provider legen ihre Preise auf Basis verschiedener Faktoren fest: So kann es vorkommen, dass Kunden für die gleiche oder ähnliche Leistung unterschiedliche Preise zahlen – abhängig von Nutzungsmustern, Zeit oder Region. Wer als Kunde die Mechanismen kennt, kann Geld sparen.",
+      "url": "https://business-services.heise.de/specials/next-level-hosting-infrastruktur-fuer-profis/die-kosten-der-cloud/beitrag/flexible-preise-wie-cloud-nutzer-profitieren-4569/?source=hbsad-ersatz"
     },
     {
       "title": "enterJS 2024: Call for Proposals um eine Woche verlängert",
@@ -369,6 +363,12 @@
       "url": "https://www.heise.de/hintergrund/Analyse-Wie-sicher-ist-der-MSCI-World-wirklich-9358383.html"
     },
     {
+      "title": "Ein \"Safe Space für Rassisten\": Neue Kritik an Moderation auf X/Twitter",
+      "teaser": "Das CCDH steht im Fokus von Elon Musk, jetzt hat die Organisation hunderte regelwidrige Beiträge auf X/Twitter gemeldet und die fehlende Reaktion kritisiert.",
+      "url": "https://www.heise.de/news/Ein-Safe-Space-fuer-Rassisten-Neue-Kritik-an-Moderation-auf-X-Twitter-9528652.html",
+      "image_title": "Unscharfer Elon Musk hinter Smartphone mit Logo von X vor Twitter-Vogel"
+    },
+    {
       "title": "Die Wahrheit über Temu | Unsere Test-Bestellung",
       "url": "https://www.heise.de/news/Die-Wahrheit-ueber-Temu-Unsere-Test-Bestellung-9359705.html"
     },
@@ -407,6 +407,12 @@
       "url": "https://www.heise.de/news/Energiewende-Index-Deutschland-hinkt-bei-Smart-Meter-und-Waermepumpen-hinterher-9404794.html"
     },
     {
+      "title": "CacheWarpLoch in Hardware-Verschlüsselung von AMD-CPUs",
+      "teaser": "CacheWarp überwindet die RAM-Verschlüsselung, mit der AMD-Prozessoren Cloud-Instanzen voneinander abschotten wollen.",
+      "url": "https://www.heise.de/news/CacheWarp-Loch-in-Hardware-Verschluesselung-von-AMD-CPUs-9528270.html",
+      "image_title": "AMD Epyc"
+    },
+    {
       "title": "ReactOSFreie Windows-XP-Alternative weiter in Entwicklung",
       "teaser": "Von ReactOS hört man kaum noch etwas, dennoch geht die Entwicklung an dem freien Windows-XP-Klon weiter.",
       "url": "https://www.heise.de/news/Windows-Alternative-ReactOS-Entwicklung-geht-in-Trippelschritten-weiter-9427480.html",
@@ -419,10 +425,10 @@
       "image_title": "«Tagesschau»-App"
     },
     {
-      "title": "CyberangriffTargobank blockiert Zugriff auf tausende Konten",
-      "teaser": "Nach Zugriffsversuchen von bösartigen Akteuren auf das Online-Banking hat die Targobank den Zugang tausender Kunden gesperrt.",
-      "url": "https://www.heise.de/news/Targobank-Nach-Cyberangriff-brauchen-tausende-Kunden-neue-Zugangsdaten-9454010.html",
-      "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
+      "title": "\"Safe Space für Rassisten\"Neue Kritik an Moderation auf X/Twitter",
+      "teaser": "Das CCDH hat hunderte regelwidrige Beiträge auf X/Twitter gemeldet und die fehlende Reaktion kritisiert.",
+      "url": "https://www.heise.de/news/Ein-Safe-Space-fuer-Rassisten-Neue-Kritik-an-Moderation-auf-X-Twitter-9528652.html",
+      "image_title": "Unscharfer Elon Musk hinter Smartphone mit Logo von X vor Twitter-Vogel"
     },
     {
       "title": "iPhoneiOS 18 soll ein \"ehrgeiziges Update\" werden",
@@ -435,12 +441,6 @@
       "teaser": "Weil ihn die EU-Gesetze frustrieren, überlegt Elon Musk angeblich, X/Twitter hier nicht mehr anzubieten. Er hat aber widersprochen.",
       "url": "https://www.heise.de/news/X-Twitter-bald-nicht-mehr-in-der-EU-verfuegbar-Elon-Musk-widerspricht-Bericht-9338578.html",
       "image_title": "Silhouette Elon Musks vor dem Logo von X"
-    },
-    {
-      "title": "DeutschlandpaktBund und Länder wollen Ausbau der Mobilfunknetze erleichtern",
-      "teaser": "Die Ministerpräsidentenkonferenz hat ein Maßnahmenpaket beschlossen, mit dem der Netzausbau schneller genehmigt werden soll.​",
-      "url": "https://www.heise.de/news/Bund-und-Laender-wollen-Ausbau-der-Mobilfunknetze-erleichtern-9355770.html",
-      "image_title": "5G Ausbau"
     },
     {
       "title": "Ganz ohne FrickeleiDer große Linux-Gaming-Guide",
@@ -523,6 +523,11 @@
       "url": "https://www.heise.de/news/TGIQF-Das-Quiz-rund-um-Viren-Malware-und-co-9356724.html"
     },
     {
+      "title": "ForschungRoboter ermittelt Katalysator aus Marsgestein zur Sauerstoffherstellung",
+      "teaser": "Ein Roboter gewinnt aus Marsgestein einen Katalysator, der zur Sauerstoffproduktion verwendet werden kann.",
+      "url": "https://www.heise.de/news/Roboter-ermittelt-Katalysator-aus-Marsgestein-zur-Sauerstoffherstellung-9528433.html"
+    },
+    {
       "title": "BiosignaturLeben auf der Erde war für Aliens früher viel leichter zu entdecken",
       "teaser": "Sollten Außerirdische untersuchen, ob es auf der Erde Leben gibt, wäre das im Zeitalter der Dinosaurier einfacher gewesen.",
       "url": "https://www.heise.de/news/Biosignatur-Leben-auf-der-Erde-war-fuer-Aliens-frueher-viel-leichter-zu-entdecken-9432691.html",
@@ -532,11 +537,6 @@
       "title": "Physikerin Hossenfelder\"Zweifel und Unsicherheiten nicht herunterspielen\"",
       "teaser": "Sabine Hossenfelder im Interview mit MIT Technology Review über Kreationismus, den Sinn des Universums und den ganzen Rest.",
       "url": "https://www.heise.de/news/Physikerin-Hossenfelder-Zweifel-und-Unsicherheiten-nicht-herunterspielen-9354685.html"
-    },
-    {
-      "title": "NASA-Sonde Osiris-RexKleiner Teil der Probe von Asteroid Bennu bereits in Museum zu sehen",
-      "teaser": "Erst Ende September hat Osiris-Rex die Asteroidenprobe zur Erde gemacht, jetzt kann ein Teil davon bereits im Museum bestaunt werden.",
-      "url": "https://www.heise.de/news/Osiris-Rex-Kleiner-Teil-der-Asteroidenprobe-bereits-im-Museum-ausgestellt-9354132.html"
     },
     {
       "title": "Urteil aus dem Homeoffice: Video-Verhandlungen sollen leichter werden",
@@ -753,37 +753,35 @@
       "url": "https://www.techstage.de/bestenliste/top-8-die-besten-elektronischen-parkscheiben-mit-zulassung/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
-      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
-      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
-      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
-    },
-    {
-      "title": "China beschränkt Export wichtiger Mineralien: Europas grüner Wandel bedroht",
-      "teaser": "Der Umgang zwischen EU und China wird zunehmend unfreundlich. Die Entscheidung Beijings hat ein Vorspiel in Europa. Das sind die Hintergründe.",
-      "url": "https://www.heise.de/tp/features/China-beschraenkt-Export-wichtiger-Mineralien-Europas-gruener-Wandel-bedroht-9206885.html",
-      "image_title": "China schränkt Export von Mineralien für grüne Technologien ein."
-    },
-    {
       "title": "Wird der Nato-Gipfel einen unendlichen Krieg in Europa eröffnen?",
       "teaser": "Der Druck wächst, der Ukraine in Vilnius eine Beitrittsperspektive zu geben. Hardliner und einige osteuropäische Staaten wollen ein klares Zeichen. Warum das keine gute Idee ist.",
       "url": "https://www.heise.de/tp/features/Wird-der-Nato-Gipfel-einen-unendlichen-Krieg-in-Europa-eroeffnen-9205939.html"
     },
     {
-      "title": "Bessere Videos auf Knopfdruck: Topaz Video AI im Test",
-      "teaser": "Topaz Video AI ist ein KI-gestütztes Videotool, das bei der Verbesserung von Videomaterial helfen soll. Wir zeigen, wie gut das tatsächlich funktioniert.",
-      "url": "https://www.heise.de/tests/Bessere-Videos-auf-Knopfdruck-Topaz-Video-AI-im-Test-9357668.html"
+      "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
+      "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
+      "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
     },
     {
-      "title": "Marke neu sortiert: Outdoorkameras Ricoh WG werden Pentax WG",
-      "teaser": "Erst 2022 erschien die Outdoorkamera Ricoh WG-80. Jetzt vermarktet der Hersteller sie erneut unter dem Namen Pentax WG-90. Sonst verändert sich wenig.",
-      "url": "https://www.heise.de/news/Marke-neu-sortiert-Outdoorkameras-Ricoh-WG-werden-Pentax-WG-9528974.html"
+      "title": "Le Pen: Mit ihr vergeht die deutsch-französische Freundschaft?",
+      "teaser": "Unruhen in Frankreich: Es wird wieder über das vorzeitige Ende der Regierung Macron spekuliert. Für Deutschland wären das keine guten Aussichten. Die Krisen-Gewinnerin will einen deutlichen Kurswechsel.",
+      "url": "https://www.heise.de/tp/features/Le-Pen-Mit-ihr-vergeht-die-deutsch-franzoesische-Freundschaft-9208505.html"
     },
     {
       "title": "Datenschützer: YouTubes Adblocker-Erkennung verstößt gegen EU-Recht",
       "teaser": "Das Erkennen von Adblockern seitens YouTube auf Geräten der Nutzer sei illegal, so Datenschützer. Sie fordern eine Überprüfung und Stellungnahme der EU.",
       "url": "https://www.heise.de/news/Datenschuetzer-YouTubes-Adblocker-Erkennung-verstoesst-gegen-EU-Recht-9355835.html",
       "image_title": "YouTube-Logo auf Handy neben Ohrhörern"
+    },
+    {
+      "title": "Web-Tipps: Deutschland in Zahlen​",
+      "teaser": "Zahlen, Daten und Fakten: Das Statistische Bundesamt bündelt ausgewählte Statistiken im Dashboard Deutschland zu verschiedenen interessanten Themengebieten.",
+      "url": "https://www.heise.de/news/Web-Tipps-Deutschland-in-Zahlen-9350498.html"
+    },
+    {
+      "title": "Marke neu sortiert: Outdoorkameras Ricoh WG werden Pentax WG",
+      "teaser": "Erst 2022 erschien die Outdoorkamera Ricoh WG-80. Jetzt vermarktet der Hersteller sie erneut unter dem Namen Pentax WG-90. Sonst verändert sich wenig.",
+      "url": "https://www.heise.de/news/Marke-neu-sortiert-Outdoorkameras-Ricoh-WG-werden-Pentax-WG-9528974.html"
     },
     {
       "title": "Hostinger im Test: Website-Hosting leicht gemacht",
