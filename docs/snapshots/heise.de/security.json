@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T07:10:55",
+  "timestamp": "2023-11-15T08:14:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,14 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
+    },
+    {
+      "title": "Patchday Microsoft",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
+    },
+    {
       "title": "WS_FTP",
       "url": "https://www.heise.de/news/Angreifer-koennen-durch-kritische-Luecke-in-WS-FTP-Systeme-kompromittieren-9357127.html"
     },
@@ -40,12 +48,14 @@
       "url": "https://www.heise.de/news/Malware-Schutz-Rechteausweitung-in-Trend-Micros-Apex-One-moeglich-9356484.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Kritische-System-Luecke-bedroht-Android-11-12-und-13-9355953.html"
+      "title": "Webbrowser: Update für Google Chrome dichtet vier Sicherheitslecks ab",
+      "teaser": "Google hat mit dem wöchentlichen Update vier Sicherheitslücken geschlossen, von denen mindestens zwei als hochriskant gelten.",
+      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Webbrowser-Luecke-mit-hohem-Risiko-in-Google-Chrome-geschlossen-9355888.html"
+      "title": "Patchday Microsoft: Angreifer nutzen drei Lücken in Windows aus",
+      "teaser": "Am Patchday von Microsoft sind unter anderem für Exchange Server, Office und Windows wichtige Sicherheitsupdates erschienen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
@@ -145,18 +155,6 @@
       "teaser": "The free new Outlook replaces Mail in Windows, and later also the classic Outlook. It sends secret credentials to Microsoft servers.",
       "url": "https://www.heise.de/news/Microsoft-lays-hands-on-login-data-Beware-of-the-new-Outlook-9358925.html",
       "image_title": "Ostersund,,Sweden,-,Jan,18,,2022:,Microsoft,365,On,A"
-    },
-    {
-      "title": "Früher als geplant: Lockbit veröffentlicht Daten von Flugzeughersteller Boeing",
-      "teaser": "Nach mutmaßlich gescheiterten Lösegeld-Verhandlungen veröffentlicht die Cyberkriminellen-Gruppe Lockbit Daten vom Flugzeugbauer Boeing, früher als geplant.",
-      "url": "https://www.heise.de/news/Frueher-als-geplant-Lockbit-veroeffentlicht-Daten-von-Flugzeughersteller-Boeing-9358787.html",
-      "image_title": "Boeing-Flugzeug über Wolken"
-    },
-    {
-      "title": "Outlook-Datenumleitung: Bundesdatenschützer zeigt sich besorgt",
-      "teaser": "Der Bundesbeauftragte für den Datenschutz und die Informationsfreiheit zeigt sich alarmiert ob der Datenumleitungen des neuen Outlooks von Microsoft.",
-      "url": "https://www.heise.de/news/Microsofts-Outlook-Datenumleitung-BfDI-will-Bericht-von-EU-Datenschuetzer-9358371.html",
-      "image_title": "Fenster \"Microsoft Office Home\". Eine Lupe vergrößert das Logo für Outlook. Daneben die Logos für OneDrive, Word, Excel und Powerpoint."
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",

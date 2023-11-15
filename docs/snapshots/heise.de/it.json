@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-15T07:10:52",
+  "timestamp": "2023-11-15T08:14:34",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,20 +26,28 @@
   ],
   "articles": [
     {
-      "title": "Microsoft verbessert Schutz im Authenticator vor MFA-Ermüdungsangriffen",
-      "teaser": "Microsoft unterdrückt künftig verdächtige Authentifizierungsanfragen im Authenticator. Das soll den Schutz vor Ermüdungsangriffen verbessern.",
-      "url": "https://www.heise.de/news/Microsoft-Authenticator-unterdrueckt-verdaechtige-Anfragen-9426209.html"
+      "title": "ReactOS: Freie Windows-XP-Alternative weiter in Entwicklung",
+      "teaser": "Von ReactOS hört man kaum noch etwas, dennoch geht die Entwicklung an dem freien Windows-XP-Klon weiter.",
+      "url": "https://www.heise.de/news/Windows-Alternative-ReactOS-Entwicklung-geht-in-Trippelschritten-weiter-9427480.html",
+      "image_title": "ReactOS-0.4.15-Nightly-Desktop auf Notebook auf Tisch"
     },
     {
-      "title": "Bigger, better, faster, more: OpenAI zündet den GPT-4 Turbo​",
-      "teaser": "Neue Turbo-Varianten von GPT 3.5 und 4 können mehr und sind günstiger. Großkunden können sogar auf eigene Sprachmodelle aus dem Hause OpenAI hoffen.",
-      "url": "https://www.heise.de/news/Bigger-better-faster-more-OpenAI-zuendet-den-GPT-Turbo-9354898.html",
-      "image_title": "Digitales Schild warnt: \"GPT-4 Ahead\""
+      "title": "Fake Tagesschau: KI generierte Audiodatei kursiert",
+      "teaser": "Die Tagesschau entschuldigt sich nicht für \"Lügen in der Berichterstattung\". Das aber behauptet eine KI-generierte Audiodatei.",
+      "url": "https://www.heise.de/news/Fake-Tagesschau-KI-generierte-Audiodatei-kursiert-9502931.html",
+      "image_title": "«Tagesschau»-App"
     },
     {
-      "title": "SSD-Ausfälle: Western Digital verspielt alles Vertrauen",
-      "teaser": "Externe SSDs der WD-Tochter Sandisk fallen häufig aus und verärgern Kunden. Der Hersteller sagt nichts – und zerstört so seinen guten Ruf, meint Mark Mantel.",
-      "url": "https://www.heise.de/meinung/SSD-Ausfaelle-Western-Digital-verspielt-alles-Vertrauen-9352972.html"
+      "title": "Cyberangriff: Targobank blockiert Zugriff auf tausende Konten",
+      "teaser": "Nach Zugriffsversuchen von bösartigen Akteuren auf das Online-Banking hat die Targobank den Zugang tausender Kunden gesperrt. Neue Zugangsdaten werden erstellt.",
+      "url": "https://www.heise.de/news/Targobank-Nach-Cyberangriff-brauchen-tausende-Kunden-neue-Zugangsdaten-9454010.html",
+      "image_title": "Washington Post: Trump bestätigt Cyberangriff gegen Russland 2018"
+    },
+    {
+      "title": "2FAuth: Zwei-Faktor-Authentifizierung selbst gemacht",
+      "teaser": "Die 2FA-Authentifizierung geht oft zulasten des Komforts. Mit unserer Anleitung bauen Sie sich mit 2FAuth ein zweites 2FA-Standbein auf.",
+      "url": "https://www.heise.de/ratgeber/2FAuth-Zwei-Faktor-Authentifizierung-selbst-gemacht-9352960.html",
+      "image_title": ", Thorsten Hübner"
     },
     {
       "title": "Nachzügler: Apples MacBook Pro mit M3 Pro im Test",
@@ -47,9 +55,20 @@
       "url": "https://www.heise.de/tests/Nachzuegler-Apples-MacBook-Pro-mit-M3-Pro-im-Test-9505361.html"
     },
     {
-      "title": "Bastelprojekt fürs Smart Home: Temperatursensoren für den ioBroker Gaszähler",
-      "teaser": "Über die Temperaturmessung erhalten wir weitere Daten zur Verbrauchsoptimierung. Dazu verwendet man die Maker-Sensoren oder Funksensoren auf 433MHz-Basis.",
-      "url": "https://www.heise.de/ratgeber/Bastelprojekt-fuers-Smart-Home-Temperatursensoren-fuer-den-ioBroker-Gaszaehler-9303822.html"
+      "title": "Webbrowser: Update für Google Chrome dichtet vier Sicherheitslecks ab",
+      "teaser": "Google hat mit dem wöchentlichen Update vier Sicherheitslücken geschlossen, von denen mindestens zwei als hochriskant gelten.",
+      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
+    },
+    {
+      "title": "2FAuth: Zwei-Faktor-Authentifizierung selbst gemacht",
+      "teaser": "Die 2FA-Authentifizierung geht oft zulasten des Komforts. Mit unserer Anleitung bauen Sie sich mit 2FAuth ein zweites 2FA-Standbein auf.",
+      "url": "https://www.heise.de/ratgeber/2FAuth-Zwei-Faktor-Authentifizierung-selbst-gemacht-9352960.html",
+      "image_title": ", Thorsten Hübner"
+    },
+    {
+      "title": "Patchday Microsoft: Angreifer nutzen drei Lücken in Windows aus",
+      "teaser": "Am Patchday von Microsoft sind unter anderem für Exchange Server, Office und Windows wichtige Sicherheitsupdates erschienen.",
+      "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
     },
     {
       "title": "Webinar: Wie Unternehmen die richtige Apple-Hardware wählen",
@@ -118,21 +137,6 @@
       "title": "Corsair MP700 Pro: PCIe-5.0-SSD mit 12 GByte/s",
       "teaser": "Die meisten SSDs mit PCIe 5.0 sind mit maximal 10 GByte/s nur wenig schneller als eine gute 4.0er-SSD. Corsair bringt nun einer der ersten schnelleren SSDs.",
       "url": "https://www.heise.de/news/Corsair-MP700-PCIe-5-0-SSD-mit-12-GByte-s-9507729.html"
-    },
-    {
-      "title": "Youtube verlangt Offenlegung und Label von KI-Inhalten",
-      "teaser": "Youtube will KI-generierte Inhalte kennzeichnen. Deepfakes können als Datenschutzbeschwerde eingereicht werden.",
-      "url": "https://www.heise.de/news/Youtube-verlangt-Offenlegung-und-Label-von-KI-Inhalten-9528051.html"
-    },
-    {
-      "title": "Last-Call: c't-Webinar Fantastische Bildwelten mit KI",
-      "teaser": "Midjourney zaubert innerhalb kürzester Zeit außergewöhnliche Bilder, wenn man weiß, wie es geht. Mit dem c't-Webinar gelingt der Einstieg spielend einfach.",
-      "url": "https://www.heise.de/news/Last-Call-c-t-Webinar-Fantastische-Bildwelten-mit-KI-9436472.html"
-    },
-    {
-      "title": "Nukis neue Smart Locks schließen mit Thread und Matter",
-      "teaser": "Das neue Schloss-Duo braucht weniger Energie und lässt sich einfacher ins Smart Home einbinden. Den vollen Funktionsumfang gibt es erst per Update im Frühjahr.",
-      "url": "https://www.heise.de/news/Nukis-neue-Smart-Locks-schliessen-mit-Thread-und-Matter-9528010.html"
     },
     {
       "title": "ECN Pulse Check 2023",
