@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-17T07:10:48",
+  "timestamp": "2023-11-17T08:14:36",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -44,6 +44,35 @@
       "image_title": "«Tagesschau»-App"
     },
     {
+      "title": "Projekt für \"souveräne\" Dateninfrastruktur: Was aus Gaia-X wurde",
+      "teaser": "Gaia-X wurde von der Bundesregierung mit über 300 Millionen Euro gefördert. Doch das Ökosystem aus zertifizierten Clouddiensten lässt weiter auf sich warten.",
+      "url": "https://www.heise.de/hintergrund/Projekt-zur-Dateninfrastruktur-Was-aus-dem-Cloudprojekt-Gaia-X-wurde-9528946.html",
+      "image_title": ", KI Midjourney Bearbeitung c’t"
+    },
+    {
+      "title": "Raspi-Hacking: Raspberry Pi 400 als Hacking-Maschine",
+      "teaser": "Durch seine Tastatur ist der Raspi 400 der ideale Hacking-Rechner. Sie schließen nur noch Strom und Monitor an und können Hacking-Tools von Kali Linux nutzen.",
+      "url": "https://www.heise.de/ratgeber/Raspi-Hacking-Raspberry-Pi-400-als-Hacking-Maschine-9350250.html",
+      "image_title": "Moritz Reichartz"
+    },
+    {
+      "title": "Bildbearbeitung: Angreifer können Gimp Schadcode unterjubeln",
+      "teaser": "Die freie Open-Source-Bildbearbeitung Gimp ist in Version 2.10.36 erschienen. Sie schließt Sicherheitslücken, die Codeschmuggel erlauben.",
+      "url": "https://www.heise.de/news/Bildbearbeitung-Angreifer-koennen-Gimp-Schadcode-unterjubeln-9531394.html",
+      "image_title": "GIMP-Splashscreen beim Programmstart"
+    },
+    {
+      "title": "Softwarearchitektur: Wir kämpfen gegen Trägheit und passive Akzeptanz",
+      "teaser": "Im Interview spricht Heidi Waterhouse über die \"Seven Righteous Fights\", um Projekte von Anfang an effizient auszurichten.",
+      "url": "https://www.heise.de/hintergrund/Softwarearchitektur-Wir-kaempfen-gegen-Traegheit-und-passive-Akzeptanz-9530860.html"
+    },
+    {
+      "title": "iX-Workshop: Hands-on mit scikit-learn - Einstieg ins Machine Learning",
+      "teaser": "Erhalten Sie an zwei Tagen einen schnellen, praxisorientierten Einstieg in Machine Learning mit scikit-learn, der beliebten Python-Bibliothek für Data Science.",
+      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-mit-scikit-learn-Einstieg-ins-Machine-Learning-9453688.html",
+      "image_title": "iX-Workshop Machine Learning mit scikit-learn"
+    },
+    {
       "title": "Backup: Synology-NAS-Daten inklusive VMs sichern",
       "teaser": "Wie sichert man lückenlos alle Daten, die auf Netzwerkspeichern von Synology liegen? Wir gingen der Frage nach und fanden gleich mehrere Lösungsvorschläge.",
       "url": "https://www.heise.de/ratgeber/Backup-Synology-NAS-Daten-inklusive-VMs-sichern-9357166.html",
@@ -54,24 +83,6 @@
       "teaser": "Obwohl speziell für NAS ausgelegte Festplatten sinnvoll sind, eignen sich Serverfestplatten manchmal sogar besser. Wir erklären, wann das der Fall ist.",
       "url": "https://www.heise.de/ratgeber/NAS-Upgrade-Wie-Sie-die-richtige-Festplatte-auswaehlen-9357153.html",
       "image_title": ","
-    },
-    {
-      "title": "Projekt für \"souveräne\" Dateninfrastruktur: Was aus Gaia-X wurde",
-      "teaser": "Gaia-X wurde von der Bundesregierung mit über 300 Millionen Euro gefördert. Doch das Ökosystem aus zertifizierten Clouddiensten lässt weiter auf sich warten.",
-      "url": "https://www.heise.de/hintergrund/Projekt-zur-Dateninfrastruktur-Was-aus-dem-Cloudprojekt-Gaia-X-wurde-9528946.html",
-      "image_title": ", KI Midjourney Bearbeitung c’t"
-    },
-    {
-      "title": "iX-Workshop: Hands-on mit scikit-learn - Einstieg ins Machine Learning",
-      "teaser": "Erhalten Sie an zwei Tagen einen schnellen, praxisorientierten Einstieg in Machine Learning mit scikit-learn, der beliebten Python-Bibliothek für Data Science.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-mit-scikit-learn-Einstieg-ins-Machine-Learning-9453688.html",
-      "image_title": "iX-Workshop Machine Learning mit scikit-learn"
-    },
-    {
-      "title": "Raspi-Hacking: Raspberry Pi 400 als Hacking-Maschine",
-      "teaser": "Durch seine Tastatur ist der Raspi 400 der ideale Hacking-Rechner. Sie schließen nur noch Strom und Monitor an und können Hacking-Tools von Kali Linux nutzen.",
-      "url": "https://www.heise.de/ratgeber/Raspi-Hacking-Raspberry-Pi-400-als-Hacking-Maschine-9350250.html",
-      "image_title": "Moritz Reichartz"
     },
     {
       "title": "Netzwerkspeicher geschickt aufrüsten und erweitern",
@@ -129,17 +140,6 @@
       "teaser": "Der Wegfall des Swipes zum Zifferblattwechsel auf der Apple Watch erregte die Gemüter. Jetzt plant Apple offenbar, die Funktion wieder einzuführen.",
       "url": "https://www.heise.de/news/Apple-Watch-Swipe-Geste-fuer-Zifferblattwechsel-kehrt-zurueck-9530998.html",
       "image_title": "Die Apple Watch mit watchOS 10"
-    },
-    {
-      "title": "Überwachungskamera Aqara E1 im Test: PTZ, 2K-Auflösung und Homekit-Support",
-      "teaser": "Die neue Überwachungskamera Aqara E1 für Innenräume bietet ein schwenk- und neigbares Objektiv, Geräuscherkennung sowie automatische Personenverfolgung.",
-      "url": "https://www.techstage.de/test/ueberwachungskamera-aqara-e1-im-test-ptz-2k-aufloesung-und-homekit-support/73hhxv0?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "ChatGPT: Was die neuen GPTs können und wie Sie eigene KI-Bots bauen",
-      "teaser": "ChatGPT spezialisiert seine Fähigkeiten mit GPTs: Die kleinen Helfer mixen Drinks, erklären Mathe und malen Sticker. Auch eigene Bots lassen sich einfach bauen.",
-      "url": "https://www.heise.de/ratgeber/ChatGPT-Was-die-neuen-GPTs-koennen-und-wie-Sie-eigene-KI-Bots-bauen-9530670.html"
     },
     {
       "title": "ECN Pulse Check 2023",

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-17T07:10:51",
+  "timestamp": "2023-11-17T08:14:39",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Gimp",
+      "url": "https://www.heise.de/news/Bildbearbeitung-Angreifer-koennen-Gimp-Schadcode-unterjubeln-9531394.html"
+    },
+    {
       "title": "WordPress-Plug-in WP Fastest Cache",
       "url": "https://www.heise.de/news/WordPress-Plug-in-Luecke-in-WP-Fastest-Cache-gefaehrdet-hunderttausende-Websites-9530618.html"
     },
@@ -44,13 +48,10 @@
       "url": "https://www.heise.de/news/Cloud-Schutzloesung-IBM-Security-Guardium-vielfaeltig-attackierbar-9529390.html"
     },
     {
-      "title": "Aruba Access Points",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Acces-Points-von-Aruba-sind-verwundbar-9528912.html"
-    },
-    {
-      "title": "Reptar: Sicherheitslücke in Intel-CPUs bedroht Cloud-Server",
-      "teaser": "Angreifer, die eine virtuelle Maschine auf einem Host mit Intel-CPU kontrollieren, können diesen unter Umständen zum Stillstand bringen. Intel flickt die Lücke.",
-      "url": "https://www.heise.de/news/Reptar-Sicherheitsluecke-in-Intel-CPUs-bedroht-Cloud-Server-9530764.html"
+      "title": "Bildbearbeitung: Angreifer können Gimp Schadcode unterjubeln",
+      "teaser": "Die freie Open-Source-Bildbearbeitung Gimp ist in Version 2.10.36 erschienen. Sie schließt Sicherheitslücken, die Codeschmuggel erlauben.",
+      "url": "https://www.heise.de/news/Bildbearbeitung-Angreifer-koennen-Gimp-Schadcode-unterjubeln-9531394.html",
+      "image_title": "GIMP-Splashscreen beim Programmstart"
     },
     {
       "title": "Stark gegen Hacker mit den iX-Workshops",
@@ -83,6 +84,12 @@
       "title": "Amazon Astro: Roboter soll in kleinen Betrieben für Sicherheit sorgen",
       "teaser": "Amazons mobiler Roboter Astro for Business soll Sicherheit für kleine und mittlere Betriebe garantieren. Dazu müssen jedoch einige Abos abgeschlossen werden.",
       "url": "https://www.heise.de/news/Amazon-Astro-Roboter-soll-in-kleinen-Betrieben-fuer-Sicherheit-sorgen-9529865.html"
+    },
+    {
+      "title": "Neues Outlook: Microsoft bezieht Stellung zur Übertragung von Zugangsdaten",
+      "teaser": "Auf Nachfrage hat Microsoft jetzt erklärt, warum das neue Outlook etwa Zugangsdaten auf Microsoft-Server überträgt und Mails dorthin kopiert.",
+      "url": "https://www.heise.de/news/Neues-Outlook-Microsoft-bezieht-Stellung-zur-Uebertragung-von-Zugangsdaten-9528869.html",
+      "image_title": "Vancouver,,Canada,-,November,21,,2016:,Microsoft,Sign,On,The"
     },
     {
       "title": "Ransomware: Angriffe auf KaDeWe und Meindl, Kriminelle geben auf",
@@ -145,12 +152,6 @@
       "teaser": "Microsofts neues Outlook benimmt sich anders als bisherige Mailsoftware. Einige Lösungsansätze zum Schutz vor ungewolltem Datenabfluss.",
       "url": "https://www.heise.de/hintergrund/Neues-Outlook-Schutz-vor-Microsofts-neugierigem-Mailprogramm-9528591.html",
       "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
-    },
-    {
-      "title": "CacheWarp: Loch in Hardware-Verschlüsselung von AMD-CPUs",
-      "teaser": "Der jetzt vorgestellte CacheWarp-Angriff überwindet die RAM-Verschlüsselung, mit der AMD-Prozessoren Cloud-Instanzen voneinander abschotten wollen.",
-      "url": "https://www.heise.de/news/CacheWarp-Loch-in-Hardware-Verschluesselung-von-AMD-CPUs-9528270.html",
-      "image_title": "AMD Epyc"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
