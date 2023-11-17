@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-17T12:21:32",
+  "timestamp": "2023-11-17T13:14:32",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Manifest V3 für Googles Chrome: Adblocker-API wird erweitert",
+      "teaser": "Google ändert declarativeNetRequest-API. Mehr statische und dynamische Regelsätze – das bedeutet weniger Einschränkungen für AdBlocker.",
+      "url": "https://www.heise.de/news/Manifest-V3-fuer-Googles-Chrome-Adblocker-API-wird-erweitert-9531495.html"
+    },
+    {
       "title": "Black Friday: Sicherer online einkaufen",
       "teaser": "Der Black Friday klopft bereits an. Das ruft auch Betrüger auf den Plan. Mit ein paar Hinweisen gelingt die Schnäppchenjagd jedoch sicherer.",
       "url": "https://www.heise.de/news/Black-Friday-Online-Shopping-aber-sicherer-9529939.html",
@@ -37,11 +42,6 @@
       "url": "https://www.heise.de/news/Microsoft-Auch-ein-einsamer-Angestellter-Da-helfen-MS-Teams-und-die-Copilot-KI-9530411.html"
     },
     {
-      "title": "Copilot, Copilot, Copilot: Microsoft Ignite bietet viel KI",
-      "teaser": "Bei der diesjährigen Microsoft Ignite stand, Überraschung, KI im Vordergrund. Es gibt einen eigenen KI-Chip, aber auch reichlich Copiloten.",
-      "url": "https://www.heise.de/news/Copilot-Copilot-Copilot-Microsoft-Ignite-bietet-viel-KI-9529713.html"
-    },
-    {
       "title": "Smart-Home-Standard Matter: Marktübersicht und erste praktische Schritte",
       "teaser": "Wir zeigen, welche herstellerübergreifende Smart-Home-Standard Matter Komponenten es dafür gibt und wie man sie unter dem Standard einrichtet.",
       "url": "https://www.heise.de/tests/Smart-Home-Standard-Matter-Marktuebersicht-und-erste-praktische-Schritte-9355999.html"
@@ -51,6 +51,24 @@
       "teaser": "Gaia-X wurde von der Bundesregierung mit über 300 Millionen Euro gefördert. Doch das Ökosystem aus zertifizierten Clouddiensten lässt weiter auf sich warten.",
       "url": "https://www.heise.de/hintergrund/Projekt-zur-Dateninfrastruktur-Was-aus-dem-Cloudprojekt-Gaia-X-wurde-9528946.html",
       "image_title": ", KI Midjourney Bearbeitung c’t"
+    },
+    {
+      "title": "Nach Internetausfall: Optus war unvorbereitet und zeigt mit dem Finger auf Cisco",
+      "teaser": "Der massive Internetausfall in Australien geht laut dem Provider auf eine unerwartete Abschaltung von Cisco-Routern zurück. Darauf war man nicht vorbereitet.",
+      "url": "https://www.heise.de/news/Nach-Internetausfall-Optus-war-unvorbereitet-und-zeigt-mit-dem-Finger-auf-Cisco-9532407.html",
+      "image_title": "Hände an Smartphone"
+    },
+    {
+      "title": "Luftreiniger-Testsieger Philips AC3033/10 jetzt zum Tiefstpreis für 199 Euro",
+      "teaser": "Der Philips AC3033/10 befreit die Luft von Feinstaub und anderen Schadstoffen. Im Nachtmodus hört man ihn kaum, wie der TechStage-Test zeigt.",
+      "url": "https://www.techstage.de/test/leise-effizient-und-smart-luftreiniger-philips-ac303310-im-test/07hztg4?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
+      "image_title": "##PHxVALUE_ALT_TEXT##"
+    },
+    {
+      "title": "Anonymisierendes Linux: Tails 5.19.1 behebt Tor-Lücke, Audit-Ergebnisse sind da",
+      "teaser": "Ein offenbar aus der Ferne ausnutzbarer Bug in Tor führte zum neuerlichen Update. Die Ergebnisse der kürzlichen Sicherheitsprüfung hingegen sind positiv.",
+      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-19-1-behebt-Tor-Luecke-Audit-Ergebnisse-sind-da-9532403.html",
+      "image_title": "Im Netz"
     },
     {
       "title": "Huaweis Cloud in Europa wächst und wächst",
@@ -103,11 +121,6 @@
       "image_title": "Bing-Suche im Edge-Browser"
     },
     {
-      "title": "Manifest V3 für Googles Chrome: Adblocker-API wird erweitert",
-      "teaser": "Google ändert declarativeNetRequest-API. Mehr statische und dynamische Regelsätze – das bedeutet weniger Einschränkungen für AdBlocker.",
-      "url": "https://www.heise.de/news/Manifest-V3-fuer-Googles-Chrome-Adblocker-API-wird-erweitert-9531495.html"
-    },
-    {
       "title": "iX-Workshop: SSO-Lösung Keycloak maßgeschneidert – eigene Extensions entwickeln",
       "teaser": "Lernen Sie, wie Sie das quelloffene IAM- und SSO-Tool Keycloak mit selbst entwickelten Erweiterungen an Ihre Anforderungen anpassen. Last Call",
       "url": "https://www.heise.de/news/iX-Workshop-Eigene-Erweiterungen-fuer-die-SSO-Loesung-Keycloak-entwickeln-9453564.html"
@@ -122,17 +135,6 @@
       "teaser": "Die freie Open-Source-Bildbearbeitung Gimp ist in Version 2.10.36 erschienen. Sie schließt Sicherheitslücken, die Codeschmuggel erlauben.",
       "url": "https://www.heise.de/news/Bildbearbeitung-Angreifer-koennen-Gimp-Schadcode-unterjubeln-9531394.html",
       "image_title": "GIMP-Splashscreen beim Programmstart"
-    },
-    {
-      "title": "Softwarearchitektur: Wir kämpfen gegen Trägheit und passive Akzeptanz",
-      "teaser": "Im Interview spricht Heidi Waterhouse über die \"Seven Righteous Fights\", um Projekte von Anfang an effizient auszurichten.",
-      "url": "https://www.heise.de/hintergrund/Softwarearchitektur-Wir-kaempfen-gegen-Traegheit-und-passive-Akzeptanz-9530860.html"
-    },
-    {
-      "title": "iX-Workshop: Hands-on mit scikit-learn - Einstieg ins Machine Learning",
-      "teaser": "Erhalten Sie an zwei Tagen einen schnellen, praxisorientierten Einstieg in Machine Learning mit scikit-learn, der beliebten Python-Bibliothek für Data Science.",
-      "url": "https://www.heise.de/news/iX-Workshop-Hands-on-mit-scikit-learn-Einstieg-ins-Machine-Learning-9453688.html",
-      "image_title": "iX-Workshop Machine Learning mit scikit-learn"
     },
     {
       "title": "ECN Pulse Check 2023",
