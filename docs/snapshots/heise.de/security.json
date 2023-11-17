@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-17T11:09:46",
+  "timestamp": "2023-11-17T12:21:35",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -48,20 +48,20 @@
       "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
     },
     {
-      "title": "Windows-Subsystem für Linux: Microsoft führt Plug-ins ein",
+      "title": "Wichtige neue Sicherheits- und Admin-Features fürs Windows-Subsystem für Linux",
       "teaser": "Das WSL soll kein schwarzes Loch mehr sein: Über Erweiterungen können Windows-Anwendungen künftig mit dem Windows-Subsystem für Linux kommunizieren.",
       "url": "https://www.heise.de/news/Windows-Subsystem-fuer-Linux-Microsoft-fuehrt-Plug-ins-ein-9531825.html"
-    },
-    {
-      "title": "FortiNet flickt schwere Sicherheitslücken in FortiOS und anderen Produkten",
-      "teaser": "Neben FortiOS und FortiClient sind auch FortiSIEM, FortiWLM und weitere von zum Teil kritischen Security-Fehlern betroffen. Admins sollten patchen.",
-      "url": "https://www.heise.de/news/FortiNet-flickt-schwere-Sicherheitsluecken-in-FortiOS-und-anderen-Produkten-9529075.html"
     },
     {
       "title": "Bildbearbeitung: Angreifer können Gimp Schadcode unterjubeln",
       "teaser": "Die freie Open-Source-Bildbearbeitung Gimp ist in Version 2.10.36 erschienen. Sie schließt Sicherheitslücken, die Codeschmuggel erlauben.",
       "url": "https://www.heise.de/news/Bildbearbeitung-Angreifer-koennen-Gimp-Schadcode-unterjubeln-9531394.html",
       "image_title": "GIMP-Splashscreen beim Programmstart"
+    },
+    {
+      "title": "Reptar: Sicherheitslücke in Intel-CPUs bedroht Cloud-Server",
+      "teaser": "Angreifer, die eine virtuelle Maschine auf einem Host mit Intel-CPU kontrollieren, können diesen unter Umständen zum Stillstand bringen. Intel flickt die Lücke.",
+      "url": "https://www.heise.de/news/Reptar-Sicherheitsluecke-in-Intel-CPUs-bedroht-Cloud-Server-9530764.html"
     },
     {
       "title": "Stark gegen Hacker mit den iX-Workshops",
@@ -89,6 +89,11 @@
       "title": "Programmiersprache Rust: Noch mehr Geld für noch mehr Sicherheit",
       "teaser": "Nachdem die Security-Initiative der Rust Foundation erste Früchte trägt, erhält die Stiftung weitere Fördergelder von der Open Source Security Foundation.",
       "url": "https://www.heise.de/news/Programmiersprache-Rust-Noch-mehr-Geld-fuer-noch-mehr-Sicherheit-9529904.html"
+    },
+    {
+      "title": "l+f: Ransomwarebande verpetzt Opfer bei US-Behörde",
+      "teaser": "Wie dreist kann man sein? Die Cyberkriminellen von ALPHV/BlackCat heben Online-Erpressung aufs nächste Level.",
+      "url": "https://www.heise.de/news/l-f-Ransomwarebande-meldet-Opfer-bei-US-Behoerde-9530215.html"
     },
     {
       "title": "Amazon Astro: Roboter soll in kleinen Betrieben für Sicherheit sorgen",
@@ -146,11 +151,6 @@
       "title": "Patchday: SAP behandelt nur drei Sicherheitslücken",
       "teaser": "Der November-Patchday weicht vom gewohnten Umfang ab: Lediglich drei neue Sicherheitslücken behandelt SAP.",
       "url": "https://www.heise.de/news/Patchday-SAP-schliesst-eine-kritische-Sicherheitsluecke-9528779.html"
-    },
-    {
-      "title": "Webbrowser: Vier Schwachstellen weniger nach Google Chrome-Update",
-      "teaser": "Google hat mit dem wöchentlichen Update vier Sicherheitslücken geschlossen, von denen mindestens zwei als hochriskant gelten.",
-      "url": "https://www.heise.de/news/Webbrowser-Update-fuer-Google-Chrome-dichtet-vier-Sicherheitslecks-ab-9528674.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
