@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-17T08:14:39",
+  "timestamp": "2023-11-17T09:11:33",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Fortinet-Produkte",
+      "url": "https://www.heise.de/news/FortiNet-flickt-schwere-Sicherheitsluecken-in-FortiOS-und-anderen-Produkten-9529075.html"
+    },
+    {
       "title": "Gimp",
       "url": "https://www.heise.de/news/Bildbearbeitung-Angreifer-koennen-Gimp-Schadcode-unterjubeln-9531394.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
     },
     {
-      "title": "IBM Security Guardium",
-      "url": "https://www.heise.de/news/Cloud-Schutzloesung-IBM-Security-Guardium-vielfaeltig-attackierbar-9529390.html"
+      "title": "FortiNet flickt schwere Sicherheitslücken in FortiOS und anderen Produkten",
+      "teaser": "Neben FortiOS und FortiClient sind auch FortiSIEM, FortiWLM und weitere von zum Teil kritischen Security-Fehlern betroffen. Admins sollten patchen.",
+      "url": "https://www.heise.de/news/FortiNet-flickt-schwere-Sicherheitsluecken-in-FortiOS-und-anderen-Produkten-9529075.html"
     },
     {
       "title": "Bildbearbeitung: Angreifer können Gimp Schadcode unterjubeln",
@@ -146,12 +151,6 @@
       "title": "Patchday Microsoft: Angreifer nutzen drei Lücken in Windows aus",
       "teaser": "Am Patchday von Microsoft sind unter anderem für Exchange Server, Office und Windows wichtige Sicherheitsupdates erschienen.",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Angreifer-nutzen-drei-Luecken-in-Windows-aus-9528682.html"
-    },
-    {
-      "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
-      "teaser": "Microsofts neues Outlook benimmt sich anders als bisherige Mailsoftware. Einige Lösungsansätze zum Schutz vor ungewolltem Datenabfluss.",
-      "url": "https://www.heise.de/hintergrund/Neues-Outlook-Schutz-vor-Microsofts-neugierigem-Mailprogramm-9528591.html",
-      "image_title": "Handy zeigt \"Microsoft 365\" und Icons für Word, Excel, Powerpoint, Teams, Outlook, Onenote, Sharepoint und Onedrive"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
