@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-20T10:13:13",
+  "timestamp": "2023-11-20T11:10:13",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Juniper Secure Analytics",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Juniper-Secure-Analytics-ist-angreifbar-9533598.html"
+    },
+    {
       "title": "Fortinet-Produkte",
       "url": "https://www.heise.de/news/FortiNet-flickt-schwere-Sicherheitsluecken-in-FortiOS-und-anderen-Produkten-9529075.html"
     },
@@ -44,13 +48,9 @@
       "url": "https://www.heise.de/news/WordPress-Plug-in-Luecke-in-WP-Fastest-Cache-gefaehrdet-hunderttausende-Websites-9530618.html"
     },
     {
-      "title": "Patchday Intel",
-      "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
-    },
-    {
-      "title": "US-Urteil: Wirecard-Auftragshacker zu 80 Monaten Gefängnis verurteilt",
-      "teaser": "Ein israelischer Detektiv hat US-Behörden zufolge eine internationale Phishing-Operation für Kunden wie Wirecard geleitet und 4,8 Millionen Dollar eingesackt.",
-      "url": "https://www.heise.de/news/US-Urteil-Wirecard-Auftragshacker-zu-80-Monaten-Gefaengnis-verurteilt-9533241.html"
+      "title": "Sicherheitsupdates: Juniper Secure Analytics ist angreifbar",
+      "teaser": "Angreifer können Lücken in Junipers SIEM-Lösung als Sprungbrett ausnutzen und sich zum Root-Nutzer machen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Juniper-Secure-Analytics-ist-angreifbar-9533598.html"
     },
     {
       "title": "Linux-Kernel 6.6 bekommt drei Jahre Langzeitunterstützung",
@@ -83,9 +83,19 @@
       "image_title": "Im Netz"
     },
     {
+      "title": "Ransomwarebande Medusa attackiert Toyota und fordert 8 Millionen US-Dollar",
+      "teaser": "Die Cybercrimebande Medusa will nach einer Attacke interne Daten von Toyota Financial Service leaken. Ein Ursprung der Attacke könnte Deutschland sein.",
+      "url": "https://www.heise.de/news/Ransomwarebande-Medusa-attackiert-Toyota-und-fordert-8-Millionen-US-Dollar-9531735.html"
+    },
+    {
       "title": "Wichtige neue Sicherheits- und Admin-Features fürs Windows-Subsystem für Linux",
       "teaser": "Das WSL soll kein schwarzes Loch mehr sein: Über Erweiterungen können Windows-Anwendungen künftig mit dem Windows-Subsystem für Linux kommunizieren.",
       "url": "https://www.heise.de/news/Windows-Subsystem-fuer-Linux-Microsoft-fuehrt-Plug-ins-ein-9531825.html"
+    },
+    {
+      "title": "FortiNet flickt schwere Sicherheitslücken in FortiOS und anderen Produkten",
+      "teaser": "Neben FortiOS und FortiClient sind auch FortiSIEM, FortiWLM und weitere von zum Teil kritischen Security-Fehlern betroffen. Admins sollten patchen.",
+      "url": "https://www.heise.de/news/FortiNet-flickt-schwere-Sicherheitsluecken-in-FortiOS-und-anderen-Produkten-9529075.html"
     },
     {
       "title": "Bildbearbeitung: Angreifer können Gimp Schadcode unterjubeln",
@@ -146,16 +156,6 @@
       "teaser": "Ransomware-Banden sind derzeit wieder sehr aktiv. Mehrere Firmen erhielten unerwünschten Besuch in ihrem Netz, ein Verbrecher gab hingegen auf.",
       "url": "https://www.heise.de/news/Ransomware-Play-greift-KaDeWe-an-Cl0p-nutzt-SysAid-0-Day-RansomedVC-gibt-auf-9529496.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Umfrage: IT-Entscheider sehen Sicherheitsstrategien als Innovationsbremse",
-      "teaser": "Eine Umfrage zeigt, dass die IT-Sicherheitsstrategie oftmals als Innovationsbremse wahrgenommen wird. Zudem führten Cyberangriffe zu größeren Umsatzeinbußen.",
-      "url": "https://www.heise.de/news/Umfrage-IT-Entscheider-sehen-IT-SIcherheitsstrategie-als-Innovationsbremse-9529510.html"
-    },
-    {
-      "title": "Patchday: Intel patcht sich durch sein Produktportfolio",
-      "teaser": "Angreifer können mehrere Komponenten von Intel attackieren. In vielen Fällen sind DoS-Attacken möglich.",
-      "url": "https://www.heise.de/news/Patchday-Intel-patcht-sich-durch-sein-Produkportfolio-9529466.html"
     },
     {
       "title": "Exchange Online Security: Kontrollieren, optimieren und überwachen",
