@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-21T13:15:17",
+  "timestamp": "2023-11-21T14:11:19",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -174,6 +174,22 @@
       "image_title": ","
     },
     {
+      "title": "Datenbank mit KI: Oracle 23c vorgestellt",
+      "teaser": "Oracle verkündet die Verfügbarkeit der Datenbankversion 23c – aber nur in der Cloud. Die eigene Server-Version wird wohl erst 2024 das Licht der Welt erblicken.",
+      "url": "https://www.heise.de/hintergrund/Datenbank-mit-KI-Oracle-23c-vorgestellt-9357796.html"
+    },
+    {
+      "title": "Digitalgipfel: Habeck will an Chipfabriken festhalten​",
+      "teaser": "Die Nichtigkeit des Klimafonds der Bundesregierung wirft einen Schatten auf geplante Investitionen in Chipfabriken. Was Minister Habeck dazu sagt.",
+      "url": "https://www.heise.de/news/Digitalgipfel-Habeck-will-an-Chipfabriken-festhalten-9535166.html",
+      "image_title": "Chipfrabrik von Intel"
+    },
+    {
+      "title": "FreeBSD 14 kann bis zu 1024 CPUs, bringt OpenZFS 2.2 und Firmware-Management",
+      "teaser": "Brachten bisherige Releases meist neue Funktionen, gelingt mit dem jetzt veröffentlichten FreeBSD 14 eine deutliche Modernisierung des Gesamtsystems.",
+      "url": "https://www.heise.de/news/FreeBSD-14-Viel-Neues-aber-die-letzte-Version-fuer-32-Bit-Hardware-9535072.html"
+    },
+    {
       "title": "Zahlen, bitte! In 25 Minuten durch Raum und Zeit: Die erste Folge Doctor Who",
       "teaser": "Die britische Science-Fiction-Serie Doctor Who, in der ein Außerirdischer mit einem Raumschiff in Form einer Polizei-Zelle durch Raum und Zeit reist, wird 60.",
       "url": "https://www.heise.de/hintergrund/Zahlen-bitte-In-25-Minuten-durch-Raum-und-Zeit-Die-erste-Folge-Doctor-Who-9534397.html"
@@ -201,22 +217,6 @@
       "url": "https://www.heise.de/news/Sprachen-lernen-Babbel-App-ermoeglicht-Alltagskonversationen-mit-KI-9534684.html"
     },
     {
-      "title": "\"Starfield\": Patch mit DLSS jetzt verfügbar",
-      "teaser": "Bethesda hat ein Update für \"Starfield\" veröffentlicht, das vor allem Besitzer einer Nvidia-Grafikkarte beglückt: Es kommt mit DLSS und mehr Performance.",
-      "url": "https://www.heise.de/news/Starfield-Patch-mit-DLSS-jetzt-verfuegbar-9534910.html"
-    },
-    {
-      "title": "Europäische Cloudplattform: Zweiter Katalog der GAIA-X-Dienste veröffentlicht",
-      "teaser": "Fast auf den Tag genau ein Jahr nach der ersten Fassung veröffentlicht die CISPE eine neue Version des Gaia-X-Cloud-Katalogs für die europäische Cloudplattform.",
-      "url": "https://www.heise.de/news/Zweiter-Katalog-der-GAIA-X-Dienste-veroeffentlicht-9534446.html",
-      "image_title": "Eu,Cloud,Project,,Data,Sovereignty,And,An,Alternative,Data,Infrastructure"
-    },
-    {
-      "title": "Video-Transkoder: Handbrake 1.7.0 nutzt hardwarebeschleunigte AV1-Encoder",
-      "teaser": "Die Entwickler haben dem Video-Transkoder Handbrake diverse Verbesserungen angedeihen lassen. Er kann jetzt hardwarebeschleunigtes AV1-Encoding.",
-      "url": "https://www.heise.de/news/Video-Transkoder-Handbrake-1-7-0-nutzt-hardwarebeschleunigte-AV1-Encoder-9534753.html"
-    },
-    {
       "title": "Im TestApple MacBook Pro 2023 mit M3 und M3 Max",
       "teaser": "Apple hat seine Profi-Notebook-Reihe frisch aufgestellt: Wir haben das neue Basismodell mit M3 und das Spitzenmodell mit M3 Max ausführlich getestet.",
       "url": "https://www.heise.de/tests/Apple-MacBook-Pro-2023-mit-M3-und-M3-Max-im-Test-9354634.html",
@@ -236,6 +236,22 @@
       "title": "Angebot: 1 Jahr heise+ für 1,90 € pro Woche",
       "teaser": "1 Jahr heise+ zum Aktionspreis: Jetzt heise+ für nur 1,90 € pro Woche lesen und 1 Jahr lang geballtes, brandaktuelles IT- und Tech-Wissen sichern. Unbegrenzter Zugriff auf alle heise+ Beiträge inklusive der Inhalte aller Heise-Magazine. Nur für kurze Zeit!",
       "url": "https://shop.heise.de/heise+/jahresaboaktion?affiliateId=37304_HP000064_25195_3_57&wt_mc=intern.abo.plus.hp_2023_herbst.ho-advt.ad1.ad1"
+    },
+    {
+      "title": "\"Starfield\": Patch mit DLSS jetzt verfügbar",
+      "teaser": "Bethesda hat ein Update für \"Starfield\" veröffentlicht, das vor allem Besitzer einer Nvidia-Grafikkarte beglückt: Es kommt mit DLSS und mehr Performance.",
+      "url": "https://www.heise.de/news/Starfield-Patch-mit-DLSS-jetzt-verfuegbar-9534910.html"
+    },
+    {
+      "title": "Europäische Cloudplattform: Zweiter Katalog der GAIA-X-Dienste veröffentlicht",
+      "teaser": "Fast auf den Tag genau ein Jahr nach der ersten Fassung veröffentlicht die CISPE eine neue Version des Gaia-X-Cloud-Katalogs für die europäische Cloudplattform.",
+      "url": "https://www.heise.de/news/Zweiter-Katalog-der-GAIA-X-Dienste-veroeffentlicht-9534446.html",
+      "image_title": "Eu,Cloud,Project,,Data,Sovereignty,And,An,Alternative,Data,Infrastructure"
+    },
+    {
+      "title": "Video-Transkoder: Handbrake 1.7.0 nutzt hardwarebeschleunigte AV1-Encoder",
+      "teaser": "Die Entwickler haben dem Video-Transkoder Handbrake diverse Verbesserungen angedeihen lassen. Er kann jetzt hardwarebeschleunigtes AV1-Encoding.",
+      "url": "https://www.heise.de/news/Video-Transkoder-Handbrake-1-7-0-nutzt-hardwarebeschleunigte-AV1-Encoder-9534753.html"
     },
     {
       "title": "Softwarekonferenz: OOP 2024 will den Horizont für Softwarearchitekten erweitern",
@@ -292,6 +308,11 @@
       "url": "https://www.heise.de/news/Kollaborative-Arbeit-in-Microsoft-Teams-Webinare-fuer-effektive-Zusammenarbeit-9533532.html"
     },
     {
+      "title": "So geht Vaultless Secrets Management",
+      "teaser": "Wer mit DevOps arbeitet steht oft vor der gewaltigen Herausforderung, trotz regelmäßiger automatisierter Deployments verwendete „Secrets“, Zertifikate, Schlüssel und vieles mehr hinreichend zu verwalten und zu schützen. Wie das gelingen kann, demonstriert dieser Webcast.",
+      "url": "https://business-services.heise.de/security/security-management/beitrag/so-geht-vaultless-secrets-management-4628?source=hbsadersatz"
+    },
+    {
       "title": "Netzwerkspeicher geschickt aufrüsten und erweitern",
       "teaser": "NAS-Boxen leisten zwar jahrelang treue Dienste, einzelne Komponenten schwächeln aber irgendwann. Wir erklären, was sich leicht und schnell nachbessern lässt.",
       "url": "https://www.heise.de/ratgeber/Netzwerkspeicher-geschickt-aufruesten-und-erweitern-9354152.html"
@@ -306,11 +327,6 @@
       "title": "British Library: Wochenlanger Ausfall wegen Ransomware-Angriff",
       "teaser": "Eine Ransomware-Attacke hat die Webseite deer Britischen Bibliothek lahmgelegt. Interne Daten sind im Darkweb aufgetaucht und drohen \"versteigert\" zu werden.",
       "url": "https://www.heise.de/news/British-Library-Wochenlanger-Ausfall-wegen-Ransomware-Angriff-9534532.html"
-    },
-    {
-      "title": "Softwareentwicklung in D: Status Quo und Herausforderungen",
-      "teaser": "Optimale Softwareentwicklungsprozesse sind wichtig für den Erfolg Ihres Unternehmens. Worauf Sie achten sollten, wo Sie mit Verbesserungen ansetzen und schnelle Ergebnisse erzielen können, erfahren Sie im Webcast am 7.12. um 11:00 Uhr.",
-      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/softwareentwicklung-in-deutschland-status-quo-und-herausforderungen-4639/?source=hbsad_ersatz"
     },
     {
       "title": "Tether: 225 Millionen US-Dollar im Zusammenhang mit Menschenhandel eingefroren",
@@ -350,22 +366,6 @@
       "title": "Java 21 mit virtuellen Threads nun auch in Spring 6.1",
       "teaser": "Das Java-Ökosystem bewegt sich zügig in Richtung Java 21. Nun gibt es Updates für Spring 6.1 und Spring Data 2023.1.",
       "url": "https://www.heise.de/news/Spring-6-1-Die-neue-Version-bringt-Java-21-und-Virtual-Threads-9534258.html"
-    },
-    {
-      "title": "Lenovo Tab P12 im Test: Richtig gutes Android-Tablet mit 12,7 Zoll Display",
-      "teaser": "Das Lenovo Tab P12 bietet mit 12,7 Zoll viel Bildschirmfläche zu einem vergleichsweise schlanken Preis. Ob das Android-Tablet auch überzeugt, zeigt unser Test.",
-      "url": "https://www.techstage.de/test/lenovo-tab-p12-im-test-richtig-gutes-android-tablet-mit-127-zoll/kkckszx?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
-    },
-    {
-      "title": "​ Organspenden: Online-Register kommt 2024, Termin noch offen",
-      "teaser": "Das Organ- und Gewebespenderegister soll 2024 online gehen, doch viele Kliniken sind bislang nicht registriert. ​",
-      "url": "https://www.heise.de/news/Organspenden-Online-Register-kommt-2024-Termin-noch-offen-9534170.html",
-      "image_title": "Arzt mit Kühltasche"
-    },
-    {
-      "title": "Digitalisierung: Mehrheit der Bundesbürger bezweifelt gerechtere Bildung",
-      "teaser": "56 Prozent der Teilnehmer eines Bildungspanels sorgen sich, dass die stärkere technische Vernetzung privat und in der Arbeit soziale Ungleichheiten vergrößert.",
-      "url": "https://www.heise.de/news/Mehrheit-der-Bundesbuerger-Digitalisierung-macht-die-Bildung-nicht-gerechter-9534172.html"
     },
     {
       "title": "Hühnchen aus dem Labor im Michelin-Restaurant",
@@ -743,35 +743,35 @@
       "url": "https://www.techstage.de/bestenliste/top-8-die-besten-elektronischen-parkscheiben-mit-zulassung/98zgjxn?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
+      "title": "El Niño gestartet: Warum das nichts Gutes für die Welt bedeutet",
+      "teaser": "Energie und Klima – kompakt: Wichtige Wind- und Meeresströmungen ändern sich. Die Meteorologen warnen vor extremen Temperaturen, aber auch Unwettern. Warum ist das so?",
+      "url": "https://www.heise.de/tp/features/El-Nino-gestartet-Warum-das-nichts-Gutes-fuer-die-Welt-bedeutet-9207700.html"
+    },
+    {
       "title": "Elterngeld, Gesundheit und Pflege: Wo gestrichen wird und wo nicht",
       "teaser": "Die geplante Elterngeld-Streichung für Besserverdienende erhitzt die Gemüter. Über andere Haushaltsposten wird weniger gesprochen.",
       "url": "https://www.heise.de/tp/features/Elterngeld-Gesundheit-und-Pflege-Wo-gestrichen-wird-und-wo-nicht-9208202.html"
     },
     {
-      "title": "Le Pen: Mit ihr vergeht die deutsch-französische Freundschaft?",
-      "teaser": "Unruhen in Frankreich: Es wird wieder über das vorzeitige Ende der Regierung Macron spekuliert. Für Deutschland wären das keine guten Aussichten. Die Krisen-Gewinnerin will einen deutlichen Kurswechsel.",
-      "url": "https://www.heise.de/tp/features/Le-Pen-Mit-ihr-vergeht-die-deutsch-franzoesische-Freundschaft-9208505.html"
+      "title": "Debatte ums Elterngeld: Wie mit falschen Zahlen Stimmung gemacht wird",
+      "teaser": "Große Aufregung über die Pläne, das Elterngeld einzuschränken. Alle möglichen Argumente werden vorgetragen, doch einige sind nicht ganz richtig. Ein Faktencheck.",
+      "url": "https://www.heise.de/tp/features/Debatte-ums-Elterngeld-Wie-mit-falschen-Zahlen-Stimmung-gemacht-wird-9209177.html",
+      "image_title": "Falsche Zahlen in Debatte ums Elterngeld"
     },
     {
-      "title": "Gefährliche Stiche: Bringt der Klimawandel auch tropische Krankheiten?",
-      "teaser": "Steigende Temperaturen helfen der Asiatischen Tigermücke oder der Anopheles-Mücke, in Deutschland zu überwintern. Wann werden sie als Krankheitsüberträger gefährlich? Und was kann man tun?",
-      "url": "https://www.heise.de/tp/features/Gefaehrliche-Stiche-Bringt-der-Klimawandel-auch-tropische-Krankheiten-9207996.html"
+      "title": "Fotomesse: Das war die Photo+Adventure in Wien",
+      "teaser": "Die Messe Photo+Adventure für Fotografie und Reisen in Wien war ein Fotohighlight im Herbst. Markus Hofstätter war für c't Fotografie vor Ort und berichtet.",
+      "url": "https://www.heise.de/news/Das-war-die-Photo-Adventure-in-Wien-9440202.html"
     },
     {
-      "title": "25 Jahre Half-Life: Kostenloses Feature-Update zum Jubiläum",
-      "teaser": "Der First-Person-Shooter \"Half-Life\" wird 25 und Valve spendiert ein üppig ausgestattetes Jubiläumspaket. An diesem Wochenende bekommt man es sogar kostenlos.",
-      "url": "https://www.heise.de/news/25-Jahre-Half-Life-Kostenloses-Feature-Update-zum-Jubilaeum-9533113.html"
+      "title": "Playstation Portal ausprobiert: Was der Streaming-Handheld leistet",
+      "teaser": "Ein Handheld, das ausschließlich von der PS5 streamt: Wir haben Sonys Playstation Portal ausprobiert.",
+      "url": "https://www.heise.de/tests/Playstation-Portal-ausprobiert-Was-der-Streaming-Handheld-leistet-9444292.html"
     },
     {
-      "title": "\"Fortnite\"-Spieler können Trolle mit Sprachaufzeichnungen melden",
-      "teaser": "Epic Games ermöglicht es Nutzern künftig, Unruhestifter mit Aufzeichnungen des Voice Chats zu melden. Damit folgt Epic dem Beispiel anderer Spielefirmen.",
-      "url": "https://www.heise.de/news/Fortnite-Spieler-koennen-Trolle-mit-Sprachaufzeichnungen-melden-9529504.html"
-    },
-    {
-      "title": "Kommentar: Benzin im Ohr? Adieu, ihr lieben Achtzylinder",
-      "teaser": "Akustische Geschmacksverstärker sind kein guter Stil, setzen sich aber durch. Zeit, sich vom Verbrenner zu verabschieden, kommentiert Detlef Grell.",
-      "url": "https://www.heise.de/meinung/Kommentar-Akustische-Umweltverschmutzung-9529345.html",
-      "image_title": "Auspuffanlage"
+      "title": "Freie 3D-Software Blender 4.0: bessere Lichtsteuerung",
+      "teaser": "Blender 4.0 bringt neben neuen Geometry-Nodes auch Farbmanagement für HDR-Monitore. Die Render-Engine Cycles beschränkt Lichtquellen wahlweise auf Objekte.",
+      "url": "https://www.heise.de/news/Freie-3D-Software-Blender-4-0-bessere-Lichtsteuerung-9528978.html"
     },
     {
       "title": "VPN kostenlos: Das passende Gratis-VPN finden",
