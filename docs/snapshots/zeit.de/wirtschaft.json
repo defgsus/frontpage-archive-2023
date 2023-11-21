@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-21T08:15:46",
+  "timestamp": "2023-11-21T09:12:30",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Haushaltsurteil: Union fordert Stopp der Kindergrundsicherung",
+      "teaser": "Die Unionsfraktion will in Folge des Karlsruher Haushaltsurteils bei Sozialleistungen sparen. An geplanten Wirtschaftsförderungen müsse hingegen festgehalten werden.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/haushaltsurteil-cdu-fraktion-kindergrundsicherung",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/haushaltsurteil-cdu-fraktion-kindergrundsicherung-bild/cinema__980x420"
+    },
+    {
       "title": "Einzelhandel: Letzte Märkte der Supermarktkette Real sollen 2024 schließen",
       "teaser": "Die Supermarktkette Real steht vor dem Aus. Bis Ende März 2024 sollen die letzten Filialen geschlossen oder an die Konkurrenz übertragen werden.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/real-supermaerkte-einzelhandel-insolvenz",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/real-supermaerkte-einzelhandel-insolvenz-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/real-supermaerkte-einzelhandel-insolvenz-bild/wide__822x462",
+      "image_title": "Einzelhandel: Letzte Märkte der Supermarktkette Real sollen 2024 schließen"
     },
     {
       "title": "Stahlindustrie: Thyssenkrupp-Chef fordert von Olaf Scholz einen Transformationsgipfel",
@@ -54,15 +61,8 @@
       "title": "Klimafonds-Urteil: Wie die Bundesregierung ihre Finanzen retten könnte",
       "teaser": "Nach dem Urteil des Bundesverfassungsgerichts sucht die Ampel 60 Milliarden Euro. Fünf Möglichkeiten, wo sie herkommen könnten. Und woran sie scheitern könnten.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/klimafonds-urteil-bundesverfassungsgericht-finanzierung-sondervermoegen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/klimafonds-urteil-bundesverfassungsgericht-finanzierung-sondervermoegen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/klimafonds-urteil-bundesverfassungsgericht-finanzierung-sondervermoegen-bild/cinema__980x420",
       "image_title": "Klimafonds-Urteil: Wie die Bundesregierung ihre Finanzen retten könnte"
-    },
-    {
-      "title": "Asundexian: Bayer-Aktienkurs stürzt auf niedrigsten Wert seit mehr als 14 Jahren",
-      "teaser": "Der Pharmakonzern Bayer forscht an einem Nachfolger für den Gerinnungshemmer Xarelto. Nach dem Abbruch einer Studie zum Präparat Asundexian bricht der Aktienkurs ein.",
-      "url": "https://www.zeit.de/wirtschaft/boerse/2023-11/bayer-aktienkurs-xarelto-asundexian-abbruch-studie",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/bayer-aktienkurs-xarelto-asundexian-abbruch-studie-bild/cinema__980x420",
-      "image_title": "Asundexian: Bayer-Aktienkurs stürzt auf niedrigsten Wert seit mehr als 14 Jahren"
     },
     {
       "title": "AnzeigePUMA: Mit Workday zum Erfolg",
@@ -72,18 +72,18 @@
       "image_title": "PUMA: Mit Workday zum Erfolg"
     },
     {
+      "title": "Asundexian: Bayer-Aktienkurs stürzt auf niedrigsten Wert seit mehr als 14 Jahren",
+      "teaser": "Der Pharmakonzern Bayer forscht an einem Nachfolger für den Gerinnungshemmer Xarelto. Nach dem Abbruch einer Studie zum Präparat Asundexian bricht der Aktienkurs ein.",
+      "url": "https://www.zeit.de/wirtschaft/boerse/2023-11/bayer-aktienkurs-xarelto-asundexian-abbruch-studie",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/bayer-aktienkurs-xarelto-asundexian-abbruch-studie-bild/wide__822x462",
+      "image_title": "Asundexian: Bayer-Aktienkurs stürzt auf niedrigsten Wert seit mehr als 14 Jahren"
+    },
+    {
       "title": "Wohnungsbau: Ins Grüne geplant",
       "teaser": "Der Kanzler, die Ministerin, die Industrie – alle präsentieren neue Vorschläge für mehr Wohnungen. Noch aber werden so viele Aufträge storniert wie nie.",
       "url": "https://www.zeit.de/2023/48/wohnungsbau-auftraege-olaf-scholz-klara-geywitz",
       "image_url": "https://img.zeit.de/2023/48/wohnungsbau-auftraege-olaf-scholz-klara-geywitz-teaserbild/wide__822x462",
       "image_title": "Wohnungsbau: Ins Grüne geplant"
-    },
-    {
-      "title": "Energiepreisbremsen: Robert Habeck warnt nach Haushaltsurteil vor steigenden Energiepreisen",
-      "teaser": "Das Urteil gegen die Umwidmung von Budgets gefährde den Deckel für Strom- und Gaspreise, sagt der Bundeswirtschaftsminister. Die Verantwortung dafür trage die Union.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/habeck-urteil-haushalt-energiepreisbremse",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/habeck-urteil-haushalt-energiepreisbremse-bild/wide__822x462",
-      "image_title": "Energiepreisbremsen: Robert Habeck warnt nach Haushaltsurteil vor steigenden Energiepreisen"
     },
     {
       "title": "Statistisches Bundesamt: Deutsche Haushalte bezahlen einen der höchsten Strompreise Europas",
@@ -191,6 +191,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Energiepreisbremsen: Robert Habeck warnt nach Haushaltsurteil vor steigenden Energiepreisen",
+      "teaser": "Das Urteil gegen die Umwidmung von Budgets gefährde den Deckel für Strom- und Gaspreise, sagt der Bundeswirtschaftsminister. Die Verantwortung dafür trage die Union.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/habeck-urteil-haushalt-energiepreisbremse",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/habeck-urteil-haushalt-energiepreisbremse-bild/wide__822x462",
+      "image_title": "Energiepreisbremsen: Robert Habeck warnt nach Haushaltsurteil vor steigenden Energiepreisen"
+    },
+    {
       "title": "Statistisches Bundeamt: Herstellerpreise im Gewerbe sinken erneut deutlich",
       "teaser": "Im Oktober sind die Preise für Rohstoffe und Industrieerzeugnisse weiter zurückgegangen. Anders sieht es bei den Erzeugern vieler Nahrungsmittel aus.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/erzeugerpreise-gewerbliche-produkte-gesunken",
@@ -213,16 +220,16 @@
     },
     {
       "title": "Gasverbrauch: Energiewirtschaft fordert Bürger zum Sparen von Gas auf",
-      "teaser": "Trotz voller Speicher könnte das Gas in diesem Winter knapp werden, warnt der Branchenverband BDEW. Je niedriger der Verbrauch, umso höher sei die Energiesicherheit.",
+      "teaser": "Trotz voller Speicher könnte das Gas in diesem Winter knapp werden, warnt der Branchenverband BDEW. Je niedriger der Verbrauch, umso höher sei die Energiesicherheit. 382 Kommentare",
       "url": "https://www.zeit.de/wirtschaft/2023-11/gas-branchenverband-energiewirtschaft-gassparen",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/gas-branchenverband-energiewirtschaft-gassparen-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/gas-branchenverband-energiewirtschaft-gassparen-bild/cinema__980x420",
       "image_title": "Gasverbrauch: Energiewirtschaft fordert Bürger zum Sparen von Gas auf"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Datenanalyse: Wer in der Stadt lebt, gibt seine Wohnung so schnell nicht auf",
       "teaser": "Großstädter wollen zunehmend seltener ihre Bleibe wechseln: Daten zeigen, wo die Zahl der Umzüge abnimmt – und wo der Trend sich wieder etwas dreht.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/umzug-grossstaedte-berlin-rueckgang-statistik",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/umzug-grossstaedte-berlin-rueckgang-statistik-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/umzug-grossstaedte-berlin-rueckgang-statistik-bild/wide__822x462",
       "image_title": "Datenanalyse: Wer in der Stadt lebt, gibt seine Wohnung so schnell nicht auf"
     },
     {
@@ -231,13 +238,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-11/schuldenbremse-wirtschaftsweise-veronika-grimm-kritik",
       "image_url": "https://img.zeit.de/wirtschaft/2023-11/veronika-grimm-wirtschaftsweise/wide__822x462",
       "image_title": "Veronika Grimm : Wirtschaftsweise hält Schuldenbremsen-Stopp für nicht gerechtfertigt"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Aktien von Impfstoffherstellern: Der Absturz der Corona-Besieger",
-      "teaser": "Die Impfstoffhersteller waren die großen Gewinner der Corona-Pandemie. Doch ihr Geschäft ist drastisch eingebrochen. Sind BioNTech und Co mehr als ein \"one-trick pony\"?",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/biontech-aktien-corona-impfstoff-gewinn",
-      "image_url": "https://img.zeit.de/wirtschaft/boerse/2023-11/biontech-aktien-corona-impfstoff-gewinn-bild/wide__822x462",
-      "image_title": "Aktien von Impfstoffherstellern: Der Absturz der Corona-Besieger"
     },
     {
       "title": "US-Pharmakonzern: Eli Lilly plant Milliarden-Dollar-Fabrik in Rheinland-Pfalz",
