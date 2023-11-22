@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-22T09:11:59",
+  "timestamp": "2023-11-22T10:13:31",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.45ac1d4ca7f86fdc6916",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.499a27cfa85d9e3630ac",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Firefox, Thunderbird",
+      "url": "https://www.heise.de/news/Mozilla-baut-Datenschutz-und-Sicherheit-von-Firefox-und-Thunderbird-aus-9535810.html"
+    },
     {
       "title": "KI-Tools Ray, MLflow und H2O",
       "url": "https://www.heise.de/news/Sicherheitsforscher-finden-kritische-Fehler-in-KI-Werkzeugen-Ray-MLflow-und-H2O-9534429.html"
@@ -44,14 +48,9 @@
       "url": "https://www.heise.de/news/Updates-fuer-Trellix-ePolicy-Orchestrator-schliessen-Sicherheitsluecken-9533816.html"
     },
     {
-      "title": "Splunk",
-      "url": "https://www.heise.de/news/Code-Schmuggel-Neue-Splunk-Versionen-beheben-Sicherheitsluecken-9533636.html"
-    },
-    {
-      "title": "Cyberangriff in Südwestfalen: Zeitplan für Notbetrieb und Wiederanlauf steht",
-      "teaser": "Kommunen können wichtige Dienstleistungen noch vor dem Jahreswechsel wieder erbringen. Unterstützung beim Wiederaufbau kommt aus Ostwestfalen.",
-      "url": "https://www.heise.de/news/Cyberangriff-in-Suedwestfalen-Zeitplan-fuer-Notbetrieb-und-Wiederanlauf-steht-9535521.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
+      "title": "Mozilla baut Datenschutz und Sicherheit von Firefox und Thunderbird aus",
+      "teaser": "Durch Schwachstellen in Mozillas Mailclient und Webbbrowser kann Schadcode schlüpfen. Außerdem wurde der Datenschutz verbessert.",
+      "url": "https://www.heise.de/news/Mozilla-baut-Datenschutz-und-Sicherheit-von-Firefox-und-Thunderbird-aus-9535810.html"
     },
     {
       "title": "Türkei: Datenhehler veröffentlichen Millionen Impfdaten frei im Breachforums",
@@ -64,6 +63,12 @@
       "teaser": "Router und smarte Geräte bringen das Internet of Things mit seinen Risiken in Privathaushalte. Das IT-Sicherheitskennzeichen soll für mehr Sicherheit sorgen.",
       "url": "https://www.heise.de/news/BSI-wirbt-fuer-sein-IT-Sicherheitskennzeichen-9535149.html",
       "image_title": "BSI-Werbung"
+    },
+    {
+      "title": "Sicherheitsforscher finden kritische Fehler in KI-Werkzeugen Ray, MLflow und H2O",
+      "teaser": "Die beliebten Werkzeuge für KI-Anwendungen leiden unter Codeschmuggel, illegitimen Dateimanipulationen und anderen Bugs. Nicht immer sind Updates verfügbar.",
+      "url": "https://www.heise.de/news/Sicherheitsforscher-finden-kritische-Fehler-in-KI-Werkzeugen-Ray-MLflow-und-H2O-9534429.html",
+      "image_title": "Hacker,Artificial,Intelligence,Robot,Danger,Dark,Face.,Cyborg,Binary,Code"
     },
     {
       "title": "Synology schließt kritische Firmware-Lücke in Überwachungskameras",
@@ -152,11 +157,6 @@
       "title": "Reptar: Sicherheitslücke in Intel-CPUs bedroht Cloud-Server",
       "teaser": "Angreifer, die eine virtuelle Maschine auf einem Host mit Intel-CPU kontrollieren, können diesen unter Umständen zum Stillstand bringen. Intel flickt die Lücke.",
       "url": "https://www.heise.de/news/Reptar-Sicherheitsluecke-in-Intel-CPUs-bedroht-Cloud-Server-9530764.html"
-    },
-    {
-      "title": "Stark gegen Hacker mit den iX-Workshops",
-      "teaser": "Cyberkriminelle werden immer raffinierter und Angriffe immer ausgefeilter. Darum sind Weiterbildungen für IT-Professionals im Bereich IT-Security unverzichtbar.",
-      "url": "https://www.heise.de/news/Stark-gegen-Hacker-mit-den-iX-Workshops-9529549.html"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
