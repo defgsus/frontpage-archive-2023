@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-23T13:14:20",
+  "timestamp": "2023-11-23T14:10:49",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Nextcloud und Owncloud",
+      "url": "https://www.heise.de/news/Cloud-Computing-Software-ownCloud-und-Nextcloud-angreifbar-9537650.html"
+    },
+    {
       "title": "Atlassian",
       "url": "https://www.heise.de/news/Atlassian-ruestet-Jira-Data-Center-and-Server-Co-gegen-moegliche-Attacken-9537138.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsforscher-finden-kritische-Fehler-in-KI-Werkzeugen-Ray-MLflow-und-H2O-9534429.html"
     },
     {
-      "title": "Synology-Überwachungskameras",
-      "url": "https://www.heise.de/news/Synology-schliesst-kritische-Firmware-Luecke-in-Ueberwachungskameras-9534072.html"
+      "title": "Cloud-Computing-Software ownCloud und Nextcloud angreifbar",
+      "teaser": "Angreifer können unbefugt auf Dateien auf Nextcloud- und ownCloud-Servern zugreifen. Sicherheitsupdates und Workarounds schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Cloud-Computing-Software-ownCloud-und-Nextcloud-angreifbar-9537650.html"
     },
     {
       "title": "Atlassian rüstet Jira Data Center and Server & Co. gegen mögliche Attacken",
@@ -153,12 +158,6 @@
       "teaser": "Noch immer herrscht in kommunalen Verwaltungen Südwestfalens das Chaos. Manche Städte bangen um ihre Liquidität, anderswo werden erste Schäden repariert.",
       "url": "https://www.heise.de/news/Cyberangriff-auf-Suedwestfalen-IT-Mehr-Kommunen-betroffen-Notbetrieb-haelt-an-9532453.html",
       "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
-    },
-    {
-      "title": "Anonymisierendes Linux: Tails 5.19.1 behebt Tor-Lücke, Audit-Ergebnisse sind da",
-      "teaser": "Ein offenbar aus der Ferne ausnutzbarer Bug in Tor führte zum neuerlichen Update. Die Ergebnisse der kürzlichen Sicherheitsprüfung hingegen sind positiv.",
-      "url": "https://www.heise.de/news/Anonymisierendes-Linux-Tails-5-19-1-behebt-Tor-Luecke-Audit-Ergebnisse-sind-da-9532403.html",
-      "image_title": "Im Netz"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
