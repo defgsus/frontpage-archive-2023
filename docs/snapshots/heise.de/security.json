@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-24T10:12:40",
+  "timestamp": "2023-11-24T11:09:46",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Foxit PDF",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Foxit-PDF-unter-macOS-und-Windows-verwundbar-9538593.html"
+    },
+    {
       "title": "Nextcloud und Owncloud",
       "url": "https://www.heise.de/news/Cloud-Computing-Software-ownCloud-und-Nextcloud-angreifbar-9537650.html"
     },
@@ -44,11 +48,17 @@
       "url": "https://www.heise.de/news/Mozilla-baut-Datenschutz-und-Sicherheit-von-Firefox-und-Thunderbird-aus-9535810.html"
     },
     {
-      "title": "KI-Tools Ray, MLflow und H2O",
-      "url": "https://www.heise.de/news/Sicherheitsforscher-finden-kritische-Fehler-in-KI-Werkzeugen-Ray-MLflow-und-H2O-9534429.html"
+      "title": "OpenSSL 3.2 implementiert TCP-Nachfolger QUIC",
+      "teaser": "Das Transportprotokoll QUIC nimmt mit OpenSSL Fahrt auf: Die Open-Source-Kryptobibliothek implementiert es in der neuen Version 3.2 – zumindest teilweise.",
+      "url": "https://www.heise.de/news/QUIC-kommt-an-OpenSSL-3-2-bringt-erste-Implementierung-9538866.html"
     },
     {
-      "title": "Betrugsmasche: LKA Niedersachsen warnt vor falschen Temu-Liefernachrichten",
+      "title": "Sicherheitsupdates: Foxit PDF unter macOS und Windows verwundbar",
+      "teaser": "Die Entwickler haben in aktuellen Versionen von Foxit PDF Reader und PDF Editor mehrere Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdates-Foxit-PDF-unter-macOS-und-Windows-verwundbar-9538593.html"
+    },
+    {
+      "title": "LKA Niedersachsen: Warnung vor gefälschten Temu-Lieferbenachrichtigungen",
       "teaser": "Das LKA Niedersachsen beobachtet ein wachsendes Aufkommen von gefälschten Lieferbenachrichtigungen auch von Temu. Ziel ist vermutlich Phishing.",
       "url": "https://www.heise.de/news/Betrugsmasche-LKA-Niedersachsen-warnt-vor-falschen-Temu-Liefernachrichten-9538601.html",
       "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
@@ -146,17 +156,6 @@
       "title": "Sicherheitsupdates: Juniper Secure Analytics ist angreifbar",
       "teaser": "Angreifer können Lücken in Junipers SIEM-Lösung als Sprungbrett ausnutzen und sich zum Root-Nutzer machen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Juniper-Secure-Analytics-ist-angreifbar-9533598.html"
-    },
-    {
-      "title": "US-Urteil: Wirecard-Auftragshacker zu 80 Monaten Gefängnis verurteilt",
-      "teaser": "Ein israelischer Detektiv hat US-Behörden zufolge eine internationale Phishing-Operation für Kunden wie Wirecard geleitet und 4,8 Millionen Dollar eingesackt.",
-      "url": "https://www.heise.de/news/US-Urteil-Wirecard-Auftragshacker-zu-80-Monaten-Gefaengnis-verurteilt-9533241.html"
-    },
-    {
-      "title": "Linux-Kernel 6.6 bekommt drei Jahre Langzeitunterstützung",
-      "teaser": "Der kürzlich erschienene Linux-Kernel 6.6 erhält Long Term Support. Mit dem LTS-Status wird er von den Kernel-Maintainern drei Jahre unterstützt.",
-      "url": "https://www.heise.de/news/Linux-Kernel-6-6-bekommt-drei-Jahre-Langzeitunterstuetzung-9532885.html",
-      "image_title": "Linux Kernel 5.1"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
