@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-24T11:09:46",
+  "timestamp": "2023-11-24T12:21:22",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Synology SRM",
+      "url": "https://www.heise.de/news/Synology-schliesst-Pwn2Own-Luecke-in-Router-Manager-Firmware-9538922.html"
+    },
+    {
       "title": "Foxit PDF",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Foxit-PDF-unter-macOS-und-Windows-verwundbar-9538593.html"
     },
@@ -42,10 +46,6 @@
     {
       "title": "Atlassian",
       "url": "https://www.heise.de/news/Atlassian-ruestet-Jira-Data-Center-and-Server-Co-gegen-moegliche-Attacken-9537138.html"
-    },
-    {
-      "title": "Firefox, Thunderbird",
-      "url": "https://www.heise.de/news/Mozilla-baut-Datenschutz-und-Sicherheit-von-Firefox-und-Thunderbird-aus-9535810.html"
     },
     {
       "title": "OpenSSL 3.2 implementiert TCP-Nachfolger QUIC",
@@ -73,6 +73,16 @@
       "teaser": "Institutionen der EU und der Mitgliedsstaaten testeten bei \"Elex 23\" Krisenpläne und Reaktionen auf potenzielle Cybersicherheitsvorfälle rund um die Europawahl.",
       "url": "https://www.heise.de/news/Hybride-Bedrohungen-EU-Cybersicherheitsuebung-zum-Schutz-von-Wahlen-9538495.html",
       "image_title": "Business-Team arbeitet mit künstlicher Intelligenz am Computer. Eher eine abstrakte Darstellung."
+    },
+    {
+      "title": "Cloud-Computing-Software ownCloud und Nextcloud angreifbar",
+      "teaser": "Angreifer können unbefugt auf Dateien auf Nextcloud- und ownCloud-Servern zugreifen. Sicherheitsupdates und Workarounds schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Cloud-Computing-Software-ownCloud-und-Nextcloud-angreifbar-9537650.html"
+    },
+    {
+      "title": "Windows Hello: Sicherheitsforscher fälschen Fingerabdruck mit Raspberry Pi 4",
+      "teaser": "Einige Fingerabdrucksensoren von Windows-PCs sind unsicher. Forscher konnten die Authentifizierung umgehen und sich als andere Nutzer anmelden.",
+      "url": "https://www.heise.de/news/Windows-Hello-Sicherheitsforscher-faelschen-Fingerabdruck-mit-Raspberry-Pi-4-9537812.html"
     },
     {
       "title": "Atlassian rüstet Jira Data Center and Server & Co. gegen mögliche Attacken",
@@ -146,16 +156,6 @@
       "teaser": "An insgesamt vier Terminen können Interessenten sich in die Schlange am virtuellen Kartenschalter einreihen. Die Eintrittspreise sind gegenüber 2019 gestiegen.",
       "url": "https://www.heise.de/news/Hacker-Kongress-37C3-Ticketpreise-und-Vorverkaufstermine-stehen-fest-9533825.html",
       "image_title": "CCC"
-    },
-    {
-      "title": "Code-Schmuggel: Neue Splunk-Versionen beheben Sicherheitslücken",
-      "teaser": "Unsichere XML-Verarbeitung und ungenügende Prüfung von Logeinträgen ermöglichten Angreifern, eigenen Code in Splunk-Produkte zu schleusen.",
-      "url": "https://www.heise.de/news/Code-Schmuggel-Neue-Splunk-Versionen-beheben-Sicherheitsluecken-9533636.html"
-    },
-    {
-      "title": "Sicherheitsupdates: Juniper Secure Analytics ist angreifbar",
-      "teaser": "Angreifer können Lücken in Junipers SIEM-Lösung als Sprungbrett ausnutzen und sich zum Root-Nutzer machen.",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Juniper-Secure-Analytics-ist-angreifbar-9533598.html"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
