@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-26T14:09:23",
+  "timestamp": "2023-11-26T15:10:38",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.2db23f13769cd2856187.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -56,17 +62,10 @@
   ],
   "articles": [
     {
-      "title": "Deutsche Post: Briefe? Sowas von Neunziger!",
-      "teaser": "Wer schreibt noch Briefe? Ämter, Gerichte, Inkassofirmen. Ankommen müssen sie trotzdem. Die Last bleibt bei den Zustellern hängen. Jetzt plant die Regierung eine Reform.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/deutsche-post-zustellung-briefe",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutsche-post-zustellung-briefe-bild/cinema__980x420"
-    },
-    {
-      "title": "Naher Osten: Hamas lässt weitere Geiseln frei",
-      "teaser": "Nach einer Verzögerung sind in der Nacht 17 weitere Geiseln freigelassen worden. Die Hamas warf Israel Verstöße gegen das Geiselabkommen vor.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel-bild/wide__822x462",
-      "image_title": "Naher Osten: Hamas lässt weitere Geiseln frei"
+      "title": "Z+ (abopflichtiger Inhalt); Toto Wolff: Auf Speed",
+      "teaser": "Alles an der Formel 1 ist unzeitgemäß. Trotzdem ist die Rennserie so erfolgreich wie nie. Das liegt an Menschen wie Toto Wolff. Über einen Mann, der nicht zu bremsen ist",
+      "url": "https://www.zeit.de/2023/49/toto-wolff-formel-1-motorsport-mercedes",
+      "image_url": "https://img.zeit.de/2023/49/toto-wolff-formel-1-teaser/cinema__980x420"
     },
     {
       "title": "Liveblog: Krieg in Israel und Gaza: Hilfsgüter erreichen nördlichen Gazastreifen",
@@ -74,6 +73,20 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news",
       "image_url": "https://img.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news-bild-15/wide__822x462",
       "image_title": "Krieg in Israel und Gaza: Hilfsgüter erreichen nördlichen Gazastreifen"
+    },
+    {
+      "title": "Frieden in Nahost: Ein Staat, zwei Staaten, Konföderation?",
+      "teaser": "Eine Einigung zwischen Israel und den Palästinensern scheint momentan unmöglich. Wie es nach dem Krieg weitergehen könnte, und welche Lösungsansätze realistisch sind.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/nahost-konflikt-einigung-loesungsansaetze-israel-palaestinenser",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/thumbnail-gaza-video-neu/wide__822x462",
+      "image_title": "Frieden in Nahost: Ein Staat, zwei Staaten, Konföderation?"
+    },
+    {
+      "title": "Europawahl: Grünen-Parteitag stimmt für Reintke als europäische Spitzenkandidatin",
+      "teaser": "Auf ihrem Parteitag haben die Grünen ein Wahlprogramm für die Europawahl beschlossen. Die Spitzenkandidatin Terry Reintke soll auch die Liste der EU-Grünen anführen.",
+      "url": "https://www.zeit.de/politik/2023-11/gruene-parteitag-europawahl-programm-reintke",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/gruene-parteitag-europawahl-programm-reintke-bild/wide__822x462",
+      "image_title": "Europawahl: Grünen-Parteitag stimmt für Reintke als europäische Spitzenkandidatin"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); GraphCast: Diese KI trifft bessere Wettervorhersagen als ein Supercomputer",
@@ -88,6 +101,13 @@
       "url": "https://www.zeit.de/kultur/film/2023-11/wetten-dass-letzte-show-thomas-gottschalk-zdf",
       "image_url": "https://img.zeit.de/kultur/film/2023-11/gottschalk/wide__822x462",
       "image_title": "\"Wetten, dass...?\": Weggebaggert"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Deutsche Post: Briefe? Sowas von Neunziger!",
+      "teaser": "Wer schreibt noch Briefe? Ämter, Gerichte, Inkassofirmen. Ankommen müssen sie trotzdem. Die Last bleibt bei den Zustellern hängen. Jetzt plant die Regierung eine Reform.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/deutsche-post-zustellung-briefe",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutsche-post-zustellung-briefe-bild/wide__822x462",
+      "image_title": "Deutsche Post: Briefe? Sowas von Neunziger!"
     },
     {
       "title": "Ausgabe 47/2023: Blaupause. Willkommen im Wochenende.",
@@ -153,17 +173,10 @@
     },
     {
       "title": "Papst Franziskus: Papst sagt Audienzen wegen Lungenentzündung ab",
-      "teaser": "Papst Franziskus ist offenbar schwerer erkrankt, als bisher angenommen. Für das Angelus-Gebet zeigte er sich nicht wie üblich am Fenster über dem Petersdom.",
+      "teaser": "Papst Franziskus ist offenbar schwerer erkrankt als bisher angenommen. Für das Angelus-Gebet zeigte er sich nicht wie üblich am Fenster über dem Petersdom.",
       "url": "https://www.zeit.de/gesellschaft/2023-11/papst-franziskus-krankheit-vatikan",
       "image_url": "https://img.zeit.de/gesellschaft/2023-11/papst-franziskus-krankheit-vatikan-bild/wide__822x462",
       "image_title": "Papst Franziskus: Papst sagt Audienzen wegen Lungenentzündung ab"
-    },
-    {
-      "title": "Bundesliga: Nenad Bjelica ist neuer Cheftrainer von Union Berlin",
-      "teaser": "Auf Urs Fischer folgt bei Union Berlin Nenad Bjelica. Der Kroate spielte als Profi in der Bundesliga und sammelte als Trainer auch in der Champions League Erfahrung.",
-      "url": "https://www.zeit.de/sport/2023-11/union-berlin-neuer-trainer-bjelica",
-      "image_url": "https://img.zeit.de/sport/2023-11/union-berlin-neuer-trainer-bjelica-bild/wide__822x462",
-      "image_title": "Bundesliga: Nenad Bjelica ist neuer Cheftrainer von Union Berlin"
     },
     {
       "title": "Hubertus Heil: \"Man sollte den anderen nicht für blöd halten\"",
@@ -173,10 +186,31 @@
       "image_title": "Hubertus Heil: \"Man sollte den anderen nicht für blöd halten\""
     },
     {
+      "title": "Bundesliga: Nenad Bjelica ist neuer Cheftrainer von Union Berlin",
+      "teaser": "Auf Urs Fischer folgt bei Union Berlin Nenad Bjelica. Der Kroate spielte als Profi in der Bundesliga und sammelte als Trainer auch in der Champions League Erfahrung.",
+      "url": "https://www.zeit.de/sport/2023-11/union-berlin-neuer-trainer-bjelica",
+      "image_url": "https://img.zeit.de/sport/2023-11/union-berlin-neuer-trainer-bjelica-bild/wide__822x462",
+      "image_title": "Bundesliga: Nenad Bjelica ist neuer Cheftrainer von Union Berlin"
+    },
+    {
       "title": "Politik : Kassensturz",
       "teaser": "Wenn der Regierung plötzlich 60 Milliarden fehlen oder noch viel mehr: Was kann sich das Land jetzt noch leisten? Und was sagt der Erfinder der Schuldenbremse dazu?",
       "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
       "image_url": "https://img.zeit.de/2023/49/packshot-23-49-1000x620.jpg/imagegroup/original__1000x620"
+    },
+    {
+      "title": "Südkorea, Japan und China: Dreiergipfel soll angespannte Lage in Ostasien beruhigen",
+      "teaser": "Angesichts wachsender Konflikte in der Region planen Südkorea, Japan und China ein Treffen ihrer Staats- und Regierungschefs. Es wäre das erste Mal seit 2019.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/suedkorea-japan-china-dreiergipfel-nordkorea",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/japan-suedkorea-china-dreiergipfel-treffen-bild/wide__822x462",
+      "image_title": "Südkorea, Japan und China: Dreiergipfel soll angespannte Lage in Ostasien beruhigen"
+    },
+    {
+      "title": "Automobilwirtschaft: Bündnis fordert Neuausrichtung deutscher Autoindustrie",
+      "teaser": "Kleinere, bezahlbare Autos mit Elektroantrieb – das fordert das Bündnis sozialverträgliche Mobilitätswende. Zu einem Spitzentreffen im Kanzleramt ist es nicht geladen.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/deutschland-auto-industrie-neuausrichtung-gewerkschaft",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutschland-auto-industrie-neuausrichtung-gewerkschaft-bild/wide__822x462",
+      "image_title": "Automobilwirtschaft: Bündnis fordert Neuausrichtung deutscher Autoindustrie"
     },
     {
       "title": "\"Kanzlerfotograf\": Konrad R. Müller mit 83 Jahren gestorben",
@@ -242,6 +276,30 @@
       "image_title": "Abnehmen durch Ernährung : Die Haferflocken-Verschwörung"
     },
     {
+      "title": "Gewerkschaft: Ver.di verzeichnet größten Mitgliederzuwachs seit Gründung",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/deutschland-gewerkschaft-verdi-zuwachs-mitglieder",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-11/deutschland-gewerkschaft-verdi-zuwachs-mitglieder-bild/wide__822x462",
+      "image_title": "Gewerkschaft: Ver.di verzeichnet größten Mitgliederzuwachs seit Gründung"
+    },
+    {
+      "title": "Südkorea, Japan und China: Dreiergipfel soll angespannte Lage in Ostasien beruhigen",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/suedkorea-japan-china-dreiergipfel-nordkorea",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/japan-suedkorea-china-dreiergipfel-treffen-bild/wide__822x462",
+      "image_title": "Südkorea, Japan und China: Dreiergipfel soll angespannte Lage in Ostasien beruhigen"
+    },
+    {
+      "title": "Europawahl: Grünen-Parteitag stimmt für Reintke als europäische Spitzenkandidatin",
+      "url": "https://www.zeit.de/politik/2023-11/gruene-parteitag-europawahl-programm-reintke",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/gruene-parteitag-europawahl-programm-reintke-bild/wide__822x462",
+      "image_title": "Europawahl: Grünen-Parteitag stimmt für Reintke als europäische Spitzenkandidatin"
+    },
+    {
+      "title": "Automobilwirtschaft: Bündnis fordert Neuausrichtung deutscher Autoindustrie",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/deutschland-auto-industrie-neuausrichtung-gewerkschaft",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutschland-auto-industrie-neuausrichtung-gewerkschaft-bild/wide__822x462",
+      "image_title": "Automobilwirtschaft: Bündnis fordert Neuausrichtung deutscher Autoindustrie"
+    },
+    {
       "title": "Papst Franziskus: Papst sagt Audienzen wegen Lungenentzündung ab",
       "url": "https://www.zeit.de/gesellschaft/2023-11/papst-franziskus-krankheit-vatikan",
       "image_url": "https://img.zeit.de/gesellschaft/2023-11/papst-franziskus-krankheit-vatikan-bild/wide__822x462",
@@ -264,30 +322,6 @@
       "url": "https://www.zeit.de/gesellschaft/2023-11/konrad-rufus-mueller-kanzlerfotograf-tod",
       "image_url": "https://img.zeit.de/kultur/2023-11/konrad-rufus-mueller-verstorben-83-jahren-bild/wide__822x462",
       "image_title": "\"Kanzlerfotograf\": Konrad R. Müller mit 83 Jahren gestorben"
-    },
-    {
-      "title": "Eisberg A23a: 4.000 Quadratkilometer großer Eisberg treibt Richtung Südgeorgien",
-      "url": "https://www.zeit.de/wissen/2023-11/eisberg-a23a-bewegung-suedgeorgien",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-11/weltgroesster-eisberg-driftet-antarktis-bewegung-bild/wide__822x462",
-      "image_title": "Eisberg A23a: 4.000 Quadratkilometer großer Eisberg treibt Richtung Südgeorgien"
-    },
-    {
-      "title": "Großbritannien: Britische Regierung kündigt Milliardeninvestition in die Industrie an",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/grossbritannien-wirtschaft-investition-milliarden-sunak",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/grossbritannien-wirtschaft-investition-milliarden-sunak-bild/wide__822x462",
-      "image_title": "Großbritannien: Britische Regierung kündigt Milliardeninvestition in die Industrie an"
-    },
-    {
-      "title": "Femizide: Zehntausende demonstrieren weltweit gegen Gewalt an Frauen",
-      "url": "https://www.zeit.de/gesellschaft/2023-11/femizide-gewalt-frauen-maedchen-protest-rom-buenos-aires-frankreich",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-11/protest-gegen-gewalt-gegen-frauen-in-rom/wide__822x462",
-      "image_title": "Femizide: Zehntausende demonstrieren weltweit gegen Gewalt an Frauen"
-    },
-    {
-      "title": "Klimapolitik: Arbeitgeber fordern Rücknahme von Klimazielen",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/klimapolitik-arbeitgeber-rainer-dulger-bda",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/klimapolitik-arbeitgeber-rainer-dulger-bda-bild/wide__822x462",
-      "image_title": "Klimapolitik: Arbeitgeber fordern Rücknahme von Klimazielen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Produktivität steigern • Das Beste aus Z+: In weniger Zeit mehr schaffen",
@@ -431,10 +465,17 @@
       "url": "https://www.zeit.de/kultur/film/2023-11/wetten-dass-letzte-show-thomas-gottschalk-zdf"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Eltern-Kind-Kur: \"Ich habe mich geschämt dafür, dass ich so kaputt bin\"",
+      "teaser": "Belastete Eltern können Kuren mit ihren Kindern beantragen. Doch lohnt sich das auch? Drei Mütter und ein Vater berichten von ihren Erfahrungen.",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-11/eltern-kind-kur-muetter-vaeter-erfahrung",
+      "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-11/eltern-kind-kur-muetter-vaeter/cinema__980x420",
+      "image_title": "Eltern-Kind-Kur: \"Ich habe mich geschämt dafür, dass ich so kaputt bin\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Grünen-Parteitag: Eine Warnung für die Parteispitze",
       "teaser": "Beim Thema Asyl wird es auf dem Grünen-Parteitag emotional, in der Debatte geht es um mehr als Sachpolitik. Robert Habeck sieht sich zu einem Versprechen genötigt.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/gruene-parteitag-migration-robert-habeck-gruene-jugend",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/gruene-parteitag-migration-robert-habeck-gruene-jugend-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/gruene-parteitag-migration-robert-habeck-gruene-jugend-bild/wide__822x462",
       "image_title": "Grünen-Parteitag: Eine Warnung für die Parteispitze"
     },
     {
@@ -443,13 +484,6 @@
       "url": "https://www.zeit.de/arbeit/2023-11/kaufmaennischer-leiter-ausbildung-studium-kontoauszug",
       "image_url": "https://img.zeit.de/arbeit/2023-11/leiter/wide__822x462",
       "image_title": "Kaufmännischer Leiter : \"Ich habe im vergangenen Jahr fast 15.000 Euro im Monat verdient\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Napoleon\": Wir müden Europäer",
-      "teaser": "Ridley Scotts Monumentalverfilmung \"Napoleon\" erzählt davon, wie der Kontinent im Krieg geboren wurde. Die Wahl in den Niederlanden zeigt, wie er wieder zerfallen könnte.",
-      "url": "https://www.zeit.de/kultur/2023-11/napoleon-ridley-scott-geschichte-genauigkeit",
-      "image_url": "https://img.zeit.de/kultur/2023-11/napoleon-essay-diez-bild/wide__822x462",
-      "image_title": "\"Napoleon\": Wir müden Europäer"
     },
     {
       "title": "Verlagsangebot: 10 besondere Weihnachtsmärkte in Deutschland",
@@ -537,10 +571,17 @@
       "image_title": "\"Was jetzt? – Die Woche\": Was läuft schief in der Migrationspolitik?"
     },
     {
+      "title": "Naher Osten: Hamas lässt weitere Geiseln frei",
+      "teaser": "Nach einer Verzögerung sind in der Nacht 17 weitere Geiseln freigelassen worden. Die Hamas warf Israel Verstöße gegen das Geiselabkommen vor. 151 Kommentare",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel-bild/cinema__980x420",
+      "image_title": "Naher Osten: Hamas lässt weitere Geiseln frei"
+    },
+    {
       "title": "Nachrichtenpodcast: Olaf Scholz, der Finanzcrack?",
       "teaser": "Die Haushaltskrise hat sich die Ampelregierung selbst eingebrockt – allen voran der Kanzler. Ist sein Ruf jetzt ruiniert? Und: vermehrt Lungenentzündungen in China",
       "url": "https://www.zeit.de/politik/2023-11/haushaltskrise-olaf-scholz-schuldenbremse-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Olaf Scholz, der Finanzcrack?"
     },
     {
@@ -549,13 +590,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/menschenrechte-iran-hinrichtung-17-jaehriger",
       "image_url": "https://img.zeit.de/politik/ausland/2023-11/iran-hinrichtung-minderjaehriger/wide__822x462",
       "image_title": "Menschenrechte: Iran richtet 17-Jährigen hin"
-    },
-    {
-      "title": "Aufenthaltsgesetz: Bundesregierung beschwichtigt Seenotrettungs-Organisationen",
-      "teaser": "Das Innenministerium betont, die Seenotrettung nicht kriminalisieren zu wollen. Kritiker befürchten, eine Änderung des Aufenthaltsgesetzes könnte genau dazu führen.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/aufenthaltsgesetz-kriminalisierung-seenotrettung-bundesregierung-linke-anfrage",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/seenotrettung-im-mittelmeer/wide__822x462",
-      "image_title": "Aufenthaltsgesetz: Bundesregierung beschwichtigt Seenotrettungs-Organisationen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sexueller Missbrauch: \"Ich weiß, wie viel Mut es braucht\"",
@@ -579,10 +613,17 @@
       "image_title": "Erinnerungskultur: Jäger der Verlogenheit"
     },
     {
+      "title": "Gewerkschaft: Ver.di verzeichnet größten Mitgliederzuwachs seit Gründung",
+      "teaser": "Immer mehr Menschen treten in Gewerkschaften ein. Gründe seien finanzielle Sorgen – und ein wachsendes Selbstbewusstsein, sagt der ver.di-Vorsitzende Frank Werneke.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/deutschland-gewerkschaft-verdi-zuwachs-mitglieder",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-11/deutschland-gewerkschaft-verdi-zuwachs-mitglieder-bild/cinema__980x420",
+      "image_title": "Gewerkschaft: Ver.di verzeichnet größten Mitgliederzuwachs seit Gründung"
+    },
+    {
       "title": "Großbritannien: Britische Regierung kündigt Milliardeninvestition in die Industrie an",
-      "teaser": "Großbritannien will mehr als fünf Milliarden Euro in die eigene Industrie investieren. Mehr als die Hälfte soll in grüne Automobilität, Luftverkehr und Raumfahrt fließen. 101 Kommentare",
+      "teaser": "Großbritannien will mehr als fünf Milliarden Euro in die eigene Industrie investieren. Mehr als die Hälfte soll in grüne Automobilität, Luftverkehr und Raumfahrt fließen.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/grossbritannien-wirtschaft-investition-milliarden-sunak",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/grossbritannien-wirtschaft-investition-milliarden-sunak-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/grossbritannien-wirtschaft-investition-milliarden-sunak-bild/wide__822x462",
       "image_title": "Großbritannien: Britische Regierung kündigt Milliardeninvestition in die Industrie an"
     },
     {
@@ -591,13 +632,6 @@
       "url": "https://www.zeit.de/wirtschaft/2023-11/klimapolitik-arbeitgeber-rainer-dulger-bda",
       "image_url": "https://img.zeit.de/wirtschaft/2023-11/klimapolitik-arbeitgeber-rainer-dulger-bda-bild/wide__822x462",
       "image_title": "Klimapolitik: Arbeitgeber fordern Rücknahme von Klimazielen"
-    },
-    {
-      "title": "Energiepreisbremse: SPD-Politiker und DGB lehnen Auslaufen der Energiepreisbremsen ab",
-      "teaser": "Das Ende der Maßnahmen zum Jahresende müsse politisch noch verhandelt werden, fordert SPD-Generalsekretär Kevin Kühnert. Die Bürger bräuchten auch weiter Entlastung.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/energiepreisbremse-kevin-kuehnert-dgb",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/energiepreisbremse-bild/wide__822x462",
-      "image_title": "Energiepreisbremse: SPD-Politiker und DGB lehnen Auslaufen der Energiepreisbremsen ab"
     },
     {
       "title": "WirtschaftsWocheExodus der Werbekunden: „Twitter passt nicht mehr zu unserer Unternehmenskultur“",
@@ -642,11 +676,11 @@
       "image_title": "Therapie: \"Geld? Liebe? Arbeit? Bei mir ist das alles das Gleiche.\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Protest im Iran: \"Iranische Frauen sind generell anstrengend\"",
-      "teaser": "Im Iran wächst gerade eine mutige Generation heran, die vehement für Freiheit und Gleichberechtigung eintritt. Wie kann das sein? Ein Spaziergang mit Natalie Amiri",
-      "url": "https://www.zeit.de/2023/49/frauen-iran-protest-natalie-amiri",
-      "image_url": "https://img.zeit.de/2023/49/iranische-frauen-sind-generell-anstrengend-bild-1/wide__822x462",
-      "image_title": "Protest im Iran: \"Iranische Frauen sind generell anstrengend\""
+      "title": "Z+ (abopflichtiger Inhalt); \"Napoleon\": Wir müden Europäer",
+      "teaser": "Ridley Scotts Monumentalverfilmung \"Napoleon\" erzählt davon, wie der Kontinent im Krieg geboren wurde. Die Wahl in den Niederlanden zeigt, wie er wieder zerfallen könnte.",
+      "url": "https://www.zeit.de/kultur/2023-11/napoleon-ridley-scott-geschichte-genauigkeit",
+      "image_url": "https://img.zeit.de/kultur/2023-11/napoleon-essay-diez-bild/wide__822x462",
+      "image_title": "\"Napoleon\": Wir müden Europäer"
     },
     {
       "title": "VerlagsangebotDas Schottland-Quiz: Testen Sie Ihr Wissen!",
@@ -656,11 +690,11 @@
       "image_title": "Das Schottland-Quiz: Testen Sie Ihr Wissen!"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Kinderstars: Die Revolution drillt ihre Kinder",
-      "teaser": "Heute gibt es eine ganz neue Generation von Kinderstars: die Erben demonstrativ liebevoller Pop-Dynasten. Werden ihre Memoiren von Empowerment oder Ausbeutung handeln?",
-      "url": "https://www.zeit.de/kultur/musik/2023-11/kinderstars-blue-ivy-carter-north-west-mercy-james-ciccone",
-      "image_url": "https://img.zeit.de/kultur/2023-11/kinderstars-blue-ivy-carter/wide__822x462",
-      "image_title": "Kinderstars: Die Revolution drillt ihre Kinder"
+      "title": "Z+ (abopflichtiger Inhalt); Protest im Iran: \"Iranische Frauen sind generell anstrengend\"",
+      "teaser": "Im Iran wächst gerade eine mutige Generation heran, die vehement für Freiheit und Gleichberechtigung eintritt. Wie kann das sein? Ein Spaziergang mit Natalie Amiri",
+      "url": "https://www.zeit.de/2023/49/frauen-iran-protest-natalie-amiri",
+      "image_url": "https://img.zeit.de/2023/49/iranische-frauen-sind-generell-anstrengend-bild-1/wide__822x462",
+      "image_title": "Protest im Iran: \"Iranische Frauen sind generell anstrengend\""
     },
     {
       "title": "Umgang mit Schiedsrichtern: Fußball ohne Meckern – das Fair-Play-Experiment",
@@ -727,7 +761,7 @@
     },
     {
       "title": "Gesundheitssystem: Krankenstand 2023 möglicherweise auf Rekordhoch",
-      "teaser": "Bereits vor Ende des Jahres sehen die Krankenkassen für 2023 einen ungewöhnlich hohen Krankenstand. Laut der DAK könnten Beschäftigte auf etwa 20 Fehltage kommen. 111 Kommentare",
+      "teaser": "Bereits vor Ende des Jahres sehen die Krankenkassen für 2023 einen ungewöhnlich hohen Krankenstand. Laut der DAK könnten Beschäftigte auf etwa 20 Fehltage kommen. 114 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-11/gesundheitssystem-krankenkassen-krankmeldungen-fehltage",
       "image_url": "https://img.zeit.de/gesundheit/2023-11/gesundheitssystem-krankenkassen-krankmeldungen-fehltage-bild/cinema__980x420",
       "image_title": "Gesundheitssystem: Krankenstand 2023 möglicherweise auf Rekordhoch"
@@ -936,36 +970,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Europawahl: Grüne beschließen Wahlprogramm: Keine Änderungen zu Asyl",
-      "url": "https://www.zeit.de/news/2023-11/26/gruene-beschliessen-wahlprogramm-keine-aenderungen-zu-asyl"
+      "title": "Abgeordnetenhaus: CDU stellt sich hinter Idee für «Deutsch-Polnisches Haus»",
+      "url": "https://www.zeit.de/news/2023-11/26/cdu-stellt-sich-hinter-idee-fuer-deutsch-polnisches-haus"
     },
     {
-      "title": "Finanzen: 54.000 Grundsteuererklärungen in Sachsen-Anhalt fehlen noch",
-      "url": "https://www.zeit.de/news/2023-11/26/54-000-grundsteuererklaerungen-in-sachsen-anhalt-fehlen-noch"
+      "title": "Gaza-Krieg: «Geträumt, nach Hause zu kommen»: Geiseln in Sicherheit",
+      "url": "https://www.zeit.de/news/2023-11/26/getraeumt-nach-hause-zu-kommen-geiseln-in-sicherheit"
     },
     {
-      "title": "Verkehr: Mann liefert sich Verfolgungsjagd mit Polizei durch Nürnberg",
-      "url": "https://www.zeit.de/news/2023-11/26/mann-liefert-sich-verfolgungsjagd-mit-polizei-durch-nuernberg"
+      "title": "Motorsport: Mit Sieg: Motorrad-Fahrer Bagnaia verteidigt seinen WM-Titel",
+      "url": "https://www.zeit.de/news/2023-11/26/mit-sieg-motorrad-fahrer-bagnaia-verteidigt-seinen-wm-titel"
     },
     {
-      "title": "Löscharbeiten: Einfamilienhaus brennt: Lebloser Mann gefunden",
-      "url": "https://www.zeit.de/news/2023-11/26/einfamilienhaus-brennt-lebloser-mann-gefunden"
+      "title": "Notfälle: Sechs Menschen bei Gasaustritt in Waldkraiburg verletzt",
+      "url": "https://www.zeit.de/news/2023-11/26/sechs-menschen-bei-gasaustritt-in-waldkraiburg-verletzt"
     },
     {
-      "title": "Kriminalität: Mann bei Raub in Frankfurt schwer verletzt",
-      "url": "https://www.zeit.de/news/2023-11/26/mann-bei-raub-in-frankfurt-schwer-verletzt"
+      "title": "Migration: Demonstration gegen Verschärfung des Asylrechts in Kiel",
+      "url": "https://www.zeit.de/news/2023-11/26/demonstration-gegen-verschaerfung-des-asylrechts-in-kiel"
     },
     {
-      "title": "Verkehr: Betrunkene Autofahrerin baut Unfall vor Augen der Polizei",
-      "url": "https://www.zeit.de/news/2023-11/26/betrunkene-autofahrerin-baut-unfall-vor-augen-der-polizei"
+      "title": "2. Bundesliga: 1. FC Nürnberg unterliegt Karlsruher SC nach Blitzgegentor",
+      "url": "https://www.zeit.de/news/2023-11/26/1-fc-nuernberg-unterliegt-karlsruher-sc-nach-blitzgegentor"
     },
     {
-      "title": "Fußball: Watzke sieht weiter Handlungsbedarf beim Videoschiedsrichter",
-      "url": "https://www.zeit.de/news/2023-11/26/watzke-sieht-weiter-handlungsbedarf-beim-videoschiedsrichter"
+      "title": "Feuerwehreinsatz: Brand in Mehrfamilienhaus verursacht hohen Schaden",
+      "url": "https://www.zeit.de/news/2023-11/26/brand-in-mehrfamilienhaus-verursacht-hohen-schaden"
     },
     {
-      "title": "Meisterschaften: Pfeifer und Jungk deutsche Meister im Skeleton",
-      "url": "https://www.zeit.de/news/2023-11/26/pfeifer-und-jungk-deutsche-meister-im-skeleton"
+      "title": "3. Liga: 2:2 - Facklam schießt Lübeck in der Nachspielzeit zum Remis",
+      "url": "https://www.zeit.de/news/2023-11/26/2-2-facklam-schiesst-luebeck-in-der-nachspielzeit-zum-remis"
     }
   ]
 }
