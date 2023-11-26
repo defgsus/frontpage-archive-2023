@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-26T04:13:30",
+  "timestamp": "2023-11-26T05:10:38",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Liveblog: Krieg in Israel und Gaza: Erneut vier deutsche Staatsbürger unter den Freigelassenen",
+      "teaser": "Unter den 17 von der Hamas freigelassenen Geiseln sind vier deutsche Doppelstaatler. 39 Palästinenser kamen frei. Israel erhielt eine neue Namensliste. Das Liveblog",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/israel-gaza-geiseln-freilassung-deutsche/cinema__980x420"
+    },
+    {
       "title": "Menschenrechte: Iran richtet 17-Jährigen hin",
-      "teaser": "Ein wegen Morders verurteilter Minderjähriger ist im Iran exektuiert worden. Menschenrechtler beklagen einen erneuten Verstoß gegen die UN-Kinderrechtskonvention.",
+      "teaser": "Ein wegen Mordes verurteilter Minderjähriger ist im Iran exekutiert worden. Menschenrechtler beklagen einen erneuten Verstoß gegen die UN-Kinderrechtskonvention.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/menschenrechte-iran-hinrichtung-17-jaehriger",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/iran-hinrichtung-minderjaehriger/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/iran-hinrichtung-minderjaehriger/wide__822x462",
+      "image_title": "Menschenrechte: Iran richtet 17-Jährigen hin"
     },
     {
       "title": "Aufenthaltsgesetz: Bundesregierung beschwichtigt Seenotrettungs-Organisationen",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/aufenthaltsgesetz-kriminalisierung-seenotrettung-bundesregierung-linke-anfrage",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/seenotrettung-im-mittelmeer/wide__822x462",
       "image_title": "Aufenthaltsgesetz: Bundesregierung beschwichtigt Seenotrettungs-Organisationen"
-    },
-    {
-      "title": "Naher Osten: Weitere Gruppe von Geiseln in Israel angekommen",
-      "teaser": "17 weitere Geiseln sind frei, darunter Israelis, vier mit deutschem Pass und vier Thailänder. Die Hamas warf Israel Verstöße gegen das Geiselabkommen vor.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel-bild/wide__822x462",
-      "image_title": "Naher Osten: Weitere Gruppe von Geiseln in Israel angekommen"
     },
     {
       "title": "Haushaltsurteil: Finanzministerium sperrt nahezu gesamten Bundeshaushalt",
@@ -150,18 +150,18 @@
       "image_title": "Donald Trump: Unheimlich große Pläne"
     },
     {
+      "title": "Naher Osten: Weitere Gruppe von Geiseln in Israel angekommen",
+      "teaser": "17 weitere Geiseln sind frei, darunter Israelis, vier mit deutschem Pass und vier Thailänder. Die Hamas warf Israel Verstöße gegen das Geiselabkommen vor.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/naher-osten-gazakrieg-freilassung-geiseln-hamas-israel-bild/cinema__980x420",
+      "image_title": "Naher Osten: Weitere Gruppe von Geiseln in Israel angekommen"
+    },
+    {
       "title": "Grünen-Parteitag: Parteitag folgt Kurs der Parteispitze in Asylpolitik",
       "teaser": "Der Parteitag in Karlsruhe hat einen Antrag der Grünen Jugend zur Migrationspolitik der Ampel abgelehnt. Vizekanzler Habeck hatte vor Koalitionsbruch gewarnt.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/gruenen-parteitag-ampel-koalition-asyl-abschiebungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/gruenen-parteitag-ampel-koalition-asyl-abschiebungen-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/gruenen-parteitag-ampel-koalition-asyl-abschiebungen-bild/wide__822x462",
       "image_title": "Grünen-Parteitag: Parteitag folgt Kurs der Parteispitze in Asylpolitik"
-    },
-    {
-      "title": "Liveblog: Krieg in Israel und Gaza: Erneut vier deutsche Staatsbürger unter den Freigelassenen",
-      "teaser": "Laut Auswärtigem Amt sind unter den 17 von der Hamas freigelassenen Geiseln vier deutsche Doppelstaatler. Am Abend kamen weitere 39 Palästinenser frei. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/israel-gaza-geiseln-freilassung-deutsche/wide__822x462",
-      "image_title": "Krieg in Israel und Gaza: Erneut vier deutsche Staatsbürger unter den Freigelassenen"
     },
     {
       "title": "Nahostkrieg: Hamas soll nächste Gruppe von Geiseln noch heute Abend freilassen",
@@ -172,7 +172,7 @@
     },
     {
       "title": "Parteitag der Grünen: Grüne sehen CO₂-Speicherung als Mittel gegen Erderhitzung",
-      "teaser": "Im Europawahlprogramm der Grünen ist die CO₂-Speicherung gegen die Klimakrise vorgesehen. Auf dem Parteitag wandten sich einige Mitglieder mit Änderungsanträgen dagegen. 242 Kommentare",
+      "teaser": "Im Europawahlprogramm der Grünen ist die CO₂-Speicherung gegen die Klimakrise vorgesehen. Auf dem Parteitag wandten sich einige Mitglieder mit Änderungsanträgen dagegen. 243 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/klimawandel-gruene-co-speicherung-europawahl",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/klimawandel-gruene-co-speicherung-europawahl-bild/cinema__980x420",
       "image_title": "Parteitag der Grünen: Grüne sehen CO₂-Speicherung als Mittel gegen Erderhitzung"
