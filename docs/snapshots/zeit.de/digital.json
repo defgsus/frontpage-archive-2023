@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-27T14:11:45",
+  "timestamp": "2023-11-27T15:12:53",
   "url": "https://www.zeit.de/digital/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Bird Buddy: Hallo Vögel, seid ihr da?",
+      "teaser": "Jetzt, da es kalt wird, freuen sich Vögel über ein bisschen Futter. Mit diesem digitalen Vogelhaus können Sie die Besucher beobachten – wenn sie denn kommen.",
+      "url": "https://www.zeit.de/digital/mobil/2023-11/bird-buddy-vogelhaus-voegel-futter",
+      "image_url": "https://img.zeit.de/digital/2023-11/bird-buddy-vogelhaus-kamera-bild/cinema__980x420"
+    },
+    {
       "title": "Künstliche Intelligenz: Jedes achte Unternehmen setzt KI ein",
       "teaser": "Zwölf Prozent aller Unternehmen nutzen laut einer Erhebung künstliche Intelligenz. Meist wird die Technologie zur Spracherkennung oder für Automatisierungen genutzt.",
       "url": "https://www.zeit.de/digital/2023-11/kuenstliche-intelligenz-unternehmen-statistisches-bundesamt",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/kuenstliche-intelligenz-unternehmen-statistisches-bundesamt-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/kuenstliche-intelligenz-unternehmen-statistisches-bundesamt-bild/wide__822x462",
+      "image_title": "Künstliche Intelligenz: Jedes achte Unternehmen setzt KI ein"
     },
     {
       "title": "Künstliche Intelligenz: 18 Länder schließen Abkommen zum Schutz vor KI-Missbrauch",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/digital/2023-11/kuenstliche-intelligenz-abkommen-schutz-missbrauch",
       "image_url": "https://img.zeit.de/digital/2023-11/kuenstliche-intelligenz-abkommen-schutz-missbrauch-bild/wide__822x462",
       "image_title": "Künstliche Intelligenz: 18 Länder schließen Abkommen zum Schutz vor KI-Missbrauch"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); GraphCast: Diese KI trifft bessere Wettervorhersagen als ein Supercomputer",
-      "teaser": "Ein neues KI-Wettermodell von Google übertrifft selbst die Prognosen weltweit führender Institute. Forscher sprechen von einem \"Wendepunkt der Wettervorhersage\".",
-      "url": "https://www.zeit.de/digital/internet/2023-11/graphcast-wettervorhersage-kuenstliche-intelligenz-google",
-      "image_url": "https://img.zeit.de/digital/internet/2023-11/google-graphcast-wetter/wide__822x462",
-      "image_title": "GraphCast: Diese KI trifft bessere Wettervorhersagen als ein Supercomputer"
     },
     {
       "title": "Sam Altman: Wer jetzt noch an Selbstregulierung glaubt, ist naiv",
@@ -124,8 +124,8 @@
       "url": "https://www.zeit.de/digital/mobil/2023-11/safenow-app-hilfe-hamburg-hauptbahnhof-test-deutsche-bahn"
     },
     {
-      "title": "Desinformation im Nahostkonflikt: Krass, ist das echt?",
-      "url": "https://www.zeit.de/digital/internet/2023-11/nahostkonflikt-desinformation-propaganda-israel-gaza-krieg"
+      "title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman",
+      "url": "https://www.zeit.de/digital/2023-11/chatgpt-entwickler-openai-verkuendet-rueckkehr-von-sam-altman"
     },
     {
       "title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman",
@@ -160,8 +160,15 @@
       "url": "https://www.zeit.de/digital/2023-11/x-twitter-werbung-media-matters"
     },
     {
-      "title": "Desinformation im Nahostkonflikt: Krass, ist das echt?",
-      "url": "https://www.zeit.de/digital/internet/2023-11/nahostkonflikt-desinformation-propaganda-israel-gaza-krieg"
+      "title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman",
+      "url": "https://www.zeit.de/digital/2023-11/chatgpt-entwickler-openai-verkuendet-rueckkehr-von-sam-altman"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); GraphCast: Diese KI trifft bessere Wettervorhersagen als ein Supercomputer",
+      "teaser": "Ein neues KI-Wettermodell von Google übertrifft selbst die Prognosen weltweit führender Institute. Forscher sprechen von einem \"Wendepunkt der Wettervorhersage\".",
+      "url": "https://www.zeit.de/digital/internet/2023-11/graphcast-wettervorhersage-kuenstliche-intelligenz-google",
+      "image_url": "https://img.zeit.de/digital/internet/2023-11/google-graphcast-wetter/wide__822x462",
+      "image_title": "GraphCast: Diese KI trifft bessere Wettervorhersagen als ein Supercomputer"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Künstliche Intelligenz: Was meint die künstliche Intelligenz, wenn sie von Liebe spricht?",
@@ -176,13 +183,6 @@
       "url": "https://www.zeit.de/digital/2023-11/israel-angriff-hamas-oeffentliche-wahrnehmung",
       "image_url": "https://img.zeit.de/digital/2023-11/israel-angriff-hamas-oeffentliche-wahrnehmung-2/wide__822x462",
       "image_title": "Angriff auf Israel: Wenig Likes"
-    },
-    {
-      "title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman",
-      "teaser": "Wenige Tage nach seinem unerwarteten Rauswurf kehrt er ebenso überraschend zurück: Sam Altman wechselt doch nicht zu Microsoft, sondern wird wieder CEO bei OpenAI.",
-      "url": "https://www.zeit.de/digital/2023-11/chatgpt-entwickler-openai-verkuendet-rueckkehr-von-sam-altman",
-      "image_url": "https://img.zeit.de/digital/2023-11/chatgpt-entwickler-openai-verkuendet-rueckkehr-von-sam-altman-bild/wide__822x462",
-      "image_title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wärmekissen Ploov: Endlich ein cooles Wärmekissen",
@@ -213,6 +213,13 @@
       "image_title": "\"Counter-Strike 2\": Ein killer Spiel"
     },
     {
+      "title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman",
+      "teaser": "Wenige Tage nach seinem unerwarteten Rauswurf kehrt er ebenso überraschend zurück: Sam Altman wechselt doch nicht zu Microsoft, sondern wird wieder CEO bei OpenAI.",
+      "url": "https://www.zeit.de/digital/2023-11/chatgpt-entwickler-openai-verkuendet-rueckkehr-von-sam-altman",
+      "image_url": "https://img.zeit.de/digital/2023-11/chatgpt-entwickler-openai-verkuendet-rueckkehr-von-sam-altman-bild/wide__822x462",
+      "image_title": "ChatGPT-Entwickler: OpenAI verkündet Rückkehr von Sam Altman"
+    },
+    {
       "title": "Threads: Joe Biden eröffnet Konto bei X-Konkurrent Threads",
       "teaser": "\"Leute, hier ist Präsident Biden\", heißt es im ersten Beitrag des US-Präsidenten auf Threads. Auch Kamala Harris und das Weiße Haus haben dort nun ein Konto.",
       "url": "https://www.zeit.de/digital/internet/2023-11/joe-biden-threads-konto-kamala-harris",
@@ -227,13 +234,6 @@
       "image_title": "Twitter-Nachfolger: X verklagt nach Verlust von Werbekunden Autoren von kritischem Bericht"
     },
     {
-      "title": "Desinformation im Nahostkonflikt: Krass, ist das echt?",
-      "teaser": "Der Infomüll im Israel-Hamas-Konflikt ist allgegenwärtig. Wie Forscher und Faktenchecker die größten Lügen aufklären. Und wo ihnen Russen, Iraner und Chinesen begegnen.",
-      "url": "https://www.zeit.de/digital/internet/2023-11/nahostkonflikt-desinformation-propaganda-israel-gaza-krieg",
-      "image_url": "https://img.zeit.de/digital/internet/2023-11/nahostkonflikt-desinformation-propaganda-israel-gaza-krieg-bild/wide__822x462",
-      "image_title": "Desinformation im Nahostkonflikt: Krass, ist das echt?"
-    },
-    {
       "title": "Anzeige: Studiengänge aus diesem Jahrtausend",
       "teaser": "Der digitale Wandel verändert nicht nur Wirtschaft und Arbeitsmarkt. Auch Studienangebote werden digitaler und beschäftigen sich mit den Technologien von morgen",
       "url": "https://studiengaenge.zeit.de/studienangebote?suche=digital&wt_zmc=fix.int.zonpmr.zeitde.verlagsteaserdigital.suma.verlagsteaser.vrbrille.x&utm_medium=fix&utm_source=zeitde_zonpmr_int&utm_campaign=verlagsteaserdigital&utm_content=suma_verlagsteaser_vrkind_x",
@@ -241,11 +241,11 @@
       "image_title": "Studienorientierung: Studiengänge aus diesem Jahrtausend"
     },
     {
-      "title": "Sam Altman: Er überstrahlt alles",
-      "teaser": "Bitte komm zurück! Herzemoji! Die Seifenoper um KI-Posterboy Sam Altman bekommt schon wieder ein neues Kapitel. Das Silicon Valley liebt einfach Lichtgestalten.",
-      "url": "https://www.zeit.de/digital/2023-11/sam-altman-openai-chef-microsoft-kuenstliche-intelligenz",
-      "image_url": "https://img.zeit.de/wirtschaft/unternehmen/2023-11/sam-altman-openai-chef-microsoft-kuenstliche-intelligenz-bild/wide__822x462",
-      "image_title": "Sam Altman: Er überstrahlt alles"
+      "title": "Desinformation im Nahostkonflikt: Krass, ist das echt?",
+      "teaser": "Der Infomüll im Israel-Hamas-Konflikt ist allgegenwärtig. Wie Forscher und Faktenchecker die größten Lügen aufklären. Und wo ihnen Russen, Iraner und Chinesen begegnen.",
+      "url": "https://www.zeit.de/digital/internet/2023-11/nahostkonflikt-desinformation-propaganda-israel-gaza-krieg",
+      "image_url": "https://img.zeit.de/digital/internet/2023-11/nahostkonflikt-desinformation-propaganda-israel-gaza-krieg-bild/wide__822x462",
+      "image_title": "Desinformation im Nahostkonflikt: Krass, ist das echt?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Programmierschule 42 Heilbronn: Wieso muss das so hart sein?",
