@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-28T11:10:17",
+  "timestamp": "2023-11-28T12:22:10",
   "url": "https://www.welt.de/vermischtes/",
   "response": {
     "status": 200
@@ -26,18 +26,25 @@
   ],
   "articles": [
     {
+      "title": "Neun Männer wegen Vergewaltigung im Stadtpark verurteilt",
+      "teaser": "Im September 2020 wird eine 15-Jährige im Hamburger Stadtpark von mehreren jungen Männern vergewaltigt. Nach fast 100 Verhandlungstagen spricht eine Jugendkammer am Landgericht neun Angeklagte schuldig, aber nur einer muss auch in Haft.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile248761668/3627934637-ci23x11-w20/Festwiese-Stadtpark-Hamburg.jpg",
+      "image_title": "Unweit des Festwiese im Hamburger Stadtpark kam es zu der Tat"
+    },
+    {
+      "title": "Gil Ofarim legt Geständnis ab – Verfahren wird gegen Geldzahlung eingestellt",
+      "teaser": "„Die Vorwürfe treffen zu“: Der Sänger Gil Ofarim hat im Verleumdungsprozess gegen sich überraschend ein Geständnis abgelegt. Ofarim hatte in einem Video Antisemitismus-Vorwürfe gegen ein Leipziger Hotel erhoben. Er entschuldigte sich und muss nun einen Geldbetrag sowie Schmerzensgeld zahlen.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/bildergalerien/mobile248761342/6907933287-ci23x11-w20/Prozess-gegen-Gil-Ofarim.jpg",
+      "image_title": "Prozess gegen Gil Ofarim"
+    },
+    {
       "title": "Zwölf verletzte Soldaten bei Panzerunfall in Thüringen",
       "teaser": "Weil ihre Panzer vom Typ Marder zusammenstießen, mussten ein Dutzend Soldaten aus den Fahrzeugen geborgen und behandelt werden. Die genauen Hintergründe sind noch unklar – die Rettungskette, betonte die Bundeswehr habe aber funktioniert.",
       "url": "https://www.welt.de/vermischtes/",
       "image_url": "https://img.welt.de/img/vermischtes/mobile248759454/9037936507-ci23x11-w20/Ein-Jahr-EU-Militaerhilfemission-in-Deutschland.jpg",
       "image_title": "Schützenpanzer Marder im Gelände"
-    },
-    {
-      "title": "Gil Ofarim legt Geständnis ab – Verfahren wird gegen Geldzahlung eingestellt",
-      "teaser": "„Die Vorwürfe treffen zu“: Der Sänger Gil Ofarim hat im Verleumdungsprozess gegen sich überraschend ein Geständnis abgelegt. Ofarim hatte im Oktober 2021 in einem Video Antisemitismus-Vorwürfe gegen ein Leipziger Hotel erhoben. Er entschuldigte sich und muss nun einen Geldbetrag zahlen.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile248759924/9087933527-ci23x11-w20/Prozess-gegen-Gil-Ofarim.jpg",
-      "image_title": "Gil Ofarim betritt den Saal des Landgerichts in Leipzig (Archivbild)"
     },
     {
       "title": "Identität des Toten vor Erlebnisbad geklärt – Haftbefehl gegen 17-Jährigen",
@@ -52,13 +59,6 @@
       "url": "https://www.welt.de/vermischtes/katastrophen/",
       "image_url": "https://img.welt.de/img/vermischtes/mobile248757626/2507937997-ci23x11-w20/Tunnel-Einsturz-in-Indien.jpg",
       "image_title": "Tunnel-Einsturz in Indien"
-    },
-    {
-      "title": "Schneechaos in Hessen – Landrat warnt vor Lebensgefahr",
-      "teaser": "Dutzende Schüler saßen in Wiesbaden in einer Gesamtschule fest, über 100 Autofahrer mussten im Rheingau-Taunus-Kreis aus ihren Autos evakuiert werden: Der heftige Wintereinbruch hat besonders im Südwesten Hessens für erhebliche Beeinträchtigungen gesorgt.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/vermischtes/mobile248757500/1677932427-ci23x11-w20/Wintereinbruch-in-Hessen.jpg",
-      "image_title": "Wintereinbruch in Hessen"
     },
     {
       "title": "Islamismus-Prozess nach Mord an Samuel Paty beginnt in Paris",
@@ -114,6 +114,13 @@
     {
       "title": "Etsy-Gutschein",
       "url": "https://www.welt.de/deals/"
+    },
+    {
+      "title": "Schneechaos in Hessen – Landrat warnt vor Lebensgefahr",
+      "teaser": "Dutzende Schüler saßen in Wiesbaden in einer Gesamtschule fest, über 100 Autofahrer mussten im Rheingau-Taunus-Kreis aus ihren Autos evakuiert werden: Der heftige Wintereinbruch hat besonders im Südwesten Hessens für erhebliche Beeinträchtigungen gesorgt.",
+      "url": "https://www.welt.de/vermischtes/",
+      "image_url": "https://img.welt.de/img/vermischtes/mobile248757500/1677932427-ci23x11-w20/Wintereinbruch-in-Hessen.jpg",
+      "image_title": "Wintereinbruch in Hessen"
     },
     {
       "title": "„Im Minutentakt Meldungen zu neuen Unfällen“ – zwei Menschen sterben",
@@ -282,13 +289,6 @@
       "image_title": "Der 18-Jährige soll eine staatsgefährdende Gewalttat vorbereitet haben. (Symbolbild)"
     },
     {
-      "title": "Lieferfahrer stoppte Messerstecher – „Zuerst dachte ich, es sei eine normale Schlägerei“",
-      "teaser": "Zivilcourage verhinderte in Dublin, dass der Messerstecher noch mehr Menschen verletzten konnte. Nun erzählt der Brasilianer Caio Benício, der den Angreifer stoppte, wie er die Attacke erlebte – und was er über die anschließenden Ausschreitungen denkt.",
-      "url": "https://www.welt.de/vermischtes/",
-      "image_url": "https://img.welt.de/img/politik/ausland/mobile248718104/5837935597-ci23x11-w20/Aftermath-Of-Dublin-Violence-Sparked-By-School-Stabbings-2.jpg",
-      "image_title": "DUBLIN, IRELAND - NOVEMBER 24: Deliveroo driver Caio Benicio, who stopped a knife attacker outside a school, poses on November 24, 2023 in Dublin, Ireland. Vehicles were set alight and shops looted in Dublin last night, following a knife attack outside a school that left five people, including three children, injured. (Photo by Charles McQuillan/Getty Images)"
-    },
-    {
       "title": "„Wenn man als Deutscher nach Dubai zieht, vollzieht man einen Tausch von Freiheiten“",
       "teaser": "Seit einem Jahrzehnt lebt Daniel Garofoli in Dubai. Unter keinen Umständen würde er wieder nach Deutschland ziehen wollen. Im WELT-Interview erklärt der Auswanderer ausführlich, was die Emirate Europa aktuell voraus haben – und räumt mit einigen Mythen auf.",
       "url": "https://www.welt.de/vermischtes/plus248171922/Auswandern-Als-Deutscher-in-Dubai-vollzieht-man-einen-Tausch-von-Freiheiten.html",
@@ -391,12 +391,16 @@
       "author": "49 Min"
     },
     {
-      "title": "Zwölf verletzte Soldaten bei Panzerunfall in Thüringen",
-      "url": "https://www.welt.de/vermischtes/article248758946/Kollision-auf-Uebungsplatz-Zwoelf-verletzte-Soldaten-bei-Panzerunfall-in-Thueringen.html"
+      "title": "Neun Männer wegen Vergewaltigung im Stadtpark verurteilt",
+      "url": "https://www.welt.de/regionales/hamburg/article248761670/Hamburg-Neun-Maenner-wegen-Vergewaltigung-im-Stadtpark-verurteilt.html"
     },
     {
       "title": "Gil Ofarim legt Geständnis ab – Verfahren wird gegen Geldzahlung eingestellt",
-      "url": "https://www.welt.de/vermischtes/article248759670/Gil-Ofarim-legt-Gestaendnis-ab-und-entschuldigt-sich-Wende-im-Prozess.html"
+      "url": "https://www.welt.de/vermischtes/article248759670/Gil-Ofarim-legt-Gestaendnis-ab-und-entschuldigt-sich-Verfahren-eingestellt.html"
+    },
+    {
+      "title": "Zwölf verletzte Soldaten bei Panzerunfall in Thüringen",
+      "url": "https://www.welt.de/vermischtes/article248758946/Kollision-auf-Uebungsplatz-Zwoelf-verletzte-Soldaten-bei-Panzerunfall-in-Thueringen.html"
     },
     {
       "title": "Identität des Toten vor Erlebnisbad geklärt – Haftbefehl gegen 17-Jährigen",
@@ -505,10 +509,6 @@
     {
       "title": "Rosen und Weltempfänger - Isa Genzken wird 75",
       "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/boulevard_nt/article248744474/Rosen-und-Weltempfaenger-Isa-Genzken-wird-75.html"
-    },
-    {
-      "title": "Jugendlicher in Untersuchungshaft nach Leichenfund vor einem Erlebnisbad",
-      "url": "https://www.welt.de/vermischtes/kriminalitaet/article248743092/Schleswig-Holstein-Toter-vor-Erlebnisbad-Jugendlicher-in-Untersuchungshaft.html"
     }
   ]
 }
