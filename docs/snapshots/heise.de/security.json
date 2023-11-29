@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-29T09:11:56",
+  "timestamp": "2023-11-29T10:13:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.4dc8da8766703df42ea0",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.cd27d9c86afcfb4159a2",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "ownCloud",
+      "url": "https://www.heise.de/news/Scans-zu-kritischer-Sicherheitsluecke-in-ownCloud-Plugin-9542895.html"
+    },
     {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Google-Chrome-9542935.html"
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Foxit-PDF-unter-macOS-und-Windows-verwundbar-9538593.html"
     },
     {
-      "title": "Nextcloud und Owncloud",
-      "url": "https://www.heise.de/news/Cloud-Computing-Software-ownCloud-und-Nextcloud-angreifbar-9537650.html"
+      "title": "Scans zu kritischer Sicherheitslücke in ownCloud-Plugin",
+      "teaser": "Die Schwachstelle im GraphAPI-Plugin kann zur unfreiwilligen Preisgabe der Admin-Zugangsdaten führen. ownCloud-Admins sollten schnell reagieren.",
+      "url": "https://www.heise.de/news/Scans-zu-kritischer-Sicherheitsluecke-in-ownCloud-Plugin-9542895.html",
+      "image_title": "Person mit verschiedenen Daten umgeben (Symbolbild)"
     },
     {
       "title": "Jetzt patchen! Attacken auf Google Chrome",
@@ -147,11 +153,6 @@
       "title": "Lockbit-Ransomware: Strengere Verhandlungsregeln sollen Profit steigern",
       "teaser": "Erfolgreiches Geschäftsmodell Erpressung: Das Ransomware-as-a-Service-Modell von Lockbit soll noch mehr Gewinn abwerfen.",
       "url": "https://www.heise.de/news/Lockbit-Ransomware-Strengere-Verhandlungsregeln-sollen-Profit-steigern-9536365.html"
-    },
-    {
-      "title": "Mozilla erweitert Datenschutz und Sicherheit von Firefox und Thunderbird",
-      "teaser": "Durch Schwachstellen in Mozillas Mailclient und Webbbrowser kann Schadcode schlüpfen. Außerdem wurde der Datenschutz verbessert.",
-      "url": "https://www.heise.de/news/Mozilla-baut-Datenschutz-und-Sicherheit-von-Firefox-und-Thunderbird-aus-9535810.html"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
