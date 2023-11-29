@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-29T19:09:31",
+  "timestamp": "2023-11-29T20:12:26",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Davidsterne in Frankreich: Krieg an der Hauswand",
+      "title": "Haushaltskrise: Lindner beziffert Haushaltslücke 2024 auf 17 Milliarden Euro",
+      "teaser": "Um in der Haushaltskrise zu beraten, hat Bundeskanzler Scholz zum Koalitionstreffen geladen. Vorab fordert der Bundesfinanzminister Kürzungen, etwa im Sozialetat.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/christian-lindner-koalitionsgipfel-olaf-scholz-bundeshaushalt",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/christian-lindner-koalitionsgipfel-olaf-scholz-bundeshaushalt-bild/cinema__980x420"
+    },
+    {
+      "title": "Davidsterne in Frankreich: Krieg an der Hauswand",
       "teaser": "Nach Graffiti von blauen Davidsternen beklagt der französische Staat eine \"russische Einflussnahme\". Was bezwecken die Hintermänner und wem nützt die Kampagne?",
       "url": "https://www.zeit.de/politik/ausland/2023-11/davidsterne-frankreich-paris-vandalismus-russland",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/davidsterne-frankreich-paris-vandalismus-russland-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/davidsterne-frankreich-paris-vandalismus-russland-bild/wide__822x462",
+      "image_title": "Davidsterne in Frankreich: Krieg an der Hauswand"
     },
     {
       "title": "Spanien: Im Zweifel eher nicht so Israel-freundlich",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/pedro-sanchez-spanien-israel-diplomatie-krise",
       "image_url": "https://img.zeit.de/politik/ausland/2023-11/pedro-sanchez-spanien-israel-diplomatie/wide__822x462",
       "image_title": "Spanien: Im Zweifel eher nicht so Israel-freundlich"
-    },
-    {
-      "title": "Niederlande: Zweite Partei lehnt Koalitionsverhandlungen mit Geert Wilders ab",
-      "teaser": "Der Rechtspopulist Geert Wilders muss weiter nach Koalitionspartnern suchen. Auch die NSC will nicht in Verhandlungen treten. Für eine Minderheitsregierung ist er offen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/niederlande-geert-wilders-koalition-abgelehnt-minderheitenregierung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/niederlande-geert-wilders-koalition-abgelehnt-minderheitenregierung-bild/wide__822x462",
-      "image_title": "Niederlande: Zweite Partei lehnt Koalitionsverhandlungen mit Geert Wilders ab"
     },
     {
       "title": "Legalisierung von Cannabis: Legale Besitzgrenze von Cannabis im Privatbereich wird verdoppelt",
@@ -76,8 +76,8 @@
       "image_title": "Politbarometer: Mehrheit lehnt Lockerung der Schuldenbremse ab"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Die Grünen und die Ampelkoalition: Zeit, zu gehen",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/die-gruenen-ampelkoalition-verlassen-union"
+      "title": "Wahl in den Niederlanden: Rechtspopulist Geert Wilders liegt bei Parlamentswahl vorne",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/niederlande-parlament-wahl-rutte-regierung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Regierungserklärung von Olaf Scholz: Was will der Kanzler uns sagen?",
@@ -88,8 +88,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-11/bundestagswahl-2024-markus-soeder-forderung-europawahl"
     },
     {
-      "title": "Wahl in den Niederlanden: Rechtspopulist Geert Wilders liegt bei Parlamentswahl vorne",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/niederlande-parlament-wahl-rutte-regierung"
+      "title": "Haushaltskrise: Christian Lindner kündigt Nachtragshaushalt für 2023 an",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/christian-lindner-verkuendet-aussetzen-der-schuldenbremse-fuer-2023"
     },
     {
       "title": "Olaf Scholz: Seine Autorität bröckelt",
@@ -104,12 +104,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/fraktionen-ampel-legalisierung-cannabis-gesetz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Die Grünen und die Ampelkoalition: Zeit, zu gehen",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/die-gruenen-ampelkoalition-verlassen-union"
-    },
-    {
       "title": "Wahl in den Niederlanden: Rechtspopulist Geert Wilders liegt bei Parlamentswahl vorne",
       "url": "https://www.zeit.de/politik/ausland/2023-11/niederlande-parlament-wahl-rutte-regierung"
+    },
+    {
+      "title": "Haushaltskrise: Christian Lindner kündigt Nachtragshaushalt für 2023 an",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/christian-lindner-verkuendet-aussetzen-der-schuldenbremse-fuer-2023"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Geisel-Freilassung: Der Geiseldeal gehört zur Erpressung der Hamas",
@@ -150,31 +150,38 @@
       "image_title": "Die Grünen und die Ampelkoalition: Zeit, zu gehen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sicherheit Israels: Gilt der Satz von der Staatsräson noch?",
+      "title": "Niederlande: Zweite Partei lehnt Koalitionsverhandlungen mit Wilders ab",
+      "teaser": "Der Rechtspopulist Geert Wilders muss weiter nach Koalitionspartnern suchen. Auch die NSC will nicht in Verhandlungen treten. Für eine Minderheitsregierung ist er offen.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/niederlande-geert-wilders-koalition-abgelehnt-minderheitenregierung",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/niederlande-geert-wilders-koalition-abgelehnt-minderheitenregierung-bild/cinema__980x420",
+      "image_title": "Niederlande: Zweite Partei lehnt Koalitionsverhandlungen mit Wilders ab"
+    },
+    {
+      "title": "Sicherheit Israels: Gilt der Satz von der Staatsräson noch?",
       "teaser": "Deutschlands Versprechen, für die Sicherheit Israels einzustehen, werde nicht eingelöst, sagt \"Bild\"-Reporter Paul Ronzheimer. Politiker Jürgen Trittin widerspricht.",
       "url": "https://www.zeit.de/2023/51/sicherheit-israel-staatsraeson-nahostkrieg-juergen-trittin-paul-ronzheimer",
-      "image_url": "https://img.zeit.de/2023/51/sicherheit-israel-staatsraeson-nahostkrieg-juergen-trittin-paul-ronzheimer-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/51/sicherheit-israel-staatsraeson-nahostkrieg-juergen-trittin-paul-ronzheimer-bild/wide__822x462",
       "image_title": "Sicherheit Israels: Gilt der Satz von der Staatsräson noch?"
     },
     {
-      "title": "Liveblog: Krieg in Israel und Gaza: Israel weist Forderungen nach dauerhafter Waffenruhe zurück",
-      "teaser": "Wer einen Waffenstillstand unterstütze, unterstütze die Hamas, sagt Israels UN-Botschafter vor dem Sicherheitsrat. Steinmeier dankt Katar für Vermittlungen. Das Liveblog",
+      "title": "Liveblog: Krieg in Israel und Gaza: Hamas lässt zwei russische Geiseln frei",
+      "teaser": "Das israelische Militär hat die Übergabe zweier russischer Staatsbürger von der Hamas bestätigt. Guterres fordert \"echte\" humanitäre Feuerpause. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news-bild-26/wide__822x462",
-      "image_title": "Krieg in Israel und Gaza: Israel weist Forderungen nach dauerhafter Waffenruhe zurück"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/krieg-israel-gaza-news-bild-27/wide__822x462",
+      "image_title": "Krieg in Israel und Gaza: Hamas lässt zwei russische Geiseln frei"
     },
     {
       "title": "Nachrichtenpodcast: \"Wunderwuzzi\" und der \"kurze Olaf\"",
       "teaser": "Der Immobilienkonzern Signa von René Benko ist insolvent. Die \"Elbtower\"-Baustelle in Hamburg steht still – und auch anderen Städten drohen nun große Bauruinen.",
       "url": "https://www.zeit.de/politik/2023-11/insolvenz-signa-rene-benko-galeria-karstadt-kaufhof",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
       "image_title": "Nachrichtenpodcast: \"Wunderwuzzi\" und der \"kurze Olaf\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schwedens Nato-Beitritt: Erdoğan geht es nicht um Schweden",
       "teaser": "Schweden sollte diese Woche der Nato beitreten. Doch die Türkei blockiert die Erweiterung. Der Vorwurf der Russland-Nähe kümmert dabei nicht.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/schwedens-nato-beitritt-tuerkei-blockade-islam",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/schwedens-nato-beitritt-tuerkei-blockade-islam-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/schwedens-nato-beitritt-tuerkei-blockade-islam-bild/wide__822x462",
       "image_title": "Schwedens Nato-Beitritt: Erdoğan geht es nicht um Schweden"
     },
     {
@@ -186,16 +193,16 @@
     },
     {
       "title": "UN-Klimakonferenz: Präsident der Klimakonferenz hält an 1,5-Grad-Ziel fest",
-      "teaser": "Die UN warnen vor fast drei Grad Erderwärmung, doch Sultan Al-Dschaber bleibt zuversichtlich. Der Präsident der COP hofft auf ein \"nie da gewesenes Ergebnis\" in Dubai.",
+      "teaser": "Die UN warnen vor fast drei Grad Erderwärmung, doch Sultan Al-Dschaber bleibt zuversichtlich. Der Präsident der COP hofft auf ein \"nie da gewesenes Ergebnis\" in Dubai. 150 Kommentare",
       "url": "https://www.zeit.de/politik/ausland/2023-11/cop-dubai-klimakonferenz-sultan-al-dschaber-1-5-grad-ziel",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-11/cop-dubai-klimakonferenz-sultan-al-dschaber-1-5-grad-ziel-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-11/cop-dubai-klimakonferenz-sultan-al-dschaber-1-5-grad-ziel-bild/cinema__980x420",
       "image_title": "UN-Klimakonferenz: Präsident der Klimakonferenz hält an 1,5-Grad-Ziel fest"
     },
     {
       "title": "Nahost-Konflikt: Verfassungsschutz sieht erhöhte Anschlagsgefahr in Deutschland",
       "teaser": "Mit dem Hamas-Angriff auf Israel ist die Gefahr von Terroranschlägen aktuell deutlich gestiegen. Sie sei \"so hoch wie lange nicht mehr\", heißt es vom Verfassungsschutz.",
       "url": "https://www.zeit.de/politik/deutschland/2023-11/anschlagsgefahr-deutschland-nahost-konflikt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/verfassungsschutz-terror-gefahr-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/verfassungsschutz-terror-gefahr-bild/wide__822x462",
       "image_title": "Nahost-Konflikt: Verfassungsschutz sieht erhöhte Anschlagsgefahr in Deutschland"
     },
     {
@@ -209,14 +216,14 @@
       "title": "Ladendiebstahl in Großbritannien: Mit KI gegen das Klauen",
       "teaser": "Die Zahl der Ladendiebstähle in Großbritannien steigt rasant. Verfolgt werden die Strafen selten. Künstliche Intelligenz und Gesichtserkennung sollen das Problem lösen.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung-bild/cinema__980x420",
       "image_title": "Ladendiebstahl in Großbritannien: Mit KI gegen das Klauen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse: Die Machtprobe",
       "teaser": "Das Urteil zur Schuldenbremse verunsichert die Bundesregierung. Doch im Vergleich zu früheren Urteilen blieb das Verfassungsgericht diesmal sogar milde.",
       "url": "https://www.zeit.de/2023/51/schuldenbremse-urteil-verfassungsgericht-bundeshaushalt",
-      "image_url": "https://img.zeit.de/2023/51/die-machtprobe-bild-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/51/die-machtprobe-bild-1/wide__822x462",
       "image_title": "Schuldenbremse: Die Machtprobe"
     },
     {
@@ -269,13 +276,6 @@
       "image_title": "CDU: Kai Wegner bekräftigt Forderung nach Reform der Schuldenbremse"
     },
     {
-      "title": "Klimakonferenz Dubai: Deutsche COP28-Delegation umfasst mehr als 250 Regierungsmitarbeiter",
-      "teaser": "Zehntausende Menschen werden nach Dubai fliegen, um über die Rettung des Klimas zu sprechen. Jetzt wird bekannt, wer alles zur deutschen Delegation gehört.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/klimakonferenz-dubai-250-deutsche-teilnehmer-bundesregierung-kritik",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/cop17-klimatagung-aegypten-2022-einsbaeren/wide__822x462",
-      "image_title": "Klimakonferenz Dubai: Deutsche COP28-Delegation umfasst mehr als 250 Regierungsmitarbeiter"
-    },
-    {
       "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
       "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
       "url": "https://www.zeit.de/serie/stoerungsmelder/",
@@ -283,11 +283,11 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
-      "title": "Friedrich Merz: Auf sie mit Gebrüll",
-      "teaser": "Ob Sondervermögen fürs Klima oder Reform der Schuldenbremse – Friedrich Merz macht in einer grimmigen Rede klar: Von der Union hat die Ampel null Kooperation zu erwarten.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/friedrich-merz-cdu-union-bundestag-ampelkoalition",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/friedrich-merz-cdu-union-bundestag-ampel-bild/wide__822x462",
-      "image_title": "Friedrich Merz: Auf sie mit Gebrüll"
+      "title": "Klimakonferenz Dubai: Deutsche COP28-Delegation umfasst mehr als 250 Regierungsmitarbeiter",
+      "teaser": "Zehntausende Menschen werden nach Dubai fliegen, um über die Rettung des Klimas zu sprechen. Jetzt wird bekannt, wer alles zur deutschen Delegation gehört.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/klimakonferenz-dubai-250-deutsche-teilnehmer-bundesregierung-kritik",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/cop17-klimatagung-aegypten-2022-einsbaeren/wide__822x462",
+      "image_title": "Klimakonferenz Dubai: Deutsche COP28-Delegation umfasst mehr als 250 Regierungsmitarbeiter"
     },
     {
       "title": "US-Wahl: US-Milliardär unterstützt Nikki Haley im Präsidentschaftswahlkampf",
