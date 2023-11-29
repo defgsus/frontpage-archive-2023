@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-29T08:15:34",
+  "timestamp": "2023-11-29T09:11:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Google Chrome",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Google-Chrome-9542935.html"
+    },
+    {
       "title": "Synology SRM",
       "url": "https://www.heise.de/news/Synology-schliesst-Pwn2Own-Luecke-in-Router-Manager-Firmware-9538922.html"
     },
@@ -44,8 +48,10 @@
       "url": "https://www.heise.de/news/Cloud-Computing-Software-ownCloud-und-Nextcloud-angreifbar-9537650.html"
     },
     {
-      "title": "Atlassian",
-      "url": "https://www.heise.de/news/Atlassian-ruestet-Jira-Data-Center-and-Server-Co-gegen-moegliche-Attacken-9537138.html"
+      "title": "Jetzt patchen! Attacken auf Google Chrome",
+      "teaser": "Der Webbrowser Chrome ist verwundbar. Die Entwickler haben mehrere Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Google-Chrome-9542935.html",
+      "image_title": "Google Chrome Update"
     },
     {
       "title": "Microsoft stellt Sicherheitsfeature Application Guard for Office ein",
@@ -146,12 +152,6 @@
       "title": "Mozilla erweitert Datenschutz und Sicherheit von Firefox und Thunderbird",
       "teaser": "Durch Schwachstellen in Mozillas Mailclient und Webbbrowser kann Schadcode schlüpfen. Außerdem wurde der Datenschutz verbessert.",
       "url": "https://www.heise.de/news/Mozilla-baut-Datenschutz-und-Sicherheit-von-Firefox-und-Thunderbird-aus-9535810.html"
-    },
-    {
-      "title": "Cyberangriff in Südwestfalen: Zeitplan für Notbetrieb und Wiederanlauf steht",
-      "teaser": "Kommunen können wichtige Dienstleistungen noch vor dem Jahreswechsel wieder erbringen. Unterstützung beim Wiederaufbau kommt aus Ostwestfalen.",
-      "url": "https://www.heise.de/news/Cyberangriff-in-Suedwestfalen-Zeitplan-fuer-Notbetrieb-und-Wiederanlauf-steht-9535521.html",
-      "image_title": "Hacker,Attack,Computer,Hardware,Microchip,While,Process,Data,Through,Internet"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
