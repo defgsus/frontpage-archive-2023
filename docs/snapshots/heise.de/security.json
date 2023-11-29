@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-29T13:14:41",
+  "timestamp": "2023-11-29T14:10:56",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -19,7 +19,7 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.8f3ec715e2ab91a92d2b",
+      "src": "https://www.heise.de/assets/akwa/v24/js/akwa.js?.ltc.c7fccce3ff9bcdfc5135",
       "id": null,
       "text": null
     },
@@ -31,6 +31,10 @@
     }
   ],
   "articles": [
+    {
+      "title": "SolarWinds Platform",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Schadcode-Attacken-auf-Solarwinds-Platform-moeglich-9543391.html"
+    },
     {
       "title": "ownCloud",
       "url": "https://www.heise.de/news/Scans-zu-kritischer-Sicherheitsluecke-in-ownCloud-Plugin-9542895.html"
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/Synology-schliesst-Pwn2Own-Luecke-in-Router-Manager-Firmware-9538922.html"
     },
     {
-      "title": "Foxit PDF",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Foxit-PDF-unter-macOS-und-Windows-verwundbar-9538593.html"
+      "title": "Sicherheitslücke in Hikvision-Kameras und NVR ermöglicht unbefugten Zugriff",
+      "teaser": "Verschiedene Modelle des chinesischen Herstellers gestatteten Angreifern den unbefugten Zugriff. Auch andere Marken sind betroffen, Patches stehen bereit.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Hikvision-Kameras-und-NVR-ermoeglicht-unbefugten-Zugriff-9543336.html",
+      "image_title": "Überwachungskamera von Hikvision"
+    },
+    {
+      "title": "Sicherheitslücke: Schadcode-Attacken auf Solarwinds Platform möglich",
+      "teaser": "Die Solarwinds-Entwickler haben zwei Schwachstellen in ihrer Monitoringsoftware geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsluecke-Schadcode-Attacken-auf-Solarwinds-Platform-moeglich-9543391.html"
+    },
+    {
+      "title": "Zettel und Stift statt Computer: Sicherheitsmaßnahmen in Vorpommern-Rügen",
+      "teaser": "Der Landkreis Vorpommern-Rügen untersucht das Ausmaß eines Vorfalls und hat aus Sicherheitsgründen die IT-Systeme vom Internet getrennt.",
+      "url": "https://www.heise.de/news/Zettel-und-Stift-statt-Computer-Sicherheitsmassnahmen-in-Vorpommern-Ruegen-9543573.html",
+      "image_title": "Hand ragt aus einem Papierstapel in einem Büro hervor."
     },
     {
       "title": "Ukraine: Fünf Festnahmen bei Razzia gegen Ransomware-Bande",
@@ -138,22 +155,6 @@
       "title": "Windows Hello: Sicherheitsforscher fälschen Fingerabdruck mit Raspberry Pi 4",
       "teaser": "Einige Fingerabdrucksensoren von Windows-PCs sind unsicher. Forscher konnten die Authentifizierung umgehen und sich als andere Nutzer anmelden.",
       "url": "https://www.heise.de/news/Windows-Hello-Sicherheitsforscher-faelschen-Fingerabdruck-mit-Raspberry-Pi-4-9537812.html"
-    },
-    {
-      "title": "Atlassian rüstet Jira Data Center and Server & Co. gegen mögliche Attacken",
-      "teaser": "Es gibt wichtige Sicherheitsupdates für verschiedene Softwarelösungen von Atlassian. Es kann Schadcode auf Systeme gelangen.",
-      "url": "https://www.heise.de/news/Atlassian-ruestet-Jira-Data-Center-and-Server-Co-gegen-moegliche-Attacken-9537138.html"
-    },
-    {
-      "title": "Neue Outlook-App: BSI sieht Cloudzwang kritisch",
-      "teaser": "Die neue Outlook-App steht weiter in der Kritik. Das BSI sieht durch Cloudzwang generell einen Kontrollverlust und rät, sich die Risiken bewusst zu machen.",
-      "url": "https://www.heise.de/news/Neue-Outlook-App-BSI-sieht-Cloudzwang-kritisch-9536892.html"
-    },
-    {
-      "title": "Hackbacks: Normen für \"aktive Cyberabwehr\" sollen das Schlimmste verhindern​",
-      "teaser": "Die Stiftung Neue Verantwortung hat 9 operative Regeln für eine \"verantwortungsvolle\" Reaktion auf bösartige Hacking-Aktivitäten aus dem Ausland aufgestellt.​",
-      "url": "https://www.heise.de/news/Hackbacks-Normen-fuer-aktive-Cyberabwehr-sollen-das-Schlimmste-verhindern-9536874.html",
-      "image_title": "Cyber,Security,Red,World,Map"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
