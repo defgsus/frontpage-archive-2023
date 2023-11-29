@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-29T16:15:06",
+  "timestamp": "2023-11-29T17:10:33",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -49,15 +49,45 @@
     },
     {
       "type": "module",
-      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/dashboard.32d4e102.mjs",
+      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/index.aaf50249.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/react.5c8616ba.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/parameter-types.49901f6a.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/preload-helper.f56ccb55.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/useWasVisible.47befb5b.mjs",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://interactive.zeit.de/g/2023/energiekostenmonitor/static/assets/dashboard.7fd9edfb.mjs",
       "id": null,
       "text": null
     }
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); COP28 in Dubai: Sie retten die Welt, wie es ihnen gefällt",
-      "teaser": "1,5-Grad-Ziel, mehr erneuerbare Energien: Bei der Weltklimakonferenz werden Staaten wieder mit schönen Versprechen hantieren. Wir erklären, was die Floskeln verschweigen.",
+      "title": "COP28 in Dubai: Darüber wird auf dem Klimagipfel gestritten",
+      "teaser": "Mehr erneuerbare Energien, CCS, 1,5-Grad-Ziel: Auf der Weltklimakonferenz wird es wieder schöne Versprechen geben. Wir erklären, was die Floskeln verschweigen.",
       "url": "https://www.zeit.de/wissen/umwelt/2023-11/cop28-dubai-weltklimakonferenz-un-streitpunkte",
       "image_url": "https://img.zeit.de/wissen/umwelt/2023-11/cop28-dubai-weltklimakonferenz-un-streitpunkte-bild/cinema__1000x428"
     },
@@ -97,18 +127,18 @@
       "image_title": "Gil Ofarim: Nun war es doch ein Einzelfall"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Stiko-Umbau: Politisches Manöver oder ganz normaler Vorgang?",
+      "teaser": "Zwei Drittel der Ständigen Impfkommission müssen gehen. Mitglieder werfen Karl Lauterbach \"unterirdischen Stil\" vor. Was hinter dem radikalen Umbau steckt",
+      "url": "https://www.zeit.de/gesundheit/2023-11/stiko-umbau-impfung-karl-lauterbach",
+      "image_url": "https://img.zeit.de/wissen/2023-11/stiko-umbau-impfung-karl-lauterbach-bild/cinema__980x420",
+      "image_title": "Stiko-Umbau: Politisches Manöver oder ganz normaler Vorgang?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Schwedens Nato-Beitritt: Erdoğan geht es nicht um Schweden",
       "teaser": "Schweden sollte diese Woche der Nato beitreten. Doch die Türkei blockiert die Erweiterung. Der Vorwurf der Russland-Nähe kümmert dabei nicht.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/schwedens-nato-beitritt-tuerkei-blockade-islam",
       "image_url": "https://img.zeit.de/politik/ausland/2023-11/schwedens-nato-beitritt-tuerkei-blockade-islam-bild/wide__822x462",
       "image_title": "Schwedens Nato-Beitritt: Erdoğan geht es nicht um Schweden"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Jahr nach dem Abitur: Wie man herausfindet, wer man ist",
-      "teaser": "Tausend Wege führen ins richtige Studium, aber auch ins falsche. Sieben Redakteurinnen und Redakteure von ZEIT Campus erzählen, was ihnen nach dem Abitur passiert ist.",
-      "url": "https://www.zeit.de/2023/47/abitur-jahr-danach-studium-ausland-erfahrungen",
-      "image_url": "https://img.zeit.de/2023/47/abitur-jahr-danach-studium-ausland-erfahrungen-bild/cinema__980x420",
-      "image_title": "Jahr nach dem Abitur: Wie man herausfindet, wer man ist"
     },
     {
       "title": "Islamismus: Polizei nimmt zwei Jugendliche wegen möglicher Anschlagsplanung fest",
@@ -118,11 +148,17 @@
       "image_title": "Islamismus: Polizei nimmt zwei Jugendliche wegen möglicher Anschlagsplanung fest"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Deborah Feldman: Überall nur \"Bühnenjuden\"?",
-      "teaser": "Deborah Feldman möchte in ihrem Buch \"Judenfetisch\" zeigen, wie sich Juden in Deutschland inszenieren. In der aktuellen Debatte behauptet sie, sie werde mundtot gemacht.",
-      "url": "https://www.zeit.de/2023/51/deborah-feldman-judentum-israel-unorthodox-nahostkrieg",
-      "image_url": "https://img.zeit.de/2023/51/ueberall-nur-buehnenjuden-bild-1/wide__822x462",
-      "image_title": "Deborah Feldman: Überall nur \"Bühnenjuden\"?"
+      "title": "Nahost-Konflikt: Verfassungsschutz sieht erhöhte Anschlagsgefahr in Deutschland",
+      "teaser": "Mit dem Hamas-Angriff auf Israel ist die Gefahr von Terroranschlägen aktuell deutlich gestiegen. Sie sei \"so hoch wie lange nicht mehr\", heißt es vom Verfassungsschutz.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-11/anschlagsgefahr-deutschland-nahost-konflikt",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/verfassungsschutz-terror-gefahr-bild/wide__822x462",
+      "image_title": "Nahost-Konflikt: Verfassungsschutz sieht erhöhte Anschlagsgefahr in Deutschland"
+    },
+    {
+      "title": "Entdecken : Ganz die Alte",
+      "teaser": "Selbst mit der längsten Jugend ist es irgendwann vorbei. Iris Radisch sucht nach Vorbildern: Wie geht das - als Frau auf eine gute Weise zu altern?",
+      "url": "https://premium.zeit.de/abo/diezeit?aktionsnummer=1130785&wt_zmc=fix.int.zonpme.zeitde.epaper.z+.home.bildtext.bildtext&utm_medium=fix&utm_source=zeitde_zonpme_int&utm_campaign=epaper&utm_content=z+_home_bildtext_bildtext?ziel=ausgabenseite&wt_zmc=cross.int.zonpme.zeitde.printbox.ausgseite.bildtext.button.button&utm_medium=cross&utm_source=zeitde_zonpme_int&utm_campaign=printbox&utm_content=ausgseite_bildtext_button_button",
+      "image_url": "https://img.zeit.de/2023/51/printbox-23-51.png/imagegroup/original__1000x620"
     },
     {
       "title": "Liveblog: Krieg in Israel und Gaza: Israel weist Forderungen nach dauerhafter Waffenruhe zurück",
@@ -132,6 +168,13 @@
       "image_title": "Krieg in Israel und Gaza: Israel weist Forderungen nach dauerhafter Waffenruhe zurück"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Deborah Feldman: Überall nur \"Bühnenjuden\"?",
+      "teaser": "Deborah Feldman möchte in ihrem Buch \"Judenfetisch\" zeigen, wie sich Juden in Deutschland inszenieren. In der aktuellen Debatte behauptet sie, sie werde mundtot gemacht.",
+      "url": "https://www.zeit.de/2023/51/deborah-feldman-judentum-israel-unorthodox-nahostkrieg",
+      "image_url": "https://img.zeit.de/2023/51/ueberall-nur-buehnenjuden-bild-1/wide__822x462",
+      "image_title": "Deborah Feldman: Überall nur \"Bühnenjuden\"?"
+    },
+    {
       "title": "\"Hamas-Angriff aufs Festival\": Irgendwann will sie wieder tanzen",
       "teaser": "Eine Doku rekonstruiert den Hamas-Angriff auf den Supernova-Rave am 7. Oktober. Yossi Bloch, einer der Filmemacher, sagt: Eigentlich habe er den Film nicht machen wollen.",
       "url": "https://www.zeit.de/kultur/film/2023-11/hamas-angriff-festival-supernova-arte-dokumentation",
@@ -139,39 +182,11 @@
       "image_title": "\"Hamas-Angriff aufs Festival\": Irgendwann will sie wieder tanzen"
     },
     {
-      "title": "Nahost-Konflikt: Verfassungsschutz sieht erhöhte Anschlagsgefahr in Deutschland",
-      "teaser": "Mit dem Hamas-Angriff auf Israel ist die Gefahr von Terroranschlägen aktuell deutlich gestiegen. Sie sei \"so hoch wie lange nicht mehr\", heißt es vom Verfassungsschutz.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-11/anschlagsgefahr-deutschland-nahost-konflikt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/verfassungsschutz-terror-gefahr-bild/wide__822x462",
-      "image_title": "Nahost-Konflikt: Verfassungsschutz sieht erhöhte Anschlagsgefahr in Deutschland"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Straßenbahn ohne Schienen: Halb Bus, halb Bahn",
-      "teaser": "Eine australische Stadt testet eine Straßenbahn ohne Schienen. In China gibt es das schon länger. Und auch eine deutsche Firma glaubt an die Idee.",
-      "url": "https://www.zeit.de/mobilitaet/2023-11/strassenbahn-schienen-perth-china-oeffentliche-verkehrsmittel",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-11/strassenbahn-schienen-perth-china-oeffentliche-verkehrsmittel-bild/cinema__980x420",
-      "image_title": "Straßenbahn ohne Schienen: Halb Bus, halb Bahn"
-    },
-    {
-      "title": "Bundeshaushalt: Gewerkschaften fordern Sondervermögen Infrastruktur",
-      "teaser": "Um Investitionen in Kitas und Stromnetze zu sichern, schlägt DGB-Chefin Yasmin Fahimi ein eigenes Sondervermögen vor. Auch die Union müsse ein Interesse daran haben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/bundeshaushalt-sondervermoegen-schuldenbremse-dgb",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/bundeshaushalt-sondervermoegen-schuldenbremse-dgb-bild/wide__822x462",
-      "image_title": "Bundeshaushalt: Gewerkschaften fordern Sondervermögen Infrastruktur"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Regierungserklärung von Olaf Scholz: Was will der Kanzler uns sagen?",
-      "teaser": "Nach langem Schweigen hat Olaf Scholz zum ersten Mal über die Haushaltskrise gesprochen. Danach bleibt ein etwas merkwürdiger Eindruck.",
-      "url": "https://www.zeit.de/2023/51/regierungserklaerung-olaf-scholz-haushaltskrise-bundeshaushalt",
-      "image_url": "https://img.zeit.de/2023/51/psssst-bild-1/wide__822x462",
-      "image_title": "Regierungserklärung von Olaf Scholz: Was will der Kanzler uns sagen?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Verbrauchertipps: Mehr Bahnverbindungen, WhatsApp-Funktion kostet Geld",
-      "teaser": "WhatsApp-Nutzer müssen ein Feature bald bezahlen. Google löscht inaktive Konten. Und mit etwas Glück lässt sich die Nebenkostennachzahlung umgehen. Änderungen im Dezember",
-      "url": "https://www.zeit.de/geld/2023-11/deutsche-bahn-whatsapp-nebenkosten-verbrauchertipps",
-      "image_url": "https://img.zeit.de/geld/2023-11/deutsche-bahn-whatsapp-nebenkosten-verbrauchertipps-bild-2/wide__822x462",
-      "image_title": "Verbrauchertipps: Mehr Bahnverbindungen, WhatsApp-Funktion kostet Geld"
+      "title": "Z+ (abopflichtiger Inhalt); Einkochen: Winterschlaf im Glas",
+      "teaser": "Nicht nur Sommerobst und -gemüse können Sie einkochen. Auch im Winter lassen sich so beispielsweise Suppen oder Soßen konservieren. Und das ist gar nicht so kompliziert.",
+      "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-11/einkochen-einmachglas-winter-obst-marmelade",
+      "image_url": "https://img.zeit.de/zeit-magazin/wochenmarkt/2023-11/einkochen-einmachglas-winter-obst-marmelade-teaser/cinema__980x420",
+      "image_title": "Einkochen: Winterschlaf im Glas"
     },
     {
       "title": "Jim-Studie 2023: Fast jeder dritte Jugendliche erlebt im Netz sexuelle Belästigung",
@@ -179,13 +194,6 @@
       "url": "https://www.zeit.de/digital/2023-11/jugendliche-internet-sexuelle-belaestigung-jim-studie",
       "image_url": "https://img.zeit.de/digital/internet/2023-11/jugendliche-internet-sexuelle-belaestigung-jim-studie-bild/wide__822x462",
       "image_title": "Jim-Studie 2023: Fast jeder dritte Jugendliche erlebt im Netz sexuelle Belästigung"
-    },
-    {
-      "title": "Shein vor Börsengang: Shein im Scheinwerferlicht",
-      "teaser": "Der undurchsichtige Fast-Fashion-Konzern aus China will in den USA an die Börse. Dabei steht das Unternehmen wegen Arbeitsbedingungen und Umweltschutz in der Kritik.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-11/shein-boersengang-fast-fashion-china-usa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/shein-boersengang-fast-fashion-china-usa-bild/wide__822x462",
-      "image_title": "Shein vor Börsengang: Shein im Scheinwerferlicht"
     },
     {
       "title": "ZEIT-Bibliothek der Weltliteratur: 100 Bücher, 100 Lebensgefährten",
@@ -202,11 +210,11 @@
       "image_title": "ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Osteopathie bei Babys • Das Beste aus Z+: Zack, Blockade weg, Kind gesund",
-      "teaser": "Das Baby hat Bauchweh oder schläft nicht? Osteopathie verspricht schnelle Hilfe durch sachtes Drücken. Dass das hilft, liegt oft mehr an den Eltern als an den Babys.",
-      "url": "https://www.zeit.de/gesundheit/2023-11/hilfe-neugeborene-osteopathie-bauchschmerzen-schlaf-eltern",
-      "image_url": "https://img.zeit.de/gesundheit/2023-11/hilfe-neugeborene-osteopathie-bauchschmerzen-schlaf-eltern-bild-2/wide__822x462",
-      "image_title": "Osteopathie bei Babys • Das Beste aus Z+: Zack, Blockade weg, Kind gesund"
+      "title": "Z+ (abopflichtiger Inhalt); Jahr nach dem Abitur: Wie man herausfindet, wer man ist",
+      "teaser": "Tausend Wege führen ins richtige Studium, aber auch ins falsche. Sieben Redakteurinnen und Redakteure von ZEIT Campus erzählen, was ihnen nach dem Abitur passiert ist.",
+      "url": "https://www.zeit.de/2023/47/abitur-jahr-danach-studium-ausland-erfahrungen",
+      "image_url": "https://img.zeit.de/2023/47/abitur-jahr-danach-studium-ausland-erfahrungen-bild/wide__822x462",
+      "image_title": "Jahr nach dem Abitur: Wie man herausfindet, wer man ist"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Abnehmspritze Wegovy: \"Es herrscht die Auffassung, Fettleibigkeit sei selbst verschuldet\"",
@@ -228,27 +236,6 @@
       "url": "https://www.zeit.de/zeit-magazin/familie/2023-05/vaeter-sorgearbeit-kind-elternvertrag",
       "image_url": "https://img.zeit.de/zeit-magazin/familie/2023-05/vaeter-sorgearbeit-kind-elternvertrag-bild/wide__822x462",
       "image_title": "Sorgearbeit von Vätern: \"Erst wollen sie ein Kind, dann kümmern sie sich um ihren Job\""
-    },
-    {
-      "title": "Éric Dupond-Moretti: Frankreichs Justizminister von Interessenkonflikt freigesprochen",
-      "teaser": "Sein Freispruch sichert wohl auch seinen Job: Éric Dupond-Moretti hat als Justizminister sein Amt nicht missbräuchlich genutzt, urteilt ein Sondergericht in Paris.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/frankreich-eric-dupond-moretti-justizminister-freispruch",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/frankreich-eric-dupond-moretti-justizminister-freispruch-bild/wide__822x462",
-      "image_title": "Éric Dupond-Moretti: Frankreichs Justizminister von Interessenkonflikt freigesprochen"
-    },
-    {
-      "title": "Ladendiebstahl in Großbritannien: Mit KI gegen das Klauen",
-      "teaser": "Die Zahl der Ladendiebstähle in Großbritannien steigt rasant. Verfolgt werden die Strafen selten. Künstliche Intelligenz und Gesichtserkennung sollen das Problem lösen.",
-      "url": "https://www.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung-bild/wide__822x462",
-      "image_title": "Ladendiebstahl in Großbritannien: Mit KI gegen das Klauen"
-    },
-    {
-      "title": "Konrad R. Müller: Er sah auch noch verdammt gut aus",
-      "teaser": "Konrad R. Müller hat alle Kanzler fotografiert und damit auch den Vater unseres Autors. Eine Erinnerung an den großen, nun gestorbenen Bildkünstler und Fotografen Müller",
-      "url": "https://www.zeit.de/2023/51/konrad-r-mueller-fotograf-kuenstler-tod-kanzler",
-      "image_url": "https://img.zeit.de/2023/51/konrad-r-mueller-fotograf-kuenstler-tod-kanzler-bild/wide__822x462",
-      "image_title": "Konrad R. Müller: Er sah auch noch verdammt gut aus"
     },
     {
       "title": "Islamismus: Polizei nimmt zwei Jugendliche wegen möglicher Anschlagsplanung fest",
@@ -299,25 +286,39 @@
       "image_title": "\"Königreich Deutschland\": Polizei durchsucht Immobilien mutmaßlicher Reichsbürger"
     },
     {
-      "title": "Alpenpodcast: Alle auf die Grünen",
-      "teaser": "Warum stecken die Grünen in den deutschsprachigen Alpenländern in der Krise? Und warum gibt es in Deutschland alle paar Meter eine \"Schweiz\"?",
-      "url": "https://www.zeit.de/gesellschaft/2023-11/die-gruenen-deutschland-oesterreich-schweiz-krise-alpenpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-11/die-gruenen-deutschland-oesterreich-schweiz/wide__822x462",
-      "image_title": "Alpenpodcast: Alle auf die Grünen"
+      "title": "Z+ (abopflichtiger Inhalt); Verbrauchertipps: Mehr Bahnverbindungen, WhatsApp-Funktion kostet Geld",
+      "teaser": "WhatsApp-Nutzer müssen ein Feature bald bezahlen. Google löscht inaktive Konten. Und mit etwas Glück lässt sich die Nebenkostennachzahlung umgehen. Änderungen im Dezember",
+      "url": "https://www.zeit.de/geld/2023-11/deutsche-bahn-whatsapp-nebenkosten-verbrauchertipps",
+      "image_url": "https://img.zeit.de/geld/2023-11/deutsche-bahn-whatsapp-nebenkosten-verbrauchertipps-bild-2/wide__822x462",
+      "image_title": "Verbrauchertipps: Mehr Bahnverbindungen, WhatsApp-Funktion kostet Geld"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Sachbücher: Die Sachbuch-Bestenliste für Dezember",
+      "teaser": "Eine Moralgeschichte der Deutschen, die größten Mythen zum Thema Migration und die Frage, wie man über Israel spricht. Das sind die Empfehlungen für den kommenden Monat.",
+      "url": "https://www.zeit.de/2023/51/sachbuecher-bestenliste-literatur-dezember",
+      "image_url": "https://img.zeit.de/2023/37/buchempfehlungen-sachbuch-september-2023-teaserbild/cinema__980x420",
+      "image_title": "Sachbücher: Die Sachbuch-Bestenliste für Dezember"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Straßenbahn ohne Schienen: Halb Bus, halb Bahn",
+      "teaser": "Eine australische Stadt testet eine Straßenbahn ohne Schienen. In China gibt es das schon länger. Und auch eine deutsche Firma glaubt an die Idee.",
+      "url": "https://www.zeit.de/mobilitaet/2023-11/strassenbahn-schienen-perth-china-oeffentliche-verkehrsmittel",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-11/strassenbahn-schienen-perth-china-oeffentliche-verkehrsmittel-bild/wide__822x462",
+      "image_title": "Straßenbahn ohne Schienen: Halb Bus, halb Bahn"
+    },
+    {
+      "title": "Shein vor Börsengang: Shein im Scheinwerferlicht",
+      "teaser": "Der undurchsichtige Fast-Fashion-Konzern aus China will in den USA an die Börse. Dabei steht das Unternehmen wegen Arbeitsbedingungen und Umweltschutz in der Kritik.",
+      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-11/shein-boersengang-fast-fashion-china-usa",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/shein-boersengang-fast-fashion-china-usa-bild/wide__822x462",
+      "image_title": "Shein vor Börsengang: Shein im Scheinwerferlicht"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Blaubeer-Muffins: Die Muffins für alle, die keine Muffins mögen",
       "teaser": "Nicht besonders süß, wenig Backpulver und eher wie kleine Kuchen: Der deutsche Konditor Günther Mösinger hat die Kunst des Muffins in den USA perfektioniert.",
       "url": "https://www.zeit.de/zeit-magazin/2023/47/blaubeer-muffins-rezept-wochenmarkt",
-      "image_url": "https://img.zeit.de/zeit-magazin/2023-11/blaubeer-muffins-rezept-wochenmarkt-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/zeit-magazin/2023-11/blaubeer-muffins-rezept-wochenmarkt-bild/wide__822x462",
       "image_title": "Blaubeer-Muffins: Die Muffins für alle, die keine Muffins mögen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Stadtpark-Prozess: Was geschah im Hamburger Stadtpark?",
-      "teaser": "Neun Männer sind wegen der Vergewaltigung einer 15-Jährigen verurteilt worden. Der Hamburger Fall steht für einen neuen Umgang mit Sexualstraftaten – und zeigt Probleme.",
-      "url": "https://www.zeit.de/2023/51/stadtpark-pozess-vergewaltigung-hamburg-urteil-sexualstraftaten",
-      "image_url": "https://img.zeit.de/2023/51/stadtpark-pozess-vergewaltigung-hamburg-urteil-sexualstraftaten-teaser/wide__822x462",
-      "image_title": "Stadtpark-Prozess: Was geschah im Hamburger Stadtpark?"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Gil Ofarim: Nichts davon stimmt",
@@ -504,10 +505,17 @@
       "image_title": "\"Was jetzt? – Die Woche\": Was läuft schief in der Migrationspolitik?"
     },
     {
+      "title": "Éric Dupond-Moretti: Frankreichs Justizminister von Interessenkonflikt freigesprochen",
+      "teaser": "Sein Freispruch sichert wohl auch seinen Job: Éric Dupond-Moretti hat als Justizminister sein Amt nicht missbräuchlich genutzt, urteilt ein Sondergericht in Paris.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/frankreich-eric-dupond-moretti-justizminister-freispruch",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/frankreich-eric-dupond-moretti-justizminister-freispruch-bild/cinema__980x420",
+      "image_title": "Éric Dupond-Moretti: Frankreichs Justizminister von Interessenkonflikt freigesprochen"
+    },
+    {
       "title": "UN-Klimakonferenz: Präsident der Klimakonferenz hält an 1,5-Grad-Ziel fest",
       "teaser": "Die UN warnen vor fast drei Grad Erderwärmung, doch Sultan Al-Dschaber bleibt zuversichtlich. Der Präsident der COP hofft auf ein \"nie da gewesenes Ergebnis\" in Dubai.",
       "url": "https://www.zeit.de/politik/ausland/2023-11/cop-dubai-klimakonferenz-sultan-al-dschaber-1-5-grad-ziel",
-      "image_url": "https://img.zeit.de/wissen/umwelt/2023-11/cop-dubai-klimakonferenz-sultan-al-dschaber-1-5-grad-ziel-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/wissen/umwelt/2023-11/cop-dubai-klimakonferenz-sultan-al-dschaber-1-5-grad-ziel-bild/wide__822x462",
       "image_title": "UN-Klimakonferenz: Präsident der Klimakonferenz hält an 1,5-Grad-Ziel fest"
     },
     {
@@ -518,17 +526,17 @@
       "image_title": "Schuldenbremse: Wer soll das bezahlen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Schuldenbremse: Die Machtprobe",
-      "teaser": "Das Urteil zur Schuldenbremse verunsichert die Bundesregierung. Doch im Vergleich zu früheren Urteilen blieb das Verfassungsgericht diesmal sogar milde.",
-      "url": "https://www.zeit.de/2023/51/schuldenbremse-urteil-verfassungsgericht-bundeshaushalt",
-      "image_url": "https://img.zeit.de/2023/51/die-machtprobe-bild-1/wide__822x462",
-      "image_title": "Schuldenbremse: Die Machtprobe"
+      "title": "Alpenpodcast: Alle auf die Grünen",
+      "teaser": "Warum stecken die Grünen in den deutschsprachigen Alpenländern in der Krise? Und warum gibt es in Deutschland alle paar Meter eine \"Schweiz\"?",
+      "url": "https://www.zeit.de/gesellschaft/2023-11/die-gruenen-deutschland-oesterreich-schweiz-krise-alpenpodcast",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-11/die-gruenen-deutschland-oesterreich-schweiz/cinema__980x420",
+      "image_title": "Alpenpodcast: Alle auf die Grünen"
     },
     {
       "title": "\"Königreich Deutschland\": Polizei durchsucht Immobilien mutmaßlicher Reichsbürger",
       "teaser": "Ermittler gehen gegen die Reichsbürger-Vereinigung \"Königreich Deutschland\" vor. Ihr wird unter anderem vorgeworfen, eine illegale Krankenkasse betrieben zu haben.",
       "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-11/reichsbuerger-durchsuchung-illegale-geschaefte-krankenkasse",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-11/reichsbuerger-durchsuchung-illegale-geschaefte-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-11/reichsbuerger-durchsuchung-illegale-geschaefte-bild/wide__822x462",
       "image_title": "\"Königreich Deutschland\": Polizei durchsucht Immobilien mutmaßlicher Reichsbürger"
     },
     {
@@ -539,32 +547,32 @@
       "image_title": "Asiamärkte in Tschechien: Der Spiegel der deutschen Seele"
     },
     {
-      "title": "Glättewarnung: Winterwetter mit Schnee und Eis bleibt mindestens bis zum Wochenende",
-      "teaser": "Auf glatten Straßen hat es in vielen Teilen Deutschlands Unfälle gegeben. Weiterer Schneefall ist angekündigt. Meteorologen erwarten, dass die Kälte vorerst bleibt.",
-      "url": "https://www.zeit.de/gesellschaft/2023-11/wetter-winter-kaelte-glaette-wochenende",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-11/schneefraese-harz-winter/wide__822x462",
-      "image_title": "Glättewarnung: Winterwetter mit Schnee und Eis bleibt mindestens bis zum Wochenende"
+      "title": "Bundeshaushalt: Gewerkschaften fordern Sondervermögen Infrastruktur",
+      "teaser": "Um Investitionen in Kitas und Stromnetze zu sichern, schlägt DGB-Chefin Yasmin Fahimi ein eigenes Sondervermögen vor. Auch die Union müsse ein Interesse daran haben.",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/bundeshaushalt-sondervermoegen-schuldenbremse-dgb",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/bundeshaushalt-sondervermoegen-schuldenbremse-dgb-bild/cinema__980x420",
+      "image_title": "Bundeshaushalt: Gewerkschaften fordern Sondervermögen Infrastruktur"
     },
     {
       "title": "Statistisches Bundesamt: Inflation sinkt auf 3,2 Prozent",
       "teaser": "Im November hat sich die Inflationsrate in Deutschland weiter abgeschwächt. In Hessen und Bayern lag sie unter dem Bundesdurchschnitt, in Sachsen und Brandenburg darüber.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/inflation-november-statistisches-bundesamt-preise",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutschland-bundeslaender-inflation-rate-teuerung-bild-2/cinema__980x420",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/deutschland-bundeslaender-inflation-rate-teuerung-bild-2/wide__822x462",
       "image_title": "Statistisches Bundesamt: Inflation sinkt auf 3,2 Prozent"
     },
     {
-      "title": "Ampeltreffen: SPD-Chef hofft auf \"Lösungskorridore\" für Haushalt 2024",
-      "teaser": "Am Abend will die Ampel über den weiteren Kurs nach dem Haushaltsurteil des Bundesverfassungsgerichts beraten. Lars Klingbeil rechnet mit keiner abschließenden Lösung.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/haushalt-ampel-koalition-treffen-spd-lars-klingbeil",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-11/lars-klingbeil-spd/wide__822x462",
-      "image_title": "Ampeltreffen: SPD-Chef hofft auf \"Lösungskorridore\" für Haushalt 2024"
+      "title": "Ladendiebstahl in Großbritannien: Mit KI gegen das Klauen",
+      "teaser": "Die Zahl der Ladendiebstähle in Großbritannien steigt rasant. Verfolgt werden die Strafen selten. Künstliche Intelligenz und Gesichtserkennung sollen das Problem lösen.",
+      "url": "https://www.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-11/ladendiebstahl-grossbritannien-einzelhandel-ki-gesichtserkennung-bild/wide__822x462",
+      "image_title": "Ladendiebstahl in Großbritannien: Mit KI gegen das Klauen"
     },
     {
-      "title": "Heinz Dürr: Früherer Bahn-Chef Heinz Dürr gestorben",
-      "teaser": "Unter seiner Leitung wurde nach der Wiedervereinigung aus Bundesbahn und Reichsbahn die Deutsche Bahn. Nun ist Heinz Dürr im Alter von 90 Jahren gestorben.",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/deutsche-bahn-heinz-duerr-tot",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-11/deutsche-bahn-heinz-duerr-tot-bild/wide__822x462",
-      "image_title": "Heinz Dürr: Früherer Bahn-Chef Heinz Dürr gestorben"
+      "title": "WirtschaftsWocheVolkswagen-Aktienanalyse: VW-Crash: Ist die Aktie jetzt ein Kauf?",
+      "teaser": "Zum sechsten Mal in zwei Jahrzehnten hat die VW-Aktie einen Totalabsturz erlebt. Es gibt zahlreiche Hinweise, dass sich der Einstieg bald lohnen könnte.",
+      "url": "https://www.wiwo.de/my/finanzen/boerse/volkswagen-aktienanalyse-vw-crash-ist-die-aktie-jetzt-ein-kauf/29531504.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/vw-aktie-imago/29529952/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Volkswagen-Aktienanalyse: VW-Crash: Ist die Aktie jetzt ein Kauf?"
     },
     {
       "title": "WirtschaftsWocheSigna-Insolvenz trifft Immobilienmarkt: „Das große Donnern wird noch kommen“",
@@ -572,13 +580,6 @@
       "url": "https://www.wiwo.de/unternehmen/handel/signa-insolvenz-trifft-immobilienmarkt-das-grosse-donnern-wird-noch-kommen/29531252.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
       "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/signa-baustelle-dpa-picture-alliance-2-261401368-highres/29514552/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
       "image_title": "Signa-Insolvenz trifft Immobilienmarkt: „Das große Donnern wird noch kommen“"
-    },
-    {
-      "title": "WirtschaftsWocheRusslands Angriffskrieg: „Putin hatte zu Beginn des Kriegs einen ganz anderen Einfluss auf sein Militär als heute“",
-      "teaser": "Bei der Berliner Sicherheitskonferenz warnen Experten: Die Lage in der Ukraine droht zu kippen. Der Ex-Nato-General Philip Breedlove findet deutliche Worte. Der Westen gebe der Ukraine nicht genug, um zu gewinnen.",
-      "url": "https://www.wiwo.de/my/politik/ausland/russlands-angriffskrieg-putin-hatte-zu-beginn-des-kriegs-einen-ganz-anderen-einfluss-auf-sein-militaer-als-heute/29529760.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/233737009-reuters/29529998/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Russlands Angriffskrieg: „Putin hatte zu Beginn des Kriegs einen ganz anderen Einfluss auf sein Militär als heute“"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Offene Beziehungen • Das Beste aus Z+: \"Ich ging fremd – und dachte, ich sei beziehungsunfähig\"",
@@ -602,11 +603,11 @@
       "image_title": "Nahostdebatte in Deutschland: Erleben Sie gerade verstärkt Rassismus?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Sachbücher: Die Sachbuch-Bestenliste für Dezember",
-      "teaser": "Eine Moralgeschichte der Deutschen, die größten Mythen zum Thema Migration und die Frage, wie man über Israel spricht. Das sind die Empfehlungen für den kommenden Monat.",
-      "url": "https://www.zeit.de/2023/51/sachbuecher-bestenliste-literatur-dezember",
-      "image_url": "https://img.zeit.de/2023/37/buchempfehlungen-sachbuch-september-2023-teaserbild/cinema__980x420",
-      "image_title": "Sachbücher: Die Sachbuch-Bestenliste für Dezember"
+      "title": "Konrad R. Müller: Er sah auch noch verdammt gut aus",
+      "teaser": "Konrad R. Müller hat alle Kanzler fotografiert und damit auch den Vater unseres Autors. Eine Erinnerung an den großen, nun gestorbenen Bildkünstler und Fotografen Müller",
+      "url": "https://www.zeit.de/2023/51/konrad-r-mueller-fotograf-kuenstler-tod-kanzler",
+      "image_url": "https://img.zeit.de/2023/51/konrad-r-mueller-fotograf-kuenstler-tod-kanzler-bild/cinema__980x420",
+      "image_title": "Konrad R. Müller: Er sah auch noch verdammt gut aus"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Wetten, dass..?: Lieber Barzel oder Brazel",
@@ -695,7 +696,7 @@
     },
     {
       "title": "Gemeinsamer Bundesausschuss: Krankschreibung per Telefon könnte im Dezember wieder möglich sein",
-      "teaser": "Viele Arztpraxen sind überlastet – daher wollen sie Patienten telefonisch krankschreiben. Bis Ende Januar sollten Regeln erarbeitet werden. Nun könnte es schneller gehen. 150 Kommentare",
+      "teaser": "Viele Arztpraxen sind überlastet – daher wollen sie Patienten telefonisch krankschreiben. Bis Ende Januar sollten Regeln erarbeitet werden. Nun könnte es schneller gehen. 152 Kommentare",
       "url": "https://www.zeit.de/gesundheit/2023-11/telefonische-krankschreibung-wiedereinfuehrung-gemeinsamer-bundesausschuss",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-11/telefonische-krankschreibung-wiedereinfuehrung-gemeinsamer-bundesausschuss-bild/cinema__980x420",
       "image_title": "Gemeinsamer Bundesausschuss: Krankschreibung per Telefon könnte im Dezember wieder möglich sein"
@@ -771,11 +772,11 @@
       "image_title": "Hochschulen: Wieder weniger Studierende im aktuellen Wintersemester"
     },
     {
-      "title": "Verlagsangebot Ein Studium finden, das passt",
-      "teaser": "Mit dem Studium-Interessentest erfahren angehende Studierende mehr über sich und finden das Studium, das zu ihnen passt. Wissenschaftlich, individuell und kostenlos.",
-      "url": "https://studiengaenge.zeit.de/sit?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.sit.teaser.bewerben-schreibtisch.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=sit-verlagsteaser&amp;utm_content=sit_teaser_bewerben-schreibtisch_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/sit-bewerben-schreibtisch/wide__350x197__desktop",
-      "image_title": "Ein Studium finden, das passt"
+      "title": "Verlagsangebot Was kann man wo studieren?",
+      "teaser": "Deutschlands größte Suchmaschine für Studiengänge und Hochschulen bietet Orientierung und hilft bei der Studienwahl.",
+      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.automation.bleistift-biss.x&amp;utm_medium=fix&amp;utm_source=zon-hp-rebrush_zonpmr_int&amp;utm_campaign=verlagsteaser&amp;utm_content=suma_automation_bleistift-biss_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/suma-teaser-januar2019/wide__350x197__desktop",
+      "image_title": "Was kann man wo studieren?"
     },
     {
       "title": "Taylor Swift: I liebe Taylor",
@@ -827,18 +828,18 @@
       "image_title": "Autogipfel: Branchenverband fordert verlässliche Rahmenbedingungen für E-Mobilität"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Stadtpark-Prozess: Was geschah im Hamburger Stadtpark?",
+      "teaser": "Neun Männer sind wegen der Vergewaltigung einer 15-Jährigen verurteilt worden. Der Hamburger Fall steht für einen neuen Umgang mit Sexualstraftaten – und zeigt Probleme.",
+      "url": "https://www.zeit.de/2023/51/stadtpark-pozess-vergewaltigung-hamburg-urteil-sexualstraftaten",
+      "image_url": "https://img.zeit.de/2023/51/stadtpark-pozess-vergewaltigung-hamburg-urteil-sexualstraftaten-teaser/wide__822x462",
+      "image_title": "Stadtpark-Prozess: Was geschah im Hamburger Stadtpark?"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Elbtower: Die Luftnummer",
       "teaser": "Der Elbtower sollte ein neues Wahrzeichen für Hamburg werden – und noch viel mehr. Doch der Deal mit der Benko-Firma Signa ist nicht so krisensicher wie behauptet.",
       "url": "https://www.zeit.de/2023/51/elbtower-signa-investoren-vertraege-bauruine-hafencity",
       "image_url": "https://img.zeit.de/hamburg/2023-11/elbtower/wide__822x462",
       "image_title": "Elbtower: Die Luftnummer"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Parents in Arts: \"Es hat gedauert, bis mir klar wurde, dass der Fehler im System liegt\"",
-      "teaser": "Für Mütter und Väter im Kunst- und Literaturbetrieb gibt es kaum Förderungen. Zwei Künstlerinnen aus Hamburg haben das geändert, mit einem besonderen Stipendium.",
-      "url": "https://www.zeit.de/hamburg/2023-11/parents-in-arts-stipendium-kunst-kinder-hamburg",
-      "image_url": "https://img.zeit.de/hamburg/2023-11/parents-in-arts-stipendium-kunst-kinder-hamburg-kind-im-bild/wide__822x462",
-      "image_title": "Parents in Arts: \"Es hat gedauert, bis mir klar wurde, dass der Fehler im System liegt\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Junioren des FC Concordia Basel: Sie dürfen keine Schwäche zeigen",
@@ -904,36 +905,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Konzerte: Philharmoniker unter Petrenko beenden Asien-Tournee",
-      "url": "https://www.zeit.de/news/2023-11/29/philharmoniker-unter-petrenko-beenden-asien-tournee"
+      "title": "Champions League: BR Volleys entführen einen Punkt aus Ankara",
+      "url": "https://www.zeit.de/news/2023-11/29/br-volleys-entfuehren-einen-punkt-aus-ankara"
     },
     {
-      "title": "Saarbrücken: Unbekannte brechen in Kirche bei Statue Kopf von Jesus ab",
-      "url": "https://www.zeit.de/news/2023-11/29/unbekannte-brechen-in-kirche-bei-statue-kopf-von-jesus-ab"
+      "title": "NRW-Innenminister: Reul: Konkreter Anschlagsplan auf Weihnachtsmarkt",
+      "url": "https://www.zeit.de/news/2023-11/29/reul-konkreter-anschlagsplan-auf-weihnachtsmarkt"
     },
     {
-      "title": "Bahnverkehr: Oberleitungsschaden nahe Hannover: Hauptbahnhof betroffen",
-      "url": "https://www.zeit.de/news/2023-11/29/oberleitungsschaden-nahe-hannover-hauptbahnhof-betroffen"
+      "title": "Fürth: Historischer Weg bei Straßenbauarbeiten entdeckt",
+      "url": "https://www.zeit.de/news/2023-11/29/historischer-weg-bei-strassenbauarbeiten-entdeckt"
     },
     {
-      "title": "Gericht: Abhören des Pressekontakts der Letzten Generation rechtens",
-      "url": "https://www.zeit.de/news/2023-11/29/abhoeren-des-pressekontakts-der-letzten-generation-rechtens"
+      "title": "Bildung: Mangel an Kita-Plätzen: Landtag billigt flexible Lösungen",
+      "url": "https://www.zeit.de/news/2023-11/29/mangel-an-kita-plaetzen-landtag-billigt-flexible-loesungen"
     },
     {
-      "title": "Try-Out-Vertrag: Eisbären verpflichten Flügelstürmer für zunächst einen Monat",
-      "url": "https://www.zeit.de/news/2023-11/29/eisbaeren-verpflichten-fluegelstuermer-fuer-zunaechst-einen-monat"
+      "title": "Asservaten-Verwaltung: Verlorengeglaubte Pistole wieder da: Wohl falsch gelagert",
+      "url": "https://www.zeit.de/news/2023-11/29/verlorengeglaubte-pistole-wieder-da-wohl-falsch-gelagert"
     },
     {
-      "title": "Gesundheitssenatorin: Zu viele Ärzte bei Medizinischem Dienst der Krankenkassen",
-      "url": "https://www.zeit.de/news/2023-11/29/zu-viele-aerzte-bei-medizinischem-dienst-der-krankenkassen"
+      "title": "Bundeskanzleramt: Kanzler-Tanne an Scholz übergeben",
+      "url": "https://www.zeit.de/news/2023-11/29/kanzler-tanne-an-scholz-uebergeben"
     },
     {
-      "title": "Wintereinbruch: Unfallkrankenhaus: Etwas mehr wetterbedingte Verletzungen",
-      "url": "https://www.zeit.de/news/2023-11/29/unfallkrankenhaus-etwas-mehr-wetterbedingte-verletzungen"
+      "title": "Arbeitsmarktzahlen: Experten rechnen mit leichtem Anstieg der Arbeitslosigkeit",
+      "url": "https://www.zeit.de/news/2023-11/29/experten-rechnen-mit-leichtem-anstieg-der-arbeitslosigkeit"
     },
     {
-      "title": "Extremismus: Illegale Geschäfte? - Durchsuchungen in Reichsbürgerszene",
-      "url": "https://www.zeit.de/news/2023-11/29/illegale-geschaefte-durchsuchungen-in-reichsbuergerszene"
+      "title": "Firmengeflecht: Signa-Holding insolvent: Unklare Zukunft für Gruppe um Benko",
+      "url": "https://www.zeit.de/news/2023-11/29/signa-holding-insolvent-unklare-zukunft-fuer-gruppe-um-benko"
     }
   ]
 }
