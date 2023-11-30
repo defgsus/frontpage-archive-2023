@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-30T10:12:26",
+  "timestamp": "2023-11-30T11:10:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.51b089d29aab056ae8e0",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.6dbc1e1012997a1b6100",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Apache ActiveMQ",
+      "url": "https://www.heise.de/news/Apache-ActiveMQ-Mehrere-Codeschmuggel-Luecken-von-Botnetbetreibern-ausgenutzt-9544281.html"
+    },
     {
       "title": "Hikvision-Kameras",
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Hikvision-Kameras-und-NVR-ermoeglicht-unbefugten-Zugriff-9543336.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Scans-zu-kritischer-Sicherheitsluecke-in-ownCloud-Plugin-9542895.html"
     },
     {
-      "title": "Google Chrome",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Google-Chrome-9542935.html"
+      "title": "Apache ActiveMQ: Mehrere Codeschmuggel-Lücken von Botnetbetreibern ausgenutzt",
+      "teaser": "Die im Oktober veröffentlichten kritischen Sicherheitsprobleme in ActiveMQ nützen nun Botnet-Betreibern. Derweil gibt es ein neues Sicherheitsproblem.",
+      "url": "https://www.heise.de/news/Apache-ActiveMQ-Mehrere-Codeschmuggel-Luecken-von-Botnetbetreibern-ausgenutzt-9544281.html"
     },
     {
       "title": "Sicherheitslücke in IBM Security Guardium ermöglicht Angriff per CSV-Datei",
@@ -152,11 +157,6 @@
       "teaser": "Das LKA Niedersachsen beobachtet ein wachsendes Aufkommen von gefälschten Lieferbenachrichtigungen auch von Temu. Ziel ist vermutlich Phishing.",
       "url": "https://www.heise.de/news/Betrugsmasche-LKA-Niedersachsen-warnt-vor-falschen-Temu-Liefernachrichten-9538601.html",
       "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
-    },
-    {
-      "title": "Systemadministration: Wireshark 4.2.0 ist da",
-      "teaser": "Mit Version 4.2.0 erhält das freie Tool zur Protokollanalyse Wireshark einige wichtige neue Funktionen – für Linux, macOS und für Windows.",
-      "url": "https://www.heise.de/news/Wichtiges-Admin-Werkzeug-Wireshark-erstmals-fuer-ARM64-Windows-9538300.html"
     },
     {
       "title": "Neues Outlook: Schutz vor zu neugieriger Microsoft-Mail-App",
