@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-11-30T03:12:14",
+  "timestamp": "2023-11-30T04:14:22",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,23 @@
   ],
   "articles": [
     {
+      "title": "US-Schauspielerin: Schauspielerin Frances Sternhagen mit 93 Jahren gestorben",
+      "teaser": "Die US-Amerikanerin ist dem Film- und Fernsehpublikum aus \"Sex and the City\" und der Erfolgsserie \"Cheers\" bekannt. Jetzt starb Frances Sternhagen im US-Staat New York.",
+      "url": "https://www.zeit.de/kultur/film/2023-11/usa-schauspielerin-frances-sternhagen-cheers-gestorben",
+      "image_url": "https://img.zeit.de/kultur/film/2023-11/frances-sternhagen-schauspielerin-cheers-gestorben-bild/cinema__980x420"
+    },
+    {
       "title": "DDR-Kinderfernsehen: Pittiplatsch-Erfinderin Inge Trisch ist tot",
       "teaser": "Die freche DDR-Fernsehfigur Pittiplatsch war bei vielen Kindern beliebt. Ihre Erfinderin, die Autorin Inge Trisch, ist nun gestorben. Sie wurde 89 Jahre alt.",
       "url": "https://www.zeit.de/kultur/film/2023-11/inge-trisch-tod-sandmann-ddr",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-11/inge-trisch-tot-ddr-kinderfernsehen-pittiplatsch-bild/cinema__980x420"
+      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-11/inge-trisch-tot-ddr-kinderfernsehen-pittiplatsch-bild/wide__822x462",
+      "image_title": "DDR-Kinderfernsehen: Pittiplatsch-Erfinderin Inge Trisch ist tot"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Genie oder Monster\" von Claire Dederer: Darf man die Kunst von Arschlöchern schätzen?",
@@ -51,24 +64,11 @@
       "image_title": "\"Genie oder Monster\" von Claire Dederer: Darf man die Kunst von Arschlöchern schätzen?"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Sachbücher: Die Sachbuch-Bestenliste für Dezember",
       "teaser": "Eine Moralgeschichte der Deutschen, die größten Mythen zum Thema Migration und die Frage, wie man über Israel spricht. Das sind die Empfehlungen für den kommenden Monat.",
       "url": "https://www.zeit.de/2023/51/sachbuecher-bestenliste-literatur-dezember",
       "image_url": "https://img.zeit.de/2023/37/buchempfehlungen-sachbuch-september-2023-teaserbild/wide__822x462",
       "image_title": "Sachbücher: Die Sachbuch-Bestenliste für Dezember"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Gil Ofarim: Nun war es doch ein Einzelfall",
-      "teaser": "Die Lüge Gil Ofarims über einen antisemitischen Vorfall darf nicht instrumentalisiert werden. Doch sie zeigt, dass reflexhafte Solidarität nach hinten losgehen kann.",
-      "url": "https://www.zeit.de/kultur/2023-11/gil-ofarim-antisemitismus-instrumentalisierung-solidaritaet",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-11/gil-ofarim-rockmusiker/wide__822x462",
-      "image_title": "Gil Ofarim: Nun war es doch ein Einzelfall"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Solidaritätskonzert gegen Antisemitismus: Hat Kunst Macht?",
@@ -170,6 +170,13 @@
       "image_title": "ZEIT LEO Weltretter-Mission"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Gil Ofarim: Nun war es doch ein Einzelfall",
+      "teaser": "Die Lüge Gil Ofarims über einen antisemitischen Vorfall darf nicht instrumentalisiert werden. Doch sie zeigt, dass reflexhafte Solidarität nach hinten losgehen kann.",
+      "url": "https://www.zeit.de/kultur/2023-11/gil-ofarim-antisemitismus-instrumentalisierung-solidaritaet",
+      "image_url": "https://img.zeit.de/kultur/musik/2023-11/gil-ofarim-rockmusiker/wide__822x462",
+      "image_title": "Gil Ofarim: Nun war es doch ein Einzelfall"
+    },
+    {
       "title": "\"Hamas-Angriff aufs Festival\": Irgendwann will sie wieder tanzen",
       "teaser": "Eine Doku rekonstruiert den Hamas-Angriff auf den Supernova-Rave am 7. Oktober. Yossi Bloch, einer der Filmemacher, sagt: Eigentlich habe er den Film nicht machen wollen.",
       "url": "https://www.zeit.de/kultur/film/2023-11/hamas-angriff-festival-supernova-arte-dokumentation",
@@ -198,13 +205,6 @@
       "image_title": "\"Wasserball\" von Mário Gomes: Ein Spiel wird Ernst"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); \"Begehrenswert\" von Jule Govrin: Ganz solidarisch schön sein",
-      "teaser": "Jule Govrin entdeckt in ihrem neuen Sachbuch einen Hoffnungsschimmer im Kapitalismus: Wenn der eine Ökonomie des Begehrens ist, warum begehren wir dann nicht solidarisch?",
-      "url": "https://www.zeit.de/2023/48/begehrenswert-jule-govrin-essay-instagram-kapitalismus",
-      "image_url": "https://img.zeit.de/2023/48/begehrenswert-jule-govrin-essay-instagram-kapitalismus-teaserbild/wide__822x462",
-      "image_title": "\"Begehrenswert\" von Jule Govrin: Ganz solidarisch schön sein"
-    },
-    {
       "title": "Marc-Uwe Kling: \"Ich war noch nie so glücklich beim Arbeiten\"",
       "teaser": "Marc-Uwe Kling hat mit der Erfindung des kommunistischen Kängurus Millionen von Menschen erreicht. Nun hat er mit seinen Zwillingen einen Roman geschrieben. Wie war das?",
       "url": "https://www.zeit.de/2023/49/marc-uwe-kling-roman-vater-kinder",
@@ -219,6 +219,13 @@
       "image_title": "\"Napoleon\": Wir müden Europäer"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Begehrenswert\" von Jule Govrin: Ganz solidarisch schön sein",
+      "teaser": "Jule Govrin entdeckt in ihrem neuen Sachbuch einen Hoffnungsschimmer im Kapitalismus: Wenn der eine Ökonomie des Begehrens ist, warum begehren wir dann nicht solidarisch?",
+      "url": "https://www.zeit.de/2023/48/begehrenswert-jule-govrin-essay-instagram-kapitalismus",
+      "image_url": "https://img.zeit.de/2023/48/begehrenswert-jule-govrin-essay-instagram-kapitalismus-teaserbild/wide__822x462",
+      "image_title": "\"Begehrenswert\" von Jule Govrin: Ganz solidarisch schön sein"
+    },
+    {
       "title": "\"Northwoods Baseball Sleep Radio\": Diese … erlösende … tiefe … Langeweile …",
       "teaser": "Für alle, die von Geplapper und starken Gefühlen genug haben: Der Schlafpodcast \"Northwoods Baseball Sleep Radio\" ist ein grandioses Kunstwerk der Monotonie und Stille.",
       "url": "https://www.zeit.de/kultur/2023-11/northwoods-baseball-sleep-radio-podcast-kunst",
@@ -229,14 +236,14 @@
       "title": "Gdańsk: Die Stadt mit dem schönen Eigensinn",
       "teaser": "Gdańsk tickt anders als der Rest Polens. Unsere Autorin traf dort am polnischen Nationalfeiertag auf ein Land, in dem viele auf einen Neustart zu hoffen wagen.",
       "url": "https://www.zeit.de/kultur/2023-11/polen-danzig-pis-regierung-wahl-10nach8",
-      "image_url": "https://img.zeit.de/kultur/2023-11/10nach8-polen-danzig-pis-regierung-wahl/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-11/10nach8-polen-danzig-pis-regierung-wahl/cinema__980x420",
       "image_title": "Gdańsk: Die Stadt mit dem schönen Eigensinn"
     },
     {
       "title": "Griechenland: Sunak sagt Treffen mit griechischem Premier wegen Kulturstreit ab",
-      "teaser": "Seit gut 200 Jahren befinden sich die griechischen Parthenon-Skulpturen in London. Premier Mitsotakis will sie zurück – sein britischer Amtskollege lässt ihn auflaufen. 150 Kommentare",
+      "teaser": "Seit gut 200 Jahren befinden sich die griechischen Parthenon-Skulpturen in London. Premier Mitsotakis will sie zurück – sein britischer Amtskollege lässt ihn auflaufen.",
       "url": "https://www.zeit.de/kultur/2023-11/griechenland-grossbritannien-parthenon-skulpturen-treffen-abgesagt",
-      "image_url": "https://img.zeit.de/kultur/schule/2023-11/griechenland-grossbritannien-parthenon-skulpturen-treffen-abgesagt-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/schule/2023-11/griechenland-grossbritannien-parthenon-skulpturen-treffen-abgesagt-bild/wide__822x462",
       "image_title": "Griechenland: Sunak sagt Treffen mit griechischem Premier wegen Kulturstreit ab"
     },
     {
@@ -250,15 +257,8 @@
       "title": "Z+ (abopflichtiger Inhalt); Christina Morina: \"Alarmismus reicht nicht aus, wir brauchen gründliche Analysen\"",
       "teaser": "Antisemitismus und Rassismus nehmen derzeit zu. Um das zu erklären, braucht es einen Blick auf deren historische Kontinuitäten, sagt die Historikerin Christina Morina.",
       "url": "https://www.zeit.de/kultur/2023-11/christina-morina-antisemitismus-rassismus-historie",
-      "image_url": "https://img.zeit.de/kultur/2023-11/christina-morina-antisemitismus-rassismus/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-11/christina-morina-antisemitismus-rassismus/cinema__980x420",
       "image_title": "Christina Morina: \"Alarmismus reicht nicht aus, wir brauchen gründliche Analysen\""
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Das Gespräch der Geschlechter\": Die neue Sprache des Begehrens",
-      "teaser": "Was ist \"einvernehmlicher Sex\"? Und was ist \"Zustimmung\"? Die französische Philosophin Manon Garcia untersucht die Redeweisen des gleichberechtigten Sex.",
-      "url": "https://www.zeit.de/2023/49/das-gespraech-der-geschlechter-manon-garcia-sex-zustimmung",
-      "image_url": "https://img.zeit.de/2023/49/das-gespraech-der-geschlechter-manon-garcia-sex-zustimmung-teaserbild/cinema__980x420",
-      "image_title": "\"Das Gespräch der Geschlechter\": Die neue Sprache des Begehrens"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Literatur: 100 Gefährten fürs Leben",
@@ -275,6 +275,13 @@
       "image_title": "Postkolonialismus: Eine Theorie unter Anklage"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Das Gespräch der Geschlechter\": Die neue Sprache des Begehrens",
+      "teaser": "Was ist \"einvernehmlicher Sex\"? Und was ist \"Zustimmung\"? Die französische Philosophin Manon Garcia untersucht die Redeweisen des gleichberechtigten Sex.",
+      "url": "https://www.zeit.de/2023/49/das-gespraech-der-geschlechter-manon-garcia-sex-zustimmung",
+      "image_url": "https://img.zeit.de/2023/49/das-gespraech-der-geschlechter-manon-garcia-sex-zustimmung-teaserbild/wide__822x462",
+      "image_title": "\"Das Gespräch der Geschlechter\": Die neue Sprache des Begehrens"
+    },
+    {
       "title": "Debattenkultur: Freiheitseingriffe im Namen der Freiheit",
       "teaser": "Debatte ist der Sauerstoff der Demokratie. Auf die aktuellen Spannungen und Konflikte mit Verboten zu reagieren, ist ein Zeichen demokratischer Ratlosigkeit.",
       "url": "https://www.zeit.de/kultur/2023-11/debattenkultur-verbote-freiheit-demokratie",
@@ -285,22 +292,15 @@
       "title": "Kunstaktion vor dem Kanzleramt: Die AfD hinter Gittern, aber nur für den Schockeffekt",
       "teaser": "Die Künstlergruppe Zentrum für Politische Schönheit fordert vorm Kanzleramt ein AfD-Parteiverbot und benutzt eine KI-Stimme von Olaf Scholz. Das soll wohl schockieren.",
       "url": "https://www.zeit.de/kultur/2023-11/zentrum-fuer-politische-schoenheit-afd-parteiverbot",
-      "image_url": "https://img.zeit.de/kultur/2023-11/afd-knast-zps/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-11/afd-knast-zps/cinema__980x420",
       "image_title": "Kunstaktion vor dem Kanzleramt: Die AfD hinter Gittern, aber nur für den Schockeffekt"
     },
     {
       "title": "\"Der Diener des Philosophen\": Richtig guter Kant-Klamauk",
       "teaser": "Ein halbes Leben lang ist Martin Lampe der Diener von Immanuel Kant. Dann feuert der ihn. Felix Heidenreich hat einen feinen Roman über dieses besondere Duo geschrieben.",
       "url": "https://www.zeit.de/kultur/literatur/2023-11/der-diener-des-philosophen-felix-heidenreich-roman",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/der-diener-des-philosophen-felix-heidenreich/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/der-diener-des-philosophen-felix-heidenreich/wide__822x462",
       "image_title": "\"Der Diener des Philosophen\": Richtig guter Kant-Klamauk"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Mehrwertsteuer in der Gastronomie: Rettet die Erdgeschosse!",
-      "teaser": "Im Erdgeschoss, da sind außer Nagelstudios vor allem Kneipen und Restaurants, zum Reingucken, Menschensehen, Malreingehen. Die Regierung gefährdet nun diese Geselligkeit.",
-      "url": "https://www.zeit.de/2023/49/mehrwertsteuer-gastronomie-senkung-einsamkeit",
-      "image_url": "https://img.zeit.de/2023/49/rettet-die-erdgeschosse-bild-1/wide__822x462",
-      "image_title": "Mehrwertsteuer in der Gastronomie: Rettet die Erdgeschosse!"
     },
     {
       "title": "\"Die Zeit der Verluste\": Trauern vor grandiosen Kulissen",
@@ -315,6 +315,13 @@
       "url": "https://www.zeit.de/2023/48/colson-whitehead-crook-manifesto-new-york-usa",
       "image_url": "https://img.zeit.de/2023/48/das-endlose-spiel-aus-wahrheit-und-luege-bild-1/square__460x460",
       "image_title": "Colson Whitehead : \"Noch so eine dämliche Debatte\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Mehrwertsteuer in der Gastronomie: Rettet die Erdgeschosse!",
+      "teaser": "Im Erdgeschoss, da sind außer Nagelstudios vor allem Kneipen und Restaurants, zum Reingucken, Menschensehen, Malreingehen. Die Regierung gefährdet nun diese Geselligkeit.",
+      "url": "https://www.zeit.de/2023/49/mehrwertsteuer-gastronomie-senkung-einsamkeit",
+      "image_url": "https://img.zeit.de/2023/49/rettet-die-erdgeschosse-bild-1/wide__822x462",
+      "image_title": "Mehrwertsteuer in der Gastronomie: Rettet die Erdgeschosse!"
     },
     {
       "title": "\"Tatort\" Kiel: Hallo, Freunde der Finsternis",
@@ -336,13 +343,6 @@
       "url": "https://www.zeit.de/2023/49/carl-schmitt-nationalsozialismus-jurist-aktualitaet",
       "image_url": "https://img.zeit.de/2023/49/carl-schmitt-und-seine-theorie-des-grossraums-bild-1/wide__822x462",
       "image_title": "Carl Schmitt: Die Rückkehr des Großraums"
-    },
-    {
-      "title": "Zeitgenössische Kunst: Die nächste Documenta wird die beste!",
-      "teaser": "Gerade steht die Kunstausstellung wieder vor dem Aus. Doch es gibt Gründe zur Hoffnung – falls die Documenta bereit ist für eine Kunst frei von jeder Bekenntnispflicht.",
-      "url": "https://www.zeit.de/2023/49/documenta-zeitgenoessische-kunst-kassel-harald-kimpel",
-      "image_url": "https://img.zeit.de/kultur/kunst/2023-11/documenta-zeitgenoessische-kunst-teaser/wide__822x462",
-      "image_title": "Zeitgenössische Kunst: Die nächste Documenta wird die beste!"
     },
     {
       "title": "Jüdisches Leben in Deutschland: \"Juden werden Deutschland nicht mehr als sichere Heimat erleben\"",
@@ -478,10 +478,17 @@
       "image_title": "\"Nur Liebe, immer.\" von Casper: In Bielefeld geht das Flutlicht an"
     },
     {
+      "title": "Zeitgenössische Kunst: Die nächste Documenta wird die beste!",
+      "teaser": "Gerade steht die Kunstausstellung wieder vor dem Aus. Doch es gibt Gründe zur Hoffnung – falls die Documenta bereit ist für eine Kunst frei von jeder Bekenntnispflicht.",
+      "url": "https://www.zeit.de/2023/49/documenta-zeitgenoessische-kunst-kassel-harald-kimpel",
+      "image_url": "https://img.zeit.de/kultur/kunst/2023-11/documenta-zeitgenoessische-kunst-teaser/cinema__980x420",
+      "image_title": "Zeitgenössische Kunst: Die nächste Documenta wird die beste!"
+    },
+    {
       "title": "documenta: Die Idee von der Weltkunstausstellung hat sich überlebt",
       "teaser": "Nach dem Rücktritt der Findungskommission steht die documenta vor dem Nichts. Jetzt rächt sich ihr kolonialistisches Überlegenheitsdenken.",
       "url": "https://www.zeit.de/kultur/kunst/2023-11/documenta-findungskommission-ruecktritt-antisemitismus-ausstellung",
-      "image_url": "https://img.zeit.de/kultur/kunst/2023-11/documenta-findungskommission-ruecktritt-antisemitismus/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/kunst/2023-11/documenta-findungskommission-ruecktritt-antisemitismus/wide__822x462",
       "image_title": "documenta: Die Idee von der Weltkunstausstellung hat sich überlebt"
     },
     {
@@ -490,13 +497,6 @@
       "url": "https://www.zeit.de/kultur/kunst/2023-11/findungskommission-documenta-kassel-antisemitismus",
       "image_url": "https://img.zeit.de/kultur/kunst/2023-11/fridericianum-kassel/wide__822x462",
       "image_title": "documenta: Findungskommission der documenta tritt komplett zurück"
-    },
-    {
-      "title": "Documenta: Dieses Kassel!",
-      "teaser": "Ranjit Hoskoté wurde Antisemitismus vorgeworfen. Nun ist er aus der Findungskommission zur Leitung der nächsten Documenta ausgetreten. Diese ist jetzt schon am Ende.",
-      "url": "https://www.zeit.de/2023/48/documenta-kassel-antisemitismus-vorwuerfe-ruecktritt",
-      "image_url": "https://img.zeit.de/2023/48/documenta-kassel-antisemitismus-vorwuerfe-ruecktritt-teaser/wide__822x462",
-      "image_title": "Documenta: Dieses Kassel!"
     },
     {
       "title": "Humor in Krisenzeiten: Bitte macht euch lächerlich!",
