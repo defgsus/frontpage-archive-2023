@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-03T10:11:20",
+  "timestamp": "2023-12-03T11:08:53",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "VMware Cloud Director",
+      "url": "https://www.heise.de/news/Sicherheitspatch-verfuegbar-Kritische-Luecke-in-VMware-Cloud-Director-behoben-9546933.html"
+    },
+    {
       "title": "Exchange Server",
       "url": "https://www.heise.de/news/Support-ausgelaufen-Mehr-als-20-000-Exchange-Server-potenziell-angreifbar-9546919.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsluecke-in-Hikvision-Kameras-und-NVR-ermoeglicht-unbefugten-Zugriff-9543336.html"
     },
     {
-      "title": "SolarWinds Platform",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-Schadcode-Attacken-auf-Solarwinds-Platform-moeglich-9543391.html"
+      "title": "Sicherheitspatch verfügbar: Kritische Lücke in VMware Cloud Director behoben",
+      "teaser": "In bestimmten Fällen können Angreifer VMware Cloud Director attackieren. Nach einem Workaround gibt es nun einen Sicherheitspatch.",
+      "url": "https://www.heise.de/news/Sicherheitspatch-verfuegbar-Kritische-Luecke-in-VMware-Cloud-Director-behoben-9546933.html"
     },
     {
       "title": "Support ausgelaufen: Mehr als 20.000 Exchange Server potenziell angreifbar",
@@ -156,12 +161,6 @@
       "teaser": "Die Schwachstelle im GraphAPI-Plugin kann zur unfreiwilligen Preisgabe der Admin-Zugangsdaten führen. ownCloud-Admins sollten schnell reagieren.",
       "url": "https://www.heise.de/news/Scans-zu-kritischer-Sicherheitsluecke-in-ownCloud-Plugin-9542895.html",
       "image_title": "Person mit verschiedenen Daten umgeben (Symbolbild)"
-    },
-    {
-      "title": "Jetzt patchen! Attacken auf Google Chrome",
-      "teaser": "Der Webbrowser Chrome ist verwundbar. Die Entwickler haben mehrere Schwachstellen geschlossen.",
-      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-Google-Chrome-9542935.html",
-      "image_title": "Google Chrome Update"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
