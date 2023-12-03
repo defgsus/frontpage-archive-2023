@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-03T11:08:53",
+  "timestamp": "2023-12-03T12:20:05",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Sicherheitsupdate: Verwundbare Komponenten gefährden Nessus Network Monitor",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Verwundbare-Komponenten-gefaehrden-Nessus-Network-Monitor-9546971.html"
+    },
+    {
       "title": "VMware Cloud Director",
       "url": "https://www.heise.de/news/Sicherheitspatch-verfuegbar-Kritische-Luecke-in-VMware-Cloud-Director-behoben-9546933.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Apache-ActiveMQ-Mehrere-Codeschmuggel-Luecken-von-Botnetbetreibern-ausgenutzt-9544281.html"
     },
     {
-      "title": "Hikvision-Kameras",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-Hikvision-Kameras-und-NVR-ermoeglicht-unbefugten-Zugriff-9543336.html"
+      "title": "Sicherheitsupdate: Verwundbare Komponenten gefährden Nessus Network Monitor",
+      "teaser": "Schwachstellen unter anderem in OpenSSL gefährden die Monitoringlösung Nessus Network Monitor.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Verwundbare-Komponenten-gefaehrden-Nessus-Network-Monitor-9546971.html"
     },
     {
       "title": "Sicherheitspatch verfügbar: Kritische Lücke in VMware Cloud Director behoben",
@@ -155,12 +160,6 @@
       "teaser": "Zusammen mit internationalen Ermittlern hat die ukrainische Cyberpolizei mehr als 30 Wohnungen und Autos durchsucht. Der mutmaßliche Bandenchef ist in Haft.",
       "url": "https://www.heise.de/news/Ukraine-Fuenf-Festnahmen-bei-Razzia-gegen-Ransomware-Bande-9543117.html",
       "image_title": "Polizei bei der Arbeit"
-    },
-    {
-      "title": "Scans zu kritischer Sicherheitslücke in ownCloud-Plugin",
-      "teaser": "Die Schwachstelle im GraphAPI-Plugin kann zur unfreiwilligen Preisgabe der Admin-Zugangsdaten führen. ownCloud-Admins sollten schnell reagieren.",
-      "url": "https://www.heise.de/news/Scans-zu-kritischer-Sicherheitsluecke-in-ownCloud-Plugin-9542895.html",
-      "image_title": "Person mit verschiedenen Daten umgeben (Symbolbild)"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
