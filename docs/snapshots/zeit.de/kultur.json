@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-04T20:11:59",
+  "timestamp": "2023-12-04T21:09:49",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,23 @@
   ],
   "articles": [
     {
+      "title": "Reporter:innenpreis: ZEIT ONLINE gewinnt Preis für Multimediareportage über Weltraumschrott",
+      "teaser": "Die Reportage \"Unser Müll im All\" ist mit einem der wichtigsten Journalistenpreise ausgezeichnet worden. In dem Multimedia-Projekt wird Weltraumschrott sichtbar gemacht.",
+      "url": "https://www.zeit.de/kultur/2023-12/reporterinnenpreis-zeit-online-journalismus-auszeichnung",
+      "image_url": "https://img.zeit.de/wissen/2022-09/weltraumschrott-teaserbild/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Freiheit, Gleichheit, Sinnlichkeit\": Schlüpfrigkeiten",
       "teaser": "Diese Libertinage! Josefine Kitzbichler und Markus Bernauer haben eine umfangreiche Anthologie über Erotik in der deutschen Literatur des 18. Jahrhunderts erstellt.",
       "url": "https://www.zeit.de/2023/48/freiheit-gleichheit-sinnlichkeit-markus-bernauer-josefine-kitzbichler",
-      "image_url": "https://img.zeit.de/2023/48/schluepfrigkeiten-bild-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/2023/48/schluepfrigkeiten-bild-1/wide__822x462",
+      "image_title": "\"Freiheit, Gleichheit, Sinnlichkeit\": Schlüpfrigkeiten"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur • Das Beste aus Z+: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "Inszenierung in der Politik: Mehr Inszenierung wagen",
@@ -51,24 +64,11 @@
       "image_title": "Inszenierung in der Politik: Mehr Inszenierung wagen"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur • Das Beste aus Z+: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "Feuilletonpodcast: Wann ist Kapitalismuskritik antisemitisch?",
       "teaser": "Können Linksradikale solidarisch sein mit dem Staat Israel? Die Bewegung der Antideutschen versucht diesen Spagat seit Jahrzehnten.",
       "url": "https://www.zeit.de/kultur/2023-12/linke-israel-antisemitismus-kapitalismus-feuilleton-podcast",
       "image_url": "https://img.zeit.de/kultur/2022-09/podcast-die-sogenannte-gegenwart-2022-weisbrod-mangold/wide__822x462",
       "image_title": "Feuilletonpodcast: Wann ist Kapitalismuskritik antisemitisch?"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Dan Sinykin: \"Der Trend zur Autofiktion ist eine Antwort auf die Macht der Verlage\"",
-      "teaser": "Erfolgreiche Romane sind zunehmend das Ergebnis großer Teams. Der Literaturwissenschaftler Dan Sinykin erklärt, wie Verlagskonzerne derzeit den Buchmarkt verändern.",
-      "url": "https://www.zeit.de/kultur/2023-12/dan-sinykin-big-fiction-konzerne-verlage-literaturbranche",
-      "image_url": "https://img.zeit.de/kultur/2023-12/big-fiction-dan-sinykin-verlage-literatur-genre-trend/wide__822x462",
-      "image_title": "Dan Sinykin: \"Der Trend zur Autofiktion ist eine Antwort auf die Macht der Verlage\""
     },
     {
       "title": "Debattenkultur: Freiheitseingriffe im Namen der Freiheit",
@@ -163,6 +163,13 @@
       "url": "https://www.zeit.de/kultur/film/2023-12/tatort-koeln-des-anderen-last-obduktionsbericht"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Dan Sinykin: \"Der Trend zur Autofiktion ist eine Antwort auf die Macht der Verlage\"",
+      "teaser": "Erfolgreiche Romane sind zunehmend das Ergebnis großer Teams. Der Literaturwissenschaftler Dan Sinykin erklärt, wie Verlagskonzerne derzeit den Buchmarkt verändern.",
+      "url": "https://www.zeit.de/kultur/2023-12/dan-sinykin-big-fiction-konzerne-verlage-literaturbranche",
+      "image_url": "https://img.zeit.de/kultur/2023-12/big-fiction-dan-sinykin-verlage-literatur-genre-trend/wide__822x462",
+      "image_title": "Dan Sinykin: \"Der Trend zur Autofiktion ist eine Antwort auf die Macht der Verlage\""
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Letzte Sendung \"Anne Will\": Deutschland, sonntagabends um 21.45 Uhr",
       "teaser": "Anne Will hat zum letzten Mal \"Anne Will\" moderiert. 16 Jahre lang war das die wesentliche Polit-Talkshow im deutschen Fernsehen. Was bleibt zum Schluss noch zu sagen?",
       "url": "https://www.zeit.de/kultur/film/2023-12/anne-will-ard-talkshow-letzte-sendung",
@@ -198,13 +205,6 @@
       "image_title": "Prater: Strizzis, Schlankerl, Taschlzieher und die allzu fröhlichen Mäderln"
     },
     {
-      "title": "Esther Slevogt: \"Ich hatte mir das mit der Wiedervereinigung anders vorgestellt\"",
-      "teaser": "In den Achtzigern fuhr sie fürs Deutsche Theater extra von West- nach Ost-Berlin. Esther Slevogt hat ein Buch über die einst \"wichtigste Bühne Deutschlands\" geschrieben.",
-      "url": "https://www.zeit.de/2023/51/esther-slevogt-deutsches-theater-ddr-ostdeutschland-ost-berlin",
-      "image_url": "https://img.zeit.de/2023/51/dieses-theater-war-eine-initiation-fuer-mich-bild-1/wide__822x462",
-      "image_title": "Esther Slevogt: \"Ich hatte mir das mit der Wiedervereinigung anders vorgestellt\""
-    },
-    {
       "title": "\"Northwoods Baseball Sleep Radio\": Diese … erlösende … tiefe … Langeweile …",
       "teaser": "Für alle, die von Geplapper und starken Gefühlen genug haben: Der Schlafpodcast \"Northwoods Baseball Sleep Radio\" ist ein grandioses Kunstwerk der Monotonie und Stille.",
       "url": "https://www.zeit.de/kultur/2023-11/northwoods-baseball-sleep-radio-podcast-kunst",
@@ -219,6 +219,13 @@
       "image_title": "Javier Milei: Das Geld wird frei"
     },
     {
+      "title": "Esther Slevogt: \"Ich hatte mir das mit der Wiedervereinigung anders vorgestellt\"",
+      "teaser": "In den Achtzigern fuhr sie fürs Deutsche Theater extra von West- nach Ost-Berlin. Esther Slevogt hat ein Buch über die einst \"wichtigste Bühne Deutschlands\" geschrieben.",
+      "url": "https://www.zeit.de/2023/51/esther-slevogt-deutsches-theater-ddr-ostdeutschland-ost-berlin",
+      "image_url": "https://img.zeit.de/2023/51/dieses-theater-war-eine-initiation-fuer-mich-bild-1/wide__822x462",
+      "image_title": "Esther Slevogt: \"Ich hatte mir das mit der Wiedervereinigung anders vorgestellt\""
+    },
+    {
       "title": "Recep Tayyip Erdoğan: Die Sprache der Autokratie",
       "teaser": "Autokraten wie Recep Tayyip Erdoğan bedienen sich einer Sprache, gegen die Staatschefs von Demokratien anscheinend nicht ankommen. Wann lernen letztere endlich dazu?",
       "url": "https://www.zeit.de/kultur/2023-11/recep-tayyip-erdogan-autokratie-sprache-can-duendar",
@@ -229,14 +236,14 @@
       "title": "\"Renaissance: A Film by Beyoncé\": Was würde Beyoncé tun?",
       "teaser": "Nach dem Album und der Tour nun die Doku im Kino: Beyoncé schreibt mit \"Renaissance: A Film by Beyoncé\" ihre filmische Selbsterzählung als Popikone fort. Toll, natürlich.",
       "url": "https://www.zeit.de/kultur/film/2023-12/renaissance-film-beyonce-konzert-tour",
-      "image_url": "https://img.zeit.de/kultur/2023-12/beyonce-renaissance-world-tour-film/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-12/beyonce-renaissance-world-tour-film/cinema__980x420",
       "image_title": "\"Renaissance: A Film by Beyoncé\": Was würde Beyoncé tun?"
     },
     {
       "title": "Leistungssport: Die stilvolle Niederlage",
       "teaser": "Leistung zu bringen, ist die einzige Daseinsberechtigung der Leistungssportlerin. Und doch ist die wichtigste Lektion, die der Sport uns erteilen kann: zu verlieren.",
       "url": "https://www.zeit.de/2023/51/leistungssport-druck-niederlagen-wachstum-stress",
-      "image_url": "https://img.zeit.de/2023/51/leistungssport-druck-niederlagen-wachstum-stress-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/51/leistungssport-druck-niederlagen-wachstum-stress-bild/wide__822x462",
       "image_title": "Leistungssport: Die stilvolle Niederlage"
     },
     {
@@ -250,15 +257,8 @@
       "title": "Neuer Podcast \"Was liest du gerade?\": Vier fantastische Sachbücher zum Fest",
       "teaser": "Verblüffende Vogelwelten, zehn Thesen, wie Kriege enden, berühmte Kinopaare und irre Eisenbahn-Geschichten. Mit diesen Sachbüchern machen Sie Weihnachten alles richtig.",
       "url": "https://www.zeit.de/kultur/literatur/2023-12/sachbuecher-weihnachten-geschenke-buch-podcast",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/maja-beckers-alexander-cammann-literatur-podcast-aufmacherfoto/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-10/maja-beckers-alexander-cammann-literatur-podcast-aufmacherfoto/cinema__980x420",
       "image_title": "Neuer Podcast \"Was liest du gerade?\": Vier fantastische Sachbücher zum Fest"
-    },
-    {
-      "title": "Kulturförderung: Junge Menschen nutzen Kulturpass für Bücher und Kinobesuche",
-      "teaser": "Seit Juni können 18-Jährige mit dem Kulturpass ein Budget von 200 Euro für kulturelle Angebote nutzen. Am liebsten kaufen sie damit Bücher und Kinotickets.",
-      "url": "https://www.zeit.de/kultur/2023-12/kulturpass-bundesregierung-kulturfoerderung",
-      "image_url": "https://img.zeit.de/kultur/2023-12/kulturpass-buecher-bild/cinema__980x420",
-      "image_title": "Kulturförderung: Junge Menschen nutzen Kulturpass für Bücher und Kinobesuche"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Literatur: 100 Gefährten fürs Leben",
@@ -275,6 +275,13 @@
       "image_title": "Postkolonialismus: Eine Theorie unter Anklage"
     },
     {
+      "title": "Kulturförderung: Junge Menschen nutzen Kulturpass für Bücher und Kinobesuche",
+      "teaser": "Seit Juni können 18-Jährige mit dem Kulturpass ein Budget von 200 Euro für kulturelle Angebote nutzen. Am liebsten kaufen sie damit Bücher und Kinotickets.",
+      "url": "https://www.zeit.de/kultur/2023-12/kulturpass-bundesregierung-kulturfoerderung",
+      "image_url": "https://img.zeit.de/kultur/2023-12/kulturpass-buecher-bild/wide__822x462",
+      "image_title": "Kulturförderung: Junge Menschen nutzen Kulturpass für Bücher und Kinobesuche"
+    },
+    {
       "title": "\"Die Ballade des letzten Gastes\": Nicht schon wieder",
       "teaser": "\"Die Ballade des letzten Gastes\" ist schon das siebte Werk, das Peter Handke als Nobelpreisträger veröffentlicht. Und wieder geht es vor allem um eines: Peter Handke.",
       "url": "https://www.zeit.de/2023/51/die-ballade-des-letzten-gastes-peter-handke-erzaehlung-autor-nobelpreis",
@@ -285,22 +292,15 @@
       "title": "Hilfsbereitschaft: Der braune Pullover",
       "teaser": "Ein fremder Mann bietet einer fröstelnden Frau seinen Pullover an. Dann trennen sich die Wege. Aber das gute Stück muss zurück zum Besitzer. Eine literarische Erzählung",
       "url": "https://www.zeit.de/kultur/2023-12/hilfsbereitschaft-ice-reise-kleidung-10nach8",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/10-nach-8-kashmir-heike-melba-fendel/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/10-nach-8-kashmir-heike-melba-fendel/cinema__980x420",
       "image_title": "Hilfsbereitschaft: Der braune Pullover"
     },
     {
       "title": "Adventskalender: Zurück zur Billigschokolade!",
       "teaser": "Der Adventskalender ist heute eher ein Eventskalender, der den Weihnachtsgeschenken Konkurrenz macht. Der klassische Schokokalender hingegen kann Heiligabend retten.",
       "url": "https://www.zeit.de/kultur/2023-11/adventskalender-weihnachten-geschenke-schokolade",
-      "image_url": "https://img.zeit.de/kultur/2023-11/wochenende-49-pflichtverteidigung-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-11/wochenende-49-pflichtverteidigung-bild/wide__822x462",
       "image_title": "Adventskalender: Zurück zur Billigschokolade!"
-    },
-    {
-      "title": "Günter Fruhtrunk: Nein, das sind keine Streifen",
-      "teaser": "Die Kunst des eigensinnigen Günter Fruhtrunk, 1982 gestorben, ist mit dem Lineal konstruiert. Zwei Ausstellungen in Bonn und München zeigen nun Fruhtrunks Werk.",
-      "url": "https://www.zeit.de/2023/51/guenter-fruhtrunk-kunst-ausstellung-muenchen-bonn-streifen",
-      "image_url": "https://img.zeit.de/2023/51/nein-das-sind-keine-streifen-es-sind-spuren-einer-grossen-nicht-fasslichen-bewegung-bild-1/wide__822x462",
-      "image_title": "Günter Fruhtrunk: Nein, das sind keine Streifen"
     },
     {
       "title": "\"Holy Shit\": Aus Scheiße Gold machen",
@@ -315,6 +315,13 @@
       "url": "https://www.zeit.de/2023/51/bill-frisell-elbphilharmonie-konzert-jazz-gitarre-hamburg",
       "image_url": "https://img.zeit.de/2023/51/im-dunkel-hofft-er-aufs-licht-bild-3/square__460x460",
       "image_title": "Bill Frisell: Im Dunkel hofft er aufs Licht"
+    },
+    {
+      "title": "Günter Fruhtrunk: Nein, das sind keine Streifen",
+      "teaser": "Die Kunst des eigensinnigen Günter Fruhtrunk, 1982 gestorben, ist mit dem Lineal konstruiert. Zwei Ausstellungen in Bonn und München zeigen nun Fruhtrunks Werk.",
+      "url": "https://www.zeit.de/2023/51/guenter-fruhtrunk-kunst-ausstellung-muenchen-bonn-streifen",
+      "image_url": "https://img.zeit.de/2023/51/nein-das-sind-keine-streifen-es-sind-spuren-einer-grossen-nicht-fasslichen-bewegung-bild-1/wide__822x462",
+      "image_title": "Günter Fruhtrunk: Nein, das sind keine Streifen"
     },
     {
       "title": "Debatte um den Nahostkonflikt: All die blinden Flecken",
@@ -336,13 +343,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-11/30-jahre-viva-geburtstag-collien-ulmen-fernandes",
       "image_url": "https://img.zeit.de/kultur/film/2023-11/viva-story-30-jahre-musiksender-musik-tv-sender-bokelberg-ulmen-fernandes-kavka/wide__822x462",
       "image_title": "30 Jahre Viva: \"Lauter Freaks, die vom Himmel gefallen sind\""
-    },
-    {
-      "title": "\"Passages\"-Darsteller: Franz Rogowski gewinnt wichtigen US-Filmkritikerpreis",
-      "teaser": "Der New Yorker Filmkritikerverband ehrt Franz Rogowski für seine Rolle in \"Passages\" als besten Schauspieler. Sieger dieser Kategorie werden oft für den Oscar nominiert.",
-      "url": "https://www.zeit.de/kultur/film/2023-12/franz-rogowski-us-auszeichnung-nyfcc",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/franz-rogowski-us-auszeichnung-nyfcc-2/wide__822x462",
-      "image_title": "\"Passages\"-Darsteller: Franz Rogowski gewinnt wichtigen US-Filmkritikerpreis"
     },
     {
       "title": "Exilmuseum in Berlin: Auch der deutsche Kulturbetrieb erlebt seine Zeitenwende",
@@ -422,10 +422,17 @@
       "image_title": "\"Wasserball\" von Mário Gomes: Ein Spiel wird Ernst"
     },
     {
+      "title": "\"Passages\"-Darsteller: Franz Rogowski gewinnt wichtigen US-Filmkritikerpreis",
+      "teaser": "Der New Yorker Filmkritikerverband ehrt Franz Rogowski für seine Rolle in \"Passages\" als besten Schauspieler. Sieger dieser Kategorie werden oft für den Oscar nominiert.",
+      "url": "https://www.zeit.de/kultur/film/2023-12/franz-rogowski-us-auszeichnung-nyfcc",
+      "image_url": "https://img.zeit.de/kultur/film/2023-12/franz-rogowski-us-auszeichnung-nyfcc-2/cinema__980x420",
+      "image_title": "\"Passages\"-Darsteller: Franz Rogowski gewinnt wichtigen US-Filmkritikerpreis"
+    },
+    {
       "title": "US-Schauspielerin: Schauspielerin Frances Sternhagen mit 93 Jahren gestorben",
       "teaser": "Die US-Amerikanerin ist dem Film- und Fernsehpublikum aus \"Sex and the City\" und der Erfolgsserie \"Cheers\" bekannt. Jetzt starb Frances Sternhagen im US-Staat New York.",
       "url": "https://www.zeit.de/kultur/film/2023-11/usa-schauspielerin-frances-sternhagen-cheers-gestorben",
-      "image_url": "https://img.zeit.de/kultur/film/2023-11/frances-sternhagen-schauspielerin-cheers-gestorben-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-11/frances-sternhagen-schauspielerin-cheers-gestorben-bild/wide__822x462",
       "image_title": "US-Schauspielerin: Schauspielerin Frances Sternhagen mit 93 Jahren gestorben"
     },
     {
@@ -441,13 +448,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-11/hamas-angriff-festival-supernova-arte-dokumentation",
       "image_url": "https://img.zeit.de/kultur/film/2023-11/hamas-angriff-festival-supernova-arte-dokumentation-teaserfoto/wide__822x462",
       "image_title": "\"Hamas-Angriff aufs Festival\": Irgendwann will sie wieder tanzen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Wetten, dass..?: Lieber Barzel oder Brazel",
-      "teaser": "Wie erklärt man seinen Kindern, dass Thomas Gottschalk der glamouröseste aller deutschen Fernsehshowmaster war? Eine Betrachtung der letzten Folge von \"Wetten, dass..?\"",
-      "url": "https://www.zeit.de/2023/51/wetten-dass-thomas-gottschalk-letzte-sendung-fernsehen",
-      "image_url": "https://img.zeit.de/2023/51/thomas-gottschalk-wetten-dass-fernsehen-bild/wide__822x462",
-      "image_title": "Wetten, dass..?: Lieber Barzel oder Brazel"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Pogues-Sänger Shane MacGowan: Die letzte Runde geht an ihn",
