@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-04T06:16:26",
+  "timestamp": "2023-12-04T07:11:48",
   "url": "https://www.zeit.de/wirtschaft/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Gold: Goldpreis steigt auf neuen Höchstwert",
+      "teaser": "Mit dem Goldpreis geht es bergauf, weil Anleger seit Oktober sinkende Zinsen in den USA erwarten. Nun übertraf der Goldpreis die bisherige Höchstmarke von 2020.",
+      "url": "https://www.zeit.de/wirtschaft/geldanlage/2023-12/goldpreis-gold-anleger-zinswende-usa-rekord",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-12/goldpreis-sinkende-zinsen-usa-bild/cinema__980x420"
+    },
+    {
       "title": "Offshore-Windpark: Die Windparks sind zu teuer geworden",
       "teaser": "Inflation, Stornierungen, Lieferengpässe: Der Windkraftausbau im Meer kommt kaum voran. Europa fehlen dringend benötigte Strommengen, das gefährdet die Energiewende.",
       "url": "https://www.zeit.de/wirtschaft/2023-11/offshore-windpark-energie-stromversorgung-ostsee",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-12/offshore-windpark-energie-stromversorgung-ostsee-bild-2/cinema__980x420"
+      "image_url": "https://img.zeit.de/wirtschaft/2023-12/offshore-windpark-energie-stromversorgung-ostsee-bild-2/wide__822x462",
+      "image_title": "Offshore-Windpark: Die Windparks sind zu teuer geworden"
     },
     {
       "title": "Schuldenbremse: Sollte man die Schuldenbremse lockern?",
@@ -54,15 +61,8 @@
       "title": "Z+ (abopflichtiger Inhalt); Insolvenz der Signa: Was Benko alles mit sich reißen könnte",
       "teaser": "München hat allen Grund, den Einsturz des taumelnden Signa-Imperiums von René Benko zu fürchten. Der Österreicher fand hier noble Bauprojekte und gutgläubige Investoren.",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/insolvenz-signa-rene-benko-muenchen-bkv",
-      "image_url": "https://img.zeit.de/politik/2023-12/insolvenz-signa-rene-benko-muenchen-bkv-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-12/insolvenz-signa-rene-benko-muenchen-bkv-bild/cinema__980x420",
       "image_title": "Insolvenz der Signa: Was Benko alles mit sich reißen könnte"
-    },
-    {
-      "title": "Herrnhuter Sterne: Mehr als nur Deko",
-      "teaser": "In Herrnhut in Sachsen produziert eine Manufaktur Sterne, die weltweit gefragt sind. Produziert wird nur vor Ort. Doch Chef Oskar Scholz kämpft mit Personalmangel.",
-      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2023/04/herrnhuter-sterne-advent-weihnachten-oskar-scholz",
-      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2023/04/herrnhuter-sterne-advent-weihnachten-oskar-scholz-bild/cinema__980x420",
-      "image_title": "Herrnhuter Sterne: Mehr als nur Deko"
     },
     {
       "title": "AnzeigePUMA: Mit Workday zum Erfolg",
@@ -72,18 +72,18 @@
       "image_title": "PUMA: Mit Workday zum Erfolg"
     },
     {
+      "title": "Herrnhuter Sterne: Mehr als nur Deko",
+      "teaser": "In Herrnhut in Sachsen produziert eine Manufaktur Sterne, die weltweit gefragt sind. Produziert wird nur vor Ort. Doch Chef Oskar Scholz kämpft mit Personalmangel.",
+      "url": "https://www.zeit.de/zeit-fuer-unternehmer/2023/04/herrnhuter-sterne-advent-weihnachten-oskar-scholz",
+      "image_url": "https://img.zeit.de/zeit-fuer-unternehmer/2023/04/herrnhuter-sterne-advent-weihnachten-oskar-scholz-bild/wide__822x462",
+      "image_title": "Herrnhuter Sterne: Mehr als nur Deko"
+    },
+    {
       "title": "Verteidigungspolitik: Waffen vom Discounter",
       "teaser": "Lange haben westliche Staaten immer teurere Waffensysteme eingekauft. Nun drängen günstige Anbieter aus Südkorea und der Türkei auf den europäischen Markt.",
       "url": "https://www.zeit.de/2023/51/verteidigungspolitik-waffen-preis-drohnen-polen-suedkorea",
       "image_url": "https://img.zeit.de/2023/51/waffen-vom-discounter-bild-5/wide__822x462",
       "image_title": "Verteidigungspolitik: Waffen vom Discounter"
-    },
-    {
-      "title": "Corona-Impfstoff: Jetzt rächen sich die Hamsterkäufe",
-      "teaser": "Deutschland und die EU haben viel mehr Corona-Impfstoff bestellt als benötigt. 149 Millionen Impfdosen sind schon verfallen. Wie konnte sich die Politik so verschätzen?",
-      "url": "https://www.zeit.de/wirtschaft/2023-11/corona-impfung-impfstoff-ueberschuss-deutschland",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/corona-impfung-impfstoff-ueberschuss/wide__822x462",
-      "image_title": "Corona-Impfstoff: Jetzt rächen sich die Hamsterkäufe"
     },
     {
       "title": "René Benko: Immobilienkonzern Signa Holding meldet Insolvenz an",
@@ -191,6 +191,13 @@
       "image_title": "Kolumne: money matters"
     },
     {
+      "title": "Corona-Impfstoff: Jetzt rächen sich die Hamsterkäufe",
+      "teaser": "Deutschland und die EU haben viel mehr Corona-Impfstoff bestellt als benötigt. 149 Millionen Impfdosen sind schon verfallen. Wie konnte sich die Politik so verschätzen?",
+      "url": "https://www.zeit.de/wirtschaft/2023-11/corona-impfung-impfstoff-ueberschuss-deutschland",
+      "image_url": "https://img.zeit.de/wirtschaft/2023-11/corona-impfung-impfstoff-ueberschuss/wide__822x462",
+      "image_title": "Corona-Impfstoff: Jetzt rächen sich die Hamsterkäufe"
+    },
+    {
       "title": "UN-Klimakonferenz in Dubai: Wir Deutschen haben mehr vom CO₂-Budget verbraucht, als uns zusteht",
       "teaser": "Die Industriestaaten zahlen endlich an arme Länder, die besonders unter Klimaschäden leiden. Doch mehr muss folgen. Drei Ansätze für eine klimagerechte Welt",
       "url": "https://www.zeit.de/wirtschaft/2023-11/un-klimakonferenz-dubai-1-5-grad-ziel",
@@ -215,14 +222,14 @@
       "title": "Weihnachten: Deutschland importiert deutlich weniger Weihnachtsbäume",
       "teaser": "O Tannenbaum? Die Zahl der deutschen Weihnachtsbaumimporte ist im vergangenen Jahr um rund ein Viertel eingebrochen. Der Großteil der Bäume kam wie üblich aus Dänemark.",
       "url": "https://www.zeit.de/wirtschaft/2023-12/weihnachtsbaum-import-deutschland-rueckgang-daenemark-polen",
-      "image_url": "https://img.zeit.de/wirtschaft/schule/2023-12/weihnachtsbaum-importe-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/wirtschaft/schule/2023-12/weihnachtsbaum-importe-bild/cinema__980x420",
       "image_title": "Weihnachten: Deutschland importiert deutlich weniger Weihnachtsbäume"
     },
     {
       "title": "Elektro-Pick-up: Teslas Cybertruck wird deutlich teurer als geplant",
-      "teaser": "Die ersten Modelle von Teslas Cybertruck sind ausgeliefert – allerdings zu einem höheren Preis als angekündigt. Die günstigste Variante kostet mehr als 60.000 US-Dollar. 460 Kommentare",
+      "teaser": "Die ersten Modelle von Teslas Cybertruck sind ausgeliefert – allerdings zu einem höheren Preis als angekündigt. Die günstigste Variante kostet mehr als 60.000 US-Dollar.",
       "url": "https://www.zeit.de/mobilitaet/2023-12/tesla-cybertruck-verkaufsstart-usa-preis",
-      "image_url": "https://img.zeit.de/mobilitaet/2023-12/tesla-cybertruck-verkaufsstart-usa-preis-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/mobilitaet/2023-12/tesla-cybertruck-verkaufsstart-usa-preis-bild/wide__822x462",
       "image_title": "Elektro-Pick-up: Teslas Cybertruck wird deutlich teurer als geplant"
     },
     {
@@ -254,13 +261,6 @@
       "image_title": "Insolvenz von Signa: Das bedeutet die Signa-Pleite für Deutschlands Innenstädte"
     },
     {
-      "title": "Shein vor Börsengang: Shein im Scheinwerferlicht",
-      "teaser": "Der undurchsichtige Fast-Fashion-Konzern aus China will in den USA an die Börse. Dabei steht das Unternehmen wegen Arbeitsbedingungen und Umweltschutz in der Kritik.",
-      "url": "https://www.zeit.de/wirtschaft/unternehmen/2023-11/shein-boersengang-fast-fashion-china-usa",
-      "image_url": "https://img.zeit.de/wirtschaft/2023-11/shein-boersengang-fast-fashion-china-usa-bild/wide__822x462",
-      "image_title": "Shein vor Börsengang: Shein im Scheinwerferlicht"
-    },
-    {
       "title": "VerlagsangebotFür alle, die mehr bewegen wollen.",
       "teaser": "Entdecken Sie den ZEIT ONLINE Stellenmarkt mit spannenden Stellenangeboten aus Wissenschaft, Forschung, Öffentliches und Gesellschaft.",
       "url": "https://jobs.zeit.de/?wt_zmc=fix.int.aca.zeit.de.wirtschafts-ressort.parkett_unternehmen.teaser.bild_text.x&utm_medium=fix&utm_source=zeit.de_aca_int&utm_campaign=wirtschafts-ressort&utm_content=parkett_unternehmen_teaser_bild_text_x",
@@ -289,18 +289,18 @@
       "image_title": "Verbrauchertipps: Mehr Bahnverbindungen, WhatsApp-Funktion kostet Geld"
     },
     {
-      "title": "WirtschaftsWocheKlimagipfel COP28: Methan ist ein Klimakiller – und das Gas strömt einfach über Ventile in die Luft",
-      "teaser": "Methan ist ein gefährliches Treibhausgas. Die Öl- und Gaswirtschaft gehört zu den größten Emittenten, kann das Problem aber in den Griff bekommen – bei der Kohleindustrie stehen die Chancen viel schlechter.",
-      "url": "https://www.wiwo.de/technologie/umwelt/klimagipfel-cop28-methan-ist-ein-klimakiller-und-das-gas-stroemt-einfach-ueber-ventile-in-die-luft/29536548.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/jan-16-2009-krasnodar-region-russia-the-european-union-said-weekend-talks-to-resolve-the-stand/29536678/4-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "Klimagipfel COP28: Methan ist ein Klimakiller – und das Gas strömt einfach über Ventile in die Luft"
+      "title": "WirtschaftsWocheDIHK-Innovationsreport: Es war einmal das Land der Erfinder und Tüftler",
+      "teaser": "Zu wenig Leute, zu viele Paragrafen, ständig neue Unsicherheit: Der Innovationsstandort Deutschland rutscht immer weiter ab, zeigt eine neue Unternehmensumfrage. Eine weitere schlechte Nachricht für die Konjunktur.",
+      "url": "https://www.wiwo.de/politik/dihk-innovationsreport-es-war-einmal-das-land-der-erfinder-und-tueftler/29536790.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/deutschland-innovationslos-imago-mst/29537162/4-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "DIHK-Innovationsreport: Es war einmal das Land der Erfinder und Tüftler"
     },
     {
-      "title": "WirtschaftsWocheNew Work: Wie gelingt Work-Life-Balance im Homeoffice?",
-      "teaser": "Das Homeoffice kann sich negativ auf die Gesundheit auswirken. Gründerin Jenny von Podewils verrät, wie sie strukturiert durch die Arbeitswoche kommt und was ihr Unternehmen macht, um Stress bei Mitarbeitern vorzubeugen.",
-      "url": "https://www.wiwo.de/erfolg/gruender/new-work-wie-gelingt-work-life-balance-im-homeoffice-/29531994.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
-      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/imago0237969969h/29532124/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
-      "image_title": "New Work: Wie gelingt Work-Life-Balance im Homeoffice?"
+      "title": "WirtschaftsWocheTagesgeld-Zinsen: Hier bekommen Sie monatlich Taschengeld von der Bank",
+      "teaser": "Einige Banken zahlen Zinsen für das Tagesgeld monatlich aus. So lassen sich laufende Einnahmen generieren. Wer das Maximum rausholen will, darf aber nicht nur auf einen hohen Zinssatz schielen.",
+      "url": "https://www.wiwo.de/finanzen/geldanlage/tagesgeld-zinsen-hier-bekommen-sie-monatlich-taschengeld-von-der-bank/29534620.html?utm_medium=ko&utm_source=zeit&utm_campaign=parkett",
+      "image_url": "https://img.zeit.de/wirtschaftswoche-image/images/100-pro-imago-life-2-261620618-highres/29530124/3-format10640.jpg%253Fformat%253Dformat10640/wide__822x462",
+      "image_title": "Tagesgeld-Zinsen: Hier bekommen Sie monatlich Taschengeld von der Bank"
     }
   ]
 }
