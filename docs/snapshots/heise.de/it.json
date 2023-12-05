@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-05T09:12:02",
+  "timestamp": "2023-12-05T10:13:11",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -19,12 +19,18 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.acae14b7664ba617e8ad",
+      "src": "https://www.heise.de/assets/heise/ho/js/ho.js?.ltc.b6ab0e113cdaee01b17a",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Turing-Test-Studie: Ur-Chatbot Eliza aus den 1960ern schlägt GPT-3.5",
+      "teaser": "In einem Online-Turing-Test konnte das 1966 geschriebene Programm Eliza mehr Probanden davon überzeugen, menschlich zu sein, als ChatGPT in der Gratisversion.",
+      "url": "https://www.heise.de/news/Turing-Test-Studie-Ur-Chatbot-Eliza-aus-den-1960ern-schlaegt-GPT-3-5-9546845.html",
+      "image_title": "Artificial,Intelligence,Abstract,Face,Created,By,Neural,Network,Machine,Learning"
+    },
     {
       "title": "Intel lässt angeblich 14 Milliarden US-Dollar bei TSMC",
       "teaser": "Schätzungen zufolge zahlt Intel in den nächsten beiden Jahren 14 Milliarden US-Dollar an TSMC – allein für 3-Nanometer-Chiplets.",
@@ -36,12 +42,6 @@
       "url": "https://www.heise.de/news/AWS-re-Invent-Skalierbarkeitsrekorde-bei-serverlosen-Datenbankdiensten-9546278.html"
     },
     {
-      "title": "Google startet Konten-Löschaktion",
-      "teaser": "Wer seit zwei Jahren nicht bei Google eingeloggt war, kann sein Konto verlieren. Ab diesem Monat will Google löschen – aus Sicherheitsgründen.",
-      "url": "https://www.heise.de/news/Ab-Dezember-Google-startet-Konten-Loeschaktion-9540749.html",
-      "image_title": "Google-Logo an der Konzernzentrale in Mountain View"
-    },
-    {
       "title": "So funktioniert objektorientierte Programmierung in Python",
       "teaser": "Objektorientierte Programmierung macht Code effizienter, lesbarer und einfacher zu warten. Wir erklären die grundlegenden Konzepte in Python.",
       "url": "https://www.heise.de/ratgeber/Python-So-funktioniert-objektorientierte-Programmierung-9544701.html"
@@ -50,6 +50,11 @@
       "title": "Container-Storage: Den passenden Storage für Kubernetes wählen",
       "teaser": "Will ein Administrator Kubernetes mit persistentem Speicher versorgen, hat er die Qual der Wahl. Er braucht einen Überblick und einen klaren Plan.",
       "url": "https://www.heise.de/hintergrund/Container-Storage-Den-passenden-Storage-fuer-Kubernetes-waehlen-9545547.html"
+    },
+    {
+      "title": "Neue Squid-Version behebt Denial-of-Service-Lücken",
+      "teaser": "Drei Sicherheitsprobleme können dazu führen, dass der freie Web-Proxy Squid seinen Dienst verweigert. Admins sollten die bereitstehenden Updates einpflegen.",
+      "url": "https://www.heise.de/news/Neue-Squid-Version-behebt-Denial-of-Service-Luecken-9548574.html"
     },
     {
       "title": "iX-Workshop: Geschäftsprozesse optimieren durch Datenanalyse mit Process Mining",
@@ -131,12 +136,6 @@
       "title": "Sicherheitsupdates: Angreifer können Zyxel-NAS mit präparierten URLs attackieren",
       "teaser": "Zwei NAS-Modelle von Zyxel sind verwundbar. In aktuellen Versionen haben die Entwickler mehrere kritische Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Zyxel-NAS-mit-praeparierten-URLs-attackieren-9547837.html"
-    },
-    {
-      "title": "Verbraucherschutz kritisiert: Big Tech hält sich kaum an den DSA",
-      "teaser": "Dark Patterns und intransparente Werbung: Die Verbraucherzentrale hat untersucht, ob sich Google, Tiktok und Co an den DSA halten.",
-      "url": "https://www.heise.de/news/Verbraucherschutz-kritisiert-Big-Tech-haelt-sich-kaum-an-den-DSA-9547692.html",
-      "image_title": "Digital,Contents,Concept.,Social,Networking,Service.,Streaming,Video.,Nft.,Non-fungible"
     },
     {
       "title": "ECN Pulse Check 2023",

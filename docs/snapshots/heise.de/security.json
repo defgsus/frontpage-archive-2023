@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-05T09:12:05",
+  "timestamp": "2023-12-05T10:13:14",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.d8fd1bf7273a448ad3fd",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.75e3bad718783f8ae2f2",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Squid",
+      "url": "https://www.heise.de/news/Neue-Squid-Version-behebt-Denial-of-Service-Luecken-9548574.html"
+    },
     {
       "title": "Zyxel-NAS",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Zyxel-NAS-mit-praeparierten-URLs-attackieren-9547837.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Verwundbare-Komponenten-gefaehrden-Nessus-Network-Monitor-9546971.html"
     },
     {
-      "title": "VMware Cloud Director",
-      "url": "https://www.heise.de/news/Sicherheitspatch-verfuegbar-Kritische-Luecke-in-VMware-Cloud-Director-behoben-9546933.html"
+      "title": "Neue Squid-Version behebt Denial-of-Service-Lücken",
+      "teaser": "Drei Sicherheitsprobleme können dazu führen, dass der freie Web-Proxy Squid seinen Dienst verweigert. Admins sollten die bereitstehenden Updates einpflegen.",
+      "url": "https://www.heise.de/news/Neue-Squid-Version-behebt-Denial-of-Service-Luecken-9548574.html"
     },
     {
       "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
@@ -155,12 +160,6 @@
       "teaser": "Durch eine Lücke im Bluetooth-Protokoll können Angreifer einfach zu knackende Schlüssel erzwingen und so vergangene wie zukünftige Datenübertragung knacken.",
       "url": "https://www.heise.de/news/BLUFFS-Neue-Angriffe-gefaehrden-Bluetooth-Datensicherheit-auf-Milliarden-Geraeten-9544862.html",
       "image_title": "Technik-Messe CES - Bluetooth"
-    },
-    {
-      "title": "Mit Wortwiederholungs-Trick: ChatGPT läßt sich Trainingsdaten entlocken",
-      "teaser": "Die Version 3.5 des populären Chatbots ChatGPT verrät mit einem bestimmten Prompt ihre geheimen Trainingsdaten, wie Wissenschaftler herausgefunden haben.",
-      "url": "https://www.heise.de/news/Mit-Wortwiederholungs-Trick-ChatGPT-laesst-sich-Trainingsdaten-entlocken-9544586.html",
-      "image_title": "Ein offener Laptop wird von einer Person mit blauem Hemd bedient; über der Tastatur schweben der Schriftzug ChatGPT und einigen abstrakte Symbole"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
