@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-05T14:11:28",
+  "timestamp": "2023-12-05T15:12:42",
   "url": "https://www.fr.de/panorama/",
   "response": {
     "status": 200
@@ -42,6 +42,12 @@
       "text": null
     },
     {
+      "type": "text/javascript",
+      "src": "https://www.fr.de/sso/static/login/common/js/ssowidget.js",
+      "id": "iduidjs-ssowidget",
+      "text": null
+    },
+    {
       "type": "text/plain",
       "src": "https://static.cleverpush.com/channel/loader/4Dc5cYweSTjQ74PY5.js",
       "id": null,
@@ -50,28 +56,28 @@
   ],
   "articles": [
     {
+      "title": "Deutscher Corona-Gegner in Portugal festgenommen – angeblich Anführer von bewaffneter Gruppe",
+      "teaser": "„Paladin“-Rädelsführer in Gewahrsam",
+      "url": "https://www.fr.de/panorama/deutscher-corona-radikaler-gesundheit-portugal-festgenommen-anfuehrer-bewaffnete-gruppe-zr-92712555.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/12/05/92712555/33364245-der-39-jaehrige-joachim-radikalisierte-sich-waehrend-der-corona-pandemie-er-soll-eine-bewaffnete-gruppe-gegruendet-und-angefuehrt-haben-4RG.jpg",
+      "image_title": "Deutscher Corona-Gegner in Portugal festgenommen – angeblich Anführer von bewaffneter Gruppe",
+      "author": "Julia Stanton"
+    },
+    {
       "title": "Deutschland erlebt neuen Pisa-Schock: Schülerinnen und Schüler so schlecht wie noch nie",
       "teaser": "„Beispielloser Rückgang“ weltweit",
       "url": "https://www.fr.de/panorama/deutschland-pisa-studie-ergebnisse-schlecht-debakel-tabelle-mathe-lesen-naturwissenschaften-92712140.html",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92712140/33362634-pisa-frust-in-deutschland-die-deutschen-schueler-haben-so-schlecht-abgeschnitten-wie-noch-nie-symbolbild-1wfyylkkYMRG.jpg",
+      "image_url": "https://www.fr.de/bilder/2023/12/05/92712140/33362634-pisa-frust-in-deutschland-die-deutschen-schueler-haben-so-schlecht-abgeschnitten-wie-noch-nie-symbolbild-1wfyylkkYMVI.jpg",
       "image_title": "Deutschland erlebt neuen Pisa-Schock: Schülerinnen und Schüler so schlecht wie noch nie",
       "author": "Moritz Bletzinger"
     },
     {
-      "title": "Geheimpapier geleakt: Italiens Supervulkan könnte schon bald ausbrechen",
-      "teaser": "Offenbar steigt Lava auf",
-      "url": "https://www.fr.de/panorama/koennte-in-wenigen-monaten-ausbrechen-neapel-geheimpapier-geleakt-italien-supervulkan-92699053.html",
-      "image_url": "https://www.fr.de/bilder/2023/11/27/92699053/33217269-ausbruch-des-aetna-im-maerz-2013-vulkan-vulkanausbruch-sizilien-2sk65MpPjTVI.jpg",
-      "image_title": "Geheimpapier geleakt: Italiens Supervulkan könnte schon bald ausbrechen",
-      "author": "Johannes Welte"
-    },
-    {
-      "title": "Unterirdische Magma-Beule: Vulkan bedroht Islands Hauptstadt – „neues Kapitel hat …",
-      "teaser": "Ausbruch rückt näher",
-      "url": "https://www.fr.de/panorama/schaeden-grindavik-blaue-lagune-island-vulkan-ausbruch-erdbeben-bilder-evakuierung-risse-zr-92675180.html",
-      "image_url": "https://www.fr.de/bilder/2023/12/02/92707717/33343802-ein-arbeiter-misst-die-tiefe-der-loecher-in-grindavik-UPI.jpg",
-      "image_title": "Unterirdische Magma-Beule: Vulkan bedroht Islands Hauptstadt – „neues Kapitel hat begonnen“",
-      "author": "Johannes Welte"
+      "title": "Tödlicher „Lückenfüller“: Zombie-Droge in Österreich angekommen",
+      "teaser": "Fentanyl",
+      "url": "https://www.fr.de/panorama/gefahr-oesterreich-toedlicher-lueckenfueller-zombie-droge-fentanyl-konsum-tod-92709558.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/12/03/92709558/33317164-drogen-fentanyl-heroin-sucht-opioid-spritze-2qk99mfMd1PI.jpg",
+      "image_title": "Tödlicher „Lückenfüller“: Zombie-Droge in Österreich angekommen",
+      "author": "Michelle Brey"
     },
     {
       "title": "Wissing zu Regulierung von KI: Präzision vor Geschwindigkeit",
@@ -79,6 +85,22 @@
       "url": "https://www.fr.de/panorama/wissing-zu-regulierung-von-ki-praezision-vor-geschwindigkeit-zr-92712257.html",
       "image_url": "https://www.fr.de/bilder/2023/12/05/92712257/33363406-volker-wissing-1qa7.jpg",
       "image_title": "Wissing zu Regulierung von KI: Präzision vor Geschwindigkeit"
+    },
+    {
+      "title": "Unterirdische Magma-Beule: Vulkan bedroht Islands Hauptstadt – „neues Kapitel hat …",
+      "teaser": "Ausbruch rückt näher",
+      "url": "https://www.fr.de/panorama/schaeden-grindavik-blaue-lagune-island-vulkan-ausbruch-erdbeben-bilder-evakuierung-risse-zr-92675180.html",
+      "image_url": "https://www.fr.de/bilder/2023/12/02/92707717/33343802-ein-arbeiter-misst-die-tiefe-der-loecher-in-grindavik-Ua7.jpg",
+      "image_title": "Unterirdische Magma-Beule: Vulkan bedroht Islands Hauptstadt – „neues Kapitel hat begonnen“",
+      "author": "Johannes Welte"
+    },
+    {
+      "title": "Ständig müde und erschöpft: Arzt rät zu bestimmten Lebensmitteln",
+      "teaser": "Gemüse macht fit",
+      "url": "https://www.fr.de/panorama/lebensmittel-ernaehrung-erkaeltung-gemuese-vitamine-gesundheit-muede-erschoepft-zr-92689232.html",
+      "image_url": "https://www.fr.de/bilder/2023/11/20/92689232/33271629-frau-liegt-im-bett-und-gaehnt-2y5E6nGbG8SG.jpg",
+      "image_title": "Ständig müde und erschöpft: Arzt rät zu bestimmten Lebensmitteln",
+      "author": "Anna-Lena Kiegerl"
     },
     {
       "title": "Indonesischer Vulkan Krakatau explodiert – Angst vor Tsunami wächst",
@@ -91,58 +113,42 @@
     {
       "title": "Steffen Hallaschka rechnet mit Gil Ofarim ab – „Allein in dieser Sendung zweimal …",
       "teaser": "Vorwürfe erfunden",
-      "url": "https://www.fr.de/panorama/steffen-hallaschka-rechnet-ab-gil-ofarim-belog-mich-allein-zweimal-hier-in-dieser-sendung-92712007.html",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92712007/33361752-stern-tv-moderator-steffen-hallaschka-gil-ofraim-belogen-antisemitismus-kSG.jpg",
+      "url": "https://www.fr.de/panorama/steffen-hallaschka-rechnet-ab-gil-ofarim-belog-mich-allein-zweimal-hier-in-dieser-sendung-92712007.html#idVAnk0",
+      "image_url": "https://www.fr.de/bilder/2023/12/05/92712007/33361752-stern-tv-moderator-steffen-hallaschka-gil-ofraim-belogen-antisemitismus-ka7.jpg",
       "image_title": "Steffen Hallaschka rechnet mit Gil Ofarim ab – „Allein in dieser Sendung zweimal belogen“",
       "author": "Nico Reiter"
     },
     {
       "title": "Spektakulärer Fund nach Winter-Sturm: „Im Moment lohnt sich das wirklich“",
       "teaser": "Riesige Entdeckung",
-      "url": "https://www.fr.de/panorama/sich-das-wirklich-riesenfund-bernstein-nordsee-st-peter-ording-spo-nach-winter-sturm-im-moment-lohnt-92711909.html#idVAnk0",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92711909/33330823-ein-grosser-bernstein-in-einer-hand-im-hintergrund-viele-weitere-kleine-bernsteine-2LhEQJtuCFa7.jpg",
+      "url": "https://www.fr.de/panorama/sich-das-wirklich-riesenfund-bernstein-nordsee-st-peter-ording-spo-nach-winter-sturm-im-moment-lohnt-92711909.html",
+      "image_url": "https://www.fr.de/bilder/2023/12/05/92711909/33330823-ein-grosser-bernstein-in-einer-hand-im-hintergrund-viele-weitere-kleine-bernsteine-2LhEQJtuCFSG.jpg",
       "image_title": "Spektakulärer Fund nach Winter-Sturm: „Im Moment lohnt sich das wirklich“",
       "author": "Marcel Prigge"
     },
     {
-      "title": "Fluch auf gesunkenem Tanker? 19. Taucher stirbt an Wrack in Italien",
-      "teaser": "Vor der Küste bei Genua",
-      "url": "https://www.fr.de/panorama/fluch-auf-gesunkenem-tanker-19-taucher-stirbt-an-wrack-in-italien-92711691.html#idVAnk0",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92711691/33358022-in-dem-wrack-starben-schon-sieben-taucher-2Xa7.jpg",
-      "image_title": "Fluch auf gesunkenem Tanker? 19. Taucher stirbt an Wrack in Italien",
-      "author": "Johannes Welte"
+      "title": "Rodeln in Baden-Württemberg: Das sind sechs der schönsten Pisten",
+      "teaser": "Hoch hinaus & steil bergab",
+      "url": "https://www.fr.de/panorama/rodeln-in-baden-wuerttemberg-sechs-der-schoensten-pisten-schwarzwald-schwaebische-alb-zr-92712570.html",
+      "image_url": "https://www.fr.de/bilder/2023/12/05/92712570/33362783-stuttgart-wintereinbruch-in-stuttgart-strassenverhaeltnisse-und-freizeit-nach-dem-es-geschneit-hat-3ua7.jpg",
+      "image_title": "Rodeln in Baden-Württemberg: Das sind sechs der schönsten Pisten",
+      "author": "Dominik Grill"
     },
     {
-      "title": "Eltern-Zoff in WhatsApp-Gruppe: Debatte um Weihnachtsfeier einer 2. Klasse eskaliert",
-      "teaser": "„Gisela hat die Gruppe verlassen“",
-      "url": "https://www.fr.de/panorama/eskaliert-eltern-zoff-whatsapp-gruppe-debatte-um-weihnachtsfeier-zweite-klasse-92711744.html",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92711744/33359268-ein-user-dokumentierte-eine-diskussion-aus-einer-whatsapp-elterngruppe-hier-ein-kleiner-ausschnitt-2RSG.jpg",
-      "image_title": "Eltern-Zoff in WhatsApp-Gruppe: Debatte um Weihnachtsfeier einer 2. Klasse eskaliert",
-      "author": "Christoph Gschoßmannund Maximilian Kettenbach"
+      "title": "Riesen-Wellen und Alarmstufe Rot in Kroatien – Lieblings-Urlaubsregion vieler …",
+      "teaser": "„Seien Sie vorbereitet“",
+      "url": "https://www.fr.de/panorama/tornados-wuestenstuerme-zyklone-10-wetterphaenomene-die-kennen-sollten-zr-92326194.html",
+      "image_url": "https://www.fr.de/bilder/2023/12/03/92708556/33347513-in-der-kroatischen-kuestenstadt-pula-ueberschwemmen-riesige-wellen-die-strasse-2qlD69wGuia7.jpg",
+      "image_title": "Riesen-Wellen und Alarmstufe Rot in Kroatien – Lieblings-Urlaubsregion vieler Deutscher getroffen",
+      "author": "Karolin Schäfer"
     },
     {
-      "title": "15 Bilder, die dich aufheitern, wenn deine Woche bisher für den Pöppes war",
-      "teaser": "Positive Gedanken, postive ...",
-      "url": "https://www.fr.de/panorama/15-bilder-aufheitern-woche-fuer-poeppes-fotos-lachen-laecheln-liste-zr-92712369.html#idVAnk0",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92712369/33363479-ein-kleiner-bagger-auf-einem-grossen-lkw-ausserdem-ein-kleiner-spider-man-der-auf-seine-schwester-aufpasst-7a7.jpg",
-      "image_title": "15 Bilder, die dich aufheitern, wenn deine Woche bisher für den Pöppes war",
-      "author": "Nadja Rödig"
-    },
-    {
-      "title": "Verhaftung nach Schießerei in Hamburg: Polizei findet Waffe, Auto und Drogen",
-      "teaser": "Brisante Funde",
-      "url": "https://www.fr.de/panorama/festnahmen-nach-schuessen-auf-maennern-in-phoenix-viertel-zr-92712137.html",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92712137/33362951-handschellen-ya7.jpg",
-      "image_title": "Verhaftung nach Schießerei in Hamburg: Polizei findet Waffe, Auto und Drogen",
+      "title": "Polizeiunfall in Hamburg: Streifenwagen kracht gegen Laterne",
+      "teaser": "Kollision in Hamburg",
+      "url": "https://www.fr.de/panorama/polizeiwagen-rammt-laterne-beide-beamten-verletzt-zr-92708383.html",
+      "image_url": "https://www.fr.de/bilder/2023/12/03/92708383/33347373-blaulicht-12a7.jpg",
+      "image_title": "Polizeiunfall in Hamburg: Streifenwagen kracht gegen Laterne",
       "author": "Adriano D'Adamo"
-    },
-    {
-      "title": "Tat erschüttert Frankreich: Junge (15) richtet Eltern hin, tötet Hund und zündet …",
-      "teaser": "Teenager gesteht",
-      "url": "https://www.fr.de/panorama/frankreich-montpellier-grenoble-junge-toetet-eltern-hund-haus-feuer-brand-polizei-gestaendnis-zr-92712358.html",
-      "image_url": "https://www.fr.de/bilder/2023/12/05/92712358/33363643-das-haus-in-schutt-und-asche-die-eltern-tot-die-tat-eines-jungen-aus-dem-dorf-chateauvilain-erschuettert-ganz-frankreich-1RxJtN7NlFa7.jpg",
-      "image_title": "Tat erschüttert Frankreich: Junge (15) richtet Eltern hin, tötet Hund und zündet Haus an",
-      "author": "Moritz Bletzinger"
     },
     {
       "title": "Hunderte Erdbeben in Island: Vulkanausbruch droht – Bilder halten Ausmaß fest",
