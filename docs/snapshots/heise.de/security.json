@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-06T11:09:57",
+  "timestamp": "2023-12-06T12:22:24",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Atlassian Jira, Bitbucket, Confluence",
+      "url": "https://www.heise.de/news/Codeschmuggel-in-Atlassian-Produkten-Vier-kritische-Luecken-aufgetaucht-9565780.html"
+    },
+    {
       "title": "Patchday Android",
       "url": "https://www.heise.de/news/Patchday-Android-Android-11-12-13-und-14-fuer-Schadcode-Attacken-anfaellig-9548839.html"
     },
@@ -44,11 +48,17 @@
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Zyxel-NAS-mit-praeparierten-URLs-attackieren-9547837.html"
     },
     {
-      "title": "GitLab CE & EE",
-      "url": "https://www.heise.de/news/Entwicklungsplattform-Neue-GitLab-Versionen-beheben-zehn-Sicherheitsluecken-9547411.html"
+      "title": "SLAM: Neue Spectre-Variante gefährdet zukünftige CPU-Generationen",
+      "teaser": "Forscher tricksen das Speichermanagement kommender CPU-Generationen aus, um vermeintlich geschützte Daten aus dem RAM zu lesen.",
+      "url": "https://www.heise.de/news/SLAM-Neue-Spectre-Variante-gefaehrdet-zukuenftige-CPU-Generationen-9549625.html"
     },
     {
-      "title": "Pentesting: Kali Linux 2023.4 mit neuen Tools und fit für Raspi 5",
+      "title": "Codeschmuggel in Atlassian-Produkten: Vier kritische Lücken aufgetaucht",
+      "teaser": "Admins von Confluence, Jira und Bitbucket kommen aus dem Patchen nicht heraus: Erneut hat Atlassian dringende Updates für seine wichtigsten Produkte vorgelegt.",
+      "url": "https://www.heise.de/news/Codeschmuggel-in-Atlassian-Produkten-Vier-kritische-Luecken-aufgetaucht-9565780.html"
+    },
+    {
+      "title": "IT-Sicherheitstests: Kali Linux 2023.4 läuft auf Raspi 5 und mit neuen Tools",
       "teaser": "Das neue Kali Linux sieht hübscher aus, läuft nun auch in der Cloud und eignet sich dank neuer Werkzeuge für noch mehr Sicherheitstests.",
       "url": "https://www.heise.de/news/Pentesting-Kali-Linux-2023-4-mit-neuen-Tools-und-fit-fuer-Raspi-5-9559744.html"
     },
@@ -146,18 +156,6 @@
       "teaser": "Überwiegend US-amerikanische Unternehmen haben den russischen Erpressern seit Anfang 2022 neunstellige Umsätze beschert. Black Basta hatte mehr als 300 Opfer.",
       "url": "https://www.heise.de/news/Ransomware-Black-Basta-beschert-Erpressern-ueber-100-Millionen-Dollar-Umsatz-9545611.html",
       "image_title": "Cyberkrimineller bei der Arbeit"
-    },
-    {
-      "title": "Cyber Resilience Act: EU einigt sich auf Vorschriften für vernetzte Produkte",
-      "teaser": "Anbieter müssen in der EU zukünftig für längere Zeit Sicherheitsupdates zur Verfügung stellen – in der Regel für fünf Jahre.",
-      "url": "https://www.heise.de/news/Cyber-Resilience-Act-EU-einigt-sich-auf-Vorschriften-fuer-vernetzte-Produkte-9545873.html",
-      "image_title": "Personen an einem Tablet"
-    },
-    {
-      "title": "London: Ransomware-Gruppe Rhysida wohl im Besitz von Patientendaten",
-      "teaser": "Die Ransomware-Gang Rhysida ist nach dem Angriff auf die British Library erneut aktiv und behauptet, Daten des King Edward VII's Hospital in London zu besitzen.",
-      "url": "https://www.heise.de/news/London-Ransomware-Gruppe-Rhysidia-droht-Krankenhausdaten-zu-versteigern-9545660.html",
-      "image_title": "Krankenhauskorridor"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
