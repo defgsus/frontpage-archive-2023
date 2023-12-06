@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-06T06:15:28",
+  "timestamp": "2023-12-06T07:11:12",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -26,6 +26,11 @@
   ],
   "articles": [
     {
+      "title": "Phishing-Angriffe: Betrüger missbrauchen Hotelbuchungsplattform booking.com",
+      "teaser": "Mit auf Datendiebstahl spezialisierte Malware griffen Cyberkriminelle zunächst Hotelmitarbeiter an und verschickten dann über Booking betrügerische Mails.",
+      "url": "https://www.heise.de/news/Phishing-Angriffe-Betrueger-missbrauchen-Hotelbuchungsplattform-booking-com-9547507.html"
+    },
+    {
       "title": "Turing-Test-Studie: Ur-Chatbot Eliza aus den 1960ern schlägt GPT-3.5",
       "teaser": "In einem Online-Turing-Test konnte das 1966 geschriebene Programm Eliza mehr Probanden davon überzeugen, menschlich zu sein, als ChatGPT in der Gratisversion.",
       "url": "https://www.heise.de/news/Turing-Test-Studie-Ur-Chatbot-Eliza-aus-den-1960ern-schlaegt-GPT-3-5-9546845.html",
@@ -37,11 +42,6 @@
       "url": "https://www.heise.de/news/Intel-2025-TSMCs-zweitgroesster-Kunde-nach-Apple-9546158.html"
     },
     {
-      "title": "AWS verspricht Leistungsrekorde bei serverlosen Datenbankdiensten",
-      "teaser": "Der neue Hypervisor Caspian und eigens entwickelte Zeitserver-Hardware sollen die Skalierbarkeit von AWS-Serverless-Diensten in neue Höhen treiben.",
-      "url": "https://www.heise.de/news/AWS-re-Invent-Skalierbarkeitsrekorde-bei-serverlosen-Datenbankdiensten-9546278.html"
-    },
-    {
       "title": "macOS 14 Sonoma auf nicht mehr unterstützten Macs installieren",
       "teaser": "Sonoma lässt wieder Macs im Regen stehen, die gar nicht so alt sind. Der OpenCore Legacy Patcher macht die Installation möglich – auch ohne Apples Segen.",
       "url": "https://www.heise.de/ratgeber/macOS-14-Sonoma-auf-nicht-mehr-unterstuetzten-Macs-installieren-9548785.html",
@@ -51,6 +51,12 @@
       "title": "Security: Deception-basierte Verteidigung mit Canarytokens",
       "teaser": "Der strategische Einsatz von Deception ermöglicht es, Angreifer frühzeitig zu identifizieren und wertvolle Infos über ihre Taktiken und Verfahren zu gewinnen.",
       "url": "https://www.heise.de/hintergrund/Security-Deception-basierte-Verteidigung-mit-Canarytokens-9547649.html"
+    },
+    {
+      "title": "iX-Workshop: Wie Angreifer vorgehen – Pentesting mit Open-Source-Tools",
+      "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. Mit Frühbucherrabatt.",
+      "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-9538380.html",
+      "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
     },
     {
       "title": "Cisco baut KI-Features in seine Firewalls",
@@ -127,12 +133,6 @@
       "title": "Webinarserie zu TypeScript: Letzter Aufruf zum Deep Dive in das Typsystem",
       "teaser": "Bereits in zwei Tagen startet die Webinarserie zum Entwickeln dynamischer Typen in TypeScript. Kurzentschlossene können sich noch dafür anmelden.",
       "url": "https://www.heise.de/news/Webinarserie-zu-TypeScript-Letzter-Aufruf-zum-Deep-Dive-in-das-Typsystem-9548085.html"
-    },
-    {
-      "title": "Besuch im Chiplabor: Warum Apple immer mehr Technik inhouse baut",
-      "teaser": "Seit 2010 lässt Apple fürs iPhone eigene SoCs bauen, inzwischen sind alle Macs damit ausgestattet. Was hinter der Strategie steckt.",
-      "url": "https://www.heise.de/hintergrund/Besuch-im-Chiplabor-Warum-Apple-immer-mehr-Technik-inhouse-baut-9548387.html",
-      "image_title": "Apple Silicon SoC."
     },
     {
       "title": "ECN Pulse Check 2023",
