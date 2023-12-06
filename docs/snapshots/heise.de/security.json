@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-06T12:22:24",
+  "timestamp": "2023-12-06T13:15:00",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Chrome",
+      "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-aktueller-Chrome-Version-geschlossen-9566149.html"
+    },
+    {
       "title": "Atlassian Jira, Bitbucket, Confluence",
       "url": "https://www.heise.de/news/Codeschmuggel-in-Atlassian-Produkten-Vier-kritische-Luecken-aufgetaucht-9565780.html"
     },
@@ -44,18 +48,10 @@
       "url": "https://www.heise.de/news/Neue-Squid-Version-behebt-Denial-of-Service-Luecken-9548574.html"
     },
     {
-      "title": "Zyxel-NAS",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Zyxel-NAS-mit-praeparierten-URLs-attackieren-9547837.html"
-    },
-    {
-      "title": "SLAM: Neue Spectre-Variante gefährdet zukünftige CPU-Generationen",
-      "teaser": "Forscher tricksen das Speichermanagement kommender CPU-Generationen aus, um vermeintlich geschützte Daten aus dem RAM zu lesen.",
-      "url": "https://www.heise.de/news/SLAM-Neue-Spectre-Variante-gefaehrdet-zukuenftige-CPU-Generationen-9549625.html"
-    },
-    {
-      "title": "Codeschmuggel in Atlassian-Produkten: Vier kritische Lücken aufgetaucht",
-      "teaser": "Admins von Confluence, Jira und Bitbucket kommen aus dem Patchen nicht heraus: Erneut hat Atlassian dringende Updates für seine wichtigsten Produkte vorgelegt.",
-      "url": "https://www.heise.de/news/Codeschmuggel-in-Atlassian-Produkten-Vier-kritische-Luecken-aufgetaucht-9565780.html"
+      "title": "Zehn Sicherheitslücken in aktueller Chrome-Version geschlossen",
+      "teaser": "Angreifer können Googles Webbrowser Chrome attackieren. Aktualisierte Versionen schaffen Abhilfe.",
+      "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-aktueller-Chrome-Version-geschlossen-9566149.html",
+      "image_title": "Bild zu Chrome-Update"
     },
     {
       "title": "IT-Sicherheitstests: Kali Linux 2023.4 läuft auf Raspi 5 und mit neuen Tools",
@@ -103,9 +99,19 @@
       "image_title": "Gelbe Atommüllbehälter"
     },
     {
+      "title": "Phishing-Angriffe: Betrüger missbrauchen Hotelbuchungsplattform booking.com",
+      "teaser": "Mit auf Datendiebstahl spezialisierte Malware griffen Cyberkriminelle zunächst Hotelmitarbeiter an und verschickten dann über Booking betrügerische Mails.",
+      "url": "https://www.heise.de/news/Phishing-Angriffe-Betrueger-missbrauchen-Hotelbuchungsplattform-booking-com-9547507.html"
+    },
+    {
       "title": "Sicherheitsupdates: Angreifer können Zyxel-NAS mit präparierten URLs attackieren",
       "teaser": "Zwei NAS-Modelle von Zyxel sind verwundbar. In aktuellen Versionen haben die Entwickler mehrere kritische Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Zyxel-NAS-mit-praeparierten-URLs-attackieren-9547837.html"
+    },
+    {
+      "title": "Entwicklungsplattform: Neue GitLab-Versionen beheben zehn Sicherheitslücken",
+      "teaser": "Neben Cross-Site-Scripting und Rechteproblemen beheben die neuen Versionen der Versionsverwaltung auch DoS-Lücken. Das GitLab-Team empfiehlt ein Update.",
+      "url": "https://www.heise.de/news/Entwicklungsplattform-Neue-GitLab-Versionen-beheben-zehn-Sicherheitsluecken-9547411.html"
     },
     {
       "title": "23andme: Daten zu 14.000 Accounts und Millionen \"Verwandten\" abgegriffen",
@@ -150,12 +156,6 @@
       "teaser": "Nach einem Cyberangriff auf das Klinikum Esslingen über einen Fernzugriff hat die Krankenhausleitung einen Krisenstab eingerichtet, die Analyse läuft.",
       "url": "https://www.heise.de/news/Nach-Cyberangriff-auf-Klinikum-Esslingen-Analyse-laeuft-auf-Hochtouren-9546201.html",
       "image_title": "Krankenhausbetten im Krankenhaus"
-    },
-    {
-      "title": "Ransomware Black Basta beschert Erpressern über 100 Millionen Dollar Umsatz",
-      "teaser": "Überwiegend US-amerikanische Unternehmen haben den russischen Erpressern seit Anfang 2022 neunstellige Umsätze beschert. Black Basta hatte mehr als 300 Opfer.",
-      "url": "https://www.heise.de/news/Ransomware-Black-Basta-beschert-Erpressern-ueber-100-Millionen-Dollar-Umsatz-9545611.html",
-      "image_title": "Cyberkrimineller bei der Arbeit"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
