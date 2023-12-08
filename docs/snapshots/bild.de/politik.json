@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-08T18:14:32",
+  "timestamp": "2023-12-08T19:09:09",
   "url": "https://www.bild.de/politik/startseite/politik/politik-16804552.bild.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": "text/javascript",
-      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
+      "type": null,
+      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
       "id": null,
       "text": null
     },
@@ -19,40 +19,65 @@
     },
     {
       "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/core.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/default/packages/js/BTOSeite.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://www.bild.de/code/extra,51784722.2.bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
-      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": "text/javascript",
+      "type": null,
+      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
       "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/runtime.f4fe70a6.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/pages/_.24aeb524.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/pages/_.0b84de44.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/commons/app.231d6f3e.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": null,
+      "src": "https://a.bildstatic.de/app.7ad5c2dd.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": []
+  "articles": [
+    {
+      "title": "Millionen-Boni trotz Horror-Jahr Wofür kriegt der Bahn-Chef eigentlich sein Geld?",
+      "url": "https://www.bild.de/politik/inland/politik-inland/millionen-boni-trotz-horror-jahr-wofuer-kriegt-der-bahn-chef-eigentlich-sein-gel-86355568.bild.html"
+    },
+    {
+      "title": "Attacke bei „Lanz“: „Sie können es nicht!“ Top-Historiker zerlegt den AfD-Chef",
+      "url": "https://www.bild.de/politik/ausland/politik-ausland/attacke-bei-lanz-sie-koennen-es-nicht-top-historiker-zerlegt-den-afd-chef-86367678.bild.html"
+    },
+    {
+      "title": "Knall bei CDU-Stiftung Merz rein, Merkel raus!",
+      "url": "https://www.bild.de/politik/inland/politik/knall-bei-konrad-adenauer-stiftung-merz-rein-merkel-raus-86367516.bild.html"
+    }
+  ]
 }
