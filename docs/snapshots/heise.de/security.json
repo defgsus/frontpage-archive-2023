@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-08T09:11:43",
+  "timestamp": "2023-12-08T10:12:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-unter-bestimmten-Bedingungen-angreifbar-9567923.html"
+    },
+    {
       "title": "Chrome",
       "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-aktueller-Chrome-Version-geschlossen-9566149.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Android-Android-11-12-13-und-14-fuer-Schadcode-Attacken-anfaellig-9548839.html"
     },
     {
-      "title": "Squid",
-      "url": "https://www.heise.de/news/Neue-Squid-Version-behebt-Denial-of-Service-Luecken-9548574.html"
+      "title": "Sicherheitsupdate: WordPress unter bestimmten Bedingungen angreifbar",
+      "teaser": "In der aktuellen WordPress-Version haben die Entwickler eine Sicherheitslücke geschlossen.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-unter-bestimmten-Bedingungen-angreifbar-9567923.html"
     },
     {
       "title": "iX-Workshop: IT-Sicherheit nach ISO 27001 (Rabatt bis 09.01.)",
@@ -151,11 +156,6 @@
       "title": "Sicherheitsupdates: Angreifer können Zyxel-NAS mit präparierten URLs attackieren",
       "teaser": "Zwei NAS-Modelle von Zyxel sind verwundbar. In aktuellen Versionen haben die Entwickler mehrere kritische Sicherheitslücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Angreifer-koennen-Zyxel-NAS-mit-praeparierten-URLs-attackieren-9547837.html"
-    },
-    {
-      "title": "Entwicklungsplattform: Neue GitLab-Versionen beheben zehn Sicherheitslücken",
-      "teaser": "Neben Cross-Site-Scripting und Rechteproblemen beheben die neuen Versionen der Versionsverwaltung auch DoS-Lücken. Das GitLab-Team empfiehlt ein Update.",
-      "url": "https://www.heise.de/news/Entwicklungsplattform-Neue-GitLab-Versionen-beheben-zehn-Sicherheitsluecken-9547411.html"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
