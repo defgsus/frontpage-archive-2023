@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-09T12:20:00",
+  "timestamp": "2023-12-09T13:12:00",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,10 +38,17 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); SPD-Parteitag: Plötzlich ist da diese Wärme",
+      "teaser": "Olaf Scholz hält auf dem Parteitag eine Rede – und die SPD ist begeistert. Er will nicht im Sozialen, nicht bei der Ukraine, nicht beim Klima sparen. Wo aber dann?",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/spd-parteitag-olaf-scholz-rede-haushaltskrise",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/olaf-scholz-rede-parteitag-spd-bild/cinema__980x420"
+    },
+    {
       "title": "Liveblog: Israel-Gaza-Krieg aktuell: Bundesregierung geht von getöteter deutscher Familie in Gaza aus",
       "teaser": "Unter den Opfern der Kämpfe in Gaza ist offenbar auch eine deutsche Familie. Menschenrechtsgruppen zeigen sich \"entsetzt\" über US-Blockade der UN-Resolution. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/israel-gaza-krieg-aktuell-news",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/israel-gaza-krieg-aktuell-news-bild-20/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/israel-gaza-krieg-aktuell-news-bild-20/wide__822x462",
+      "image_title": "Israel-Gaza-Krieg aktuell: Bundesregierung geht von getöteter deutscher Familie in Gaza aus"
     },
     {
       "title": "Weltklimakonferenz COP28: Opec-Mitglieder wollen Einigung bei UN-Klimaabkommen verhindern",
@@ -49,13 +56,6 @@
       "url": "https://www.zeit.de/politik/ausland/2023-12/opec-kein-ausstieg-fossile-brennstofffe",
       "image_url": "https://img.zeit.de/politik/ausland/2023-12/opec-einigung-un-klimaabkommen-cop-28-bild/wide__822x462",
       "image_title": "Weltklimakonferenz COP28: Opec-Mitglieder wollen Einigung bei UN-Klimaabkommen verhindern"
-    },
-    {
-      "title": "SPD-Parteitag : \"Wir sind für euch da, wir machen Politik euretwegen\"",
-      "teaser": "Keinen Abbau des Sozialstaats: Bundeskanzler Olaf Scholz sieht in Verhandlungen über den Bundeshaushalt keine \"unlösbare Aufgabe\". Zum Ende seiner Rede wird er emotional.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/spd-bundesparteitag-olaf-scholz-bundeskanzler-rede",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/spd-bundesparteitag-olaf-scholz-bundeskanzler-rede-bild-2/wide__822x462",
-      "image_title": "SPD-Parteitag : \"Wir sind für euch da, wir machen Politik euretwegen\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Joschka Fischer : \"Ich schäme mich für unser Land\"",
@@ -76,8 +76,8 @@
       "image_title": "Bundeskanzler: Vier Fünftel der Deutschen sind unzufrieden mit Olaf Scholz"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimaschutz: \"Es braut sich ein Sturm zusammen\"",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/weltbank-ajay-banga-svenja-schulze-praesident-gouverneurin"
+      "title": "Haushaltskrise: Diese Hängepartie hat ihren Preis",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/haushaltskrise-ampelkoalition-regierung-bundesverfassungsgericht-foerderprogramme"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Westjordanland: Auch sie war ein Teil des Deals",
@@ -88,8 +88,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-12/bayern-markus-soeder-gendern-verbot"
     },
     {
-      "title": "Haushaltskrise: Diese Hängepartie hat ihren Preis",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/haushaltskrise-ampelkoalition-regierung-bundesverfassungsgericht-foerderprogramme"
+      "title": "Gazastreifen: Israel soll Flutung der Hamas-Tunnel mit Meerwasser vorbereiten",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/israel-gaza-hamas-flutung-tunnel-militaer-krieg"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Investitionsdefizit in Deutschland: Das Land könnte in besserem Zustand sein",
@@ -104,12 +104,12 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-11/joschka-fischer-nahost-konflikt-israel-hamas-antisemitismus-ukraine"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Klimaschutz: \"Es braut sich ein Sturm zusammen\"",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/weltbank-ajay-banga-svenja-schulze-praesident-gouverneurin"
-    },
-    {
       "title": "Haushaltskrise: Diese Hängepartie hat ihren Preis",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/haushaltskrise-ampelkoalition-regierung-bundesverfassungsgericht-foerderprogramme"
+    },
+    {
+      "title": "Gazastreifen: Israel soll Flutung der Hamas-Tunnel mit Meerwasser vorbereiten",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/israel-gaza-hamas-flutung-tunnel-militaer-krieg"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Haushalt 2024: Die Notlage ist der letzte Ausweg",
@@ -150,10 +150,17 @@
       "image_title": "Henry Kissinger: Die ewige Sphinx"
     },
     {
+      "title": "SPD-Parteitag : \"Wir sind für euch da, wir machen Politik euretwegen\"",
+      "teaser": "Keinen Abbau des Sozialstaats: Bundeskanzler Olaf Scholz sieht in Verhandlungen über den Bundeshaushalt keine \"unlösbare Aufgabe\". Zum Ende seiner Rede wird er emotional. 375 Kommentare",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/spd-bundesparteitag-olaf-scholz-bundeskanzler-rede",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/spd-bundesparteitag-olaf-scholz-bundeskanzler-rede-bild-2/cinema__980x420",
+      "image_title": "SPD-Parteitag : \"Wir sind für euch da, wir machen Politik euretwegen\""
+    },
+    {
       "title": "António Guterres: Warum ausgerechnet jetzt?",
       "teaser": "Der UN-Generalsekretär hat im Nahost-Konflikt sein schärfstes Schwert gezogen. Doch die Anrufung des UN-Sicherheitsrates verpufft. Was dahinterstecken könnte.",
       "url": "https://www.zeit.de/politik/ausland/2023-12/antonio-guterres-un-sicherheitsrat-gazastreifen-waffenruhe",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/antonio-guterres-vereinte-nationen-un-veto-usa-palaestina-israel-bild2/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/antonio-guterres-vereinte-nationen-un-veto-usa-palaestina-israel-bild2/wide__822x462",
       "image_title": "António Guterres: Warum ausgerechnet jetzt?"
     },
     {
@@ -167,14 +174,14 @@
       "title": "Russland: Alexej Nawalny offenbar nach Schwächeanfall zusammengebrochen",
       "teaser": "Der Gesundheitszustand des russischen Oppositionellen Alexej Nawalny hat sich nach Angaben seiner Sprecherin verschlechtert. Demnach ist er in seiner Zelle kollabiert.",
       "url": "https://www.zeit.de/politik/ausland/2023-12/alexey-nawalny-strafkolonie-schwaecheanfall-hunger",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/navalny-gefaengnis-schwaecheanfall-russland-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/navalny-gefaengnis-schwaecheanfall-russland-bild/cinema__980x420",
       "image_title": "Russland: Alexej Nawalny offenbar nach Schwächeanfall zusammengebrochen"
     },
     {
       "title": "Nachrichtenpodcast: Die eiserne Lady der USA",
       "teaser": "Die Umfragewerte der US-Republikanerin Nikki Haley steigen. Kann sie Donald Trump gefährlich werden? Und: Die Rettung des Kemm’sche Kuchens.",
       "url": "https://www.zeit.de/politik/2023-12/nikki-haley-us-praesidentschaftswahl-donald-trump-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Die eiserne Lady der USA"
     },
     {
@@ -188,14 +195,14 @@
       "title": "Guatemala: Staatsanwaltschaft Guatemalas erklärt Präsidentschaftswahl für nichtig",
       "teaser": "Mit großem Vorsprung hatte Bernardo Arévalo die Präsidentschaftswahl Guatemalas gewonnen. Nun wurde die Wahl für ungültig erklärt – wegen angeblicher Unregelmäßigkeiten.",
       "url": "https://www.zeit.de/politik/ausland/2023-12/guatemala-praesidentschaftswahl-ungueltig-bernardo-arevalo-korruption",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/guatemala-praesidentschaftswahl-ungueltig-bernardo-arevalo-korruption-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/guatemala-praesidentschaftswahl-ungueltig-bernardo-arevalo-korruption-bild/cinema__980x420",
       "image_title": "Guatemala: Staatsanwaltschaft Guatemalas erklärt Präsidentschaftswahl für nichtig"
     },
     {
       "title": "UN-Sicherheitsrat: USA blockieren Resolution zu Waffenstillstand im Gazastreifen",
-      "teaser": "Der UN-Sicherheitsrat wird vorerst keinen Waffenstillstand im Gazastreifen fordern. Die USA blockierten die Resolution – man wolle die Diplomatie vor Ort nicht gefährden. 157 Kommentare",
+      "teaser": "Der UN-Sicherheitsrat wird vorerst keinen Waffenstillstand im Gazastreifen fordern. Die USA blockierten die Resolution – man wolle die Diplomatie vor Ort nicht gefährden.",
       "url": "https://www.zeit.de/politik/ausland/2023-12/un-sicherheitsrat-krieg-gaza-israel-waffenstillstand-usa-veto",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/un-sicherheitsrat-krieg-gaza-israel-waffenstillstand-usa-veto-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/un-sicherheitsrat-krieg-gaza-israel-waffenstillstand-usa-veto-bild/wide__822x462",
       "image_title": "UN-Sicherheitsrat: USA blockieren Resolution zu Waffenstillstand im Gazastreifen"
     },
     {
@@ -209,14 +216,14 @@
       "title": "Haushaltskrise: SPD-Parteitag votiert für Reform der Schuldenbremse",
       "teaser": "Nach intensiver Debatte hat die SPD den Leitantrag des Vorstands verabschiedet – mit Änderungen. Neben neuen Schuldenregeln wird eine \"Krisenabgabe\" für Reiche gefordert.",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/spd-parteitag-reform-schuldenbremse-krisenabgabe-reiche",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/spd-reform-schuldenbremse-krisenabgabe-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/spd-reform-schuldenbremse-krisenabgabe-bild/cinema__980x420",
       "image_title": "Haushaltskrise: SPD-Parteitag votiert für Reform der Schuldenbremse"
     },
     {
       "title": "Parteitag: SPD-Generalsekretär Kevin Kühnert im Amt bestätigt",
-      "teaser": "So gut wie Kevin Kühnert schnitt bisher kaum jemand bei der Wahl zum SPD-Generalsekretär ab. Er rief die Partei auf, sich gemeinsam gegen die Umfragewerte zu stemmen. 107 Kommentare",
+      "teaser": "So gut wie Kevin Kühnert schnitt bisher kaum jemand bei der Wahl zum SPD-Generalsekretär ab. Er rief die Partei auf, sich gemeinsam gegen die Umfragewerte zu stemmen.",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/spd-generalsekretaer-kevin-kuehnert-im-amt-bestaetigt",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/spd-parteitag-kevin-kuehnert-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/spd-parteitag-kevin-kuehnert-bild/wide__822x462",
       "image_title": "Parteitag: SPD-Generalsekretär Kevin Kühnert im Amt bestätigt"
     },
     {
@@ -253,13 +260,6 @@
       "url": "https://www.zeit.de/politik/2023-12/streik-gdl-deutsche-bahn-claus-weselsky-nachrichtenpodcast",
       "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
       "image_title": "Nachrichtenpodcast: Warum streiken Sie schon wieder, Herr Zugchef?"
-    },
-    {
-      "title": "US-Hilfen für Israel und Ukraine: Geld gegen Grenze",
-      "teaser": "Die Republikaner erpressen Joe Biden: Militärhilfen für die Ukraine und Israel soll es nur für eine härtere Migrationspolitik geben. Welche Spielräume hat der Präsident?",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/us-hilfen-israel-ukraine-senat-republikaner",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/us-hilfen-israel-ukraine-senat/wide__822x462",
-      "image_title": "US-Hilfen für Israel und Ukraine: Geld gegen Grenze"
     },
     {
       "title": "Parteitag: SPD-Doppelspitze Saskia Esken und Lars Klingbeil wiedergewählt",
@@ -304,11 +304,11 @@
       "image_title": "US-Präsidentschaftswahl: Ex-Polizist wegen Sturm auf Kapitol zu elf Jahren Haft verurteilt"
     },
     {
-      "title": "Russland: Wladimir Putin tritt bei Präsidentenwahl 2024 erneut an",
-      "teaser": "Putin hat angekündigt, sich im März für eine fünfte Amtszeit wählen lassen zu wollen. Zuvor hatten Oppositionelle um Alexej Nawalny eine Kampagne gegen ihn gestartet.",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/russland-wladimir-putin-praesidentschaftswahl-2024",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/russland-wladimir-putin-praesidentschaftswahl-2024-bild/wide__822x462",
-      "image_title": "Russland: Wladimir Putin tritt bei Präsidentenwahl 2024 erneut an"
+      "title": "US-Hilfen für Israel und Ukraine: Geld gegen Grenze",
+      "teaser": "Die Republikaner erpressen Joe Biden: Militärhilfen für die Ukraine und Israel soll es nur für eine härtere Migrationspolitik geben. Welche Spielräume hat der Präsident?",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/us-hilfen-israel-ukraine-senat-republikaner",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/us-hilfen-israel-ukraine-senat/wide__822x462",
+      "image_title": "US-Hilfen für Israel und Ukraine: Geld gegen Grenze"
     },
     {
       "title": "Anzeige: Studieren in Berlin",
