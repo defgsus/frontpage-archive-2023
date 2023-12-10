@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-10T02:00:07",
+  "timestamp": "2023-12-10T02:32:33",
   "url": "https://m.bild.de/geld/startseite/geld/geld-15683376.bildMobile.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,65 +19,28 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/mobile/packages/js/asyncCore.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://data-861bbf2127.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f4fe70a6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.24aeb524.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.0b84de44.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.231d6f3e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7ad5c2dd.js",
+      "type": "text/javascript",
+      "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Börsen-Boom Dax knackt seinen Rekord schon wieder!",
-      "url": "https://m.bild.de/geld/wirtschaft/wirtschaft/boersen-boom-dax-knackt-seinen-rekord-schon-wieder-86369114.bildMobile.html"
-    },
-    {
-      "title": "Wachstum im Rekord-Tempo McDonald’s kündigt Filialen-Offensive an",
-      "url": "https://m.bild.de/geld/wirtschaft/wirtschaft/mcdonalds-kuendigt-filialen-offensive-an-wachstum-im-rekord-tempo-86349456.bildMobile.html"
-    },
-    {
-      "title": "Krasses Kredit-Urteil Europäischer Gerichtshof entmachtet Schufa",
-      "url": "https://m.bild.de/geld/wirtschaft/wirtschaft/krasses-kredit-urteil-gericht-entmachtet-schufa-86353642.bildMobile.html"
-    }
-  ]
+  "articles": []
 }
