@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-10T03:12:35",
+  "timestamp": "2023-12-10T04:14:14",
   "url": "https://m.bild.de/ratgeber/startseite/ratgeber/home-15478376.bildMobile.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,65 +19,28 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/mobile/packages/js/asyncCore.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://data-861bbf2127.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.f4fe70a6.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.24aeb524.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.0b84de44.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.231d6f3e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7ad5c2dd.js",
+      "type": "text/javascript",
+      "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Energiefresser im Haushalt optimieren Mit diesen Tricks sparen Sie richtig Strom",
-      "url": "https://m.bild.de/bild-plus/ratgeber/2023/ratgeber/stromfresser-im-haushalt-mit-diesen-tricks-sparen-sie-richtig-geld-86333568.bildMobile.html"
-    },
-    {
-      "title": "Vor allem in jungen Jahren Katzen verdoppeln das Risiko für Schizophrenie",
-      "url": "https://m.bild.de/ratgeber/gesundheit/gesundheit/vor-allem-in-jungen-jahren-katzen-verdoppeln-das-risiko-fuer-schizophrenie-86370264.bildMobile.html"
-    },
-    {
-      "title": "Weinberatung in Nobelrestaurants Darum kann KI den Sommelier nicht ersetzen",
-      "url": "https://m.bild.de/bild-plus/lifestyle/essen-trinken/essen-und-trinken/weine-darum-kann-ki-den-sommelier-nicht-ersetzen-86319244.bildMobile.html"
-    }
-  ]
+  "articles": []
 }
