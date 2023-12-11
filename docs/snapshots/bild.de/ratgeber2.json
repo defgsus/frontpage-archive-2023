@@ -1,13 +1,13 @@
 {
-  "timestamp": "2023-12-11T09:13:18",
+  "timestamp": "2023-12-11T10:13:45",
   "url": "https://m.bild.de/ratgeber/startseite/ratgeber/home-15478376.bildMobile.html",
   "response": {
     "status": 200
   },
   "scripts": [
     {
-      "type": null,
-      "src": "https://cmp2.bild.de/unified/wrapperMessagingWithoutDetection.js",
+      "type": "text/javascript",
+      "src": "https://a.bildstatic.de/red-cmp-0.44.2.min.js",
       "id": null,
       "text": null
     },
@@ -19,65 +19,28 @@
     },
     {
       "type": null,
+      "src": "https://code.bildstatic.de/8.10.3-cats-release--22.10/min/targets/bild/mobile/packages/js/asyncCore.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
+      "src": "https://resources-production.la.welt.de/loader/la-loader-bild.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "text/javascript",
       "src": "https://rosetta.prod.ps.bild.de/ps-rosetta.js",
       "id": null,
       "text": null
     },
     {
-      "type": null,
-      "src": "https://ast.bild.de/bild-bild.de/prod/utag.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://data-861bbf2127.bild.de/iomm/latest/bootstrap/loader.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/runtime.bdfadd5e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/pages/_.311e2e30.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/pages/_.0b84de44.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/commons/app.231d6f3e.js",
-      "id": null,
-      "text": null
-    },
-    {
-      "type": null,
-      "src": "https://a.bildstatic.de/app.7ad5c2dd.js",
+      "type": "text/javascript",
+      "src": "https://data-bb21a2f11b.bild.de/iomm/latest/bootstrap/loader.js",
       "id": null,
       "text": null
     }
   ],
-  "articles": [
-    {
-      "title": "Die schönsten Fotos, alle Videos So informativ war der BILD-Verbraucher-Dialog",
-      "url": "https://m.bild.de/ratgeber/sparfochs/sparfochs/die-schoensten-fotos-alle-videos-so-informativ-war-der-bild-verbraucher-dialog-86364302.bildMobile.html"
-    },
-    {
-      "title": "Jahresrückblick Das haben wir Google 2023 am häufigsten gefragt",
-      "url": "https://m.bild.de/ratgeber/2023/ratgeber/google-jahresrueckblick-das-haben-wir-2023-am-haeufigsten-gegoogelt-86366882.bildMobile.html"
-    },
-    {
-      "title": "Wertvolle Food-Tipps beim BILD-Verbraucher-Dialog „Kettenkochen“! Wie Ralf Zacherl bares Geld spart",
-      "url": "https://m.bild.de/ratgeber/leben-und-wissen-verbraucherportal/verbraucherportal/teure-lebensmittel-wie-ralf-zacherl-mit-kettenkochen-bares-geld-spart-86335928.bildMobile.html"
-    }
-  ]
+  "articles": []
 }

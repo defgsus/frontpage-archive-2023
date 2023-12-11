@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-11T09:12:57",
+  "timestamp": "2023-12-11T10:13:21",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Qnap",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-auf-Qnap-NAS-schieben-9570375.html"
+    },
+    {
       "title": "WordPress",
       "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-unter-bestimmten-Bedingungen-angreifbar-9567923.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Codeschmuggel-in-Atlassian-Produkten-Vier-kritische-Luecken-aufgetaucht-9565780.html"
     },
     {
-      "title": "Patchday Android",
-      "url": "https://www.heise.de/news/Patchday-Android-Android-11-12-13-und-14-fuer-Schadcode-Attacken-anfaellig-9548839.html"
+      "title": "Sicherheitslücken: Angreifer können Schadcode auf Qnap NAS schieben",
+      "teaser": "Netzwerkspeicher von Qnap sind verwundbar. In aktuellen Versionen haben die Entwickler Sicherheitsprobleme gelöst.",
+      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-auf-Qnap-NAS-schieben-9570375.html"
     },
     {
       "title": "5G-Schwachstellen: Mehr als 710 Handy-Modelle mit 5Ghoul verwundbar",
@@ -150,12 +155,6 @@
       "teaser": "Angreifer können Android-Smartphones und -Tablets verschiedener Hersteller ins Visier nehmen. Für einige Geräte gibt es Sicherheitsupdates.",
       "url": "https://www.heise.de/news/Patchday-Android-Android-11-12-13-und-14-fuer-Schadcode-Attacken-anfaellig-9548839.html",
       "image_title": "Aufmacher Android-Patchday"
-    },
-    {
-      "title": "Sicherheitslücke in iOS 16 soll angeblich leichteres Auslesen ermöglichen",
-      "teaser": "In Moskau streiten sich zwei Forensikfirmen wegen gestohlenem Programmcode. Dieser aber offenbart eine mögliche neue Sicherheitslücke im iPhone-Betriebssystem.",
-      "url": "https://www.heise.de/news/Sicherheitsluecke-in-iOS-16-soll-angeblich-leichteres-Auslesen-ermoeglichen-9548725.html",
-      "image_title": "Cyberkrimineller bei der Arbeit"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
