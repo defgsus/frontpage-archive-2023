@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-11T12:22:54",
+  "timestamp": "2023-12-11T13:15:38",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Bluetooth",
+      "url": "https://www.heise.de/news/Bluetooth-Luecke-erlaubt-Einschleusen-von-Tastenanschlaegen-9570583.html"
+    },
+    {
       "title": "Qnap",
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-auf-Qnap-NAS-schieben-9570375.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Zehn-Sicherheitsluecken-in-aktueller-Chrome-Version-geschlossen-9566149.html"
     },
     {
-      "title": "Atlassian Jira, Bitbucket, Confluence",
-      "url": "https://www.heise.de/news/Codeschmuggel-in-Atlassian-Produkten-Vier-kritische-Luecken-aufgetaucht-9565780.html"
+      "title": "Konferenzmesse secIT 2024: Mit Workshop-Wissen Cybercrime abwehren",
+      "teaser": "Von Active Directory über Microsoft 365 und Ransomware: Die redaktionell ausgewählten Workshops auf der secIT bestechen mit hilfreichem Fachwissen.",
+      "url": "https://www.heise.de/news/Konferenzmesse-secIT-2024-Mit-Workshop-Wissen-Cybercrime-abwehren-9568116.html"
+    },
+    {
+      "title": "Bluetooth-Lücke erlaubt Einschleusen von Tastenanschlägen",
+      "teaser": "Eine Sicherheitslücke in Bluetooth-Stacks erlaubt Angreifern, Tastenanschläge einzuschmuggeln. Unter Android, iOS, Linux und macOS.",
+      "url": "https://www.heise.de/news/Bluetooth-Luecke-erlaubt-Einschleusen-von-Tastenanschlaegen-9570583.html",
+      "image_title": "Bluetooth auf dem Smartphone"
     },
     {
       "title": "Sicherheitslücken: Angreifer können Schadcode auf Qnap NAS schieben",
@@ -144,17 +155,6 @@
       "teaser": "Lernen Sie, wie Sie Sicherheitslücken in der eigenen Unternehmens-IT mit Hacker-Tools aufdecken und beseitigen. Mit Frühbucherrabatt.",
       "url": "https://www.heise.de/news/iX-Workshop-Wie-Angreifer-vorgehen-Pentesting-mit-Open-Source-Tools-9538380.html",
       "image_title": "iX-Workshop Sich selbst hacken:Pentesting"
-    },
-    {
-      "title": "Cisco: KI soll Firewalls schlauer machen",
-      "teaser": "Dank KI sollen Cisco-Firewalls Konfigurationsbefehle in natürlicher Sprache verstehen und verschlüsselten Traffic nach Verdächtigem durchsuchen.",
-      "url": "https://www.heise.de/news/Cisco-baut-KI-Features-in-seine-Firewalls-9548462.html"
-    },
-    {
-      "title": "Patchday Android: Android 11, 12, 13 und 14 für Schadcode-Attacken anfällig",
-      "teaser": "Angreifer können Android-Smartphones und -Tablets verschiedener Hersteller ins Visier nehmen. Für einige Geräte gibt es Sicherheitsupdates.",
-      "url": "https://www.heise.de/news/Patchday-Android-Android-11-12-13-und-14-fuer-Schadcode-Attacken-anfaellig-9548839.html",
-      "image_title": "Aufmacher Android-Patchday"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
