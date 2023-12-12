@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-12T09:11:49",
+  "timestamp": "2023-12-12T10:13:09",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "WordPress-Plug-ins Backup Migration, Elementor",
+      "url": "https://www.heise.de/news/WordPress-Elementor-Halbgarer-Sicherheitspatch-gefaehrdete-Millionen-Websites-9571957.html"
+    },
+    {
       "title": "Patchday SAP",
       "url": "https://www.heise.de/news/Patchday-SAP-behandelt-mehr-als-15-Schwachstellen-9571722.html"
     },
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-auf-Qnap-NAS-schieben-9570375.html"
     },
     {
-      "title": "WordPress",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-WordPress-unter-bestimmten-Bedingungen-angreifbar-9567923.html"
+      "title": "Temu: Mehr Sicherheit durch Zwei-Faktor-Authentifizerung und Bug-Bounty-Programm",
+      "teaser": "Die Temu-App hat bisher keinen guten Ruf. Zwei-Faktor-Authentifizierung und Bug-Bounty-Programm sollen das nun ausbessern.",
+      "url": "https://www.heise.de/news/Temu-Mehr-Sicherheit-durch-Zwei-Faktor-Authentifizerung-und-Bug-Bounty-Programm-9572053.html",
+      "image_title": "Einkaufswagen mit Temu-Website auf einem Laptop und auf dem Smartphone im Hintergrund"
+    },
+    {
+      "title": "Informationsleck in \"Counter-Strike 2\": Manipulierte Namen erlaubten IP-Abgriff",
+      "teaser": "Wer seinen Spielernamen in \"Counter-Strike 2\" zu einem HTML-Tag änderte, konnte mittels eines Webservers die IP-Adressen der Mitspieler abgreifen.",
+      "url": "https://www.heise.de/news/Informationsleck-in-Counter-Strike-2-Manipulierte-Namen-erlaubten-IP-Abgriff-9572084.html"
+    },
+    {
+      "title": "WordPress Elementor: Halbgarer Sicherheitspatch gefährdete Millionen Websites",
+      "teaser": "Es gibt wichtige Sicherheitsupdates für die WordPress-Plug-ins Backup Migration und Elementor.",
+      "url": "https://www.heise.de/news/WordPress-Elementor-Halbgarer-Sicherheitspatch-gefaehrdete-Millionen-Websites-9571957.html",
+      "image_title": "Wordpress-Logo auf Smartphone"
     },
     {
       "title": "Sicherheitslücken: Apple-Patches auch für ältere Betriebssysteme – außer iOS 15",
@@ -141,22 +158,6 @@
       "title": "KI in der Softwareentwicklung: Fluch oder Segen für die Sicherheit?",
       "teaser": "Laut einer Umfrage von Snyk sehen Developer KI-Assistenten als Hilfe beim Aufspüren von Security-Problemen, aber auch als Ursache für Schwachstellen.",
       "url": "https://www.heise.de/news/KI-in-der-Softwareentwicklung-Fluch-oder-Segen-fuer-die-Sicherheit-9567024.html"
-    },
-    {
-      "title": "l+f: WordPress-Sicherheitswarnung mit Hintertür",
-      "teaser": "Eine Fake-Warnung an Admins verbreitet ein gefährliches WordPress-Sicherheitsupdate.",
-      "url": "https://www.heise.de/news/l-f-Sicherheitswarnung-mit-Hintertuer-9566929.html"
-    },
-    {
-      "title": "iX-Workshop: Linux-Server härten (Rabatt bis 07.01.)",
-      "teaser": "Linux-Server und Netzwerkdienste effektiv und umfassend vor Angriffen schützen - von physischer Sicherheit über Verschlüsselung und 2FA bis hin zu SELinux.",
-      "url": "https://www.heise.de/news/iX-Workshop-Linux-Server-haerten-Rabatt-bis-07-01-9538950.html",
-      "image_title": "iX-Workshop: Linux-Server härten"
-    },
-    {
-      "title": "Facebooks Messenger bekommt Ende-zu-Ende-Verschlüsselung",
-      "teaser": "Meta macht den Messenger, der ursprünglich an Facebook gekoppelt war, sicherer. Nachrichten werden automatisch Ende-zu-Ende-verschlüsselt.",
-      "url": "https://www.heise.de/news/Facebooks-Messenger-bekommt-Ende-zu-Ende-Verschluesselung-9566770.html"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
