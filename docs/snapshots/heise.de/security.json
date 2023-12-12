@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-12T12:22:14",
+  "timestamp": "2023-12-12T13:14:40",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -25,12 +25,16 @@
     },
     {
       "type": null,
-      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.c96f8fe302920ab7a33f",
+      "src": "https://www.heise.de/assets/heise/heise/js/heise.js?.ltc.29574a988c7fbfee4a3e",
       "id": null,
       "text": null
     }
   ],
   "articles": [
+    {
+      "title": "Apache Struts",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Apache-Struts-Uploadfunktion-kann-Schadcode-passieren-lassen-9572478.html"
+    },
     {
       "title": "WordPress-Plug-ins Backup Migration, Elementor",
       "url": "https://www.heise.de/news/WordPress-Elementor-Halbgarer-Sicherheitspatch-gefaehrdete-Millionen-Websites-9571957.html"
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Bluetooth-Luecke-erlaubt-Einschleusen-von-Tastenanschlaegen-9570583.html"
     },
     {
-      "title": "Qnap",
-      "url": "https://www.heise.de/news/Sicherheitsluecken-Angreifer-koennen-Schadcode-auf-Qnap-NAS-schieben-9570375.html"
+      "title": "Sicherheitsupdate Apache Struts: Uploadfunktion kann Schadcode passieren lassen",
+      "teaser": "Eine kritische Schwachstelle bedroht das Open-Source-Framework Apache Struts.",
+      "url": "https://www.heise.de/news/Sicherheitsupdate-Apache-Struts-Uploadfunktion-kann-Schadcode-passieren-lassen-9572478.html"
     },
     {
       "title": "Temu: Bug-Bounty-Programm und Zwei-Faktor-Authentifizierung für mehr Sicherheit",
@@ -154,12 +159,6 @@
       "teaser": "Lernen Sie die wichtigsten Sicherheitslücken in Web-Anwendungen kennen und erfahren Sie, wie Sie sich erfolgreich schützen können. Mit Rabatt bis 25.12.",
       "url": "https://www.heise.de/news/iX-Workshop-OWASP-Top-10-Webanwendungen-effektiv-absichern-9539004.html",
       "image_title": "Online-Workshop: OWASP Top 10 – Sicherheitslücken in Webanwendungen vermeiden"
-    },
-    {
-      "title": "Facebook Messenger wird öfter verschlüsseln​, Bilder weniger komprimieren",
-      "teaser": "Ende-zu-Ende-Verschlüsselung wird in Messenger-Chats mit 2 Teilnehmern zur Voreinstellung. Das ist Teil der \"größten Verbesserungen, seit es Messenger gibt\".​",
-      "url": "https://www.heise.de/news/Facebook-Messenger-wird-oefter-verschluesseln-9567821.html",
-      "image_title": "Messenger-Logo auf Smartphone"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
