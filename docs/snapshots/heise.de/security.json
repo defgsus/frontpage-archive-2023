@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-13T08:15:03",
+  "timestamp": "2023-12-13T09:11:47",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Patchday Adobe",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Adobe-schliesst-185-Sicherheitsluecken-in-Experience-Manager-9573244.html"
+    },
+    {
       "title": "Patchday Microsoft",
       "url": "https://www.heise.de/news/Patchday-Microsoft-Outlook-kann-sich-an-Schadcode-E-Mail-verschlucken-9573207.html"
     },
@@ -44,8 +48,21 @@
       "url": "https://www.heise.de/news/WordPress-Elementor-Halbgarer-Sicherheitspatch-gefaehrdete-Millionen-Websites-9571957.html"
     },
     {
-      "title": "Patchday SAP",
-      "url": "https://www.heise.de/news/Patchday-SAP-behandelt-mehr-als-15-Schwachstellen-9571722.html"
+      "title": "iPhone geklaut: iOS 17.3 soll vor Account-Plünderung schützen",
+      "teaser": "Kennt ein Dieb den iPhone-Code, kann das derzeit fatale Folgen für den Nutzer haben. Anfang 2024 rüstet Apple einen erweiterten Diebstahlschutz nach.",
+      "url": "https://www.heise.de/news/iPhone-geklaut-iOS-17-3-soll-vor-Account-Pluenderung-schuetzen-9573315.html",
+      "image_title": "iPhone-Diebstahl (Symbolbild)"
+    },
+    {
+      "title": "Playstation: Insomniac wird wohl Opfer von Ransomware-Attacke",
+      "teaser": "Die Entwickler der \"Spider-Man\"-Spiele wurden offenbar gehackt. Daten, darunter auch zu unangekündigten Spielen, stehen zum Verkauf.",
+      "url": "https://www.heise.de/news/Playstation-Insomniac-wird-wohl-Opfer-von-Ransomware-Attacke-9573268.html"
+    },
+    {
+      "title": "Patchday Adobe: Adobe schließt 185 Sicherheitslücken in Experience Manager",
+      "teaser": "Angreifer können Systeme mit Anwendungen von Adobe ins Visier nehmen. Nun hat der Softwarehersteller Schwachstellen geschlossen.",
+      "url": "https://www.heise.de/news/Patchday-Adobe-Adobe-schliesst-185-Sicherheitsluecken-in-Experience-Manager-9573244.html",
+      "image_title": "Aufmacher Adobe Patchday"
     },
     {
       "title": "Patchday Microsoft: Outlook kann sich an Schadcode-E-Mail verschlucken",
@@ -142,23 +159,6 @@
       "teaser": "Neben Android-Smartphones sind auch Apple iPhones für Schwachstellen in 5G-Modems anfällig. IT-Forscher haben 14 DoS-Lücken entdeckt.",
       "url": "https://www.heise.de/news/5G-Schwachstellen-Mehr-als-710-Handy-Modelle-mit-5Ghoul-verwundbar-9570210.html",
       "image_title": "Hände am Smartphone im Dunkeln"
-    },
-    {
-      "title": "Mutmaßungen über Razzia bei Ransomware-Gruppe: AlphV-Seiten im Darknet offline",
-      "teaser": "Sicherheitsforscher und kriminelle Konkurrenten spekulieren über mögliche Polizeirazzien gegen die Cyberkriminellen. AlphV selber gibt sich schmallippig.",
-      "url": "https://www.heise.de/news/Mutmassungen-ueber-Razzia-bei-Ransomware-Gruppe-AlphV-Seiten-im-Darknet-offline-9570190.html"
-    },
-    {
-      "title": "Persönliche Daten geleakt: Toyota informiert Kunden nach Ransomware-Angriff",
-      "teaser": "Nach dem Ransomware-Angriff der Erpressergruppe \"Medusa\" auf Toyota Financial Services informiert das Unternehmen erste Kunden über den Datenschutzvorfall.",
-      "url": "https://www.heise.de/news/Ransomware-Toyota-informiert-nach-Angriff-auf-Finanzservice-erste-Kunden-9569681.html",
-      "image_title": "Hinweisseite zur Veröffentlichung von Daten der Toyota Financial Services der Ransomware-Gruppe Medusa"
-    },
-    {
-      "title": "Cyberangriff in Südwestfalen: Wiederaufbau geht langsamer als erhofft",
-      "teaser": "Betroffene Kommunen und deren Bürger werden nach dem verheerenden Angriff auf die Südwestfalen-IT noch wochenlang Einschränkungen hinnehmen müssen.",
-      "url": "https://www.heise.de/news/Cyberangriff-in-Suedwestfalen-Wiederaufbau-geht-langsamer-als-erhofft-9568724.html",
-      "image_title": "Homepage der Ransomware-Gruppe Akira"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
