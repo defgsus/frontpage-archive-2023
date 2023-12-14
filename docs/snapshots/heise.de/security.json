@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-14T09:11:40",
+  "timestamp": "2023-12-14T10:12:52",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Zoom-Clients und SDK",
+      "url": "https://www.heise.de/news/Zoom-behebt-Sicherheitsluecken-unter-Windows-Android-und-iOS-9574367.html"
+    },
+    {
       "title": "Patchday Adobe",
       "url": "https://www.heise.de/news/Patchday-Adobe-Adobe-schliesst-185-Sicherheitsluecken-in-Experience-Manager-9573244.html"
     },
@@ -44,8 +48,15 @@
       "url": "https://www.heise.de/news/Sicherheitsupdate-Apache-Struts-Uploadfunktion-kann-Schadcode-passieren-lassen-9572478.html"
     },
     {
-      "title": "WordPress-Plug-ins Backup Migration, Elementor",
-      "url": "https://www.heise.de/news/WordPress-Elementor-Halbgarer-Sicherheitspatch-gefaehrdete-Millionen-Websites-9571957.html"
+      "title": "Jetzt patchen! Attacken auf kritische Lücke in Apache Struts beobachtet",
+      "teaser": "Admins sollten das Webframework Apache Struts aus Sicherheitsgründen zügig auf den aktuellen Stand bringen.",
+      "url": "https://www.heise.de/news/Jetzt-patchen-Attacken-auf-kritische-Luecke-in-Apache-Struts-beobachtet-9574299.html"
+    },
+    {
+      "title": "Zoom behebt Sicherheitslücken unter Windows, Android und iOS",
+      "teaser": "Durch ungenügende Zugriffskontrolle, Verschlüsselungsprobleme und Pfadmanipulation konnten Angreifer sich zusätzliche Rechte verschaffen.",
+      "url": "https://www.heise.de/news/Zoom-behebt-Sicherheitsluecken-unter-Windows-Android-und-iOS-9574367.html",
+      "image_title": "Zoom"
     },
     {
       "title": "Domains beschlagnahmt: Microsoft geht gegen Accountbetrug vor",
@@ -148,17 +159,6 @@
       "teaser": "Der Bund muss bei seinen Datenzentren jetzt mindestens das Niveau der Standard-Absicherung nach IT-Grundschutz einhalten, also einen ganzheitlichen Ansatz.",
       "url": "https://www.heise.de/news/IT-Security-BSI-erhoeht-Sicherheitsanforderungen-fuer-Rechenzentren-des-Bundes-9571586.html",
       "image_title": "Rechenzentrum"
-    },
-    {
-      "title": "DICOM-Server: Millionen Patientendaten ungeschützt, aber nicht in Deutschland",
-      "teaser": "In Deutschland und der EU sind DICOM-Server sicher, global jedoch nicht. Sicherheitslücken bleiben oft ungepatcht, Datenschutz wird vernachlässigt.",
-      "url": "https://www.heise.de/news/Altes-Protokoll-Millionen-Patientendaten-ungeschuetzt-aber-nicht-in-Deutschland-9570743.html",
-      "image_title": "CT-Scan des Gehirns eines Patienten mit akuter Subarachnoidalblutung nach einem Verkehrsunfall"
-    },
-    {
-      "title": "Avira-Update legt Systeme lahm",
-      "teaser": "In Internetforen häufen sich Berichte, dass ein kürzlich verteiltes Avira-Update Systeme unbenutzbar macht. Eine Deinstallation soll helfen.",
-      "url": "https://www.heise.de/news/Avira-Virenschutz-Update-sorgt-fuer-lahmgelegte-Rechner-9571059.html"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
