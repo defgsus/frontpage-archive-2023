@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-14T17:11:03",
+  "timestamp": "2023-12-14T18:14:55",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Squid",
+      "url": "https://www.heise.de/news/Squid-Proxy-Denial-of-Service-durch-Endlosschleife-9575176.html"
+    },
+    {
       "title": "Zoom-Clients und SDK",
       "url": "https://www.heise.de/news/Zoom-behebt-Sicherheitsluecken-unter-Windows-Android-und-iOS-9574367.html"
     },
@@ -44,8 +48,9 @@
       "url": "https://www.heise.de/news/Patchday-Microsoft-Outlook-kann-sich-an-Schadcode-E-Mail-verschlucken-9573207.html"
     },
     {
-      "title": "Apache Struts",
-      "url": "https://www.heise.de/news/Sicherheitsupdate-Apache-Struts-Uploadfunktion-kann-Schadcode-passieren-lassen-9572478.html"
+      "title": "Squid-Proxy: Denial of Service durch Endlosschleife",
+      "teaser": "Schickt ein Angreifer einen präparierten HTTP-Header an den Proxy-Server, kann er ihn durch eine unkontrollierte Rekursion zum Stillstand bringen.",
+      "url": "https://www.heise.de/news/Squid-Proxy-Denial-of-Service-durch-Endlosschleife-9575176.html"
     },
     {
       "title": "Jetzt patchen! Attacken auf kritische Lücke in Apache Struts beobachtet",
@@ -152,12 +157,6 @@
       "title": "Patchday: 15 Sicherheitswarnungen von SAP",
       "teaser": "Am Dezember-Patchday hat SAP 15 neue Sicherheitsmitteilungen herausgegeben. Sie thematisieren teils kritische Lücken.",
       "url": "https://www.heise.de/news/Patchday-SAP-behandelt-mehr-als-15-Schwachstellen-9571722.html"
-    },
-    {
-      "title": "Neuer Chef für Blackberry, aber kein neuer Börsengang",
-      "teaser": "Der bisherige Leiter der Blackberry-Abteilung für IT-Sicherheitsprodukte, John J. Giamatteo, übernimmt als Konzernchef. \"Project Imperium\" wird gestoppt.",
-      "url": "https://www.heise.de/news/Blackberry-findet-neuen-Chef-storniert-Spaltung-mit-Boersengang-9571630.html",
-      "image_title": "Graues Element mit Blackberry-Schriftzug"
     },
     {
       "title": "Kommentar: Passkeys sind toll fürs Internet – und schwierig in Unternehmen",
