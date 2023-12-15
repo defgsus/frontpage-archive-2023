@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-15T15:12:02",
+  "timestamp": "2023-12-15T16:15:09",
   "url": "https://www.welt.de/wissenschaft/",
   "response": {
     "status": 200
@@ -25,6 +25,14 @@
     }
   ],
   "articles": [
+    {
+      "title": "„Long Flu“ – Auch bei Grippe gibt es schwere Langzeitfolgen",
+      "teaser": "„Long Covid“ ist weithin bekannt, über die langfristigen Konsequenzen einer Grippe wird dagegen kaum geredet. US-Forscher haben jetzt den Ausdruck „Long Flu“ dafür geprägt – und die Langzeitfolgen beider Virusinfektionen verglichen. Mit erstaunlichen Ergebnissen.",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile249070098/9377939987-ci23x11-w20/Schnupfen.jpg",
+      "image_title": "Grippeviren übertragen sich durch Tröpfchen und Sekrete",
+      "author": "Martin Lindner"
+    },
     {
       "title": "Wie der Wisent wiederkehren könnte",
       "teaser": "Einst zogen die Kolosse durch ganz Europa, doch dann verschwanden die Tiere komplett. Woran das lag, haben Forscher jetzt rekonstruiert – und herausgefunden, wo sie überall wieder angesiedelt werden könnten.",
@@ -54,14 +62,6 @@
       "url": "https://www.welt.de/wissenschaft/",
       "image_url": "https://img.welt.de/img/wissenschaft/mobile249036156/1537931327-ci23x11-w20/Shooting-stars-over-the-Alps.jpg",
       "image_title": "Shooting stars over the Alps"
-    },
-    {
-      "title": "Forscher entdecken Ursache der Schwangerschaftsübelkeit",
-      "teaser": "Viele Schwangere werden von Übelkeit und Erbrechen geplagt. Einige leiden so stark, dass es gefährlich für sie selbst und das Baby wird. Ein Forscherteam hat nun herausgefunden, was wirklich hinter der typischen Morgenübelkeit steckt.",
-      "url": "https://www.welt.de/wissenschaft/",
-      "image_url": "https://img.welt.de/img/wissenschaft/mobile249039298/3027937367-ci23x11-w20/Young-woman-feeling-sick-throwing-up-vomiting-in-toilet.jpg",
-      "image_title": "Young woman feeling sick, throwing up, vomiting in toilet",
-      "author": "Nike Heinen"
     },
     {
       "title": "Tod durch Arbeit im Freien – 19.000 Menschen sterben weltweit an hellem Hautkrebs",
@@ -124,6 +124,14 @@
       "url": "https://www.welt.de/deals/"
     },
     {
+      "title": "Forscher entdecken Ursache der Schwangerschaftsübelkeit",
+      "teaser": "Viele Schwangere werden von Übelkeit und Erbrechen geplagt. Einige leiden so stark, dass es gefährlich für sie selbst und das Baby wird. Ein Forscherteam hat nun herausgefunden, was wirklich hinter der typischen Morgenübelkeit steckt.",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://img.welt.de/img/wissenschaft/mobile249039298/3027937367-ci23x11-w20/Young-woman-feeling-sick-throwing-up-vomiting-in-toilet.jpg",
+      "image_title": "Young woman feeling sick, throwing up, vomiting in toilet",
+      "author": "Nike Heinen"
+    },
+    {
       "title": "Einweg-E-Zigaretten sind viel zu wertvoll für die Mülltonne",
       "teaser": "Die Batterien von Einweg-E-Zigaretten könnten 700 Mal wieder aufgeladen werden. Derzeit landen die Produkte allerdings tonnenweise im Müll. Und damit jede Menge wertvoller Substanzen, wie eine britische Studie zeigt.",
       "url": "https://www.welt.de/wissenschaft/",
@@ -154,14 +162,6 @@
       "image_url": "https://img.welt.de/img/wissenschaft/mobile249011952/1497934367-ci23x11-w20/Train-at-sunset.jpg",
       "image_title": "Train at sunset",
       "author": "Stefan Parsch"
-    },
-    {
-      "title": "Vorsicht beim Wirkstoff Pseudoephedrin",
-      "teaser": "Erkältungsmittel sollen Schnupfen und Gliederschmerzen verschwinden lassen. Die Europäische Arzneimittelagentur warnt nun: Der in einigen Präparaten erhaltene Wirkstoff Pseudoephedrin kann lebensbedrohliche Zustände auslösen.",
-      "url": "https://www.welt.de/wissenschaft/",
-      "image_url": "https://img.welt.de/img/incoming/mobile248988794/2497930427-ci23x11-w20/Woman-sneezing-behind-a-window.jpg",
-      "image_title": "Woman sneezing behind a window.",
-      "author": "Nike Heinen"
     },
     {
       "title": "Sie veränderten das Leben der Menschen am Everest",
@@ -351,6 +351,14 @@
       "author": "Annett Stein"
     },
     {
+      "title": "Vorsicht beim Wirkstoff Pseudoephedrin",
+      "teaser": "Erkältungsmittel sollen Schnupfen und Gliederschmerzen verschwinden lassen. Die Europäische Arzneimittelagentur warnt nun: Der in einigen Präparaten erhaltene Wirkstoff Pseudoephedrin kann lebensbedrohliche Zustände auslösen.",
+      "url": "https://www.welt.de/wissenschaft/",
+      "image_url": "https://img.welt.de/img/incoming/mobile248988794/2497930427-ci23x11-w20/Woman-sneezing-behind-a-window.jpg",
+      "image_title": "Woman sneezing behind a window.",
+      "author": "Nike Heinen"
+    },
+    {
       "title": "Schlüssel zur Vorhersage von Hitzewellen entdeckt",
       "teaser": "Forscher des Geomar Helmholtz-Zentrums in Kiel analysieren den Zusammenhang der Temperatur über dem Nordatlantik und Hitzeereignissen in Europa. In kommenden Sommern könnte die Methode bei der Gefahrenabwehr eine große Rolle spielen.",
       "url": "https://www.welt.de/regionales/hamburg/",
@@ -532,11 +540,12 @@
       "author": "Edda Grabar"
     },
     {
-      "title": "Das Dilemma mit den Affen-Versuchen",
-      "teaser": "Zwei Paviane aus dem Augsburger Zoo beginnen ein neues Leben in einer Affengruppe in einem Forschungslabor. Jetzt kritisiert die Stadt die Abgabe der Tiere, Tierschützer fürchten in dem Labor Misshandlungen. Zu Recht?",
-      "url": "https://www.welt.de/wissenschaft/",
-      "image_url": "https://img.welt.de/img/wissenschaft/mobile248908804/5217936107-ci23x11-w20/Hamadryas-Baboon-Papio-hamadryas.jpg",
-      "image_title": "Hamadryas Baboon - Papio hamadryas"
+      "title": "Ema empfiehlt erstmals Zulassung einer Genscheren-Therapie",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/wissenschaft_nt/article249081960/Ema-empfiehlt-erstmals-Zulassung-einer-Genscheren-Therapie.html"
+    },
+    {
+      "title": "„Long Flu“ – Auch bei Grippe gibt es schwere Langzeitfolgen",
+      "url": "https://www.welt.de/wissenschaft/article249070052/Langzeitfolgen-der-Grippe-Neben-Long-Covid-gibt-es-Long-Flu.html"
     },
     {
       "title": "WHO sieht globales Risiko: 13.000 Mpox-Fälle im Kongo",
@@ -649,14 +658,6 @@
     {
       "title": "Der Atlantische Lachs ist nun global gefährdet",
       "url": "https://www.welt.de/wissenschaft/article248988348/Lachs-Der-Atlantische-Lachs-ist-nun-global-gefaehrdet.html"
-    },
-    {
-      "title": "Erste Kegelrobben des Jahres in Friedrichskoog",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/panorama_nt/article248991966/Erste-Kegelrobben-des-Jahres-in-Friedrichskoog.html"
-    },
-    {
-      "title": "So könnten die weißen Streifen am Himmel schneller verschwinden",
-      "url": "https://www.welt.de/wissenschaft/article248984780/So-koennten-Kondensstreifen-am-Himmel-schneller-verschwinden.html"
     }
   ]
 }
