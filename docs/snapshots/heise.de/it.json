@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-15T08:15:10",
+  "timestamp": "2023-12-15T09:11:49",
   "url": "https://www.heise.de/newsticker/it/",
   "response": {
     "status": 200
@@ -54,6 +54,44 @@
       "image_title": ","
     },
     {
+      "title": "Google veröffentlicht MedLM-Modelle für KI-Anwendungen im Gesundheitswesen",
+      "teaser": "Google hat MedLM vorgestellt, eine Reihe spezialisierter generativer KI-Modelle für das Gesundheitswesen.",
+      "url": "https://www.heise.de/news/Google-veroeffentlicht-MedLM-Modelle-fuer-KI-Anwendungen-im-Gesundheitswesen-9575489.html",
+      "image_title": "Healthcare,Business,Graph,Data,And,Growth,,Medical,Examination,And,Doctor"
+    },
+    {
+      "title": "Raus aus der Cloud: Was beim Um- und Auszug zu beachten ist",
+      "teaser": "Trotz Hindernissen ist mit der richtigen Vorbereitung der Ausstieg aus der Cloud möglich. Worauf dabei zu achten ist – und wie es praktisch aussehen kann.",
+      "url": "https://www.heise.de/hintergrund/Raus-aus-der-Cloud-Was-beim-Um-und-Auszug-zu-beachten-ist-9572307.html"
+    },
+    {
+      "title": "Interview: Wie das Startup 37signals vom Cloud-Ausstieg profitierte",
+      "teaser": "Senior Site Reliability Engineer Farah Schüller von 37signals spricht über die Herausforderungen des Umstiegs auf eigene Hardware und warum es sich lohnen kann.",
+      "url": "https://www.heise.de/hintergrund/Interview-Wie-das-Startup-37signals-vom-Cloud-Ausstieg-profitierte-9572123.html"
+    },
+    {
+      "title": "We Are Developers! Das Herbstmagazin 2023 kostenlos herunterladen",
+      "teaser": "Die Herbstausgabe der \"We Are Developers\"-Beilage zu c't und iX bietet Beiträge zu Rust, Accessibility, IT-Quereinstieg und Künstliche Intelligenz.",
+      "url": "https://www.heise.de/news/We-Are-Developers-Das-Herbstmagazin-2023-kostenlos-herunterladen-9570659.html"
+    },
+    {
+      "title": "Security: Wie Zertifikate im Web funktionieren – und wie nicht",
+      "teaser": "Die EU will Browser zum Akzeptieren bestimmter Zertifizierungsstellen zwingen. Sie greift damit in ein sensibles System aus technischen Anforderungen ein.",
+      "url": "https://www.heise.de/ratgeber/Security-Wie-Zertifikate-im-Web-funktionieren-und-wie-nicht-9568007.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "Sicherheit: Wo sich überall Stammzertifikate verstecken",
+      "teaser": "Der Inhalt von \"Trust Stores\" entscheidet, welchen Zertifikaten eine Software vertraut. Wir zeigen exemplarisch, welche Faktoren Sie selbst beeinflussen können.",
+      "url": "https://www.heise.de/ratgeber/Sicherheit-Wo-sich-ueberall-Stammzertifikate-verstecken-9568002.html",
+      "image_title": ", Andreas Martini"
+    },
+    {
+      "title": "In der Cloud arbeiten: Wie sich die Kosten zusammensetzen",
+      "teaser": "Der vermeintlich günstige Gang in die Cloud wird in der Realität schnell zum finanziellen Fiasko. Dazu kommt der Vendor Lock-in bei den großen Hyperscalern.",
+      "url": "https://www.heise.de/hintergrund/In-der-Cloud-arbeiten-Wie-sich-die-Kosten-zusammensetzen-9567937.html"
+    },
+    {
       "title": "Sicherheitsupdates: Fortinet schützt Firewalls & Co. vor möglichen Attacken",
       "teaser": "Der Netzwerkausrüster Fortinet hat in mehreren Produkten gefährliche Lücken geschlossen.",
       "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-schuetzt-Firewalls-Co-vor-moeglichen-Attacken-9575483.html",
@@ -95,44 +133,6 @@
       "title": "Squid-Proxy: Denial of Service durch Endlosschleife",
       "teaser": "Schickt ein Angreifer einen präparierten HTTP-Header an den Proxy-Server, kann er ihn durch eine unkontrollierte Rekursion zum Stillstand bringen.",
       "url": "https://www.heise.de/news/Squid-Proxy-Denial-of-Service-durch-Endlosschleife-9575176.html"
-    },
-    {
-      "title": "Googles Bildgenerator Imagen 2 jetzt in der Plattform Vertex AI verfügbar",
-      "teaser": "Googles KI-Bildgenerator Imagen 2 soll realistische Hände und Gesichter beherrschen. In- und Outpainting-Funktion kommen allerdings erst 2024.",
-      "url": "https://www.heise.de/news/Googles-Bildgenerator-Imagen-2-jetzt-in-der-Plattform-Vertex-AI-verfuegbar-9575063.html"
-    },
-    {
-      "title": "Nach nichtmal einem Jahr: Neue Intel-Server-CPUs Xeon SP in fünfter Generation",
-      "teaser": "Intel erneuert einen Teil seiner Server-Prozessoren und bringt 32 neue Xeon-CPUs mit Emerald-Rapids-Architektur, mehr Cache und Kernen, aber weniger Tiles.",
-      "url": "https://www.heise.de/news/Nach-nichtmal-einem-Jahr-Neue-Intel-Server-CPUs-Xeon-SP-in-fuenfter-Generation-9574907.html"
-    },
-    {
-      "title": "E-Autos ohne CarPlay und Android Auto: GM verweist auf Verkehrssicherheit",
-      "teaser": "General Motors verteidigt die Entscheidung, in E-Autos die beliebte Smartphone-Integration zu streichen. Konkurrenten schütteln den Kopf.",
-      "url": "https://www.heise.de/news/E-Autos-ohne-CarPlay-und-Android-Auto-GM-verweist-auf-Verkehrssicherheit-9575029.html",
-      "image_title": "CarPlay im Auto"
-    },
-    {
-      "title": "Nipogi AK1 Plus im TechStage-Test: Mini-PC mit guter Leistung und Dock für SATA",
-      "teaser": "Der Nipogi AK1 Plus ist ein Spross aus Fernost mit aktuellem Alder-Lake-Chipsatz. Wie sich der Mini-PC im Alltag schlägt, zeigt der TechStage-Test.",
-      "url": "https://www.techstage.de/test/nipogi-ak1-plus-im-test-mini-pc-mit-guter-leistung-und-dock-fuer-sata-ab-209-euro/hbnh7rq?wt_mc=intern.red.techstage.newsticker.rubrikstart.teaser.teaser",
-      "image_title": "##PHxVALUE_ALT_TEXT##"
-    },
-    {
-      "title": "Intel: Core Ultra 7 165H soll am Ryzen 7 7840U vorbeiziehen",
-      "teaser": "Intel stellt elf Core-Ultra-Prozessoren aus der Meteor-Lake-Familie vor. Erste Notebooks sollen ab sofort verfügbar sein.",
-      "url": "https://www.heise.de/news/Intel-Core-Ultra-7-165H-soll-am-Ryzen-7-7840U-vorbeiziehen-9574769.html"
-    },
-    {
-      "title": "heise Security Webinar: Microsofts Entra ID – Angriffe verstehen und verhindern",
-      "teaser": "Im Zentrum der sicheren Nutzung der Microsoft-Cloud steht Entra ID aka Azure AD. Dieses Webinar zeigt dessen Probleme und wie man sie in den Griff bekommt.",
-      "url": "https://www.heise.de/news/heise-Security-Webinar-Microsofts-Entra-ID-Angriffe-verstehen-und-verhindern-9573658.html"
-    },
-    {
-      "title": "EuGH: Angst vor Datenmissbrauch nach Cyberangriff kann Schadenersatz begründen",
-      "teaser": "Nach einer Cyberattacke auf Unternehmen oder Behörden kann laut dem EuGH schon die Sorge, dass persönliche Daten missbraucht wurden, einen Schaden darstellen.",
-      "url": "https://www.heise.de/news/EuGH-Angst-vor-Datenmissbrauch-nach-Cyberangriff-kann-Schadenersatz-begruenden-9574822.html",
-      "image_title": "Bad,News,On,Screen.,Confused,Frustrated,Young,Latin,Lady,Cover, Frau, traurig, mit Smartphone"
     },
     {
       "title": "ECN Pulse Check 2023",
