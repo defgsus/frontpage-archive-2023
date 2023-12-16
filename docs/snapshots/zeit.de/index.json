@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-16T14:10:25",
+  "timestamp": "2023-12-16T15:10:23",
   "url": "https://www.zeit.de/index",
   "response": {
     "status": 200
@@ -8,6 +8,12 @@
     {
       "type": null,
       "src": "https://static.zeit.de/p/zeit.web/js/colorscheme.6511ec73aa63d64f96d9.js",
+      "id": null,
+      "text": null
+    },
+    {
+      "type": "module",
+      "src": "https://www.zeit.de/+/kickerticker/kickerticker.js",
       "id": null,
       "text": null
     },
@@ -86,10 +92,17 @@
   ],
   "articles": [
     {
+      "title": "Aleksandar Vučić: Der Macho von Belgrad",
+      "teaser": "Serbiens Präsident tritt radikal auf, Gewalt ist für ihn ein legitimes Mittel. Trotzdem lieben ihn viele Wähler, die EU hält ihn für unverzichtbar. Warum?",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/aleksandar-vucic-serbien-praesident-wahl",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/aleksandar-vucic-serbien-praesident-wahl-2/cinema__980x420"
+    },
+    {
       "title": "Liveblog: Israel-Gaza-Krieg aktuell: Irrtümlich erschossene Geiseln trugen weiße Fahne mit sich",
       "teaser": "Die versehentlich getöteten Geiseln waren ohne Hemd und mit weißer Flagge unterwegs. Noch immer hält die Hamas mehr als 100 Menschen als Geiseln gefangen. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/israel-krieg-gaza-hamas-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/israel-krieg-gaza-hamas-liveblog-bild-2/cinema__980x420"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/israel-krieg-gaza-hamas-liveblog-bild-2/cinema__980x420",
+      "image_title": "Israel-Gaza-Krieg aktuell: Irrtümlich erschossene Geiseln trugen weiße Fahne mit sich"
     },
     {
       "title": "Israelische Geiseln: Schaut in ihre Gesichter",
@@ -113,10 +126,17 @@
       "image_title": "Umweltbonus: Förderung für Kauf von Elektroautos läuft schon am Sonntag aus"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Hubertus Primus: Das ganze Leben ist ein Test",
+      "teaser": "Hubertus Primus hat mächtige Leute wütend gemacht, nun tritt der Chef der Stiftung Warentest ab. Was hat er in 33 Jahren Qualitätskontrolle über die Deutschen gelernt?",
+      "url": "https://www.zeit.de/2023/53/hubertus-primus-stiftung-warentest-qualitaetskontrolle",
+      "image_url": "https://img.zeit.de/2023/53/das-ganze-leben-ist-ein-test-bild-1/cinema__980x420",
+      "image_title": "Hubertus Primus: Das ganze Leben ist ein Test"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Zürcher Bahnhofstraße : \"Sie shoppen so hart\"",
       "teaser": "Eine Flasche Wein für 28.500 Franken, ein Paar Turnschuhe für 225.000: ein vorweihnachtliches Wochenende auf der legendären Zürcher Einkaufsmeile Bahnhofstraße",
       "url": "https://www.zeit.de/2023/53/zuercher-bahnhofstrasse-konsum-weihnachten-luxus",
-      "image_url": "https://img.zeit.de/2023/53/zuercher-bahnhofstrasse-konsum-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/53/zuercher-bahnhofstrasse-konsum-teaser/wide__822x462",
       "image_title": "Zürcher Bahnhofstraße : \"Sie shoppen so hart\""
     },
     {
@@ -230,13 +250,6 @@
       "image_title": "Iran: Mann wegen Spionageverdachts im Iran hingerichtet"
     },
     {
-      "title": "Kuwait: Emir von Kuwait ist tot",
-      "teaser": "Scheich Nawaf al-Ahmed Al Sabah, das Staatsoberhaupt von Kuwait, ist im Alter von 86 Jahren gestorben. Sein Nachfolger wird der 83-jährige Kronprinz Scheich Mischal.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-12/emir-von-kuwait-tod-86-jahre",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/emir-von-kuwait-tot-bild-3/wide__822x462",
-      "image_title": "Kuwait: Emir von Kuwait ist tot"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Weihnachtsgans: Wildgans oder gar nicht",
       "teaser": "In Deutschland leben mehr Wildgänse als früher. Zu Weihnachten landen dennoch fast ausnahmslos gemästete Hausgänse auf dem Teller. Warum nur? Ein Testessen",
       "url": "https://www.zeit.de/zeit-magazin/wochenmarkt/2023-12/weihnachtsgans-wildgaense-tierschutz-advent-wochenmarkt",
@@ -299,25 +312,11 @@
       "image_title": "Umfrage: Beschäftigte leiden unter Stress wegen Personalmangels"
     },
     {
-      "title": "Schulleitung : Wer eine Schule leitet, sollte noch mal an die Uni",
-      "teaser": "Menschen, die an Schulen Karriere machen wollen, sollten besser darauf vorbereitet werden. Dafür braucht es endlich verpflichtende Weiterbildungen.",
-      "url": "https://www.zeit.de/2023/53/schulleitung-weiterbildung-universitaet-lehrkraefte",
-      "image_url": "https://img.zeit.de/2023/53/schulleitung-weiterbildung-universitaet-lehrkraefte-teaserbild/wide__822x462",
-      "image_title": "Schulleitung : Wer eine Schule leitet, sollte noch mal an die Uni"
-    },
-    {
-      "title": "Italien: Politischer Philosoph Toni Negri gestorben",
-      "teaser": "Der italienische Philosoph und Dozent Toni Negri ist im Alter von 90 Jahren gestorben. Er gehörte zu den führenden Theoretikern der außerparlamentarischen Linken.",
-      "url": "https://www.zeit.de/kultur/2023-12/antonio-negri-tod-italien-politikwissenschaftler-schriftsteller",
-      "image_url": "https://img.zeit.de/kultur/2023-12/antonio-negri-tod-italien-politikwissenschaftler-schriftsteller-bild/wide__822x462",
-      "image_title": "Italien: Politischer Philosoph Toni Negri gestorben"
-    },
-    {
-      "title": "Pärchenpodcasts: Da lob ich mir meinen eigenen Mann",
-      "teaser": "Pärchenpodcasts sind oft peinlich und man schämt sich fremd beim Zuhören. Doch genau das ist das Schöne daran – und es ist gesund für die eigene Beziehung.",
-      "url": "https://www.zeit.de/kultur/2023-12/podcasts-paare-ehe-trennung-beziehung",
-      "image_url": "https://img.zeit.de/kultur/2023-12/wochenende51-podcasts-paare-ehe-trennung-beziehung/wide__822x462",
-      "image_title": "Pärchenpodcasts: Da lob ich mir meinen eigenen Mann"
+      "title": "Podcast-Adventskalender: Auf Bestellung",
+      "teaser": "Das 16. Türchen unseres \"Verbrechen\"-Adventskalenders. Ein Herr, der mit gestohlenen Waren aus dem Versandhauskatalog zu einer Art Weihnachtsmann wird.",
+      "url": "https://www.zeit.de/gesellschaft/2023-11/verbrechen-podcast-adventskalender-16-diebstahl",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-11/verbrechen-podcast-adventskalender-16/wide__822x462",
+      "image_title": "Podcast-Adventskalender: Auf Bestellung"
     },
     {
       "title": "Weihnachtsbaum: So erkennt man einen guten Weihnachtsbaum",
@@ -339,12 +338,12 @@
       "url": "https://www.zeit.de/gesellschaft/2023-12/gendern-sprache-rechtschreibrat-genderstern-unterstrich"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Mit diesen Tipps bekommen Sie mehr Elterngeld",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/elterngeld-2024-familie-kinder-aenderungen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition: Einer rauschte ab",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/ampelkoalition-krise-stabilitaet-haushaltsstreit"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Mit diesen Tipps bekommen Sie mehr Elterngeld",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/elterngeld-2024-familie-kinder-aenderungen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Behandlung von Long Covid : \"Ich habe meinen eigenen Reha-Plan entwickelt\"",
@@ -359,8 +358,8 @@
       "url": "https://www.zeit.de/politik/deutschland/2023-12/bundeswehr-wehrdienst-boris-pistorius-schweden-personal"
     },
     {
-      "title": "AfD: Universität Bayreuth prüft Plagiatsverdacht gegen Alice Weidel",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/afd-alice-weidel-doktorarbeit-plagiatsverdacht-pruefung"
+      "title": "Umweltbonus: Förderung für Kauf von Elektroautos läuft schon am Sonntag aus",
+      "url": "https://www.zeit.de/mobilitaet/2023-12/elektroauto-umweltbonus-foerderung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition: Einer rauschte ab",
@@ -369,10 +368,10 @@
       "image_title": "Ampelkoalition: Einer rauschte ab"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Mit diesen Tipps bekommen Sie mehr Elterngeld",
-      "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/elterngeld-2024-familie-kinder-aenderungen",
-      "image_url": "https://img.zeit.de/politik/deutschland/2021-05/elterngeld-aenderung-planung-vereinbarkeit/wide__822x462",
-      "image_title": "Elterngeld: Mit diesen Tipps bekommen Sie mehr Elterngeld"
+      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition: Einer rauschte ab",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/ampelkoalition-krise-stabilitaet-haushaltsstreit",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/ampelkoalition-krise-stabilitaet-haushaltsstreit-bild/wide__822x462",
+      "image_title": "Ampelkoalition: Einer rauschte ab"
     },
     {
       "title": "Rat für deutsche Rechtschreibung: Rechtschreibrat lehnt offizielle Genderzeichen weiterhin ab",
@@ -385,8 +384,8 @@
       "url": "https://www.zeit.de/politik/ausland/2023-12/gazastreifen-israel-armee-toetet-versehentlich-geiseln"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition: Einer rauschte ab",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/ampelkoalition-krise-stabilitaet-haushaltsstreit"
+      "title": "Z+ (abopflichtiger Inhalt); Elterngeld: Mit diesen Tipps bekommen Sie mehr Elterngeld",
+      "url": "https://www.zeit.de/zeit-magazin/familie/2023-12/elterngeld-2024-familie-kinder-aenderungen"
     },
     {
       "title": "Bundeswehr: Pistorius prüft schwedisches Wehrpflichtmodell",
@@ -401,8 +400,8 @@
       "url": "https://www.zeit.de/gesundheit/2023-12/long-covid-behandlung-therapie-erkrankte"
     },
     {
-      "title": "AfD: Universität Bayreuth prüft Plagiatsverdacht gegen Alice Weidel",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/afd-alice-weidel-doktorarbeit-plagiatsverdacht-pruefung"
+      "title": "Umweltbonus: Förderung für Kauf von Elektroautos läuft schon am Sonntag aus",
+      "url": "https://www.zeit.de/mobilitaet/2023-12/elektroauto-umweltbonus-foerderung"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Ampelkoalition: Einer rauschte ab",
@@ -512,7 +511,7 @@
     },
     {
       "title": "Bundeswehr: Pistorius prüft schwedisches Wehrpflichtmodell",
-      "teaser": "Die Bundeswehr benötigt mehr Personal. Verteidigungsminister Boris Pistorius prüft deshalb auch ein Modell, das aus Schweden stammt: eine Art freiwilligen Wehrdienst. 518 Kommentare",
+      "teaser": "Die Bundeswehr benötigt mehr Personal. Verteidigungsminister Boris Pistorius prüft deshalb auch ein Modell, das aus Schweden stammt: eine Art freiwilligen Wehrdienst. 561 Kommentare",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/bundeswehr-wehrdienst-boris-pistorius-schweden-personal",
       "image_url": "https://img.zeit.de/politik/deutschland/2023-12/bundeswehr-wehrdienst-pistorius-schweden-personal-bild/cinema__980x420",
       "image_title": "Bundeswehr: Pistorius prüft schwedisches Wehrpflichtmodell"
@@ -532,25 +531,25 @@
       "image_title": "Union: Dobrindt nennt Merz \"klaren Favoriten\" für Kanzlerkandidatur"
     },
     {
+      "title": "Kuwait: Emir von Kuwait ist tot",
+      "teaser": "Scheich Nawaf al-Ahmed Al Sabah, das Staatsoberhaupt von Kuwait, ist im Alter von 86 Jahren gestorben. Sein Nachfolger wird der 83-jährige Kronprinz Scheich Mischal.",
+      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-12/emir-von-kuwait-tod-86-jahre",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/emir-von-kuwait-tot-bild-3/cinema__980x420",
+      "image_title": "Kuwait: Emir von Kuwait ist tot"
+    },
+    {
       "title": "Illegale Weihnachtsbaumkulturen: Der Weihnachtsbaumdetektiv",
       "teaser": "Auf Borkenkäfer folgt Nordmanntanne: Im Sauerland legen Weihnachtsbaumerzeuger auf kahlen Hängen illegale Plantagen an. Marc Messerschmidt ist ihnen auf der Spur.",
       "url": "https://www.zeit.de/gesellschaft/2023-12/illegale-weihnachtsbaumkulturen-wald-sauerland-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-12/illegale-weihnachtsbaumkulturen-wald-sauerland-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-12/illegale-weihnachtsbaumkulturen-wald-sauerland-bild/wide__822x462",
       "image_title": "Illegale Weihnachtsbaumkulturen: Der Weihnachtsbaumdetektiv"
     },
     {
-      "title": "USA: Obdachlosigkeit in den USA erreicht Höchststand",
-      "teaser": "653.000 Menschen hatten in den USA Anfang 2023 keine Wohnung – zwölf Prozent mehr als im Vorjahr. Viele Obdachlose sind zum ersten Mal im Leben ohne festes Quartier.",
-      "url": "https://www.zeit.de/gesellschaft/zeitgeschehen/2023-12/usa-obdachlosigkeit-hoechststand-corona-pandemie-wohnkosten",
-      "image_url": "https://img.zeit.de/gesellschaft/zeitgeschehen/2023-12/usa-obdachlosigkeit-hoechststand-corona-pandemie-wohnkosten-bild/wide__822x462",
-      "image_title": "USA: Obdachlosigkeit in den USA erreicht Höchststand"
-    },
-    {
-      "title": "Podcast-Adventskalender: Auf Bestellung",
-      "teaser": "Das 16. Türchen unseres \"Verbrechen\"-Adventskalenders. Ein Herr, der mit gestohlenen Waren aus dem Versandhauskatalog zu einer Art Weihnachtsmann wird.",
-      "url": "https://www.zeit.de/gesellschaft/2023-11/verbrechen-podcast-adventskalender-16-diebstahl",
-      "image_url": "https://img.zeit.de/gesellschaft/2023-11/verbrechen-podcast-adventskalender-16/wide__822x462",
-      "image_title": "Podcast-Adventskalender: Auf Bestellung"
+      "title": "Podcast-Adventskalender: Zündende Idee",
+      "teaser": "Das 15. Türchen unseres \"Verbrechen\"-Adventskalenders. Dahinter verbirgt sich die Geschichte einer ziemlich absurden Form des Bankraubs.",
+      "url": "https://www.zeit.de/gesellschaft/2023-11/verbrechen-podcast-adventskalender-15-bankraub",
+      "image_url": "https://img.zeit.de/gesellschaft/2023-11/verbrechen-podcast-adventskalender-15/wide__822x462",
+      "image_title": "Podcast-Adventskalender: Zündende Idee"
     },
     {
       "title": "AnzeigeNehmen Sie an der Musik-Umfrage des ZEIT-Verlags teil",
@@ -616,18 +615,18 @@
       "image_title": "Adrenalin: \"Ich habe es immer wieder gemacht, ich fühlte mich dabei so lebendig\""
     },
     {
-      "title": "Hannah-Arendt-Preis: Masha Gessen verteidigt umstrittene Äußerungen zur Lage in Gaza",
-      "teaser": "In Deutschland herrsche eine Kultur des Mundtot-Machens, beklagt Masha Gessen. Hintergrund ist die Kritik an Gessens Vergleich des Gazastreifens mit jüdischen Ghettos. 136 Kommentare",
-      "url": "https://www.zeit.de/kultur/2023-12/hannah-arendt-preis-masha-gessen-gazastreifen-kritik",
-      "image_url": "https://img.zeit.de/kultur/2023-12/hannah-arendt-preis-masha-gessen-gazastreifen-kritik-bild/cinema__980x420",
-      "image_title": "Hannah-Arendt-Preis: Masha Gessen verteidigt umstrittene Äußerungen zur Lage in Gaza"
+      "title": "Italien: Politischer Philosoph Toni Negri gestorben",
+      "teaser": "Der italienische Philosoph und Dozent Toni Negri ist im Alter von 90 Jahren gestorben. Er gehörte zu den führenden Theoretikern der außerparlamentarischen Linken.",
+      "url": "https://www.zeit.de/kultur/2023-12/antonio-negri-tod-italien-politikwissenschaftler-schriftsteller",
+      "image_url": "https://img.zeit.de/kultur/2023-12/antonio-negri-tod-italien-politikwissenschaftler-schriftsteller-bild/cinema__980x420",
+      "image_title": "Italien: Politischer Philosoph Toni Negri gestorben"
     },
     {
-      "title": "Menstruation in Afghanistan: Belastendes Stillschweigen",
-      "teaser": "Die Menstruation ist in Afghanistan extrem schambehaftet, über \"die monatliche Krankheit\" sollten Frauen keinesfalls reden. Unsere Autorin bricht dieses Tabu.",
-      "url": "https://www.zeit.de/kultur/2023-12/menstruation-afghanistan-aufklaerung-hygiene-geheimnis",
-      "image_url": "https://img.zeit.de/kultur/2023-12/menstruation-afghanistan-aufklaerung-hygiene/wide__822x462",
-      "image_title": "Menstruation in Afghanistan: Belastendes Stillschweigen"
+      "title": "Pärchenpodcasts: Da lob ich mir meinen eigenen Mann",
+      "teaser": "Pärchenpodcasts sind oft peinlich und man schämt sich fremd beim Zuhören. Doch genau das ist das Schöne daran – und es ist gesund für die eigene Beziehung.",
+      "url": "https://www.zeit.de/kultur/2023-12/podcasts-paare-ehe-trennung-beziehung",
+      "image_url": "https://img.zeit.de/kultur/2023-12/wochenende51-podcasts-paare-ehe-trennung-beziehung/wide__822x462",
+      "image_title": "Pärchenpodcasts: Da lob ich mir meinen eigenen Mann"
     },
     {
       "title": "VerlagsangebotDas kleine Pub-Quiz: Testen Sie Ihr Wissen!",
@@ -637,11 +636,11 @@
       "image_title": "Das kleine Pub-Quiz: Testen Sie Ihr Wissen!"
     },
     {
-      "title": "\"The Crown\": Diese verdammte Krone",
-      "teaser": "Sechs Staffeln lang sah man in \"The Crown\" der englischen Königsfamilie beim Lieben und Leiden zu. An ihrem Ende würdigt die Serie die reale Elisabeth II.",
-      "url": "https://www.zeit.de/kultur/film/2023-12/the-crown-serienfinale-ende-netflix",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/the-crown-serienfinale-ende-netflix-2/wide__822x462",
-      "image_title": "\"The Crown\": Diese verdammte Krone"
+      "title": "Hannah-Arendt-Preis: Masha Gessen verteidigt umstrittene Äußerungen zur Lage in Gaza",
+      "teaser": "In Deutschland herrsche eine Kultur des Mundtot-Machens, beklagt Masha Gessen. Hintergrund ist die Kritik an Gessens Vergleich des Gazastreifens mit jüdischen Ghettos.",
+      "url": "https://www.zeit.de/kultur/2023-12/hannah-arendt-preis-masha-gessen-gazastreifen-kritik",
+      "image_url": "https://img.zeit.de/kultur/2023-12/hannah-arendt-preis-masha-gessen-gazastreifen-kritik-bild/wide__822x462",
+      "image_title": "Hannah-Arendt-Preis: Masha Gessen verteidigt umstrittene Äußerungen zur Lage in Gaza"
     },
     {
       "title": "Israel: Hunderte protestieren für Geiseldeal",
@@ -774,7 +773,7 @@
     },
     {
       "title": "Umfrage: Beschäftigte leiden unter Stress wegen Personalmangels",
-      "teaser": "In Deutschland fehlen vielerorts Fachkräfte. Eine Studie zeigt, wie negativ sich das auf die Angestellten auswirkt: Viele sind gestresst und unzufrieden. 137 Kommentare",
+      "teaser": "In Deutschland fehlen vielerorts Fachkräfte. Eine Studie zeigt, wie negativ sich das auf die Angestellten auswirkt: Viele sind gestresst und unzufrieden. 148 Kommentare",
       "url": "https://www.zeit.de/arbeit/2023-12/stress-arbeit-fachkraeftemangel-kofa-umfrage",
       "image_url": "https://img.zeit.de/campus/2023-12/stress-arbeit-fachkraeftemangel-kofa-umfrage-bild/cinema__980x420",
       "image_title": "Umfrage: Beschäftigte leiden unter Stress wegen Personalmangels"
@@ -815,11 +814,11 @@
       "image_title": "Palästina-Aktivisten an der FU Berlin: \"Wir kommen wieder\""
     },
     {
-      "title": "Verlagsangebot Durchblick im Studiendschungel",
-      "teaser": "Bei 20.000 möglichen Studiengängen in Deutschland verliert man schnell den Überblick. Unterstützung bietet die Suchmaschine für Studiengänge und Hochschulen.",
-      "url": "https://studiengaenge.zeit.de/?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.suma.textbild.whiteboard_studiendschungel.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=suma_textbild_whiteboard_studiendschungel_x",
-      "image_url": "https://img.zeit.de/studium/2014-06/rotation-sit-index-teaser-3-klein/man-wearing-black-and-white-stripe-shirt-looking-at-white-197.jpg",
-      "image_title": "Durchblick im Studiendschungel"
+      "title": "Verlagsangebot Persönlichkeit als Door Opener",
+      "teaser": "Immer mehr Unternehmen setzen bei ihren Bewerbern auf die Persönlichkeit. Auf der Suche nach einem Job stellt der Berufstest die eigenen Stärken in den Mittelpunkt.",
+      "url": "https://berufstest.zeit.de?wt_zmc=fix.int.zonpmr.campus-parkett.teaserrotation.bot.textbild.frau-smartphone_dooropener.x&utm_medium=fix&utm_source=campus-parkett_zonpmr_int&utm_campaign=teaserrotation&utm_content=bot_textbild_frau-smartphone_dooropener_x",
+      "image_url": "https://img.zeit.de/studium/2014-06/rotation-boa-index-teaser-1-klein/bruce-mars-fwvmhua-wby-unsplash.jpg",
+      "image_title": "Persönlichkeit als Door Opener"
     },
     {
       "title": "Bafög: Nur wenige Studierende nutzen staatliche Studienförderung",
@@ -948,36 +947,36 @@
       "image_title": "Neu: Logikrätsel: Hashiwokakero"
     },
     {
-      "title": "Ermittlungen: 21-Jähriger soll Mutter und sich selbst getötet haben",
-      "url": "https://www.zeit.de/news/2023-12/16/21-jaehriger-soll-mutter-und-sich-selbst-getoetet-haben"
+      "title": "1. Bundesliga: Fan-Protest in Augsburg: «Nein zu Investoren in der DFL!»",
+      "url": "https://www.zeit.de/news/2023-12/16/fan-protest-in-augsburg-nein-zu-investoren-in-der-dfl"
     },
     {
-      "title": "Verkehr: Demonstrationszug mit 130 Traktoren und Lastern in Hannover",
-      "url": "https://www.zeit.de/news/2023-12/16/demonstrationszug-mit-130-traktoren-und-lastern-in-hannover"
+      "title": "Präsidentenamt: Putin lässt erneute Kandidatur auf den Weg bringen",
+      "url": "https://www.zeit.de/news/2023-12/16/putin-laesst-erneute-kandidatur-auf-den-weg-bringen"
     },
     {
-      "title": "Buntes: Betrunkener fällt in Zaun",
-      "url": "https://www.zeit.de/news/2023-12/16/betrunkener-faellt-in-zaun"
+      "title": "Unfälle: Zusammenstoß nach Überholversuch auf der A9",
+      "url": "https://www.zeit.de/news/2023-12/16/zusammenstoss-nach-ueberholversuch-auf-der-a9"
     },
     {
-      "title": "Strafvollzug: Nach Flucht von Häftling: weitere Details bekannt",
-      "url": "https://www.zeit.de/news/2023-12/16/nach-flucht-von-haeftling-weitere-details-bekannt"
+      "title": "2. Bundesliga: HSV-Trainer Walter bejubelt glücklichen Sieg in Nürnberg",
+      "url": "https://www.zeit.de/news/2023-12/16/hsv-trainer-walter-bejubelt-gluecklichen-sieg-in-nuernberg"
     },
     {
-      "title": "Verkehr: Mann ignoriert geschlossene Bahnschranke und baut Unfall",
-      "url": "https://www.zeit.de/news/2023-12/16/mann-ignoriert-geschlossene-bahnschranke-und-baut-unfall"
+      "title": "1. Bundesliga: Wolfsburg-Coach Kovac: «Als Trainer muss man liefern»",
+      "url": "https://www.zeit.de/news/2023-12/16/wolfsburg-coach-kovac-als-trainer-muss-man-liefern"
     },
     {
-      "title": "Feiertage: Bergwerksmuseum lockt mit Weihnachtsmarkt unter Tage",
-      "url": "https://www.zeit.de/news/2023-12/16/bergwerksmuseum-lockt-mit-weihnachtsmarkt-unter-tage"
+      "title": "2. Bundesliga: Osnabrück erkämpft sich ein 0:0 bei Hertha BSC",
+      "url": "https://www.zeit.de/news/2023-12/16/osnabrueck-erkaempft-sich-ein-0-0-bei-hertha-bsc"
     },
     {
-      "title": "Wetter: Sinkende Pegelstände: Hochwasserlage endet am Sonntag",
-      "url": "https://www.zeit.de/news/2023-12/16/sinkende-pegelstaende-hochwasserlage-endet-am-sonntag"
+      "title": "Kunst: Schutzschicht bei Rembrandts «Nachtwache» entdeckt",
+      "url": "https://www.zeit.de/news/2023-12/16/unbekannte-schutzschicht-bei-rembrandts-nachtwache-entdeckt"
     },
     {
-      "title": "Unfälle: Autofahrerin fährt gegen Baum und wird schwer verletzt",
-      "url": "https://www.zeit.de/news/2023-12/16/autofahrerin-faehrt-gegen-baum-und-wird-schwer-verletzt"
+      "title": "Biathlon-Weltcup: Norweger schlagen zurück: Biathleten haben das Nachsehen",
+      "url": "https://www.zeit.de/news/2023-12/16/norweger-schlagen-zurueck-biathleten-haben-das-nachsehen"
     }
   ]
 }
