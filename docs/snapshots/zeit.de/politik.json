@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-20T12:17:56",
+  "timestamp": "2023-12-20T13:11:11",
   "url": "https://www.zeit.de/politik/index",
   "response": {
     "status": 200
@@ -38,24 +38,24 @@
   ],
   "articles": [
     {
-      "title": "Z+ (abopflichtiger Inhalt); Donald Trump: Hofft nicht auf die Justiz",
+      "title": "AfD-Chef: Ermittlungen zu vermeintlicher Attacke auf Tino Chrupalla eingestellt",
+      "teaser": "Der AfD-Vorsitzende Tino Chrupalla war nach einer Wahlkampfveranstaltung ins Krankenhaus gebracht worden. Die Ermittler sehen jedoch \"keine Hinweise\" auf einen Anschlag.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/tino-chrupalla-staatsanwaltschaft-ingolstadt-ermittlungen-eingestellt",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/afd-tino-chrupalla-angriff-bild/cinema__980x420"
+    },
+    {
+      "title": "Polen: Polnische Regierung entlässt Führung öffentlich-rechtlicher Medien",
+      "teaser": "Polens öffentlich-rechtliche Medien sollen nach dem Machtwechsel wieder unabhängig berichten. Das Parlament hat dazu einen Beschluss gefasst. Nun handelt die Regierung.",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/polen-regierung-oeffentlich-rechtliche-medien-entlassung-pis",
+      "image_url": "https://img.zeit.de/politik/2023-12/polen-regierung-oeffentlich-rechtliche-medien-entlassung-pis-bild/wide__822x462",
+      "image_title": "Polen: Polnische Regierung entlässt Führung öffentlich-rechtlicher Medien"
+    },
+    {
+      "title": "Donald Trump: Hofft nicht auf die Justiz",
       "teaser": "Ein Gericht schließt Donald Trump in Colorado von den Vorwahlen aus. Es ist verführerisch, sich auf die Justiz zu verlassen, um seine Wahl zu verhindern – und ein Fehler.",
       "url": "https://www.zeit.de/politik/ausland/2023-12/donald-trump-usa-wahl-justiz-colorado",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/donald-trump-usa-wahl-justiz-colorado-bild/cinema__980x420"
-    },
-    {
-      "title": "Ukraine-Karte aktuell: Russische Frontlinie im Süden offenbar weiter östlich als angenommen",
-      "teaser": "In der Region Saporischschja konzentrieren sich ukrainische Truppen laut ISW auf den Ausbau ihrer Verteidigung. Das könnte den Verlauf der Frontlinie verändert haben.",
-      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/wide__822x462",
-      "image_title": "Ukraine-Karte aktuell: Russische Frontlinie im Süden offenbar weiter östlich als angenommen"
-    },
-    {
-      "title": "Einwanderungsgesetz: Marine Le Pen gefällt das",
-      "teaser": "Mithilfe der Rechtsextremen verabschiedet Emmanuel Macron eines der repressivsten Einwanderungsgesetze der EU. Damit verprellt der Präsident selbst treueste Anhänger.",
-      "url": "https://www.zeit.de/politik/ausland/2023-12/einwanderungsgesetz-abstimmung-emmanuel-macron-migration",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/einwanderungsgesetz-abstimmung-emmanuel-macron-migration-bild/wide__822x462",
-      "image_title": "Einwanderungsgesetz: Marine Le Pen gefällt das"
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/donald-trump-usa-wahl-justiz-colorado-bild/wide__822x462",
+      "image_title": "Donald Trump: Hofft nicht auf die Justiz"
     },
     {
       "title": "US-Wahl: Gericht in Colorado schließt Trump von Präsidentschaftsvorwahl aus",
@@ -150,17 +150,31 @@
       "image_title": "Sicht auf den Westen: Der Fallout der Selbstgeißelung"
     },
     {
+      "title": "Ukraine-Karte aktuell: Russische Frontlinie im Süden offenbar weiter östlich als angenommen",
+      "teaser": "In der Region Saporischschja konzentrieren sich ukrainische Truppen laut ISW auf den Ausbau ihrer Verteidigung. Das könnte den Verlauf der Frontlinie verändert haben.",
+      "url": "https://www.zeit.de/politik/ausland/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-09/karte-ukraine-krieg-russland-frontverlauf-truppenbewegungen-teaserbild/cinema__980x420",
+      "image_title": "Ukraine-Karte aktuell: Russische Frontlinie im Süden offenbar weiter östlich als angenommen"
+    },
+    {
+      "title": "Einwanderungsgesetz: Marine Le Pen gefällt das",
+      "teaser": "Mithilfe der Rechtsextremen verabschiedet Emmanuel Macron eines der repressivsten Einwanderungsgesetze der EU. Damit verprellt der Präsident selbst treueste Anhänger.",
+      "url": "https://www.zeit.de/politik/ausland/2023-12/einwanderungsgesetz-abstimmung-emmanuel-macron-migration",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/einwanderungsgesetz-abstimmung-emmanuel-macron-migration-bild/wide__822x462",
+      "image_title": "Einwanderungsgesetz: Marine Le Pen gefällt das"
+    },
+    {
       "title": "Bundeshaushalt 2024: Koalition legt Kürzungsliste für 2024 vor",
-      "teaser": "Das Kabinett befasst sich mit den Sparplänen. Vieles ist umstritten. Zu den Betroffenen zählen etwa die Bauern, die Rentenversicherung soll weniger Zuschüsse bekommen. 624 Kommentare",
+      "teaser": "Das Kabinett befasst sich mit den Sparplänen. Vieles ist umstritten. Zu den Betroffenen zählen etwa die Bauern, die Rentenversicherung soll weniger Zuschüsse bekommen.",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/haushalt-bundesregierung-kabinett-sparmassnahmen-ampel-lindner-schuldenbremse",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/haushalt-2024-sparen-kuerzungsliste-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/haushalt-2024-sparen-kuerzungsliste-bild/wide__822x462",
       "image_title": "Bundeshaushalt 2024: Koalition legt Kürzungsliste für 2024 vor"
     },
     {
       "title": "Migration: EU einigt sich auf Asylreform",
-      "teaser": "Das Asylsystem in der EU wird reformiert. Geplant ist etwa ein härterer Umgang mit Menschen aus Ländern, die als relativ sicher gelten. Die Verteilung wird neu geregelt.",
+      "teaser": "Das Asylsystem in der EU wird reformiert. Geplant ist etwa ein härterer Umgang mit Menschen aus Ländern, die als relativ sicher gelten. Die Verteilung wird neu geregelt. 448 Kommentare",
       "url": "https://www.zeit.de/politik/2023-12/eu-verkuendet-durchbruch-in-verhandlungen-zu-asylreform",
-      "image_url": "https://img.zeit.de/politik/2023-12/eu-verkuendet-durchbruch-in-verhandlungen-zu-asylreform-bild-2/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/2023-12/eu-verkuendet-durchbruch-in-verhandlungen-zu-asylreform-bild-2/cinema__980x420",
       "image_title": "Migration: EU einigt sich auf Asylreform"
     },
     {
@@ -174,14 +188,14 @@
       "title": "Liveblog: Israel-Gaza-Krieg aktuell: Israel signalisiert offenbar Bereitschaft für Feuerpause",
       "teaser": "Für die Freilassung von Geiseln ist Israel laut Medienbericht offen für eine einwöchige Feuerpause. Hamas-Chef Hanija zu Gesprächen in Ägypten erwartet. Das Liveblog",
       "url": "https://www.zeit.de/politik/ausland/2023-12/israel-krieg-gaza-hamas-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/israel-krieg-gaza-hamas-liveblog-bild-12/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/israel-krieg-gaza-hamas-liveblog-bild-12/wide__822x462",
       "image_title": "Israel-Gaza-Krieg aktuell: Israel signalisiert offenbar Bereitschaft für Feuerpause"
     },
     {
       "title": "Nachrichtenpodcast: Ein \"goldener Moment\" für die Huthi-Rebellen",
       "teaser": "Wegen Angriffen der jemenitischen Miliz stellen Reedereien den Frachtverkehr über das Rote Meer ein. Was bezweckt die Gruppe damit? Und: ungestrafte Inklusionsverweigerer",
       "url": "https://www.zeit.de/politik/2023-12/huthi-rebellen-rotes-meer-nachrichtenpodcast",
-      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/wide__822x462__8ed8a6",
+      "image_url": "https://img.zeit.de/politik/2017-09/illu-podcast-news/cinema__980x420__8ed8a6",
       "image_title": "Nachrichtenpodcast: Ein \"goldener Moment\" für die Huthi-Rebellen"
     },
     {
@@ -193,16 +207,16 @@
     },
     {
       "title": "Landtagswahlen: BDI-Präsident warnt vor Wahl der AfD",
-      "teaser": "Die AfD sei \"schädlich für die Zukunft unseres Landes\", sagt Industriepräsident Siegfried Russwurm. Die Partei zu wählen, sei kein harmloser Protest. 280 Kommentare",
+      "teaser": "Die AfD sei \"schädlich für die Zukunft unseres Landes\", sagt Industriepräsident Siegfried Russwurm. Die Partei zu wählen, sei kein harmloser Protest.",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/landtagswahlen-afd-bdi-siegfried-russwurm",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/landtagswahlen-afd-bdi-siegfried-russwurm-bild/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/landtagswahlen-afd-bdi-siegfried-russwurm-bild/wide__822x462",
       "image_title": "Landtagswahlen: BDI-Präsident warnt vor Wahl der AfD"
     },
     {
       "title": "Migrationspolitik: Französisches Parlament stimmt für verschärftes Einwanderungsgesetz",
-      "teaser": "Nach mehreren gescheiterten Anläufen stimmt die Nationalversammlung einem Kompromiss zur Immigration zu. Aus Protest reichte ein Minister offenbar seinen Rücktritt ein.",
+      "teaser": "Nach mehreren gescheiterten Anläufen stimmt die Nationalversammlung einem Kompromiss zur Immigration zu. Aus Protest reichte ein Minister offenbar seinen Rücktritt ein. 165 Kommentare",
       "url": "https://www.zeit.de/politik/ausland/2023-12/frankreich-nationalversammlung-migrationspolitik-einwanderungsgesetz-zustimmung",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/frankreich-nationalversammlung-unterhaus/wide__822x462",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/frankreich-nationalversammlung-unterhaus/cinema__980x420",
       "image_title": "Migrationspolitik: Französisches Parlament stimmt für verschärftes Einwanderungsgesetz"
     },
     {
@@ -214,9 +228,9 @@
     },
     {
       "title": "US-Wahl: Gericht in Colorado schließt Trump von Präsidentschaftsvorwahl aus",
-      "teaser": "Donald Trump ist laut dem Höchstgericht in Colorado wegen seiner Rolle bei der Kapitol-Erstürmung für die Wahl disqualifiziert. Dahinter steht der 14. Verfassungszusatz. 713 Kommentare",
+      "teaser": "Donald Trump ist laut dem Höchstgericht in Colorado wegen seiner Rolle bei der Kapitol-Erstürmung für die Wahl disqualifiziert. Dahinter steht der 14. Verfassungszusatz.",
       "url": "https://www.zeit.de/politik/ausland/2023-12/gericht-in-colorado-schliesst-trump-von-praesidentschaftsvorwahl-aus",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/donald-trump-republikaner-colorado/cinema__980x420",
+      "image_url": "https://img.zeit.de/politik/ausland/2023-12/donald-trump-republikaner-colorado/wide__822x462",
       "image_title": "US-Wahl: Gericht in Colorado schließt Trump von Präsidentschaftsvorwahl aus"
     },
     {
@@ -248,13 +262,6 @@
       "image_title": "Meinungsfreiheit: Nur 40 Prozent der Deutschen glauben, Meinung frei äußern zu können"
     },
     {
-      "title": "Liveblog: Ukraine-Krieg: Keine Entscheidung zu Ukraine-Hilfen im US-Kongress in diesem Jahr",
-      "teaser": "Demokraten und Republikaner sehen keine Chance auf die Bewilligung neuer Hilfen vor Jahresende. Präsident Selenskyj will eine Million Drohnen produzieren. Das Liveblog",
-      "url": "https://www.zeit.de/politik/ausland/ukraine-krieg-news-liveblog",
-      "image_url": "https://img.zeit.de/politik/ausland/2023-12/ukraine-russland-krieg-militaerhilfen-usa-bild/wide__822x462",
-      "image_title": "Ukraine-Krieg: Keine Entscheidung zu Ukraine-Hilfen im US-Kongress in diesem Jahr"
-    },
-    {
       "title": "Markus Söders Kreuzerlass: Müssen wir diesen Kulturkampf führen?",
       "teaser": "Eine Klage gegen Kruzifixe in bayerischen Behörden wurde abgewiesen. Ministerpräsident Söder sieht sich damit bestätigt – doch sein Populismus nutzt nur dem rechten Rand.",
       "url": "https://www.zeit.de/politik/deutschland/2023-12/markus-soeder-kreuzerlass-bundesberwaltungsgericht-urteil-1-1",
@@ -269,13 +276,6 @@
       "image_title": "LNG-Terminal auf Rügen: Ist ein Gas-Terminal auf Rügen wirklich noch nötig?"
     },
     {
-      "title": "Bundestagswahl 2021 in Berlin: So sollte eine Wahlprüfung nicht laufen",
-      "teaser": "Politisch wird die Teil-Wahlwiederholung wenig ändern. Dass es aber so lange bis zum Urteil des Verfassungsgerichts dauerte, zeigt: Das Verfahren ist reformbedürftig.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/bundestagswahl-2021-berlin-wiederholung-ampelkoalition",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/bundestagswahl-2021-berlin-wiederholung-ampelkoalition-bild/wide__822x462",
-      "image_title": "Bundestagswahl 2021 in Berlin: So sollte eine Wahlprüfung nicht laufen"
-    },
-    {
       "title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte",
       "teaser": "Wir müssen reden – über Rechtsextremismus! Der Störungsmelder schaut hin: Was passiert in der Szene? Wo ist sie besonders aktiv? Welche Strategien wenden Neonazis an?",
       "url": "https://www.zeit.de/serie/stoerungsmelder/",
@@ -283,11 +283,11 @@
       "image_title": "Störungsmelder: Recherchen und Analysen über die extreme Rechte"
     },
     {
-      "title": "Bundesverwaltungsgericht: Kreuze in öffentlichen Einrichtungen in Bayern dürfen hängen bleiben",
-      "teaser": "Ein Kreuz in allen öffentlichen Gebäuden Bayerns: Das Bundesverwaltungsgericht hat Markus Söders Kreuzerlass für rechtens erklärt. Kritiker hatten dagegen geklagt.",
-      "url": "https://www.zeit.de/politik/deutschland/2023-12/kreuzerlass-kreuze-bayern-bundesverwaltungsgericht-leipzig",
-      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/soeder-kreuzerlass-bayern-politik-bild/wide__822x462",
-      "image_title": "Bundesverwaltungsgericht: Kreuze in öffentlichen Einrichtungen in Bayern dürfen hängen bleiben"
+      "title": "Bundestagswahl 2021 in Berlin: So sollte eine Wahlprüfung nicht laufen",
+      "teaser": "Politisch wird die Teil-Wahlwiederholung wenig ändern. Dass es aber so lange bis zum Urteil des Verfassungsgerichts dauerte, zeigt: Das Verfahren ist reformbedürftig.",
+      "url": "https://www.zeit.de/politik/deutschland/2023-12/bundestagswahl-2021-berlin-wiederholung-ampelkoalition",
+      "image_url": "https://img.zeit.de/politik/deutschland/2023-12/bundestagswahl-2021-berlin-wiederholung-ampelkoalition-bild/wide__822x462",
+      "image_title": "Bundestagswahl 2021 in Berlin: So sollte eine Wahlprüfung nicht laufen"
     },
     {
       "title": "Donald Trump: Richterin pausiert Verfahren wegen Wahlmanipulation",
