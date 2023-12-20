@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-20T10:10:16",
+  "timestamp": "2023-12-20T11:08:32",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Firefox, Thunderbird",
+      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Sicherheitsluecken-geschlossen-und-Funktionen-ergaenzt-9579269.html"
+    },
+    {
       "title": "Qnap VioStor NVR",
       "url": "https://www.heise.de/news/Jetzt-patchen-Botnetz-InfectedSlurs-hat-es-auf-Qnap-NAS-abgesehen-9577187.html"
     },
@@ -44,8 +48,14 @@
       "url": "https://www.heise.de/news/Squid-Proxy-Denial-of-Service-durch-Endlosschleife-9575176.html"
     },
     {
-      "title": "Zoom-Clients und SDK",
-      "url": "https://www.heise.de/news/Zoom-behebt-Sicherheitsluecken-unter-Windows-Android-und-iOS-9574367.html"
+      "title": "Firefox und Thunderbird: Sicherheitslücken geschlossen und Funktionen ergänzt",
+      "teaser": "Die neuen Versionen von Firefox und Thunderbird dichten Sicherheitslecks ab. Zudem bringen sie neue Funktionen mit.",
+      "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Sicherheitsluecken-geschlossen-und-Funktionen-ergaenzt-9579269.html"
+    },
+    {
+      "title": "secIT 2024: So kontern Sie aktuelle Cyberangriffe",
+      "teaser": "Auf der IT-Security-Kongressmesse secIT gibt es auch 2024 wieder jede Menge hilfreiche Fakten im Kampf gegen IT-Attacken. Jetzt noch Gratis-Tickets sichern.",
+      "url": "https://www.heise.de/news/secIT-2024-So-kontern-Sie-aktuelle-Cyberangriffe-9578645.html"
     },
     {
       "title": "iX-Workshop KRITIS: Zusätzliche Prüfverfahrenskompetenz für § 8a BSIG",
@@ -143,16 +153,6 @@
       "title": "Squid-Proxy: Denial of Service durch Endlosschleife",
       "teaser": "Schickt ein Angreifer einen präparierten HTTP-Header an den Proxy-Server, kann er ihn durch eine unkontrollierte Rekursion zum Stillstand bringen.",
       "url": "https://www.heise.de/news/Squid-Proxy-Denial-of-Service-durch-Endlosschleife-9575176.html"
-    },
-    {
-      "title": "heise Security Webinar: Microsofts Entra ID – Angriffe verstehen und verhindern",
-      "teaser": "Im Zentrum der sicheren Nutzung der Microsoft-Cloud steht Entra ID aka Azure AD. Dieses Webinar zeigt dessen Probleme und wie man sie in den Griff bekommt.",
-      "url": "https://www.heise.de/news/heise-Security-Webinar-Microsofts-Entra-ID-Angriffe-verstehen-und-verhindern-9573658.html"
-    },
-    {
-      "title": "Ransomware: AlphV meldet sich zurück, Aufruhr in der Szene",
-      "teaser": "In der Ransomware-Szene rumort es: Gruppen versuchen, einander Mitglieder abspenstig zu machen, ein Geldwäscher geht ins Netz und Betrüger betrügen einander.",
-      "url": "https://www.heise.de/news/AlphV-meldet-sich-zurueck-Verhaftungen-und-Betrug-bei-anderen-Gruppen-9574446.html"
     },
     {
       "title": "Unerwünschte Einblicke: Fataler Fehler bei Netatmo-Sicherheitskameras",
