@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-21T09:11:27",
+  "timestamp": "2023-12-21T10:12:18",
   "url": "https://www.heise.de/security/",
   "response": {
     "status": 200
@@ -32,6 +32,10 @@
   ],
   "articles": [
     {
+      "title": "Ivanti Avalanche",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Mobile-Device-Management-Loesung-Ivanti-Avalanche-geschlossen-9580221.html"
+    },
+    {
       "title": "Google Chrome",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-bereits-angegriffene-Zero-Day-Luecke-9580061.html"
     },
@@ -44,23 +48,14 @@
       "url": "https://www.heise.de/news/Jetzt-patchen-Botnetz-InfectedSlurs-hat-es-auf-Qnap-NAS-abgesehen-9577187.html"
     },
     {
-      "title": "Fortinet",
-      "url": "https://www.heise.de/news/Sicherheitsupdates-Fortinet-schuetzt-Firewalls-Co-vor-moeglichen-Attacken-9575483.html"
+      "title": "Kritische Lücken in Mobile-Device-Management-Lösung Ivanti Avalanche geschlossen",
+      "teaser": "Angreifer können Ivanti Avalanche mit Schadcode attackieren. Eine reparierte Version steht zum Download bereit.",
+      "url": "https://www.heise.de/news/Kritische-Luecken-in-Mobile-Device-Management-Loesung-Ivanti-Avalanche-geschlossen-9580221.html"
     },
     {
-      "title": "Webinar zum Aktionspreis: Active Directory – Angriffe verstehen und verhindern",
-      "teaser": "Das heise-Security-Webinar zu Schwächen und Sicherheitskonzepten des Active Directory war ein voller Erfolg. Jetzt gibt es die Aufzeichnung zum Aktionspreis.",
-      "url": "https://www.heise.de/news/Webinar-zum-Aktionspreis-Active-Directory-Angriffe-verstehen-und-verhindern-9579712.html"
-    },
-    {
-      "title": "Google Chrome: Update schließt bereits angegriffene Zero-Day-Lücke",
+      "title": "Google Chrome: Zero-Day-Lücke wird angegriffen, Update verfügbar",
       "teaser": "Googles Entwickler haben ein Update für Chrome veröffentlicht, das eine bereits angegriffene Sicherheitslücke abdichtet.",
       "url": "https://www.heise.de/news/Google-Chrome-Update-schliesst-bereits-angegriffene-Zero-Day-Luecke-9580061.html"
-    },
-    {
-      "title": "Darknet: Polizei hebt \"Kingdom Market\" aus",
-      "teaser": "BKA & Co. haben einen weiteren Darknet-Marktplatz abgeschaltet. Über 42.000 kriminelle Angebote von Drogen bis zu Schadsoftware sind damit nicht mehr verfügbar.",
-      "url": "https://www.heise.de/news/Darknet-Polizei-hebt-Kingdom-Market-aus-9579808.html"
     },
     {
       "title": "Insomniac Games: Kriminelle erbeuten 1,6 Terabtye an Interna",
@@ -72,6 +67,17 @@
       "title": "Firefox und Thunderbird: Sicherheitslücken geschlossen und Funktionen ergänzt",
       "teaser": "Die neuen Versionen von Firefox und Thunderbird dichten Sicherheitslecks ab. Zudem bringen sie neue Funktionen mit.",
       "url": "https://www.heise.de/news/Firefox-und-Thunderbird-Sicherheitsluecken-geschlossen-und-Funktionen-ergaenzt-9579269.html"
+    },
+    {
+      "title": "secIT 2024: So kontern Sie aktuelle Cyberangriffe",
+      "teaser": "Auf der IT-Security-Kongressmesse secIT gibt es auch 2024 wieder jede Menge hilfreiche Fakten im Kampf gegen IT-Attacken. Jetzt noch Gratis-Tickets sichern.",
+      "url": "https://www.heise.de/news/secIT-2024-So-kontern-Sie-aktuelle-Cyberangriffe-9578645.html"
+    },
+    {
+      "title": "CitrixBleed erst nach zwei Wochen gepatcht: 36 Millionen Kundendaten abgegriffen",
+      "teaser": "Ein US-Provider hat sich fast zwei Wochen Zeit gelassen, um die kritische Lücke in Citrix-Software zu patchen. Da waren aber bereits massenhaft Daten weg.",
+      "url": "https://www.heise.de/news/CitrixBleed-erst-nach-zwei-Wochen-gepatcht-36-Millionen-Kundendaten-abgegriffen-9579227.html",
+      "image_title": "Verschwommene Hände an Tastatur"
     },
     {
       "title": "Ransomware: Strafermittler haben Zugriff auf Blackcat/ALPHV-Server",
@@ -148,11 +154,6 @@
       "title": "Ransomware-Gruppen buhlen zunehmend um Medien-Aufmerksamkeit",
       "teaser": "Um sich von der Konkurrenz abzusetzen und die eigenen Leistungen gewürdigt zu wissen, suchen Ransomware-Gruppen zunehmend den direkten Kontakt zu Journalisten.",
       "url": "https://www.heise.de/news/Ransomware-Gruppen-buhlen-zunehmend-um-Medien-Aufmerksamkeit-9576774.html"
-    },
-    {
-      "title": "MongoDB meldet unbefugten Zugriff auf Unternehmenssysteme",
-      "teaser": "Der Datenbanksoftwareanbieter MongoDB informiert seine Kunden über einen Sicherheitsvorfall, bei dem Unbefugte Zugriff auf Kundendaten gehabt haben sollen.",
-      "url": "https://www.heise.de/news/MongoDB-meldet-unbefugten-Zugriff-auf-Unternehmenssysteme-9576740.html"
     },
     {
       "title": "Unerwünschte Einblicke: Fataler Fehler bei Netatmo-Sicherheitskameras",
