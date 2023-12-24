@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-24T06:14:33",
+  "timestamp": "2023-12-24T07:10:09",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,23 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Rollenbild der Frau: Das Leiden der Marias",
+      "teaser": "Bald ist Weihnachten, und die moderne Frau fühlt sich alleingelassen: vom Kindsvater, von den Nachbarn und so ziemlich allen. Eine Suada",
+      "url": "https://www.zeit.de/2023/54/rollenbild-frau-patriarchat-care-arbeit",
+      "image_url": "https://img.zeit.de/2023/54/rollenbild-frau-patriarchat-care-arbeit-teaserbild/cinema__980x420"
+    },
+    {
       "title": "Street-Art: Verdächtiger nach Diebstahl von Banksy-Werk festgenommen",
       "teaser": "Zwei Unbekannte hatten am Freitag im Süden von London ein Stoppschild mit einem Kunstwerk des Street-Art-Künstlers mitgenommen. Es soll bis zu 500.000 Pfund wert sein.",
       "url": "https://www.zeit.de/kultur/kunst/2023-12/banksy-stoppschild-festnahme",
-      "image_url": "https://img.zeit.de/kultur/kunst/2023-12/banksy-stoppschild/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/kunst/2023-12/banksy-stoppschild/wide__822x462",
+      "image_title": "Street-Art: Verdächtiger nach Diebstahl von Banksy-Werk festgenommen"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Therapie beenden: Ciao, bye-bye, \"finito\"",
@@ -51,24 +64,11 @@
       "image_title": "Therapie beenden: Ciao, bye-bye, \"finito\""
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"Weihnachten in Prag\" von Jaroslav Rudiš: Jedes Bier ist ein leuchtendes Gedicht",
       "teaser": "Wenn der böhmische Dichter Jaroslav Rudiš zu erzählen beginnt, glaubt man ihm jedes Wort. Im neuen Buch geht ein heiteres, verlorenes Trüppchen am Heiligabend durch Prag.",
       "url": "https://www.zeit.de/2023/54/weihnachten-in-prag-jaroslav-rudis-buch",
       "image_url": "https://img.zeit.de/2023/54/weihnachten-in-prag-jaroslav-rudis-buch-teaserbild/wide__822x462",
       "image_title": "\"Weihnachten in Prag\" von Jaroslav Rudiš: Jedes Bier ist ein leuchtendes Gedicht"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Holocaust-Überlebende: Das Messer im Herzen zweimal umdrehen",
-      "teaser": "Eigentlich sollte Mathilde 1942, als Zehnjährige, umgebracht werden. Meine Mutter war Holocaust-Überlebende. Ihre Geschichte sollte uns Hoffnung geben.",
-      "url": "https://www.zeit.de/2023/54/holocaust-ueberlebende-nationalsozialismus-judentum-deportation",
-      "image_url": "https://img.zeit.de/2023/54/holocaust-ueberlebende-nationalsozialismus-judentum-deportation-teaserbild/wide__822x462",
-      "image_title": "Holocaust-Überlebende: Das Messer im Herzen zweimal umdrehen"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Filme 2023: Die besten Filme des Jahres – und die schlechtesten",
@@ -163,6 +163,13 @@
       "url": "https://www.zeit.de/2023/54/taylor-swift-popmusik-erfolg-frauen"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Holocaust-Überlebende: Das Messer im Herzen zweimal umdrehen",
+      "teaser": "Eigentlich sollte Mathilde 1942, als Zehnjährige, umgebracht werden. Meine Mutter war Holocaust-Überlebende. Ihre Geschichte sollte uns Hoffnung geben.",
+      "url": "https://www.zeit.de/2023/54/holocaust-ueberlebende-nationalsozialismus-judentum-deportation",
+      "image_url": "https://img.zeit.de/2023/54/holocaust-ueberlebende-nationalsozialismus-judentum-deportation-teaserbild/wide__822x462",
+      "image_title": "Holocaust-Überlebende: Das Messer im Herzen zweimal umdrehen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); \"Tatsächlich … Liebe\": Wir wollen doch nur ein bisschen weinen!",
       "teaser": "Alle Jahre wieder wollen uns irgendwelche Fanatiker unseren Lieblingsweihnachtsfilm vermiesen. Dabei geht es darin einfach nur um Liebe. Ja, tatsächlich!",
       "url": "https://www.zeit.de/kultur/2023-12/love-actually-sexismus-kritik-weihnachtsfilm",
@@ -198,13 +205,6 @@
       "image_title": "Sophie Lindinger: \"Ich habe lieber meine Ruhe\""
     },
     {
-      "title": "Großbritannien: \"Last Christmas\" erstmals auf Platz eins der Weihnachtscharts",
-      "teaser": "Jedes Jahr läuft \"Last Christmas\" von Wham!. George Michael wäre außer sich vor Freude, dass das Lied nun an der Chart-Spitze steht, sagt Band-Kollege Andrew Ridgeley.",
-      "url": "https://www.zeit.de/kultur/musik/2023-12/last-christmas-wham-spitze-weihnachtscharts-george-michael",
-      "image_url": "https://img.zeit.de/kultur/2023-12/wham-last-christmas-platz-1-weihnachtscharts-bild/wide__822x462",
-      "image_title": "Großbritannien: \"Last Christmas\" erstmals auf Platz eins der Weihnachtscharts"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); \"Saltburn\": Eat the rich, aber sexy gemeint",
       "teaser": "Ein durchgedrehter Oxfordstudent zerlegt in \"Saltburn\" die Familie seines reichen Freundes. Das halbe Internet diskutiert schon über den Film, was hat er zu sagen?",
       "url": "https://www.zeit.de/kultur/film/2023-12/saltburn-film-emerald-fennell-barry-keoghan-reichtum",
@@ -219,6 +219,13 @@
       "image_title": "\"Perfect Days\" von Wim Wenders: Die Kunst des Menschseins"
     },
     {
+      "title": "Großbritannien: \"Last Christmas\" erstmals auf Platz eins der Weihnachtscharts",
+      "teaser": "Jedes Jahr läuft \"Last Christmas\" von Wham!. George Michael wäre außer sich vor Freude, dass das Lied nun an der Chart-Spitze steht, sagt Band-Kollege Andrew Ridgeley.",
+      "url": "https://www.zeit.de/kultur/musik/2023-12/last-christmas-wham-spitze-weihnachtscharts-george-michael",
+      "image_url": "https://img.zeit.de/kultur/2023-12/wham-last-christmas-platz-1-weihnachtscharts-bild/wide__822x462",
+      "image_title": "Großbritannien: \"Last Christmas\" erstmals auf Platz eins der Weihnachtscharts"
+    },
+    {
       "title": "Weihnachten und Integration: \"Nächstes Jahr werde ich ihnen sagen, dass es kein Christkind gibt\"",
       "teaser": "Im Heimatland unserer Autorin wird Weihnachten anders gefeiert. Für ihre Kinder führt sie nun, widerwillig, alljährlich das Schauspiel der deutschen Traditionen auf.",
       "url": "https://www.zeit.de/kultur/2023-12/weihnachten-integration-migration-christentum-10nach8",
@@ -229,14 +236,14 @@
       "title": "Z+ (abopflichtiger Inhalt); Jan Böhmermann: Mitglieder des ZDF-Fernsehrats wollen neue Abstimmung zu Böhmermann",
       "teaser": "In einer offenbar chaotischen Sitzung hat der ZDF-Fernsehrat beschlossen, eine Folge \"ZDF Magazin Royale\" zurückzuziehen. Jetzt wird Kritik aus den eigenen Reihen laut.",
       "url": "https://www.zeit.de/kultur/2023-12/boehmermann-fernsehrat-satanismus-magazin-royale",
-      "image_url": "https://img.zeit.de/kultur/2023-12/boehmermann-zdf-fernsehrat/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-12/boehmermann-zdf-fernsehrat/cinema__980x420",
       "image_title": "Jan Böhmermann: Mitglieder des ZDF-Fernsehrats wollen neue Abstimmung zu Böhmermann"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"The Iron Claw\": Dropkick ins Verderben",
       "teaser": "Zac Efron und Jeremy Allen White bekriegen sich in \"The Iron Claw\" als Wrestling-Brüder. Eine wahre, emotional aufgeladene Geschichte aus der Welt des Showsports.",
       "url": "https://www.zeit.de/kultur/film/2023-12/the-iron-claw-film-wrestling-zac-efron-rezension",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/iron-claw-1/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-12/iron-claw-1/wide__822x462",
       "image_title": "\"The Iron Claw\": Dropkick ins Verderben"
     },
     {
@@ -250,15 +257,8 @@
       "title": "Oscars: \"Das Lehrerzimmer\" und Wim Wenders in Oscarvorrunde",
       "teaser": "Mit \"Das Lehrerzimmer\" hat es ein deutscher Film in die Vorauswahl der internationalen Oscars geschafft. Wim Wenders tritt mit \"Perfect Days\" für Japan an.",
       "url": "https://www.zeit.de/kultur/film/2023-12/oscars-vorauswahl-das-lehrerzimmer-perfect-days-wim-wenders",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/oscars-vorauswahl-das-lehrerzimmer-perfect-days-wim-wenders-bild/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/film/2023-12/oscars-vorauswahl-das-lehrerzimmer-perfect-days-wim-wenders-bild/cinema__980x420",
       "image_title": "Oscars: \"Das Lehrerzimmer\" und Wim Wenders in Oscarvorrunde"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); \"Nightbitch\" von Rachel Yoder: Mami als Monster",
-      "teaser": "Rachel Yoders Roman \"Nightbitch\" wurde in den USA als unerschrockener Beitrag zu kritischer Mutterschaft gefeiert. Wäre da nur nicht dieses Weibliche-Naturgewalt-Gedöns.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-12/nightbitch-rachel-yoder-debuetroman-mutterschaft",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-12/rachel-yoder-nightbitch/cinema__980x420",
-      "image_title": "\"Nightbitch\" von Rachel Yoder: Mami als Monster"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hape Kerkeling : \"Leider schwappt diese braune Brühe ungefiltert in unser System\"",
@@ -275,6 +275,13 @@
       "image_title": "Buchempfehlungen: Verschenken Sie diese Bücher!"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); \"Nightbitch\" von Rachel Yoder: Mami als Monster",
+      "teaser": "Rachel Yoders Roman \"Nightbitch\" wurde in den USA als unerschrockener Beitrag zu kritischer Mutterschaft gefeiert. Wäre da nur nicht dieses Weibliche-Naturgewalt-Gedöns.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-12/nightbitch-rachel-yoder-debuetroman-mutterschaft",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-12/rachel-yoder-nightbitch/wide__822x462",
+      "image_title": "\"Nightbitch\" von Rachel Yoder: Mami als Monster"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Peso Pluma: Der Volkssänger mit der Luftpolsterjacke",
       "teaser": "Mit einem Update mexikanischer Volksmusik ist Peso Pluma zum internationalen Popstar geworden. In der Unterwelt seines Heimatlandes hat er sich aber auch Feinde gemacht.",
       "url": "https://www.zeit.de/kultur/musik/2023-12/peso-pluma-mexiko-musik-erfolg",
@@ -285,22 +292,15 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Karl May\" an der Volksbühne Berlin: Ein Stück über Karl May, muss das denn wirklich sein?",
       "teaser": "An der Volksbühne inszenieren Enis Maci und Mazlum Nergiz ihre Vorstellung von \"Karl May\". Damit zielen sie angenehm vorbei an den Debatten des Vorjahres.",
       "url": "https://www.zeit.de/2023/54/karl-may-volksbuehne-berlin-theater-kolonialismus",
-      "image_url": "https://img.zeit.de/2023/54/karl-may-volksbuehne-berlin-theater-kolonialismus-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/54/karl-may-volksbuehne-berlin-theater-kolonialismus-teaserbild/cinema__980x420",
       "image_title": "\"Karl May\" an der Volksbühne Berlin: Ein Stück über Karl May, muss das denn wirklich sein?"
     },
     {
       "title": "Taylor Swift: Ist sie zu angepasst, zu kommerziell? Vielleicht. Aber egal.",
       "teaser": "Vergangene Woche schrieb DIE ZEIT, Taylor Swift sei nötig, aber mittelmäßig. Ein Widerspruch: Taylor ist die Größte!",
       "url": "https://www.zeit.de/2023/54/taylor-swift-popmusik-erfolg-frauen",
-      "image_url": "https://img.zeit.de/2023/54/taylor-swift-popmusik-erfolg-frauen-teaserbild/cinema__980x420",
+      "image_url": "https://img.zeit.de/2023/54/taylor-swift-popmusik-erfolg-frauen-teaserbild/wide__822x462",
       "image_title": "Taylor Swift: Ist sie zu angepasst, zu kommerziell? Vielleicht. Aber egal."
-    },
-    {
-      "title": "Musiker: Sänger und Moderator Gunther Emmerlich ist tot",
-      "teaser": "Vor einigen Tagen trat er noch bei einem Weihnachtskonzert auf, jetzt ist Gunther Emmerlich überraschend an Herzversagen gestorben. Der Entertainer wurde 79 Jahre alt.",
-      "url": "https://www.zeit.de/kultur/musik/2023-12/gunther-emmerlich-tod-saenger-musiker-entertainer",
-      "image_url": "https://img.zeit.de/kultur/2023-12/gunther-emmerlich-gestorben-bild/wide__822x462",
-      "image_title": "Musiker: Sänger und Moderator Gunther Emmerlich ist tot"
     },
     {
       "title": "Taylor Swift: Geschützt und gewärmt von der Taylor-Decke",
@@ -315,6 +315,13 @@
       "url": "https://www.zeit.de/kultur/film/2023-12/the-crown-serienfinale-ende-netflix",
       "image_url": "https://img.zeit.de/kultur/film/2023-12/the-crown-serienfinale-ende-netflix-2/square__460x460",
       "image_title": "\"The Crown\": Diese verdammte Krone"
+    },
+    {
+      "title": "Musiker: Sänger und Moderator Gunther Emmerlich ist tot",
+      "teaser": "Vor einigen Tagen trat er noch bei einem Weihnachtskonzert auf, jetzt ist Gunther Emmerlich überraschend an Herzversagen gestorben. Der Entertainer wurde 79 Jahre alt.",
+      "url": "https://www.zeit.de/kultur/musik/2023-12/gunther-emmerlich-tod-saenger-musiker-entertainer",
+      "image_url": "https://img.zeit.de/kultur/2023-12/gunther-emmerlich-gestorben-bild/wide__822x462",
+      "image_title": "Musiker: Sänger und Moderator Gunther Emmerlich ist tot"
     },
     {
       "title": "Milli Vanilli: Schminke statt Stimme",
@@ -336,13 +343,6 @@
       "url": "https://www.zeit.de/kultur/film/2023-12/wdr-intendant-tom-buhrow-ende-amtszeit-2024",
       "image_url": "https://img.zeit.de/kultur/2023-12/tom-buhrow-intendant-wdr-bild/wide__822x462",
       "image_title": "Öffentlich-rechtlicher Rundfunk: Tom Buhrow scheidet Ende 2024 vorzeitig als WDR-Intendant aus"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Masha Gessen: Wie divers darf Israelkritik sein?",
-      "teaser": "Die Böll-Stiftung hat Masha Gessen nun doch eingeladen. Gessen war stoisch, die Vertreter der Stiftungsleitung aufgeregt, das Publikum größtenteils auf Gessens Seite.",
-      "url": "https://www.zeit.de/2023/54/masha-gessen-israelkritik-heinrich-boell-stiftung-hannah-arendt-preis",
-      "image_url": "https://img.zeit.de/2023/54/masha-gessen-israelkritik-heinrich-boell-stiftung-hannah-arendt-preis-teaserbild/wide__822x462",
-      "image_title": "Masha Gessen: Wie divers darf Israelkritik sein?"
     },
     {
       "title": "Swetlana Alexijewitsch : \"Meine Welt ist verschwunden\"",
