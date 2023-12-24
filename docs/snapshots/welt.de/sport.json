@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-24T09:11:02",
+  "timestamp": "2023-12-24T10:11:16",
   "url": "https://www.welt.de/sport/",
   "response": {
     "status": 200
@@ -26,6 +26,22 @@
   ],
   "articles": [
     {
+      "title": "Trainer-Quiz – Wie gut kennst du Jürgen Klopp?",
+      "teaser": "Jürgen Klopp ist einer der erfolgreichsten Trainer der deutschen Fußball-Geschichte. Derzeit jagt er mit dem FC Liverpool seinen zweiten Meistertitel in England. Du hast seine Karriere verfolgt? Dann beweise in diesem Quiz, wie gut du Klopp kennst.",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile249015296/7447932067-ci23x11-w20/Fussball-Juergen-Klopp-FSV-Mainz-05.jpg",
+      "image_title": "Jürgen Klopp",
+      "author": "Sven Flohr"
+    },
+    {
+      "title": "„Die Gerüchte um Hoeneß sind eine Auszeichnung“",
+      "teaser": "Das Überraschungsteam der Bundesliga hat einen Trainer, der Begehrlichkeiten weckt. Sebastian Hoeneß gilt als Macher des Erfolgs beim VfB Stuttgart. Klubchef Alexander Wehrle skizziert im Interview, warum er dem Coach grundsätzliche keine Steine in den Weg legen will, wenn der weg wolle.",
+      "url": "https://www.welt.de/sport/",
+      "image_url": "https://img.welt.de/img/sport/mobile249204236/3287931037-ci23x11-w20/VfB-Stuttgart-FC-Augsburg.jpg",
+      "image_title": "VfB Stuttgart - FC Augsburg",
+      "author": "Felix Arnold"
+    },
+    {
       "title": "„Gebärmutter reißt bei Landung“ – Der harte Weg der Skispringerinnen",
       "teaser": "Schon wieder gibt es keine Vierschanzentournee für die Frauen, dafür eine Two-Nights-Tour. Dennoch: Das Skispringen der Frauen hat eine enorme Entwicklung hingelegt. Athletinnen wie Katharina Schmid treiben es voran. Dabei ist es nicht lange her, dass ein hoher Funktionär Unglaubliches von sich gab.",
       "url": "https://www.welt.de/sport/wintersport/",
@@ -46,22 +62,6 @@
       "url": "https://www.welt.de/sport/",
       "image_url": "https://img.welt.de/img/bildergalerien/mobile249218812/5717938257-ci23x11-w20/Shkodran-Mustafi.jpg",
       "image_title": "Shkodran Mustafi"
-    },
-    {
-      "title": "„Ein anderer Fußball ist möglich“",
-      "teaser": "So erfolgreich wie im ablaufenden Jahr war der FC St. Pauli noch nie. Und trotzdem soll sich einiges ändern, sagt Vereinspräsident Oke Göttlich, der ohnehin mit seinem besonderen Verein einen ständigen Balanceakt absolvieren muss.",
-      "url": "https://www.welt.de/regionales/hamburg/",
-      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile249201374/3297930087-ci23x11-w20/Oke-Goettlich-FCStPauliPraesident-11.jpg",
-      "image_title": "Oke Göttlich, Präsident des FC St. Pauli vor dem Spiel gegen den SV Wehen Wiesbaden im Millerntorstadium.",
-      "author": "Martin Sonnleitner"
-    },
-    {
-      "title": "„Das sind die Symptome, bei denen ich sage – definitiv keinen Sport!“",
-      "teaser": "Wer Grippe hat, gehört ins Bett. Aber bei Erkältungen möchten viele nicht auf ihr Sportprogramm verzichten. Es gibt eindeutige Grenzen, aber auch Möglichkeiten. Kardiologe und Sportmediziner Prof. Dr. Martin Halle plädiert für eine differenzierte Betrachtungsweise und weist auf das große Risiko hin.",
-      "url": "https://www.welt.de/sport/fitness/plus249114040/Erkaeltung-und-Sport-Das-sind-die-Symptome-bei-denen-ich-sage-definitiv-keinen-Sport.html",
-      "image_url": "https://img.welt.de/img/sport/fitness/mobile249201296/7177931557-ci23x11-w20/Woman-jogging-in-winter.jpg",
-      "image_title": "Sport bei Erkältung oder grippalem Infekt? „Es ist leider so, dass auch die Empfehlungen nicht differenzieren“, sagt Prof. Dr. Martin Halle",
-      "author": "Melanie Haack"
     },
     {
       "title": "„Herr Lehmann tut sich mit gesamter Situation schwer. Und dem muss man Rechnung tragen“",
@@ -278,6 +278,22 @@
       "image_title": "Michael Schumacher und Willi Weber am Rande einer Formel-1-Strecke"
     },
     {
+      "title": "„Ein anderer Fußball ist möglich“",
+      "teaser": "So erfolgreich wie im ablaufenden Jahr war der FC St. Pauli noch nie. Und trotzdem soll sich einiges ändern, sagt Vereinspräsident Oke Göttlich, der ohnehin mit seinem besonderen Verein einen ständigen Balanceakt absolvieren muss.",
+      "url": "https://www.welt.de/regionales/hamburg/",
+      "image_url": "https://img.welt.de/img/regionales/hamburg/mobile249201374/3297930087-ci23x11-w20/Oke-Goettlich-FCStPauliPraesident-11.jpg",
+      "image_title": "Oke Göttlich, Präsident des FC St. Pauli vor dem Spiel gegen den SV Wehen Wiesbaden im Millerntorstadium.",
+      "author": "Martin Sonnleitner"
+    },
+    {
+      "title": "„Das sind die Symptome, bei denen ich sage – definitiv keinen Sport!“",
+      "teaser": "Wer Grippe hat, gehört ins Bett. Aber bei Erkältungen möchten viele nicht auf ihr Sportprogramm verzichten. Es gibt eindeutige Grenzen, aber auch Möglichkeiten. Kardiologe und Sportmediziner Prof. Dr. Martin Halle plädiert für eine differenzierte Betrachtungsweise und weist auf das große Risiko hin.",
+      "url": "https://www.welt.de/sport/fitness/plus249114040/Erkaeltung-und-Sport-Das-sind-die-Symptome-bei-denen-ich-sage-definitiv-keinen-Sport.html",
+      "image_url": "https://img.welt.de/img/sport/fitness/mobile249201296/7177931557-ci23x11-w20/Woman-jogging-in-winter.jpg",
+      "image_title": "Sport bei Erkältung oder grippalem Infekt? „Es ist leider so, dass auch die Empfehlungen nicht differenzieren“, sagt Prof. Dr. Martin Halle",
+      "author": "Melanie Haack"
+    },
+    {
       "title": "Die Fortsetzung der deutschen Festspiele im Ally Pally",
       "teaser": "Ricardo Pietreczko ist bei seinem Debüt weiter stark unterwegs. Auch gegen Callan Rydz blieb er bei der Darts-WM in einem spannenden Schlagabtausch eiskalt. Ein deutsches Quartett wird damit nach Weihnachten erneut in London antreten – und auf Pietreczko wartet der Topfavorit.",
       "url": "https://www.welt.de/sport/darts/",
@@ -452,14 +468,6 @@
       "author": "Melanie Haack"
     },
     {
-      "title": "Das 16-jährige Supertalent und sein WM-Debüt für die Geschichtsbücher",
-      "teaser": "Seit vielen Jahren wird Luke Littler in Großbritannien eine große Zukunft prophezeit. Nun betrat der 16-Jährige bei der Darts-WM erstmals die große Bühne und übertraf die Erwartungen deutlich. Die „Atombombe“ zündete, und die PDC bekommt einen neuen Superstar.",
-      "url": "https://www.welt.de/sport/",
-      "image_url": "https://img.welt.de/img/sport/mobile249168558/5547933247-ci23x11-w20/2023-24-Paddy-Power-World-Darts-Championship-Day-Six.jpg",
-      "image_title": "Die Atombombe gezündet: Luke Littler lieferte ein sagenhaftes WM-Debüt",
-      "author": "Lutz Wöckener"
-    },
-    {
       "title": "„Es ist erschreckend, wie sich Übersäuerung auswirkt. Ich sehe das jeden Tag“",
       "teaser": "Hans-Wilhelm Müller Wohlfahrt zählt zu den berühmtesten Ärzten Europas. Der Sportmediziner erklärt im WELT-Interview, wie wir gesünder altern und gibt besondere Tipps für Gesundheit und Ernährung im Alltag. Vor allem ein Faktor werde in Deutschland unterschätzt.",
       "url": "https://www.welt.de/sport/fitness/plus249033690/Dr-Mueller-Wohlfahrt-Es-ist-erschreckend-wie-sich-Uebersaeuerung-auswirkt-Ich-sehe-es-jeden-Tag.html",
@@ -497,14 +505,6 @@
       "image_url": "https://img.welt.de/img/sport/fitness/mobile248829240/3277934717-ci23x11-w20/GettyImages-1496144901.jpg",
       "image_title": "„Es dauert zwischen acht bis zwölf Wochen, bis postnatales Yoga praktiziert werden sollte“, sagt die Autorin",
       "author": "Sarah Stork"
-    },
-    {
-      "title": "Die aufgepumpte Jugend",
-      "teaser": "Einseitiges Training, immer vollere Arztpraxen: Die mediale Inszenierung vermeintlich schnell erreichbarer Traumkörper kann bei Jugendlichen zu Muskelsucht führen. Hier gibt ein Experte Auskunft über Warnsignale und Gegenstrategien.",
-      "url": "https://www.welt.de/sport/fitness/plus248647548/Zu-viele-Muskeln-Wie-unsere-Jugend-gefaehrlichen-Koerperidealen-nacheifert.html",
-      "image_url": "https://img.welt.de/img/sport/fitness/mobile248736842/7407935617-ci23x11-w20/teenager-Showing-his-Muscles-at-the-mirror.jpg",
-      "image_title": "teenager , Showing his Muscles at the mirror",
-      "author": "Jens Bierschwale"
     },
     {
       "title": "Das Fitness-Geheimnis des 72-Jährigen",
@@ -601,6 +601,18 @@
       "image_url": "https://img.welt.de/img/sport/mobile249135928/2227934407-ci16x9-w20/Thomas-Mueller.jpg",
       "image_title": "Thomas Müller beim 3:0 der Bayern gegen den VFB Stuttgart am vergangenen Wochenende",
       "author": "39 Sek"
+    },
+    {
+      "title": "Trainer-Quiz – Wie gut kennst du Jürgen Klopp?",
+      "url": "https://www.welt.de/sport/article249012838/Fussball-Trainer-Quiz-Wie-gut-kennst-du-Juergen-Klopp.html"
+    },
+    {
+      "title": "„Die Gerüchte um Hoeneß sind eine Auszeichnung“",
+      "url": "https://www.welt.de/sport/article249175500/VfB-Stuttgart-Boss-Wehrle-Geruechte-um-Hoeness-sind-eine-Auszeichnung.html"
+    },
+    {
+      "title": "Wellinger zu Tourneesieg: Wollen es wie jeder Zuschauer",
+      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article249219914/Wellinger-zu-Tourneesieg-Wollen-es-wie-jeder-Zuschauer.html"
     },
     {
       "title": "VfB-Chef Wehrle: Keine Anzeichen für Abgang von Guirassy",
@@ -709,18 +721,6 @@
     {
       "title": "Der erschütterte Fußball",
       "url": "https://www.welt.de/sport/fussball/plus249207382/Super-League-und-FC-Barcelona-Der-erschuetterte-Fussball.html"
-    },
-    {
-      "title": "«Leck mich en de Täsch»: Hempel nach Comeback überwältigt",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article249211200/Leck-mich-en-de-Taesch-Hempel-nach-Comeback-ueberwaeltigt.html"
-    },
-    {
-      "title": "Gensheimer über EM: Gehören nicht zum Favoritenkreis",
-      "url": "https://www.welt.de/newsticker/dpa_nt/infoline_nt/sport_nt/article249211202/Gensheimer-ueber-EM-Gehoeren-nicht-zum-Favoritenkreis.html"
-    },
-    {
-      "title": "„Das ist ein neues Level“ – Schindler macht die deutsche Rekordbilanz perfekt",
-      "url": "https://www.welt.de/sport/article249210260/Darts-WM-Martin-Schindler-macht-die-deutsche-Rekordbilanz-perfekt.html"
     }
   ]
 }
