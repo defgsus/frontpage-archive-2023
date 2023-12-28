@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-28T18:14:27",
+  "timestamp": "2023-12-28T19:09:04",
   "url": "https://www.zeit.de/kultur/index",
   "response": {
     "status": 200
@@ -38,10 +38,23 @@
   ],
   "articles": [
     {
+      "title": "Z+ (abopflichtiger Inhalt); Sex in Filmen und Serien: Die Sexszene erfindet sich neu",
+      "teaser": "Eine Studie hat herausgefunden, dass junges Film- und Serienpublikum wenig Wert auf intime Szenen legt. Von der Leinwand wird Sex dennoch nicht so schnell verschwinden.",
+      "url": "https://www.zeit.de/kultur/film/2023-12/sexszenen-filme-serien-gen-z-kritik",
+      "image_url": "https://img.zeit.de/kultur/2023-12/serien-filme-sexszenen-generation-z-bild/cinema__980x420"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Joan Baez: \"Ich habe keine Lust mehr zu singen\"",
       "teaser": "Der Folk und die Familie, die Bürgerrechtsbewegung und die Beziehung zu Bob Dylan: Joan Baez blickt zurück auf ihr Leben und erklärt, wie man sich von allem befreit.",
       "url": "https://www.zeit.de/kultur/musik/2023-12/joan-baez-musik-dokumentation-karriere",
-      "image_url": "https://img.zeit.de/kultur/musik/2023-12/baez-1/cinema__980x420"
+      "image_url": "https://img.zeit.de/kultur/musik/2023-12/baez-1/wide__822x462",
+      "image_title": "Joan Baez: \"Ich habe keine Lust mehr zu singen\""
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
+      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
+      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
+      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
     },
     {
       "title": "Buchmarkt: Großhändler will kleinere Buchhandlungen seltener beliefern",
@@ -51,24 +64,11 @@
       "image_title": "Buchmarkt: Großhändler will kleinere Buchhandlungen seltener beliefern"
     },
     {
-      "title": "Z+ (abopflichtiger Inhalt); ZEIT-Bibliothek der Weltliteratur: Welches Buch passt zu Ihnen?",
-      "teaser": "Die Weltliteratur ist groß. Da kann man sich schon einmal verlieren! Welches Buch sollten Sie lesen? Der Buch-O-Mat weiß die Antwort.",
-      "url": "https://www.zeit.de/kultur/literatur/2023-11/buchempfehlungen-zeit-bibliothek-100-buecher-lesen-quiz",
-      "image_url": "https://img.zeit.de/kultur/literatur/2023-11/buchempfehlungen-2023-lesen/cinema__980x420"
-    },
-    {
       "title": "Europas Selbstbild: Unser eitler Sündenstolz",
       "teaser": "Ob im Gazastreifen oder in Nigeria: An andere legt Europa oft viel weniger strenge Maßstäbe an als an sich selbst. Das ist auch eine Form des Paternalismus.",
       "url": "https://www.zeit.de/kultur/2023-12/europa-selbstbild-image-gaza-nigeria",
       "image_url": "https://img.zeit.de/kultur/2023-12/europa-selbstbild-image-gaza/wide__822x462",
       "image_title": "Europas Selbstbild: Unser eitler Sündenstolz"
-    },
-    {
-      "title": "ARD-Krimi: \"Tatort\"-Krimis verlieren 2023 erneut an Zuschauern",
-      "teaser": "Die nach wie vor beliebteste Krimiserie im deutschen Fernsehen verliert Fernsehzuschauer: Im Schnitt 400.000 weniger Menschen als im Vorjahr schauten 2023 den \"Tatort\".",
-      "url": "https://www.zeit.de/kultur/film/2023-12/tatort-krimi-ard-2023-zuschauerzahlen",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/tatort-krimi-ard-2023-zuschauerzahlen-bild/wide__822x462",
-      "image_title": "ARD-Krimi: \"Tatort\"-Krimis verlieren 2023 erneut an Zuschauern"
     },
     {
       "title": "Debattenkultur in Deutschland: Was macht das mit uns?",
@@ -163,6 +163,13 @@
       "url": "https://www.zeit.de/kultur/2023-12/weihnachten-integration-migration-christentum-10nach8"
     },
     {
+      "title": "ARD-Krimi: \"Tatort\"-Krimis verlieren 2023 erneut an Zuschauern",
+      "teaser": "Die nach wie vor beliebteste Krimiserie im deutschen Fernsehen verliert Fernsehzuschauer: Im Schnitt 400.000 weniger Menschen als im Vorjahr schauten 2023 den \"Tatort\".",
+      "url": "https://www.zeit.de/kultur/film/2023-12/tatort-krimi-ard-2023-zuschauerzahlen",
+      "image_url": "https://img.zeit.de/kultur/film/2023-12/tatort-krimi-ard-2023-zuschauerzahlen-bild/wide__822x462",
+      "image_title": "ARD-Krimi: \"Tatort\"-Krimis verlieren 2023 erneut an Zuschauern"
+    },
+    {
       "title": "Koreanischer Schauspieler: \"Parasite\"-Star Lee Sun Kyun tot aufgefunden",
       "teaser": "Der Leichnam von Lee Sun Kyun ist in seinem Auto in Seoul gefunden worden. Der südkoreanische Schauspieler hinterließ eine Abschiedsnotiz.",
       "url": "https://www.zeit.de/kultur/film/2023-12/lee-sun-kyun-tot-gefunden-schauspieler-parasite-suedkorea",
@@ -198,13 +205,6 @@
       "image_title": "\"Duineser Elegien\": Ein Sekundenglück, zum Heulen schön"
     },
     {
-      "title": "\"Dornröschen\" in Berlin: Das Fleischkloßhafte des Menschen hinter sich lassen",
-      "teaser": "So viel Samt, Seide und Zuckerguss, so viel Plüsch, Gold und Märchenseligkeit: ein sensationeller Abend mit \"Dornröschen\" an der Deutschen Oper Berlin",
-      "url": "https://www.zeit.de/2023/54/dornroeschen-berlin-tschaikowsky-staatsoper-staatsballett",
-      "image_url": "https://img.zeit.de/2023/54/dornroeschen-berlin-tschaikowsky-staatsoper-staatsballett-teaserbild/wide__822x462",
-      "image_title": "\"Dornröschen\" in Berlin: Das Fleischkloßhafte des Menschen hinter sich lassen"
-    },
-    {
       "title": "Z+ (abopflichtiger Inhalt); Filme 2023 : Die besten Filme des Jahres – und die schlechtesten",
       "teaser": "Ein Esel starb, ein Physiker rauchte, und eine Stardirigentin strauchelte in den besten Filmen des Jahres. \"Napoleon\" konnte man vergessen – denn der Rest war \"Barbie\".",
       "url": "https://www.zeit.de/kultur/film/2023-12/filme-2023-jahresrueckblick-barbie-oppenheimer",
@@ -219,6 +219,13 @@
       "image_title": "Alben 2023: Die zehn besten Alben des Jahres – und die schlechtesten"
     },
     {
+      "title": "\"Dornröschen\" in Berlin: Das Fleischkloßhafte des Menschen hinter sich lassen",
+      "teaser": "So viel Samt, Seide und Zuckerguss, so viel Plüsch, Gold und Märchenseligkeit: ein sensationeller Abend mit \"Dornröschen\" an der Deutschen Oper Berlin",
+      "url": "https://www.zeit.de/2023/54/dornroeschen-berlin-tschaikowsky-staatsoper-staatsballett",
+      "image_url": "https://img.zeit.de/2023/54/dornroeschen-berlin-tschaikowsky-staatsoper-staatsballett-teaserbild/wide__822x462",
+      "image_title": "\"Dornröschen\" in Berlin: Das Fleischkloßhafte des Menschen hinter sich lassen"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Kai Niebert: \"Wir werden immer mehr Naturschützer, die Arten aber immer weniger\"",
       "teaser": "Umweltpolitik scheitert oft auch an der Romantisierung von Wildnis, sagt der Nachhaltigkeitsexperte Kai Niebert. Zudem wünscht er sich mehr Witze über Naturschützer.",
       "url": "https://www.zeit.de/kultur/2023-12/kai-niebert-umweltschutz-nachhaltigkeit-artenvielfalt",
@@ -229,14 +236,14 @@
       "title": "Z+ (abopflichtiger Inhalt); \"Mensch sein\": Endzeitpornografie",
       "teaser": "Heimatlos in der modernen Welt: Für den Biologen Carel van Schaik und den Historiker Kai Michel kann die Evolution erklären, warum wir so unglücklich sind.",
       "url": "https://www.zeit.de/2023/54/mensch-sein-carel-van-schaik-kai-michel-buch",
-      "image_url": "https://img.zeit.de/2023/54/mensch-sein-carel-van-schaik-kai-michel-buch-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/54/mensch-sein-carel-van-schaik-kai-michel-buch-teaserbild/cinema__980x420",
       "image_title": "\"Mensch sein\": Endzeitpornografie"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Eberhoferkrimis: Leberkäs ist ihr Gemüse",
       "teaser": "Kruzifix, warum sind diese Eberhoferkrimis eigentlich so erfolgreich? Unser Autor hat acht Stunden dauergeschaut – auf der Suche nach dem Reiz der Bavaria noir.",
       "url": "https://www.zeit.de/kultur/film/2023-12/eberhofer-krimis-film-bayern-erfolg",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/eberhofer-krimis-film-bayern-erfolg-teaser/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/film/2023-12/eberhofer-krimis-film-bayern-erfolg-teaser/wide__822x462",
       "image_title": "Eberhoferkrimis: Leberkäs ist ihr Gemüse"
     },
     {
@@ -250,15 +257,8 @@
       "title": "Millennial-Nostalgie: Nie wieder wird es so aufreibend sein, eine Band zu lieben",
       "teaser": "Eine Doku der Band Echt wird zum Schlüsselmoment der Millennial-Nostalgie. Die Sehnsucht gilt Teenagertagen, als jeder popkulturelle Fehltritt ein Schritt nach vorn war.",
       "url": "https://www.zeit.de/kultur/2023-12/nostalgie-doku-echt-viva-take-that-nsync",
-      "image_url": "https://img.zeit.de/kultur/2023-12/echt-1/wide__822x462",
+      "image_url": "https://img.zeit.de/kultur/2023-12/echt-1/cinema__980x420",
       "image_title": "Millennial-Nostalgie: Nie wieder wird es so aufreibend sein, eine Band zu lieben"
-    },
-    {
-      "title": "Z+ (registrierungspflichtiger Inhalt); Kinder und Dunkelheit: Dunkel war's",
-      "teaser": "Wird die Welt eine andere, wenn das Licht verschwindet? Eine Kurzgeschichte über die Düsternis und wie wir durch sie lernen können, das Helle zu schätzen.",
-      "url": "https://www.zeit.de/2023/52/kinder-dunkelheit-angst-fantasie-eltern",
-      "image_url": "https://img.zeit.de/2023/52/dunkel-war-s-bild-1/cinema__980x420",
-      "image_title": "Kinder und Dunkelheit: Dunkel war's"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Hape Kerkeling : \"Leider schwappt diese braune Brühe ungefiltert in unser System\"",
@@ -275,6 +275,13 @@
       "image_title": "Buchempfehlungen: Verschenken Sie diese Bücher!"
     },
     {
+      "title": "Z+ (registrierungspflichtiger Inhalt); Kinder und Dunkelheit: Dunkel war's",
+      "teaser": "Wird die Welt eine andere, wenn das Licht verschwindet? Eine Kurzgeschichte über die Düsternis und wie wir durch sie lernen können, das Helle zu schätzen.",
+      "url": "https://www.zeit.de/2023/52/kinder-dunkelheit-angst-fantasie-eltern",
+      "image_url": "https://img.zeit.de/2023/52/dunkel-war-s-bild-1/wide__822x462",
+      "image_title": "Kinder und Dunkelheit: Dunkel war's"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Bücher über den Osten: Wie gut kennen Sie aktuelle ostdeutsche Literatur?",
       "teaser": "In diesem Jahr lösten Bücher über den Osten heftige Kontroversen aus. Haben Sie den Überblick behalten? Mit diesem Quiz bringen Sie sich auf den Stand der Dinge.",
       "url": "https://www.zeit.de/2023/54/buecher-osten-literatur-raetsel-quiz",
@@ -285,22 +292,15 @@
       "title": "Z+ (abopflichtiger Inhalt); Rollenbild der Frau: Das Leiden der Marias",
       "teaser": "Bald ist Weihnachten, und die moderne Frau fühlt sich alleingelassen: vom Kindsvater, von den Nachbarn und so ziemlich allen. Eine Suada",
       "url": "https://www.zeit.de/2023/54/rollenbild-frau-patriarchat-care-arbeit",
-      "image_url": "https://img.zeit.de/2023/54/rollenbild-frau-patriarchat-care-arbeit-teaserbild/wide__822x462",
+      "image_url": "https://img.zeit.de/2023/54/rollenbild-frau-patriarchat-care-arbeit-teaserbild/cinema__980x420",
       "image_title": "Rollenbild der Frau: Das Leiden der Marias"
     },
     {
       "title": "Street-Art: Verdächtiger nach Diebstahl von Banksy-Werk festgenommen",
       "teaser": "Zwei Unbekannte hatten am Freitag im Süden von London ein Stoppschild mit einem Kunstwerk des Street-Art-Künstlers mitgenommen. Es soll bis zu 500.000 Pfund wert sein.",
       "url": "https://www.zeit.de/kultur/kunst/2023-12/banksy-stoppschild-festnahme",
-      "image_url": "https://img.zeit.de/kultur/kunst/2023-12/banksy-stoppschild/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/kunst/2023-12/banksy-stoppschild/wide__822x462",
       "image_title": "Street-Art: Verdächtiger nach Diebstahl von Banksy-Werk festgenommen"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Therapie beenden: Ciao, bye-bye, \"finito\"",
-      "teaser": "Wer seinen Therapeuten verlassen will, kann sich auf Gwyneth Paltrow verlassen. Auch in Trennungsfragen macht die Weltklasseverkäuferin das beste Angebot.",
-      "url": "https://www.zeit.de/2023/54/therapie-beenden-trennung-mein-leben-als-frau",
-      "image_url": "https://img.zeit.de/2023/54/therapie-beenden-trennung-mein-leben-als-frau-teaserbild/wide__822x462",
-      "image_title": "Therapie beenden: Ciao, bye-bye, \"finito\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Saltburn\": Eat the rich, aber sexy gemeint",
@@ -315,6 +315,13 @@
       "url": "https://www.zeit.de/kultur/musik/2023-12/the-rolling-stones-the-beatles-pop-musik-retro",
       "image_url": "https://img.zeit.de/kultur/musik/2023-12/beatles-rolling-stones-2023-bands-welt/square__460x460",
       "image_title": "Rolling Stones und Beatles: Forever alt"
+    },
+    {
+      "title": "Z+ (abopflichtiger Inhalt); Therapie beenden: Ciao, bye-bye, \"finito\"",
+      "teaser": "Wer seinen Therapeuten verlassen will, kann sich auf Gwyneth Paltrow verlassen. Auch in Trennungsfragen macht die Weltklasseverkäuferin das beste Angebot.",
+      "url": "https://www.zeit.de/2023/54/therapie-beenden-trennung-mein-leben-als-frau",
+      "image_url": "https://img.zeit.de/2023/54/therapie-beenden-trennung-mein-leben-als-frau-teaserbild/wide__822x462",
+      "image_title": "Therapie beenden: Ciao, bye-bye, \"finito\""
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); \"Weihnachten in Prag\" von Jaroslav Rudiš: Jedes Bier ist ein leuchtendes Gedicht",
@@ -336,13 +343,6 @@
       "url": "https://www.zeit.de/kultur/2023-12/love-actually-sexismus-kritik-weihnachtsfilm",
       "image_url": "https://img.zeit.de/kultur/2023-12/wochenende-wochenende-pflichtverteidigung-love-actually-neu/wide__822x462",
       "image_title": "\"Tatsächlich … Liebe\": Wir wollen doch nur ein bisschen weinen!"
-    },
-    {
-      "title": "Z+ (abopflichtiger Inhalt); Ingrid Steeger: Anständig unanständig",
-      "teaser": "Im Fernsehen war sie oft ausgezogen, aber niemals nackt. Ingrid Steeger hat eine Kunstfigur entwickelt, die viel über Kultur und Gesellschaft der BRD verriet. Ein Nachruf",
-      "url": "https://www.zeit.de/kultur/film/2023-12/ingrid-steeger-schauspielerin-nachruf",
-      "image_url": "https://img.zeit.de/kultur/2023-12/ingrid-steeger-tod/wide__822x462",
-      "image_title": "Ingrid Steeger: Anständig unanständig"
     },
     {
       "title": "Weihnachten und Integration: \"Nächstes Jahr werde ich ihnen sagen, dass es kein Christkind gibt\"",
@@ -422,10 +422,17 @@
       "image_title": "Jon Fosse: Lassen wir uns erleuchten!"
     },
     {
+      "title": "Z+ (abopflichtiger Inhalt); Ingrid Steeger: Anständig unanständig",
+      "teaser": "Im Fernsehen war sie oft ausgezogen, aber niemals nackt. Ingrid Steeger hat eine Kunstfigur entwickelt, die viel über Kultur und Gesellschaft der BRD verriet. Ein Nachruf",
+      "url": "https://www.zeit.de/kultur/film/2023-12/ingrid-steeger-schauspielerin-nachruf",
+      "image_url": "https://img.zeit.de/kultur/2023-12/ingrid-steeger-tod/cinema__980x420",
+      "image_title": "Ingrid Steeger: Anständig unanständig"
+    },
+    {
       "title": "Z+ (abopflichtiger Inhalt); Jan Böhmermann: Mitglieder des ZDF-Fernsehrats wollen neue Abstimmung zu Böhmermann",
       "teaser": "In einer offenbar chaotischen Sitzung hat der ZDF-Fernsehrat beschlossen, eine Folge \"ZDF Magazin Royale\" zurückzuziehen. Jetzt wird Kritik aus den eigenen Reihen laut.",
       "url": "https://www.zeit.de/kultur/2023-12/boehmermann-fernsehrat-satanismus-magazin-royale",
-      "image_url": "https://img.zeit.de/kultur/2023-12/boehmermann-zdf-fernsehrat/cinema__980x420",
+      "image_url": "https://img.zeit.de/kultur/2023-12/boehmermann-zdf-fernsehrat/wide__822x462",
       "image_title": "Jan Böhmermann: Mitglieder des ZDF-Fernsehrats wollen neue Abstimmung zu Böhmermann"
     },
     {
@@ -441,13 +448,6 @@
       "url": "https://www.zeit.de/2023/54/das-fest-der-liebe-jan-georg-schuette-serie-ard",
       "image_url": "https://img.zeit.de/2023/54/der-entfesselungskuenstler-bild-1/wide__822x462",
       "image_title": "\"Das Fest der Liebe\": Dieser Mann ist vermutlich unser witzigster Soziologe"
-    },
-    {
-      "title": "Oscars: \"Das Lehrerzimmer\" und Wim Wenders in Oscarvorrunde",
-      "teaser": "Mit \"Das Lehrerzimmer\" hat es ein deutscher Film in die Vorauswahl der internationalen Oscars geschafft. Wim Wenders tritt mit \"Perfect Days\" für Japan an.",
-      "url": "https://www.zeit.de/kultur/film/2023-12/oscars-vorauswahl-das-lehrerzimmer-perfect-days-wim-wenders",
-      "image_url": "https://img.zeit.de/kultur/film/2023-12/oscars-vorauswahl-das-lehrerzimmer-perfect-days-wim-wenders-bild/wide__822x462",
-      "image_title": "Oscars: \"Das Lehrerzimmer\" und Wim Wenders in Oscarvorrunde"
     },
     {
       "title": "Z+ (abopflichtiger Inhalt); Sophie Lindinger: \"Ich habe lieber meine Ruhe\"",
