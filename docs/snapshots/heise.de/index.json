@@ -1,5 +1,5 @@
 {
-  "timestamp": "2023-12-31T08:13:23",
+  "timestamp": "2023-12-31T09:10:27",
   "url": "https://www.heise.de/",
   "response": {
     "status": 200
@@ -31,6 +31,11 @@
     }
   ],
   "articles": [
+    {
+      "title": "Missing LinkWenn Einsteins kosmologische Konstante nicht konstant ist",
+      "teaser": "Angeblich wachsen große Strukturen im Universum zu langsam für Einsteins Gravitationsgesetz. Eine detaillierte Analyse erklärt, worum es dabei geht.",
+      "url": "https://www.heise.de/hintergrund/Missing-Link-Wenn-Einsteins-kosmologische-Konstante-nicht-konstant-ist-9581142.html"
+    },
     {
       "title": "37C3Kopierschutz AACS 2 für Ultra HD Blu-rays ist geknackt",
       "teaser": "Forscher haben Angriff auf das aktuelle Blu-ray-DRM erlangt. Damit lassen sich Schlüssel extrahieren und UHD-BD-Filme beliebig abspielen.",
@@ -147,11 +152,6 @@
       "image_title": "Verschiedene Macs von Apple​"
     },
     {
-      "title": "Missing Link: Wenn Einsteins kosmologische Konstante nicht konstant ist",
-      "teaser": "Angeblich wachsen große Strukturen im Universum zu langsam für Einsteins Gravitationsgesetz. Eine detaillierte Analyse erklärt, worum es dabei geht.",
-      "url": "https://www.heise.de/hintergrund/Missing-Link-Wenn-Einsteins-kosmologische-Konstante-nicht-konstant-ist-9581142.html"
-    },
-    {
       "title": "Quereinstieg in die IT: Vom Hobbyprogrammierer zum Softwareentwickler",
       "teaser": "Die IT-Branche lockt mit hohen Gehältern und Homeoffice – Vorteile, die auch für Quereinsteiger attraktiv sind. Wir zeigen, was es für einen Wechsel braucht.",
       "url": "https://www.heise.de/ratgeber/Quereinstieg-in-die-IT-Vom-Hobbyprogrammierer-zum-Softwareentwickler-9304993.html"
@@ -190,6 +190,12 @@
       "url": "https://www.heise.de/news/Datensammelei-trotz-Inkognito-Modus-Google-will-in-den-USA-Vergleich-schliessen-9584181.html"
     },
     {
+      "title": "Bastel-Projekt: Analoge IKEA-Uhr LEDifizieren und fernsteuern",
+      "teaser": "Als hätte IKEA seine PUGG-Wanduhr dafür konstruiert, lässt sie sich ideal mit einem LED-Streifen nachrüsten und von einem PICAXE-Mikrocontroller steuern.",
+      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Analoge-IKEA-Uhr-LEDifizieren-und-fernsteuern-9533477.html",
+      "image_title": ","
+    },
+    {
       "title": "ChatGPTWas die neuen GPTs können und wie Sie eigene KI-Bots bauen",
       "teaser": "Die kleinen Helfer mixen Drinks, erklären Mathe und malen Sticker. Auch eigene Bots lassen sich einfach bauen.",
       "url": "https://www.heise.de/ratgeber/ChatGPT-Was-die-neuen-GPTs-koennen-und-wie-Sie-eigene-KI-Bots-bauen-9530670.html"
@@ -210,12 +216,6 @@
       "title": "Der heise Adventskalender",
       "teaser": "Jetzt alle heise+ Beiträge inklusive unserer Magazin-Inhalte für 30 Tage gratis testen und anschließend im Jahresabo 36 Euro sparen. Bereits Magazin-Abonnent? Dann lesen Sie sogar noch günstiger!",
       "url": "https://www.heise.de/api/accountservice/subscribe/plus?affiliateId=32501_HP000042_20928_3_57&wt_mc=intern.abo.plus.hp_2022_jahr-nk.ho-advt.ad1.ad1"
-    },
-    {
-      "title": "Bastel-Projekt: Analoge IKEA-Uhr LEDifizieren und fernsteuern",
-      "teaser": "Als hätte IKEA seine PUGG-Wanduhr dafür konstruiert, lässt sie sich ideal mit einem LED-Streifen nachrüsten und von einem PICAXE-Mikrocontroller steuern.",
-      "url": "https://www.heise.de/ratgeber/Bastel-Projekt-Analoge-IKEA-Uhr-LEDifizieren-und-fernsteuern-9533477.html",
-      "image_title": ","
     },
     {
       "title": "5G-Netze in Deutschland erreichen fast die komplette Bevölkerung",
@@ -281,15 +281,15 @@
       "image_title": ","
     },
     {
-      "title": "Kubernetes in Multi-Cloud-Umgebungen managen",
-      "teaser": "Der Einsatz von Kubernetes ermöglicht hohe Flexibilität in Cloud-Szenarien. Doch sie können die IT-Sicherheit vor gewaltige Herausforderungen stellen. Wie Sie diese bewältigen, erklärt ein Webcast anhand von Best Practices und zwei Live-Demos.",
-      "url": "https://business-services.heise.de/it-management/infrastruktur-management/beitrag/so-managen-sie-kubernetes-in-multi-cloud-umgebungen-flexibel-effizient-sicher-4627/?source=hbsad-ersatz"
-    },
-    {
       "title": "Polizei will intelligente Videoüberwachung nach Test ausbauen",
       "teaser": "Intelligente Videoüberwachung kann Schläge, Tritte oder Schubsen erkennen und die Polizei alarmieren. Ein erster Test in Hamburg soll nun ausgeweitet werden.",
       "url": "https://www.heise.de/news/Polizei-will-intelligente-Videoueberwachung-nach-Test-ausbauen-9583872.html",
       "image_title": "Warnschild: Videoüberwachung - verlassen Sie sich nicht auf davon ausgehende Sicherheit"
+    },
+    {
+      "title": "Herausforderungen für Softwareentwicklung",
+      "teaser": "Optimale Softwareentwicklungsprozesse sind wichtig für den Erfolg Ihres Unternehmens. Worauf Sie achten sollten, wo Sie mit Verbesserungen ansetzen und schnelle Ergebnisse erzielen können, erfahren Sie in der Webcast-Aufzeichnung von heise Business Services und Ionos.",
+      "url": "https://business-services.heise.de/software/entwicklungssysteme-und-tools/beitrag/softwareentwicklung-in-deutschland-status-quo-und-herausforderungen-4639/?source=hbsad_ersatz_OD"
     },
     {
       "title": "Finanzierungshilfen: IG Metall fordert Windkraft-Sofortprogramm",
@@ -339,6 +339,11 @@
       "teaser": "Im 40-kW-Elektrokrad geht Schnellladung vor Reichweite, das Design kommt von KTM-Gestalter Kiska. Ein deutsches Yadea-Händlernetz besteht schon.",
       "url": "https://www.heise.de/hintergrund/E-Motorrad-Yadea-Kemper-Schnelllader-aus-China-mit-oesterreichischem-Einschlag-9574388.html",
       "image_title": "Yadea Kemper"
+    },
+    {
+      "title": "USB-Sticks oder Speicherkarte? Wo 1 TByte Speicher nur 35 Euro kosten",
+      "teaser": "USB-Sticks und SD-Karten gibt es mit unterschiedlich viel Speicher. TechStage zeigt, welche Kapazität aktuell am günstigsten ist.",
+      "url": "https://www.techstage.de/ratgeber/usb-sticks-oder-speicherkarte-wo-1-tbyte-speicher-nur-35-euro-kosten/cjh2qlj?wt_mc=intern.red.techstage.newsticker.anrissliste.teaser.teaser"
     },
     {
       "title": "Missing Link: Kollaps der Newton-Einstein-Gravitation oder hat Einstein fertig?",
@@ -717,14 +722,9 @@
       "url": "https://www.techstage.de/bestenliste/top-10-die-besten-mini-pcs-mit-windows-11-platz-1-kostet-269-euro-mit-ryzen-5/zqwyp9f?wt_mc=intern.red.techstage.techstage_buehne.startseite.buehne.buehne"
     },
     {
-      "title": "Wenn selbst progressive Stimmen Kriegs-Propaganda verbreiten",
-      "teaser": "Ein Fall in den USA zeigt: Der Ukraine-Krieg führt zu Kontroversen über alle Lager hinweg. Verunglimpfungen führen aber nur zu Streit. Warum sind Verhandlungen mit Russland für viele ein rotes Tuch?",
-      "url": "https://www.heise.de/tp/features/Wenn-selbst-progressive-Stimmen-Kriegs-Propaganda-verbreiten-9208224.html"
-    },
-    {
-      "title": "Bud Light: Biertrinker falsch abgeholt",
-      "teaser": "Werbekampagne mit Transgender-Star geht daneben. Schäumende Entrüstung, Geschäft bricht ein. Kulturkampf-Boykott gewinnt. Fabriken schließen. Angestellte werden arbeitslos.",
-      "url": "https://www.heise.de/tp/features/Bud-Light-Biertrinker-falsch-abgeholt-9209052.html"
+      "title": "Ukraine-Krieg, Nato und Russland: Perverses Spiel mit der nuklearen Gefahr",
+      "teaser": "Die Zeichen stehen auf Eskalation. Die größte Bedrohung wird im Westen leichtfertig abgetan. Wie dramatisch die Zuspitzung ist, zeigt ein Abgleich der Debatte mit der Lage Ende 2018.",
+      "url": "https://www.heise.de/tp/features/Ukraine-Krieg-Nato-und-Russland-Perverses-Spiel-mit-der-nuklearen-Gefahr-9208766.html"
     },
     {
       "title": "Fukushima: Japan will radioaktiv kontaminiertes Wasser ins Meer leiten",
@@ -732,21 +732,25 @@
       "url": "https://www.heise.de/tp/features/Fukushima-Japan-will-radioaktiv-kontaminiertes-Wasser-ins-Meer-leiten-9208744.html"
     },
     {
-      "title": "USB-C-Ladehülle für AirPods Pro 2 nachkaufbar",
-      "teaser": "Wer AirPods Pro 2 hat und wegwill von Lightning, kann nun ein Charging Case mit USB-C erwerben. Der Preis ist gesalzen.",
-      "url": "https://www.heise.de/news/USB-C-Ladehuelle-fuer-AirPods-Pro-2-nachkaufbar-9582080.html",
-      "image_title": "AirPods-Pro-2-Ladehülle"
+      "title": "El Niño gestartet: Warum das nichts Gutes für die Welt bedeutet",
+      "teaser": "Energie und Klima – kompakt: Wichtige Wind- und Meeresströmungen ändern sich. Die Meteorologen warnen vor extremen Temperaturen, aber auch Unwettern. Warum ist das so?",
+      "url": "https://www.heise.de/tp/features/El-Nino-gestartet-Warum-das-nichts-Gutes-fuer-die-Welt-bedeutet-9207700.html"
     },
     {
-      "title": "Lexus LBX im ersten Fahrbericht​: Innen fein",
-      "teaser": "Auf Basis des Toyota Yaris Cross gibt es ab 2024 auch den Lexus LBX. Das kleine Hybrid-SUV ist fein ausgekleidet, wird es aber nicht ganz einfach haben.​",
-      "url": "https://www.heise.de/tests/Lexus-LBX-im-ersten-Fahrbericht-Innen-fein-9579790.html",
-      "image_title": "Lexus LBX"
+      "title": "UpdateJahrescharts: Steam stellt umsatzstärkste und meistgespielte Spiele vor",
+      "teaser": "Seit Jahren listet Steam auf, welche Titel das meiste Geld eingespielt haben. Neben den bekannten Blockbustern schaffen es auch andere nach oben.",
+      "url": "https://www.heise.de/news/Steam-Jahrescharts-Umsatzstaerkstes-Spiel-nur-im-Early-Access-verfuegbar-9583623.html",
+      "image_title": "\"Die besten des Jahres\" bei Steam"
     },
     {
       "title": "Neuer PC? Das müsst ihr wissen! | c't 3003",
       "teaser": "Keno braucht einen neuen PC und will sich den perfekten Computer zusammenstellen. Welche Teile er verwendet, erfahrt ihr im aktuellen c't-3003-Video.",
       "url": "https://www.heise.de/news/Neuer-PC-Das-muesst-ihr-wissen-c-t-3003-9580413.html"
+    },
+    {
+      "title": "Die PERFEKTE Emulations-Konsole: SteamDeck-Tutorial | c't 3003",
+      "teaser": "Das Steam Deck kann mehr als \"nur\" Titel aus der eigenen Steam-Bibliothek wiedergegeben. Etwa Emulation von unzähligen Konsolen. c't 3003 hat's ausprobiert.",
+      "url": "https://www.heise.de/news/Die-PERFEKTE-Emulations-Konsole-SteamDeck-Tutorial-c-t-3003-9580500.html"
     },
     {
       "title": "Der heise Adventskalender 2023",
